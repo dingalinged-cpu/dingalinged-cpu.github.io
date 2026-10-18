@@ -1,0 +1,23 @@
+Howard's Shoe and Luggage Repair is a shoe repair in Oakbrook Terrace, IL at 17W 450 Roosevelt Road, Oakbrook Terrace, IL 60181.
+
+# Howard's Shoe and Luggage Repair
+
+- Category: shoe repair
+- Services: shoe repair
+- Address: 17W 450 Roosevelt Road, Oakbrook Terrace, IL 60181
+- City: Oakbrook Terrace
+- State: IL
+- ZIP: 60181
+- Coordinates: 41.8609682, -87.9692186
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/howards-shoe-and-luggage-repair-oakbrook-terrace/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/howards-shoe-and-luggage-repair-oakbrook-terrace.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/3830119359 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

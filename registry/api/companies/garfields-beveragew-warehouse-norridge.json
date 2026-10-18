@@ -1,0 +1,54 @@
+{
+ "slug": "garfields-beveragew-warehouse-norridge",
+ "name": "Garfield's Beveragew Warehouse",
+ "categories": [
+  "liquor store"
+ ],
+ "keywords": [
+  "liquor store",
+  "liquor store norridge il"
+ ],
+ "services": [
+  {
+   "name": "liquor store",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "4601 North Harlem Avenue",
+  "addressLocality": "Norridge",
+  "addressRegion": "IL",
+  "postalCode": "60706",
+  "addressCountry": "US"
+ },
+ "city": "Norridge",
+ "state": "IL",
+ "zip": "60706",
+ "geo": {
+  "lat": 41.9638148,
+  "lon": -87.8066573
+ },
+ "schema_type": "LiquorStore",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/1303166626",
+ "osm": {
+  "type": "way",
+  "id": 1303166626,
+  "tags_used": {
+   "shop": "alcohol"
+  }
+ },
+ "municipality": "Norridge",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/garfields-beveragew-warehouse-norridge/",
+ "summary": "Garfield's Beveragew Warehouse is a liquor store in Norridge, IL at 4601 North Harlem Avenue, Norridge, IL 60706.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

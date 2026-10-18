@@ -1,0 +1,23 @@
+Lake Zurich Tire & Auto is a tire shop in Lake Zurich, IL at 526 West Main Street, Lake Zurich, IL 60047.
+
+# Lake Zurich Tire & Auto
+
+- Category: tire shop
+- Services: tire shop
+- Address: 526 West Main Street, Lake Zurich, IL 60047
+- City: Lake Zurich
+- State: IL
+- ZIP: 60047
+- Coordinates: 42.1907093, -88.1031709
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/lake-zurich-tire-and-auto-lake-zurich/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/lake-zurich-tire-and-auto-lake-zurich.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1215808017 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

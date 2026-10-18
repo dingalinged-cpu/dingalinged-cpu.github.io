@@ -1,0 +1,23 @@
+Athletico Physical Therapy is a physical therapy clinic in Chicago, IL at 7133 North Western Avenue, Chicago, IL 60645.
+
+# Athletico Physical Therapy
+
+- Category: physical therapy
+- Services: physical therapy
+- Address: 7133 North Western Avenue, Chicago, IL 60645
+- City: Chicago
+- State: IL
+- ZIP: 60645
+- Coordinates: 42.0118921, -87.689586
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/athletico-physical-therapy-chicago-n9975255397/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/athletico-physical-therapy-chicago-n9975255397.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9975255397 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

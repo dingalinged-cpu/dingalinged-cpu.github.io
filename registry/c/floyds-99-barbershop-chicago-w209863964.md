@@ -1,0 +1,23 @@
+Floyd's 99 Barbershop is a hair salon in Chicago, IL at 1409 North Milwaukee Avenue, Chicago, IL 60622.
+
+# Floyd's 99 Barbershop
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 1409 North Milwaukee Avenue, Chicago, IL 60622
+- City: Chicago
+- State: IL
+- ZIP: 60622
+- Coordinates: 41.9076213, -87.6727556
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/floyds-99-barbershop-chicago-w209863964/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/floyds-99-barbershop-chicago-w209863964.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/209863964 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

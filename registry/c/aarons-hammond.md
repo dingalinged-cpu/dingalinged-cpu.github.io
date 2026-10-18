@@ -1,0 +1,23 @@
+Aaron's is a furniture store in Hammond, IN at 1149 165th Street, Hammond, IN 46320. Website: https://locations.aarons.com/us/in/hammond/1149-165th-st.
+
+# Aaron's
+
+- Category: furniture store
+- Services: furniture store
+- Address: 1149 165th Street, Hammond, IN 46320
+- City: Hammond
+- State: IN
+- ZIP: 46320
+- Coordinates: 41.5960307, -87.5011362
+- Phone: n/a
+- Website: https://locations.aarons.com/us/in/hammond/1149-165th-st
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Th 10:00-19:00; Fr 10:00-20:00; Sa 10:00-18:00; Su closed
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/aarons-hammond/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/aarons-hammond.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1359710977 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

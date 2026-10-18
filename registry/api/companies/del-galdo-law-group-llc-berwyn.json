@@ -1,0 +1,60 @@
+{
+ "slug": "del-galdo-law-group-llc-berwyn",
+ "name": "Del Galdo Law Group, LLC",
+ "categories": [
+  "lawyer"
+ ],
+ "keywords": [
+  "lawyer",
+  "attorney",
+  "lawyer berwyn il",
+  "attorney berwyn il"
+ ],
+ "services": [
+  {
+   "name": "lawyer",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "attorney",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1441 South Harlem Avenue",
+  "addressLocality": "Berwyn",
+  "addressRegion": "IL",
+  "postalCode": "60402",
+  "addressCountry": "US"
+ },
+ "city": "Berwyn",
+ "state": "IL",
+ "zip": "60402",
+ "geo": {
+  "lat": 41.8597484,
+  "lon": -87.8038015
+ },
+ "schema_type": "LegalService",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/4203603793",
+ "osm": {
+  "type": "node",
+  "id": 4203603793,
+  "tags_used": {
+   "office": "lawyer"
+  }
+ },
+ "municipality": "Berwyn",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/del-galdo-law-group-llc-berwyn/",
+ "summary": "Del Galdo Law Group, LLC is a lawyer in Berwyn, IL at 1441 South Harlem Avenue, Berwyn, IL 60402.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

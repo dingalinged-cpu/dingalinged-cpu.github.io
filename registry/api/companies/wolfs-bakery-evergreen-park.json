@@ -1,0 +1,54 @@
+{
+ "slug": "wolfs-bakery-evergreen-park",
+ "name": "Wolf's Bakery",
+ "categories": [
+  "bakery"
+ ],
+ "keywords": [
+  "bakery",
+  "bakery evergreen park il"
+ ],
+ "services": [
+  {
+   "name": "bakery",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "3241 West 95th Street",
+  "addressLocality": "Evergreen Park",
+  "addressRegion": "IL",
+  "postalCode": "60805",
+  "addressCountry": "US"
+ },
+ "city": "Evergreen Park",
+ "state": "IL",
+ "zip": "60805",
+ "geo": {
+  "lat": 41.7204878,
+  "lon": -87.7035067
+ },
+ "schema_type": "Bakery",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/7786776301",
+ "osm": {
+  "type": "node",
+  "id": 7786776301,
+  "tags_used": {
+   "shop": "bakery"
+  }
+ },
+ "municipality": "Evergreen Park",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/wolfs-bakery-evergreen-park/",
+ "summary": "Wolf's Bakery is a bakery in Evergreen Park, IL at 3241 West 95th Street, Evergreen Park, IL 60805.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,55 @@
+{
+ "slug": "i-love-nails-des-plaines",
+ "name": "I Love Nails",
+ "categories": [
+  "nail salon"
+ ],
+ "keywords": [
+  "nail salon",
+  "nail salon des plaines il"
+ ],
+ "services": [
+  {
+   "name": "nail salon",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1946 East Touhy Avenue",
+  "addressLocality": "Des Plaines",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Des Plaines",
+ "state": "IL",
+ "geo": {
+  "lat": 42.0102739,
+  "lon": -87.8761067
+ },
+ "phone": "+12245802900",
+ "opening_hours": "Mo-Sa 10:00-19:00",
+ "schema_type": "NailSalon",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/13006533792",
+ "osm": {
+  "type": "node",
+  "id": 13006533792,
+  "tags_used": {
+   "shop": "beauty",
+   "beauty": "nails"
+  }
+ },
+ "municipality": "Des Plaines",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/i-love-nails-des-plaines/",
+ "summary": "I Love Nails is a nail salon in Des Plaines, IL at 1946 East Touhy Avenue, Des Plaines, IL. Phone: +12245802900.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

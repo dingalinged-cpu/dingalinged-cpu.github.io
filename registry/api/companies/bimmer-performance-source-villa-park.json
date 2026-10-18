@@ -1,0 +1,68 @@
+{
+ "slug": "bimmer-performance-source-villa-park",
+ "name": "Bimmer Performance Source",
+ "categories": [
+  "auto repair"
+ ],
+ "keywords": [
+  "auto repair",
+  "mechanic",
+  "transmission repair",
+  "auto repair villa park il",
+  "mechanic villa park il",
+  "transmission repair villa park il"
+ ],
+ "services": [
+  {
+   "name": "auto repair",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "mechanic",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "transmission repair",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "205 W North Avenue",
+  "addressLocality": "Villa Park",
+  "addressRegion": "IL",
+  "postalCode": "60181",
+  "addressCountry": "US"
+ },
+ "city": "Villa Park",
+ "state": "IL",
+ "zip": "60181",
+ "geo": {
+  "lat": 41.9049895,
+  "lon": -87.9840013
+ },
+ "phone": "+18472608350",
+ "opening_hours": "Mo-Fr 10:00-18:00",
+ "schema_type": "AutoRepair",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/1102721217",
+ "osm": {
+  "type": "way",
+  "id": 1102721217,
+  "tags_used": {
+   "shop": "car_repair"
+  }
+ },
+ "municipality": "Villa Park",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/bimmer-performance-source-villa-park/",
+ "summary": "Bimmer Performance Source is an auto repair shop in Villa Park, IL at 205 W North Avenue, Villa Park, IL 60181. Phone: +18472608350.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

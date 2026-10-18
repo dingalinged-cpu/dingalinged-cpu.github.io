@@ -1,0 +1,59 @@
+{
+ "slug": "express-oil-change-and-tire-engineers-westmont",
+ "name": "Express Oil Change & Tire Engineers",
+ "categories": [
+  "tire shop"
+ ],
+ "keywords": [
+  "tire shop",
+  "tire shop westmont il"
+ ],
+ "services": [
+  {
+   "name": "tire shop",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "25 West 63rd Street",
+  "addressLocality": "Westmont",
+  "addressRegion": "IL",
+  "postalCode": "60559",
+  "addressCountry": "US"
+ },
+ "city": "Westmont",
+ "state": "IL",
+ "zip": "60559",
+ "geo": {
+  "lat": 41.7732524,
+  "lon": -87.9761169
+ },
+ "phone": "+16305415540",
+ "website": "https://www.expressoil.com/stores/westmont/il/1710/",
+ "opening_hours": "Mo-Fr 08:00-18:00;Sa 08:00-17:00",
+ "brand": "Express Oil Change & Tire Engineers",
+ "wikidata": "Q39057654",
+ "schema_type": "TireShop",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/6522268846",
+ "osm": {
+  "type": "node",
+  "id": 6522268846,
+  "tags_used": {
+   "shop": "tyres"
+  }
+ },
+ "municipality": "Westmont",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/express-oil-change-and-tire-engineers-westmont/",
+ "summary": "Express Oil Change & Tire Engineers is a tire shop in Westmont, IL at 25 West 63rd Street, Westmont, IL 60559. Phone: +16305415540. Website: https://www.expressoil.com/stores/westmont/il/1710/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

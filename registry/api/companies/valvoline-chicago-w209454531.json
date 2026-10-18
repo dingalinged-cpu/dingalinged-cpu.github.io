@@ -1,0 +1,63 @@
+{
+ "slug": "valvoline-chicago-w209454531",
+ "name": "Valvoline",
+ "categories": [
+  "auto repair"
+ ],
+ "keywords": [
+  "auto repair",
+  "mechanic",
+  "auto repair chicago il",
+  "mechanic chicago il"
+ ],
+ "services": [
+  {
+   "name": "auto repair",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "mechanic",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "2501 North Western Avenue",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60647",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60647",
+ "geo": {
+  "lat": 41.9267016,
+  "lon": -87.6873293
+ },
+ "website": "https://store.vioc.com/il/chicago/oil-change-gr0011.html",
+ "brand": "Valvoline",
+ "wikidata": "Q7912852",
+ "schema_type": "AutoRepair",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/209454531",
+ "osm": {
+  "type": "way",
+  "id": 209454531,
+  "tags_used": {
+   "shop": "car_repair"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/valvoline-chicago-w209454531/",
+ "summary": "Valvoline is an auto repair shop in Chicago, IL at 2501 North Western Avenue, Chicago, IL 60647. Website: https://store.vioc.com/il/chicago/oil-change-gr0011.html.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

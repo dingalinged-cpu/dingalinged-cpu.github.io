@@ -1,0 +1,984 @@
+{
+ "place": "Elmhurst, IL",
+ "slug": "elmhurst-il",
+ "count": 29,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "attorney elmhurst il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/attorney-elmhurst-il.json"
+  },
+  {
+   "keyword": "auto repair elmhurst il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-elmhurst-il.json"
+  },
+  {
+   "keyword": "car wash elmhurst il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-elmhurst-il.json"
+  },
+  {
+   "keyword": "chiropractor elmhurst il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/chiropractor-elmhurst-il.json"
+  },
+  {
+   "keyword": "dentist elmhurst il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-elmhurst-il.json"
+  },
+  {
+   "keyword": "family doctor elmhurst il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/family-doctor-elmhurst-il.json"
+  },
+  {
+   "keyword": "financial advisor elmhurst il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/financial-advisor-elmhurst-il.json"
+  },
+  {
+   "keyword": "gift shop elmhurst il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gift-shop-elmhurst-il.json"
+  },
+  {
+   "keyword": "gym elmhurst il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-elmhurst-il.json"
+  },
+  {
+   "keyword": "hair salon elmhurst il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-elmhurst-il.json"
+  },
+  {
+   "keyword": "haircut elmhurst il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-elmhurst-il.json"
+  },
+  {
+   "keyword": "insurance agency elmhurst il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-elmhurst-il.json"
+  },
+  {
+   "keyword": "insurance agent elmhurst il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-elmhurst-il.json"
+  },
+  {
+   "keyword": "insurance agents elmhurst il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-elmhurst-il.json"
+  },
+  {
+   "keyword": "lawyer elmhurst il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/lawyer-elmhurst-il.json"
+  },
+  {
+   "keyword": "liquor store elmhurst il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/liquor-store-elmhurst-il.json"
+  },
+  {
+   "keyword": "mattress store elmhurst il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mattress-store-elmhurst-il.json"
+  },
+  {
+   "keyword": "mechanic elmhurst il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-elmhurst-il.json"
+  },
+  {
+   "keyword": "music lessons elmhurst il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/music-lessons-elmhurst-il.json"
+  },
+  {
+   "keyword": "preschool elmhurst il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/preschool-elmhurst-il.json"
+  },
+  {
+   "keyword": "primary care physician elmhurst il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/primary-care-physician-elmhurst-il.json"
+  },
+  {
+   "keyword": "printing services elmhurst il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/printing-services-elmhurst-il.json"
+  },
+  {
+   "keyword": "real estate agent elmhurst il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/real-estate-agent-elmhurst-il.json"
+  },
+  {
+   "keyword": "realtor elmhurst il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/realtor-elmhurst-il.json"
+  },
+  {
+   "keyword": "roofer elmhurst il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/roofer-elmhurst-il.json"
+  },
+  {
+   "keyword": "roofing contractor elmhurst il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/roofing-contractor-elmhurst-il.json"
+  },
+  {
+   "keyword": "tax preparation elmhurst il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tax-preparation-elmhurst-il.json"
+  },
+  {
+   "keyword": "tax preparer elmhurst il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tax-preparer-elmhurst-il.json"
+  },
+  {
+   "keyword": "vet elmhurst il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/vet-elmhurst-il.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "elm-chiropractic-elmhurst",
+   "name": "Elm Chiropractic",
+   "summary": "Elm Chiropractic is a chiropractor in Elmhurst, IL at 475 South Spring Road, Elmhurst, IL 60126. Phone: +16305304744. Website: https://elmchiro.com/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/elm-chiropractic-elmhurst/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/elm-chiropractic-elmhurst.json",
+   "address": {
+    "streetAddress": "475 South Spring Road",
+    "addressLocality": "Elmhurst",
+    "addressRegion": "IL",
+    "postalCode": "60126",
+    "addressCountry": "US"
+   },
+   "city": "Elmhurst",
+   "state": "IL",
+   "zip": "60126",
+   "geo": {
+    "lat": 41.8866174,
+    "lon": -87.9493812
+   },
+   "phone": "+16305304744",
+   "website": "https://elmchiro.com/",
+   "opening_hours": "Mo 09:00-19:00; Tu-Th 10:00-20:00; Fr-Sa 10:00-14:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5887350673",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "gms-realty-group-llc-elmhurst",
+   "name": "GMS Realty Group, LLC",
+   "summary": "GMS Realty Group, LLC is a real estate agency in Elmhurst, IL at 627 North York Street #Suite A, Elmhurst, IL 60126. Phone: +16308334422. Website: https://www.yourchicagohomesearch.com/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gms-realty-group-llc-elmhurst/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gms-realty-group-llc-elmhurst.json",
+   "address": {
+    "streetAddress": "627 North York Street #Suite A",
+    "addressLocality": "Elmhurst",
+    "addressRegion": "IL",
+    "postalCode": "60126",
+    "addressCountry": "US"
+   },
+   "city": "Elmhurst",
+   "state": "IL",
+   "zip": "60126",
+   "geo": {
+    "lat": 41.917913,
+    "lon": -87.9394259
+   },
+   "phone": "+16308334422",
+   "website": "https://www.yourchicagohomesearch.com/",
+   "opening_hours": "Mo-Fr 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6618525270",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "longmeadow-insurance-elmhurst-elmhurst",
+   "name": "Longmeadow Insurance - Elmhurst",
+   "summary": "Longmeadow Insurance - Elmhurst is an insurance agent in Elmhurst, IL at 120 North York Street, Elmhurst, IL 60126. Phone: +16304071361. Website: https://longmeadow.agency/elmhurst/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/longmeadow-insurance-elmhurst-elmhurst/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/longmeadow-insurance-elmhurst-elmhurst.json",
+   "address": {
+    "streetAddress": "120 North York Street",
+    "addressLocality": "Elmhurst",
+    "addressRegion": "IL",
+    "postalCode": "60126",
+    "addressCountry": "US"
+   },
+   "city": "Elmhurst",
+   "state": "IL",
+   "zip": "60126",
+   "geo": {
+    "lat": 41.9005855,
+    "lon": -87.9401338
+   },
+   "phone": "+16304071361",
+   "website": "https://longmeadow.agency/elmhurst/",
+   "opening_hours": "opening_hours = Mo-Fr 08:00-18:00; Sa 09:00-12:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13988772248",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "bw-bookkeeping-and-taxes-elmhurst",
+   "name": "BW Bookkeeping & Taxes",
+   "summary": "BW Bookkeeping & Taxes is a tax preparation service in Elmhurst, IL at 319 East Butterfield Road, Elmhurst, IL 60126. Phone: +16303418612. Website: https://bwatmb.com/.",
+   "categories": [
+    "tax preparation"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bw-bookkeeping-and-taxes-elmhurst/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bw-bookkeeping-and-taxes-elmhurst.json",
+   "address": {
+    "streetAddress": "319 East Butterfield Road",
+    "addressLocality": "Elmhurst",
+    "addressRegion": "IL",
+    "postalCode": "60126",
+    "addressCountry": "US"
+   },
+   "city": "Elmhurst",
+   "state": "IL",
+   "zip": "60126",
+   "geo": {
+    "lat": 41.8553665,
+    "lon": -87.9634771
+   },
+   "phone": "+16303418612",
+   "website": "https://bwatmb.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5936294183",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "elmhurst-chiropractic-elmhurst",
+   "name": "Elmhurst Chiropractic",
+   "summary": "Elmhurst Chiropractic is a chiropractor in Elmhurst, IL at 450 North York Street, Elmhurst, IL 60126. Phone: +16308341114. Website: https://elmhurstchiropractic.net/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/elmhurst-chiropractic-elmhurst/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/elmhurst-chiropractic-elmhurst.json",
+   "address": {
+    "streetAddress": "450 North York Street",
+    "addressLocality": "Elmhurst",
+    "addressRegion": "IL",
+    "postalCode": "60126",
+    "addressCountry": "US"
+   },
+   "city": "Elmhurst",
+   "state": "IL",
+   "zip": "60126",
+   "geo": {
+    "lat": 41.9121254,
+    "lon": -87.9399723
+   },
+   "phone": "+16308341114",
+   "website": "https://elmhurstchiropractic.net/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4603283248",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "lanphier-and-kowalkoski-ltd-elmhurst",
+   "name": "Lanphier & Kowalkoski Ltd.",
+   "summary": "Lanphier & Kowalkoski Ltd. is a lawyer in Elmhurst, IL at 568 Spring Road #B, Elmhurst, IL 60126. Phone: +16308327759. Website: https://www.lanphierkowalkowski.com/.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lanphier-and-kowalkoski-ltd-elmhurst/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lanphier-and-kowalkoski-ltd-elmhurst.json",
+   "address": {
+    "streetAddress": "568 Spring Road #B",
+    "addressLocality": "Elmhurst",
+    "addressRegion": "IL",
+    "postalCode": "60126",
+    "addressCountry": "US"
+   },
+   "city": "Elmhurst",
+   "state": "IL",
+   "zip": "60126",
+   "geo": {
+    "lat": 41.8833483,
+    "lon": -87.9499361
+   },
+   "phone": "+16308327759",
+   "website": "https://www.lanphierkowalkowski.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9242187145",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "premier-occupational-health-elmhurst",
+   "name": "Premier Occupational Health",
+   "summary": "Premier Occupational Health is a family medicine practice in Elmhurst, IL at 300 West Butterfield Road, Elmhurst, IL 60126. Phone: +16309849880. Website: https://premiermedclinic.com/.",
+   "categories": [
+    "family doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/premier-occupational-health-elmhurst/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/premier-occupational-health-elmhurst.json",
+   "address": {
+    "streetAddress": "300 West Butterfield Road",
+    "addressLocality": "Elmhurst",
+    "addressRegion": "IL",
+    "postalCode": "60126",
+    "addressCountry": "US"
+   },
+   "city": "Elmhurst",
+   "state": "IL",
+   "zip": "60126",
+   "geo": {
+    "lat": 41.8646827,
+    "lon": -87.9479271
+   },
+   "phone": "+16309849880",
+   "website": "https://premiermedclinic.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13111123198",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "delta-sonic-car-wash-elmhurst",
+   "name": "Delta Sonic Car Wash",
+   "summary": "Delta Sonic Car Wash is a car wash in Elmhurst, IL at 600 West North Avenue, Elmhurst, IL 60126. Website: https://deltasoniccarwash.com/location/elmhurst-il/.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/delta-sonic-car-wash-elmhurst/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/delta-sonic-car-wash-elmhurst.json",
+   "address": {
+    "streetAddress": "600 West North Avenue",
+    "addressLocality": "Elmhurst",
+    "addressRegion": "IL",
+    "postalCode": "60126",
+    "addressCountry": "US"
+   },
+   "city": "Elmhurst",
+   "state": "IL",
+   "zip": "60126",
+   "geo": {
+    "lat": 41.9055118,
+    "lon": -87.962914
+   },
+   "website": "https://deltasoniccarwash.com/location/elmhurst-il/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2401074528",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "devries-animal-hospital-elmhurst",
+   "name": "DeVries Animal Hospital",
+   "summary": "DeVries Animal Hospital is a veterinarian in Elmhurst, IL at 528 Spring Road, Elmhurst, IL 60126. Website: https://www.devriesanimalhospital.com/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/devries-animal-hospital-elmhurst/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/devries-animal-hospital-elmhurst.json",
+   "address": {
+    "streetAddress": "528 Spring Road",
+    "addressLocality": "Elmhurst",
+    "addressRegion": "IL",
+    "postalCode": "60126",
+    "addressCountry": "US"
+   },
+   "city": "Elmhurst",
+   "state": "IL",
+   "zip": "60126",
+   "geo": {
+    "lat": 41.884467,
+    "lon": -87.949749
+   },
+   "website": "https://www.devriesanimalhospital.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2375379363",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "gem-car-wash-elmhurst",
+   "name": "GEM Car Wash",
+   "summary": "GEM Car Wash is a car wash in Elmhurst, IL at 964 North York Street, Elmhurst, IL 60126. Website: https://www.gemwash.com/.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gem-car-wash-elmhurst/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gem-car-wash-elmhurst.json",
+   "address": {
+    "streetAddress": "964 North York Street",
+    "addressLocality": "Elmhurst",
+    "addressRegion": "IL",
+    "postalCode": "60126",
+    "addressCountry": "US"
+   },
+   "city": "Elmhurst",
+   "state": "IL",
+   "zip": "60126",
+   "geo": {
+    "lat": 41.9297009,
+    "lon": -87.9403018
+   },
+   "website": "https://www.gemwash.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1462192807",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "la-fitness-elmhurst",
+   "name": "LA Fitness",
+   "summary": "LA Fitness is a gym in Elmhurst, IL at 633 West North Avenue, Elmhurst, IL 60126. Phone: +16305301400.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/la-fitness-elmhurst/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/la-fitness-elmhurst.json",
+   "address": {
+    "streetAddress": "633 West North Avenue",
+    "addressLocality": "Elmhurst",
+    "addressRegion": "IL",
+    "postalCode": "60126",
+    "addressCountry": "US"
+   },
+   "city": "Elmhurst",
+   "state": "IL",
+   "zip": "60126",
+   "geo": {
+    "lat": 41.9060018,
+    "lon": -87.9643257
+   },
+   "phone": "+16305301400",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5762543585",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "shell-elmhurst",
+   "name": "Shell",
+   "summary": "Shell is a car wash in Elmhurst, IL at 218 East Butterfield Road, Elmhurst, IL 60126. Website: https://find.shell.com/us/fuel/10084753-218-e-butterfield-rd/en_US.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/shell-elmhurst/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/shell-elmhurst.json",
+   "address": {
+    "streetAddress": "218 East Butterfield Road",
+    "addressLocality": "Elmhurst",
+    "addressRegion": "IL",
+    "postalCode": "60126",
+    "addressCountry": "US"
+   },
+   "city": "Elmhurst",
+   "state": "IL",
+   "zip": "60126",
+   "geo": {
+    "lat": 41.8695331,
+    "lon": -87.9328637
+   },
+   "website": "https://find.shell.com/us/fuel/10084753-218-e-butterfield-rd/en_US",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/544372348",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "fitness-formula-clubs-elmhurst-elmhurst",
+   "name": "Fitness Formula Clubs Elmhurst",
+   "summary": "Fitness Formula Clubs Elmhurst is a gym in Elmhurst, IL at 140 North Addison Avenue, Elmhurst, IL 60126.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fitness-formula-clubs-elmhurst-elmhurst/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fitness-formula-clubs-elmhurst-elmhurst.json",
+   "address": {
+    "streetAddress": "140 North Addison Avenue",
+    "addressLocality": "Elmhurst",
+    "addressRegion": "IL",
+    "postalCode": "60126",
+    "addressCountry": "US"
+   },
+   "city": "Elmhurst",
+   "state": "IL",
+   "zip": "60126",
+   "geo": {
+    "lat": 41.9014067,
+    "lon": -87.9418384
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13850143178",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "great-clips-elmhurst",
+   "name": "Great Clips",
+   "summary": "Great Clips is a hair salon in Elmhurst, IL at 275 North York Street, Elmhurst, IL 60126.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/great-clips-elmhurst/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/great-clips-elmhurst.json",
+   "address": {
+    "streetAddress": "275 North York Street",
+    "addressLocality": "Elmhurst",
+    "addressRegion": "IL",
+    "postalCode": "60126",
+    "addressCountry": "US"
+   },
+   "city": "Elmhurst",
+   "state": "IL",
+   "zip": "60126",
+   "geo": {
+    "lat": 41.9057647,
+    "lon": -87.9396488
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7502295866",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "jiffy-lube-elmhurst",
+   "name": "Jiffy Lube",
+   "summary": "Jiffy Lube is an auto repair shop in Elmhurst, IL at North York Street, Elmhurst, IL 60126.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jiffy-lube-elmhurst/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jiffy-lube-elmhurst.json",
+   "address": {
+    "streetAddress": "North York Street",
+    "addressLocality": "Elmhurst",
+    "addressRegion": "IL",
+    "postalCode": "60126",
+    "addressCountry": "US"
+   },
+   "city": "Elmhurst",
+   "state": "IL",
+   "zip": "60126",
+   "geo": {
+    "lat": 41.9080414,
+    "lon": -87.9394492
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/275392294",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "mehta-motors-elmhurst",
+   "name": "Mehta Motors",
+   "summary": "Mehta Motors is an auto repair shop in Elmhurst, IL at 463 Spring Road, Elmhurst, IL 60126.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mehta-motors-elmhurst/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mehta-motors-elmhurst.json",
+   "address": {
+    "streetAddress": "463 Spring Road",
+    "addressLocality": "Elmhurst",
+    "addressRegion": "IL",
+    "postalCode": "60126",
+    "addressCountry": "US"
+   },
+   "city": "Elmhurst",
+   "state": "IL",
+   "zip": "60126",
+   "geo": {
+    "lat": 41.8867973,
+    "lon": -87.949352
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2375385750",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "edward-jones-elmhurst",
+   "name": "Edward Jones",
+   "summary": "Edward Jones is a financial advisor in Elmhurst, IL at 275 North York Street #101, Elmhurst, IL.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edward-jones-elmhurst/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edward-jones-elmhurst.json",
+   "address": {
+    "streetAddress": "275 North York Street #101",
+    "addressLocality": "Elmhurst",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Elmhurst",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9056992,
+    "lon": -87.9396643
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13910529962",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "berrshire-hathaway-elmhurst",
+   "name": "Berrshire Hathaway",
+   "summary": "Berrshire Hathaway is a real estate agency in Elmhurst, IL.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/berrshire-hathaway-elmhurst/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/berrshire-hathaway-elmhurst.json",
+   "address": {
+    "addressLocality": "Elmhurst",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Elmhurst",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9036295,
+    "lon": -87.9400742
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8406072230",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "bp-elmhurst",
+   "name": "BP",
+   "summary": "BP is an auto repair shop in Elmhurst, IL.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bp-elmhurst/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bp-elmhurst.json",
+   "address": {
+    "addressLocality": "Elmhurst",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Elmhurst",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8703377,
+    "lon": -87.9337605
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2401061591",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "corner-cottage-liquors-elmhurst",
+   "name": "Corner Cottage Liquors",
+   "summary": "Corner Cottage Liquors is a liquor store in Elmhurst, IL.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/corner-cottage-liquors-elmhurst/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/corner-cottage-liquors-elmhurst.json",
+   "address": {
+    "addressLocality": "Elmhurst",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Elmhurst",
+   "state": "IL",
+   "geo": {
+    "lat": 41.905535,
+    "lon": -87.9596261
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2401074685",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "edible-arrangements-elmhurst",
+   "name": "Edible Arrangements",
+   "summary": "Edible Arrangements is a gift shop in Elmhurst, IL.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edible-arrangements-elmhurst/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edible-arrangements-elmhurst.json",
+   "address": {
+    "addressLocality": "Elmhurst",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Elmhurst",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9034579,
+    "lon": -87.9400769
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8406072227",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "feze-roofing-elmhurst",
+   "name": "Feze Roofing",
+   "summary": "Feze Roofing is a roofer in Elmhurst, IL.",
+   "categories": [
+    "roofer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/feze-roofing-elmhurst/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/feze-roofing-elmhurst.json",
+   "address": {
+    "addressLocality": "Elmhurst",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Elmhurst",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9054025,
+    "lon": -87.9588042
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12092816658",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "kopp-dental-elmhurst",
+   "name": "Kopp Dental",
+   "summary": "Kopp Dental is a dentist in Elmhurst, IL.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kopp-dental-elmhurst/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kopp-dental-elmhurst.json",
+   "address": {
+    "addressLocality": "Elmhurst",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Elmhurst",
+   "state": "IL",
+   "geo": {
+    "lat": 41.90286,
+    "lon": -87.9401064
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8406072232",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "madison-early-childhood-center-elmhurst",
+   "name": "Madison Early Childhood Center",
+   "summary": "Madison Early Childhood Center is a preschool in Elmhurst, IL.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/madison-early-childhood-center-elmhurst/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/madison-early-childhood-center-elmhurst.json",
+   "address": {
+    "addressLocality": "Elmhurst",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Elmhurst",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8752604,
+    "lon": -87.9417102
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/646951713",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "mattress-firm-elmhurst",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Elmhurst, IL.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-elmhurst/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-elmhurst.json",
+   "address": {
+    "addressLocality": "Elmhurst",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Elmhurst",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9059918,
+    "lon": -87.9645567
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5762544059",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "ra-faganel-hall-elmhurst",
+   "name": "RA Faganel Hall",
+   "summary": "RA Faganel Hall is a gym in Elmhurst, IL.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ra-faganel-hall-elmhurst/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ra-faganel-hall-elmhurst.json",
+   "address": {
+    "addressLocality": "Elmhurst",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Elmhurst",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8991856,
+    "lon": -87.9461396
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/531200371",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "school-of-rock-elmhurst",
+   "name": "School of Rock",
+   "summary": "School of Rock is a music school in Elmhurst, IL.",
+   "categories": [
+    "music lessons"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/school-of-rock-elmhurst/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/school-of-rock-elmhurst.json",
+   "address": {
+    "addressLocality": "Elmhurst",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Elmhurst",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9002395,
+    "lon": -87.9443424
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12092682973",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "the-ups-store-elmhurst",
+   "name": "The UPS Store",
+   "summary": "The UPS Store is a printing service in Elmhurst, IL.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-ups-store-elmhurst/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-ups-store-elmhurst.json",
+   "address": {
+    "addressLocality": "Elmhurst",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Elmhurst",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8709028,
+    "lon": -87.935058
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5116348119",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "walsh-partners-real-estate-elmhurst",
+   "name": "Walsh Partners Real Estate",
+   "summary": "Walsh Partners Real Estate is a real estate agency in Elmhurst, IL.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/walsh-partners-real-estate-elmhurst/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/walsh-partners-real-estate-elmhurst.json",
+   "address": {
+    "addressLocality": "Elmhurst",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Elmhurst",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9034797,
+    "lon": -87.9400765
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8406072226",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

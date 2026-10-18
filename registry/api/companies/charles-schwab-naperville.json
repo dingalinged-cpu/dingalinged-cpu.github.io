@@ -1,0 +1,59 @@
+{
+ "slug": "charles-schwab-naperville",
+ "name": "Charles Schwab",
+ "categories": [
+  "financial advisor"
+ ],
+ "keywords": [
+  "financial advisor",
+  "financial advisor naperville il"
+ ],
+ "services": [
+  {
+   "name": "financial advisor",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "19 West Chicago Avenue",
+  "addressLocality": "Naperville",
+  "addressRegion": "IL",
+  "postalCode": "60540",
+  "addressCountry": "US"
+ },
+ "city": "Naperville",
+ "state": "IL",
+ "zip": "60540",
+ "geo": {
+  "lat": 41.7716827,
+  "lon": -88.1486446
+ },
+ "phone": "+16308486001",
+ "website": "https://client.schwab.com/public/branchlocator/branchdetails.aspx?branchid=1127",
+ "opening_hours": "Mo-Fr 08:30-17:00; Sa, Su off",
+ "brand": "Charles Schwab",
+ "wikidata": "Q1066028",
+ "schema_type": "FinancialService",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/201452154",
+ "osm": {
+  "type": "way",
+  "id": 201452154,
+  "tags_used": {
+   "office": "financial_advisor"
+  }
+ },
+ "municipality": "Naperville",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/charles-schwab-naperville/",
+ "summary": "Charles Schwab is a financial advisor in Naperville, IL at 19 West Chicago Avenue, Naperville, IL 60540. Phone: +16308486001. Website: https://client.schwab.com/public/branchlocator/branchdetails.aspx?branchid=1127.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,567 @@
+{
+ "place": "Calumet City, IL",
+ "slug": "calumet-city-il",
+ "count": 16,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "auto repair calumet city il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-calumet-city-il.json"
+  },
+  {
+   "keyword": "car wash calumet city il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-calumet-city-il.json"
+  },
+  {
+   "keyword": "dentist calumet city il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-calumet-city-il.json"
+  },
+  {
+   "keyword": "furniture store calumet city il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/furniture-store-calumet-city-il.json"
+  },
+  {
+   "keyword": "insurance agency calumet city il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-calumet-city-il.json"
+  },
+  {
+   "keyword": "insurance agent calumet city il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-calumet-city-il.json"
+  },
+  {
+   "keyword": "insurance agents calumet city il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-calumet-city-il.json"
+  },
+  {
+   "keyword": "jewelry store calumet city il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/jewelry-store-calumet-city-il.json"
+  },
+  {
+   "keyword": "mechanic calumet city il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-calumet-city-il.json"
+  },
+  {
+   "keyword": "oil change calumet city il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/oil-change-calumet-city-il.json"
+  },
+  {
+   "keyword": "physical therapy calumet city il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/physical-therapy-calumet-city-il.json"
+  },
+  {
+   "keyword": "storage units calumet city il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/storage-units-calumet-city-il.json"
+  },
+  {
+   "keyword": "tax preparation calumet city il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tax-preparation-calumet-city-il.json"
+  },
+  {
+   "keyword": "tax preparer calumet city il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tax-preparer-calumet-city-il.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "calumet-city-car-wash-calumet-city",
+   "name": "Calumet City Car Wash",
+   "summary": "Calumet City Car Wash is a car wash in Calumet City, IL at 671 River Oaks Drive, Calumet City, IL 60409. Phone: +17088680077. Website: https://calumetcitycarwash.com/.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/calumet-city-car-wash-calumet-city/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/calumet-city-car-wash-calumet-city.json",
+   "address": {
+    "streetAddress": "671 River Oaks Drive",
+    "addressLocality": "Calumet City",
+    "addressRegion": "IL",
+    "postalCode": "60409",
+    "addressCountry": "US"
+   },
+   "city": "Calumet City",
+   "state": "IL",
+   "zip": "60409",
+   "geo": {
+    "lat": 41.5995561,
+    "lon": -87.5410907
+   },
+   "phone": "+17088680077",
+   "website": "https://calumetcitycarwash.com/",
+   "opening_hours": "Mo - Th 08:00-18:00, Fr - Sa 08:00-19:00, Su 08:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1498082217",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "es3-medical-group-and-es3-fitness-rehab-calumet-city",
+   "name": "ES3 MEDICAL GROUP & ES3 FITNESS REHAB",
+   "summary": "ES3 MEDICAL GROUP & ES3 FITNESS REHAB is a physical therapy clinic in Calumet City, IL at 1400 Torrence Avenue #Suite 213, Calumet City, IL 60409. Phone: +17088019067. Website: https://es3fitnessrehab.com/.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/es3-medical-group-and-es3-fitness-rehab-calumet-city/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/es3-medical-group-and-es3-fitness-rehab-calumet-city.json",
+   "address": {
+    "streetAddress": "1400 Torrence Avenue #Suite 213",
+    "addressLocality": "Calumet City",
+    "addressRegion": "IL",
+    "postalCode": "60409",
+    "addressCountry": "US"
+   },
+   "city": "Calumet City",
+   "state": "IL",
+   "zip": "60409",
+   "geo": {
+    "lat": 41.5951064,
+    "lon": -87.5593602
+   },
+   "phone": "+17088019067",
+   "website": "https://es3fitnessrehab.com/",
+   "opening_hours": "Fr-Su CLOSED, Mo 09:00-13:00, 15:00-18:00, Tue 15:00-18:00, We 09:00-13:00, 15:00-18:00, Th 15:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13846837650",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "insurance-navy-brokers-calumet-city",
+   "name": "Insurance Navy Brokers",
+   "summary": "Insurance Navy Brokers is an insurance agent in Calumet City, IL at 663 River Oaks Drive, Calumet City, IL 60409. Phone: +17088919495. Website: https://www.insurancenavy.com/locations/il/calumet-city/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/insurance-navy-brokers-calumet-city/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/insurance-navy-brokers-calumet-city.json",
+   "address": {
+    "streetAddress": "663 River Oaks Drive",
+    "addressLocality": "Calumet City",
+    "addressRegion": "IL",
+    "postalCode": "60409",
+    "addressCountry": "US"
+   },
+   "city": "Calumet City",
+   "state": "IL",
+   "zip": "60409",
+   "geo": {
+    "lat": 41.5994299,
+    "lon": -87.5404759
+   },
+   "phone": "+17088919495",
+   "website": "https://www.insurancenavy.com/locations/il/calumet-city/",
+   "opening_hours": "Mo-Su 08:00-21:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8595409538",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "aarons-calumet-city",
+   "name": "Aaron's",
+   "summary": "Aaron's is a furniture store in Calumet City, IL at 654 Torrence Avenue, Calumet City, IL 60409. Website: https://locations.aarons.com/us/il/calumet-city/654-torrence-ave.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/aarons-calumet-city/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/aarons-calumet-city.json",
+   "address": {
+    "streetAddress": "654 Torrence Avenue",
+    "addressLocality": "Calumet City",
+    "addressRegion": "IL",
+    "postalCode": "60409",
+    "addressCountry": "US"
+   },
+   "city": "Calumet City",
+   "state": "IL",
+   "zip": "60409",
+   "geo": {
+    "lat": 41.6168959,
+    "lon": -87.5594138
+   },
+   "website": "https://locations.aarons.com/us/il/calumet-city/654-torrence-ave",
+   "opening_hours": "Mo-Th 10:00-19:00; Fr 10:00-20:00; Sa 10:00-18:00; Su closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1323903565",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "allstate-calumet-city",
+   "name": "Allstate",
+   "summary": "Allstate is an insurance agent in Calumet City, IL at 1551 Sibley Boulevard, Calumet City, IL 60409. Website: https://agents.allstate.com/louis-dodd-calumet-city-il.html.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/allstate-calumet-city/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/allstate-calumet-city.json",
+   "address": {
+    "streetAddress": "1551 Sibley Boulevard",
+    "addressLocality": "Calumet City",
+    "addressRegion": "IL",
+    "postalCode": "60409",
+    "addressCountry": "US"
+   },
+   "city": "Calumet City",
+   "state": "IL",
+   "zip": "60409",
+   "geo": {
+    "lat": 41.6225992,
+    "lon": -87.5629177
+   },
+   "website": "https://agents.allstate.com/louis-dodd-calumet-city-il.html",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1431245185",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "bobs-discount-furniture-calumet-city",
+   "name": "Bob's Discount Furniture",
+   "summary": "Bob's Discount Furniture is a furniture store in Calumet City, IL at 1370 Torrence Avenue, Calumet City, IL 60409. Website: https://www.mybobs.com/store/illinois/calumet-city.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bobs-discount-furniture-calumet-city/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bobs-discount-furniture-calumet-city.json",
+   "address": {
+    "streetAddress": "1370 Torrence Avenue",
+    "addressLocality": "Calumet City",
+    "addressRegion": "IL",
+    "postalCode": "60409",
+    "addressCountry": "US"
+   },
+   "city": "Calumet City",
+   "state": "IL",
+   "zip": "60409",
+   "geo": {
+    "lat": 41.5966387,
+    "lon": -87.5597182
+   },
+   "website": "https://www.mybobs.com/store/illinois/calumet-city",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12587988638",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "mavis-tires-and-brakes-calumet-city",
+   "name": "Mavis Tires & Brakes",
+   "summary": "Mavis Tires & Brakes is an auto repair shop in Calumet City, IL at 1360 Ring Road, Calumet City, IL 60409. Website: https://www.mavis.com/locations/calumet-city-il.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mavis-tires-and-brakes-calumet-city/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mavis-tires-and-brakes-calumet-city.json",
+   "address": {
+    "streetAddress": "1360 Ring Road",
+    "addressLocality": "Calumet City",
+    "addressRegion": "IL",
+    "postalCode": "60409",
+    "addressCountry": "US"
+   },
+   "city": "Calumet City",
+   "state": "IL",
+   "zip": "60409",
+   "geo": {
+    "lat": 41.5958186,
+    "lon": -87.5641995
+   },
+   "website": "https://www.mavis.com/locations/calumet-city-il",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/237067448",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "pandora-calumet-city",
+   "name": "Pandora",
+   "summary": "Pandora is a jewelry store in Calumet City, IL at 1 River Oaks Center Drive, Calumet City, IL 60409. Website: https://stores.pandora.net/en-us/il/calumetcity/pandora-jewelry-us9a240200.html.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pandora-calumet-city/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pandora-calumet-city.json",
+   "address": {
+    "streetAddress": "1 River Oaks Center Drive",
+    "addressLocality": "Calumet City",
+    "addressRegion": "IL",
+    "postalCode": "60409",
+    "addressCountry": "US"
+   },
+   "city": "Calumet City",
+   "state": "IL",
+   "zip": "60409",
+   "geo": {
+    "lat": 41.5971776,
+    "lon": -87.5561572
+   },
+   "website": "https://stores.pandora.net/en-us/il/calumetcity/pandora-jewelry-us9a240200.html",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12587988627",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "u-haul-calumet-city",
+   "name": "U-Haul",
+   "summary": "U-Haul is a self-storage facility in Calumet City, IL at 1510 Torrence Avenue, Calumet City, IL 60409. Website: https://www.uhaul.com/Locations/Truck-Rentals-near-Calumet-City-IL-60409/759072/.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/u-haul-calumet-city/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/u-haul-calumet-city.json",
+   "address": {
+    "streetAddress": "1510 Torrence Avenue",
+    "addressLocality": "Calumet City",
+    "addressRegion": "IL",
+    "postalCode": "60409",
+    "addressCountry": "US"
+   },
+   "city": "Calumet City",
+   "state": "IL",
+   "zip": "60409",
+   "geo": {
+    "lat": 41.5903058,
+    "lon": -87.5599416
+   },
+   "website": "https://www.uhaul.com/Locations/Truck-Rentals-near-Calumet-City-IL-60409/759072/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1295081009",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "value-city-furniture-calumet-city",
+   "name": "Value City Furniture",
+   "summary": "Value City Furniture is a furniture store in Calumet City, IL at 2100 River Oaks Drive, Calumet City, IL 60409. Website: https://www.valuecityfurniture.com/store-locator/il/calumet-city/2100-159th-street.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/value-city-furniture-calumet-city/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/value-city-furniture-calumet-city.json",
+   "address": {
+    "streetAddress": "2100 River Oaks Drive",
+    "addressLocality": "Calumet City",
+    "addressRegion": "IL",
+    "postalCode": "60409",
+    "addressCountry": "US"
+   },
+   "city": "Calumet City",
+   "state": "IL",
+   "zip": "60409",
+   "geo": {
+    "lat": 41.602062,
+    "lon": -87.5756685
+   },
+   "website": "https://www.valuecityfurniture.com/store-locator/il/calumet-city/2100-159th-street",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7367036959",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "buddy-bear-car-wash-calumet-city",
+   "name": "Buddy Bear Car Wash",
+   "summary": "Buddy Bear Car Wash is a car wash in Calumet City, IL at 382 Torrence Avenue, Calumet City, IL 60409.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/buddy-bear-car-wash-calumet-city/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/buddy-bear-car-wash-calumet-city.json",
+   "address": {
+    "streetAddress": "382 Torrence Avenue",
+    "addressLocality": "Calumet City",
+    "addressRegion": "IL",
+    "postalCode": "60409",
+    "addressCountry": "US"
+   },
+   "city": "Calumet City",
+   "state": "IL",
+   "zip": "60409",
+   "geo": {
+    "lat": 41.6253332,
+    "lon": -87.5593485
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1323903570",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "dentalworks-calumet-city",
+   "name": "DentalWorks",
+   "summary": "DentalWorks is a dentist in Calumet City, IL at 1514 Torrence Avenue, Calumet City, IL 60409.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dentalworks-calumet-city/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dentalworks-calumet-city.json",
+   "address": {
+    "streetAddress": "1514 Torrence Avenue",
+    "addressLocality": "Calumet City",
+    "addressRegion": "IL",
+    "postalCode": "60409",
+    "addressCountry": "US"
+   },
+   "city": "Calumet City",
+   "state": "IL",
+   "zip": "60409",
+   "geo": {
+    "lat": 41.5898829,
+    "lon": -87.5596126
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12587988657",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "jackson-hewitt-calumet-city",
+   "name": "Jackson Hewitt",
+   "summary": "Jackson Hewitt is a tax preparation service in Calumet City, IL at 515 Burnham Avenue, Calumet City, IL 60409.",
+   "categories": [
+    "tax preparation"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jackson-hewitt-calumet-city/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jackson-hewitt-calumet-city.json",
+   "address": {
+    "streetAddress": "515 Burnham Avenue",
+    "addressLocality": "Calumet City",
+    "addressRegion": "IL",
+    "postalCode": "60409",
+    "addressCountry": "US"
+   },
+   "city": "Calumet City",
+   "state": "IL",
+   "zip": "60409",
+   "geo": {
+    "lat": 41.6214485,
+    "lon": -87.5393697
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1359893553",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "jiffy-lube-calumet-city",
+   "name": "Jiffy Lube",
+   "summary": "Jiffy Lube is an auto repair shop in Calumet City, IL at 1450 Sibley Boulevard, Calumet City, IL 60409.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jiffy-lube-calumet-city/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jiffy-lube-calumet-city.json",
+   "address": {
+    "streetAddress": "1450 Sibley Boulevard",
+    "addressLocality": "Calumet City",
+    "addressRegion": "IL",
+    "postalCode": "60409",
+    "addressCountry": "US"
+   },
+   "city": "Calumet City",
+   "state": "IL",
+   "zip": "60409",
+   "geo": {
+    "lat": 41.6230656,
+    "lon": -87.5600119
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1317970878",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "mobil-calumet-city",
+   "name": "Mobil",
+   "summary": "Mobil is a car wash in Calumet City, IL at 1401 River Oaks Drive, Calumet City, IL 60409.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mobil-calumet-city/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mobil-calumet-city.json",
+   "address": {
+    "streetAddress": "1401 River Oaks Drive",
+    "addressLocality": "Calumet City",
+    "addressRegion": "IL",
+    "postalCode": "60409",
+    "addressCountry": "US"
+   },
+   "city": "Calumet City",
+   "state": "IL",
+   "zip": "60409",
+   "geo": {
+    "lat": 41.6006273,
+    "lon": -87.5597802
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/237067429",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "mobil-calumet-city-w1331500004",
+   "name": "Mobil",
+   "summary": "Mobil is a car wash in Calumet City, IL at 2074 Sibley Boulevard, Calumet City, IL 60409.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mobil-calumet-city-w1331500004/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mobil-calumet-city-w1331500004.json",
+   "address": {
+    "streetAddress": "2074 Sibley Boulevard",
+    "addressLocality": "Calumet City",
+    "addressRegion": "IL",
+    "postalCode": "60409",
+    "addressCountry": "US"
+   },
+   "city": "Calumet City",
+   "state": "IL",
+   "zip": "60409",
+   "geo": {
+    "lat": 41.6231236,
+    "lon": -87.5756078
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1331500004",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

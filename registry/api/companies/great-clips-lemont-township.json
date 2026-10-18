@@ -1,0 +1,59 @@
+{
+ "slug": "great-clips-lemont-township",
+ "name": "Great Clips",
+ "categories": [
+  "hair salon"
+ ],
+ "keywords": [
+  "hair salon",
+  "haircut",
+  "hair salon lemont township il",
+  "haircut lemont township il"
+ ],
+ "services": [
+  {
+   "name": "hair salon",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "haircut",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Lemont Township",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Lemont Township",
+ "state": "IL",
+ "geo": {
+  "lat": 41.6433469,
+  "lon": -88.0016876
+ },
+ "brand": "Great Clips",
+ "wikidata": "Q5598967",
+ "schema_type": "HairSalon",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/4622614769",
+ "osm": {
+  "type": "node",
+  "id": 4622614769,
+  "tags_used": {
+   "shop": "hairdresser"
+  }
+ },
+ "municipality": "Lemont Township",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/great-clips-lemont-township/",
+ "summary": "Great Clips is a hair salon in Lemont Township, IL.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

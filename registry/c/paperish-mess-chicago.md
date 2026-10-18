@@ -1,0 +1,23 @@
+Paperish Mess is a gift shop in Chicago, IL at 1945 West Chicago Avenue, Chicago, IL 60622. Phone: +13122651497. Website: https://www.paperishmess.com/.
+
+# Paperish Mess
+
+- Category: gift shop
+- Services: gift shop
+- Address: 1945 West Chicago Avenue, Chicago, IL 60622
+- City: Chicago
+- State: IL
+- ZIP: 60622
+- Coordinates: 41.8957992, -87.676433
+- Phone: +13122651497
+- Website: https://www.paperishmess.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Su 12:00-18:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/paperish-mess-chicago/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/paperish-mess-chicago.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12714810059 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

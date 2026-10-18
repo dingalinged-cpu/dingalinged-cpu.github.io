@@ -1,0 +1,63 @@
+{
+ "slug": "valvoline-oak-park",
+ "name": "Valvoline",
+ "categories": [
+  "auto repair"
+ ],
+ "keywords": [
+  "auto repair",
+  "mechanic",
+  "auto repair oak park il",
+  "mechanic oak park il"
+ ],
+ "services": [
+  {
+   "name": "auto repair",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "mechanic",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "6644 West Roosevelt Road",
+  "addressLocality": "Oak Park",
+  "addressRegion": "IL",
+  "postalCode": "60304",
+  "addressCountry": "US"
+ },
+ "city": "Oak Park",
+ "state": "IL",
+ "zip": "60304",
+ "geo": {
+  "lat": 41.8654226,
+  "lon": -87.7910452
+ },
+ "website": "https://store.vioc.com/il/oakpark/oil-change-gr0039.html",
+ "brand": "Valvoline",
+ "wikidata": "Q7912852",
+ "schema_type": "AutoRepair",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/477303860",
+ "osm": {
+  "type": "way",
+  "id": 477303860,
+  "tags_used": {
+   "shop": "car_repair"
+  }
+ },
+ "municipality": "Oak Park",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/valvoline-oak-park/",
+ "summary": "Valvoline is an auto repair shop in Oak Park, IL at 6644 West Roosevelt Road, Oak Park, IL 60304. Website: https://store.vioc.com/il/oakpark/oil-change-gr0039.html.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

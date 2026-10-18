@@ -1,0 +1,54 @@
+{
+ "slug": "usa-beverage-company-forest-park",
+ "name": "USA Beverage Company",
+ "categories": [
+  "liquor store"
+ ],
+ "keywords": [
+  "liquor store",
+  "liquor store forest park il"
+ ],
+ "services": [
+  {
+   "name": "liquor store",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "7200 Madison Street",
+  "addressLocality": "Forest Park",
+  "addressRegion": "IL",
+  "postalCode": "60130",
+  "addressCountry": "US"
+ },
+ "city": "Forest Park",
+ "state": "IL",
+ "zip": "60130",
+ "geo": {
+  "lat": 41.8794545,
+  "lon": -87.8049148
+ },
+ "schema_type": "LiquorStore",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/497211868",
+ "osm": {
+  "type": "way",
+  "id": 497211868,
+  "tags_used": {
+   "shop": "alcohol"
+  }
+ },
+ "municipality": "Forest Park",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/usa-beverage-company-forest-park/",
+ "summary": "USA Beverage Company is a liquor store in Forest Park, IL at 7200 Madison Street, Forest Park, IL 60130.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

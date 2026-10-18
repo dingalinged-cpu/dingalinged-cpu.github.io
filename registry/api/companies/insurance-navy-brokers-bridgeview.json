@@ -1,0 +1,71 @@
+{
+ "slug": "insurance-navy-brokers-bridgeview",
+ "name": "Insurance Navy Brokers",
+ "categories": [
+  "insurance agent"
+ ],
+ "keywords": [
+  "insurance agent",
+  "insurance agency",
+  "insurance agents",
+  "insurance agent bridgeview il",
+  "insurance agency bridgeview il",
+  "insurance agents bridgeview il"
+ ],
+ "services": [
+  {
+   "name": "insurance agent",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "insurance agency",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "insurance agents",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "8258 Harlem Avenue",
+  "addressLocality": "Bridgeview",
+  "addressRegion": "IL",
+  "postalCode": "60455",
+  "addressCountry": "US"
+ },
+ "city": "Bridgeview",
+ "state": "IL",
+ "zip": "60455",
+ "geo": {
+  "lat": 41.7412397,
+  "lon": -87.8000064
+ },
+ "phone": "+17083381111",
+ "website": "https://www.insurancenavy.com/locations/il/bridgeview/",
+ "opening_hours": "Mo-Sa 08:00-18:00",
+ "brand": "Insurance Navy Brokers",
+ "wikidata": "Q106564453",
+ "schema_type": "InsuranceAgency",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/8595617884",
+ "osm": {
+  "type": "node",
+  "id": 8595617884,
+  "tags_used": {
+   "office": "insurance"
+  }
+ },
+ "municipality": "Bridgeview",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/insurance-navy-brokers-bridgeview/",
+ "summary": "Insurance Navy Brokers is an insurance agent in Bridgeview, IL at 8258 Harlem Avenue, Bridgeview, IL 60455. Phone: +17083381111. Website: https://www.insurancenavy.com/locations/il/bridgeview/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

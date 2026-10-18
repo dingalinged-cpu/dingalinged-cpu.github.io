@@ -1,0 +1,56 @@
+{
+ "slug": "unity-preschool-evanston",
+ "name": "Unity Preschool",
+ "categories": [
+  "preschool"
+ ],
+ "keywords": [
+  "preschool",
+  "preschool evanston il"
+ ],
+ "services": [
+  {
+   "name": "preschool",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "926 Noyes Street",
+  "addressLocality": "Evanston",
+  "addressRegion": "IL",
+  "postalCode": "60201",
+  "addressCountry": "US"
+ },
+ "city": "Evanston",
+ "state": "IL",
+ "zip": "60201",
+ "geo": {
+  "lat": 42.0583248,
+  "lon": -87.6843022
+ },
+ "phone": "+18478697170",
+ "website": "https://unitypreschoolevanston.com/",
+ "schema_type": "Preschool",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/2295263001",
+ "osm": {
+  "type": "node",
+  "id": 2295263001,
+  "tags_used": {
+   "amenity": "kindergarten"
+  }
+ },
+ "municipality": "Evanston",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/unity-preschool-evanston/",
+ "summary": "Unity Preschool is a preschool in Evanston, IL at 926 Noyes Street, Evanston, IL 60201. Phone: +18478697170. Website: https://unitypreschoolevanston.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,66 @@
+{
+ "slug": "the-federal-life-companies-riverwoods",
+ "name": "The Federal Life Companies",
+ "categories": [
+  "insurance agent"
+ ],
+ "keywords": [
+  "insurance agent",
+  "insurance agency",
+  "insurance agents",
+  "insurance agent riverwoods il",
+  "insurance agency riverwoods il",
+  "insurance agents riverwoods il"
+ ],
+ "services": [
+  {
+   "name": "insurance agent",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "insurance agency",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "insurance agents",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "3756 Deerfield Road",
+  "addressLocality": "Riverwoods",
+  "addressRegion": "IL",
+  "postalCode": "60015",
+  "addressCountry": "US"
+ },
+ "city": "Riverwoods",
+ "state": "IL",
+ "zip": "60015",
+ "geo": {
+  "lat": 42.1683097,
+  "lon": -87.9181118
+ },
+ "schema_type": "InsuranceAgency",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/966267514",
+ "osm": {
+  "type": "way",
+  "id": 966267514,
+  "tags_used": {
+   "office": "insurance"
+  }
+ },
+ "municipality": "Riverwoods",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/the-federal-life-companies-riverwoods/",
+ "summary": "The Federal Life Companies is an insurance agent in Riverwoods, IL at 3756 Deerfield Road, Riverwoods, IL 60015.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,57 @@
+{
+ "slug": "animal-medical-center-of-itasca-itasca",
+ "name": "Animal Medical Center of Itasca",
+ "categories": [
+  "vet"
+ ],
+ "keywords": [
+  "vet",
+  "vet itasca il"
+ ],
+ "services": [
+  {
+   "name": "vet",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "220 Catalpa Avenue",
+  "addressLocality": "Itasca",
+  "addressRegion": "IL",
+  "postalCode": "60143",
+  "addressCountry": "US"
+ },
+ "city": "Itasca",
+ "state": "IL",
+ "zip": "60143",
+ "geo": {
+  "lat": 41.9722369,
+  "lon": -88.0200993
+ },
+ "phone": "+16307732040",
+ "website": "https://www.amcitasca.com/",
+ "opening_hours": "Mo,Tu,Th 07:00-20:00; We,Fr 07:00-18:00; Sa 07:00-15:00; Su off",
+ "schema_type": "VeterinaryCare",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/264408451",
+ "osm": {
+  "type": "way",
+  "id": 264408451,
+  "tags_used": {
+   "amenity": "veterinary"
+  }
+ },
+ "municipality": "Itasca",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/animal-medical-center-of-itasca-itasca/",
+ "summary": "Animal Medical Center of Itasca is a veterinarian in Itasca, IL at 220 Catalpa Avenue, Itasca, IL 60143. Phone: +16307732040. Website: https://www.amcitasca.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

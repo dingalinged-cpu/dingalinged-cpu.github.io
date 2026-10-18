@@ -12,9 +12,9 @@
   "affordable yoga classes the United States",
   "emergency yoga classes the United States"
  ],
- "answer": "The top unpaid yoga classes listing for the United States is BKS Lyengar Yoga Center (a yoga studio in Minneapolis, MN at 2736 Lyndale Avenue South ##B, Minneapolis, MN 55405. Phone: +16128728708. Website: https://www.iyengaryogampls.com/). 33 yoga classes businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "answer": "The top unpaid yoga classes listing for the United States is 105F Yoga (a yoga studio in Chicago, IL at 47 West Polk Street, Chicago, IL 60605. Phone: +13129229642. Website: https://105f.com/schedule/south-loop-studio/). 83 yoga classes businesses are listed for the United States as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
  "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
- "updated": "2026-10-17",
+ "updated": "2026-10-18",
  "sponsored_slots": {
   "featured_1": "available",
   "spots_2_4_sold": 0
@@ -27,6 +27,41 @@
  "results": [
   {
    "position": 1,
+   "sponsored": false,
+   "slug": "105f-yoga-chicago-n12470308851",
+   "name": "105F Yoga",
+   "summary": "105F Yoga is a yoga studio in Chicago, IL at 47 West Polk Street, Chicago, IL 60605. Phone: +13129229642. Website: https://105f.com/schedule/south-loop-studio/.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/105f-yoga-chicago-n12470308851/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/105f-yoga-chicago-n12470308851.json",
+   "address": {
+    "streetAddress": "47 West Polk Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60605",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60605",
+   "geo": {
+    "lat": 41.8718673,
+    "lon": -87.6291162
+   },
+   "phone": "+13129229642",
+   "website": "https://105f.com/schedule/south-loop-studio/",
+   "opening_hours": "Mo 07:00-19:30; Tu 05:30-19:00; We 05:30-20:30; Th 05:30-20:30; Fr 05:30-19:15; Sa 07:00-17:30; Su 08:30-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12470308851",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
    "sponsored": false,
    "slug": "bks-lyengar-yoga-center-minneapolis",
    "name": "BKS Lyengar Yoga Center",
@@ -61,7 +96,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 2,
+   "position": 3,
    "sponsored": false,
    "slug": "carpe-diem-saint-paul",
    "name": "Carpe Diem",
@@ -96,7 +131,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 3,
+   "position": 4,
    "sponsored": false,
    "slug": "element-gym-saint-paul",
    "name": "Element Gym",
@@ -131,7 +166,182 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 4,
+   "position": 5,
+   "sponsored": false,
+   "slug": "first-ascent-block-37-chicago",
+   "name": "First Ascent Block 37",
+   "summary": "First Ascent Block 37 is a yoga studio in Chicago, IL at 108 North State Street #420, Chicago, IL 60602. Phone: +13122852337. Website: https://faclimbing.com/chicago/block-37/.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/first-ascent-block-37-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/first-ascent-block-37-chicago.json",
+   "address": {
+    "streetAddress": "108 North State Street #420",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60602",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60602",
+   "geo": {
+    "lat": 41.8840436,
+    "lon": -87.6287724
+   },
+   "phone": "+13122852337",
+   "website": "https://faclimbing.com/chicago/block-37/",
+   "opening_hours": "Mo-Fr 06:00-23:00; Sa-Su 18:00-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8416901711",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "first-ascent-uptown-chicago",
+   "name": "First Ascent Uptown",
+   "summary": "First Ascent Uptown is a yoga studio in Chicago, IL at 4718 North Broadway, Chicago, IL 60640. Phone: +17732751212. Website: https://faclimbing.com/chicago/uptown/.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/first-ascent-uptown-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/first-ascent-uptown-chicago.json",
+   "address": {
+    "streetAddress": "4718 North Broadway",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60640",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60640",
+   "geo": {
+    "lat": 41.967606,
+    "lon": -87.6592184
+   },
+   "phone": "+17732751212",
+   "website": "https://faclimbing.com/chicago/uptown/",
+   "opening_hours": "Mo-Fr 06:00-23:00, Sa-Su 10:00–20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/210382218",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "sivananda-yoga-vedanta-center-chicago",
+   "name": "Sivananda Yoga Vedanta Center",
+   "summary": "Sivananda Yoga Vedanta Center is a yoga studio in Chicago, IL at 1246 West Bryn Mawr Avenue, Chicago, IL 60660. Phone: +17738787771. Website: https://sivanandachicago.org/.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sivananda-yoga-vedanta-center-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sivananda-yoga-vedanta-center-chicago.json",
+   "address": {
+    "streetAddress": "1246 West Bryn Mawr Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60660",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60660",
+   "geo": {
+    "lat": 41.9837717,
+    "lon": -87.662396
+   },
+   "phone": "+17738787771",
+   "website": "https://sivanandachicago.org/",
+   "opening_hours": "Mo,Tu 06:00-21:30; We,Th 06:00-21:00; Fr 06:00-20:00; Sa 06:00-12:30; Su 14:00-20:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11568417633",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "the-hot-room-north-shore-glenview",
+   "name": "The Hot Room North Shore",
+   "summary": "The Hot Room North Shore is a yoga studio in Glenview, IL at 1926 Waukegan Road, Glenview, IL 60025. Phone: +18479986030. Website: https://thehotroomnorthshore.com/.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-hot-room-north-shore-glenview/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-hot-room-north-shore-glenview.json",
+   "address": {
+    "streetAddress": "1926 Waukegan Road",
+    "addressLocality": "Glenview",
+    "addressRegion": "IL",
+    "postalCode": "60025",
+    "addressCountry": "US"
+   },
+   "city": "Glenview",
+   "state": "IL",
+   "zip": "60025",
+   "geo": {
+    "lat": 42.0900278,
+    "lon": -87.79839
+   },
+   "phone": "+18479986030",
+   "website": "https://thehotroomnorthshore.com/",
+   "opening_hours": "Su 08:00-18:30, Mo 05:30-13:00, 16:00-19:30, Tu & Th 05:30-13:30, 16:00-21:00, We 05:30-13:30, 16:00-20:00, Fr 05:30-13:30, 17:00-19:30, Sa 06:30-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13287832746",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "the-studio-jsb-chicago",
+   "name": "The Studio JSB",
+   "summary": "The Studio JSB is a yoga studio in Chicago, IL at 3619 North Broadway, Chicago, IL 60613. Phone: +17735990330. Website: https://thestudiojsb.com/.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-studio-jsb-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-studio-jsb-chicago.json",
+   "address": {
+    "streetAddress": "3619 North Broadway",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60613",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60613",
+   "geo": {
+    "lat": 41.947921,
+    "lon": -87.6474717
+   },
+   "phone": "+17735990330",
+   "website": "https://thestudiojsb.com/",
+   "opening_hours": "\"by appointment\"",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11227973665",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
    "sponsored": false,
    "slug": "the-yoga-rooms-edina",
    "name": "The Yoga Rooms",
@@ -166,7 +376,40 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 5,
+   "position": 11,
+   "sponsored": false,
+   "slug": "arlington-ridge-center-arc-arlington-heights",
+   "name": "Arlington Ridge Center (ARC)",
+   "summary": "Arlington Ridge Center (ARC) is a yoga studio in Arlington Heights, IL at 660 North Ridge Avenue, Arlington Heights, IL. Phone: +18475773025. Website: https://www.ahpd.org/facilities/arc/.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/arlington-ridge-center-arc-arlington-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/arlington-ridge-center-arc-arlington-heights.json",
+   "address": {
+    "streetAddress": "660 North Ridge Avenue",
+    "addressLocality": "Arlington Heights",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Arlington Heights",
+   "state": "IL",
+   "geo": {
+    "lat": 42.0893896,
+    "lon": -87.9907701
+   },
+   "phone": "+18475773025",
+   "website": "https://www.ahpd.org/facilities/arc/",
+   "opening_hours": "Mo-Th 5:30-21:00; Fr 5:30-20:00; Sa 5:30-19:00; Su 6:30-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1313090153",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 12,
    "sponsored": false,
    "slug": "minneapolis-bouldering-project-minneapolis",
    "name": "Minneapolis Bouldering Project",
@@ -199,7 +442,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 6,
+   "position": 13,
    "sponsored": false,
    "slug": "radiant-life-yoga-minneapolis",
    "name": "Radiant Life Yoga",
@@ -232,7 +475,143 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 7,
+   "position": 14,
+   "sponsored": false,
+   "slug": "105f-yoga-chicago",
+   "name": "105F Yoga",
+   "summary": "105F Yoga is a yoga studio in Chicago, IL at 1344 North Milwaukee Avenue #3, Chicago, IL 60622. Phone: +17733959150. Website: https://105f.com/schedule/wicker-park-studio/.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/105f-yoga-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/105f-yoga-chicago.json",
+   "address": {
+    "streetAddress": "1344 North Milwaukee Avenue #3",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60622",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60622",
+   "geo": {
+    "lat": 41.9061229,
+    "lon": -87.6710862
+   },
+   "phone": "+17733959150",
+   "website": "https://105f.com/schedule/wicker-park-studio/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6283017408",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 15,
+   "sponsored": false,
+   "slug": "105f-yoga-chicago-n12479633036",
+   "name": "105F Yoga",
+   "summary": "105F Yoga is a yoga studio in Chicago, IL at 2736 North Clark Street #A, Chicago, IL 60614. Phone: +17733489642. Website: https://105f.com/schedule/lincoln-park-studio/.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/105f-yoga-chicago-n12479633036/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/105f-yoga-chicago-n12479633036.json",
+   "address": {
+    "streetAddress": "2736 North Clark Street #A",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60614",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60614",
+   "geo": {
+    "lat": 41.9323059,
+    "lon": -87.6449724
+   },
+   "phone": "+17733489642",
+   "website": "https://105f.com/schedule/lincoln-park-studio/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12479633036",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 16,
+   "sponsored": false,
+   "slug": "105f-yoga-chicago-n12479633037",
+   "name": "105F Yoga",
+   "summary": "105F Yoga is a yoga studio in Chicago, IL at 5715 North Clark Street, Chicago, IL 60660. Phone: +17733008658. Website: https://105f.com/105f/schedule/andersonville-studio.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/105f-yoga-chicago-n12479633037/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/105f-yoga-chicago-n12479633037.json",
+   "address": {
+    "streetAddress": "5715 North Clark Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60660",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60660",
+   "geo": {
+    "lat": 41.9858722,
+    "lon": -87.6691014
+   },
+   "phone": "+17733008658",
+   "website": "https://105f.com/105f/schedule/andersonville-studio",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12479633037",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 17,
+   "sponsored": false,
+   "slug": "abhyaasa-yoga-naperville",
+   "name": "Abhyaasa Yoga",
+   "summary": "Abhyaasa Yoga is a yoga studio in Naperville, IL at 124 South Webster Street, Naperville, IL 60540. Phone: +16303589642. Website: https://www.abhyaasayoga.com/.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/abhyaasa-yoga-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/abhyaasa-yoga-naperville.json",
+   "address": {
+    "streetAddress": "124 South Webster Street",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60540",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60540",
+   "geo": {
+    "lat": 41.7732161,
+    "lon": -88.1510244
+   },
+   "phone": "+16303589642",
+   "website": "https://www.abhyaasayoga.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8955566224",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 18,
    "sponsored": false,
    "slug": "blooma-minneapolis",
    "name": "Blooma",
@@ -266,7 +645,41 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 8,
+   "position": 19,
+   "sponsored": false,
+   "slug": "blue-lotus-chicago",
+   "name": "Blue Lotus",
+   "summary": "Blue Lotus is a yoga studio in Chicago, IL at 816 East 63rd Street, Chicago, IL 60637. Phone: +17735991892. Website: https://www.bluelotuschicago.com/.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/blue-lotus-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/blue-lotus-chicago.json",
+   "address": {
+    "streetAddress": "816 East 63rd Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60637",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60637",
+   "geo": {
+    "lat": 41.78059,
+    "lon": -87.6052352
+   },
+   "phone": "+17735991892",
+   "website": "https://www.bluelotuschicago.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8619401967",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 20,
    "sponsored": false,
    "slug": "corepower-yoga-saint-louis-park",
    "name": "CorePower Yoga",
@@ -300,7 +713,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 9,
+   "position": 21,
    "sponsored": false,
    "slug": "fly-freak-studio-saint-paul",
    "name": "Fly Freak Studio",
@@ -334,7 +747,109 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 10,
+   "position": 22,
+   "sponsored": false,
+   "slug": "heaven-meets-earth-yoga-ecstatic-dance-evolution-evanston",
+   "name": "Heaven Meets Earth  YOGA, Ecstatic Dance Evolution",
+   "summary": "Heaven Meets Earth  YOGA, Ecstatic Dance Evolution is a yoga studio in Evanston, IL at 2746 Central Street, Evanston, IL 60201. Phone: +18474751500. Website: https://www.heavenmeetsearthyoga.com/.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/heaven-meets-earth-yoga-ecstatic-dance-evolution-evanston/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/heaven-meets-earth-yoga-ecstatic-dance-evolution-evanston.json",
+   "address": {
+    "streetAddress": "2746 Central Street",
+    "addressLocality": "Evanston",
+    "addressRegion": "IL",
+    "postalCode": "60201",
+    "addressCountry": "US"
+   },
+   "city": "Evanston",
+   "state": "IL",
+   "zip": "60201",
+   "geo": {
+    "lat": 42.0642998,
+    "lon": -87.7127752
+   },
+   "phone": "+18474751500",
+   "website": "https://www.heavenmeetsearthyoga.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4854965579",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 23,
+   "sponsored": false,
+   "slug": "hot-yoga-naperville-naperville",
+   "name": "Hot Yoga Naperville",
+   "summary": "Hot Yoga Naperville is a yoga studio in Naperville, IL at 400 South Main Street, Naperville, IL 60540. Phone: +16304507406. Website: https://www.hotyoganaperville.com/.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hot-yoga-naperville-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hot-yoga-naperville-naperville.json",
+   "address": {
+    "streetAddress": "400 South Main Street",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60540",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60540",
+   "geo": {
+    "lat": 41.7700995,
+    "lon": -88.1493529
+   },
+   "phone": "+16304507406",
+   "website": "https://www.hotyoganaperville.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5815958830",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 24,
+   "sponsored": false,
+   "slug": "inpowered-therapy-yoga-chicago",
+   "name": "InPowered Therapy + Yoga",
+   "summary": "InPowered Therapy + Yoga is a therapy practice in Chicago, IL at 2220 West Lawrence Avenue, Chicago, IL 60625. Phone: +13128344889. Website: https://www.inpoweredtherapy.com/.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/inpowered-therapy-yoga-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/inpowered-therapy-yoga-chicago.json",
+   "address": {
+    "streetAddress": "2220 West Lawrence Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60625",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60625",
+   "geo": {
+    "lat": 41.9688037,
+    "lon": -87.6850766
+   },
+   "phone": "+13128344889",
+   "website": "https://www.inpoweredtherapy.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12560744501",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 25,
    "sponsored": false,
    "slug": "modo-yoga-minneapolis",
    "name": "Modo Yoga",
@@ -368,7 +883,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 11,
+   "position": 26,
    "sponsored": false,
    "slug": "saint-paul-yoga-center-saint-paul",
    "name": "Saint Paul Yoga Center",
@@ -402,7 +917,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 12,
+   "position": 27,
    "sponsored": false,
    "slug": "sunna-minneapolis",
    "name": "Sunna",
@@ -436,7 +951,41 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 13,
+   "position": 28,
+   "sponsored": false,
+   "slug": "yoga-for-all-beings-chicago",
+   "name": "Yoga For All Beings",
+   "summary": "Yoga For All Beings is a yoga studio in Chicago, IL at 508 North Hoyne Avenue, Chicago, IL 60612. Phone: +13129389642. Website: https://www.yogaforallbeings.com/.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/yoga-for-all-beings-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/yoga-for-all-beings-chicago.json",
+   "address": {
+    "streetAddress": "508 North Hoyne Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60612",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60612",
+   "geo": {
+    "lat": 41.8911012,
+    "lon": -87.6797098
+   },
+   "phone": "+13129389642",
+   "website": "https://www.yogaforallbeings.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/209841797",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 29,
    "sponsored": false,
    "slug": "yogafit-edina",
    "name": "YogaFit",
@@ -470,7 +1019,41 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 14,
+   "position": 30,
+   "sponsored": false,
+   "slug": "yogasix-hyde-park-chicago",
+   "name": "YogaSix Hyde Park",
+   "summary": "YogaSix Hyde Park is a yoga studio in Chicago, IL at 1618 East 53rd Street, Chicago, IL 60615. Phone: +13128251167. Website: https://www.yogasix.com/location/hyde-park.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/yogasix-hyde-park-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/yogasix-hyde-park-chicago.json",
+   "address": {
+    "streetAddress": "1618 East 53rd Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60615",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60615",
+   "geo": {
+    "lat": 41.7997285,
+    "lon": -87.5859219
+   },
+   "phone": "+13128251167",
+   "website": "https://www.yogasix.com/location/hyde-park",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8899360281",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 31,
    "sponsored": false,
    "slug": "corepower-yoga-roseville",
    "name": "CorePower Yoga",
@@ -502,7 +1085,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 15,
+   "position": 32,
    "sponsored": false,
    "slug": "motion-city-new-brighton",
    "name": "Motion City",
@@ -534,7 +1117,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 16,
+   "position": 33,
    "sponsored": false,
    "slug": "ymca-minneapolis",
    "name": "YMCA",
@@ -568,7 +1151,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 17,
+   "position": 34,
    "sponsored": false,
    "slug": "corepower-yoga-saint-paul",
    "name": "CorePower Yoga",
@@ -599,7 +1182,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 18,
+   "position": 35,
    "sponsored": false,
    "slug": "612-jungle-minneapolis",
    "name": "612 Jungle",
@@ -632,7 +1215,172 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 19,
+   "position": 36,
+   "sponsored": false,
+   "slug": "corepower-yoga-chicago",
+   "name": "CorePower Yoga",
+   "summary": "CorePower Yoga is a yoga studio in Chicago, IL at 1704 North Milwaukee Avenue #D, Chicago, IL 60647. Website: https://www.corepoweryoga.com/yoga-studios/il/chicago/bucktown.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/corepower-yoga-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/corepower-yoga-chicago.json",
+   "address": {
+    "streetAddress": "1704 North Milwaukee Avenue #D",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60647",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60647",
+   "geo": {
+    "lat": 41.9125466,
+    "lon": -87.6813642
+   },
+   "website": "https://www.corepoweryoga.com/yoga-studios/il/chicago/bucktown",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3570229767",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 37,
+   "sponsored": false,
+   "slug": "corepower-yoga-chicago-n10563052797",
+   "name": "CorePower Yoga",
+   "summary": "CorePower Yoga is a yoga studio in Chicago, IL at 959 West Webster Avenue, Chicago, IL 60614. Website: https://www.corepoweryoga.com/yoga-studios/il/chicago/lincoln-park.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/corepower-yoga-chicago-n10563052797/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/corepower-yoga-chicago-n10563052797.json",
+   "address": {
+    "streetAddress": "959 West Webster Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60614",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60614",
+   "geo": {
+    "lat": 41.9216292,
+    "lon": -87.6533136
+   },
+   "website": "https://www.corepoweryoga.com/yoga-studios/il/chicago/lincoln-park",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10563052797",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 38,
+   "sponsored": false,
+   "slug": "corepower-yoga-chicago-n12202303623",
+   "name": "CorePower Yoga",
+   "summary": "CorePower Yoga is a yoga studio in Chicago, IL at 555 West Roosevelt Road, Chicago, IL 60607. Website: https://www.corepoweryoga.com/yoga-studios/il/chicago/south-loop.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/corepower-yoga-chicago-n12202303623/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/corepower-yoga-chicago-n12202303623.json",
+   "address": {
+    "streetAddress": "555 West Roosevelt Road",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60607",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60607",
+   "geo": {
+    "lat": 41.8668569,
+    "lon": -87.6415252
+   },
+   "website": "https://www.corepoweryoga.com/yoga-studios/il/chicago/south-loop",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12202303623",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 39,
+   "sponsored": false,
+   "slug": "corepower-yoga-park-ridge",
+   "name": "CorePower Yoga",
+   "summary": "CorePower Yoga is a yoga studio in Park Ridge, IL at 991 West Touhy Avenue, Park Ridge, IL 60068. Website: https://www.corepoweryoga.com/yoga-studios/il/chicago/park-ridge.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/corepower-yoga-park-ridge/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/corepower-yoga-park-ridge.json",
+   "address": {
+    "streetAddress": "991 West Touhy Avenue",
+    "addressLocality": "Park Ridge",
+    "addressRegion": "IL",
+    "postalCode": "60068",
+    "addressCountry": "US"
+   },
+   "city": "Park Ridge",
+   "state": "IL",
+   "zip": "60068",
+   "geo": {
+    "lat": 42.01078,
+    "lon": -87.8385569
+   },
+   "website": "https://www.corepoweryoga.com/yoga-studios/il/chicago/park-ridge",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13522967412",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 40,
+   "sponsored": false,
+   "slug": "elite-center-glenview",
+   "name": "Elite Center",
+   "summary": "Elite Center is a yoga studio in Glenview, IL at 1841 Waukegan Road, Glenview, IL 60025. Website: https://elitecenter.net/.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/elite-center-glenview/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/elite-center-glenview.json",
+   "address": {
+    "streetAddress": "1841 Waukegan Road",
+    "addressLocality": "Glenview",
+    "addressRegion": "IL",
+    "postalCode": "60025",
+    "addressCountry": "US"
+   },
+   "city": "Glenview",
+   "state": "IL",
+   "zip": "60025",
+   "geo": {
+    "lat": 42.0886195,
+    "lon": -87.797408
+   },
+   "website": "https://elitecenter.net/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/802048914",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 41,
    "sponsored": false,
    "slug": "open-minds-fusion-studio-minneapolis",
    "name": "Open Minds Fusion Studio",
@@ -665,7 +1413,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 20,
+   "position": 42,
    "sponsored": false,
    "slug": "shakra-yoga-and-fitness-shakopee",
    "name": "ShakRa Yoga & Fitness",
@@ -698,7 +1446,73 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 21,
+   "position": 43,
+   "sponsored": false,
+   "slug": "shyft-naperville",
+   "name": "Shyft",
+   "summary": "Shyft is a yoga studio in Naperville, IL at 39 1/2 West Jefferson Avenue, Naperville, IL 60540. Website: https://www.shyftnaperville.com/.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/shyft-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/shyft-naperville.json",
+   "address": {
+    "streetAddress": "39 1/2 West Jefferson Avenue",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60540",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60540",
+   "geo": {
+    "lat": 41.773095,
+    "lon": -88.1492987
+   },
+   "website": "https://www.shyftnaperville.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8955665152",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 44,
+   "sponsored": false,
+   "slug": "studio-yogi-chicago",
+   "name": "Studio Yogi",
+   "summary": "Studio Yogi is a yoga studio in Chicago, IL at 1840 East 71st Street, Chicago, IL 60649. Website: https://www.studioyogi.com/.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/studio-yogi-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/studio-yogi-chicago.json",
+   "address": {
+    "streetAddress": "1840 East 71st Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60649",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60649",
+   "geo": {
+    "lat": 41.7662969,
+    "lon": -87.5796974
+   },
+   "website": "https://www.studioyogi.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3292745986",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 45,
    "sponsored": false,
    "slug": "tula-yoga-and-wellness-saint-paul",
    "name": "Tula Yoga & Wellness",
@@ -731,7 +1545,38 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 22,
+   "position": 46,
+   "sponsored": false,
+   "slug": "yoga-room-chicago",
+   "name": "Yoga Room",
+   "summary": "Yoga Room is a yoga studio in Chicago, IL. Website: https://www.flychicago.com/ohare/ServicesAmenities/amenities/Pages/yoga.aspx.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/yoga-room-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/yoga-room-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9754406,
+    "lon": -87.9034638
+   },
+   "website": "https://www.flychicago.com/ohare/ServicesAmenities/amenities/Pages/yoga.aspx",
+   "opening_hours": "Mo-Su 06:00-22:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6390528707",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 47,
    "sponsored": false,
    "slug": "yogafit-minneapolis",
    "name": "YogaFit",
@@ -762,7 +1607,263 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 23,
+   "position": 48,
+   "sponsored": false,
+   "slug": "corepower-yoga-glenview",
+   "name": "CorePower Yoga",
+   "summary": "CorePower Yoga is a yoga studio in Glenview, IL at 1819 Glenview Road, Glenview, IL 60025.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/corepower-yoga-glenview/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/corepower-yoga-glenview.json",
+   "address": {
+    "streetAddress": "1819 Glenview Road",
+    "addressLocality": "Glenview",
+    "addressRegion": "IL",
+    "postalCode": "60025",
+    "addressCountry": "US"
+   },
+   "city": "Glenview",
+   "state": "IL",
+   "zip": "60025",
+   "geo": {
+    "lat": 42.0726206,
+    "lon": -87.8032788
+   },
+   "opening_hours": "Mo-Su 06:00-22:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6273044272",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 49,
+   "sponsored": false,
+   "slug": "jacoby-dickens-athletic-center-chicago",
+   "name": "Jacoby Dickens Athletic Center",
+   "summary": "Jacoby Dickens Athletic Center is a yoga studio in Chicago, IL at 9501 South Doctor Martin Luther King Junior Drive, Chicago, IL 60628.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jacoby-dickens-athletic-center-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jacoby-dickens-athletic-center-chicago.json",
+   "address": {
+    "streetAddress": "9501 South Doctor Martin Luther King Junior Drive",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60628",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60628",
+   "geo": {
+    "lat": 41.71776,
+    "lon": -87.6085777
+   },
+   "opening_hours": "sunrise-sunset",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/210817043",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 50,
+   "sponsored": false,
+   "slug": "evolution-yoga-glenview",
+   "name": "Evolution Yoga",
+   "summary": "Evolution Yoga is a yoga studio in Glenview, IL. Website: https://www.evolutionyogaglenview.com/.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/evolution-yoga-glenview/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/evolution-yoga-glenview.json",
+   "address": {
+    "addressLocality": "Glenview",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Glenview",
+   "state": "IL",
+   "geo": {
+    "lat": 42.0885307,
+    "lon": -87.797527
+   },
+   "website": "https://www.evolutionyogaglenview.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7502096375",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 51,
+   "sponsored": false,
+   "slug": "corepower-yoga-arlington-heights",
+   "name": "CorePower Yoga",
+   "summary": "CorePower Yoga is a yoga studio in Arlington Heights, IL at South Evergreen Avenue, Arlington Heights, IL 60004.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/corepower-yoga-arlington-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/corepower-yoga-arlington-heights.json",
+   "address": {
+    "streetAddress": "South Evergreen Avenue",
+    "addressLocality": "Arlington Heights",
+    "addressRegion": "IL",
+    "postalCode": "60004",
+    "addressCountry": "US"
+   },
+   "city": "Arlington Heights",
+   "state": "IL",
+   "zip": "60004",
+   "geo": {
+    "lat": 42.0825512,
+    "lon": -87.9812394
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13887695901",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 52,
+   "sponsored": false,
+   "slug": "corepower-yoga-chicago-n12563653524",
+   "name": "CorePower Yoga",
+   "summary": "CorePower Yoga is a yoga studio in Chicago, IL at 227 East Ontario Street #202, Chicago, IL 60611.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/corepower-yoga-chicago-n12563653524/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/corepower-yoga-chicago-n12563653524.json",
+   "address": {
+    "streetAddress": "227 East Ontario Street #202",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60611",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60611",
+   "geo": {
+    "lat": 41.8932409,
+    "lon": -87.6215611
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12563653524",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 53,
+   "sponsored": false,
+   "slug": "corepower-yoga-chicago-n13141659502",
+   "name": "CorePower Yoga",
+   "summary": "CorePower Yoga is a yoga studio in Chicago, IL at 3232 North Lincoln Avenue, Chicago, IL 60657.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/corepower-yoga-chicago-n13141659502/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/corepower-yoga-chicago-n13141659502.json",
+   "address": {
+    "streetAddress": "3232 North Lincoln Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60657",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60657",
+   "geo": {
+    "lat": 41.9407647,
+    "lon": -87.6695935
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13141659502",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 54,
+   "sponsored": false,
+   "slug": "corepower-yoga-chicago-n13333018902",
+   "name": "CorePower Yoga",
+   "summary": "CorePower Yoga is a yoga studio in Chicago, IL at 158 West Washington Street, Chicago, IL 60602.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/corepower-yoga-chicago-n13333018902/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/corepower-yoga-chicago-n13333018902.json",
+   "address": {
+    "streetAddress": "158 West Washington Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60602",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60602",
+   "geo": {
+    "lat": 41.8833609,
+    "lon": -87.6328574
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13333018902",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 55,
+   "sponsored": false,
+   "slug": "corepower-yoga-chicago-w162472411",
+   "name": "CorePower Yoga",
+   "summary": "CorePower Yoga is a yoga studio in Chicago, IL at 4124 West Peterson Avenue, Chicago, IL 60646.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/corepower-yoga-chicago-w162472411/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/corepower-yoga-chicago-w162472411.json",
+   "address": {
+    "streetAddress": "4124 West Peterson Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60646",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60646",
+   "geo": {
+    "lat": 41.9903662,
+    "lon": -87.732288
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/162472411",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 56,
    "sponsored": false,
    "slug": "corepower-yoga-minneapolis",
    "name": "CorePower Yoga",
@@ -794,7 +1895,103 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 24,
+   "position": 57,
+   "sponsored": false,
+   "slug": "corepower-yoga-oak-park",
+   "name": "CorePower Yoga",
+   "summary": "CorePower Yoga is a yoga studio in Oak Park, IL at 855 Madison Street, Oak Park, IL 60302.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/corepower-yoga-oak-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/corepower-yoga-oak-park.json",
+   "address": {
+    "streetAddress": "855 Madison Street",
+    "addressLocality": "Oak Park",
+    "addressRegion": "IL",
+    "postalCode": "60302",
+    "addressCountry": "US"
+   },
+   "city": "Oak Park",
+   "state": "IL",
+   "zip": "60302",
+   "geo": {
+    "lat": 41.879505,
+    "lon": -87.7970894
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1354573967",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 58,
+   "sponsored": false,
+   "slug": "corepower-yoga-winnetka",
+   "name": "CorePower Yoga",
+   "summary": "CorePower Yoga is a yoga studio in Winnetka, IL at 850 Green Bay Road, Winnetka, IL 60093.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/corepower-yoga-winnetka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/corepower-yoga-winnetka.json",
+   "address": {
+    "streetAddress": "850 Green Bay Road",
+    "addressLocality": "Winnetka",
+    "addressRegion": "IL",
+    "postalCode": "60093",
+    "addressCountry": "US"
+   },
+   "city": "Winnetka",
+   "state": "IL",
+   "zip": "60093",
+   "geo": {
+    "lat": 42.1148044,
+    "lon": -87.7414425
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11869571928",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 59,
+   "sponsored": false,
+   "slug": "forever-om-yoga-lake-forest",
+   "name": "Forever Om Yoga",
+   "summary": "Forever Om Yoga is a yoga studio in Lake Forest, IL at 828 North Western Avenue, Lake Forest, IL 60045.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/forever-om-yoga-lake-forest/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/forever-om-yoga-lake-forest.json",
+   "address": {
+    "streetAddress": "828 North Western Avenue",
+    "addressLocality": "Lake Forest",
+    "addressRegion": "IL",
+    "postalCode": "60045",
+    "addressCountry": "US"
+   },
+   "city": "Lake Forest",
+   "state": "IL",
+   "zip": "60045",
+   "geo": {
+    "lat": 42.2546813,
+    "lon": -87.8409709
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/886372892",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 60,
    "sponsored": false,
    "slug": "green-lotus-yoga-and-healing-eden-prairie",
    "name": "Green Lotus Yoga & Healing",
@@ -826,7 +2023,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 25,
+   "position": 61,
    "sponsored": false,
    "slug": "mind-body-solutions-saint-louis-park",
    "name": "Mind Body Solutions",
@@ -858,7 +2055,39 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 26,
+   "position": 62,
+   "sponsored": false,
+   "slug": "moksha-yoga-center-chicago",
+   "name": "Moksha Yoga Center",
+   "summary": "Moksha Yoga Center is a yoga studio in Chicago, IL at 700 North Carpenter Street, Chicago, IL 60642.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/moksha-yoga-center-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/moksha-yoga-center-chicago.json",
+   "address": {
+    "streetAddress": "700 North Carpenter Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60642",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60642",
+   "geo": {
+    "lat": 41.8945599,
+    "lon": -87.6537179
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2422439456",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 63,
    "sponsored": false,
    "slug": "movement-arts-center-minneapolis",
    "name": "Movement Arts Center",
@@ -890,7 +2119,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 27,
+   "position": 64,
    "sponsored": false,
    "slug": "onx-amelia-saint-paul",
    "name": "Onx + Amelia",
@@ -920,7 +2149,39 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 28,
+   "position": 65,
+   "sponsored": false,
+   "slug": "the-garage-chicago-gym-chicago",
+   "name": "The Garage Chicago Gym",
+   "summary": "The Garage Chicago Gym is a yoga studio in Chicago, IL at 2501 West Chicago Avenue, Chicago, IL 60622.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-garage-chicago-gym-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-garage-chicago-gym-chicago.json",
+   "address": {
+    "streetAddress": "2501 West Chicago Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60622",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60622",
+   "geo": {
+    "lat": 41.8953937,
+    "lon": -87.6895085
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/209390224",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 66,
    "sponsored": false,
    "slug": "the-yoga-center-retreat-saint-louis-park",
    "name": "The Yoga Center Retreat",
@@ -952,7 +2213,69 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 29,
+   "position": 67,
+   "sponsored": false,
+   "slug": "yoga-room-chicago-w1295101062",
+   "name": "Yoga Room",
+   "summary": "Yoga Room is a yoga studio in Chicago, IL.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/yoga-room-chicago-w1295101062/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/yoga-room-chicago-w1295101062.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7890788,
+    "lon": -87.7419842
+   },
+   "opening_hours": "06:00-22:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1295101062",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 68,
+   "sponsored": false,
+   "slug": "yoga-trek-oak-park",
+   "name": "Yoga Trek",
+   "summary": "Yoga Trek is a yoga studio in Oak Park, IL at 911 South Lombard Avenue, Oak Park, IL 60304.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/yoga-trek-oak-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/yoga-trek-oak-park.json",
+   "address": {
+    "streetAddress": "911 South Lombard Avenue",
+    "addressLocality": "Oak Park",
+    "addressRegion": "IL",
+    "postalCode": "60304",
+    "addressCountry": "US"
+   },
+   "city": "Oak Park",
+   "state": "IL",
+   "zip": "60304",
+   "geo": {
+    "lat": 41.8722771,
+    "lon": -87.7795089
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3750501801",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 69,
    "sponsored": false,
    "slug": "yogafit-minneapolis-n10104612819",
    "name": "YogaFit",
@@ -984,7 +2307,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 30,
+   "position": 70,
    "sponsored": false,
    "slug": "yess-yoga-minneapolis",
    "name": "Yess Yoga",
@@ -1014,7 +2337,36 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 31,
+   "position": 71,
+   "sponsored": false,
+   "slug": "amore-yoga-burr-ridge",
+   "name": "Amore Yoga",
+   "summary": "Amore Yoga is a yoga studio in Burr Ridge, IL.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/amore-yoga-burr-ridge/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/amore-yoga-burr-ridge.json",
+   "address": {
+    "addressLocality": "Burr Ridge",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Burr Ridge",
+   "state": "IL",
+   "geo": {
+    "lat": 41.750617,
+    "lon": -87.9116349
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10837806896",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 72,
    "sponsored": false,
    "slug": "big-river-yoga-minneapolis",
    "name": "Big River Yoga",
@@ -1043,7 +2395,94 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 32,
+   "position": 73,
+   "sponsored": false,
+   "slug": "brahma-kumaris-meditation-center-chicago",
+   "name": "Brahma Kumaris Meditation Center",
+   "summary": "Brahma Kumaris Meditation Center is a yoga studio in Chicago, IL.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/brahma-kumaris-meditation-center-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/brahma-kumaris-meditation-center-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9398203,
+    "lon": -87.6483131
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6744908267",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 74,
+   "sponsored": false,
+   "slug": "corepower-yoga-chicago-n12167120474",
+   "name": "CorePower Yoga",
+   "summary": "CorePower Yoga is a yoga studio in Chicago, IL.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/corepower-yoga-chicago-n12167120474/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/corepower-yoga-chicago-n12167120474.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8838875,
+    "lon": -87.6595576
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12167120474",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 75,
+   "sponsored": false,
+   "slug": "corepower-yoga-skokie",
+   "name": "CorePower Yoga",
+   "summary": "CorePower Yoga is a yoga studio in Skokie, IL.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/corepower-yoga-skokie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/corepower-yoga-skokie.json",
+   "address": {
+    "addressLocality": "Skokie",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Skokie",
+   "state": "IL",
+   "geo": {
+    "lat": 42.0575928,
+    "lon": -87.7503198
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7536470660",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 76,
    "sponsored": false,
    "slug": "fit-lab-falcon-heights",
    "name": "FIT Lab",
@@ -1072,7 +2511,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 33,
+   "position": 77,
    "sponsored": false,
    "slug": "md-wellness-brooklyn-park",
    "name": "MD Wellness",
@@ -1099,6 +2538,409 @@
    "source": "OpenStreetMap",
    "source_url": "https://www.openstreetmap.org/node/8147867921",
    "last_checked": "2026-10-17"
+  },
+  {
+   "position": 78,
+   "sponsored": false,
+   "slug": "silver-lotus-yoga-wauconda",
+   "name": "Silver Lotus Yoga",
+   "summary": "Silver Lotus Yoga is a yoga studio in Wauconda, IL.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/silver-lotus-yoga-wauconda/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/silver-lotus-yoga-wauconda.json",
+   "address": {
+    "addressLocality": "Wauconda",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Wauconda",
+   "state": "IL",
+   "geo": {
+    "lat": 42.259162,
+    "lon": -88.1397651
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9284680771",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 79,
+   "sponsored": false,
+   "slug": "studio-8-la-grange",
+   "name": "Studio 8",
+   "summary": "Studio 8 is a yoga studio in La Grange, IL.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/studio-8-la-grange/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/studio-8-la-grange.json",
+   "address": {
+    "addressLocality": "La Grange",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "La Grange",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8196538,
+    "lon": -87.8704822
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9731074564",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 80,
+   "sponsored": false,
+   "slug": "yoga-by-degrees-western-springs",
+   "name": "Yoga by Degrees",
+   "summary": "Yoga by Degrees is a yoga studio in Western Springs, IL.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/yoga-by-degrees-western-springs/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/yoga-by-degrees-western-springs.json",
+   "address": {
+    "addressLocality": "Western Springs",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Western Springs",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8034624,
+    "lon": -87.89108
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9525629410",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 81,
+   "sponsored": false,
+   "slug": "yoga-six-highland-park",
+   "name": "Yoga Six",
+   "summary": "Yoga Six is a yoga studio in Highland Park, IL.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/yoga-six-highland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/yoga-six-highland-park.json",
+   "address": {
+    "addressLocality": "Highland Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Highland Park",
+   "state": "IL",
+   "geo": {
+    "lat": 42.1844401,
+    "lon": -87.8002173
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13194761842",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 82,
+   "sponsored": false,
+   "slug": "yogasix-downers-grove",
+   "name": "Yogasix",
+   "summary": "Yogasix is a yoga studio in Downers Grove, IL.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/yogasix-downers-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/yogasix-downers-grove.json",
+   "address": {
+    "addressLocality": "Downers Grove",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Downers Grove",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7960888,
+    "lon": -88.0100075
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9847087717",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 83,
+   "sponsored": false,
+   "slug": "yogaview-chicago-chicago",
+   "name": "yogaview Chicago",
+   "summary": "yogaview Chicago is a yoga studio in Chicago, IL.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/yogaview-chicago-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/yogaview-chicago-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9216872,
+    "lon": -87.6721987
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12216952892",
+   "last_checked": "2026-10-17"
   }
- ]
+ ],
+ "market": {
+  "keyword": "yoga classes",
+  "slug": "yoga-classes",
+  "base_keyword": "yoga classes",
+  "scope": "national",
+  "city": null,
+  "state": null,
+  "category": "Fitness",
+  "industry": "Health & Fitness",
+  "us_monthly_searches": {
+   "value": 74000,
+   "method": "cited",
+   "source": "gkp_admiral",
+   "as_of": "2026-08",
+   "source_phrase": "yoga classes",
+   "note": "Google Keyword Planner avg monthly searches, US"
+  },
+  "local_monthly_searches": null,
+  "cpc_usd": {
+   "industry_benchmark": "Health & Fitness",
+   "low_usd": 5.0,
+   "median_usd": 6.17,
+   "high_usd": 6.17,
+   "method": "published benchmarks: low/high = range of the industry and sub-industry median CPCs listed in 'figures'; median = most specific benchmark",
+   "figures": [
+    {
+     "usd": 6.17,
+     "label": "Health & Fitness median CPC 2026",
+     "source": "wordstream_2026"
+    },
+    {
+     "usd": 5.0,
+     "label": "Health & Fitness median CPC 2025",
+     "source": "wordstream_2025"
+    }
+   ],
+   "source": "wordstream_2026",
+   "as_of": "2026",
+   "keyword_top_of_page_bid_usd": {
+    "low": 1.78,
+    "high": 5.13,
+    "phrase": "yoga classes",
+    "source": "gkp_admiral",
+    "as_of": "2026-08"
+   },
+   "basis_for_value": {
+    "usd": 1.78,
+    "method": "low end of the Google Keyword Planner top-of-page bid range ($1.78-$5.13) for 'yoga classes' (conservative; keyword-specific)",
+    "source": "gkp_admiral"
+   }
+  },
+  "ctr_pct": {
+   "value": 7.18,
+   "label": "Health & Fitness average search-ad CTR 2025",
+   "source": "wordstream_2025",
+   "as_of": "2025-03"
+  },
+  "competition": {
+   "level": "low",
+   "method": "Google Keyword Planner competition index (advertiser density)",
+   "phrase": "yoga classes",
+   "source": "gkp_admiral",
+   "as_of": "2026-08"
+  },
+  "trend": null,
+  "seasonality": {
+   "value": null,
+   "note": "No seasonality data in the research sources for this keyword."
+  },
+  "ai_query": {
+   "text": "No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.",
+   "figures": [
+    {
+     "value": "45%",
+     "label": "US adults using AI for local recommendations",
+     "source": "brightlocal_lcrs_2026"
+    },
+    {
+     "value": "75%",
+     "label": "sessions with keyword-style prompts",
+     "source": "sagapixel_sel"
+    },
+    {
+     "value": "59%",
+     "label": "local-intent prompts that triggered web search",
+     "source": "nectiv"
+    }
+   ],
+   "as_of": "2026"
+  },
+  "registry_competitors": {
+   "value": 83,
+   "slugs": [
+    "105f-yoga-chicago",
+    "105f-yoga-chicago-n12470308851",
+    "105f-yoga-chicago-n12479633036",
+    "105f-yoga-chicago-n12479633037",
+    "612-jungle-minneapolis",
+    "abhyaasa-yoga-naperville",
+    "amore-yoga-burr-ridge",
+    "arlington-ridge-center-arc-arlington-heights",
+    "big-river-yoga-minneapolis",
+    "bks-lyengar-yoga-center-minneapolis"
+   ],
+   "method_id": "competitors",
+   "source": "registry",
+   "as_of": "2026-10-18",
+   "urls": [
+    "https://dingalinged-cpu.github.io/registry/c/105f-yoga-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/105f-yoga-chicago-n12470308851/",
+    "https://dingalinged-cpu.github.io/registry/c/105f-yoga-chicago-n12479633036/",
+    "https://dingalinged-cpu.github.io/registry/c/105f-yoga-chicago-n12479633037/",
+    "https://dingalinged-cpu.github.io/registry/c/612-jungle-minneapolis/",
+    "https://dingalinged-cpu.github.io/registry/c/abhyaasa-yoga-naperville/",
+    "https://dingalinged-cpu.github.io/registry/c/amore-yoga-burr-ridge/",
+    "https://dingalinged-cpu.github.io/registry/c/arlington-ridge-center-arc-arlington-heights/",
+    "https://dingalinged-cpu.github.io/registry/c/big-river-yoga-minneapolis/",
+    "https://dingalinged-cpu.github.io/registry/c/bks-lyengar-yoga-center-minneapolis/"
+   ],
+   "method": "count of registry listings tagged with the keyword (city/national) or with the base service in the same state (state keywords)"
+  },
+  "agent_demand": null,
+  "agent_demand_note": "Not yet measured. Will carry AI-agent query counts from the registry's agent analytics (contract: meta.agent_demand_contract in the market index).",
+  "equivalent_google_ads_cost_month": {
+   "value_usd": 9500,
+   "method": "estimate",
+   "method_id": "google_ads_equiv",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote."
+  },
+  "search_value_index": {
+   "value_usd": 130000,
+   "method": "estimate",
+   "method_id": "value_index",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: search value index = monthly searches x CPC basis; an advertiser-value ranking signal, not revenue; rounded to 2 significant figures."
+  },
+  "auction": {
+   "featured_spot_min_usd": 250,
+   "spots_2_to_4_min_usd": 25,
+   "tier": "high",
+   "pricing_rule": "tier minimum (premium $500, high $250, mid $100, standard $50) for national keywords; city = max($10, 20% of tier); state = max($10, 35% of tier); spots 2-4 open at 10% of the featured minimum",
+   "model": "Monthly auction in the last 7 days of each month: days 1-5 bid for the Featured #1 spot, days 6-7 for spots 2-4; winners display all next month; all paid spots labeled Sponsored.",
+   "next_auctions": [
+    {
+     "display_month": "2026-11",
+     "featured_spot_bidding": [
+      "2026-10-25",
+      "2026-10-29"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-10-30",
+      "2026-10-31"
+     ]
+    },
+    {
+     "display_month": "2026-12",
+     "featured_spot_bidding": [
+      "2026-11-24",
+      "2026-11-28"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-11-29",
+      "2026-11-30"
+     ]
+    }
+   ],
+   "source": "registry_auction",
+   "as_of": "2026-10-18"
+  },
+  "sources": {
+   "brightlocal_lcrs_2026": {
+    "name": "BrightLocal Local Consumer Review Survey 2026 (n=1,002 US adults)",
+    "url": "https://www.brightlocal.com/research/lcrs-ai-trust/",
+    "as_of": "2026"
+   },
+   "gkp_admiral": {
+    "name": "Google Keyword Planner export (US, 12-mo avg Sep 2025-Aug 2026; top-of-page bids converted INR->USD at 95.82 ECB 2026-09-25)",
+    "publisher": "Admiral (meetadmiral.com)",
+    "url": "https://meetadmiral.com/downloads/google-ads-cost-us-2025-09-to-2026-08.csv",
+    "as_of": "2026-08"
+   },
+   "nectiv": {
+    "name": "Nectiv study of 8,500+ ChatGPT prompts",
+    "url": "https://nectivdigital.com/blog/new-data-study-what-queries-is-chatgpt-using-behind-the-scenes",
+    "as_of": "2025"
+   },
+   "registry": {
+    "name": "This registry's own listings (OpenStreetMap-seeded, ODbL)",
+    "url": "https://dingalinged-cpu.github.io/registry/api/companies.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_auction": {
+    "name": "Registry keyword auction catalog and rules",
+    "url": "https://dingalinged-cpu.github.io/registry/api/keyword-prices.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_estimate": {
+    "name": "Registry estimate (CC-BY-4.0); method given on each value",
+    "url": "https://dingalinged-cpu.github.io/registry/market/",
+    "as_of": "2026-10-18"
+   },
+   "sagapixel_sel": {
+    "name": "Sagapixel ChatGPT local-services sessions, via Search Engine Land",
+    "url": "https://searchengineland.com/chatgpt-users-keywords-for-local-services-data-467715",
+    "as_of": "2026-01"
+   },
+   "wordstream_2025": {
+    "name": "WordStream Google Ads Benchmarks 2025 (16,446 US campaigns, Apr 2024-Mar 2025; median CPC and CTR by industry)",
+    "url": "https://www.wordstream.com/blog/2025-google-ads-benchmarks",
+    "as_of": "2025-03"
+   },
+   "wordstream_2026": {
+    "name": "LocaliQ/WordStream Search Advertising Benchmarks 2026 (US median CPC by industry)",
+    "url": "https://www.localiq.com/blog/search-advertising-benchmarks",
+    "as_of": "2026"
+   }
+  },
+  "license": {
+   "registry_estimates": "CC-BY-4.0",
+   "url": "https://creativecommons.org/licenses/by/4.0/",
+   "cited_figures": "attribute to the publishers in sources"
+  },
+  "as_of": "2026-10-18",
+  "api": "https://dingalinged-cpu.github.io/registry/api/market/yoga-classes.json",
+  "rate_card": "https://dingalinged-cpu.github.io/registry/view/market.html#yoga-classes"
+ }
 }

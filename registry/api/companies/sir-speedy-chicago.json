@@ -1,0 +1,57 @@
+{
+ "slug": "sir-speedy-chicago",
+ "name": "Sir Speedy",
+ "categories": [
+  "printing services"
+ ],
+ "keywords": [
+  "printing services",
+  "printing services chicago il"
+ ],
+ "services": [
+  {
+   "name": "printing services",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1711 North Clybourn Avenue",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60614",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60614",
+ "geo": {
+  "lat": 41.9123825,
+  "lon": -87.6511515
+ },
+ "website": "https://www.sirspeedy.com/ChicagoIL160",
+ "brand": "Sir Speedy",
+ "wikidata": "Q17088225",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/12626228697",
+ "osm": {
+  "type": "node",
+  "id": 12626228697,
+  "tags_used": {
+   "shop": "copyshop"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/sir-speedy-chicago/",
+ "summary": "Sir Speedy is a printing service in Chicago, IL at 1711 North Clybourn Avenue, Chicago, IL 60614. Website: https://www.sirspeedy.com/ChicagoIL160.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

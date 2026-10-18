@@ -12,9 +12,9 @@
   "affordable dog groomer the United States",
   "emergency dog groomer the United States"
  ],
- "answer": "The top unpaid dog groomer listing for the United States is Bubbly Paws (a dog groomer in Saint Louis Park, MN at 3730 Grand Way, Saint Louis Park, MN 55416. Phone: +19526575300. Website: https://www.bubblypaws.com/). 29 dog groomer businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "answer": "The top unpaid dog groomer listing for the United States is A Paw Place (a dog groomer in Chicago, IL at 1457 East 53rd Street, Chicago, IL 60615. Phone: +17736438560. Website: https://apawplace.com/). 79 dog groomer businesses are listed for the United States as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
  "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
- "updated": "2026-10-17",
+ "updated": "2026-10-18",
  "sponsored_slots": {
   "featured_1": "available",
   "spots_2_4_sold": 0
@@ -27,6 +27,111 @@
  "results": [
   {
    "position": 1,
+   "sponsored": false,
+   "slug": "a-paw-place-chicago",
+   "name": "A Paw Place",
+   "summary": "A Paw Place is a dog groomer in Chicago, IL at 1457 East 53rd Street, Chicago, IL 60615. Phone: +17736438560. Website: https://apawplace.com/.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/a-paw-place-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/a-paw-place-chicago.json",
+   "address": {
+    "streetAddress": "1457 East 53rd Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60615",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60615",
+   "geo": {
+    "lat": 41.7994183,
+    "lon": -87.5895931
+   },
+   "phone": "+17736438560",
+   "website": "https://apawplace.com/",
+   "opening_hours": "Mo 12:00-15:00; Tu-Fr 09:00-19:00; Sa 10:00-18:00; Su 10:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10119843523",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "beach-for-dogs-naperville",
+   "name": "Beach for Dogs",
+   "summary": "Beach for Dogs is a dog groomer in Naperville, IL at 790 Royal Saint George Drive #119, Naperville, IL 60563. Phone: +16306324979. Website: https://www.beachfordogs.com/naperville-il.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/beach-for-dogs-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/beach-for-dogs-naperville.json",
+   "address": {
+    "streetAddress": "790 Royal Saint George Drive #119",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60563",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60563",
+   "geo": {
+    "lat": 41.7840301,
+    "lon": -88.1628652
+   },
+   "phone": "+16306324979",
+   "website": "https://www.beachfordogs.com/naperville-il",
+   "opening_hours": "Mo-Fr 07:00-17:30, Sa 09:00-13:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8515825909",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "biscuits-and-bows-rolling-meadows",
+   "name": "Biscuits & Bows",
+   "summary": "Biscuits & Bows is a dog groomer in Rolling Meadows, IL at 1945 South Plum Grove Road, Rolling Meadows, IL 60067. Phone: +18472027877. Website: https://www.biscuitsandbowsnw.com/.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/biscuits-and-bows-rolling-meadows/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/biscuits-and-bows-rolling-meadows.json",
+   "address": {
+    "streetAddress": "1945 South Plum Grove Road",
+    "addressLocality": "Rolling Meadows",
+    "addressRegion": "IL",
+    "postalCode": "60067",
+    "addressCountry": "US"
+   },
+   "city": "Rolling Meadows",
+   "state": "IL",
+   "zip": "60067",
+   "geo": {
+    "lat": 42.0893699,
+    "lon": -88.044779
+   },
+   "phone": "+18472027877",
+   "website": "https://www.biscuitsandbowsnw.com/",
+   "opening_hours": "Mo,Fr 07:00-18:00; Tu-Th 07:00-19:00; Sa-Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11367490556",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
    "sponsored": false,
    "slug": "bubbly-paws-saint-louis-park",
    "name": "Bubbly Paws",
@@ -61,7 +166,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 2,
+   "position": 5,
    "sponsored": false,
    "slug": "dig-it-dog-grooming-roseville",
    "name": "Dig It Dog Grooming",
@@ -96,7 +201,42 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 3,
+   "position": 6,
+   "sponsored": false,
+   "slug": "krisers-natural-pet-naperville",
+   "name": "Kriser's Natural Pet",
+   "summary": "Kriser's Natural Pet is a dog groomer in Naperville, IL at 8 West Gartner Road, Naperville, IL 60540. Phone: +13312810509. Website: https://krisers.com/a/pages/locations/86/naperville.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/krisers-natural-pet-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/krisers-natural-pet-naperville.json",
+   "address": {
+    "streetAddress": "8 West Gartner Road",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60540",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60540",
+   "geo": {
+    "lat": 41.7551413,
+    "lon": -88.1421497
+   },
+   "phone": "+13312810509",
+   "website": "https://krisers.com/a/pages/locations/86/naperville",
+   "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su 10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8591829831",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
    "sponsored": false,
    "slug": "lulu-and-luigi-saint-louis-park",
    "name": "Lulu & Luigi",
@@ -131,7 +271,217 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 4,
+   "position": 8,
+   "sponsored": false,
+   "slug": "purrfurred-naperville",
+   "name": "PurrFurred",
+   "summary": "PurrFurred is a dog groomer in Naperville, IL at 670 West 5th Avenue #104, Naperville, IL 60563. Phone: +16305777652. Website: https://purrfurredpetstyling.com/naperville/.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/purrfurred-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/purrfurred-naperville.json",
+   "address": {
+    "streetAddress": "670 West 5th Avenue #104",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60563",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60563",
+   "geo": {
+    "lat": 41.7797669,
+    "lon": -88.1597807
+   },
+   "phone": "+16305777652",
+   "website": "https://purrfurredpetstyling.com/naperville/",
+   "opening_hours": "Tu-Sa 08:30-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8379419956",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "rogers-bark-pet-salon-chicago",
+   "name": "Rogers Bark Pet Salon",
+   "summary": "Rogers Bark Pet Salon is a dog boarding facility in Chicago, IL at 1447 West Jarvis Avenue, Chicago, IL 60626. Phone: +17732742275. Website: https://rogersbark.com/.",
+   "categories": [
+    "dog boarding"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rogers-bark-pet-salon-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rogers-bark-pet-salon-chicago.json",
+   "address": {
+    "streetAddress": "1447 West Jarvis Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60626",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60626",
+   "geo": {
+    "lat": 42.0158502,
+    "lon": -87.6679458
+   },
+   "phone": "+17732742275",
+   "website": "https://rogersbark.com/",
+   "opening_hours": "Mo-Fr 07:00-19:00; Sa 09:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5276746541",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "shaggy-dog-shop-inc-lake-forest",
+   "name": "Shaggy Dog Shop, Inc",
+   "summary": "Shaggy Dog Shop, Inc is a dog groomer in Lake Forest, IL at 1339 North Western Avenue, Lake Forest, IL 60045. Phone: +18472342383. Website: https://shaggydogshop.com/.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/shaggy-dog-shop-inc-lake-forest/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/shaggy-dog-shop-inc-lake-forest.json",
+   "address": {
+    "streetAddress": "1339 North Western Avenue",
+    "addressLocality": "Lake Forest",
+    "addressRegion": "IL",
+    "postalCode": "60045",
+    "addressCountry": "US"
+   },
+   "city": "Lake Forest",
+   "state": "IL",
+   "zip": "60045",
+   "geo": {
+    "lat": 42.264042,
+    "lon": -87.8440561
+   },
+   "phone": "+18472342383",
+   "website": "https://shaggydogshop.com/",
+   "opening_hours": "Mo-Fr 08:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7687945049",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 11,
+   "sponsored": false,
+   "slug": "spotted-paw-pet-supplies-and-grooming-warrenville",
+   "name": "Spotted Paw Pet Supplies & Grooming",
+   "summary": "Spotted Paw Pet Supplies & Grooming is a dog groomer in Warrenville, IL at 28341 West Diehl Road, Warrenville, IL 60555. Phone: +16302259457. Website: https://spottedpawshop.com/.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/spotted-paw-pet-supplies-and-grooming-warrenville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/spotted-paw-pet-supplies-and-grooming-warrenville.json",
+   "address": {
+    "streetAddress": "28341 West Diehl Road",
+    "addressLocality": "Warrenville",
+    "addressRegion": "IL",
+    "postalCode": "60555",
+    "addressCountry": "US"
+   },
+   "city": "Warrenville",
+   "state": "IL",
+   "zip": "60555",
+   "geo": {
+    "lat": 41.8021107,
+    "lon": -88.173704
+   },
+   "phone": "+16302259457",
+   "website": "https://spottedpawshop.com/",
+   "opening_hours": "Mo-Sa 08:00-18:00, Su 10:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8758536773",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 12,
+   "sponsored": false,
+   "slug": "the-dog-stop-deerfield",
+   "name": "The Dog Stop",
+   "summary": "The Dog Stop is a dog boarding facility in Deerfield, IL at 495 Lake Cook Rd, Deerfield, IL 60015. Phone: +12242354646. Website: https://thedogstop.com/il-deerfield/.",
+   "categories": [
+    "dog boarding"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-dog-stop-deerfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-dog-stop-deerfield.json",
+   "address": {
+    "streetAddress": "495 Lake Cook Rd",
+    "addressLocality": "Deerfield",
+    "addressRegion": "IL",
+    "postalCode": "60015",
+    "addressCountry": "US"
+   },
+   "city": "Deerfield",
+   "state": "IL",
+   "zip": "60015",
+   "geo": {
+    "lat": 42.1507414,
+    "lon": -87.8396303
+   },
+   "phone": "+12242354646",
+   "website": "https://thedogstop.com/il-deerfield/",
+   "opening_hours": "Mo-Fr 06:30-7:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8229191792",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
+   "sponsored": false,
+   "slug": "wag-n-wheel-wauconda",
+   "name": "Wag n Wheel",
+   "summary": "Wag n Wheel is a dog groomer in Wauconda, IL at 375 West Liberty Street, Wauconda, IL 60084. Phone: +18474874990. Website: https://www.wagnwheeldoggrooming.com/.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wag-n-wheel-wauconda/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wag-n-wheel-wauconda.json",
+   "address": {
+    "streetAddress": "375 West Liberty Street",
+    "addressLocality": "Wauconda",
+    "addressRegion": "IL",
+    "postalCode": "60084",
+    "addressCountry": "US"
+   },
+   "city": "Wauconda",
+   "state": "IL",
+   "zip": "60084",
+   "geo": {
+    "lat": 42.2568668,
+    "lon": -88.1443055
+   },
+   "phone": "+18474874990",
+   "website": "https://www.wagnwheeldoggrooming.com/",
+   "opening_hours": "Tu-Fr 08:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/979910865",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 14,
    "sponsored": false,
    "slug": "the-paw-spa-new-brighton",
    "name": "The Paw Spa",
@@ -164,7 +514,108 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 5,
+   "position": 15,
+   "sponsored": false,
+   "slug": "the-upscale-tail-naperville",
+   "name": "The Upscale Tail",
+   "summary": "The Upscale Tail is a dog groomer in Naperville, IL at 1419 Plainfield Naperville Road, Naperville, IL. Phone: +16306328245. Website: https://theupscaletail.com/.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-upscale-tail-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-upscale-tail-naperville.json",
+   "address": {
+    "streetAddress": "1419 Plainfield Naperville Road",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "geo": {
+    "lat": 41.746193,
+    "lon": -88.1680258
+   },
+   "phone": "+16306328245",
+   "website": "https://theupscaletail.com/",
+   "opening_hours": "Tu-Fr 07:30-17:00; Sa 08:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7771727980",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 16,
+   "sponsored": false,
+   "slug": "barks-and-bows-dog-spa-northbrook",
+   "name": "Barks & Bows Dog Spa",
+   "summary": "Barks & Bows Dog Spa is a dog groomer in Northbrook, IL at 300 Skokie Boulevard #K, Northbrook, IL 60062. Phone: +18477159240. Website: https://barksandbowsdogspa.com/.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/barks-and-bows-dog-spa-northbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/barks-and-bows-dog-spa-northbrook.json",
+   "address": {
+    "streetAddress": "300 Skokie Boulevard #K",
+    "addressLocality": "Northbrook",
+    "addressRegion": "IL",
+    "postalCode": "60062",
+    "addressCountry": "US"
+   },
+   "city": "Northbrook",
+   "state": "IL",
+   "zip": "60062",
+   "geo": {
+    "lat": 42.1468294,
+    "lon": -87.797878
+   },
+   "phone": "+18477159240",
+   "website": "https://barksandbowsdogspa.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8435470714",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 17,
+   "sponsored": false,
+   "slug": "barksville-dog-daycare-and-boarding-chicago",
+   "name": "Barksville Dog Daycare and Boarding",
+   "summary": "Barksville Dog Daycare and Boarding is a dog groomer in Chicago, IL at 3301 West Belmont Avenue, Chicago, IL 60618. Phone: +18722042275. Website: https://barksvillechicago.com/.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/barksville-dog-daycare-and-boarding-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/barksville-dog-daycare-and-boarding-chicago.json",
+   "address": {
+    "streetAddress": "3301 West Belmont Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60618",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60618",
+   "geo": {
+    "lat": 41.9390705,
+    "lon": -87.7103388
+   },
+   "phone": "+18722042275",
+   "website": "https://barksvillechicago.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/163896164",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 18,
    "sponsored": false,
    "slug": "blue-ribbon-grooming-oakdale",
    "name": "Blue Ribbon Grooming",
@@ -198,7 +649,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 6,
+   "position": 19,
    "sponsored": false,
    "slug": "bubbles-and-ecouture-west-saint-paul",
    "name": "Bubbles & Ecouture",
@@ -232,7 +683,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 7,
+   "position": 20,
    "sponsored": false,
    "slug": "bubbly-paws-minneapolis",
    "name": "Bubbly Paws",
@@ -266,7 +717,75 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 8,
+   "position": 21,
+   "sponsored": false,
+   "slug": "cruisin-canines-chicago",
+   "name": "Cruisin Canines",
+   "summary": "Cruisin Canines is a dog groomer in Chicago, IL at 2332 West Melrose Street, Chicago, IL 60618. Phone: +17733274419. Website: https://www.cruisincanines.com/.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cruisin-canines-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cruisin-canines-chicago.json",
+   "address": {
+    "streetAddress": "2332 West Melrose Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60618",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60618",
+   "geo": {
+    "lat": 41.940571,
+    "lon": -87.6869652
+   },
+   "phone": "+17733274419",
+   "website": "https://www.cruisincanines.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/209464230",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 22,
+   "sponsored": false,
+   "slug": "cutest-dog-brookfield",
+   "name": "Cutest Dog",
+   "summary": "Cutest Dog is a dog groomer in Brookfield, IL at 9448 47th Street, Brookfield, IL 60513. Phone: +17733359499. Website: https://www.instagram.com/p/DPM0d32iWso/.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cutest-dog-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cutest-dog-brookfield.json",
+   "address": {
+    "streetAddress": "9448 47th Street",
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "postalCode": "60513",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "zip": "60513",
+   "geo": {
+    "lat": 41.8055255,
+    "lon": -87.8568524
+   },
+   "phone": "+17733359499",
+   "website": "https://www.instagram.com/p/DPM0d32iWso/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13577889273",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 23,
    "sponsored": false,
    "slug": "doggie-doos-spa-and-retreat-shakopee",
    "name": "Doggie Doo's Spa and Retreat",
@@ -300,7 +819,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 9,
+   "position": 24,
    "sponsored": false,
    "slug": "foxy-dogs-minneapolis",
    "name": "Foxy Dogs",
@@ -334,7 +853,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 10,
+   "position": 25,
    "sponsored": false,
    "slug": "grand-groomers-saint-paul",
    "name": "Grand Groomers",
@@ -368,7 +887,75 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 11,
+   "position": 26,
+   "sponsored": false,
+   "slug": "pampered-paws-grooming-chicago",
+   "name": "Pampered Paws Grooming",
+   "summary": "Pampered Paws Grooming is a dog groomer in Chicago, IL at 6135 North Northwest Highway, Chicago, IL 60631. Phone: +17737757297. Website: https://www.pamperedpawsgroom.com/.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pampered-paws-grooming-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pampered-paws-grooming-chicago.json",
+   "address": {
+    "streetAddress": "6135 North Northwest Highway",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60631",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60631",
+   "geo": {
+    "lat": 41.9932355,
+    "lon": -87.8002456
+   },
+   "phone": "+17737757297",
+   "website": "https://www.pamperedpawsgroom.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8608105225",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 27,
+   "sponsored": false,
+   "slug": "pets-and-things-grooming-wauconda",
+   "name": "Pets & Things Grooming",
+   "summary": "Pets & Things Grooming is a dog groomer in Wauconda, IL at 213 North Main Street, Wauconda, IL 60084. Phone: +18475265510. Website: https://www.petsandthingswauconda.com/.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pets-and-things-grooming-wauconda/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pets-and-things-grooming-wauconda.json",
+   "address": {
+    "streetAddress": "213 North Main Street",
+    "addressLocality": "Wauconda",
+    "addressRegion": "IL",
+    "postalCode": "60084",
+    "addressCountry": "US"
+   },
+   "city": "Wauconda",
+   "state": "IL",
+   "zip": "60084",
+   "geo": {
+    "lat": 42.259108,
+    "lon": -88.1401366
+   },
+   "phone": "+18475265510",
+   "website": "https://www.petsandthingswauconda.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9664740996",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 28,
    "sponsored": false,
    "slug": "shampooch-saint-louis-park",
    "name": "Shampooch",
@@ -402,7 +989,75 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 12,
+   "position": 29,
+   "sponsored": false,
+   "slug": "the-groom-room-lombard",
+   "name": "The Groom Room",
+   "summary": "The Groom Room is a dog groomer in Lombard, IL at 419 West Crescent Boulevard, Lombard, IL 60148. Phone: +16304957297. Website: https://the-groom-room-il.hub.biz/.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-groom-room-lombard/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-groom-room-lombard.json",
+   "address": {
+    "streetAddress": "419 West Crescent Boulevard",
+    "addressLocality": "Lombard",
+    "addressRegion": "IL",
+    "postalCode": "60148",
+    "addressCountry": "US"
+   },
+   "city": "Lombard",
+   "state": "IL",
+   "zip": "60148",
+   "geo": {
+    "lat": 41.884939,
+    "lon": -88.0281702
+   },
+   "phone": "+16304957297",
+   "website": "https://the-groom-room-il.hub.biz/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12621622153",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 30,
+   "sponsored": false,
+   "slug": "tiffnie-s-dog-grooming-des-plaines",
+   "name": "Tiffnie’s Dog Grooming",
+   "summary": "Tiffnie’s Dog Grooming is a dog groomer in Des Plaines, IL at 620 East Central Road, Des Plaines, IL 60016. Phone: +12246126050.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tiffnie-s-dog-grooming-des-plaines/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tiffnie-s-dog-grooming-des-plaines.json",
+   "address": {
+    "streetAddress": "620 East Central Road",
+    "addressLocality": "Des Plaines",
+    "addressRegion": "IL",
+    "postalCode": "60016",
+    "addressCountry": "US"
+   },
+   "city": "Des Plaines",
+   "state": "IL",
+   "zip": "60016",
+   "geo": {
+    "lat": 42.0665984,
+    "lon": -87.9084848
+   },
+   "phone": "+12246126050",
+   "opening_hours": "Mo-Sa 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13685789875",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 31,
    "sponsored": false,
    "slug": "haute-dog-white-bear-lake",
    "name": "Haute Dog",
@@ -434,7 +1089,73 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 13,
+   "position": 32,
+   "sponsored": false,
+   "slug": "artistic-grooming-downers-grove",
+   "name": "Artistic Grooming",
+   "summary": "Artistic Grooming is a dog groomer in Downers Grove, IL at 6309 Woodward Avenue, Downers Grove, IL 60516. Phone: +16309710143.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/artistic-grooming-downers-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/artistic-grooming-downers-grove.json",
+   "address": {
+    "streetAddress": "6309 Woodward Avenue",
+    "addressLocality": "Downers Grove",
+    "addressRegion": "IL",
+    "postalCode": "60516",
+    "addressCountry": "US"
+   },
+   "city": "Downers Grove",
+   "state": "IL",
+   "zip": "60516",
+   "geo": {
+    "lat": 41.7718973,
+    "lon": -88.0312163
+   },
+   "phone": "+16309710143",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9046308336",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 33,
+   "sponsored": false,
+   "slug": "happy-dog-grooming-spa-des-plaines",
+   "name": "Happy Dog Grooming Spa",
+   "summary": "Happy Dog Grooming Spa is a dog groomer in Des Plaines, IL at 650 Graceland Avenue, Des Plaines, IL 60016. Website: https://happydoggroom.com/.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/happy-dog-grooming-spa-des-plaines/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/happy-dog-grooming-spa-des-plaines.json",
+   "address": {
+    "streetAddress": "650 Graceland Avenue",
+    "addressLocality": "Des Plaines",
+    "addressRegion": "IL",
+    "postalCode": "60016",
+    "addressCountry": "US"
+   },
+   "city": "Des Plaines",
+   "state": "IL",
+   "zip": "60016",
+   "geo": {
+    "lat": 42.0414106,
+    "lon": -87.890002
+   },
+   "website": "https://happydoggroom.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6237584993",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 34,
    "sponsored": false,
    "slug": "heartspace-salon-and-spa-for-dogs-white-bear-lake",
    "name": "HeartSpace Salon and Spa for Dogs",
@@ -467,7 +1188,40 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 14,
+   "position": 35,
+   "sponsored": false,
+   "slug": "maus-house-chicago",
+   "name": "Mau's House",
+   "summary": "Mau's House is a dog groomer in Chicago, IL at 901 South Plymouth Court, Chicago, IL 60605. Phone: +13127220057.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/maus-house-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/maus-house-chicago.json",
+   "address": {
+    "streetAddress": "901 South Plymouth Court",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60605",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60605",
+   "geo": {
+    "lat": 41.8703099,
+    "lon": -87.628389
+   },
+   "phone": "+13127220057",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6323222488",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 36,
    "sponsored": false,
    "slug": "pawlished-pets-grooming-salon-eagan",
    "name": "Pawlished Pets Grooming Salon",
@@ -500,7 +1254,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 15,
+   "position": 37,
    "sponsored": false,
    "slug": "pet-clips-chanhassen",
    "name": "Pet Clips",
@@ -533,7 +1287,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 16,
+   "position": 38,
    "sponsored": false,
    "slug": "royal-pet-beauty-shop-minneapolis",
    "name": "Royal Pet Beauty Shop",
@@ -566,7 +1320,102 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 17,
+   "position": 39,
+   "sponsored": false,
+   "slug": "uncle-paws-grooming-salon-chicago",
+   "name": "Uncle Paws Grooming Salon",
+   "summary": "Uncle Paws Grooming Salon is a dog groomer in Chicago, IL at 3656 East 106th Street, Chicago, IL 60617. Phone: +17739022020.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/uncle-paws-grooming-salon-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/uncle-paws-grooming-salon-chicago.json",
+   "address": {
+    "streetAddress": "3656 East 106th Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60617",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60617",
+   "geo": {
+    "lat": 41.7028741,
+    "lon": -87.5343602
+   },
+   "phone": "+17739022020",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7222791760",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 40,
+   "sponsored": false,
+   "slug": "five-star-dog-grooming-prospect-heights",
+   "name": "Five Star Dog Grooming",
+   "summary": "Five Star Dog Grooming is a dog groomer in Prospect Heights, IL. Phone: +18473722817.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/five-star-dog-grooming-prospect-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/five-star-dog-grooming-prospect-heights.json",
+   "address": {
+    "addressLocality": "Prospect Heights",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Prospect Heights",
+   "state": "IL",
+   "geo": {
+    "lat": 42.0934238,
+    "lon": -87.9079153
+   },
+   "phone": "+18473722817",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5006085231",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 41,
+   "sponsored": false,
+   "slug": "all-american-pet-grooming-mokena",
+   "name": "All American Pet Grooming",
+   "summary": "All American Pet Grooming is a dog groomer in Mokena, IL at 19117 Wolf Road, Mokena, IL 60448.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/all-american-pet-grooming-mokena/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/all-american-pet-grooming-mokena.json",
+   "address": {
+    "streetAddress": "19117 Wolf Road",
+    "addressLocality": "Mokena",
+    "addressRegion": "IL",
+    "postalCode": "60448",
+    "addressCountry": "US"
+   },
+   "city": "Mokena",
+   "state": "IL",
+   "zip": "60448",
+   "geo": {
+    "lat": 41.5417719,
+    "lon": -87.8892568
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13306276680",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 42,
    "sponsored": false,
    "slug": "bark-and-bathe-robbinsdale",
    "name": "Bark & Bathe",
@@ -598,7 +1447,103 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 18,
+   "position": 43,
+   "sponsored": false,
+   "slug": "bark-out-loud-chicago",
+   "name": "Bark Out Loud",
+   "summary": "Bark Out Loud is a dog groomer in Chicago, IL at 5232 West Irving Park Road, Chicago, IL 60641.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bark-out-loud-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bark-out-loud-chicago.json",
+   "address": {
+    "streetAddress": "5232 West Irving Park Road",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60641",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60641",
+   "geo": {
+    "lat": 41.9535678,
+    "lon": -87.7585301
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/162644621",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 44,
+   "sponsored": false,
+   "slug": "barkin-boutique-willow-springs",
+   "name": "Barkin Boutique",
+   "summary": "Barkin Boutique is a dog groomer in Willow Springs, IL at 8695 Archer Avenue #28A, Willow Springs, IL 60480.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/barkin-boutique-willow-springs/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/barkin-boutique-willow-springs.json",
+   "address": {
+    "streetAddress": "8695 Archer Avenue #28A",
+    "addressLocality": "Willow Springs",
+    "addressRegion": "IL",
+    "postalCode": "60480",
+    "addressCountry": "US"
+   },
+   "city": "Willow Springs",
+   "state": "IL",
+   "zip": "60480",
+   "geo": {
+    "lat": 41.7322782,
+    "lon": -87.8753498
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12052414588",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 45,
+   "sponsored": false,
+   "slug": "furry-finesse-highland-park",
+   "name": "Furry Finesse",
+   "summary": "Furry Finesse is a dog groomer in Highland Park, IL at 737 Broadview Avenue, Highland Park, IL 60035.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/furry-finesse-highland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/furry-finesse-highland-park.json",
+   "address": {
+    "streetAddress": "737 Broadview Avenue",
+    "addressLocality": "Highland Park",
+    "addressRegion": "IL",
+    "postalCode": "60035",
+    "addressCountry": "US"
+   },
+   "city": "Highland Park",
+   "state": "IL",
+   "zip": "60035",
+   "geo": {
+    "lat": 42.1657816,
+    "lon": -87.7871965
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1116334816",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 46,
    "sponsored": false,
    "slug": "grand-paws-pet-grooming-saint-paul",
    "name": "Grand Paws Pet Grooming",
@@ -630,7 +1575,39 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 19,
+   "position": 47,
+   "sponsored": false,
+   "slug": "happy-paws-grooming-skokie",
+   "name": "Happy Paws Grooming",
+   "summary": "Happy Paws Grooming is a dog groomer in Skokie, IL at 4925 Oakton Street, Skokie, IL 60077.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/happy-paws-grooming-skokie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/happy-paws-grooming-skokie.json",
+   "address": {
+    "streetAddress": "4925 Oakton Street",
+    "addressLocality": "Skokie",
+    "addressRegion": "IL",
+    "postalCode": "60077",
+    "addressCountry": "US"
+   },
+   "city": "Skokie",
+   "state": "IL",
+   "zip": "60077",
+   "geo": {
+    "lat": 42.0261461,
+    "lon": -87.7510862
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11702275549",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 48,
    "sponsored": false,
    "slug": "haute-dog-spa-edina",
    "name": "Haute Dog Spa",
@@ -660,7 +1637,167 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 20,
+   "position": 49,
+   "sponsored": false,
+   "slug": "lovely-pets-chicago-chicago",
+   "name": "Lovely Pets Chicago",
+   "summary": "Lovely Pets Chicago is a dog groomer in Chicago, IL at 1832 West Irving Park Road, Chicago, IL 60613.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lovely-pets-chicago-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lovely-pets-chicago-chicago.json",
+   "address": {
+    "streetAddress": "1832 West Irving Park Road",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60613",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60613",
+   "geo": {
+    "lat": 41.9543645,
+    "lon": -87.6754893
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13158612701",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 50,
+   "sponsored": false,
+   "slug": "lynns-doggie-spa-whiting",
+   "name": "Lynn's Doggie Spa",
+   "summary": "Lynn's Doggie Spa is a dog groomer in Whiting, IN at 1612 119th Street, Whiting, IN 46394.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lynns-doggie-spa-whiting/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lynns-doggie-spa-whiting.json",
+   "address": {
+    "streetAddress": "1612 119th Street",
+    "addressLocality": "Whiting",
+    "addressRegion": "IN",
+    "postalCode": "46394",
+    "addressCountry": "US"
+   },
+   "city": "Whiting",
+   "state": "IN",
+   "zip": "46394",
+   "geo": {
+    "lat": 41.6791638,
+    "lon": -87.4900614
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1231822627",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 51,
+   "sponsored": false,
+   "slug": "pawparazzi-pet-salon-hoffman-estates",
+   "name": "Pawparazzi Pet Salon",
+   "summary": "Pawparazzi Pet Salon is a dog groomer in Hoffman Estates, IL at 2332 West Higgins Road, Hoffman Estates, IL 60169.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pawparazzi-pet-salon-hoffman-estates/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pawparazzi-pet-salon-hoffman-estates.json",
+   "address": {
+    "streetAddress": "2332 West Higgins Road",
+    "addressLocality": "Hoffman Estates",
+    "addressRegion": "IL",
+    "postalCode": "60169",
+    "addressCountry": "US"
+   },
+   "city": "Hoffman Estates",
+   "state": "IL",
+   "zip": "60169",
+   "geo": {
+    "lat": 42.0596796,
+    "lon": -88.1370381
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1319298251",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 52,
+   "sponsored": false,
+   "slug": "sandys-pet-spots-chicago",
+   "name": "Sandy's Pet Spots",
+   "summary": "Sandy's Pet Spots is a dog groomer in Chicago, IL at 1010 West Monroe Street, Chicago, IL 60607.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sandys-pet-spots-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sandys-pet-spots-chicago.json",
+   "address": {
+    "streetAddress": "1010 West Monroe Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60607",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60607",
+   "geo": {
+    "lat": 41.8805239,
+    "lon": -87.6525207
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12170602297",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 53,
+   "sponsored": false,
+   "slug": "squeaky-beas-chicago",
+   "name": "Squeaky Bea's",
+   "summary": "Squeaky Bea's is a dog groomer in Chicago, IL at 2327 North California Avenue, Chicago, IL 60647.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/squeaky-beas-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/squeaky-beas-chicago.json",
+   "address": {
+    "streetAddress": "2327 North California Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60647",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60647",
+   "geo": {
+    "lat": 41.923652,
+    "lon": -87.6972164
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12223629666",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 54,
    "sponsored": false,
    "slug": "the-canine-coach-st-louis-park-saint-louis-park",
    "name": "The Canine Coach - St Louis Park",
@@ -692,7 +1829,215 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 21,
+   "position": 55,
+   "sponsored": false,
+   "slug": "zulu-chicago",
+   "name": "Zulu",
+   "summary": "Zulu is a dog groomer in Chicago, IL at 3919 North Lincoln Avenue, Chicago, IL 60613.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/zulu-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/zulu-chicago.json",
+   "address": {
+    "streetAddress": "3919 North Lincoln Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60613",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60613",
+   "geo": {
+    "lat": 41.9528902,
+    "lon": -87.6777164
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13165930101",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 56,
+   "sponsored": false,
+   "slug": "howlistic-grooming-chicago",
+   "name": "Howlistic Grooming",
+   "summary": "Howlistic Grooming is a dog groomer in Chicago, IL at 1258 South Halsted Street, Chicago, IL.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/howlistic-grooming-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/howlistic-grooming-chicago.json",
+   "address": {
+    "streetAddress": "1258 South Halsted Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8654828,
+    "lon": -87.6470836
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13800178128",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 57,
+   "sponsored": false,
+   "slug": "sit-stay-wash-chicago",
+   "name": "Sit Stay Wash",
+   "summary": "Sit Stay Wash is a dog groomer in Chicago, IL at 847 West Monroe Street #1B, Chicago, IL.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sit-stay-wash-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sit-stay-wash-chicago.json",
+   "address": {
+    "streetAddress": "847 West Monroe Street #1B",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8803075,
+    "lon": -87.6492882
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12479624267",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 58,
+   "sponsored": false,
+   "slug": "adorable-pet-styling-la-grange-park",
+   "name": "Adorable Pet Styling",
+   "summary": "Adorable Pet Styling is a dog groomer in La Grange Park, IL.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/adorable-pet-styling-la-grange-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/adorable-pet-styling-la-grange-park.json",
+   "address": {
+    "addressLocality": "La Grange Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "La Grange Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8358425,
+    "lon": -87.8521721
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9731074643",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 59,
+   "sponsored": false,
+   "slug": "animal-lovers-pet-salon-chicago",
+   "name": "Animal Lovers Pet Salon",
+   "summary": "Animal Lovers Pet Salon is a dog groomer in Chicago, IL.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/animal-lovers-pet-salon-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/animal-lovers-pet-salon-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9223377,
+    "lon": -87.6657665
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12464010994",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 60,
+   "sponsored": false,
+   "slug": "barker-shop-countryside",
+   "name": "Barker Shop",
+   "summary": "Barker Shop is a dog groomer in Countryside, IL.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/barker-shop-countryside/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/barker-shop-countryside.json",
+   "address": {
+    "addressLocality": "Countryside",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Countryside",
+   "state": "IL",
+   "geo": {
+    "lat": 41.790377,
+    "lon": -87.8871539
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10722087990",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 61,
+   "sponsored": false,
+   "slug": "bon-jour-pet-salon-barrington",
+   "name": "Bon Jour Pet Salon",
+   "summary": "Bon Jour Pet Salon is a dog groomer in Barrington, IL.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bon-jour-pet-salon-barrington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bon-jour-pet-salon-barrington.json",
+   "address": {
+    "addressLocality": "Barrington",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Barrington",
+   "state": "IL",
+   "geo": {
+    "lat": 42.1611635,
+    "lon": -88.1363903
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6810296238",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 62,
    "sponsored": false,
    "slug": "chuck-and-dons-grooming-white-bear-lake",
    "name": "Chuck & Don's Grooming",
@@ -721,7 +2066,65 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 22,
+   "position": 63,
+   "sponsored": false,
+   "slug": "dashing-dog-chicago",
+   "name": "Dashing Dog",
+   "summary": "Dashing Dog is a dog groomer in Chicago, IL.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dashing-dog-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dashing-dog-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9349995,
+    "lon": -87.6464844
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13009782598",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 64,
+   "sponsored": false,
+   "slug": "debbies-brookfield",
+   "name": "Debbie's",
+   "summary": "Debbie's is a dog groomer in Brookfield, IL.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/debbies-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/debbies-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8165611,
+    "lon": -87.849352
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9499927456",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 65,
    "sponsored": false,
    "slug": "dog-haven-and-spa-orono",
    "name": "Dog Haven and Spa",
@@ -750,7 +2153,36 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 23,
+   "position": 66,
+   "sponsored": false,
+   "slug": "frisky-dog-brookfield",
+   "name": "Frisky Dog",
+   "summary": "Frisky Dog is a dog groomer in Brookfield, IL.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/frisky-dog-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/frisky-dog-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8056842,
+    "lon": -87.8518294
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9511674226",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 67,
    "sponsored": false,
    "slug": "grateful-grooming-inver-grove-heights",
    "name": "Grateful Grooming",
@@ -779,7 +2211,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 24,
+   "position": 68,
    "sponsored": false,
    "slug": "houndstooth-dog-groomer-saint-paul",
    "name": "Houndstooth Dog Groomer",
@@ -808,7 +2240,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 25,
+   "position": 69,
    "sponsored": false,
    "slug": "just-paws-west-saint-paul",
    "name": "Just Paws",
@@ -837,7 +2269,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 26,
+   "position": 70,
    "sponsored": false,
    "slug": "k-9-and-kitty-kutters-minneapolis",
    "name": "K-9 & Kitty Kutters",
@@ -866,7 +2298,123 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 27,
+   "position": 71,
+   "sponsored": false,
+   "slug": "lakeshore-k9-glenview",
+   "name": "Lakeshore K9",
+   "summary": "Lakeshore K9 is a dog groomer in Glenview, IL.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lakeshore-k9-glenview/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lakeshore-k9-glenview.json",
+   "address": {
+    "addressLocality": "Glenview",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Glenview",
+   "state": "IL",
+   "geo": {
+    "lat": 42.0726234,
+    "lon": -87.7995697
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6215780452",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 72,
+   "sponsored": false,
+   "slug": "monicas-superior-k-9s-la-grange",
+   "name": "Monica's Superior K-9's",
+   "summary": "Monica's Superior K-9's is a dog groomer in La Grange, IL.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/monicas-superior-k-9s-la-grange/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/monicas-superior-k-9s-la-grange.json",
+   "address": {
+    "addressLocality": "La Grange",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "La Grange",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7944076,
+    "lon": -87.8691825
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10725329691",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 73,
+   "sponsored": false,
+   "slug": "paradise-pet-salon-chicago",
+   "name": "Paradise Pet Salon",
+   "summary": "Paradise Pet Salon is a dog groomer in Chicago, IL.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/paradise-pet-salon-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/paradise-pet-salon-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9528677,
+    "lon": -87.6502019
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11234336983",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 74,
+   "sponsored": false,
+   "slug": "pom-pom-grooming-salon-lyons",
+   "name": "Pom Pom Grooming Salon",
+   "summary": "Pom Pom Grooming Salon is a dog groomer in Lyons, IL.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pom-pom-grooming-salon-lyons/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pom-pom-grooming-salon-lyons.json",
+   "address": {
+    "addressLocality": "Lyons",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Lyons",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8135877,
+    "lon": -87.8209614
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9811691285",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 75,
    "sponsored": false,
    "slug": "pucci-pet-grooming-anoka",
    "name": "Pucci Pet Grooming",
@@ -895,7 +2443,36 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 28,
+   "position": 76,
+   "sponsored": false,
+   "slug": "purely-paws-la-grange",
+   "name": "Purely Paws",
+   "summary": "Purely Paws is a dog groomer in La Grange, IL.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/purely-paws-la-grange/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/purely-paws-la-grange.json",
+   "address": {
+    "addressLocality": "La Grange",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "La Grange",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8019403,
+    "lon": -87.8689286
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10725347205",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 77,
    "sponsored": false,
    "slug": "sandys-dog-and-cat-grooming-and-boarding-saint-paul",
    "name": "Sandy's Dog and Cat Grooming and Boarding",
@@ -924,7 +2501,36 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 29,
+   "position": 78,
+   "sponsored": false,
+   "slug": "sudzy-puppy-naperville",
+   "name": "Sudzy Puppy",
+   "summary": "Sudzy Puppy is a dog groomer in Naperville, IL.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sudzy-puppy-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sudzy-puppy-naperville.json",
+   "address": {
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "geo": {
+    "lat": 41.78602,
+    "lon": -88.1405866
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12941713232",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 79,
    "sponsored": false,
    "slug": "wag-n-wash-eagan",
    "name": "Wag n' Wash",
@@ -952,5 +2558,225 @@
    "source_url": "https://www.openstreetmap.org/node/13143516548",
    "last_checked": "2026-10-17"
   }
- ]
+ ],
+ "market": {
+  "keyword": "dog groomer",
+  "slug": "dog-groomer",
+  "base_keyword": "dog groomer",
+  "scope": "national",
+  "city": null,
+  "state": null,
+  "category": "Pets",
+  "industry": "Animals & Pets",
+  "us_monthly_searches": {
+   "value": 450000,
+   "method": "cited",
+   "source": "r_agencycrate-com-industries-pet-care-and-grooming",
+   "as_of": "2026-08",
+   "source_phrase": "dog groomer near me",
+   "note": "US monthly searches, Google Ads data Sep25-Aug26"
+  },
+  "local_monthly_searches": null,
+  "cpc_usd": {
+   "industry_benchmark": "Animals & Pets",
+   "low_usd": 3.97,
+   "median_usd": 4.06,
+   "high_usd": 4.06,
+   "method": "published benchmarks: low/high = range of the industry and sub-industry median CPCs listed in 'figures'; median = most specific benchmark",
+   "figures": [
+    {
+     "usd": 4.06,
+     "label": "Animals & Pets median CPC 2026",
+     "source": "wordstream_2026"
+    },
+    {
+     "usd": 3.97,
+     "label": "Animals & Pets median CPC 2025",
+     "source": "wordstream_2025"
+    }
+   ],
+   "source": "wordstream_2026",
+   "as_of": "2026",
+   "basis_for_value": {
+    "usd": 4.06,
+    "method": "benchmark median CPC",
+    "source": "wordstream_2026"
+   }
+  },
+  "ctr_pct": {
+   "value": 6.58,
+   "label": "Animals & Pets average search-ad CTR 2025",
+   "source": "wordstream_2025",
+   "as_of": "2025-03"
+  },
+  "competition": {
+   "level": "medium",
+   "method": "proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research)",
+   "source": "wordstream_2026",
+   "as_of": "2026"
+  },
+  "trend": null,
+  "seasonality": {
+   "value": null,
+   "note": "No seasonality data in the research sources for this keyword."
+  },
+  "ai_query": {
+   "text": "No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.",
+   "figures": [
+    {
+     "value": "45%",
+     "label": "US adults using AI for local recommendations",
+     "source": "brightlocal_lcrs_2026"
+    },
+    {
+     "value": "75%",
+     "label": "sessions with keyword-style prompts",
+     "source": "sagapixel_sel"
+    },
+    {
+     "value": "59%",
+     "label": "local-intent prompts that triggered web search",
+     "source": "nectiv"
+    }
+   ],
+   "as_of": "2026"
+  },
+  "registry_competitors": {
+   "value": 79,
+   "slugs": [
+    "a-paw-place-chicago",
+    "adorable-pet-styling-la-grange-park",
+    "all-american-pet-grooming-mokena",
+    "animal-lovers-pet-salon-chicago",
+    "artistic-grooming-downers-grove",
+    "bark-and-bathe-robbinsdale",
+    "bark-out-loud-chicago",
+    "barker-shop-countryside",
+    "barkin-boutique-willow-springs",
+    "barks-and-bows-dog-spa-northbrook"
+   ],
+   "method_id": "competitors",
+   "source": "registry",
+   "as_of": "2026-10-18",
+   "urls": [
+    "https://dingalinged-cpu.github.io/registry/c/a-paw-place-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/adorable-pet-styling-la-grange-park/",
+    "https://dingalinged-cpu.github.io/registry/c/all-american-pet-grooming-mokena/",
+    "https://dingalinged-cpu.github.io/registry/c/animal-lovers-pet-salon-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/artistic-grooming-downers-grove/",
+    "https://dingalinged-cpu.github.io/registry/c/bark-and-bathe-robbinsdale/",
+    "https://dingalinged-cpu.github.io/registry/c/bark-out-loud-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/barker-shop-countryside/",
+    "https://dingalinged-cpu.github.io/registry/c/barkin-boutique-willow-springs/",
+    "https://dingalinged-cpu.github.io/registry/c/barks-and-bows-dog-spa-northbrook/"
+   ],
+   "method": "count of registry listings tagged with the keyword (city/national) or with the base service in the same state (state keywords)"
+  },
+  "agent_demand": null,
+  "agent_demand_note": "Not yet measured. Will carry AI-agent query counts from the registry's agent analytics (contract: meta.agent_demand_contract in the market index).",
+  "equivalent_google_ads_cost_month": {
+   "value_usd": 120000,
+   "method": "estimate",
+   "method_id": "google_ads_equiv",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote."
+  },
+  "search_value_index": {
+   "value_usd": 1800000,
+   "method": "estimate",
+   "method_id": "value_index",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: search value index = monthly searches x CPC basis; an advertiser-value ranking signal, not revenue; rounded to 2 significant figures."
+  },
+  "auction": {
+   "featured_spot_min_usd": 100,
+   "spots_2_to_4_min_usd": 10,
+   "tier": "mid",
+   "pricing_rule": "tier minimum (premium $500, high $250, mid $100, standard $50) for national keywords; city = max($10, 20% of tier); state = max($10, 35% of tier); spots 2-4 open at 10% of the featured minimum",
+   "model": "Monthly auction in the last 7 days of each month: days 1-5 bid for the Featured #1 spot, days 6-7 for spots 2-4; winners display all next month; all paid spots labeled Sponsored.",
+   "next_auctions": [
+    {
+     "display_month": "2026-11",
+     "featured_spot_bidding": [
+      "2026-10-25",
+      "2026-10-29"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-10-30",
+      "2026-10-31"
+     ]
+    },
+    {
+     "display_month": "2026-12",
+     "featured_spot_bidding": [
+      "2026-11-24",
+      "2026-11-28"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-11-29",
+      "2026-11-30"
+     ]
+    }
+   ],
+   "source": "registry_auction",
+   "as_of": "2026-10-18"
+  },
+  "sources": {
+   "brightlocal_lcrs_2026": {
+    "name": "BrightLocal Local Consumer Review Survey 2026 (n=1,002 US adults)",
+    "url": "https://www.brightlocal.com/research/lcrs-ai-trust/",
+    "as_of": "2026"
+   },
+   "nectiv": {
+    "name": "Nectiv study of 8,500+ ChatGPT prompts",
+    "url": "https://nectivdigital.com/blog/new-data-study-what-queries-is-chatgpt-using-behind-the-scenes",
+    "as_of": "2025"
+   },
+   "r_agencycrate-com-industries-pet-care-and-grooming": {
+    "name": "Google Ads data Sep25-Aug26 (via research source)",
+    "url": "https://agencycrate.com/industries/pet-care-and-grooming/",
+    "as_of": "2026-08"
+   },
+   "registry": {
+    "name": "This registry's own listings (OpenStreetMap-seeded, ODbL)",
+    "url": "https://dingalinged-cpu.github.io/registry/api/companies.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_auction": {
+    "name": "Registry keyword auction catalog and rules",
+    "url": "https://dingalinged-cpu.github.io/registry/api/keyword-prices.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_estimate": {
+    "name": "Registry estimate (CC-BY-4.0); method given on each value",
+    "url": "https://dingalinged-cpu.github.io/registry/market/",
+    "as_of": "2026-10-18"
+   },
+   "sagapixel_sel": {
+    "name": "Sagapixel ChatGPT local-services sessions, via Search Engine Land",
+    "url": "https://searchengineland.com/chatgpt-users-keywords-for-local-services-data-467715",
+    "as_of": "2026-01"
+   },
+   "wordstream_2025": {
+    "name": "WordStream Google Ads Benchmarks 2025 (16,446 US campaigns, Apr 2024-Mar 2025; median CPC and CTR by industry)",
+    "url": "https://www.wordstream.com/blog/2025-google-ads-benchmarks",
+    "as_of": "2025-03"
+   },
+   "wordstream_2026": {
+    "name": "LocaliQ/WordStream Search Advertising Benchmarks 2026 (US median CPC by industry)",
+    "url": "https://www.localiq.com/blog/search-advertising-benchmarks",
+    "as_of": "2026"
+   }
+  },
+  "license": {
+   "registry_estimates": "CC-BY-4.0",
+   "url": "https://creativecommons.org/licenses/by/4.0/",
+   "cited_figures": "attribute to the publishers in sources"
+  },
+  "as_of": "2026-10-18",
+  "api": "https://dingalinged-cpu.github.io/registry/api/market/dog-groomer.json",
+  "rate_card": "https://dingalinged-cpu.github.io/registry/view/market.html#dog-groomer"
+ }
 }

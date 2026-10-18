@@ -1,0 +1,54 @@
+{
+ "slug": "the-day-nursery-oak-park",
+ "name": "The Day Nursery",
+ "categories": [
+  "daycare"
+ ],
+ "keywords": [
+  "daycare",
+  "daycare oak park il"
+ ],
+ "services": [
+  {
+   "name": "daycare",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1139 Randolph Street",
+  "addressLocality": "Oak Park",
+  "addressRegion": "IL",
+  "postalCode": "60130",
+  "addressCountry": "US"
+ },
+ "city": "Oak Park",
+ "state": "IL",
+ "zip": "60130",
+ "geo": {
+  "lat": 41.8830145,
+  "lon": -87.8043411
+ },
+ "schema_type": "ChildCare",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/610880659",
+ "osm": {
+  "type": "way",
+  "id": 610880659,
+  "tags_used": {
+   "amenity": "childcare"
+  }
+ },
+ "municipality": "Oak Park",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/the-day-nursery-oak-park/",
+ "summary": "The Day Nursery is a daycare in Oak Park, IL at 1139 Randolph Street, Oak Park, IL 60130.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

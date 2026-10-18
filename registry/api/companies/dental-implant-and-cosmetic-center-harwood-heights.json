@@ -1,0 +1,57 @@
+{
+ "slug": "dental-implant-and-cosmetic-center-harwood-heights",
+ "name": "Dental Implant & Cosmetic Center",
+ "categories": [
+  "dentist"
+ ],
+ "keywords": [
+  "dentist",
+  "dentist harwood heights il"
+ ],
+ "services": [
+  {
+   "name": "dentist",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "4740 North Harlem Avenue",
+  "addressLocality": "Harwood Heights",
+  "addressRegion": "IL",
+  "postalCode": "60706",
+  "addressCountry": "US"
+ },
+ "city": "Harwood Heights",
+ "state": "IL",
+ "zip": "60706",
+ "geo": {
+  "lat": 41.9664671,
+  "lon": -87.8074741
+ },
+ "phone": "+17088678660",
+ "schema_type": "Dentist",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/10776052446",
+ "osm": {
+  "type": "node",
+  "id": 10776052446,
+  "tags_used": {
+   "amenity": "dentist",
+   "healthcare": "dentist",
+   "healthcare:speciality": "dentist"
+  }
+ },
+ "municipality": "Harwood Heights",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/dental-implant-and-cosmetic-center-harwood-heights/",
+ "summary": "Dental Implant & Cosmetic Center is a dentist in Harwood Heights, IL at 4740 North Harlem Avenue, Harwood Heights, IL 60706. Phone: +17088678660.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,63 @@
+{
+ "slug": "anthony-lullos-hair-designs-oak-park",
+ "name": "Anthony Lullo's Hair Designs",
+ "categories": [
+  "hair salon"
+ ],
+ "keywords": [
+  "hair salon",
+  "haircut",
+  "hair salon oak park il",
+  "haircut oak park il"
+ ],
+ "services": [
+  {
+   "name": "hair salon",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "haircut",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "721 South Boulevard",
+  "addressLocality": "Oak Park",
+  "addressRegion": "IL",
+  "postalCode": "60302",
+  "addressCountry": "US"
+ },
+ "city": "Oak Park",
+ "state": "IL",
+ "zip": "60302",
+ "geo": {
+  "lat": 41.886615,
+  "lon": -87.7939892
+ },
+ "phone": "+17088484455",
+ "website": "https://anthonylullohairdesigns.com/",
+ "opening_hours": "Tu,Th 09:00-20:00; Fr,Sa 09:00-17:00",
+ "schema_type": "HairSalon",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/11348525437",
+ "osm": {
+  "type": "node",
+  "id": 11348525437,
+  "tags_used": {
+   "shop": "hairdresser"
+  }
+ },
+ "municipality": "Oak Park",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/anthony-lullos-hair-designs-oak-park/",
+ "summary": "Anthony Lullo's Hair Designs is a hair salon in Oak Park, IL at 721 South Boulevard, Oak Park, IL 60302. Phone: +17088484455. Website: https://anthonylullohairdesigns.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

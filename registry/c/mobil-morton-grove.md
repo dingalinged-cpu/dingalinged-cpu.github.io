@@ -1,0 +1,23 @@
+Mobil is a car wash in Morton Grove, IL at 9544 North Waukegan Road, Morton Grove, IL 60053.
+
+# Mobil
+
+- Category: car wash
+- Services: car wash
+- Address: 9544 North Waukegan Road, Morton Grove, IL 60053
+- City: Morton Grove
+- State: IL
+- ZIP: 60053
+- Coordinates: 42.0545265, -87.8000342
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/mobil-morton-grove/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/mobil-morton-grove.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/983294002 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

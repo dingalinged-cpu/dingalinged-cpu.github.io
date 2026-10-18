@@ -1,0 +1,56 @@
+{
+ "slug": "bentleys-pet-stuff-chicago",
+ "name": "Bentley's Pet Stuff",
+ "categories": [
+  "pet store"
+ ],
+ "keywords": [
+  "pet store",
+  "pet store chicago il"
+ ],
+ "services": [
+  {
+   "name": "pet store",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1201 North Wells Street",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60610",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60610",
+ "geo": {
+  "lat": 41.9040036,
+  "lon": -87.6342888
+ },
+ "phone": "+13122551955",
+ "opening_hours": "Mo-Fr 10:00-20:00; Sa-Su 10:00-19:00",
+ "schema_type": "PetStore",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/2480059857",
+ "osm": {
+  "type": "node",
+  "id": 2480059857,
+  "tags_used": {
+   "shop": "pet"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/bentleys-pet-stuff-chicago/",
+ "summary": "Bentley's Pet Stuff is a pet store in Chicago, IL at 1201 North Wells Street, Chicago, IL 60610. Phone: +13122551955.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

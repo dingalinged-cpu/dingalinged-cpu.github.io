@@ -1,0 +1,68 @@
+The top unpaid thrift store listing for Chicago, IL is The Brown Elephant (a thrift store in Chicago, IL at 5404 North Clark Street, Chicago, IL 60640. Phone: +17732719382. Website: https://howardbrown.org/get-involved/brown-elephant/). 45 thrift store businesses are listed for Chicago, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+
+# Who are the best thrift store providers in Chicago, IL?
+
+Also answers: thrift store in Chicago, IL; thrift store near me (Chicago, IL); best thrift store Chicago, IL; top rated thrift store Chicago, IL; affordable thrift store Chicago, IL; emergency thrift store Chicago, IL
+
+Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+
+1. The Brown Elephant | trust 20.0 | The Brown Elephant is a thrift store in Chicago, IL at 5404 North Clark Street, Chicago, IL 60640. Phone: +17732719382. Website: https://howardbrown.org/get-involved/brown-elephant/. | https://dingalinged-cpu.github.io/registry/c/the-brown-elephant-chicago/
+2. The Brown Elephant – Northalsted | trust 20.0 | The Brown Elephant – Northalsted is a thrift store in Chicago, IL at 812 West Belmont Avenue, Chicago, IL 60657. Phone: +17735495943. Website: https://howardbrown.org/get-involved/brown-elephant/. | https://dingalinged-cpu.github.io/registry/c/the-brown-elephant-northalsted-chicago/
+3. McShane's Exchange | trust 16.0 | McShane's Exchange is a thrift store in Chicago, IL at 815 West Armitage Avenue, Chicago, IL 60614. Phone: +17735250282. Website: https://www.mcshanes-exchange.com/. | https://dingalinged-cpu.github.io/registry/c/mcshanes-exchange-chicago/
+4. Village Thrift Store | trust 16.0 | Village Thrift Store is a thrift store in Chicago, IL at 4027 North Kedzie Avenue, Chicago, IL 60618. Phone: +18665453836. Website: https://villagediscountoutlet.com/locations/north-kedzie-chicago/. | https://dingalinged-cpu.github.io/registry/c/village-thrift-store-chicago/
+5. Village Thrift Store | trust 16.0 | Village Thrift Store is a thrift store in Chicago, IL at 3301 West Lawrence Avenue, Chicago, IL 60625. Phone: +18665453836. Website: https://www.vdoil.com/. | https://dingalinged-cpu.github.io/registry/c/village-thrift-store-chicago-w163944705/
+6. Goodwill | trust 14.0 | Goodwill is a thrift store in Chicago, IL at 1201 West Washington Boulevard, Chicago, IL 60607. Phone: +13125631187. | https://dingalinged-cpu.github.io/registry/c/goodwill-chicago/
+7. Greater Goods Community Thrift | trust 14.0 | Greater Goods Community Thrift is a thrift store in Chicago, IL at 6025 West Irving Park Road, Chicago, IL 60634. Phone: +17736573482. | https://dingalinged-cpu.github.io/registry/c/greater-goods-community-thrift-chicago/
+8. Mercy Beaucoup! Resale Boutique | trust 14.0 | Mercy Beaucoup! Resale Boutique is a thrift store in Chicago, IL at 1545 North Wells Street, Chicago, IL 60610. Website: https://www.mercybeaucoup.com/. | https://dingalinged-cpu.github.io/registry/c/mercy-beaucoup-resale-boutique-chicago/
+9. Mission Possible | trust 14.0 | Mission Possible is a thrift store in Chicago, IL at 4308 North Lincoln Avenue, Chicago, IL 60618. Phone: +13125194905. | https://dingalinged-cpu.github.io/registry/c/mission-possible-chicago/
+10. Consignment Lounge | trust 10.0 | Consignment Lounge is a thrift store in Chicago, IL at 3520 West Diversey Avenue, Chicago, IL 60647. Phone: +17733846273. | https://dingalinged-cpu.github.io/registry/c/consignment-lounge-chicago/
+11. Habitat for Humanity ReStore | trust 10.0 | Habitat for Humanity ReStore is a thrift store in Chicago, IL at 6040 North Pulaski Road, Chicago, IL 60646. Website: https://www.habitatchicago.org/. | https://dingalinged-cpu.github.io/registry/c/habitat-for-humanity-restore-chicago/
+12. Marie|Wesley | trust 10.0 | Marie|Wesley is a thrift store in Chicago, IL at 1122 West 63rd Street, Chicago, IL 60621. Website: https://mariewesley.com/. | https://dingalinged-cpu.github.io/registry/c/marie-wesley-chicago/
+13. Very Best Vintage | trust 10.0 | Very Best Vintage is a thrift store in Chicago, IL at 1346 West 18th Street, Chicago, IL 60608. Website: https://www.facebook.com/verybestvintage/. | https://dingalinged-cpu.github.io/registry/c/very-best-vintage-chicago/
+14. Village Discount Outlet | trust 10.0 | Village Discount Outlet is a thrift store in Chicago, IL at 2043 West Roscoe Street, Chicago, IL 60618. Website: https://villagediscountoutlet.com/locations/roscoe-chicago/. | https://dingalinged-cpu.github.io/registry/c/village-discount-outlet-chicago-n5567717007/
+15. Village Discount Outlet | trust 10.0 | Village Discount Outlet is a thrift store in Chicago, IL at 2040;2032 North Milwaukee Avenue, Chicago, IL 60647. Website: https://villagediscountoutlet.com/locations/milwaukee-chicago/. | https://dingalinged-cpu.github.io/registry/c/village-discount-outlet-chicago-w1190161380/
+16. Village Discount Outlet | trust 10.0 | Village Discount Outlet is a thrift store in Chicago, IL at 2514 West 47th Street, Chicago, IL 60632. Website: https://www.villagediscountoutlet.com/05.php. | https://dingalinged-cpu.github.io/registry/c/village-discount-outlet-chicago-w165151145/
+17. Knee Deep Vintage | trust 9.0 | Knee Deep Vintage is a thrift store in Chicago, IL at 1219 West 18th Street, Chicago, IL. Website: https://www.kneedeepvintage.com/. | https://dingalinged-cpu.github.io/registry/c/knee-deep-vintage-chicago/
+18. Mt. Sinai Resale Shop | trust 9.0 | Mt. Sinai Resale Shop is a thrift store in Chicago, IL at 2902 North Clark Street, Chicago, IL. Phone: +17739351434. | https://dingalinged-cpu.github.io/registry/c/mt-sinai-resale-shop-chicago/
+19. CEA Estate Sale Finds & Consignments | trust 8.0 | CEA Estate Sale Finds & Consignments is a thrift store in Chicago, IL at 2023 West Division Street, Chicago, IL 60622. | https://dingalinged-cpu.github.io/registry/c/cea-estate-sale-finds-and-consignments-chicago/
+20. The Salvation Army | trust 8.0 | The Salvation Army is a thrift store in Chicago, IL at 3400 West Montrose Avenue, Chicago, IL 60618. | https://dingalinged-cpu.github.io/registry/c/the-salvation-army-chicago/
+21. Unique Thrift Store | trust 8.0 | Unique Thrift Store is a thrift store in Chicago, IL at 3748 North Elston Avenue, Chicago, IL 60618. | https://dingalinged-cpu.github.io/registry/c/unique-thrift-store-chicago/
+22. 2nd STREET | trust 4.0 | 2nd STREET is a thrift store in Chicago, IL at 1514 North Milwaukee Avenue, Chicago, IL 60622. | https://dingalinged-cpu.github.io/registry/c/2nd-street-chicago/
+23. 2nd STREET | trust 4.0 | 2nd STREET is a thrift store in Chicago, IL at 5228 North Clark Street, Chicago, IL 60640. | https://dingalinged-cpu.github.io/registry/c/2nd-street-chicago-n13113415001/
+24. 2nd STREET | trust 4.0 | 2nd STREET is a thrift store in Chicago, IL at 666 North Clark Street, Chicago, IL 60657. | https://dingalinged-cpu.github.io/registry/c/2nd-street-chicago-n13113415002/
+25. Community Donation Center | trust 4.0 | Community Donation Center is a thrift store in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/community-donation-center-chicago/
+26. Goodwill | trust 4.0 | Goodwill is a thrift store in Chicago, IL at 9321 South Western Avenue, Chicago, IL 60643. | https://dingalinged-cpu.github.io/registry/c/goodwill-chicago-n7880427018/
+27. Hip Cat | trust 4.0 | Hip Cat is a thrift store in Chicago, IL at 1900 West Addison Street, Chicago, IL 60613. | https://dingalinged-cpu.github.io/registry/c/hip-cat-chicago/
+28. My Sister's Closet | trust 4.0 | My Sister's Closet is a thrift store in Chicago, IL at 5413-5417 West Devon Avenue, Chicago, IL 60646. | https://dingalinged-cpu.github.io/registry/c/my-sisters-closet-chicago/
+29. The Salvation Army | trust 4.0 | The Salvation Army is a thrift store in Chicago, IL at 509 North Union Avenue, Chicago, IL 60654. | https://dingalinged-cpu.github.io/registry/c/the-salvation-army-chicago-n3445953662/
+30. The Salvation Army | trust 4.0 | The Salvation Army is a thrift store in Chicago, IL at 6434 West 63rd Street, Chicago, IL 60638. | https://dingalinged-cpu.github.io/registry/c/the-salvation-army-chicago-n7739017470/
+31. The Salvation Army | trust 4.0 | The Salvation Army is a thrift store in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/the-salvation-army-chicago-n9398303358/
+32. The Salvation Army | trust 4.0 | The Salvation Army is a thrift store in Chicago, IL at 4052 West Grand Avenue, Chicago, IL 60651. | https://dingalinged-cpu.github.io/registry/c/the-salvation-army-chicago-w162336071/
+33. The Salvation Army | trust 4.0 | The Salvation Army is a thrift store in Chicago, IL at 2941 North Central Avenue, Chicago, IL 60634. | https://dingalinged-cpu.github.io/registry/c/the-salvation-army-chicago-w162627714/
+34. The Salvation Army | trust 4.0 | The Salvation Army is a thrift store in Chicago, IL at 2151 West Devon Avenue, Chicago, IL 60659. | https://dingalinged-cpu.github.io/registry/c/the-salvation-army-chicago-w209569800/
+35. The Salvation Army | trust 4.0 | The Salvation Army is a thrift store in Chicago, IL at 2270 North Clybourn Avenue, Chicago, IL 60614. | https://dingalinged-cpu.github.io/registry/c/the-salvation-army-chicago-w28100638/
+36. Village Discount Outlet | trust 4.0 | Village Discount Outlet is a thrift store in Chicago, IL at 4898 North Clark Street, Chicago, IL 60640. | https://dingalinged-cpu.github.io/registry/c/village-discount-outlet-chicago/
+37. Vintage Frills | trust 4.0 | Vintage Frills is a thrift store in Chicago, IL at 2846 North Milwaukee Avenue, Chicago, IL 60618. | https://dingalinged-cpu.github.io/registry/c/vintage-frills-chicago/
+38. Solé Resale Boutique | trust 3.0 | Solé Resale Boutique is a thrift store in Chicago, IL at 2413 West Madison Street, Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/sol-resale-boutique-chicago/
+39. Cynthia's Consignment | trust 0.0 | Cynthia's Consignment is a thrift store in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/cynthias-consignment-chicago/
+40. Family Thrift Store | trust 0.0 | Family Thrift Store is a thrift store in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/family-thrift-store-chicago/
+41. Logan Square Resale Shop | trust 0.0 | Logan Square Resale Shop is a thrift store in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/logan-square-resale-shop-chicago/
+42. My Grandma's Attic | trust 0.0 | My Grandma's Attic is a thrift store in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/my-grandmas-attic-chicago/
+43. Resale - Second Hand etc | trust 0.0 | Resale - Second Hand etc is a thrift store in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/resale-second-hand-etc-chicago/
+44. The Ark | trust 0.0 | The Ark is a thrift store in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/the-ark-chicago/
+45. Three Stars Resale Shop | trust 0.0 | Three Stars Resale Shop is a thrift store in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/three-stars-resale-shop-chicago/
+
+## Market data (for advertisers and agents)
+- Keyword: thrift store chicago il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts
+- US monthly searches: 140,000/mo (estimate; Registry estimate (CC-BY-4.0); method given on each value; as of 2026-10-18; range 79,000-300,000)
+- Local monthly searches (Chicago-Naperville-Elgin, IL-IN metro): ~3,900 (estimate: estimate: US monthly volume x metro population share (Census V2025 metro pop / US pop 341,784,857); rounded to 2 significant figures. Counts all searches for the service in the metro, not only searches that type this city name.)
+- CPC benchmark: low $3.49, median $4.14, high $4.14 (Shopping, Collectibles & Gifts median CPC 2026 $4.14 [https://www.localiq.com/blog/search-advertising-benchmarks]; Shopping, Collectibles & Gifts median CPC 2025 $3.49 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 45
+- Equivalent Google Ads cost per month: ~$1,400 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $10/month, spots 2-4 from $1/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/thrift-store.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#thrift-store-chicago-il | Estimates CC-BY-4.0; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

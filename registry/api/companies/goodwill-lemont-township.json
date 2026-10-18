@@ -1,0 +1,58 @@
+{
+ "slug": "goodwill-lemont-township",
+ "name": "Goodwill",
+ "categories": [
+  "thrift store"
+ ],
+ "keywords": [
+  "thrift store",
+  "thrift store lemont township il"
+ ],
+ "services": [
+  {
+   "name": "thrift store",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1146 State Street",
+  "addressLocality": "Lemont Township",
+  "addressRegion": "IL",
+  "postalCode": "60439",
+  "addressCountry": "US"
+ },
+ "city": "Lemont Township",
+ "state": "IL",
+ "zip": "60439",
+ "geo": {
+  "lat": 41.6590615,
+  "lon": -88.0017033
+ },
+ "phone": "+16302575608",
+ "website": "https://www.goodwill.org/",
+ "brand": "Goodwill",
+ "wikidata": "Q5583655",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/308321311",
+ "osm": {
+  "type": "way",
+  "id": 308321311,
+  "tags_used": {
+   "shop": "charity"
+  }
+ },
+ "municipality": "Lemont Township",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/goodwill-lemont-township/",
+ "summary": "Goodwill is a thrift store in Lemont Township, IL at 1146 State Street, Lemont Township, IL 60439. Phone: +16302575608. Website: https://www.goodwill.org/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

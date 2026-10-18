@@ -1,0 +1,63 @@
+{
+ "slug": "law-office-of-andrew-j-harger-chicago",
+ "name": "Law Office of Andrew J. Harger",
+ "categories": [
+  "lawyer"
+ ],
+ "keywords": [
+  "lawyer",
+  "attorney",
+  "lawyer chicago il",
+  "attorney chicago il"
+ ],
+ "services": [
+  {
+   "name": "lawyer",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "attorney",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "300 North LaSalle Boulevard",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60654",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60654",
+ "geo": {
+  "lat": 41.8883259,
+  "lon": -87.6329543
+ },
+ "phone": "+13128030388",
+ "website": "https://www.hargerlawfirm.com/",
+ "opening_hours": "08:30-17:00",
+ "schema_type": "LegalService",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/3026278564",
+ "osm": {
+  "type": "node",
+  "id": 3026278564,
+  "tags_used": {
+   "office": "lawyer"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/law-office-of-andrew-j-harger-chicago/",
+ "summary": "Law Office of Andrew J. Harger is a lawyer in Chicago, IL at 300 North LaSalle Boulevard, Chicago, IL 60654. Phone: +13128030388. Website: https://www.hargerlawfirm.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

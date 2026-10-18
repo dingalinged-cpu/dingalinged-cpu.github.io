@@ -1,0 +1,56 @@
+{
+ "slug": "20-20-eye-care-and-eye-wear-western-springs",
+ "name": "20/20 Eye Care & Eye Wear",
+ "categories": [
+  "eye doctor"
+ ],
+ "keywords": [
+  "eye doctor",
+  "eye doctor western springs il"
+ ],
+ "services": [
+  {
+   "name": "eye doctor",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "504 Hillgrove Avenue",
+  "addressLocality": "Western Springs",
+  "addressRegion": "IL",
+  "postalCode": "60558",
+  "addressCountry": "US"
+ },
+ "city": "Western Springs",
+ "state": "IL",
+ "zip": "60558",
+ "geo": {
+  "lat": 41.8107842,
+  "lon": -87.895521
+ },
+ "phone": "+17082861100",
+ "website": "https://2020eyecare.vision/",
+ "schema_type": "Optician",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/9603287970",
+ "osm": {
+  "type": "node",
+  "id": 9603287970,
+  "tags_used": {
+   "healthcare": "optometrist"
+  }
+ },
+ "municipality": "Western Springs",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/20-20-eye-care-and-eye-wear-western-springs/",
+ "summary": "20/20 Eye Care & Eye Wear is an eye care practice in Western Springs, IL at 504 Hillgrove Avenue, Western Springs, IL 60558. Phone: +17082861100. Website: https://2020eyecare.vision/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

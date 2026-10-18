@@ -1,0 +1,23 @@
+El Rincon Del Sabor is a bakery in Chicago, IL at 7026 West Grand Avenue, Chicago, IL 60707. Phone: +17736226848.
+
+# El Rincon Del Sabor
+
+- Category: bakery
+- Services: bakery
+- Address: 7026 West Grand Avenue, Chicago, IL 60707
+- City: Chicago
+- State: IL
+- ZIP: 60707
+- Coordinates: 41.9237737, -87.8018536
+- Phone: +17736226848
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/el-rincon-del-sabor-chicago/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/el-rincon-del-sabor-chicago.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6285899869 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

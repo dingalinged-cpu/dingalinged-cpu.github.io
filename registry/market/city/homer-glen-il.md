@@ -1,0 +1,58 @@
+Keyword market for Homer Glen, IL: 29 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Chicago-Naperville-Elgin, IL-IN metro (US volume x population share).
+
+# Top keywords in Homer Glen, IL
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are in the JSON and dataset. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json
+
+## By monthly searches
+1. car wash homer glen il | searches/mo 51,000 (est) | CPC $4.35 | value $220,000 | Google Ads equiv $12,000/mo | our featured min $20/mo | registry competitors 7 | https://dingalinged-cpu.github.io/registry/k/car-wash-homer-glen-il/
+2. dentist homer glen il | searches/mo 51,000 (est) | CPC $4.70 | value $240,000 | Google Ads equiv $13,000/mo | our featured min $100/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/dentist-homer-glen-il/
+3. gym homer glen il | searches/mo 51,000 (est) | CPC $1.67 | value $85,000 | Google Ads equiv $6,100/mo | our featured min $50/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/gym-homer-glen-il/
+4. hair salon homer glen il | searches/mo 41,000 (est) | CPC $0.55 | value $23,000 | Google Ads equiv $1,300/mo | our featured min $50/mo | registry competitors 5 | https://dingalinged-cpu.github.io/registry/k/hair-salon-homer-glen-il/
+5. nail salon homer glen il | searches/mo 28,000 (est) | CPC $0.61 | value $17,000 | Google Ads equiv $980/mo | our featured min $50/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/nail-salon-homer-glen-il/
+6. mechanic homer glen il | searches/mo 19,000 (est) | CPC $4.35 | value $83,000 | Google Ads equiv $4,600/mo | our featured min $20/mo | registry competitors 6 | https://dingalinged-cpu.github.io/registry/k/mechanic-homer-glen-il/
+7. tire shop homer glen il | searches/mo 15,000 (est) | CPC $4.35 | value $65,000 | Google Ads equiv $3,600/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/tire-shop-homer-glen-il/
+8. vet homer glen il | searches/mo 15,000 (est) | CPC $4.06 | value $61,000 | Google Ads equiv $4,000/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/vet-homer-glen-il/
+9. haircut homer glen il | searches/mo 10,000 (est) | CPC $4.62 | value $46,000 | Google Ads equiv $2,600/mo | our featured min $50/mo | registry competitors 5 | https://dingalinged-cpu.github.io/registry/k/haircut-homer-glen-il/
+10. auto repair homer glen il | searches/mo 8,300 (est) | CPC $4.35 | value $36,000 | Google Ads equiv $2,000/mo | our featured min $20/mo | registry competitors 6 | https://dingalinged-cpu.github.io/registry/k/auto-repair-homer-glen-il/
+11. chiropractor homer glen il | searches/mo 6,800 (est) | CPC $4.76 | value $32,000 | Google Ads equiv $2,200/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/chiropractor-homer-glen-il/
+12. financial advisor homer glen il | searches/mo 6,800 (est) | CPC $3.39 | value $23,000 | Google Ads equiv $1,900/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/financial-advisor-homer-glen-il/
+13. insurance agency homer glen il | searches/mo 2,500 (est) | CPC $3.39 | value $8,500 | Google Ads equiv $710/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/insurance-agency-homer-glen-il/
+14. attorney homer glen il | searches/mo 2,000 (est) | CPC $9.87 | value $20,000 | Google Ads equiv $1,200/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/attorney-homer-glen-il/
+15. auto body shop homer glen il | searches/mo 1,700 (est) | CPC $4.35 | value $7,400 | Google Ads equiv $410/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/auto-body-shop-homer-glen-il/
+
+## By CPC
+1. attorney homer glen il | searches/mo 2,000 (est) | CPC $9.87 | value $20,000 | Google Ads equiv $1,200/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/attorney-homer-glen-il/
+2. lawyer homer glen il | searches/mo 1,400 (est) | CPC $9.87 | value $14,000 | Google Ads equiv $820/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/lawyer-homer-glen-il/
+3. window replacement homer glen il | searches/mo 6,100 (est) | CPC $8.76 | value $53,000 | Google Ads equiv $3,400/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/window-replacement-homer-glen-il/
+4. event venues homer glen il | searches/mo 6,100 (est) | CPC $7.17 | value $44,000 | Google Ads equiv $3,400/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/event-venues-homer-glen-il/
+5. daycare homer glen il | searches/mo 6,100 (est) | CPC $4.81 | value $29,000 | Google Ads equiv $1,700/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/daycare-homer-glen-il/
+6. driving school homer glen il | searches/mo 1,100 (est) | CPC $4.81 | value $5,300 | Google Ads equiv $300/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/driving-school-homer-glen-il/
+7. chiropractor homer glen il | searches/mo 6,800 (est) | CPC $4.76 | value $32,000 | Google Ads equiv $2,200/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/chiropractor-homer-glen-il/
+8. eye doctor homer glen il | searches/mo 6,100 (est) | CPC $4.76 | value $29,000 | Google Ads equiv $2,000/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/eye-doctor-homer-glen-il/
+9. physical therapy homer glen il | searches/mo 6,100 (est) | CPC $4.76 | value $29,000 | Google Ads equiv $2,000/mo | our featured min $50/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/physical-therapy-homer-glen-il/
+10. dentist homer glen il | searches/mo 51,000 (est) | CPC $4.70 | value $240,000 | Google Ads equiv $13,000/mo | our featured min $100/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/dentist-homer-glen-il/
+11. haircut homer glen il | searches/mo 10,000 (est) | CPC $4.62 | value $46,000 | Google Ads equiv $2,600/mo | our featured min $50/mo | registry competitors 5 | https://dingalinged-cpu.github.io/registry/k/haircut-homer-glen-il/
+12. auto body shop homer glen il | searches/mo 1,700 (est) | CPC $4.35 | value $7,400 | Google Ads equiv $410/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/auto-body-shop-homer-glen-il/
+13. auto repair homer glen il | searches/mo 8,300 (est) | CPC $4.35 | value $36,000 | Google Ads equiv $2,000/mo | our featured min $20/mo | registry competitors 6 | https://dingalinged-cpu.github.io/registry/k/auto-repair-homer-glen-il/
+14. car wash homer glen il | searches/mo 51,000 (est) | CPC $4.35 | value $220,000 | Google Ads equiv $12,000/mo | our featured min $20/mo | registry competitors 7 | https://dingalinged-cpu.github.io/registry/k/car-wash-homer-glen-il/
+15. mechanic homer glen il | searches/mo 19,000 (est) | CPC $4.35 | value $83,000 | Google Ads equiv $4,600/mo | our featured min $20/mo | registry competitors 6 | https://dingalinged-cpu.github.io/registry/k/mechanic-homer-glen-il/
+
+## By value (searches x CPC)
+1. dentist homer glen il | searches/mo 51,000 (est) | CPC $4.70 | value $240,000 | Google Ads equiv $13,000/mo | our featured min $100/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/dentist-homer-glen-il/
+2. car wash homer glen il | searches/mo 51,000 (est) | CPC $4.35 | value $220,000 | Google Ads equiv $12,000/mo | our featured min $20/mo | registry competitors 7 | https://dingalinged-cpu.github.io/registry/k/car-wash-homer-glen-il/
+3. gym homer glen il | searches/mo 51,000 (est) | CPC $1.67 | value $85,000 | Google Ads equiv $6,100/mo | our featured min $50/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/gym-homer-glen-il/
+4. mechanic homer glen il | searches/mo 19,000 (est) | CPC $4.35 | value $83,000 | Google Ads equiv $4,600/mo | our featured min $20/mo | registry competitors 6 | https://dingalinged-cpu.github.io/registry/k/mechanic-homer-glen-il/
+5. tire shop homer glen il | searches/mo 15,000 (est) | CPC $4.35 | value $65,000 | Google Ads equiv $3,600/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/tire-shop-homer-glen-il/
+6. vet homer glen il | searches/mo 15,000 (est) | CPC $4.06 | value $61,000 | Google Ads equiv $4,000/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/vet-homer-glen-il/
+7. haircut homer glen il | searches/mo 10,000 (est) | CPC $4.62 | value $46,000 | Google Ads equiv $2,600/mo | our featured min $50/mo | registry competitors 5 | https://dingalinged-cpu.github.io/registry/k/haircut-homer-glen-il/
+8. auto repair homer glen il | searches/mo 8,300 (est) | CPC $4.35 | value $36,000 | Google Ads equiv $2,000/mo | our featured min $20/mo | registry competitors 6 | https://dingalinged-cpu.github.io/registry/k/auto-repair-homer-glen-il/
+9. chiropractor homer glen il | searches/mo 6,800 (est) | CPC $4.76 | value $32,000 | Google Ads equiv $2,200/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/chiropractor-homer-glen-il/
+10. financial advisor homer glen il | searches/mo 6,800 (est) | CPC $3.39 | value $23,000 | Google Ads equiv $1,900/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/financial-advisor-homer-glen-il/
+11. hair salon homer glen il | searches/mo 41,000 (est) | CPC $0.55 | value $23,000 | Google Ads equiv $1,300/mo | our featured min $50/mo | registry competitors 5 | https://dingalinged-cpu.github.io/registry/k/hair-salon-homer-glen-il/
+12. attorney homer glen il | searches/mo 2,000 (est) | CPC $9.87 | value $20,000 | Google Ads equiv $1,200/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/attorney-homer-glen-il/
+13. nail salon homer glen il | searches/mo 28,000 (est) | CPC $0.61 | value $17,000 | Google Ads equiv $980/mo | our featured min $50/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/nail-salon-homer-glen-il/
+14. lawyer homer glen il | searches/mo 1,400 (est) | CPC $9.87 | value $14,000 | Google Ads equiv $820/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/lawyer-homer-glen-il/
+15. insurance agency homer glen il | searches/mo 2,500 (est) | CPC $3.39 | value $8,500 | Google Ads equiv $710/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/insurance-agency-homer-glen-il/
+
+All market data: https://dingalinged-cpu.github.io/registry/market/ | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html

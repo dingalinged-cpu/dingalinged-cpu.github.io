@@ -1,0 +1,777 @@
+{
+ "keyword": "facial chicago il",
+ "slug": "facial-chicago-il",
+ "place": "Chicago, IL",
+ "service": "facial",
+ "query": "Who are the best facial providers in Chicago, IL?",
+ "matches": [
+  "facial in Chicago, IL",
+  "facial near me (Chicago, IL)",
+  "best facial Chicago, IL",
+  "top rated facial Chicago, IL",
+  "affordable facial Chicago, IL",
+  "emergency facial Chicago, IL"
+ ],
+ "answer": "The top unpaid facial listing for Chicago, IL is Blush Electrolysis & Skincare (a skin care studio in Chicago, IL at 2445 West Superior Street, Chicago, IL 60612. Phone: +13124929300. Website: https://www.blushinc.net/). 15 facial businesses are listed for Chicago, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-18",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "blush-electrolysis-and-skincare-chicago",
+   "name": "Blush Electrolysis & Skincare",
+   "summary": "Blush Electrolysis & Skincare is a skin care studio in Chicago, IL at 2445 West Superior Street, Chicago, IL 60612. Phone: +13124929300. Website: https://www.blushinc.net/.",
+   "categories": [
+    "facial"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/blush-electrolysis-and-skincare-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/blush-electrolysis-and-skincare-chicago.json",
+   "address": {
+    "streetAddress": "2445 West Superior Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60612",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60612",
+   "geo": {
+    "lat": 41.8946425,
+    "lon": -87.6885543
+   },
+   "phone": "+13124929300",
+   "website": "https://www.blushinc.net/",
+   "opening_hours": "Mo 10:00-20:00; Tu-Th 09:00-20:00; Fr 08:00-15:00; Sa 08:00-17:00; Su 08:30-13:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13656887985",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "callista-beauty-and-medical-spa-chicago",
+   "name": "Callista Beauty and Medical Spa",
+   "summary": "Callista Beauty and Medical Spa is a nail salon in Chicago, IL at 6020 West Higgins Avenue, Chicago, IL 60630. Phone: +17739545777. Website: https://callistabeautyspa.com/.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/callista-beauty-and-medical-spa-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/callista-beauty-and-medical-spa-chicago.json",
+   "address": {
+    "streetAddress": "6020 West Higgins Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60630",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60630",
+   "geo": {
+    "lat": 41.973856,
+    "lon": -87.7790618
+   },
+   "phone": "+17739545777",
+   "website": "https://callistabeautyspa.com/",
+   "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12540865672",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "sanctuary-mens-spa-chicago",
+   "name": "Sanctuary Men's Spa",
+   "summary": "Sanctuary Men's Spa is a waxing salon in Chicago, IL at 4554 North Broadway, Chicago, IL 60640. Phone: +13127356007. Website: https://adriani-divino.square.site/.",
+   "categories": [
+    "waxing"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sanctuary-mens-spa-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sanctuary-mens-spa-chicago.json",
+   "address": {
+    "streetAddress": "4554 North Broadway",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60640",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60640",
+   "geo": {
+    "lat": 41.9646972,
+    "lon": -87.6573481
+   },
+   "phone": "+13127356007",
+   "website": "https://adriani-divino.square.site/",
+   "opening_hours": "Mo-Fr 09:00-21:00; Sa 10:00-22:00; Su 13:00-22:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13874801846",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "the-skin-bar-at-ulta-beauty-chicago",
+   "name": "The Skin Bar at Ulta Beauty",
+   "summary": "The Skin Bar at Ulta Beauty is a skin care studio in Chicago, IL at 1107 South Delano Court, Chicago, IL 60605. Phone: +13125830554. Website: https://www.ulta.com/stores/chicago-il-423.",
+   "categories": [
+    "facial"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-skin-bar-at-ulta-beauty-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-skin-bar-at-ulta-beauty-chicago.json",
+   "address": {
+    "streetAddress": "1107 South Delano Court",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60605",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60605",
+   "geo": {
+    "lat": 41.8685396,
+    "lon": -87.6322029
+   },
+   "phone": "+13125830554",
+   "website": "https://www.ulta.com/stores/chicago-il-423",
+   "opening_hours": "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4035489541",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "the-skin-bar-at-ulta-beauty-chicago-n11496672448",
+   "name": "The Skin Bar at Ulta Beauty",
+   "summary": "The Skin Bar at Ulta Beauty is a skin care studio in Chicago, IL at 3015 North Clark Street, Chicago, IL 60657. Phone: +17733487315. Website: https://www.ulta.com/stores/chicago-il-44.",
+   "categories": [
+    "facial"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-skin-bar-at-ulta-beauty-chicago-n11496672448/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-skin-bar-at-ulta-beauty-chicago-n11496672448.json",
+   "address": {
+    "streetAddress": "3015 North Clark Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60657",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60657",
+   "geo": {
+    "lat": 41.9370886,
+    "lon": -87.647603
+   },
+   "phone": "+17733487315",
+   "website": "https://www.ulta.com/stores/chicago-il-44",
+   "opening_hours": "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11496672448",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "the-skin-bar-at-ulta-beauty-chicago-n12057987632",
+   "name": "The Skin Bar at Ulta Beauty",
+   "summary": "The Skin Bar at Ulta Beauty is a skin care studio in Chicago, IL at 430 North Michigan Avenue, Chicago, IL 60611. Phone: +13125279045. Website: https://www.ulta.com/stores/chicago-il-1357.",
+   "categories": [
+    "facial"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-skin-bar-at-ulta-beauty-chicago-n12057987632/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-skin-bar-at-ulta-beauty-chicago-n12057987632.json",
+   "address": {
+    "streetAddress": "430 North Michigan Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60611",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60611",
+   "geo": {
+    "lat": 41.8902684,
+    "lon": -87.6245418
+   },
+   "phone": "+13125279045",
+   "website": "https://www.ulta.com/stores/chicago-il-1357",
+   "opening_hours": "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12057987632",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "the-skin-bar-at-ulta-beauty-chicago-n9424269473",
+   "name": "The Skin Bar at Ulta Beauty",
+   "summary": "The Skin Bar at Ulta Beauty is a skin care studio in Chicago, IL at 2754 North Clybourn Avenue #A2, Chicago, IL 60614. Phone: +17734726720. Website: https://www.ulta.com/stores/chicago-il-121.",
+   "categories": [
+    "facial"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-skin-bar-at-ulta-beauty-chicago-n9424269473/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-skin-bar-at-ulta-beauty-chicago-n9424269473.json",
+   "address": {
+    "streetAddress": "2754 North Clybourn Avenue #A2",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60614",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60614",
+   "geo": {
+    "lat": 41.9310391,
+    "lon": -87.6772031
+   },
+   "phone": "+17734726720",
+   "website": "https://www.ulta.com/stores/chicago-il-121",
+   "opening_hours": "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9424269473",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "the-wispy-brow-chicago",
+   "name": "The Wispy Brow",
+   "summary": "The Wispy Brow is a waxing salon in Chicago, IL at 1309 West Chicago Avenue #024, Chicago, IL 60642. Phone: +13123883083. Website: https://www.thewispybrow.com/.",
+   "categories": [
+    "waxing"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-wispy-brow-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-wispy-brow-chicago.json",
+   "address": {
+    "streetAddress": "1309 West Chicago Avenue #024",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60642",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60642",
+   "geo": {
+    "lat": 41.8960741,
+    "lon": -87.6598351
+   },
+   "phone": "+13123883083",
+   "website": "https://www.thewispybrow.com/",
+   "opening_hours": "Mo-Su 10:30-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13228373438",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "jakaylamadebeauty-chicago",
+   "name": "JaKaylaMadeBeauty",
+   "summary": "JaKaylaMadeBeauty is a skin care studio in Chicago, IL at 917 W 18th Street #Suite 322, Chicago, IL 60608. Phone: +17084953550.",
+   "categories": [
+    "facial"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jakaylamadebeauty-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jakaylamadebeauty-chicago.json",
+   "address": {
+    "streetAddress": "917 W 18th Street #Suite 322",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60608",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60608",
+   "geo": {
+    "lat": 41.8578506,
+    "lon": -87.6495747
+   },
+   "phone": "+17084953550",
+   "opening_hours": "Tu-Su 10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11888212336",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "chicago-male-chicago",
+   "name": "chicago male",
+   "summary": "chicago male is a skin care studio in Chicago, IL. Phone: +17732816005.",
+   "categories": [
+    "facial"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chicago-male-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chicago-male-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9442057,
+    "lon": -87.649551
+   },
+   "phone": "+17732816005",
+   "opening_hours": "Mo-Fr 12:00-21:00; Sa 10:00-19:00; Su 12:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11191199751",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 11,
+   "sponsored": false,
+   "slug": "heyday-chicago",
+   "name": "Heyday",
+   "summary": "Heyday is a skin care studio in Chicago, IL at 1953 North Clybourn Avenue, Chicago, IL 60614. Website: https://www.heydayskincare.com/pages/lincoln-park.",
+   "categories": [
+    "facial"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/heyday-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/heyday-chicago.json",
+   "address": {
+    "streetAddress": "1953 North Clybourn Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60614",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60614",
+   "geo": {
+    "lat": 41.916815,
+    "lon": -87.6571184
+   },
+   "website": "https://www.heydayskincare.com/pages/lincoln-park",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10559922081",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 12,
+   "sponsored": false,
+   "slug": "laseraway-chicago",
+   "name": "LaserAway",
+   "summary": "LaserAway is a skin care studio in Chicago, IL at 666 North Wells Street, Chicago, IL 60654. Website: https://www.laseraway.com/.",
+   "categories": [
+    "facial"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/laseraway-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/laseraway-chicago.json",
+   "address": {
+    "streetAddress": "666 North Wells Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60654",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60654",
+   "geo": {
+    "lat": 41.8943491,
+    "lon": -87.6343467
+   },
+   "website": "https://www.laseraway.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11088315714",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
+   "sponsored": false,
+   "slug": "lena-rose-beauty-chicago",
+   "name": "Lena Rose Beauty",
+   "summary": "Lena Rose Beauty is a nail salon in Chicago, IL at 4645 North Rockwell Street, Chicago, IL 60625. Website: https://lenarosebeauty.com/.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lena-rose-beauty-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lena-rose-beauty-chicago.json",
+   "address": {
+    "streetAddress": "4645 North Rockwell Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60625",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60625",
+   "geo": {
+    "lat": 41.9661193,
+    "lon": -87.6935688
+   },
+   "website": "https://lenarosebeauty.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12078931672",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 14,
+   "sponsored": false,
+   "slug": "geo-style-salon-and-spa-chicago",
+   "name": "Geo Style Salon & Spa",
+   "summary": "Geo Style Salon & Spa is a skin care studio in Chicago, IL at 2813 West Devon Avenue, Chicago, IL 60659.",
+   "categories": [
+    "facial"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/geo-style-salon-and-spa-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/geo-style-salon-and-spa-chicago.json",
+   "address": {
+    "streetAddress": "2813 West Devon Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60659",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60659",
+   "geo": {
+    "lat": 41.9973914,
+    "lon": -87.7001462
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8477352509",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 15,
+   "sponsored": false,
+   "slug": "laseraway-chicago-n12083308243",
+   "name": "LaserAway",
+   "summary": "LaserAway is a skin care studio in Chicago, IL at 841 West Madison Street, Chicago, IL 60607.",
+   "categories": [
+    "facial"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/laseraway-chicago-n12083308243/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/laseraway-chicago-n12083308243.json",
+   "address": {
+    "streetAddress": "841 West Madison Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60607",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60607",
+   "geo": {
+    "lat": 41.8815513,
+    "lon": -87.64886
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12083308243",
+   "last_checked": "2026-10-17"
+  }
+ ],
+ "market": {
+  "keyword": "facial chicago il",
+  "slug": "facial-chicago-il",
+  "base_keyword": "facial",
+  "scope": "city",
+  "city": "chicago",
+  "state": "il",
+  "category": "Personal care & beauty",
+  "industry": "Beauty & Personal Care",
+  "us_monthly_searches": {
+   "value": 74000,
+   "method": "cited",
+   "source": "r_savogroup-com-seo-services-med-spas",
+   "as_of": "2026-07",
+   "source_phrase": "facial near me",
+   "note": "US monthly searches, Semrush US Jul 2026"
+  },
+  "local_monthly_searches": {
+   "value": 2000,
+   "method": "estimate",
+   "method_id": "local_metro",
+   "geography": "Chicago-Naperville-Elgin, IL-IN metro",
+   "population": 9434123,
+   "source": "registry_estimate",
+   "volume_source": "r_savogroup-com-seo-services-med-spas",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: US monthly volume x metro population share (Census V2025 metro pop / US pop 341,784,857); rounded to 2 significant figures. Counts all searches for the service in the metro, not only searches that type this city name."
+  },
+  "cpc_usd": {
+   "industry_benchmark": "Beauty & Personal Care",
+   "low_usd": 4.62,
+   "median_usd": 4.62,
+   "high_usd": 5.7,
+   "method": "published benchmarks: low/high = range of the industry and sub-industry median CPCs listed in 'figures'; median = most specific benchmark",
+   "figures": [
+    {
+     "usd": 4.62,
+     "label": "Beauty & Personal Care median CPC 2026",
+     "source": "wordstream_2026"
+    },
+    {
+     "usd": 5.7,
+     "label": "Beauty & Personal Care median CPC 2025",
+     "source": "wordstream_2025"
+    }
+   ],
+   "source": "wordstream_2026",
+   "as_of": "2026",
+   "basis_for_value": {
+    "usd": 4.62,
+    "method": "benchmark median CPC",
+    "source": "wordstream_2026"
+   }
+  },
+  "ctr_pct": {
+   "value": 5.71,
+   "label": "Beauty & Personal Care average search-ad CTR 2025",
+   "source": "wordstream_2025",
+   "as_of": "2025-03"
+  },
+  "competition": {
+   "level": "medium",
+   "method": "proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research)",
+   "source": "wordstream_2026",
+   "as_of": "2026"
+  },
+  "trend": null,
+  "seasonality": {
+   "value": null,
+   "note": "No seasonality data in the research sources for this keyword."
+  },
+  "ai_query": {
+   "text": "No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.",
+   "figures": [
+    {
+     "value": "45%",
+     "label": "US adults using AI for local recommendations",
+     "source": "brightlocal_lcrs_2026"
+    },
+    {
+     "value": "75%",
+     "label": "sessions with keyword-style prompts",
+     "source": "sagapixel_sel"
+    },
+    {
+     "value": "59%",
+     "label": "local-intent prompts that triggered web search",
+     "source": "nectiv"
+    },
+    {
+     "value": "21%",
+     "label": "AI-first discovery journeys in healthcare (excerpt only)",
+     "source": "soci_2026"
+    }
+   ],
+   "as_of": "2026"
+  },
+  "registry_competitors": {
+   "value": 15,
+   "slugs": [
+    "blush-electrolysis-and-skincare-chicago",
+    "callista-beauty-and-medical-spa-chicago",
+    "chicago-male-chicago",
+    "geo-style-salon-and-spa-chicago",
+    "heyday-chicago",
+    "jakaylamadebeauty-chicago",
+    "laseraway-chicago",
+    "laseraway-chicago-n12083308243",
+    "lena-rose-beauty-chicago",
+    "sanctuary-mens-spa-chicago"
+   ],
+   "method_id": "competitors",
+   "source": "registry",
+   "as_of": "2026-10-18",
+   "urls": [
+    "https://dingalinged-cpu.github.io/registry/c/blush-electrolysis-and-skincare-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/callista-beauty-and-medical-spa-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/chicago-male-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/geo-style-salon-and-spa-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/heyday-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/jakaylamadebeauty-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/laseraway-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/laseraway-chicago-n12083308243/",
+    "https://dingalinged-cpu.github.io/registry/c/lena-rose-beauty-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/sanctuary-mens-spa-chicago/"
+   ],
+   "method": "count of registry listings tagged with the keyword (city/national) or with the base service in the same state (state keywords)"
+  },
+  "agent_demand": null,
+  "agent_demand_note": "Not yet measured. Will carry AI-agent query counts from the registry's agent analytics (contract: meta.agent_demand_contract in the market index).",
+  "equivalent_google_ads_cost_month": {
+   "value_usd": 530,
+   "method": "estimate",
+   "method_id": "google_ads_equiv",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote."
+  },
+  "search_value_index": {
+   "value_usd": 9200,
+   "method": "estimate",
+   "method_id": "value_index",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: search value index = monthly searches x CPC basis; an advertiser-value ranking signal, not revenue; rounded to 2 significant figures."
+  },
+  "auction": {
+   "featured_spot_min_usd": 50,
+   "spots_2_to_4_min_usd": 5,
+   "tier": "high",
+   "pricing_rule": "tier minimum (premium $500, high $250, mid $100, standard $50) for national keywords; city = max($10, 20% of tier); state = max($10, 35% of tier); spots 2-4 open at 10% of the featured minimum",
+   "model": "Monthly auction in the last 7 days of each month: days 1-5 bid for the Featured #1 spot, days 6-7 for spots 2-4; winners display all next month; all paid spots labeled Sponsored.",
+   "next_auctions": [
+    {
+     "display_month": "2026-11",
+     "featured_spot_bidding": [
+      "2026-10-25",
+      "2026-10-29"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-10-30",
+      "2026-10-31"
+     ]
+    },
+    {
+     "display_month": "2026-12",
+     "featured_spot_bidding": [
+      "2026-11-24",
+      "2026-11-28"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-11-29",
+      "2026-11-30"
+     ]
+    }
+   ],
+   "source": "registry_auction",
+   "as_of": "2026-10-18"
+  },
+  "sources": {
+   "brightlocal_lcrs_2026": {
+    "name": "BrightLocal Local Consumer Review Survey 2026 (n=1,002 US adults)",
+    "url": "https://www.brightlocal.com/research/lcrs-ai-trust/",
+    "as_of": "2026"
+   },
+   "nectiv": {
+    "name": "Nectiv study of 8,500+ ChatGPT prompts",
+    "url": "https://nectivdigital.com/blog/new-data-study-what-queries-is-chatgpt-using-behind-the-scenes",
+    "as_of": "2025"
+   },
+   "r_savogroup-com-seo-services-med-spas": {
+    "name": "Semrush US Jul 2026 (via research source)",
+    "url": "https://savogroup.com/seo-services/med-spas/",
+    "as_of": "2026-07"
+   },
+   "registry": {
+    "name": "This registry's own listings (OpenStreetMap-seeded, ODbL)",
+    "url": "https://dingalinged-cpu.github.io/registry/api/companies.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_auction": {
+    "name": "Registry keyword auction catalog and rules",
+    "url": "https://dingalinged-cpu.github.io/registry/api/keyword-prices.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_estimate": {
+    "name": "Registry estimate (CC-BY-4.0); method given on each value",
+    "url": "https://dingalinged-cpu.github.io/registry/market/",
+    "as_of": "2026-10-18"
+   },
+   "sagapixel_sel": {
+    "name": "Sagapixel ChatGPT local-services sessions, via Search Engine Land",
+    "url": "https://searchengineland.com/chatgpt-users-keywords-for-local-services-data-467715",
+    "as_of": "2026-01"
+   },
+   "soci_2026": {
+    "name": "SOCi Local Discovery Index 2026 (excerpt only, via pantora.ai)",
+    "url": "https://www.pantora.ai/blog/consumers-use-ai-to-find-local-businesses",
+    "as_of": "2026"
+   },
+   "wordstream_2025": {
+    "name": "WordStream Google Ads Benchmarks 2025 (16,446 US campaigns, Apr 2024-Mar 2025; median CPC and CTR by industry)",
+    "url": "https://www.wordstream.com/blog/2025-google-ads-benchmarks",
+    "as_of": "2025-03"
+   },
+   "wordstream_2026": {
+    "name": "LocaliQ/WordStream Search Advertising Benchmarks 2026 (US median CPC by industry)",
+    "url": "https://www.localiq.com/blog/search-advertising-benchmarks",
+    "as_of": "2026"
+   }
+  },
+  "license": {
+   "registry_estimates": "CC-BY-4.0",
+   "url": "https://creativecommons.org/licenses/by/4.0/",
+   "cited_figures": "attribute to the publishers in sources"
+  },
+  "as_of": "2026-10-18",
+  "api": "https://dingalinged-cpu.github.io/registry/api/market/facial.json",
+  "rate_card": "https://dingalinged-cpu.github.io/registry/view/market.html#facial-chicago-il"
+ }
+}

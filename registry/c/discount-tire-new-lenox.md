@@ -1,0 +1,23 @@
+Discount Tire is a tire shop in New Lenox, IL at 681 East Lincoln Highway, New Lenox, IL 60451. Phone: +18152153054. Website: https://www.discounttire.com/store/il/new-lenox/s/1891.
+
+# Discount Tire
+
+- Category: tire shop
+- Services: tire shop
+- Address: 681 East Lincoln Highway, New Lenox, IL 60451
+- City: New Lenox
+- State: IL
+- ZIP: 60451
+- Coordinates: 41.512962, -87.9493099
+- Phone: +18152153054
+- Website: https://www.discounttire.com/store/il/new-lenox/s/1891
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/discount-tire-new-lenox/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/discount-tire-new-lenox.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/188699619 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

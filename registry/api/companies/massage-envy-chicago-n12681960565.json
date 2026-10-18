@@ -1,0 +1,57 @@
+{
+ "slug": "massage-envy-chicago-n12681960565",
+ "name": "Massage Envy",
+ "categories": [
+  "massage"
+ ],
+ "keywords": [
+  "massage",
+  "massage chicago il"
+ ],
+ "services": [
+  {
+   "name": "massage",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1136 South Delano Court #E201",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60605",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60605",
+ "geo": {
+  "lat": 41.8678776,
+  "lon": -87.6332298
+ },
+ "website": "https://locations.massageenvy.com/illinois/chicago/1136-s--delano-ct-west.html",
+ "brand": "Massage Envy",
+ "wikidata": "Q10327170",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/12681960565",
+ "osm": {
+  "type": "node",
+  "id": 12681960565,
+  "tags_used": {
+   "shop": "massage"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/massage-envy-chicago-n12681960565/",
+ "summary": "Massage Envy is a massage studio in Chicago, IL at 1136 South Delano Court #E201, Chicago, IL 60605. Website: https://locations.massageenvy.com/illinois/chicago/1136-s--delano-ct-west.html.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

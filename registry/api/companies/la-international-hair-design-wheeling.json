@@ -1,0 +1,62 @@
+{
+ "slug": "la-international-hair-design-wheeling",
+ "name": "La International Hair Design",
+ "categories": [
+  "hair salon"
+ ],
+ "keywords": [
+  "hair salon",
+  "haircut",
+  "hair salon wheeling il",
+  "haircut wheeling il"
+ ],
+ "services": [
+  {
+   "name": "hair salon",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "haircut",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "765 West Dundee Road",
+  "addressLocality": "Wheeling",
+  "addressRegion": "IL",
+  "postalCode": "60090",
+  "addressCountry": "US"
+ },
+ "city": "Wheeling",
+ "state": "IL",
+ "zip": "60090",
+ "geo": {
+  "lat": 42.1389523,
+  "lon": -87.9352578
+ },
+ "phone": "+18478088233",
+ "opening_hours": "Mo-Th 9:00-19:30; Fr 9:00-20:00; Sa 9:00-18:00; Su 9:30-15:00",
+ "schema_type": "HairSalon",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/11382558119",
+ "osm": {
+  "type": "node",
+  "id": 11382558119,
+  "tags_used": {
+   "shop": "hairdresser"
+  }
+ },
+ "municipality": "Wheeling",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/la-international-hair-design-wheeling/",
+ "summary": "La International Hair Design is a hair salon in Wheeling, IL at 765 West Dundee Road, Wheeling, IL 60090. Phone: +18478088233.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

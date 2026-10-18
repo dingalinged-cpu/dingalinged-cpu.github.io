@@ -1,0 +1,62 @@
+{
+ "slug": "northwest-community-healthcare-immediate-care-kildeer",
+ "name": "Northwest Community Healthcare Immediate Care",
+ "categories": [
+  "family doctor"
+ ],
+ "keywords": [
+  "family doctor",
+  "primary care physician",
+  "family doctor kildeer il",
+  "primary care physician kildeer il"
+ ],
+ "services": [
+  {
+   "name": "family doctor",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "primary care physician",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "21481 Rand Road",
+  "addressLocality": "Kildeer",
+  "addressRegion": "IL",
+  "postalCode": "60047",
+  "addressCountry": "US"
+ },
+ "city": "Kildeer",
+ "state": "IL",
+ "zip": "60047",
+ "geo": {
+  "lat": 42.174934,
+  "lon": -88.0732152
+ },
+ "schema_type": "Physician",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/906017004",
+ "osm": {
+  "type": "way",
+  "id": 906017004,
+  "tags_used": {
+   "amenity": "clinic",
+   "healthcare": "clinic",
+   "healthcare:speciality": "general"
+  }
+ },
+ "municipality": "Kildeer",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/northwest-community-healthcare-immediate-care-kildeer/",
+ "summary": "Northwest Community Healthcare Immediate Care is a family medicine practice in Kildeer, IL at 21481 Rand Road, Kildeer, IL 60047.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

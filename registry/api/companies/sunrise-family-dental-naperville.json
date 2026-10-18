@@ -1,0 +1,52 @@
+{
+ "slug": "sunrise-family-dental-naperville",
+ "name": "Sunrise Family Dental",
+ "categories": [
+  "dentist"
+ ],
+ "keywords": [
+  "dentist",
+  "dentist naperville il"
+ ],
+ "services": [
+  {
+   "name": "dentist",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Naperville",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Naperville",
+ "state": "IL",
+ "geo": {
+  "lat": 41.7963756,
+  "lon": -88.1181161
+ },
+ "schema_type": "Dentist",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/11471980857",
+ "osm": {
+  "type": "node",
+  "id": 11471980857,
+  "tags_used": {
+   "amenity": "dentist",
+   "healthcare": "dentist"
+  }
+ },
+ "municipality": "Naperville",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/sunrise-family-dental-naperville/",
+ "summary": "Sunrise Family Dental is a dentist in Naperville, IL.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

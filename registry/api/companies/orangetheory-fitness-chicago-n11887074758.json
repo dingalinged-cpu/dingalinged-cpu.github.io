@@ -1,0 +1,57 @@
+{
+ "slug": "orangetheory-fitness-chicago-n11887074758",
+ "name": "Orangetheory Fitness",
+ "categories": [
+  "gym"
+ ],
+ "keywords": [
+  "gym",
+  "gym chicago il"
+ ],
+ "services": [
+  {
+   "name": "gym",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "5012 North Clark Street",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60640",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60640",
+ "geo": {
+  "lat": 41.9729236,
+  "lon": -87.6681756
+ },
+ "phone": "+17737177999",
+ "brand": "Orangetheory Fitness",
+ "wikidata": "Q25005163",
+ "schema_type": "ExerciseGym",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/11887074758",
+ "osm": {
+  "type": "node",
+  "id": 11887074758,
+  "tags_used": {
+   "leisure": "fitness_centre"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/orangetheory-fitness-chicago-n11887074758/",
+ "summary": "Orangetheory Fitness is a gym in Chicago, IL at 5012 North Clark Street, Chicago, IL 60640. Phone: +17737177999.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

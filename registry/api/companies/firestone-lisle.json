@@ -1,0 +1,59 @@
+{
+ "slug": "firestone-lisle",
+ "name": "Firestone",
+ "categories": [
+  "auto repair"
+ ],
+ "keywords": [
+  "auto repair",
+  "mechanic",
+  "auto repair lisle il",
+  "mechanic lisle il"
+ ],
+ "services": [
+  {
+   "name": "auto repair",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "mechanic",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Lisle",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Lisle",
+ "state": "IL",
+ "geo": {
+  "lat": 41.7960985,
+  "lon": -88.109166
+ },
+ "brand": "Firestone",
+ "wikidata": "Q420837",
+ "schema_type": "AutoRepair",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/529530991",
+ "osm": {
+  "type": "way",
+  "id": 529530991,
+  "tags_used": {
+   "shop": "car_repair"
+  }
+ },
+ "municipality": "Lisle",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/firestone-lisle/",
+ "summary": "Firestone is an auto repair shop in Lisle, IL.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

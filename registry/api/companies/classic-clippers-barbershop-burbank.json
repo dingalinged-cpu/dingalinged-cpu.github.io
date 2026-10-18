@@ -1,0 +1,64 @@
+{
+ "slug": "classic-clippers-barbershop-burbank",
+ "name": "Classic Clippers Barbershop",
+ "categories": [
+  "barber shop"
+ ],
+ "keywords": [
+  "barber shop",
+  "haircut",
+  "barber shop burbank il",
+  "haircut burbank il"
+ ],
+ "services": [
+  {
+   "name": "barber shop",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "haircut",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "5908 West 87th Street",
+  "addressLocality": "Burbank",
+  "addressRegion": "IL",
+  "postalCode": "60459",
+  "addressCountry": "US"
+ },
+ "city": "Burbank",
+ "state": "IL",
+ "zip": "60459",
+ "geo": {
+  "lat": 41.7344802,
+  "lon": -87.7687444
+ },
+ "phone": "+17089317583",
+ "website": "https://classicclippersbarbershop.com/",
+ "email": "jamalm21588@icloud.com",
+ "schema_type": "HairSalon",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/13288039299",
+ "osm": {
+  "type": "node",
+  "id": 13288039299,
+  "tags_used": {
+   "shop": "hairdresser",
+   "hairdresser": "barber"
+  }
+ },
+ "municipality": "Burbank",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/classic-clippers-barbershop-burbank/",
+ "summary": "Classic Clippers Barbershop is a barber shop in Burbank, IL at 5908 West 87th Street, Burbank, IL 60459. Phone: +17089317583. Website: https://classicclippersbarbershop.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

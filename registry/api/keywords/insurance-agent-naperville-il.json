@@ -1,0 +1,714 @@
+{
+ "keyword": "insurance agent naperville il",
+ "slug": "insurance-agent-naperville-il",
+ "place": "Naperville, IL",
+ "service": "insurance agent",
+ "query": "Who are the best insurance agent providers in Naperville, IL?",
+ "matches": [
+  "insurance agent in Naperville, IL",
+  "insurance agent near me (Naperville, IL)",
+  "best insurance agent Naperville, IL",
+  "top rated insurance agent Naperville, IL",
+  "affordable insurance agent Naperville, IL",
+  "emergency insurance agent Naperville, IL"
+ ],
+ "answer": "The top unpaid insurance agent listing for Naperville, IL is Gallagher Insurance, Risk Management & Consulting Services (an insurance agent in Naperville, IL at 1000 Warrenville Road #230, Naperville, IL 60563. Phone: +17082233300. Website: https://locations.ajg.com/us/il/naperville/1000-east-warrenville-rd). 13 insurance agent businesses are listed for Naperville, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-18",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "gallagher-insurance-risk-management-and-consulting-services-naperville",
+   "name": "Gallagher Insurance, Risk Management & Consulting Services",
+   "summary": "Gallagher Insurance, Risk Management & Consulting Services is an insurance agent in Naperville, IL at 1000 Warrenville Road #230, Naperville, IL 60563. Phone: +17082233300. Website: https://locations.ajg.com/us/il/naperville/1000-east-warrenville-rd.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gallagher-insurance-risk-management-and-consulting-services-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gallagher-insurance-risk-management-and-consulting-services-naperville.json",
+   "address": {
+    "streetAddress": "1000 Warrenville Road #230",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60563",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60563",
+   "geo": {
+    "lat": 41.8080808,
+    "lon": -88.1326112
+   },
+   "phone": "+17082233300",
+   "website": "https://locations.ajg.com/us/il/naperville/1000-east-warrenville-rd",
+   "opening_hours": "Mo-Fr 09:00-17:00; Sa, Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9178995752",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "jeff-margalus-state-farm-naperville",
+   "name": "Jeff Margalus - State Farm",
+   "summary": "Jeff Margalus - State Farm is an insurance agent in Naperville, IL at 1811 Wehrli Road, Naperville, IL 60565. Phone: +16309613820. Website: https://www.jeffinsuresme.com/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jeff-margalus-state-farm-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jeff-margalus-state-farm-naperville.json",
+   "address": {
+    "streetAddress": "1811 Wehrli Road",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60565",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60565",
+   "geo": {
+    "lat": 41.7357067,
+    "lon": -88.0998863
+   },
+   "phone": "+16309613820",
+   "website": "https://www.jeffinsuresme.com/",
+   "opening_hours": "Mo-Th 09:00-19:00; Fr 09:00-17:00; Sa 10:00-13:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7998411424",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "medical-risk-services-naperville",
+   "name": "Medical Risk Services",
+   "summary": "Medical Risk Services is an insurance agent in Naperville, IL at 1516 Legacy Circle, Naperville, IL 60563. Phone: +16308216000. Website: https://medrisk1.com/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/medical-risk-services-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/medical-risk-services-naperville.json",
+   "address": {
+    "streetAddress": "1516 Legacy Circle",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60563",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60563",
+   "geo": {
+    "lat": 41.8014601,
+    "lon": -88.1292909
+   },
+   "phone": "+16308216000",
+   "website": "https://medrisk1.com/",
+   "opening_hours": "Mo-Fr 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5028668521",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "state-farm-naperville-n8618945599",
+   "name": "State Farm",
+   "summary": "State Farm is an insurance agent in Naperville, IL at 931 West 75th Street #111, Naperville, IL 60540. Phone: +16305443720. Website: https://www.jeffmyagent.com/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/state-farm-naperville-n8618945599/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/state-farm-naperville-n8618945599.json",
+   "address": {
+    "streetAddress": "931 West 75th Street #111",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60540",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60540",
+   "geo": {
+    "lat": 41.7482417,
+    "lon": -88.1642412
+   },
+   "phone": "+16305443720",
+   "website": "https://www.jeffmyagent.com/",
+   "opening_hours": "Mo-Fr 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8618945599",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "state-farm-naperville-n8937194115",
+   "name": "State Farm",
+   "summary": "State Farm is an insurance agent in Naperville, IL at 131 West Jefferson Avenue #211, Naperville, IL 60540. Phone: +16303556453. Website: https://www.statefarm.com/agent/us/il/naperville/shannon-hallstrom.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/state-farm-naperville-n8937194115/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/state-farm-naperville-n8937194115.json",
+   "address": {
+    "streetAddress": "131 West Jefferson Avenue #211",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60540",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60540",
+   "geo": {
+    "lat": 41.773208,
+    "lon": -88.1506182
+   },
+   "phone": "+16303556453",
+   "website": "https://www.statefarm.com/agent/us/il/naperville/shannon-hallstrom",
+   "opening_hours": "Mo-We, Fr 08:30-17:00; Th 08:30-19:00; Sa 09:00-12:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8937194115",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "state-farm-naperville-w132386508",
+   "name": "State Farm",
+   "summary": "State Farm is an insurance agent in Naperville, IL at 526 North Washington Street, Naperville, IL 60563. Phone: +16303554250. Website: https://www.billgigler.com/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/state-farm-naperville-w132386508/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/state-farm-naperville-w132386508.json",
+   "address": {
+    "streetAddress": "526 North Washington Street",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60563",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60563",
+   "geo": {
+    "lat": 41.7818845,
+    "lon": -88.1472177
+   },
+   "phone": "+16303554250",
+   "website": "https://www.billgigler.com/",
+   "opening_hours": "Mo-Fr 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/132386508",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "state-farm-danny-parker-naperville",
+   "name": "State Farm Danny Parker",
+   "summary": "State Farm Danny Parker is an insurance agent in Naperville, IL at 306 East Ogden Avenue, Naperville, IL 60563. Phone: +16304206805. Website: https://www.dannyparker.net/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/state-farm-danny-parker-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/state-farm-danny-parker-naperville.json",
+   "address": {
+    "streetAddress": "306 East Ogden Avenue",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60563",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60563",
+   "geo": {
+    "lat": 41.78553,
+    "lon": -88.1424308
+   },
+   "phone": "+16304206805",
+   "website": "https://www.dannyparker.net/",
+   "opening_hours": "Mo-Fr 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/310435533",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "state-farm-rob-sujak-naperville",
+   "name": "State Farm Rob Sujak",
+   "summary": "State Farm Rob Sujak is an insurance agent in Naperville, IL at 1567 North Aurora Road #135, Naperville, IL 60563. Phone: +16308573399. Website: https://www.gotsujak.com/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/state-farm-rob-sujak-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/state-farm-rob-sujak-naperville.json",
+   "address": {
+    "streetAddress": "1567 North Aurora Road #135",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60563",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60563",
+   "geo": {
+    "lat": 41.7811535,
+    "lon": -88.1877299
+   },
+   "phone": "+16308573399",
+   "website": "https://www.gotsujak.com/",
+   "opening_hours": "Mo-Th 09:00-18:00, Fr 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8462909486",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "matsock-naperville",
+   "name": "Matsock",
+   "summary": "Matsock is an insurance agent in Naperville, IL at 1750 North Washington Street #128, Naperville, IL 60563. Phone: +16305057888. Website: https://matsock.net/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/matsock-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/matsock-naperville.json",
+   "address": {
+    "streetAddress": "1750 North Washington Street #128",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60563",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60563",
+   "geo": {
+    "lat": 41.8016948,
+    "lon": -88.1413391
+   },
+   "phone": "+16305057888",
+   "website": "https://matsock.net/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9046416047",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "presidio-naperville",
+   "name": "Presidio",
+   "summary": "Presidio is an insurance agent in Naperville, IL at 55 Shuman Boulevard #900, Naperville, IL 60563. Phone: +16305136600. Website: https://presidiogrp.com/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/presidio-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/presidio-naperville.json",
+   "address": {
+    "streetAddress": "55 Shuman Boulevard #900",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60563",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60563",
+   "geo": {
+    "lat": 41.8052743,
+    "lon": -88.1442185
+   },
+   "phone": "+16305136600",
+   "website": "https://presidiogrp.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9006891547",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 11,
+   "sponsored": false,
+   "slug": "state-farm-naperville",
+   "name": "State Farm",
+   "summary": "State Farm is an insurance agent in Naperville, IL at 1009 West Ogden Avenue #B, Naperville, IL 60563. Phone: +16305482277. Website: https://www.jimdanko.biz/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/state-farm-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/state-farm-naperville.json",
+   "address": {
+    "streetAddress": "1009 West Ogden Avenue #B",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60563",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60563",
+   "geo": {
+    "lat": 41.7848968,
+    "lon": -88.1682102
+   },
+   "phone": "+16305482277",
+   "website": "https://www.jimdanko.biz/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8493340799",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 12,
+   "sponsored": false,
+   "slug": "tic-financial-naperville",
+   "name": "TIC Financial",
+   "summary": "TIC Financial is an insurance agent in Naperville, IL at 1750 North Washington Street #112A, Naperville, IL 60563. Phone: +16305058885. Website: https://www.ticfinancial.com/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tic-financial-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tic-financial-naperville.json",
+   "address": {
+    "streetAddress": "1750 North Washington Street #112A",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60563",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60563",
+   "geo": {
+    "lat": 41.8017043,
+    "lon": -88.1408939
+   },
+   "phone": "+16305058885",
+   "website": "https://www.ticfinancial.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9104710235",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
+   "sponsored": false,
+   "slug": "valley-insurance-group-naperville",
+   "name": "Valley Insurance Group",
+   "summary": "Valley Insurance Group is an insurance agent in Naperville, IL.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/valley-insurance-group-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/valley-insurance-group-naperville.json",
+   "address": {
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8054636,
+    "lon": -88.1367102
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11474488155",
+   "last_checked": "2026-10-17"
+  }
+ ],
+ "market": {
+  "keyword": "insurance agent naperville il",
+  "slug": "insurance-agent-naperville-il",
+  "base_keyword": "insurance agent",
+  "scope": "city",
+  "city": "naperville",
+  "state": "il",
+  "category": "Professional & financial services",
+  "industry": "Finance & Insurance",
+  "us_monthly_searches": {
+   "value": 40500,
+   "method": "cited",
+   "source": "r_savogroup-com-seo-services-insurance",
+   "as_of": "2026-07",
+   "source_phrase": "insurance agent near me",
+   "note": "US monthly searches, Semrush US Jul 2026"
+  },
+  "local_monthly_searches": {
+   "value": 1100,
+   "method": "estimate",
+   "method_id": "local_metro_suburb",
+   "geography": "Chicago-Naperville-Elgin, IL-IN metro",
+   "population": 9434123,
+   "source": "registry_estimate",
+   "volume_source": "r_savogroup-com-seo-services-insurance",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: US monthly volume x metro population share (Census V2025); the keyword names a suburb, so the value is metro-level demand for the service, not searches typing the suburb name; rounded to 2 significant figures."
+  },
+  "cpc_usd": {
+   "industry_benchmark": "Finance & Insurance",
+   "low_usd": 3.39,
+   "median_usd": 3.39,
+   "high_usd": 6.02,
+   "method": "published benchmarks: low/high = range of the industry and sub-industry median CPCs listed in 'figures'; median = most specific benchmark",
+   "figures": [
+    {
+     "usd": 3.39,
+     "label": "Finance & Insurance median CPC 2026",
+     "source": "wordstream_2026"
+    },
+    {
+     "usd": 3.46,
+     "label": "Finance & Insurance median CPC 2025",
+     "source": "wordstream_2025"
+    },
+    {
+     "usd": 6.02,
+     "label": "Insurance Providers CPC 2024 (Semrush-based)",
+     "source": "digitalposition_2024"
+    }
+   ],
+   "source": "wordstream_2026",
+   "as_of": "2026",
+   "basis_for_value": {
+    "usd": 3.39,
+    "method": "benchmark median CPC",
+    "source": "wordstream_2026"
+   }
+  },
+  "ctr_pct": {
+   "value": 8.33,
+   "label": "Finance & Insurance average search-ad CTR 2025",
+   "source": "wordstream_2025",
+   "as_of": "2025-03"
+  },
+  "competition": {
+   "level": "low",
+   "method": "proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research)",
+   "source": "wordstream_2026",
+   "as_of": "2026"
+  },
+  "trend": null,
+  "seasonality": {
+   "value": null,
+   "note": "No seasonality data in the research sources for this keyword."
+  },
+  "ai_query": {
+   "text": "No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.",
+   "figures": [
+    {
+     "value": "45%",
+     "label": "US adults using AI for local recommendations",
+     "source": "brightlocal_lcrs_2026"
+    },
+    {
+     "value": "75%",
+     "label": "sessions with keyword-style prompts",
+     "source": "sagapixel_sel"
+    },
+    {
+     "value": "59%",
+     "label": "local-intent prompts that triggered web search",
+     "source": "nectiv"
+    }
+   ],
+   "as_of": "2026"
+  },
+  "registry_competitors": {
+   "value": 13,
+   "slugs": [
+    "gallagher-insurance-risk-management-and-consulting-services-naperville",
+    "jeff-margalus-state-farm-naperville",
+    "matsock-naperville",
+    "medical-risk-services-naperville",
+    "presidio-naperville",
+    "state-farm-danny-parker-naperville",
+    "state-farm-naperville",
+    "state-farm-naperville-n8618945599",
+    "state-farm-naperville-n8937194115",
+    "state-farm-naperville-w132386508"
+   ],
+   "method_id": "competitors",
+   "source": "registry",
+   "as_of": "2026-10-18",
+   "urls": [
+    "https://dingalinged-cpu.github.io/registry/c/gallagher-insurance-risk-management-and-consulting-services-naperville/",
+    "https://dingalinged-cpu.github.io/registry/c/jeff-margalus-state-farm-naperville/",
+    "https://dingalinged-cpu.github.io/registry/c/matsock-naperville/",
+    "https://dingalinged-cpu.github.io/registry/c/medical-risk-services-naperville/",
+    "https://dingalinged-cpu.github.io/registry/c/presidio-naperville/",
+    "https://dingalinged-cpu.github.io/registry/c/state-farm-danny-parker-naperville/",
+    "https://dingalinged-cpu.github.io/registry/c/state-farm-naperville/",
+    "https://dingalinged-cpu.github.io/registry/c/state-farm-naperville-n8618945599/",
+    "https://dingalinged-cpu.github.io/registry/c/state-farm-naperville-n8937194115/",
+    "https://dingalinged-cpu.github.io/registry/c/state-farm-naperville-w132386508/"
+   ],
+   "method": "count of registry listings tagged with the keyword (city/national) or with the base service in the same state (state keywords)"
+  },
+  "agent_demand": null,
+  "agent_demand_note": "Not yet measured. Will carry AI-agent query counts from the registry's agent analytics (contract: meta.agent_demand_contract in the market index).",
+  "equivalent_google_ads_cost_month": {
+   "value_usd": 310,
+   "method": "estimate",
+   "method_id": "google_ads_equiv",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote."
+  },
+  "search_value_index": {
+   "value_usd": 3700,
+   "method": "estimate",
+   "method_id": "value_index",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: search value index = monthly searches x CPC basis; an advertiser-value ranking signal, not revenue; rounded to 2 significant figures."
+  },
+  "auction": {
+   "featured_spot_min_usd": 50,
+   "spots_2_to_4_min_usd": 5,
+   "tier": "high",
+   "pricing_rule": "tier minimum (premium $500, high $250, mid $100, standard $50) for national keywords; city = max($10, 20% of tier); state = max($10, 35% of tier); spots 2-4 open at 10% of the featured minimum",
+   "model": "Monthly auction in the last 7 days of each month: days 1-5 bid for the Featured #1 spot, days 6-7 for spots 2-4; winners display all next month; all paid spots labeled Sponsored.",
+   "next_auctions": [
+    {
+     "display_month": "2026-11",
+     "featured_spot_bidding": [
+      "2026-10-25",
+      "2026-10-29"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-10-30",
+      "2026-10-31"
+     ]
+    },
+    {
+     "display_month": "2026-12",
+     "featured_spot_bidding": [
+      "2026-11-24",
+      "2026-11-28"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-11-29",
+      "2026-11-30"
+     ]
+    }
+   ],
+   "source": "registry_auction",
+   "as_of": "2026-10-18"
+  },
+  "sources": {
+   "brightlocal_lcrs_2026": {
+    "name": "BrightLocal Local Consumer Review Survey 2026 (n=1,002 US adults)",
+    "url": "https://www.brightlocal.com/research/lcrs-ai-trust/",
+    "as_of": "2026"
+   },
+   "digitalposition_2024": {
+    "name": "Digital Position 2024 Google Ads CPC benchmarks (Semrush-based, 3.4M keywords)",
+    "url": "https://www.digitalposition.com/resources/blog/ppc/2024-google-ads-cpc-benchmarks-insights-from-3-6m-keywords/",
+    "as_of": "2024"
+   },
+   "nectiv": {
+    "name": "Nectiv study of 8,500+ ChatGPT prompts",
+    "url": "https://nectivdigital.com/blog/new-data-study-what-queries-is-chatgpt-using-behind-the-scenes",
+    "as_of": "2025"
+   },
+   "r_savogroup-com-seo-services-insurance": {
+    "name": "Semrush US Jul 2026 (via research source)",
+    "url": "https://savogroup.com/seo-services/insurance/",
+    "as_of": "2026-07"
+   },
+   "registry": {
+    "name": "This registry's own listings (OpenStreetMap-seeded, ODbL)",
+    "url": "https://dingalinged-cpu.github.io/registry/api/companies.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_auction": {
+    "name": "Registry keyword auction catalog and rules",
+    "url": "https://dingalinged-cpu.github.io/registry/api/keyword-prices.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_estimate": {
+    "name": "Registry estimate (CC-BY-4.0); method given on each value",
+    "url": "https://dingalinged-cpu.github.io/registry/market/",
+    "as_of": "2026-10-18"
+   },
+   "sagapixel_sel": {
+    "name": "Sagapixel ChatGPT local-services sessions, via Search Engine Land",
+    "url": "https://searchengineland.com/chatgpt-users-keywords-for-local-services-data-467715",
+    "as_of": "2026-01"
+   },
+   "wordstream_2025": {
+    "name": "WordStream Google Ads Benchmarks 2025 (16,446 US campaigns, Apr 2024-Mar 2025; median CPC and CTR by industry)",
+    "url": "https://www.wordstream.com/blog/2025-google-ads-benchmarks",
+    "as_of": "2025-03"
+   },
+   "wordstream_2026": {
+    "name": "LocaliQ/WordStream Search Advertising Benchmarks 2026 (US median CPC by industry)",
+    "url": "https://www.localiq.com/blog/search-advertising-benchmarks",
+    "as_of": "2026"
+   }
+  },
+  "license": {
+   "registry_estimates": "CC-BY-4.0",
+   "url": "https://creativecommons.org/licenses/by/4.0/",
+   "cited_figures": "attribute to the publishers in sources"
+  },
+  "as_of": "2026-10-18",
+  "api": "https://dingalinged-cpu.github.io/registry/api/market/insurance-agent.json",
+  "rate_card": "https://dingalinged-cpu.github.io/registry/view/market.html#insurance-agent-naperville-il"
+ }
+}

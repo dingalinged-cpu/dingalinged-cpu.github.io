@@ -1,0 +1,57 @@
+{
+ "slug": "misano-salon-mount-prospect",
+ "name": "Misano Salon",
+ "categories": [
+  "hair salon"
+ ],
+ "keywords": [
+  "hair salon",
+  "haircut",
+  "hair salon mount prospect il",
+  "haircut mount prospect il"
+ ],
+ "services": [
+  {
+   "name": "hair salon",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "haircut",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Mount Prospect",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Mount Prospect",
+ "state": "IL",
+ "geo": {
+  "lat": 42.0634062,
+  "lon": -87.9358544
+ },
+ "schema_type": "HairSalon",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/6257468336",
+ "osm": {
+  "type": "node",
+  "id": 6257468336,
+  "tags_used": {
+   "shop": "hairdresser"
+  }
+ },
+ "municipality": "Mount Prospect",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/misano-salon-mount-prospect/",
+ "summary": "Misano Salon is a hair salon in Mount Prospect, IL.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

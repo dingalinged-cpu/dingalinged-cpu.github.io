@@ -1,0 +1,23 @@
+Natural Pet Market is a pet store in Wheaton, IL.
+
+# Natural Pet Market
+
+- Category: pet store
+- Services: pet store
+- Address: Wheaton, IL
+- City: Wheaton
+- State: IL
+- ZIP: n/a
+- Coordinates: 41.8316294, -88.0979649
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/natural-pet-market-wheaton/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/natural-pet-market-wheaton.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11102023009 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

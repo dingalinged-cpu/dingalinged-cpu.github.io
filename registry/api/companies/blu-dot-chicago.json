@@ -1,0 +1,54 @@
+{
+ "slug": "blu-dot-chicago",
+ "name": "Blu Dot",
+ "categories": [
+  "furniture store"
+ ],
+ "keywords": [
+  "furniture store",
+  "furniture store chicago il"
+ ],
+ "services": [
+  {
+   "name": "furniture store",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1953 North Clybourn Avenue",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "geo": {
+  "lat": 41.917419,
+  "lon": -87.6579713
+ },
+ "phone": "+18723153339",
+ "website": "https://www.bludot.com/pages/chicago",
+ "schema_type": "FurnitureStore",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/13574784350",
+ "osm": {
+  "type": "node",
+  "id": 13574784350,
+  "tags_used": {
+   "shop": "furniture"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/blu-dot-chicago/",
+ "summary": "Blu Dot is a furniture store in Chicago, IL at 1953 North Clybourn Avenue, Chicago, IL. Phone: +18723153339. Website: https://www.bludot.com/pages/chicago.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

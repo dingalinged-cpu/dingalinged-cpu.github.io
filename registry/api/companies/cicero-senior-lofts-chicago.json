@@ -1,0 +1,54 @@
+{
+ "slug": "cicero-senior-lofts-chicago",
+ "name": "Cicero Senior Lofts",
+ "categories": [
+  "assisted living"
+ ],
+ "keywords": [
+  "assisted living",
+  "assisted living chicago il"
+ ],
+ "services": [
+  {
+   "name": "assisted living",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "4835 South Cicero Avenue",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60632",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60632",
+ "geo": {
+  "lat": 41.8044546,
+  "lon": -87.7427075
+ },
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/857417714",
+ "osm": {
+  "type": "way",
+  "id": 857417714,
+  "tags_used": {
+   "amenity": "social_facility"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/cicero-senior-lofts-chicago/",
+ "summary": "Cicero Senior Lofts is an assisted living facility in Chicago, IL at 4835 South Cicero Avenue, Chicago, IL 60632.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

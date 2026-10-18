@@ -1,0 +1,54 @@
+{
+ "slug": "massage-niles",
+ "name": "Massage",
+ "categories": [
+  "massage"
+ ],
+ "keywords": [
+  "massage",
+  "massage niles il"
+ ],
+ "services": [
+  {
+   "name": "massage",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "7033 North Milwaukee Avenue",
+  "addressLocality": "Niles",
+  "addressRegion": "IL",
+  "postalCode": "60714",
+  "addressCountry": "US"
+ },
+ "city": "Niles",
+ "state": "IL",
+ "zip": "60714",
+ "geo": {
+  "lat": 42.0094913,
+  "lon": -87.7984297
+ },
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/1500298260",
+ "osm": {
+  "type": "way",
+  "id": 1500298260,
+  "tags_used": {
+   "shop": "massage"
+  }
+ },
+ "municipality": "Niles",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/massage-niles/",
+ "summary": "Massage is a massage studio in Niles, IL at 7033 North Milwaukee Avenue, Niles, IL 60714.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

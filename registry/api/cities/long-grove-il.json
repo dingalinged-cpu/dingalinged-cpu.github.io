@@ -1,0 +1,225 @@
+{
+ "place": "Long Grove, IL",
+ "slug": "long-grove-il",
+ "count": 6,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "bakery long grove il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/bakery-long-grove-il.json"
+  },
+  {
+   "keyword": "dance studio long grove il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dance-studio-long-grove-il.json"
+  },
+  {
+   "keyword": "gift shop long grove il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gift-shop-long-grove-il.json"
+  },
+  {
+   "keyword": "hair salon long grove il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-long-grove-il.json"
+  },
+  {
+   "keyword": "haircut long grove il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-long-grove-il.json"
+  },
+  {
+   "keyword": "insurance agency long grove il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-long-grove-il.json"
+  },
+  {
+   "keyword": "insurance agent long grove il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-long-grove-il.json"
+  },
+  {
+   "keyword": "insurance agents long grove il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-long-grove-il.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "fred-astaire-long-grove-long-grove",
+   "name": "Fred Astaire Long Grove",
+   "summary": "Fred Astaire Long Grove is a dance studio in Long Grove, IL at 342 North Old McHenry Road, Long Grove, IL 60047. Website: https://www.fredastaire.com/chicago-north/.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fred-astaire-long-grove-long-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fred-astaire-long-grove-long-grove.json",
+   "address": {
+    "streetAddress": "342 North Old McHenry Road",
+    "addressLocality": "Long Grove",
+    "addressRegion": "IL",
+    "postalCode": "60047",
+    "addressCountry": "US"
+   },
+   "city": "Long Grove",
+   "state": "IL",
+   "zip": "60047",
+   "geo": {
+    "lat": 42.1773114,
+    "lon": -87.9969651
+   },
+   "website": "https://www.fredastaire.com/chicago-north/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1076743286",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "sorelle-italian-market-long-grove",
+   "name": "Sorelle Italian Market",
+   "summary": "Sorelle Italian Market is a bakery in Long Grove, IL at 3976 Main Street, Long Grove, IL 60047. Website: https://sorelleitalian.com/.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sorelle-italian-market-long-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sorelle-italian-market-long-grove.json",
+   "address": {
+    "streetAddress": "3976 Main Street",
+    "addressLocality": "Long Grove",
+    "addressRegion": "IL",
+    "postalCode": "60047",
+    "addressCountry": "US"
+   },
+   "city": "Long Grove",
+   "state": "IL",
+   "zip": "60047",
+   "geo": {
+    "lat": 42.1976332,
+    "lon": -88.0205471
+   },
+   "website": "https://sorelleitalian.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12828515602",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "midtown-home-market-long-grove",
+   "name": "Midtown Home Market",
+   "summary": "Midtown Home Market is a gift shop in Long Grove, IL at 217 Robert Parker Coffin Road, Long Grove, IL 60047.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/midtown-home-market-long-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/midtown-home-market-long-grove.json",
+   "address": {
+    "streetAddress": "217 Robert Parker Coffin Road",
+    "addressLocality": "Long Grove",
+    "addressRegion": "IL",
+    "postalCode": "60047",
+    "addressCountry": "US"
+   },
+   "city": "Long Grove",
+   "state": "IL",
+   "zip": "60047",
+   "geo": {
+    "lat": 42.1789426,
+    "lon": -87.9968865
+   },
+   "opening_hours": "Mo,Tu off, We,Th 11:00-18:00, Fr 11:00-19:00, Sa 10:00-19:00, Su 12:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6654373682",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "creative-hands-long-grove",
+   "name": "Creative Hands",
+   "summary": "Creative Hands is a gift shop in Long Grove, IL at 243 Robert Parker Coffin Road, Long Grove, IL.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/creative-hands-long-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/creative-hands-long-grove.json",
+   "address": {
+    "streetAddress": "243 Robert Parker Coffin Road",
+    "addressLocality": "Long Grove",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Long Grove",
+   "state": "IL",
+   "geo": {
+    "lat": 42.1790023,
+    "lon": -87.9969197
+   },
+   "opening_hours": "Mo-Fr 11:00-16:00, Sa 11:00-17:00, Su 12:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 7.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6654373683",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "state-farm-ryan-messner-long-grove",
+   "name": "State Farm - Ryan Messner",
+   "summary": "State Farm - Ryan Messner is an insurance agent in Long Grove, IL at 437 Robert Parker Coffin Road, Long Grove, IL 60047.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/state-farm-ryan-messner-long-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/state-farm-ryan-messner-long-grove.json",
+   "address": {
+    "streetAddress": "437 Robert Parker Coffin Road",
+    "addressLocality": "Long Grove",
+    "addressRegion": "IL",
+    "postalCode": "60047",
+    "addressCountry": "US"
+   },
+   "city": "Long Grove",
+   "state": "IL",
+   "zip": "60047",
+   "geo": {
+    "lat": 42.1775285,
+    "lon": -87.9990835
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1103222122",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "sport-clips-long-grove",
+   "name": "Sport Clips",
+   "summary": "Sport Clips is a hair salon in Long Grove, IL.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sport-clips-long-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sport-clips-long-grove.json",
+   "address": {
+    "addressLocality": "Long Grove",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Long Grove",
+   "state": "IL",
+   "geo": {
+    "lat": 42.179997,
+    "lon": -87.9879539
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2664648264",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

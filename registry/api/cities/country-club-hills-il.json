@@ -1,0 +1,144 @@
+{
+ "place": "Country Club Hills, IL",
+ "slug": "country-club-hills-il",
+ "count": 4,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "car wash country club hills il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-country-club-hills-il.json"
+  },
+  {
+   "keyword": "funeral home country club hills il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/funeral-home-country-club-hills-il.json"
+  },
+  {
+   "keyword": "storage units country club hills il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/storage-units-country-club-hills-il.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "leak-and-sons-funeral-homes-country-club-hills",
+   "name": "Leak & Sons Funeral Homes",
+   "summary": "Leak & Sons Funeral Homes is a funeral home in Country Club Hills, IL at 18400 Pulaski Road, Country Club Hills, IL 60478. Website: https://www.leakandsonsfuneralhomes.com/.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/leak-and-sons-funeral-homes-country-club-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/leak-and-sons-funeral-homes-country-club-hills.json",
+   "address": {
+    "streetAddress": "18400 Pulaski Road",
+    "addressLocality": "Country Club Hills",
+    "addressRegion": "IL",
+    "postalCode": "60478",
+    "addressCountry": "US"
+   },
+   "city": "Country Club Hills",
+   "state": "IL",
+   "zip": "60478",
+   "geo": {
+    "lat": 41.5555661,
+    "lon": -87.7144334
+   },
+   "website": "https://www.leakandsonsfuneralhomes.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1336317586",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "bp-country-club-hills",
+   "name": "BP",
+   "summary": "BP is a car wash in Country Club Hills, IL at 18308 Cicero Avenue, Country Club Hills, IL 60478.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bp-country-club-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bp-country-club-hills.json",
+   "address": {
+    "streetAddress": "18308 Cicero Avenue",
+    "addressLocality": "Country Club Hills",
+    "addressRegion": "IL",
+    "postalCode": "60478",
+    "addressCountry": "US"
+   },
+   "city": "Country Club Hills",
+   "state": "IL",
+   "zip": "60478",
+   "geo": {
+    "lat": 41.556124,
+    "lon": -87.7338948
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1336317608",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "public-storage-country-club-hills",
+   "name": "Public Storage",
+   "summary": "Public Storage is a self-storage facility in Country Club Hills, IL at 18400 Cicero Avenue, Country Club Hills, IL 60478.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/public-storage-country-club-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/public-storage-country-club-hills.json",
+   "address": {
+    "streetAddress": "18400 Cicero Avenue",
+    "addressLocality": "Country Club Hills",
+    "addressRegion": "IL",
+    "postalCode": "60478",
+    "addressCountry": "US"
+   },
+   "city": "Country Club Hills",
+   "state": "IL",
+   "zip": "60478",
+   "geo": {
+    "lat": 41.5555878,
+    "lon": -87.7341399
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8244380428",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "extra-space-storage-country-club-hills",
+   "name": "Extra Space Storage",
+   "summary": "Extra Space Storage is a self-storage facility in Country Club Hills, IL.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/extra-space-storage-country-club-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/extra-space-storage-country-club-hills.json",
+   "address": {
+    "addressLocality": "Country Club Hills",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Country Club Hills",
+   "state": "IL",
+   "geo": {
+    "lat": 41.5831465,
+    "lon": -87.7192357
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/369461869",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

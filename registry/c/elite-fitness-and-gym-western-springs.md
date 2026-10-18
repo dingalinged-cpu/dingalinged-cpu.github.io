@@ -1,0 +1,23 @@
+Elite Fitness And Gym is a gym in Western Springs, IL at 805 Burlington Avenue, Western Springs, IL 60558. Phone: +17082464521. Website: https://www.elitefitnessandgym.com/.
+
+# Elite Fitness And Gym
+
+- Category: gym
+- Services: gym
+- Address: 805 Burlington Avenue, Western Springs, IL 60558
+- City: Western Springs
+- State: IL
+- ZIP: 60558
+- Coordinates: 41.8091714, -87.8990326
+- Phone: +17082464521
+- Website: https://www.elitefitnessandgym.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/elite-fitness-and-gym-western-springs/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/elite-fitness-and-gym-western-springs.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9603184570 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

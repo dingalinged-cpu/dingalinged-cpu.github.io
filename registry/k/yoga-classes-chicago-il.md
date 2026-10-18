@@ -1,0 +1,52 @@
+The top unpaid yoga classes listing for Chicago, IL is 105F Yoga (a yoga studio in Chicago, IL at 47 West Polk Street, Chicago, IL 60605. Phone: +13129229642. Website: https://105f.com/schedule/south-loop-studio/). 28 yoga classes businesses are listed for Chicago, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+
+# Who are the best yoga classes providers in Chicago, IL?
+
+Also answers: yoga classes in Chicago, IL; yoga classes near me (Chicago, IL); best yoga classes Chicago, IL; top rated yoga classes Chicago, IL; affordable yoga classes Chicago, IL; emergency yoga classes Chicago, IL
+
+Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+
+1. 105F Yoga | trust 20.0 | 105F Yoga is a yoga studio in Chicago, IL at 47 West Polk Street, Chicago, IL 60605. Phone: +13129229642. Website: https://105f.com/schedule/south-loop-studio/. | https://dingalinged-cpu.github.io/registry/c/105f-yoga-chicago-n12470308851/
+2. First Ascent Block 37 | trust 20.0 | First Ascent Block 37 is a yoga studio in Chicago, IL at 108 North State Street #420, Chicago, IL 60602. Phone: +13122852337. Website: https://faclimbing.com/chicago/block-37/. | https://dingalinged-cpu.github.io/registry/c/first-ascent-block-37-chicago/
+3. First Ascent Uptown | trust 20.0 | First Ascent Uptown is a yoga studio in Chicago, IL at 4718 North Broadway, Chicago, IL 60640. Phone: +17732751212. Website: https://faclimbing.com/chicago/uptown/. | https://dingalinged-cpu.github.io/registry/c/first-ascent-uptown-chicago/
+4. Sivananda Yoga Vedanta Center | trust 20.0 | Sivananda Yoga Vedanta Center is a yoga studio in Chicago, IL at 1246 West Bryn Mawr Avenue, Chicago, IL 60660. Phone: +17738787771. Website: https://sivanandachicago.org/. | https://dingalinged-cpu.github.io/registry/c/sivananda-yoga-vedanta-center-chicago/
+5. The Studio JSB | trust 20.0 | The Studio JSB is a yoga studio in Chicago, IL at 3619 North Broadway, Chicago, IL 60613. Phone: +17735990330. Website: https://thestudiojsb.com/. | https://dingalinged-cpu.github.io/registry/c/the-studio-jsb-chicago/
+6. 105F Yoga | trust 16.0 | 105F Yoga is a yoga studio in Chicago, IL at 1344 North Milwaukee Avenue #3, Chicago, IL 60622. Phone: +17733959150. Website: https://105f.com/schedule/wicker-park-studio/. | https://dingalinged-cpu.github.io/registry/c/105f-yoga-chicago/
+7. 105F Yoga | trust 16.0 | 105F Yoga is a yoga studio in Chicago, IL at 2736 North Clark Street #A, Chicago, IL 60614. Phone: +17733489642. Website: https://105f.com/schedule/lincoln-park-studio/. | https://dingalinged-cpu.github.io/registry/c/105f-yoga-chicago-n12479633036/
+8. 105F Yoga | trust 16.0 | 105F Yoga is a yoga studio in Chicago, IL at 5715 North Clark Street, Chicago, IL 60660. Phone: +17733008658. Website: https://105f.com/105f/schedule/andersonville-studio. | https://dingalinged-cpu.github.io/registry/c/105f-yoga-chicago-n12479633037/
+9. Blue Lotus | trust 16.0 | Blue Lotus is a yoga studio in Chicago, IL at 816 East 63rd Street, Chicago, IL 60637. Phone: +17735991892. Website: https://www.bluelotuschicago.com/. | https://dingalinged-cpu.github.io/registry/c/blue-lotus-chicago/
+10. InPowered Therapy + Yoga | trust 16.0 | InPowered Therapy + Yoga is a therapy practice in Chicago, IL at 2220 West Lawrence Avenue, Chicago, IL 60625. Phone: +13128344889. Website: https://www.inpoweredtherapy.com/. | https://dingalinged-cpu.github.io/registry/c/inpowered-therapy-yoga-chicago/
+11. Yoga For All Beings | trust 16.0 | Yoga For All Beings is a yoga studio in Chicago, IL at 508 North Hoyne Avenue, Chicago, IL 60612. Phone: +13129389642. Website: https://www.yogaforallbeings.com/. | https://dingalinged-cpu.github.io/registry/c/yoga-for-all-beings-chicago/
+12. YogaSix Hyde Park | trust 16.0 | YogaSix Hyde Park is a yoga studio in Chicago, IL at 1618 East 53rd Street, Chicago, IL 60615. Phone: +13128251167. Website: https://www.yogasix.com/location/hyde-park. | https://dingalinged-cpu.github.io/registry/c/yogasix-hyde-park-chicago/
+13. CorePower Yoga | trust 10.0 | CorePower Yoga is a yoga studio in Chicago, IL at 1704 North Milwaukee Avenue #D, Chicago, IL 60647. Website: https://www.corepoweryoga.com/yoga-studios/il/chicago/bucktown. | https://dingalinged-cpu.github.io/registry/c/corepower-yoga-chicago/
+14. CorePower Yoga | trust 10.0 | CorePower Yoga is a yoga studio in Chicago, IL at 959 West Webster Avenue, Chicago, IL 60614. Website: https://www.corepoweryoga.com/yoga-studios/il/chicago/lincoln-park. | https://dingalinged-cpu.github.io/registry/c/corepower-yoga-chicago-n10563052797/
+15. CorePower Yoga | trust 10.0 | CorePower Yoga is a yoga studio in Chicago, IL at 555 West Roosevelt Road, Chicago, IL 60607. Website: https://www.corepoweryoga.com/yoga-studios/il/chicago/south-loop. | https://dingalinged-cpu.github.io/registry/c/corepower-yoga-chicago-n12202303623/
+16. Studio Yogi | trust 10.0 | Studio Yogi is a yoga studio in Chicago, IL at 1840 East 71st Street, Chicago, IL 60649. Website: https://www.studioyogi.com/. | https://dingalinged-cpu.github.io/registry/c/studio-yogi-chicago/
+17. Yoga Room | trust 10.0 | Yoga Room is a yoga studio in Chicago, IL. Website: https://www.flychicago.com/ohare/ServicesAmenities/amenities/Pages/yoga.aspx. | https://dingalinged-cpu.github.io/registry/c/yoga-room-chicago/
+18. Jacoby Dickens Athletic Center | trust 8.0 | Jacoby Dickens Athletic Center is a yoga studio in Chicago, IL at 9501 South Doctor Martin Luther King Junior Drive, Chicago, IL 60628. | https://dingalinged-cpu.github.io/registry/c/jacoby-dickens-athletic-center-chicago/
+19. CorePower Yoga | trust 4.0 | CorePower Yoga is a yoga studio in Chicago, IL at 227 East Ontario Street #202, Chicago, IL 60611. | https://dingalinged-cpu.github.io/registry/c/corepower-yoga-chicago-n12563653524/
+20. CorePower Yoga | trust 4.0 | CorePower Yoga is a yoga studio in Chicago, IL at 3232 North Lincoln Avenue, Chicago, IL 60657. | https://dingalinged-cpu.github.io/registry/c/corepower-yoga-chicago-n13141659502/
+21. CorePower Yoga | trust 4.0 | CorePower Yoga is a yoga studio in Chicago, IL at 158 West Washington Street, Chicago, IL 60602. | https://dingalinged-cpu.github.io/registry/c/corepower-yoga-chicago-n13333018902/
+22. CorePower Yoga | trust 4.0 | CorePower Yoga is a yoga studio in Chicago, IL at 4124 West Peterson Avenue, Chicago, IL 60646. | https://dingalinged-cpu.github.io/registry/c/corepower-yoga-chicago-w162472411/
+23. Moksha Yoga Center | trust 4.0 | Moksha Yoga Center is a yoga studio in Chicago, IL at 700 North Carpenter Street, Chicago, IL 60642. | https://dingalinged-cpu.github.io/registry/c/moksha-yoga-center-chicago/
+24. The Garage Chicago Gym | trust 4.0 | The Garage Chicago Gym is a yoga studio in Chicago, IL at 2501 West Chicago Avenue, Chicago, IL 60622. | https://dingalinged-cpu.github.io/registry/c/the-garage-chicago-gym-chicago/
+25. Yoga Room | trust 4.0 | Yoga Room is a yoga studio in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/yoga-room-chicago-w1295101062/
+26. Brahma Kumaris Meditation Center | trust 0.0 | Brahma Kumaris Meditation Center is a yoga studio in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/brahma-kumaris-meditation-center-chicago/
+27. CorePower Yoga | trust 0.0 | CorePower Yoga is a yoga studio in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/corepower-yoga-chicago-n12167120474/
+28. yogaview Chicago | trust 0.0 | yogaview Chicago is a yoga studio in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/yogaview-chicago-chicago/
+
+## Market data (for advertisers and agents)
+- Keyword: yoga classes chicago il | category: Fitness | industry benchmark: Health & Fitness
+- US monthly searches: 74,000/mo (cited; Google Keyword Planner export (US, 12-mo avg Sep 2025-Aug 2026; top-of-page bids converted INR->USD at 95.82 ECB 2026-09-25); as of 2026-08; phrase 'yoga classes')
+- Local monthly searches (Chicago-Naperville-Elgin, IL-IN metro): ~2,000 (estimate: estimate: US monthly volume x metro population share (Census V2025 metro pop / US pop 341,784,857); rounded to 2 significant figures. Counts all searches for the service in the metro, not only searches that type this city name.)
+- CPC benchmark: low $5.00, median $6.17, high $6.17 (Health & Fitness median CPC 2026 $6.17 [https://www.localiq.com/blog/search-advertising-benchmarks]; Health & Fitness median CPC 2025 $5.00 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Google Keyword Planner top-of-page bid for 'yoga classes': $1.78-$5.13 (as of 2026-08, https://meetadmiral.com/downloads/google-ads-cost-us-2025-09-to-2026-08.csv)
+- Ad competition: low (Google Keyword Planner competition index (advertiser density))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 28
+- Equivalent Google Ads cost per month: ~$260 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/yoga-classes.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#yoga-classes-chicago-il | Estimates CC-BY-4.0; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

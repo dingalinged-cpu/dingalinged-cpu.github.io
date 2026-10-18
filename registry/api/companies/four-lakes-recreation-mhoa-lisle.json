@@ -1,0 +1,63 @@
+{
+ "slug": "four-lakes-recreation-mhoa-lisle",
+ "name": "Four Lakes Recreation / MHOA",
+ "categories": [
+  "property management company"
+ ],
+ "keywords": [
+  "property management company",
+  "property management companies",
+  "property management company lisle il",
+  "property management companies lisle il"
+ ],
+ "services": [
+  {
+   "name": "property management company",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "property management companies",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "6005 Forest View Road",
+  "addressLocality": "Lisle",
+  "addressRegion": "IL",
+  "postalCode": "60532",
+  "addressCountry": "US"
+ },
+ "city": "Lisle",
+ "state": "IL",
+ "zip": "60532",
+ "geo": {
+  "lat": 41.7767161,
+  "lon": -88.0804842
+ },
+ "phone": "+16309633422",
+ "website": "https://fourlakesmhoa.com/",
+ "opening_hours": "Mo-Fr 09:00-17:00",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/1460635454",
+ "osm": {
+  "type": "way",
+  "id": 1460635454,
+  "tags_used": {
+   "office": "property_management"
+  }
+ },
+ "municipality": "Lisle",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/four-lakes-recreation-mhoa-lisle/",
+ "summary": "Four Lakes Recreation / MHOA is a property management company in Lisle, IL at 6005 Forest View Road, Lisle, IL 60532. Phone: +16309633422. Website: https://fourlakesmhoa.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

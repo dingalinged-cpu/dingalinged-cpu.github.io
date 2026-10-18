@@ -1,0 +1,57 @@
+{
+ "slug": "freds-barber-shoppe-lake-forest",
+ "name": "Fred's Barber Shoppe",
+ "categories": [
+  "hair salon"
+ ],
+ "keywords": [
+  "hair salon",
+  "haircut",
+  "hair salon lake forest il",
+  "haircut lake forest il"
+ ],
+ "services": [
+  {
+   "name": "hair salon",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "haircut",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Lake Forest",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Lake Forest",
+ "state": "IL",
+ "geo": {
+  "lat": 42.2514342,
+  "lon": -87.8401926
+ },
+ "schema_type": "HairSalon",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/8117571540",
+ "osm": {
+  "type": "node",
+  "id": 8117571540,
+  "tags_used": {
+   "shop": "hairdresser"
+  }
+ },
+ "municipality": "Lake Forest",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/freds-barber-shoppe-lake-forest/",
+ "summary": "Fred's Barber Shoppe is a hair salon in Lake Forest, IL.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

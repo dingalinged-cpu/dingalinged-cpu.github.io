@@ -1,0 +1,71 @@
+{
+ "slug": "gerber-collision-and-glass-oak-lawn",
+ "name": "Gerber Collision & Glass",
+ "categories": [
+  "auto repair"
+ ],
+ "keywords": [
+  "auto repair",
+  "mechanic",
+  "auto body shop",
+  "windshield replacement",
+  "auto repair oak lawn il",
+  "mechanic oak lawn il",
+  "auto body shop oak lawn il",
+  "windshield replacement oak lawn il"
+ ],
+ "services": [
+  {
+   "name": "auto repair",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "mechanic",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "auto body shop",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "windshield replacement",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Oak Lawn",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Oak Lawn",
+ "state": "IL",
+ "geo": {
+  "lat": 41.6928366,
+  "lon": -87.7587773
+ },
+ "brand": "Gerber Collision & Glass",
+ "wikidata": "Q108871639",
+ "schema_type": "AutoRepair",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/1218030122",
+ "osm": {
+  "type": "way",
+  "id": 1218030122,
+  "tags_used": {
+   "shop": "car_repair"
+  }
+ },
+ "municipality": "Oak Lawn",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/gerber-collision-and-glass-oak-lawn/",
+ "summary": "Gerber Collision & Glass is an auto repair shop in Oak Lawn, IL.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

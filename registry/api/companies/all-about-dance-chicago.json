@@ -1,0 +1,55 @@
+{
+ "slug": "all-about-dance-chicago",
+ "name": "All About Dance",
+ "categories": [
+  "dance studio"
+ ],
+ "keywords": [
+  "dance studio",
+  "dance studio chicago il"
+ ],
+ "services": [
+  {
+   "name": "dance studio",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "501 West North Avenue",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60610",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60610",
+ "geo": {
+  "lat": 41.9108853,
+  "lon": -87.6412458
+ },
+ "website": "https://www.allaboutdance.org/",
+ "schema_type": "SportsActivityLocation",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/10563318238",
+ "osm": {
+  "type": "node",
+  "id": 10563318238,
+  "tags_used": {
+   "amenity": "dancing_school"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/all-about-dance-chicago/",
+ "summary": "All About Dance is a dance studio in Chicago, IL at 501 West North Avenue, Chicago, IL 60610. Website: https://www.allaboutdance.org/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

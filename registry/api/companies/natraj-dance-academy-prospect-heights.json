@@ -1,0 +1,56 @@
+{
+ "slug": "natraj-dance-academy-prospect-heights",
+ "name": "Natraj Dance Academy",
+ "categories": [
+  "dance studio"
+ ],
+ "keywords": [
+  "dance studio",
+  "dance studio prospect heights il"
+ ],
+ "services": [
+  {
+   "name": "dance studio",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "110 West Camp McDonald Road",
+  "addressLocality": "Prospect Heights",
+  "addressRegion": "IL",
+  "postalCode": "60070",
+  "addressCountry": "US"
+ },
+ "city": "Prospect Heights",
+ "state": "IL",
+ "zip": "60070",
+ "geo": {
+  "lat": 42.0960633,
+  "lon": -87.9409591
+ },
+ "phone": "+18472467992",
+ "website": "https://natrajdance.com/",
+ "schema_type": "SportsActivityLocation",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/5890423761",
+ "osm": {
+  "type": "node",
+  "id": 5890423761,
+  "tags_used": {
+   "leisure": "dance"
+  }
+ },
+ "municipality": "Prospect Heights",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/natraj-dance-academy-prospect-heights/",
+ "summary": "Natraj Dance Academy is a dance studio in Prospect Heights, IL at 110 West Camp McDonald Road, Prospect Heights, IL 60070. Phone: +18472467992. Website: https://natrajdance.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

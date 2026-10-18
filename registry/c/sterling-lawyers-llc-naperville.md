@@ -1,0 +1,23 @@
+Sterling Lawyers, LLC is a lawyer in Naperville, IL at 400 East Diehl Road ##200, Naperville, IL 60563. Phone: +16304540555. Website: https://www.sterlinglawyers.com/illinois/locations/naperville/.
+
+# Sterling Lawyers, LLC
+
+- Category: lawyer
+- Services: lawyer, attorney
+- Address: 400 East Diehl Road ##200, Naperville, IL 60563
+- City: Naperville
+- State: IL
+- ZIP: 60563
+- Coordinates: 41.8025496, -88.141369
+- Phone: +16304540555
+- Website: https://www.sterlinglawyers.com/illinois/locations/naperville/
+- Email: n/a
+- Opening hours (OSM syntax): 24/7
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/sterling-lawyers-llc-naperville/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/sterling-lawyers-llc-naperville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11034057052 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

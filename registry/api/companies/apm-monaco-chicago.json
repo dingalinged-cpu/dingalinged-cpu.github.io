@@ -1,0 +1,56 @@
+{
+ "slug": "apm-monaco-chicago",
+ "name": "APM Monaco",
+ "categories": [
+  "jewelry store"
+ ],
+ "keywords": [
+  "jewelry store",
+  "jewelry store chicago il"
+ ],
+ "services": [
+  {
+   "name": "jewelry store",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "520 North Michigan Avenue",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60611",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60611",
+ "geo": {
+  "lat": 41.8914674,
+  "lon": -87.6247601
+ },
+ "brand": "APM Monaco",
+ "wikidata": "Q85738954",
+ "schema_type": "JewelryStore",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/12563653540",
+ "osm": {
+  "type": "node",
+  "id": 12563653540,
+  "tags_used": {
+   "shop": "jewelry"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/apm-monaco-chicago/",
+ "summary": "APM Monaco is a jewelry store in Chicago, IL at 520 North Michigan Avenue, Chicago, IL 60611.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,57 @@
+{
+ "slug": "fidelity-investments-naperville",
+ "name": "Fidelity Investments",
+ "categories": [
+  "financial advisor"
+ ],
+ "keywords": [
+  "financial advisor",
+  "financial advisor naperville il"
+ ],
+ "services": [
+  {
+   "name": "financial advisor",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1823 Freedom Drive",
+  "addressLocality": "Naperville",
+  "addressRegion": "IL",
+  "postalCode": "60563",
+  "addressCountry": "US"
+ },
+ "city": "Naperville",
+ "state": "IL",
+ "zip": "60563",
+ "geo": {
+  "lat": 41.8039976,
+  "lon": -88.1275959
+ },
+ "website": "https://www.fidelity.com/branches/investor-center-naperville-illinois-60563",
+ "brand": "Fidelity Investments",
+ "wikidata": "Q1411292",
+ "schema_type": "FinancialService",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/387423777",
+ "osm": {
+  "type": "way",
+  "id": 387423777,
+  "tags_used": {
+   "office": "financial_advisor"
+  }
+ },
+ "municipality": "Naperville",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/fidelity-investments-naperville/",
+ "summary": "Fidelity Investments is a financial advisor in Naperville, IL at 1823 Freedom Drive, Naperville, IL 60563. Website: https://www.fidelity.com/branches/investor-center-naperville-illinois-60563.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

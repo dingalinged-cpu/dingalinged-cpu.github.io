@@ -1,0 +1,55 @@
+{
+ "slug": "dental-arts-specialists-evanston",
+ "name": "Dental Arts Specialists",
+ "categories": [
+  "dentist"
+ ],
+ "keywords": [
+  "dentist",
+  "dentist evanston il"
+ ],
+ "services": [
+  {
+   "name": "dentist",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1964 Dempster Street",
+  "addressLocality": "Evanston",
+  "addressRegion": "IL",
+  "postalCode": "60202",
+  "addressCountry": "US"
+ },
+ "city": "Evanston",
+ "state": "IL",
+ "zip": "60202",
+ "geo": {
+  "lat": 42.0407083,
+  "lon": -87.700843
+ },
+ "schema_type": "Dentist",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/2295173550",
+ "osm": {
+  "type": "node",
+  "id": 2295173550,
+  "tags_used": {
+   "amenity": "dentist",
+   "healthcare": "dentist"
+  }
+ },
+ "municipality": "Evanston",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/dental-arts-specialists-evanston/",
+ "summary": "Dental Arts Specialists is a dentist in Evanston, IL at 1964 Dempster Street, Evanston, IL 60202.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,50 @@
+Keyword market for Rolling Meadows, IL: 18 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Chicago-Naperville-Elgin, IL-IN metro (US volume x population share).
+
+# Top keywords in Rolling Meadows, IL
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are in the JSON and dataset. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json
+
+## By monthly searches
+1. car wash rolling meadows il | searches/mo 51,000 (est) | CPC $4.35 | value $220,000 | Google Ads equiv $12,000/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/car-wash-rolling-meadows-il/
+2. dentist rolling meadows il | searches/mo 51,000 (est) | CPC $4.70 | value $240,000 | Google Ads equiv $13,000/mo | our featured min $100/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/dentist-rolling-meadows-il/
+3. gym rolling meadows il | searches/mo 51,000 (est) | CPC $1.67 | value $85,000 | Google Ads equiv $6,100/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/gym-rolling-meadows-il/
+4. oil change rolling meadows il | searches/mo 51,000 (est) | CPC $4.35 | value $220,000 | Google Ads equiv $12,000/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/oil-change-rolling-meadows-il/
+5. hair salon rolling meadows il | searches/mo 41,000 (est) | CPC $0.55 | value $23,000 | Google Ads equiv $1,300/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/hair-salon-rolling-meadows-il/
+6. nail salon rolling meadows il | searches/mo 28,000 (est) | CPC $0.61 | value $17,000 | Google Ads equiv $980/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/nail-salon-rolling-meadows-il/
+7. mechanic rolling meadows il | searches/mo 19,000 (est) | CPC $4.35 | value $83,000 | Google Ads equiv $4,600/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/mechanic-rolling-meadows-il/
+8. dog groomer rolling meadows il | searches/mo 12,000 (est) | CPC $4.06 | value $49,000 | Google Ads equiv $3,200/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/dog-groomer-rolling-meadows-il/
+9. haircut rolling meadows il | searches/mo 10,000 (est) | CPC $4.62 | value $46,000 | Google Ads equiv $2,600/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/haircut-rolling-meadows-il/
+10. auto repair rolling meadows il | searches/mo 8,300 (est) | CPC $4.35 | value $36,000 | Google Ads equiv $2,000/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/auto-repair-rolling-meadows-il/
+11. facial rolling meadows il | searches/mo 2,000 (est) | CPC $4.62 | value $9,200 | Google Ads equiv $530/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/facial-rolling-meadows-il/
+
+## By CPC
+1. daycare rolling meadows il | searches/mo 6,100 (est) | CPC $4.81 | value $29,000 | Google Ads equiv $1,700/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/daycare-rolling-meadows-il/
+2. eye doctor rolling meadows il | searches/mo 6,100 (est) | CPC $4.76 | value $29,000 | Google Ads equiv $2,000/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/eye-doctor-rolling-meadows-il/
+3. dentist rolling meadows il | searches/mo 51,000 (est) | CPC $4.70 | value $240,000 | Google Ads equiv $13,000/mo | our featured min $100/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/dentist-rolling-meadows-il/
+4. facial rolling meadows il | searches/mo 2,000 (est) | CPC $4.62 | value $9,200 | Google Ads equiv $530/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/facial-rolling-meadows-il/
+5. haircut rolling meadows il | searches/mo 10,000 (est) | CPC $4.62 | value $46,000 | Google Ads equiv $2,600/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/haircut-rolling-meadows-il/
+6. waxing rolling meadows il | searches/mo 26,000 (est) | CPC $4.62 | value $120,000 | Google Ads equiv $6,900/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/waxing-rolling-meadows-il/
+7. auto repair rolling meadows il | searches/mo 8,300 (est) | CPC $4.35 | value $36,000 | Google Ads equiv $2,000/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/auto-repair-rolling-meadows-il/
+8. car wash rolling meadows il | searches/mo 51,000 (est) | CPC $4.35 | value $220,000 | Google Ads equiv $12,000/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/car-wash-rolling-meadows-il/
+9. mechanic rolling meadows il | searches/mo 19,000 (est) | CPC $4.35 | value $83,000 | Google Ads equiv $4,600/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/mechanic-rolling-meadows-il/
+10. oil change rolling meadows il | searches/mo 51,000 (est) | CPC $4.35 | value $220,000 | Google Ads equiv $12,000/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/oil-change-rolling-meadows-il/
+11. liquor store rolling meadows il | searches/mo 3,900 (est) | CPC $4.14 | value $16,000 | Google Ads equiv $1,400/mo | our featured min $10/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/liquor-store-rolling-meadows-il/
+12. dog groomer rolling meadows il | searches/mo 12,000 (est) | CPC $4.06 | value $49,000 | Google Ads equiv $3,200/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/dog-groomer-rolling-meadows-il/
+13. dry cleaners rolling meadows il | searches/mo 6,100 (est) | CPC $3.39 | value $21,000 | Google Ads equiv $1,700/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/dry-cleaners-rolling-meadows-il/
+14. it support rolling meadows il | searches/mo 1,100 (est) | CPC $3.39 | value $3,700 | Google Ads equiv $310/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/it-support-rolling-meadows-il/
+15. printing services rolling meadows il | searches/mo 1,100 (est) | CPC $3.39 | value $3,700 | Google Ads equiv $310/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/printing-services-rolling-meadows-il/
+
+## By value (searches x CPC)
+1. dentist rolling meadows il | searches/mo 51,000 (est) | CPC $4.70 | value $240,000 | Google Ads equiv $13,000/mo | our featured min $100/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/dentist-rolling-meadows-il/
+2. car wash rolling meadows il | searches/mo 51,000 (est) | CPC $4.35 | value $220,000 | Google Ads equiv $12,000/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/car-wash-rolling-meadows-il/
+3. oil change rolling meadows il | searches/mo 51,000 (est) | CPC $4.35 | value $220,000 | Google Ads equiv $12,000/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/oil-change-rolling-meadows-il/
+4. gym rolling meadows il | searches/mo 51,000 (est) | CPC $1.67 | value $85,000 | Google Ads equiv $6,100/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/gym-rolling-meadows-il/
+5. mechanic rolling meadows il | searches/mo 19,000 (est) | CPC $4.35 | value $83,000 | Google Ads equiv $4,600/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/mechanic-rolling-meadows-il/
+6. dog groomer rolling meadows il | searches/mo 12,000 (est) | CPC $4.06 | value $49,000 | Google Ads equiv $3,200/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/dog-groomer-rolling-meadows-il/
+7. haircut rolling meadows il | searches/mo 10,000 (est) | CPC $4.62 | value $46,000 | Google Ads equiv $2,600/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/haircut-rolling-meadows-il/
+8. auto repair rolling meadows il | searches/mo 8,300 (est) | CPC $4.35 | value $36,000 | Google Ads equiv $2,000/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/auto-repair-rolling-meadows-il/
+9. hair salon rolling meadows il | searches/mo 41,000 (est) | CPC $0.55 | value $23,000 | Google Ads equiv $1,300/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/hair-salon-rolling-meadows-il/
+10. nail salon rolling meadows il | searches/mo 28,000 (est) | CPC $0.61 | value $17,000 | Google Ads equiv $980/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/nail-salon-rolling-meadows-il/
+11. facial rolling meadows il | searches/mo 2,000 (est) | CPC $4.62 | value $9,200 | Google Ads equiv $530/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/facial-rolling-meadows-il/
+
+All market data: https://dingalinged-cpu.github.io/registry/market/ | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html

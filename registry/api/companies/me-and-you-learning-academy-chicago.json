@@ -1,0 +1,56 @@
+{
+ "slug": "me-and-you-learning-academy-chicago",
+ "name": "Me & You Learning Academy",
+ "categories": [
+  "daycare"
+ ],
+ "keywords": [
+  "daycare",
+  "daycare chicago il"
+ ],
+ "services": [
+  {
+   "name": "daycare",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "11223 South Halsted Street",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60628",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60628",
+ "geo": {
+  "lat": 41.6898545,
+  "lon": -87.6419492
+ },
+ "phone": "+17735689000",
+ "website": "https://meandyouacademy.com/",
+ "schema_type": "ChildCare",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/4684809906",
+ "osm": {
+  "type": "node",
+  "id": 4684809906,
+  "tags_used": {
+   "amenity": "childcare"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/me-and-you-learning-academy-chicago/",
+ "summary": "Me & You Learning Academy is a daycare in Chicago, IL at 11223 South Halsted Street, Chicago, IL 60628. Phone: +17735689000. Website: https://meandyouacademy.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

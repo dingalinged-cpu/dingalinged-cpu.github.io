@@ -1,0 +1,23 @@
+Village Dental is a dentist in Kenilworth, IL at 523 Park Drive, Kenilworth, IL 60043.
+
+# Village Dental
+
+- Category: dentist
+- Services: dentist
+- Address: 523 Park Drive, Kenilworth, IL 60043
+- City: Kenilworth
+- State: IL
+- ZIP: 60043
+- Coordinates: 42.0863873, -87.7186526
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/village-dental-kenilworth/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/village-dental-kenilworth.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9421592325 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

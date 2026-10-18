@@ -1,0 +1,23 @@
+Lis Food-Liquor is a liquor store in Chicago, IL at 5316 North Milwaukee Avenue, Chicago, IL 60630.
+
+# Lis Food-Liquor
+
+- Category: liquor store
+- Services: liquor store
+- Address: 5316 North Milwaukee Avenue, Chicago, IL 60630
+- City: Chicago
+- State: IL
+- ZIP: 60630
+- Coordinates: 41.9679787, -87.760232
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/lis-food-liquor-chicago/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/lis-food-liquor-chicago.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/7668142578 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

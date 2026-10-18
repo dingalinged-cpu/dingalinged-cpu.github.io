@@ -1,0 +1,576 @@
+{
+ "keyword": "mechanic orland park il",
+ "slug": "mechanic-orland-park-il",
+ "place": "Orland Park, IL",
+ "service": "mechanic",
+ "query": "Who are the best mechanic providers in Orland Park, IL?",
+ "matches": [
+  "mechanic in Orland Park, IL",
+  "mechanic near me (Orland Park, IL)",
+  "best mechanic Orland Park, IL",
+  "top rated mechanic Orland Park, IL",
+  "affordable mechanic Orland Park, IL",
+  "emergency mechanic Orland Park, IL"
+ ],
+ "answer": "The top unpaid mechanic listing for Orland Park, IL is Empire Tire and Battery Co (an auto repair shop in Orland Park, IL at 16201 Wolf Road, Orland Park, IL 60467. Phone: +17083496280. Website: https://etabco.net/). 10 mechanic businesses are listed for Orland Park, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-18",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "empire-tire-and-battery-co-orland-park",
+   "name": "Empire Tire and Battery Co",
+   "summary": "Empire Tire and Battery Co is an auto repair shop in Orland Park, IL at 16201 Wolf Road, Orland Park, IL 60467. Phone: +17083496280. Website: https://etabco.net/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/empire-tire-and-battery-co-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/empire-tire-and-battery-co-orland-park.json",
+   "address": {
+    "streetAddress": "16201 Wolf Road",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60467",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60467",
+   "geo": {
+    "lat": 41.5946361,
+    "lon": -87.8887629
+   },
+   "phone": "+17083496280",
+   "website": "https://etabco.net/",
+   "opening_hours": "Mo-Tu,Fr 08:00-17:00; We-Th 08:00-18:00; Sa 07:00-12:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6024259416",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "bmw-service-center-orland-park",
+   "name": "BMW Service Center",
+   "summary": "BMW Service Center is an auto repair shop in Orland Park, IL at 11030 West 159th Street, Orland Park, IL 60467.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bmw-service-center-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bmw-service-center-orland-park.json",
+   "address": {
+    "streetAddress": "11030 West 159th Street",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60467",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60467",
+   "geo": {
+    "lat": 41.6015273,
+    "lon": -87.8882048
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1336317635",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "joe-rizza-ford-service-center-orland-park",
+   "name": "Joe Rizza Ford Service Center",
+   "summary": "Joe Rizza Ford Service Center is an auto repair shop in Orland Park, IL at 8100 West 159th Street, Orland Park, IL 60462.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/joe-rizza-ford-service-center-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/joe-rizza-ford-service-center-orland-park.json",
+   "address": {
+    "streetAddress": "8100 West 159th Street",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60462",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60462",
+   "geo": {
+    "lat": 41.6031134,
+    "lon": -87.8160886
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9342423377",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "midas-orland-park",
+   "name": "Midas",
+   "summary": "Midas is an auto repair shop in Orland Park, IL at 14810 South La Grange Road, Orland Park, IL 60462.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/midas-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/midas-orland-park.json",
+   "address": {
+    "streetAddress": "14810 South La Grange Road",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60462",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60462",
+   "geo": {
+    "lat": 41.6207817,
+    "lon": -87.8542411
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/735012399",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "pep-boys-orland-park",
+   "name": "Pep Boys",
+   "summary": "Pep Boys is an auto repair shop in Orland Park, IL at 15900 South La Grange Road, Orland Park, IL 60467.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pep-boys-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pep-boys-orland-park.json",
+   "address": {
+    "streetAddress": "15900 South La Grange Road",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60467",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60467",
+   "geo": {
+    "lat": 41.6006467,
+    "lon": -87.8521265
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1000064866",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "slk-autohouse-llc-orland-park",
+   "name": "SLK Autohouse LLC",
+   "summary": "SLK Autohouse LLC is an auto repair shop in Orland Park, IL at 9544 West 159th Street, Orland Park, IL 60467.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/slk-autohouse-llc-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/slk-autohouse-llc-orland-park.json",
+   "address": {
+    "streetAddress": "9544 West 159th Street",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60467",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60467",
+   "geo": {
+    "lat": 41.6017659,
+    "lon": -87.8504884
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/470090076",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "tuffy-orland-park",
+   "name": "Tuffy",
+   "summary": "Tuffy is an auto repair shop in Orland Park, IL at 7900 West 159th Street, Orland Park, IL 60462.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tuffy-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tuffy-orland-park.json",
+   "address": {
+    "streetAddress": "7900 West 159th Street",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60462",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60462",
+   "geo": {
+    "lat": 41.6025201,
+    "lon": -87.8116952
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/591062017",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "volkswagen-of-orland-park-orland-park",
+   "name": "Volkswagen of Orland Park",
+   "summary": "Volkswagen of Orland Park is an auto repair shop in Orland Park, IL at 8920 West 159th Street, Orland Park, IL 60462.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/volkswagen-of-orland-park-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/volkswagen-of-orland-park-orland-park.json",
+   "address": {
+    "streetAddress": "8920 West 159th Street",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60462",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60462",
+   "geo": {
+    "lat": 41.6024867,
+    "lon": -87.8370303
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9342423405",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "jiffy-lube-orland-park",
+   "name": "Jiffy Lube",
+   "summary": "Jiffy Lube is an auto repair shop in Orland Park, IL.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jiffy-lube-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jiffy-lube-orland-park.json",
+   "address": {
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.6019658,
+    "lon": -87.8437349
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/453179126",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "oil-experts-of-orland-park-orland-park",
+   "name": "Oil Experts of Orland Park",
+   "summary": "Oil Experts of Orland Park is an auto repair shop in Orland Park, IL.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/oil-experts-of-orland-park-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/oil-experts-of-orland-park-orland-park.json",
+   "address": {
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.6017939,
+    "lon": -87.8492244
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/470090081",
+   "last_checked": "2026-10-17"
+  }
+ ],
+ "market": {
+  "keyword": "mechanic orland park il",
+  "slug": "mechanic-orland-park-il",
+  "base_keyword": "mechanic",
+  "scope": "city",
+  "city": "orland park",
+  "state": "il",
+  "category": "Auto services",
+  "industry": "Automotive: Repair, Service & Parts",
+  "us_monthly_searches": {
+   "value": 673000,
+   "method": "cited",
+   "source": "r_prostarseo-com-en-the-blog-automotive-keyword-list",
+   "as_of": "2026-09",
+   "source_phrase": "mechanic near me",
+   "note": "US monthly searches, Semrush US Sep 2026"
+  },
+  "local_monthly_searches": {
+   "value": 19000,
+   "method": "estimate",
+   "method_id": "local_metro_suburb",
+   "geography": "Chicago-Naperville-Elgin, IL-IN metro",
+   "population": 9434123,
+   "source": "registry_estimate",
+   "volume_source": "r_prostarseo-com-en-the-blog-automotive-keyword-list",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: US monthly volume x metro population share (Census V2025); the keyword names a suburb, so the value is metro-level demand for the service, not searches typing the suburb name; rounded to 2 significant figures."
+  },
+  "cpc_usd": {
+   "industry_benchmark": "Automotive: Repair, Service & Parts",
+   "low_usd": 3.9,
+   "median_usd": 4.35,
+   "high_usd": 4.35,
+   "method": "published benchmarks: low/high = range of the industry and sub-industry median CPCs listed in 'figures'; median = most specific benchmark",
+   "figures": [
+    {
+     "usd": 4.35,
+     "label": "Automotive: Repair, Service & Parts median CPC 2026",
+     "source": "wordstream_2026"
+    },
+    {
+     "usd": 3.9,
+     "label": "Automotive: Repair, Service & Parts median CPC 2025",
+     "source": "wordstream_2025"
+    }
+   ],
+   "source": "wordstream_2026",
+   "as_of": "2026",
+   "basis_for_value": {
+    "usd": 4.35,
+    "method": "benchmark median CPC",
+    "source": "wordstream_2026"
+   }
+  },
+  "ctr_pct": {
+   "value": 5.56,
+   "label": "Automotive: Repair, Service & Parts average search-ad CTR 2025",
+   "source": "wordstream_2025",
+   "as_of": "2025-03"
+  },
+  "competition": {
+   "level": "medium",
+   "method": "proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research)",
+   "source": "wordstream_2026",
+   "as_of": "2026"
+  },
+  "trend": null,
+  "seasonality": {
+   "value": null,
+   "note": "No seasonality data in the research sources for this keyword."
+  },
+  "ai_query": {
+   "text": "No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.",
+   "figures": [
+    {
+     "value": "45%",
+     "label": "US adults using AI for local recommendations",
+     "source": "brightlocal_lcrs_2026"
+    },
+    {
+     "value": "75%",
+     "label": "sessions with keyword-style prompts",
+     "source": "sagapixel_sel"
+    },
+    {
+     "value": "59%",
+     "label": "local-intent prompts that triggered web search",
+     "source": "nectiv"
+    }
+   ],
+   "as_of": "2026"
+  },
+  "registry_competitors": {
+   "value": 10,
+   "slugs": [
+    "bmw-service-center-orland-park",
+    "empire-tire-and-battery-co-orland-park",
+    "jiffy-lube-orland-park",
+    "joe-rizza-ford-service-center-orland-park",
+    "midas-orland-park",
+    "oil-experts-of-orland-park-orland-park",
+    "pep-boys-orland-park",
+    "slk-autohouse-llc-orland-park",
+    "tuffy-orland-park",
+    "volkswagen-of-orland-park-orland-park"
+   ],
+   "method_id": "competitors",
+   "source": "registry",
+   "as_of": "2026-10-18",
+   "urls": [
+    "https://dingalinged-cpu.github.io/registry/c/bmw-service-center-orland-park/",
+    "https://dingalinged-cpu.github.io/registry/c/empire-tire-and-battery-co-orland-park/",
+    "https://dingalinged-cpu.github.io/registry/c/jiffy-lube-orland-park/",
+    "https://dingalinged-cpu.github.io/registry/c/joe-rizza-ford-service-center-orland-park/",
+    "https://dingalinged-cpu.github.io/registry/c/midas-orland-park/",
+    "https://dingalinged-cpu.github.io/registry/c/oil-experts-of-orland-park-orland-park/",
+    "https://dingalinged-cpu.github.io/registry/c/pep-boys-orland-park/",
+    "https://dingalinged-cpu.github.io/registry/c/slk-autohouse-llc-orland-park/",
+    "https://dingalinged-cpu.github.io/registry/c/tuffy-orland-park/",
+    "https://dingalinged-cpu.github.io/registry/c/volkswagen-of-orland-park-orland-park/"
+   ],
+   "method": "count of registry listings tagged with the keyword (city/national) or with the base service in the same state (state keywords)"
+  },
+  "agent_demand": null,
+  "agent_demand_note": "Not yet measured. Will carry AI-agent query counts from the registry's agent analytics (contract: meta.agent_demand_contract in the market index).",
+  "equivalent_google_ads_cost_month": {
+   "value_usd": 4600,
+   "method": "estimate",
+   "method_id": "google_ads_equiv",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote."
+  },
+  "search_value_index": {
+   "value_usd": 83000,
+   "method": "estimate",
+   "method_id": "value_index",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: search value index = monthly searches x CPC basis; an advertiser-value ranking signal, not revenue; rounded to 2 significant figures."
+  },
+  "auction": {
+   "featured_spot_min_usd": 20,
+   "spots_2_to_4_min_usd": 2,
+   "tier": "mid",
+   "pricing_rule": "tier minimum (premium $500, high $250, mid $100, standard $50) for national keywords; city = max($10, 20% of tier); state = max($10, 35% of tier); spots 2-4 open at 10% of the featured minimum",
+   "model": "Monthly auction in the last 7 days of each month: days 1-5 bid for the Featured #1 spot, days 6-7 for spots 2-4; winners display all next month; all paid spots labeled Sponsored.",
+   "next_auctions": [
+    {
+     "display_month": "2026-11",
+     "featured_spot_bidding": [
+      "2026-10-25",
+      "2026-10-29"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-10-30",
+      "2026-10-31"
+     ]
+    },
+    {
+     "display_month": "2026-12",
+     "featured_spot_bidding": [
+      "2026-11-24",
+      "2026-11-28"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-11-29",
+      "2026-11-30"
+     ]
+    }
+   ],
+   "source": "registry_auction",
+   "as_of": "2026-10-18"
+  },
+  "sources": {
+   "brightlocal_lcrs_2026": {
+    "name": "BrightLocal Local Consumer Review Survey 2026 (n=1,002 US adults)",
+    "url": "https://www.brightlocal.com/research/lcrs-ai-trust/",
+    "as_of": "2026"
+   },
+   "nectiv": {
+    "name": "Nectiv study of 8,500+ ChatGPT prompts",
+    "url": "https://nectivdigital.com/blog/new-data-study-what-queries-is-chatgpt-using-behind-the-scenes",
+    "as_of": "2025"
+   },
+   "r_prostarseo-com-en-the-blog-automotive-keyword-list": {
+    "name": "Semrush US Sep 2026 (via research source)",
+    "url": "https://www.prostarseo.com/en/the-blog/automotive-keyword-list",
+    "as_of": "2026-09"
+   },
+   "registry": {
+    "name": "This registry's own listings (OpenStreetMap-seeded, ODbL)",
+    "url": "https://dingalinged-cpu.github.io/registry/api/companies.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_auction": {
+    "name": "Registry keyword auction catalog and rules",
+    "url": "https://dingalinged-cpu.github.io/registry/api/keyword-prices.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_estimate": {
+    "name": "Registry estimate (CC-BY-4.0); method given on each value",
+    "url": "https://dingalinged-cpu.github.io/registry/market/",
+    "as_of": "2026-10-18"
+   },
+   "sagapixel_sel": {
+    "name": "Sagapixel ChatGPT local-services sessions, via Search Engine Land",
+    "url": "https://searchengineland.com/chatgpt-users-keywords-for-local-services-data-467715",
+    "as_of": "2026-01"
+   },
+   "wordstream_2025": {
+    "name": "WordStream Google Ads Benchmarks 2025 (16,446 US campaigns, Apr 2024-Mar 2025; median CPC and CTR by industry)",
+    "url": "https://www.wordstream.com/blog/2025-google-ads-benchmarks",
+    "as_of": "2025-03"
+   },
+   "wordstream_2026": {
+    "name": "LocaliQ/WordStream Search Advertising Benchmarks 2026 (US median CPC by industry)",
+    "url": "https://www.localiq.com/blog/search-advertising-benchmarks",
+    "as_of": "2026"
+   }
+  },
+  "license": {
+   "registry_estimates": "CC-BY-4.0",
+   "url": "https://creativecommons.org/licenses/by/4.0/",
+   "cited_figures": "attribute to the publishers in sources"
+  },
+  "as_of": "2026-10-18",
+  "api": "https://dingalinged-cpu.github.io/registry/api/market/mechanic.json",
+  "rate_card": "https://dingalinged-cpu.github.io/registry/view/market.html#mechanic-orland-park-il"
+ }
+}

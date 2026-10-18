@@ -1,0 +1,56 @@
+{
+ "slug": "harper-animal-hospital-palatine",
+ "name": "Harper Animal Hospital",
+ "categories": [
+  "vet"
+ ],
+ "keywords": [
+  "vet",
+  "vet palatine il"
+ ],
+ "services": [
+  {
+   "name": "vet",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1460 West Algonquin Road",
+  "addressLocality": "Palatine",
+  "addressRegion": "IL",
+  "postalCode": "60067",
+  "addressCountry": "US"
+ },
+ "city": "Palatine",
+ "state": "IL",
+ "zip": "60067",
+ "geo": {
+  "lat": 42.0802081,
+  "lon": -88.0798606
+ },
+ "phone": "+18473586767",
+ "website": "https://harperanimalhospital.com/",
+ "schema_type": "VeterinaryCare",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/533877868",
+ "osm": {
+  "type": "way",
+  "id": 533877868,
+  "tags_used": {
+   "amenity": "veterinary"
+  }
+ },
+ "municipality": "Palatine",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/harper-animal-hospital-palatine/",
+ "summary": "Harper Animal Hospital is a veterinarian in Palatine, IL at 1460 West Algonquin Road, Palatine, IL 60067. Phone: +18473586767. Website: https://harperanimalhospital.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

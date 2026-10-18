@@ -1,0 +1,23 @@
+Marie|Wesley is a thrift store in Chicago, IL at 1122 West 63rd Street, Chicago, IL 60621. Website: https://mariewesley.com/.
+
+# Marie|Wesley
+
+- Category: thrift store
+- Services: thrift store
+- Address: 1122 West 63rd Street, Chicago, IL 60621
+- City: Chicago
+- State: IL
+- ZIP: 60621
+- Coordinates: 41.7797355, -87.6530561
+- Phone: n/a
+- Website: https://mariewesley.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/marie-wesley-chicago/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/marie-wesley-chicago.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9993591205 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,0 +1,57 @@
+{
+ "slug": "banfield-pet-hospital-chicago-w210679725",
+ "name": "Banfield Pet Hospital",
+ "categories": [
+  "vet"
+ ],
+ "keywords": [
+  "vet",
+  "vet chicago il"
+ ],
+ "services": [
+  {
+   "name": "vet",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "225 West Division Street",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60610",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60610",
+ "geo": {
+  "lat": 41.9036449,
+  "lon": -87.6356442
+ },
+ "phone": "+13123377387",
+ "brand": "Banfield Pet Hospital",
+ "wikidata": "Q2882416",
+ "schema_type": "VeterinaryCare",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/210679725",
+ "osm": {
+  "type": "way",
+  "id": 210679725,
+  "tags_used": {
+   "amenity": "veterinary"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/banfield-pet-hospital-chicago-w210679725/",
+ "summary": "Banfield Pet Hospital is a veterinarian in Chicago, IL at 225 West Division Street, Chicago, IL 60610. Phone: +13123377387.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

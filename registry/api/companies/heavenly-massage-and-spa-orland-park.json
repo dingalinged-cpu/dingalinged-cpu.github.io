@@ -1,0 +1,51 @@
+{
+ "slug": "heavenly-massage-and-spa-orland-park",
+ "name": "Heavenly Massage & Spa",
+ "categories": [
+  "massage"
+ ],
+ "keywords": [
+  "massage",
+  "massage orland park il"
+ ],
+ "services": [
+  {
+   "name": "massage",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Orland Park",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Orland Park",
+ "state": "IL",
+ "geo": {
+  "lat": 41.5944273,
+  "lon": -87.8516604
+ },
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/1085729518",
+ "osm": {
+  "type": "way",
+  "id": 1085729518,
+  "tags_used": {
+   "shop": "massage"
+  }
+ },
+ "municipality": "Orland Park",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/heavenly-massage-and-spa-orland-park/",
+ "summary": "Heavenly Massage & Spa is a massage studio in Orland Park, IL.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

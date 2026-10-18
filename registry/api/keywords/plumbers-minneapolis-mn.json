@@ -12,9 +12,9 @@
   "affordable plumbers Minneapolis, MN",
   "emergency plumbers Minneapolis, MN"
  ],
- "answer": "The top unpaid plumbers listing for Minneapolis, MN is Onyx Plumbing (a plumber in Minneapolis, MN at 6325 Cambridge Street #7, Minneapolis, MN 55416. Phone: +16122346699. Website: https://calltheonyx.com/). 1 plumbers businesses are listed for Minneapolis, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "answer": "The top unpaid plumbers listing for Minneapolis, MN is Onyx Plumbing (a plumber in Minneapolis, MN at 6325 Cambridge Street #7, Minneapolis, MN 55416. Phone: +16122346699. Website: https://calltheonyx.com/). 1 plumbers businesses are listed for Minneapolis, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
  "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
- "updated": "2026-10-17",
+ "updated": "2026-10-18",
  "sponsored_slots": {
   "featured_1": "available",
   "spots_2_4_sold": 0
@@ -60,5 +60,238 @@
    "source_url": "https://www.openstreetmap.org/node/12159156278",
    "last_checked": "2026-10-17"
   }
- ]
+ ],
+ "market": {
+  "keyword": "plumbers minneapolis mn",
+  "slug": "plumbers-minneapolis-mn",
+  "base_keyword": "plumbers",
+  "scope": "city",
+  "city": "minneapolis",
+  "state": "mn",
+  "category": "Home Services",
+  "industry": "Home & Home Improvement",
+  "us_monthly_searches": {
+   "value": 3600,
+   "range": [
+    1300,
+    6600
+   ],
+   "method": "estimate",
+   "estimate_method": "median of 41 cited US volumes for 'low'-demand keywords across all research files (keyword had no demand rating; treated as long-tail); rounded to 2 significant figures; range = 25th-75th percentile",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "confidence": "low"
+  },
+  "local_monthly_searches": {
+   "value": 40.0,
+   "method": "estimate",
+   "method_id": "local_metro",
+   "geography": "Minneapolis-St. Paul-Bloomington, MN-WI metro",
+   "population": 3790295,
+   "source": "registry_estimate",
+   "volume_source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: US monthly volume x metro population share (Census V2025 metro pop / US pop 341,784,857); rounded to 2 significant figures. Counts all searches for the service in the metro, not only searches that type this city name."
+  },
+  "cpc_usd": {
+   "industry_benchmark": "Home & Home Improvement",
+   "low_usd": 7.85,
+   "median_usd": 8.33,
+   "high_usd": 65.54,
+   "method": "published benchmarks: low/high = range of the industry and sub-industry median CPCs listed in 'figures'; median = most specific benchmark",
+   "figures": [
+    {
+     "usd": 8.33,
+     "label": "Home & Home Improvement median CPC 2026",
+     "source": "wordstream_2026"
+    },
+    {
+     "usd": 7.85,
+     "label": "Home & Home Improvement median CPC 2025",
+     "source": "wordstream_2025"
+    }
+   ],
+   "source": "wordstream_2026",
+   "as_of": "2026",
+   "keyword_cpc_reported_usd": {
+    "usd": 65.54,
+    "note": "not reported by source; high CPC used as competition proxy",
+    "source": "r_ppc-io-blog-high-cpc-keywords",
+    "as_of": "2026"
+   },
+   "basis_for_value": {
+    "usd": 8.33,
+    "method": "benchmark median CPC",
+    "source": "wordstream_2026"
+   }
+  },
+  "ctr_pct": {
+   "value": 6.37,
+   "label": "Home & Home Improvement average search-ad CTR 2025",
+   "source": "wordstream_2025",
+   "as_of": "2025-03"
+  },
+  "competition": {
+   "level": "high",
+   "method": "proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research)",
+   "source": "wordstream_2026",
+   "as_of": "2026",
+   "note": "Keyword appears on a published high-CPC list; not reported by source; high CPC used as competition proxy"
+  },
+  "trend": null,
+  "seasonality": {
+   "value": null,
+   "note": "No seasonality data in the research sources for this keyword."
+  },
+  "ai_query": {
+   "text": "No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.",
+   "figures": [
+    {
+     "value": "45%",
+     "label": "US adults using AI for local recommendations",
+     "source": "brightlocal_lcrs_2026"
+    },
+    {
+     "value": "75%",
+     "label": "sessions with keyword-style prompts",
+     "source": "sagapixel_sel"
+    },
+    {
+     "value": "59%",
+     "label": "local-intent prompts that triggered web search",
+     "source": "nectiv"
+    },
+    {
+     "value": "11%",
+     "label": "named-recommendation rate for home services (excerpt only)",
+     "source": "yazeo"
+    }
+   ],
+   "as_of": "2026"
+  },
+  "registry_competitors": {
+   "value": 1,
+   "slugs": [
+    "onyx-plumbing-minneapolis"
+   ],
+   "method_id": "competitors",
+   "source": "registry",
+   "as_of": "2026-10-18",
+   "urls": [
+    "https://dingalinged-cpu.github.io/registry/c/onyx-plumbing-minneapolis/"
+   ],
+   "method": "count of registry listings tagged with the keyword (city/national) or with the base service in the same state (state keywords)"
+  },
+  "agent_demand": null,
+  "agent_demand_note": "Not yet measured. Will carry AI-agent query counts from the registry's agent analytics (contract: meta.agent_demand_contract in the market index).",
+  "equivalent_google_ads_cost_month": {
+   "value_usd": 21.0,
+   "method": "estimate",
+   "method_id": "google_ads_equiv",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote."
+  },
+  "search_value_index": {
+   "value_usd": 330,
+   "method": "estimate",
+   "method_id": "value_index",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: search value index = monthly searches x CPC basis; an advertiser-value ranking signal, not revenue; rounded to 2 significant figures."
+  },
+  "auction": {
+   "featured_spot_min_usd": 100,
+   "spots_2_to_4_min_usd": 10,
+   "tier": "premium",
+   "pricing_rule": "tier minimum (premium $500, high $250, mid $100, standard $50) for national keywords; city = max($10, 20% of tier); state = max($10, 35% of tier); spots 2-4 open at 10% of the featured minimum",
+   "model": "Monthly auction in the last 7 days of each month: days 1-5 bid for the Featured #1 spot, days 6-7 for spots 2-4; winners display all next month; all paid spots labeled Sponsored.",
+   "next_auctions": [
+    {
+     "display_month": "2026-11",
+     "featured_spot_bidding": [
+      "2026-10-25",
+      "2026-10-29"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-10-30",
+      "2026-10-31"
+     ]
+    },
+    {
+     "display_month": "2026-12",
+     "featured_spot_bidding": [
+      "2026-11-24",
+      "2026-11-28"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-11-29",
+      "2026-11-30"
+     ]
+    }
+   ],
+   "source": "registry_auction",
+   "as_of": "2026-10-18"
+  },
+  "sources": {
+   "brightlocal_lcrs_2026": {
+    "name": "BrightLocal Local Consumer Review Survey 2026 (n=1,002 US adults)",
+    "url": "https://www.brightlocal.com/research/lcrs-ai-trust/",
+    "as_of": "2026"
+   },
+   "nectiv": {
+    "name": "Nectiv study of 8,500+ ChatGPT prompts",
+    "url": "https://nectivdigital.com/blog/new-data-study-what-queries-is-chatgpt-using-behind-the-scenes",
+    "as_of": "2025"
+   },
+   "r_ppc-io-blog-high-cpc-keywords": {
+    "name": "High-CPC keyword list (via research source; ppc.io values are top-of-page high end, others 'directional')",
+    "url": "https://ppc.io/blog/high-cpc-keywords",
+    "as_of": "2026"
+   },
+   "registry": {
+    "name": "This registry's own listings (OpenStreetMap-seeded, ODbL)",
+    "url": "https://dingalinged-cpu.github.io/registry/api/companies.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_auction": {
+    "name": "Registry keyword auction catalog and rules",
+    "url": "https://dingalinged-cpu.github.io/registry/api/keyword-prices.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_estimate": {
+    "name": "Registry estimate (CC-BY-4.0); method given on each value",
+    "url": "https://dingalinged-cpu.github.io/registry/market/",
+    "as_of": "2026-10-18"
+   },
+   "sagapixel_sel": {
+    "name": "Sagapixel ChatGPT local-services sessions, via Search Engine Land",
+    "url": "https://searchengineland.com/chatgpt-users-keywords-for-local-services-data-467715",
+    "as_of": "2026-01"
+   },
+   "wordstream_2025": {
+    "name": "WordStream Google Ads Benchmarks 2025 (16,446 US campaigns, Apr 2024-Mar 2025; median CPC and CTR by industry)",
+    "url": "https://www.wordstream.com/blog/2025-google-ads-benchmarks",
+    "as_of": "2025-03"
+   },
+   "wordstream_2026": {
+    "name": "LocaliQ/WordStream Search Advertising Benchmarks 2026 (US median CPC by industry)",
+    "url": "https://www.localiq.com/blog/search-advertising-benchmarks",
+    "as_of": "2026"
+   },
+   "yazeo": {
+    "name": "Yazeo, 500 tracked ChatGPT conversations (excerpt only)",
+    "url": "https://yazeo.com/insights/how-people-actually-use-chatgpt-to-find-businesses-we-tracked-500-real-conversations",
+    "as_of": "2026"
+   }
+  },
+  "license": {
+   "registry_estimates": "CC-BY-4.0",
+   "url": "https://creativecommons.org/licenses/by/4.0/",
+   "cited_figures": "attribute to the publishers in sources"
+  },
+  "as_of": "2026-10-18",
+  "api": "https://dingalinged-cpu.github.io/registry/api/market/plumbers.json",
+  "rate_card": "https://dingalinged-cpu.github.io/registry/view/market.html#plumbers-minneapolis-mn"
+ }
 }

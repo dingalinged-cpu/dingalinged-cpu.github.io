@@ -1,0 +1,23 @@
+Berrshire Hathaway is a real estate agency in Elmhurst, IL.
+
+# Berrshire Hathaway
+
+- Category: real estate agent
+- Services: real estate agent, realtor
+- Address: Elmhurst, IL
+- City: Elmhurst
+- State: IL
+- ZIP: n/a
+- Coordinates: 41.9036295, -87.9400742
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/berrshire-hathaway-elmhurst/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/berrshire-hathaway-elmhurst.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/8406072230 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

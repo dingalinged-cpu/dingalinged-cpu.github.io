@@ -1,0 +1,60 @@
+{
+ "slug": "curosh-and-curosh-attorneys-at-law-whiting",
+ "name": "Curosh & Curosh -Attorneys at Law",
+ "categories": [
+  "lawyer"
+ ],
+ "keywords": [
+  "lawyer",
+  "attorney",
+  "lawyer whiting in",
+  "attorney whiting in"
+ ],
+ "services": [
+  {
+   "name": "lawyer",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "attorney",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1532 119th Street",
+  "addressLocality": "Whiting",
+  "addressRegion": "IN",
+  "postalCode": "46394",
+  "addressCountry": "US"
+ },
+ "city": "Whiting",
+ "state": "IN",
+ "zip": "46394",
+ "geo": {
+  "lat": 41.6791076,
+  "lon": -87.4914921
+ },
+ "schema_type": "LegalService",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/1232448666",
+ "osm": {
+  "type": "way",
+  "id": 1232448666,
+  "tags_used": {
+   "office": "lawyer"
+  }
+ },
+ "municipality": "Whiting",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/curosh-and-curosh-attorneys-at-law-whiting/",
+ "summary": "Curosh & Curosh -Attorneys at Law is a lawyer in Whiting, IN at 1532 119th Street, Whiting, IN 46394.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

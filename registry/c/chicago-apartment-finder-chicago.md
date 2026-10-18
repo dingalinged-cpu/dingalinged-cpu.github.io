@@ -1,0 +1,23 @@
+Chicago Apartment Finder is a real estate agency in Chicago, IL.
+
+# Chicago Apartment Finder
+
+- Category: real estate agent
+- Services: real estate agent, realtor
+- Address: Chicago, IL
+- City: Chicago
+- State: IL
+- ZIP: n/a
+- Coordinates: 41.9400518, -87.6521529
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/chicago-apartment-finder-chicago/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/chicago-apartment-finder-chicago.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/424209963 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

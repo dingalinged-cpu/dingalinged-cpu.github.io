@@ -1,0 +1,53 @@
+{
+ "slug": "swanson-center-bedford-park",
+ "name": "Swanson Center",
+ "categories": [
+  "gym"
+ ],
+ "keywords": [
+  "gym",
+  "gym bedford park il"
+ ],
+ "services": [
+  {
+   "name": "gym",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Bedford Park",
+  "addressRegion": "IL",
+  "postalCode": "60638",
+  "addressCountry": "US"
+ },
+ "city": "Bedford Park",
+ "state": "IL",
+ "zip": "60638",
+ "geo": {
+  "lat": 41.770172,
+  "lon": -87.8140006
+ },
+ "schema_type": "ExerciseGym",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/554357863",
+ "osm": {
+  "type": "way",
+  "id": 554357863,
+  "tags_used": {
+   "leisure": "fitness_centre"
+  }
+ },
+ "municipality": "Bedford Park",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/swanson-center-bedford-park/",
+ "summary": "Swanson Center is a gym in Bedford Park, IL.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

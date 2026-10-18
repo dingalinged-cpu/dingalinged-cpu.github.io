@@ -1,0 +1,23 @@
+Goldin, Hill & Associates, P.C. is a lawyer in Brookfield, IL.
+
+# Goldin, Hill & Associates, P.C.
+
+- Category: lawyer
+- Services: lawyer, attorney
+- Address: Brookfield, IL
+- City: Brookfield
+- State: IL
+- ZIP: n/a
+- Coordinates: 41.8066668, -87.8463866
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/goldin-hill-and-associates-p-c-brookfield/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/goldin-hill-and-associates-p-c-brookfield.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9518398158 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

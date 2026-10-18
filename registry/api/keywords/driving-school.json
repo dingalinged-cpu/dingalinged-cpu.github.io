@@ -12,9 +12,9 @@
   "affordable driving school the United States",
   "emergency driving school the United States"
  ],
- "answer": "The top unpaid driving school listing for the United States is Alamo Driving School (a driving school in Minneapolis, MN at 2109 Nicollet Avenue #106, Minneapolis, MN 55404. Phone: +16128740697. Website: https://www.alamodrivingschool.com/). 3 driving school businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "answer": "The top unpaid driving school listing for the United States is Professional Truck Driving School (a driving school in Summit, IL at 6246 South Archer Road, Summit, IL 60501. Phone: +17085541900. Website: https://www.cdlprofessional.com/). 29 driving school businesses are listed for the United States as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
  "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
- "updated": "2026-10-17",
+ "updated": "2026-10-18",
  "sponsored_slots": {
   "featured_1": "available",
   "spots_2_4_sold": 0
@@ -27,6 +27,111 @@
  "results": [
   {
    "position": 1,
+   "sponsored": false,
+   "slug": "professional-truck-driving-school-summit",
+   "name": "Professional Truck Driving School",
+   "summary": "Professional Truck Driving School is a driving school in Summit, IL at 6246 South Archer Road, Summit, IL 60501. Phone: +17085541900. Website: https://www.cdlprofessional.com/.",
+   "categories": [
+    "driving school"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/professional-truck-driving-school-summit/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/professional-truck-driving-school-summit.json",
+   "address": {
+    "streetAddress": "6246 South Archer Road",
+    "addressLocality": "Summit",
+    "addressRegion": "IL",
+    "postalCode": "60501",
+    "addressCountry": "US"
+   },
+   "city": "Summit",
+   "state": "IL",
+   "zip": "60501",
+   "geo": {
+    "lat": 41.7775913,
+    "lon": -87.814077
+   },
+   "phone": "+17085541900",
+   "website": "https://www.cdlprofessional.com/",
+   "opening_hours": "Mo-Fr 10:00-18:00; Sa 10:00-14:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9958528349",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "progressive-truck-driving-school-inc-chicago",
+   "name": "Progressive Truck Driving School Inc.",
+   "summary": "Progressive Truck Driving School Inc. is a driving school in Chicago, IL at 5538 West Belmont Avenue, Chicago, IL 60641. Phone: +17737365522. Website: https://cdltruck.com/.",
+   "categories": [
+    "driving school"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/progressive-truck-driving-school-inc-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/progressive-truck-driving-school-inc-chicago.json",
+   "address": {
+    "streetAddress": "5538 West Belmont Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60641",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60641",
+   "geo": {
+    "lat": 41.9387947,
+    "lon": -87.7657205
+   },
+   "phone": "+17737365522",
+   "website": "https://cdltruck.com/",
+   "opening_hours": "Mo-Fr 09:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12673086055",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "top-driver-new-lenox",
+   "name": "Top Driver",
+   "summary": "Top Driver is a driving school in New Lenox, IL at 1800 East Lincoln Highway, New Lenox, IL 60451. Phone: +18003748373. Website: https://www.topdriver.com/driving-school/new-lenox/.",
+   "categories": [
+    "driving school"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/top-driver-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/top-driver-new-lenox.json",
+   "address": {
+    "streetAddress": "1800 East Lincoln Highway",
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "postalCode": "60451",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "zip": "60451",
+   "geo": {
+    "lat": 41.5110637,
+    "lon": -87.9315451
+   },
+   "phone": "+18003748373",
+   "website": "https://www.topdriver.com/driving-school/new-lenox/",
+   "opening_hours": "Mo-Fr 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9195011859",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
    "sponsored": false,
    "slug": "alamo-driving-school-minneapolis",
    "name": "Alamo Driving School",
@@ -60,7 +165,75 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 2,
+   "position": 5,
+   "sponsored": false,
+   "slug": "excel-driving-school-naperville",
+   "name": "Excel Driving School",
+   "summary": "Excel Driving School is a driving school in Naperville, IL at 412 West 5th Avenue, Naperville, IL 60563. Phone: +16309839235. Website: https://www.exceldrivingschool.com/statics/location?id=1.",
+   "categories": [
+    "driving school"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/excel-driving-school-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/excel-driving-school-naperville.json",
+   "address": {
+    "streetAddress": "412 West 5th Avenue",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60563",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60563",
+   "geo": {
+    "lat": 41.7804434,
+    "lon": -88.1548293
+   },
+   "phone": "+16309839235",
+   "website": "https://www.exceldrivingschool.com/statics/location?id=1",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8307889444",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "top-driver-naperville",
+   "name": "Top Driver",
+   "summary": "Top Driver is a driving school in Naperville, IL at 1013 West Ogden Avenue #B, Naperville, IL 60563. Phone: +18003748373. Website: https://www.topdriver.com/driving-school/naperville/.",
+   "categories": [
+    "driving school"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/top-driver-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/top-driver-naperville.json",
+   "address": {
+    "streetAddress": "1013 West Ogden Avenue #B",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60563",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60563",
+   "geo": {
+    "lat": 41.7848463,
+    "lon": -88.1683348
+   },
+   "phone": "+18003748373",
+   "website": "https://www.topdriver.com/driving-school/naperville/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5269185462",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
    "sponsored": false,
    "slug": "plymouth-dvs-exam-station-plymouth",
    "name": "Plymouth DVS Exam Station",
@@ -94,7 +267,439 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 3,
+   "position": 8,
+   "sponsored": false,
+   "slug": "adams-driving-school-wauconda",
+   "name": "Adams Driving School",
+   "summary": "Adams Driving School is a driving school in Wauconda, IL at 205 North Main Street, Wauconda, IL 60084. Website: https://adamsdrivingschool.com/.",
+   "categories": [
+    "driving school"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/adams-driving-school-wauconda/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/adams-driving-school-wauconda.json",
+   "address": {
+    "streetAddress": "205 North Main Street",
+    "addressLocality": "Wauconda",
+    "addressRegion": "IL",
+    "postalCode": "60084",
+    "addressCountry": "US"
+   },
+   "city": "Wauconda",
+   "state": "IL",
+   "zip": "60084",
+   "geo": {
+    "lat": 42.2592984,
+    "lon": -88.1404233
+   },
+   "website": "https://adamsdrivingschool.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9316625031",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "american-defensive-driving-school-evanston",
+   "name": "American Defensive Driving School",
+   "summary": "American Defensive Driving School is a driving school in Evanston, IL at 1640 Orrington Avenue, Evanston, IL 60201. Phone: +18474251640.",
+   "categories": [
+    "driving school"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/american-defensive-driving-school-evanston/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/american-defensive-driving-school-evanston.json",
+   "address": {
+    "streetAddress": "1640 Orrington Avenue",
+    "addressLocality": "Evanston",
+    "addressRegion": "IL",
+    "postalCode": "60201",
+    "addressCountry": "US"
+   },
+   "city": "Evanston",
+   "state": "IL",
+   "zip": "60201",
+   "geo": {
+    "lat": 42.0480427,
+    "lon": -87.6811433
+   },
+   "phone": "+18474251640",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2295226402",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "adams-school-of-driving-morton-grove",
+   "name": "Adams School of Driving",
+   "summary": "Adams School of Driving is a driving school in Morton Grove, IL at 6040 West Dempster Street, Morton Grove, IL 60053.",
+   "categories": [
+    "driving school"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/adams-school-of-driving-morton-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/adams-school-of-driving-morton-grove.json",
+   "address": {
+    "streetAddress": "6040 West Dempster Street",
+    "addressLocality": "Morton Grove",
+    "addressRegion": "IL",
+    "postalCode": "60053",
+    "addressCountry": "US"
+   },
+   "city": "Morton Grove",
+   "state": "IL",
+   "zip": "60053",
+   "geo": {
+    "lat": 42.0410508,
+    "lon": -87.7784073
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6263187292",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 11,
+   "sponsored": false,
+   "slug": "nova-driving-school-evanston",
+   "name": "Nova Driving School",
+   "summary": "Nova Driving School is a driving school in Evanston, IL at 1910 Main Street, Evanston, IL 60202.",
+   "categories": [
+    "driving school"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/nova-driving-school-evanston/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/nova-driving-school-evanston.json",
+   "address": {
+    "streetAddress": "1910 Main Street",
+    "addressLocality": "Evanston",
+    "addressRegion": "IL",
+    "postalCode": "60202",
+    "addressCountry": "US"
+   },
+   "city": "Evanston",
+   "state": "IL",
+   "zip": "60202",
+   "geo": {
+    "lat": 42.0336897,
+    "lon": -87.6999765
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2294252189",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 12,
+   "sponsored": false,
+   "slug": "top-driver-homer-glen",
+   "name": "Top Driver",
+   "summary": "Top Driver is a driving school in Homer Glen, IL at 14317 South Golden Oak Drive, Homer Glen, IL 60491.",
+   "categories": [
+    "driving school"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/top-driver-homer-glen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/top-driver-homer-glen.json",
+   "address": {
+    "streetAddress": "14317 South Golden Oak Drive",
+    "addressLocality": "Homer Glen",
+    "addressRegion": "IL",
+    "postalCode": "60491",
+    "addressCountry": "US"
+   },
+   "city": "Homer Glen",
+   "state": "IL",
+   "zip": "60491",
+   "geo": {
+    "lat": 41.6283805,
+    "lon": -87.9389108
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11132972526",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
+   "sponsored": false,
+   "slug": "top-driver-driving-school-western-springs",
+   "name": "Top Driver Driving School",
+   "summary": "Top Driver Driving School is a driving school in Western Springs, IL at 810 Hillgrove Avenue, Western Springs, IL 60558.",
+   "categories": [
+    "driving school"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/top-driver-driving-school-western-springs/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/top-driver-driving-school-western-springs.json",
+   "address": {
+    "streetAddress": "810 Hillgrove Avenue",
+    "addressLocality": "Western Springs",
+    "addressRegion": "IL",
+    "postalCode": "60558",
+    "addressCountry": "US"
+   },
+   "city": "Western Springs",
+   "state": "IL",
+   "zip": "60558",
+   "geo": {
+    "lat": 41.8099011,
+    "lon": -87.8992958
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9603226068",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 14,
+   "sponsored": false,
+   "slug": "ultimate-driving-school-homer-glen",
+   "name": "Ultimate Driving School",
+   "summary": "Ultimate Driving School is a driving school in Homer Glen, IL at 14318 South Golden Oak Drive, Homer Glen, IL 60491.",
+   "categories": [
+    "driving school"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ultimate-driving-school-homer-glen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ultimate-driving-school-homer-glen.json",
+   "address": {
+    "streetAddress": "14318 South Golden Oak Drive",
+    "addressLocality": "Homer Glen",
+    "addressRegion": "IL",
+    "postalCode": "60491",
+    "addressCountry": "US"
+   },
+   "city": "Homer Glen",
+   "state": "IL",
+   "zip": "60491",
+   "geo": {
+    "lat": 41.6283538,
+    "lon": -87.9412267
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11126901190",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 15,
+   "sponsored": false,
+   "slug": "warsaw-driving-school-chicago",
+   "name": "Warsaw Driving School",
+   "summary": "Warsaw Driving School is a driving school in Chicago, IL at 4517 North Milwaukee Avenue, Chicago, IL 60630.",
+   "categories": [
+    "driving school"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/warsaw-driving-school-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/warsaw-driving-school-chicago.json",
+   "address": {
+    "streetAddress": "4517 North Milwaukee Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60630",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60630",
+   "geo": {
+    "lat": 41.9629841,
+    "lon": -87.7563141
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4269213226",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 16,
+   "sponsored": false,
+   "slug": "a-delta-driving-school-cicero",
+   "name": "A-Delta Driving School",
+   "summary": "A-Delta Driving School is a driving school in Cicero, IL.",
+   "categories": [
+    "driving school"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/a-delta-driving-school-cicero/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/a-delta-driving-school-cicero.json",
+   "address": {
+    "addressLocality": "Cicero",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Cicero",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8514323,
+    "lon": -87.7538617
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/354232985",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 17,
+   "sponsored": false,
+   "slug": "acapulco-driving-school-chicago",
+   "name": "Acapulco Driving School",
+   "summary": "Acapulco Driving School is a driving school in Chicago, IL.",
+   "categories": [
+    "driving school"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/acapulco-driving-school-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/acapulco-driving-school-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8516993,
+    "lon": -87.6983874
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/354228067",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 18,
+   "sponsored": false,
+   "slug": "borenquen-driving-school-chicago",
+   "name": "Borenquen Driving School",
+   "summary": "Borenquen Driving School is a driving school in Chicago, IL.",
+   "categories": [
+    "driving school"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/borenquen-driving-school-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/borenquen-driving-school-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9003101,
+    "lon": -87.6958886
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/354233598",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 19,
+   "sponsored": false,
+   "slug": "central-driving-academy-chicago",
+   "name": "Central Driving Academy",
+   "summary": "Central Driving Academy is a driving school in Chicago, IL.",
+   "categories": [
+    "driving school"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/central-driving-academy-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/central-driving-academy-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9250544,
+    "lon": -87.6654797
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12464017202",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 20,
+   "sponsored": false,
+   "slug": "chicago-truck-driving-school-chicago",
+   "name": "Chicago Truck Driving School",
+   "summary": "Chicago Truck Driving School is a driving school in Chicago, IL.",
+   "categories": [
+    "driving school"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chicago-truck-driving-school-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chicago-truck-driving-school-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7590338,
+    "lon": -87.6801699
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/209660675",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 21,
+   "sponsored": false,
+   "slug": "diesel-truck-driver-training-school-chicago",
+   "name": "Diesel Truck Driver Training School",
+   "summary": "Diesel Truck Driver Training School is a driving school in Chicago, IL.",
+   "categories": [
+    "driving school"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/diesel-truck-driver-training-school-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/diesel-truck-driver-training-school-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9500317,
+    "lon": -87.7470029
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/354233717",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 22,
    "sponsored": false,
    "slug": "esse-driving-school-edina",
    "name": "ESSE Driving School",
@@ -121,6 +726,428 @@
    "source": "OpenStreetMap",
    "source_url": "https://www.openstreetmap.org/node/3840269106",
    "last_checked": "2026-10-17"
+  },
+  {
+   "position": 23,
+   "sponsored": false,
+   "slug": "excel-driving-school-western-springs",
+   "name": "Excel Driving School",
+   "summary": "Excel Driving School is a driving school in Western Springs, IL.",
+   "categories": [
+    "driving school"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/excel-driving-school-western-springs/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/excel-driving-school-western-springs.json",
+   "address": {
+    "addressLocality": "Western Springs",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Western Springs",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8033483,
+    "lon": -87.8913108
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9525629411",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 24,
+   "sponsored": false,
+   "slug": "juarez-driving-school-chicago",
+   "name": "Juarez Driving School",
+   "summary": "Juarez Driving School is a driving school in Chicago, IL.",
+   "categories": [
+    "driving school"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/juarez-driving-school-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/juarez-driving-school-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8578354,
+    "lon": -87.6551919
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13939640312",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 25,
+   "sponsored": false,
+   "slug": "lane-tech-drivers-ed-chicago",
+   "name": "Lane Tech Drivers Ed",
+   "summary": "Lane Tech Drivers Ed is a driving school in Chicago, IL.",
+   "categories": [
+    "driving school"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lane-tech-drivers-ed-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lane-tech-drivers-ed-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9440511,
+    "lon": -87.6906124
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6969635216",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 26,
+   "sponsored": false,
+   "slug": "midway-driving-school-chicago",
+   "name": "Midway Driving School",
+   "summary": "Midway Driving School is a driving school in Chicago, IL.",
+   "categories": [
+    "driving school"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/midway-driving-school-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/midway-driving-school-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7389235,
+    "lon": -87.5847693
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/354236468",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 27,
+   "sponsored": false,
+   "slug": "nationwide-trucking-school-chicago",
+   "name": "Nationwide Trucking School",
+   "summary": "Nationwide Trucking School is a driving school in Chicago, IL.",
+   "categories": [
+    "driving school"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/nationwide-trucking-school-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/nationwide-trucking-school-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7692001,
+    "lon": -87.6831069
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/354235957",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 28,
+   "sponsored": false,
+   "slug": "responsible-driver-la-grange",
+   "name": "Responsible Driver",
+   "summary": "Responsible Driver is a driving school in La Grange, IL.",
+   "categories": [
+    "driving school"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/responsible-driver-la-grange/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/responsible-driver-la-grange.json",
+   "address": {
+    "addressLocality": "La Grange",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "La Grange",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8022422,
+    "lon": -87.8689405
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10725347209",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 29,
+   "sponsored": false,
+   "slug": "ride-chicago-chicago",
+   "name": "Ride Chicago",
+   "summary": "Ride Chicago is a driving school in Chicago, IL.",
+   "categories": [
+    "driving school"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ride-chicago-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ride-chicago-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8792373,
+    "lon": -87.6769389
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2796803740",
+   "last_checked": "2026-10-17"
   }
- ]
+ ],
+ "market": {
+  "keyword": "driving school",
+  "slug": "driving-school",
+  "base_keyword": "driving school",
+  "scope": "national",
+  "city": null,
+  "state": null,
+  "category": "Education & childcare",
+  "industry": "Education & Instruction",
+  "us_monthly_searches": {
+   "value": 40000,
+   "range": [
+    22000,
+    60000
+   ],
+   "method": "estimate",
+   "estimate_method": "median of 111 cited US volumes for 'med'-demand keywords in the local_services research; rounded to 2 significant figures; range = 25th-75th percentile",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "confidence": "low"
+  },
+  "local_monthly_searches": null,
+  "cpc_usd": {
+   "industry_benchmark": "Education & Instruction",
+   "low_usd": 4.81,
+   "median_usd": 4.81,
+   "high_usd": 6.23,
+   "method": "published benchmarks: low/high = range of the industry and sub-industry median CPCs listed in 'figures'; median = most specific benchmark",
+   "figures": [
+    {
+     "usd": 4.81,
+     "label": "Education & Instruction median CPC 2026",
+     "source": "wordstream_2026"
+    },
+    {
+     "usd": 6.23,
+     "label": "Education & Instruction median CPC 2025",
+     "source": "wordstream_2025"
+    }
+   ],
+   "source": "wordstream_2026",
+   "as_of": "2026",
+   "basis_for_value": {
+    "usd": 4.81,
+    "method": "benchmark median CPC",
+    "source": "wordstream_2026"
+   }
+  },
+  "ctr_pct": {
+   "value": 5.74,
+   "label": "Education & Instruction average search-ad CTR 2025",
+   "source": "wordstream_2025",
+   "as_of": "2025-03"
+  },
+  "competition": {
+   "level": "medium",
+   "method": "proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research)",
+   "source": "wordstream_2026",
+   "as_of": "2026"
+  },
+  "trend": null,
+  "seasonality": {
+   "value": null,
+   "note": "No seasonality data in the research sources for this keyword."
+  },
+  "ai_query": {
+   "text": "No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.",
+   "figures": [
+    {
+     "value": "45%",
+     "label": "US adults using AI for local recommendations",
+     "source": "brightlocal_lcrs_2026"
+    },
+    {
+     "value": "75%",
+     "label": "sessions with keyword-style prompts",
+     "source": "sagapixel_sel"
+    },
+    {
+     "value": "59%",
+     "label": "local-intent prompts that triggered web search",
+     "source": "nectiv"
+    }
+   ],
+   "as_of": "2026"
+  },
+  "registry_competitors": {
+   "value": 29,
+   "slugs": [
+    "a-delta-driving-school-cicero",
+    "acapulco-driving-school-chicago",
+    "adams-driving-school-wauconda",
+    "adams-school-of-driving-morton-grove",
+    "alamo-driving-school-minneapolis",
+    "american-defensive-driving-school-evanston",
+    "borenquen-driving-school-chicago",
+    "central-driving-academy-chicago",
+    "chicago-truck-driving-school-chicago",
+    "diesel-truck-driver-training-school-chicago"
+   ],
+   "method_id": "competitors",
+   "source": "registry",
+   "as_of": "2026-10-18",
+   "urls": [
+    "https://dingalinged-cpu.github.io/registry/c/a-delta-driving-school-cicero/",
+    "https://dingalinged-cpu.github.io/registry/c/acapulco-driving-school-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/adams-driving-school-wauconda/",
+    "https://dingalinged-cpu.github.io/registry/c/adams-school-of-driving-morton-grove/",
+    "https://dingalinged-cpu.github.io/registry/c/alamo-driving-school-minneapolis/",
+    "https://dingalinged-cpu.github.io/registry/c/american-defensive-driving-school-evanston/",
+    "https://dingalinged-cpu.github.io/registry/c/borenquen-driving-school-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/central-driving-academy-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/chicago-truck-driving-school-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/diesel-truck-driver-training-school-chicago/"
+   ],
+   "method": "count of registry listings tagged with the keyword (city/national) or with the base service in the same state (state keywords)"
+  },
+  "agent_demand": null,
+  "agent_demand_note": "Not yet measured. Will carry AI-agent query counts from the registry's agent analytics (contract: meta.agent_demand_contract in the market index).",
+  "equivalent_google_ads_cost_month": {
+   "value_usd": 11000,
+   "method": "estimate",
+   "method_id": "google_ads_equiv",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote."
+  },
+  "search_value_index": {
+   "value_usd": 190000,
+   "method": "estimate",
+   "method_id": "value_index",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: search value index = monthly searches x CPC basis; an advertiser-value ranking signal, not revenue; rounded to 2 significant figures."
+  },
+  "auction": {
+   "featured_spot_min_usd": 100,
+   "spots_2_to_4_min_usd": 10,
+   "tier": "mid",
+   "pricing_rule": "tier minimum (premium $500, high $250, mid $100, standard $50) for national keywords; city = max($10, 20% of tier); state = max($10, 35% of tier); spots 2-4 open at 10% of the featured minimum",
+   "model": "Monthly auction in the last 7 days of each month: days 1-5 bid for the Featured #1 spot, days 6-7 for spots 2-4; winners display all next month; all paid spots labeled Sponsored.",
+   "next_auctions": [
+    {
+     "display_month": "2026-11",
+     "featured_spot_bidding": [
+      "2026-10-25",
+      "2026-10-29"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-10-30",
+      "2026-10-31"
+     ]
+    },
+    {
+     "display_month": "2026-12",
+     "featured_spot_bidding": [
+      "2026-11-24",
+      "2026-11-28"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-11-29",
+      "2026-11-30"
+     ]
+    }
+   ],
+   "source": "registry_auction",
+   "as_of": "2026-10-18"
+  },
+  "sources": {
+   "brightlocal_lcrs_2026": {
+    "name": "BrightLocal Local Consumer Review Survey 2026 (n=1,002 US adults)",
+    "url": "https://www.brightlocal.com/research/lcrs-ai-trust/",
+    "as_of": "2026"
+   },
+   "nectiv": {
+    "name": "Nectiv study of 8,500+ ChatGPT prompts",
+    "url": "https://nectivdigital.com/blog/new-data-study-what-queries-is-chatgpt-using-behind-the-scenes",
+    "as_of": "2025"
+   },
+   "registry": {
+    "name": "This registry's own listings (OpenStreetMap-seeded, ODbL)",
+    "url": "https://dingalinged-cpu.github.io/registry/api/companies.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_auction": {
+    "name": "Registry keyword auction catalog and rules",
+    "url": "https://dingalinged-cpu.github.io/registry/api/keyword-prices.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_estimate": {
+    "name": "Registry estimate (CC-BY-4.0); method given on each value",
+    "url": "https://dingalinged-cpu.github.io/registry/market/",
+    "as_of": "2026-10-18"
+   },
+   "sagapixel_sel": {
+    "name": "Sagapixel ChatGPT local-services sessions, via Search Engine Land",
+    "url": "https://searchengineland.com/chatgpt-users-keywords-for-local-services-data-467715",
+    "as_of": "2026-01"
+   },
+   "wordstream_2025": {
+    "name": "WordStream Google Ads Benchmarks 2025 (16,446 US campaigns, Apr 2024-Mar 2025; median CPC and CTR by industry)",
+    "url": "https://www.wordstream.com/blog/2025-google-ads-benchmarks",
+    "as_of": "2025-03"
+   },
+   "wordstream_2026": {
+    "name": "LocaliQ/WordStream Search Advertising Benchmarks 2026 (US median CPC by industry)",
+    "url": "https://www.localiq.com/blog/search-advertising-benchmarks",
+    "as_of": "2026"
+   }
+  },
+  "license": {
+   "registry_estimates": "CC-BY-4.0",
+   "url": "https://creativecommons.org/licenses/by/4.0/",
+   "cited_figures": "attribute to the publishers in sources"
+  },
+  "as_of": "2026-10-18",
+  "api": "https://dingalinged-cpu.github.io/registry/api/market/driving-school.json",
+  "rate_card": "https://dingalinged-cpu.github.io/registry/view/market.html#driving-school"
+ }
 }

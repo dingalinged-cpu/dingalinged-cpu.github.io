@@ -1,0 +1,54 @@
+{
+ "slug": "carmax-tinley-park",
+ "name": "CarMax",
+ "categories": [
+  "used cars for sale"
+ ],
+ "keywords": [
+  "used cars for sale",
+  "used cars for sale tinley park il"
+ ],
+ "services": [
+  {
+   "name": "used cars for sale",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Tinley Park",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Tinley Park",
+ "state": "IL",
+ "geo": {
+  "lat": 41.548604,
+  "lon": -87.7860477
+ },
+ "website": "https://www.carmax.com/stores/7123",
+ "brand": "CarMax",
+ "wikidata": "Q5037190",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/437711457",
+ "osm": {
+  "type": "way",
+  "id": 437711457,
+  "tags_used": {
+   "shop": "car"
+  }
+ },
+ "municipality": "Tinley Park",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/carmax-tinley-park/",
+ "summary": "CarMax is an used car dealer in Tinley Park, IL. Website: https://www.carmax.com/stores/7123.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

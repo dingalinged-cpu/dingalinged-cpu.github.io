@@ -1,0 +1,59 @@
+{
+ "slug": "petsmart-tinley-park",
+ "name": "PetSmart",
+ "categories": [
+  "pet store"
+ ],
+ "keywords": [
+  "pet store",
+  "pet store tinley park il"
+ ],
+ "services": [
+  {
+   "name": "pet store",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "7340 West 191st Street",
+  "addressLocality": "Tinley Park",
+  "addressRegion": "IL",
+  "postalCode": "60487",
+  "addressCountry": "US"
+ },
+ "city": "Tinley Park",
+ "state": "IL",
+ "zip": "60487",
+ "geo": {
+  "lat": 41.5468069,
+  "lon": -87.7978724
+ },
+ "phone": "+18154643041",
+ "website": "https://www.petsmart.com/stores/us/il/tinley-park-store1641.html",
+ "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+ "brand": "PetSmart",
+ "wikidata": "Q3307147",
+ "schema_type": "PetStore",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/8370768973",
+ "osm": {
+  "type": "node",
+  "id": 8370768973,
+  "tags_used": {
+   "shop": "pet"
+  }
+ },
+ "municipality": "Tinley Park",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/petsmart-tinley-park/",
+ "summary": "PetSmart is a pet store in Tinley Park, IL at 7340 West 191st Street, Tinley Park, IL 60487. Phone: +18154643041. Website: https://www.petsmart.com/stores/us/il/tinley-park-store1641.html.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,58 @@
+{
+ "slug": "impact-body-works-schiller-park",
+ "name": "Impact Body Works",
+ "categories": [
+  "auto repair"
+ ],
+ "keywords": [
+  "auto repair",
+  "mechanic",
+  "auto repair schiller park il",
+  "mechanic schiller park il"
+ ],
+ "services": [
+  {
+   "name": "auto repair",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "mechanic",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "9671 Cary Avenue",
+  "addressLocality": "Schiller Park",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Schiller Park",
+ "state": "IL",
+ "geo": {
+  "lat": 41.9486975,
+  "lon": -87.8690204
+ },
+ "schema_type": "AutoRepair",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/1284412176",
+ "osm": {
+  "type": "way",
+  "id": 1284412176,
+  "tags_used": {
+   "shop": "car_repair"
+  }
+ },
+ "municipality": "Schiller Park",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/impact-body-works-schiller-park/",
+ "summary": "Impact Body Works is an auto repair shop in Schiller Park, IL at 9671 Cary Avenue, Schiller Park, IL.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

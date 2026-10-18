@@ -1,0 +1,55 @@
+{
+ "slug": "serbian-social-center-lansing",
+ "name": "Serbian Social Center",
+ "categories": [
+  "event venues"
+ ],
+ "keywords": [
+  "event venues",
+  "event venues lansing il"
+ ],
+ "services": [
+  {
+   "name": "event venues",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "18550 Stony Island Avenue",
+  "addressLocality": "Lansing",
+  "addressRegion": "IL",
+  "postalCode": "60438",
+  "addressCountry": "US"
+ },
+ "city": "Lansing",
+ "state": "IL",
+ "zip": "60438",
+ "geo": {
+  "lat": 41.5582533,
+  "lon": -87.5794812
+ },
+ "website": "https://www.serbiansocialcenter.com/",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/1149003677",
+ "osm": {
+  "type": "way",
+  "id": 1149003677,
+  "tags_used": {
+   "amenity": "events_venue"
+  }
+ },
+ "municipality": "Lansing",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/serbian-social-center-lansing/",
+ "summary": "Serbian Social Center is an event venue in Lansing, IL at 18550 Stony Island Avenue, Lansing, IL 60438. Website: https://www.serbiansocialcenter.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

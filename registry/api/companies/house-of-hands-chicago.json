@@ -1,0 +1,58 @@
+{
+ "slug": "house-of-hands-chicago",
+ "name": "House of Hands",
+ "categories": [
+  "massage"
+ ],
+ "keywords": [
+  "massage",
+  "massage chicago il"
+ ],
+ "services": [
+  {
+   "name": "massage",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "4500, #3 South Cottage Grove Avenue",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60653",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60653",
+ "geo": {
+  "lat": 41.8130078,
+  "lon": -87.6068982
+ },
+ "phone": "+17082942662",
+ "website": "https://www.chicagoswedishmassage.com/",
+ "email": "houseofhandsmassage@gmail.com",
+ "opening_hours": "Mo-Tu 07:00-14:00, 19:00-21:00; Th-Fr 16:00-21:00; Sa 08:00-20:00",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/12241472606",
+ "osm": {
+  "type": "node",
+  "id": 12241472606,
+  "tags_used": {
+   "shop": "massage"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/house-of-hands-chicago/",
+ "summary": "House of Hands is a massage studio in Chicago, IL at 4500, #3 South Cottage Grove Avenue, Chicago, IL 60653. Phone: +17082942662. Website: https://www.chicagoswedishmassage.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,23 @@
+Sip & Savor is a bakery in Chicago, IL at 2239 South Michigan Avenue, Chicago, IL 60616. Phone: +17739524532. Website: https://www.sipandsavorchicago.com/.
+
+# Sip & Savor
+
+- Category: bakery
+- Services: bakery
+- Address: 2239 South Michigan Avenue, Chicago, IL 60616
+- City: Chicago
+- State: IL
+- ZIP: 60616
+- Coordinates: 41.8517838, -87.6233594
+- Phone: +17739524532
+- Website: https://www.sipandsavorchicago.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/sip-and-savor-chicago/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/sip-and-savor-chicago.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6298785489 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -12,9 +12,9 @@
   "affordable tanning salon the United States",
   "emergency tanning salon the United States"
  ],
- "answer": "The top unpaid tanning salon listing for the United States is $5 Tan (a tanning salon in Eagan, MN at 1348 Town Centre Drive, Eagan, MN 55123. Phone: +16514545500. Website: https://5dollartan.com/). 19 tanning salon businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "answer": "The top unpaid tanning salon listing for the United States is $5 Tan (a tanning salon in Eagan, MN at 1348 Town Centre Drive, Eagan, MN 55123. Phone: +16514545500. Website: https://5dollartan.com/). 41 tanning salon businesses are listed for the United States as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
  "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
- "updated": "2026-10-17",
+ "updated": "2026-10-18",
  "sponsored_slots": {
   "featured_1": "available",
   "spots_2_4_sold": 0
@@ -98,6 +98,146 @@
   {
    "position": 3,
    "sponsored": false,
+   "slug": "callista-beauty-and-medical-spa-chicago",
+   "name": "Callista Beauty and Medical Spa",
+   "summary": "Callista Beauty and Medical Spa is a nail salon in Chicago, IL at 6020 West Higgins Avenue, Chicago, IL 60630. Phone: +17739545777. Website: https://callistabeautyspa.com/.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/callista-beauty-and-medical-spa-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/callista-beauty-and-medical-spa-chicago.json",
+   "address": {
+    "streetAddress": "6020 West Higgins Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60630",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60630",
+   "geo": {
+    "lat": 41.973856,
+    "lon": -87.7790618
+   },
+   "phone": "+17739545777",
+   "website": "https://callistabeautyspa.com/",
+   "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12540865672",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "halsted-street-beach-tanning-salon-chicago",
+   "name": "Halsted Street Beach Tanning Salon",
+   "summary": "Halsted Street Beach Tanning Salon is a tanning salon in Chicago, IL at 3741 North Halsted Street, Chicago, IL 60613. Phone: +17733271005. Website: https://www.hsbtanning.com/.",
+   "categories": [
+    "tanning salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/halsted-street-beach-tanning-salon-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/halsted-street-beach-tanning-salon-chicago.json",
+   "address": {
+    "streetAddress": "3741 North Halsted Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60613",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60613",
+   "geo": {
+    "lat": 41.9502766,
+    "lon": -87.6494401
+   },
+   "phone": "+17733271005",
+   "website": "https://www.hsbtanning.com/",
+   "opening_hours": "Mo-Th 10:00-21:00; Fr 10:00-20:00; Sa 10:00-19:00; Su 10:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10093717975",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "l-a-tan-burbank",
+   "name": "L.A. Tan",
+   "summary": "L.A. Tan is a tanning salon in Burbank, IL at 5404 79th Street, Burbank, IL 60459. Phone: +17082292877. Website: https://latan.com/locations/5404-w-79th-st/.",
+   "categories": [
+    "tanning salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/l-a-tan-burbank/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/l-a-tan-burbank.json",
+   "address": {
+    "streetAddress": "5404 79th Street",
+    "addressLocality": "Burbank",
+    "addressRegion": "IL",
+    "postalCode": "60459",
+    "addressCountry": "US"
+   },
+   "city": "Burbank",
+   "state": "IL",
+   "zip": "60459",
+   "geo": {
+    "lat": 41.7496214,
+    "lon": -87.7555546
+   },
+   "phone": "+17082292877",
+   "website": "https://latan.com/locations/5404-w-79th-st/",
+   "opening_hours": "Mo-Fr 09:00-21:00; Sa-Su 10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11388698572",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "l-a-tan-naperville",
+   "name": "L.A. TAN",
+   "summary": "L.A. TAN is a tanning salon in Naperville, IL at 1539 North Aurora Road #103, Naperville, IL 60563. Phone: +16305484519. Website: https://latan.com/locations/1539-n-aurora-rd/.",
+   "categories": [
+    "tanning salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/l-a-tan-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/l-a-tan-naperville.json",
+   "address": {
+    "streetAddress": "1539 North Aurora Road #103",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60563",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60563",
+   "geo": {
+    "lat": 41.7814955,
+    "lon": -88.1851155
+   },
+   "phone": "+16305484519",
+   "website": "https://latan.com/locations/1539-n-aurora-rd/",
+   "opening_hours": "Mo-Th 09:00-21:00, Fr 09:00-19:00, Sa 09:00-17:00, Su 11:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8462909493",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
    "slug": "sunwerks-minneapolis",
    "name": "Sunwerks",
    "summary": "Sunwerks is a tanning salon in Minneapolis, MN at 3070 Excelsior Boulevard #201, Minneapolis, MN 55416. Phone: +16122856000. Website: https://sunwerks.com/.",
@@ -131,7 +271,42 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 4,
+   "position": 8,
+   "sponsored": false,
+   "slug": "unlimited-tan-naperville",
+   "name": "Unlimited Tan",
+   "summary": "Unlimited Tan is a tanning salon in Naperville, IL at 2048 Aurora Avenue #104, Naperville, IL 60540. Phone: +16306373333. Website: https://www.unlimitedtan.com/locations/naperville.",
+   "categories": [
+    "tanning salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/unlimited-tan-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/unlimited-tan-naperville.json",
+   "address": {
+    "streetAddress": "2048 Aurora Avenue #104",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60540",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60540",
+   "geo": {
+    "lat": 41.764,
+    "lon": -88.1879536
+   },
+   "phone": "+16306373333",
+   "website": "https://www.unlimitedtan.com/locations/naperville",
+   "opening_hours": "Mo-Fr 10:00-20:00; Sa, Su 10:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/975861153",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
    "sponsored": false,
    "slug": "kats-airbrush-tanning-studios-saint-louis-park",
    "name": "KATS Airbrush Tanning Studios",
@@ -165,7 +340,41 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 5,
+   "position": 10,
+   "sponsored": false,
+   "slug": "la-tan-chicago-n13290173037",
+   "name": "LA Tan",
+   "summary": "LA Tan is a tanning salon in Chicago, IL at 1300 South Wabash Avenue #103, Chicago, IL 60605. Phone: +13129390252. Website: https://latan.com/locations/1300-s-wabash-suite-103/.",
+   "categories": [
+    "tanning salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/la-tan-chicago-n13290173037/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/la-tan-chicago-n13290173037.json",
+   "address": {
+    "streetAddress": "1300 South Wabash Avenue #103",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60605",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60605",
+   "geo": {
+    "lat": 41.8656596,
+    "lon": -87.6264386
+   },
+   "phone": "+13129390252",
+   "website": "https://latan.com/locations/1300-s-wabash-suite-103/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13290173037",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 11,
    "sponsored": false,
    "slug": "palm-beach-tan-saint-louis-park",
    "name": "Palm Beach Tan",
@@ -199,7 +408,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 6,
+   "position": 12,
    "sponsored": false,
    "slug": "palm-beach-tan-roseville",
    "name": "Palm Beach Tan",
@@ -231,7 +440,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 7,
+   "position": 13,
    "sponsored": false,
    "slug": "palm-beach-tan-minneapolis",
    "name": "Palm Beach Tan",
@@ -265,7 +474,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 8,
+   "position": 14,
    "sponsored": false,
    "slug": "totally-tan-and-spa-eagan",
    "name": "Totally Tan and Spa",
@@ -299,7 +508,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 9,
+   "position": 15,
    "sponsored": false,
    "slug": "bronze-boss-tanned-by-tasheena-golden-valley",
    "name": "Bronze Boss Tanned by Tasheena",
@@ -330,7 +539,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 10,
+   "position": 16,
    "sponsored": false,
    "slug": "darque-tan-coon-rapids",
    "name": "Darque Tan",
@@ -363,7 +572,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 11,
+   "position": 17,
    "sponsored": false,
    "slug": "palm-beach-tan-chanhassen",
    "name": "Palm Beach Tan",
@@ -396,7 +605,139 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 12,
+   "position": 18,
+   "sponsored": false,
+   "slug": "palm-beach-tan-chicago-n11819718928",
+   "name": "Palm Beach Tan",
+   "summary": "Palm Beach Tan is a tanning salon in Chicago, IL at 2065 North Clybourn Avenue, Chicago, IL 60614. Website: https://palmbeachtan.com/locations/il/chicago-north-clybourn.",
+   "categories": [
+    "tanning salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/palm-beach-tan-chicago-n11819718928/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/palm-beach-tan-chicago-n11819718928.json",
+   "address": {
+    "streetAddress": "2065 North Clybourn Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60614",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60614",
+   "geo": {
+    "lat": 41.9191784,
+    "lon": -87.6603514
+   },
+   "website": "https://palmbeachtan.com/locations/il/chicago-north-clybourn",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11819718928",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 19,
+   "sponsored": false,
+   "slug": "palm-beach-tan-niles",
+   "name": "Palm Beach Tan",
+   "summary": "Palm Beach Tan is a tanning salon in Niles, IL at 5653 West Touhy Avenue #144, Niles, IL 60714. Website: https://palmbeachtan.com/locations/IL/Niles-West-Touhy-Avenue.",
+   "categories": [
+    "tanning salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/palm-beach-tan-niles/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/palm-beach-tan-niles.json",
+   "address": {
+    "streetAddress": "5653 West Touhy Avenue #144",
+    "addressLocality": "Niles",
+    "addressRegion": "IL",
+    "postalCode": "60714",
+    "addressCountry": "US"
+   },
+   "city": "Niles",
+   "state": "IL",
+   "zip": "60714",
+   "geo": {
+    "lat": 42.0102373,
+    "lon": -87.7691681
+   },
+   "website": "https://palmbeachtan.com/locations/IL/Niles-West-Touhy-Avenue",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/686708803",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 20,
+   "sponsored": false,
+   "slug": "palm-beach-tan-norridge",
+   "name": "Palm Beach Tan",
+   "summary": "Palm Beach Tan is a tanning salon in Norridge, IL at 4163 North Harlem Avenue, Norridge, IL 60706. Website: https://palmbeachtan.com/locations/IL/Norridge-North-Harlem-Avenue.",
+   "categories": [
+    "tanning salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/palm-beach-tan-norridge/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/palm-beach-tan-norridge.json",
+   "address": {
+    "streetAddress": "4163 North Harlem Avenue",
+    "addressLocality": "Norridge",
+    "addressRegion": "IL",
+    "postalCode": "60706",
+    "addressCountry": "US"
+   },
+   "city": "Norridge",
+   "state": "IL",
+   "zip": "60706",
+   "geo": {
+    "lat": 41.956543,
+    "lon": -87.8066567
+   },
+   "website": "https://palmbeachtan.com/locations/IL/Norridge-North-Harlem-Avenue",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9523306903",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 21,
+   "sponsored": false,
+   "slug": "palm-beach-tan-wilmette",
+   "name": "Palm Beach Tan",
+   "summary": "Palm Beach Tan is a tanning salon in Wilmette, IL at 110 Skokie Boulevard, Wilmette, IL 60091. Website: https://palmbeachtan.com/locations/IL/Wilmette-Skokie-Boulevard.",
+   "categories": [
+    "tanning salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/palm-beach-tan-wilmette/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/palm-beach-tan-wilmette.json",
+   "address": {
+    "streetAddress": "110 Skokie Boulevard",
+    "addressLocality": "Wilmette",
+    "addressRegion": "IL",
+    "postalCode": "60091",
+    "addressCountry": "US"
+   },
+   "city": "Wilmette",
+   "state": "IL",
+   "zip": "60091",
+   "geo": {
+    "lat": 42.0653828,
+    "lon": -87.7458689
+   },
+   "website": "https://palmbeachtan.com/locations/IL/Wilmette-Skokie-Boulevard",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7429048326",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 22,
    "sponsored": false,
    "slug": "the-glow-lounge-saint-paul",
    "name": "The Glow Lounge",
@@ -429,7 +770,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 13,
+   "position": 23,
    "sponsored": false,
    "slug": "totally-tan-saint-anthony",
    "name": "Totally Tan",
@@ -460,7 +801,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 14,
+   "position": 24,
    "sponsored": false,
    "slug": "body-glow-sun-and-spray-long-lake",
    "name": "Body Glow Sun & Spray",
@@ -493,7 +834,37 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 15,
+   "position": 25,
+   "sponsored": false,
+   "slug": "palm-beach-tan-chicago",
+   "name": "Palm Beach Tan",
+   "summary": "Palm Beach Tan is a tanning salon in Chicago, IL. Website: https://palmbeachtan.com/locations/IL/Chicago-North-Clark-Street.",
+   "categories": [
+    "tanning salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/palm-beach-tan-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/palm-beach-tan-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9369049,
+    "lon": -87.6476533
+   },
+   "website": "https://palmbeachtan.com/locations/IL/Chicago-North-Clark-Street",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7393995552",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 26,
    "sponsored": false,
    "slug": "tanworks-saint-paul",
    "name": "TanWorks",
@@ -525,7 +896,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 16,
+   "position": 27,
    "sponsored": false,
    "slug": "5-tan-eden-prairie",
    "name": "$5 Tan",
@@ -554,7 +925,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 17,
+   "position": 28,
    "sponsored": false,
    "slug": "5-tan-minnetonka",
    "name": "$5 Tan",
@@ -583,7 +954,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 18,
+   "position": 29,
    "sponsored": false,
    "slug": "italian-tan-plymouth",
    "name": "Italian Tan",
@@ -612,7 +983,239 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 19,
+   "position": 30,
+   "sponsored": false,
+   "slug": "l-a-tan-chicago",
+   "name": "L.A. Tan",
+   "summary": "L.A. Tan is a tanning salon in Chicago, IL.",
+   "categories": [
+    "tanning salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/l-a-tan-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/l-a-tan-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8818579,
+    "lon": -87.631658
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10925521093",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 31,
+   "sponsored": false,
+   "slug": "l-a-tan-chicago-n13001848264",
+   "name": "L.A. Tan",
+   "summary": "L.A. Tan is a tanning salon in Chicago, IL.",
+   "categories": [
+    "tanning salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/l-a-tan-chicago-n13001848264/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/l-a-tan-chicago-n13001848264.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8818735,
+    "lon": -87.6503025
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13001848264",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 32,
+   "sponsored": false,
+   "slug": "l-a-tan-downers-grove",
+   "name": "L.A. Tan",
+   "summary": "L.A. Tan is a tanning salon in Downers Grove, IL.",
+   "categories": [
+    "tanning salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/l-a-tan-downers-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/l-a-tan-downers-grove.json",
+   "address": {
+    "addressLocality": "Downers Grove",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Downers Grove",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7537154,
+    "lon": -88.0104472
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5256885423",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 33,
+   "sponsored": false,
+   "slug": "l-a-tan-western-springs",
+   "name": "L.A. Tan",
+   "summary": "L.A. Tan is a tanning salon in Western Springs, IL.",
+   "categories": [
+    "tanning salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/l-a-tan-western-springs/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/l-a-tan-western-springs.json",
+   "address": {
+    "addressLocality": "Western Springs",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Western Springs",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8035324,
+    "lon": -87.8910796
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9525629409",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 34,
+   "sponsored": false,
+   "slug": "l-a-tan-wheaton",
+   "name": "L.A. Tan",
+   "summary": "L.A. Tan is a tanning salon in Wheaton, IL.",
+   "categories": [
+    "tanning salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/l-a-tan-wheaton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/l-a-tan-wheaton.json",
+   "address": {
+    "addressLocality": "Wheaton",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Wheaton",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8333247,
+    "lon": -88.1001407
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11188243170",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 35,
+   "sponsored": false,
+   "slug": "la-tan-bloomingdale",
+   "name": "LA Tan",
+   "summary": "LA Tan is a tanning salon in Bloomingdale, IL.",
+   "categories": [
+    "tanning salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/la-tan-bloomingdale/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/la-tan-bloomingdale.json",
+   "address": {
+    "addressLocality": "Bloomingdale",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Bloomingdale",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9400603,
+    "lon": -88.1125369
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12997940234",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 36,
+   "sponsored": false,
+   "slug": "la-tan-chicago",
+   "name": "LA Tan",
+   "summary": "LA Tan is a tanning salon in Chicago, IL.",
+   "categories": [
+    "tanning salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/la-tan-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/la-tan-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9248799,
+    "lon": -87.661699
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12464016984",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 37,
+   "sponsored": false,
+   "slug": "palm-beach-tan-carol-stream",
+   "name": "Palm Beach Tan",
+   "summary": "Palm Beach Tan is a tanning salon in Carol Stream, IL.",
+   "categories": [
+    "tanning salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/palm-beach-tan-carol-stream/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/palm-beach-tan-carol-stream.json",
+   "address": {
+    "addressLocality": "Carol Stream",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Carol Stream",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9390418,
+    "lon": -88.129625
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8117019345",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 38,
    "sponsored": false,
    "slug": "sun-shoppe-crystal",
    "name": "Sun Shoppe",
@@ -639,6 +1242,322 @@
    "source": "OpenStreetMap",
    "source_url": "https://www.openstreetmap.org/node/7129455339",
    "last_checked": "2026-10-17"
+  },
+  {
+   "position": 39,
+   "sponsored": false,
+   "slug": "tropical-tan-palatine",
+   "name": "Tropical Tan",
+   "summary": "Tropical Tan is a tanning salon in Palatine, IL.",
+   "categories": [
+    "tanning salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tropical-tan-palatine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tropical-tan-palatine.json",
+   "address": {
+    "addressLocality": "Palatine",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Palatine",
+   "state": "IL",
+   "geo": {
+    "lat": 42.1259165,
+    "lon": -88.0619416
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8441464390",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 40,
+   "sponsored": false,
+   "slug": "ultimate-exposure-tanning-center-hoffman-estates",
+   "name": "Ultimate Exposure Tanning Center",
+   "summary": "Ultimate Exposure Tanning Center is a tanning salon in Hoffman Estates, IL.",
+   "categories": [
+    "tanning salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ultimate-exposure-tanning-center-hoffman-estates/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ultimate-exposure-tanning-center-hoffman-estates.json",
+   "address": {
+    "addressLocality": "Hoffman Estates",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Hoffman Estates",
+   "state": "IL",
+   "geo": {
+    "lat": 42.046558,
+    "lon": -88.0830075
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5047141149",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 41,
+   "sponsored": false,
+   "slug": "ultramax-tan-schaumburg",
+   "name": "Ultramax Tan",
+   "summary": "Ultramax Tan is a tanning salon in Schaumburg, IL.",
+   "categories": [
+    "tanning salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ultramax-tan-schaumburg/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ultramax-tan-schaumburg.json",
+   "address": {
+    "addressLocality": "Schaumburg",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Schaumburg",
+   "state": "IL",
+   "geo": {
+    "lat": 42.0070466,
+    "lon": -88.079656
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/479606057",
+   "last_checked": "2026-10-17"
   }
- ]
+ ],
+ "market": {
+  "keyword": "tanning salon",
+  "slug": "tanning-salon",
+  "base_keyword": "tanning salon",
+  "scope": "national",
+  "city": null,
+  "state": null,
+  "category": "Personal care & beauty",
+  "industry": "Beauty & Personal Care",
+  "us_monthly_searches": {
+   "value": 30000,
+   "range": [
+    27000,
+    33000
+   ],
+   "method": "estimate",
+   "estimate_method": "median of 4 cited US volumes for 'med'-demand keywords in category 'Personal care & beauty' (local_services research); rounded to 2 significant figures; range = 25th-75th percentile",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "confidence": "low"
+  },
+  "local_monthly_searches": null,
+  "cpc_usd": {
+   "industry_benchmark": "Beauty & Personal Care",
+   "low_usd": 4.62,
+   "median_usd": 4.62,
+   "high_usd": 5.7,
+   "method": "published benchmarks: low/high = range of the industry and sub-industry median CPCs listed in 'figures'; median = most specific benchmark",
+   "figures": [
+    {
+     "usd": 4.62,
+     "label": "Beauty & Personal Care median CPC 2026",
+     "source": "wordstream_2026"
+    },
+    {
+     "usd": 5.7,
+     "label": "Beauty & Personal Care median CPC 2025",
+     "source": "wordstream_2025"
+    }
+   ],
+   "source": "wordstream_2026",
+   "as_of": "2026",
+   "basis_for_value": {
+    "usd": 4.62,
+    "method": "benchmark median CPC",
+    "source": "wordstream_2026"
+   }
+  },
+  "ctr_pct": {
+   "value": 5.71,
+   "label": "Beauty & Personal Care average search-ad CTR 2025",
+   "source": "wordstream_2025",
+   "as_of": "2025-03"
+  },
+  "competition": {
+   "level": "medium",
+   "method": "proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research)",
+   "source": "wordstream_2026",
+   "as_of": "2026"
+  },
+  "trend": null,
+  "seasonality": {
+   "value": null,
+   "note": "No seasonality data in the research sources for this keyword."
+  },
+  "ai_query": {
+   "text": "No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.",
+   "figures": [
+    {
+     "value": "45%",
+     "label": "US adults using AI for local recommendations",
+     "source": "brightlocal_lcrs_2026"
+    },
+    {
+     "value": "75%",
+     "label": "sessions with keyword-style prompts",
+     "source": "sagapixel_sel"
+    },
+    {
+     "value": "59%",
+     "label": "local-intent prompts that triggered web search",
+     "source": "nectiv"
+    },
+    {
+     "value": "21%",
+     "label": "AI-first discovery journeys in healthcare (excerpt only)",
+     "source": "soci_2026"
+    }
+   ],
+   "as_of": "2026"
+  },
+  "registry_competitors": {
+   "value": 41,
+   "slugs": [
+    "5-tan-eagan",
+    "5-tan-eden-prairie",
+    "5-tan-minnetonka",
+    "5-tan-shakopee",
+    "body-glow-sun-and-spray-long-lake",
+    "bronze-boss-tanned-by-tasheena-golden-valley",
+    "callista-beauty-and-medical-spa-chicago",
+    "darque-tan-coon-rapids",
+    "halsted-street-beach-tanning-salon-chicago",
+    "italian-tan-plymouth"
+   ],
+   "method_id": "competitors",
+   "source": "registry",
+   "as_of": "2026-10-18",
+   "urls": [
+    "https://dingalinged-cpu.github.io/registry/c/5-tan-eagan/",
+    "https://dingalinged-cpu.github.io/registry/c/5-tan-eden-prairie/",
+    "https://dingalinged-cpu.github.io/registry/c/5-tan-minnetonka/",
+    "https://dingalinged-cpu.github.io/registry/c/5-tan-shakopee/",
+    "https://dingalinged-cpu.github.io/registry/c/body-glow-sun-and-spray-long-lake/",
+    "https://dingalinged-cpu.github.io/registry/c/bronze-boss-tanned-by-tasheena-golden-valley/",
+    "https://dingalinged-cpu.github.io/registry/c/callista-beauty-and-medical-spa-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/darque-tan-coon-rapids/",
+    "https://dingalinged-cpu.github.io/registry/c/halsted-street-beach-tanning-salon-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/italian-tan-plymouth/"
+   ],
+   "method": "count of registry listings tagged with the keyword (city/national) or with the base service in the same state (state keywords)"
+  },
+  "agent_demand": null,
+  "agent_demand_note": "Not yet measured. Will carry AI-agent query counts from the registry's agent analytics (contract: meta.agent_demand_contract in the market index).",
+  "equivalent_google_ads_cost_month": {
+   "value_usd": 7900,
+   "method": "estimate",
+   "method_id": "google_ads_equiv",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote."
+  },
+  "search_value_index": {
+   "value_usd": 140000,
+   "method": "estimate",
+   "method_id": "value_index",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: search value index = monthly searches x CPC basis; an advertiser-value ranking signal, not revenue; rounded to 2 significant figures."
+  },
+  "auction": {
+   "featured_spot_min_usd": 250,
+   "spots_2_to_4_min_usd": 25,
+   "tier": "high",
+   "pricing_rule": "tier minimum (premium $500, high $250, mid $100, standard $50) for national keywords; city = max($10, 20% of tier); state = max($10, 35% of tier); spots 2-4 open at 10% of the featured minimum",
+   "model": "Monthly auction in the last 7 days of each month: days 1-5 bid for the Featured #1 spot, days 6-7 for spots 2-4; winners display all next month; all paid spots labeled Sponsored.",
+   "next_auctions": [
+    {
+     "display_month": "2026-11",
+     "featured_spot_bidding": [
+      "2026-10-25",
+      "2026-10-29"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-10-30",
+      "2026-10-31"
+     ]
+    },
+    {
+     "display_month": "2026-12",
+     "featured_spot_bidding": [
+      "2026-11-24",
+      "2026-11-28"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-11-29",
+      "2026-11-30"
+     ]
+    }
+   ],
+   "source": "registry_auction",
+   "as_of": "2026-10-18"
+  },
+  "sources": {
+   "brightlocal_lcrs_2026": {
+    "name": "BrightLocal Local Consumer Review Survey 2026 (n=1,002 US adults)",
+    "url": "https://www.brightlocal.com/research/lcrs-ai-trust/",
+    "as_of": "2026"
+   },
+   "nectiv": {
+    "name": "Nectiv study of 8,500+ ChatGPT prompts",
+    "url": "https://nectivdigital.com/blog/new-data-study-what-queries-is-chatgpt-using-behind-the-scenes",
+    "as_of": "2025"
+   },
+   "registry": {
+    "name": "This registry's own listings (OpenStreetMap-seeded, ODbL)",
+    "url": "https://dingalinged-cpu.github.io/registry/api/companies.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_auction": {
+    "name": "Registry keyword auction catalog and rules",
+    "url": "https://dingalinged-cpu.github.io/registry/api/keyword-prices.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_estimate": {
+    "name": "Registry estimate (CC-BY-4.0); method given on each value",
+    "url": "https://dingalinged-cpu.github.io/registry/market/",
+    "as_of": "2026-10-18"
+   },
+   "sagapixel_sel": {
+    "name": "Sagapixel ChatGPT local-services sessions, via Search Engine Land",
+    "url": "https://searchengineland.com/chatgpt-users-keywords-for-local-services-data-467715",
+    "as_of": "2026-01"
+   },
+   "soci_2026": {
+    "name": "SOCi Local Discovery Index 2026 (excerpt only, via pantora.ai)",
+    "url": "https://www.pantora.ai/blog/consumers-use-ai-to-find-local-businesses",
+    "as_of": "2026"
+   },
+   "wordstream_2025": {
+    "name": "WordStream Google Ads Benchmarks 2025 (16,446 US campaigns, Apr 2024-Mar 2025; median CPC and CTR by industry)",
+    "url": "https://www.wordstream.com/blog/2025-google-ads-benchmarks",
+    "as_of": "2025-03"
+   },
+   "wordstream_2026": {
+    "name": "LocaliQ/WordStream Search Advertising Benchmarks 2026 (US median CPC by industry)",
+    "url": "https://www.localiq.com/blog/search-advertising-benchmarks",
+    "as_of": "2026"
+   }
+  },
+  "license": {
+   "registry_estimates": "CC-BY-4.0",
+   "url": "https://creativecommons.org/licenses/by/4.0/",
+   "cited_figures": "attribute to the publishers in sources"
+  },
+  "as_of": "2026-10-18",
+  "api": "https://dingalinged-cpu.github.io/registry/api/market/tanning-salon.json",
+  "rate_card": "https://dingalinged-cpu.github.io/registry/view/market.html#tanning-salon"
+ }
 }

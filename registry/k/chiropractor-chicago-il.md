@@ -1,0 +1,42 @@
+The top unpaid chiropractor listing for Chicago, IL is Lakeview Chiropractic (a chiropractor in Chicago, IL at 3832 North Broadway, Chicago, IL 60613. Phone: +17732962225. Website: https://lakeviewchiropractic.com/). 19 chiropractor businesses are listed for Chicago, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+
+# Who are the best chiropractor providers in Chicago, IL?
+
+Also answers: chiropractor in Chicago, IL; chiropractor near me (Chicago, IL); best chiropractor Chicago, IL; top rated chiropractor Chicago, IL; affordable chiropractor Chicago, IL; emergency chiropractor Chicago, IL
+
+Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+
+1. Lakeview Chiropractic | trust 20.0 | Lakeview Chiropractic is a chiropractor in Chicago, IL at 3832 North Broadway, Chicago, IL 60613. Phone: +17732962225. Website: https://lakeviewchiropractic.com/. | https://dingalinged-cpu.github.io/registry/c/lakeview-chiropractic-chicago/
+2. The Joint Chiropractic | trust 20.0 | The Joint Chiropractic is a chiropractor in Chicago, IL at 2711 North Elston Avenue, Chicago, IL 60647. Phone: +13129671824. Website: https://www.thejoint.com/. | https://dingalinged-cpu.github.io/registry/c/the-joint-chiropractic-chicago/
+3. True Precision Rehab | trust 20.0 | True Precision Rehab is a chiropractor in Chicago, IL at 2130 West Belmont Avenue, Chicago, IL 60618. Phone: +17739852818. Website: https://www.trueprecisionrehabchicago.com/. | https://dingalinged-cpu.github.io/registry/c/true-precision-rehab-chicago/
+4. Back To Natural Health | trust 16.0 | Back To Natural Health is a chiropractor in Chicago, IL at West Diversey Parkway, Chicago, IL 60614. Phone: +17733252225. Website: https://backtonaturalhealth.com/. | https://dingalinged-cpu.github.io/registry/c/back-to-natural-health-chicago/
+5. Optimal Health Chiropractic | trust 16.0 | Optimal Health Chiropractic is a chiropractor in Chicago, IL at 905 West Irving Park Road, Chicago, IL 60613. Phone: +17738680644. Website: https://www.optimalchiroltd.com/. | https://dingalinged-cpu.github.io/registry/c/optimal-health-chiropractic-chicago/
+6. Aligned Modern Health | trust 14.0 | Aligned Modern Health is a chiropractor in Chicago, IL at 5348 North Clark Street, Chicago, IL 60640. Phone: +17735656511. | https://dingalinged-cpu.github.io/registry/c/aligned-modern-health-chicago/
+7. Endeavor Health Orthopaedic & Spine Center - Chicago in Bucktown | trust 10.0 | Endeavor Health Orthopaedic & Spine Center - Chicago in Bucktown is an orthodontist in Chicago, IL at 1942 West Fullerton Avenue, Chicago, IL 60647. Website: https://www.endeavorhealth.org/locations/orthopaedic-immediate-care-chicago-bucktown. | https://dingalinged-cpu.github.io/registry/c/endeavor-health-orthopaedic-and-spine-center-chicago-in-bucktown-chicago/
+8. International Sports & Health Clinic | trust 10.0 | International Sports & Health Clinic is a chiropractor in Chicago, IL at 3738 North Broadway, Chicago, IL 60613. Phone: +17738838640. | https://dingalinged-cpu.github.io/registry/c/international-sports-and-health-clinic-chicago/
+9. Norwood Chiropractic | trust 10.0 | Norwood Chiropractic is a chiropractor in Chicago, IL at 6130 North Northwest Highway, Chicago, IL 60631. Phone: +17737745535. | https://dingalinged-cpu.github.io/registry/c/norwood-chiropractic-chicago/
+10. Body Works Health & Wellness | trust 4.0 | Body Works Health & Wellness is a chiropractor in Chicago, IL at 825 West Monroe Street, Chicago, IL 60607. | https://dingalinged-cpu.github.io/registry/c/body-works-health-and-wellness-chicago/
+11. Chinatown Chiropractic | trust 4.0 | Chinatown Chiropractic is a chiropractor in Chicago, IL at 2322 South Wentworth Avenue, Chicago, IL 60616. | https://dingalinged-cpu.github.io/registry/c/chinatown-chiropractic-chicago/
+12. Chiro One Wellness Center | trust 4.0 | Chiro One Wellness Center is a chiropractor in Chicago, IL at 2909 West Addison Street, Chicago, IL 60618. | https://dingalinged-cpu.github.io/registry/c/chiro-one-wellness-center-chicago/
+13. Division Chiropractic | trust 4.0 | Division Chiropractic is a chiropractor in Chicago, IL at 1630 West Division Street, Chicago, IL 60622. | https://dingalinged-cpu.github.io/registry/c/division-chiropractic-chicago/
+14. Edgebrook Chiropraractic Health Center | trust 4.0 | Edgebrook Chiropraractic Health Center is a chiropractor in Chicago, IL at 6139 West Touhy Avenue, Chicago, IL 60646. | https://dingalinged-cpu.github.io/registry/c/edgebrook-chiropraractic-health-center-chicago/
+15. Gladstone Chiropractic | trust 4.0 | Gladstone Chiropractic is a chiropractor in Chicago, IL at 5316 North Milwaukee Avenue, Chicago, IL 60630. | https://dingalinged-cpu.github.io/registry/c/gladstone-chiropractic-chicago/
+16. Equilibrium Chiropractic | trust 3.0 | Equilibrium Chiropractic is a chiropractor in Chicago, IL at 1509 South State Street, Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/equilibrium-chiropractic-chicago/
+17. ReAlignMed | trust 3.0 | ReAlignMed is a chiropractor in Chicago, IL at 916 West Belmont Avenue, Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/realignmed-chicago/
+18. Chiro One Wellness Center | trust 0.0 | Chiro One Wellness Center is a chiropractor in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/chiro-one-wellness-center-chicago-n12434611018/
+19. Dr. Lori Portnoy | trust 0.0 | Dr. Lori Portnoy is a chiropractor in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/dr-lori-portnoy-chicago/
+
+## Market data (for advertisers and agents)
+- Keyword: chiropractor chicago il | category: Health & medical | industry benchmark: Physicians & Surgeons
+- US monthly searches: 246,000/mo (cited; Semrush US Jul 2026 (via research source); as of 2026-07; phrase 'chiropractor near me')
+- Local monthly searches (Chicago-Naperville-Elgin, IL-IN metro): ~6,800 (estimate: estimate: US monthly volume x metro population share (Census V2025 metro pop / US pop 341,784,857); rounded to 2 significant figures. Counts all searches for the service in the metro, not only searches that type this city name.)
+- CPC benchmark: low $4.76, median $4.76, high $5.00 (Physicians & Surgeons median CPC 2026 $4.76 [https://www.localiq.com/blog/search-advertising-benchmarks]; Physicians & Surgeons median CPC 2025 $5.00 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 19
+- Equivalent Google Ads cost per month: ~$2,200 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/chiropractor.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#chiropractor-chicago-il | Estimates CC-BY-4.0; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

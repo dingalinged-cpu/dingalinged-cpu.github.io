@@ -1,0 +1,51 @@
+{
+ "slug": "carlson-animal-hospital-oak-park",
+ "name": "Carlson Animal Hospital",
+ "categories": [
+  "vet"
+ ],
+ "keywords": [
+  "vet",
+  "vet oak park il"
+ ],
+ "services": [
+  {
+   "name": "vet",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Oak Park",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Oak Park",
+ "state": "IL",
+ "geo": {
+  "lat": 41.8889439,
+  "lon": -87.7853712
+ },
+ "schema_type": "VeterinaryCare",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/771974700",
+ "osm": {
+  "type": "way",
+  "id": 771974700,
+  "tags_used": {
+   "amenity": "veterinary"
+  }
+ },
+ "municipality": "Oak Park",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/carlson-animal-hospital-oak-park/",
+ "summary": "Carlson Animal Hospital is a veterinarian in Oak Park, IL.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,23 @@
+State Farm is an insurance agent in Lemont Township, IL.
+
+# State Farm
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: Lemont Township, IL
+- City: Lemont Township
+- State: IL
+- ZIP: n/a
+- Coordinates: 41.6744629, -87.9997754
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/state-farm-lemont-township/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/state-farm-lemont-township.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/543779597 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

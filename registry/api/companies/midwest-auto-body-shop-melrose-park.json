@@ -1,0 +1,60 @@
+{
+ "slug": "midwest-auto-body-shop-melrose-park",
+ "name": "Midwest Auto Body Shop",
+ "categories": [
+  "auto repair"
+ ],
+ "keywords": [
+  "auto repair",
+  "mechanic",
+  "auto repair melrose park il",
+  "mechanic melrose park il"
+ ],
+ "services": [
+  {
+   "name": "auto repair",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "mechanic",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "West Lake Street",
+  "addressLocality": "Melrose Park",
+  "addressRegion": "IL",
+  "postalCode": "60160",
+  "addressCountry": "US"
+ },
+ "city": "Melrose Park",
+ "state": "IL",
+ "zip": "60160",
+ "geo": {
+  "lat": 41.8975272,
+  "lon": -87.8755359
+ },
+ "schema_type": "AutoRepair",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/803779042",
+ "osm": {
+  "type": "way",
+  "id": 803779042,
+  "tags_used": {
+   "shop": "car_repair"
+  }
+ },
+ "municipality": "Melrose Park",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/midwest-auto-body-shop-melrose-park/",
+ "summary": "Midwest Auto Body Shop is an auto repair shop in Melrose Park, IL at West Lake Street, Melrose Park, IL 60160.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

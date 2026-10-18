@@ -1,0 +1,318 @@
+{
+ "place": "Lockport, IL",
+ "slug": "lockport-il",
+ "count": 8,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "auto repair lockport il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-lockport-il.json"
+  },
+  {
+   "keyword": "dentist lockport il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-lockport-il.json"
+  },
+  {
+   "keyword": "hair salon lockport il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-lockport-il.json"
+  },
+  {
+   "keyword": "haircut lockport il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-lockport-il.json"
+  },
+  {
+   "keyword": "insurance agency lockport il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-lockport-il.json"
+  },
+  {
+   "keyword": "insurance agent lockport il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-lockport-il.json"
+  },
+  {
+   "keyword": "insurance agents lockport il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-lockport-il.json"
+  },
+  {
+   "keyword": "liquor store lockport il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/liquor-store-lockport-il.json"
+  },
+  {
+   "keyword": "mattress store lockport il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mattress-store-lockport-il.json"
+  },
+  {
+   "keyword": "mechanic lockport il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-lockport-il.json"
+  },
+  {
+   "keyword": "staffing agency lockport il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/staffing-agency-lockport-il.json"
+  },
+  {
+   "keyword": "urgent care lockport il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/urgent-care-lockport-il.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "farmers-insurance-lockport",
+   "name": "Farmers Insurance",
+   "summary": "Farmers Insurance is an insurance agent in Lockport, IL at 1000 South State Street, Lockport, IL 60441. Phone: +18152936644. Website: https://agents.farmers.com/il/lockport/scott-johnson.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/farmers-insurance-lockport/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/farmers-insurance-lockport.json",
+   "address": {
+    "streetAddress": "1000 South State Street",
+    "addressLocality": "Lockport",
+    "addressRegion": "IL",
+    "postalCode": "60441",
+    "addressCountry": "US"
+   },
+   "city": "Lockport",
+   "state": "IL",
+   "zip": "60441",
+   "geo": {
+    "lat": 41.5880729,
+    "lon": -88.0575998
+   },
+   "phone": "+18152936644",
+   "website": "https://agents.farmers.com/il/lockport/scott-johnson",
+   "opening_hours": "Mo-Fr 09:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6073118826",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "lockport-dental-group-lockport",
+   "name": "Lockport Dental Group",
+   "summary": "Lockport Dental Group is a dentist in Lockport, IL at 230 East 8th Street #C, Lockport, IL 60441. Phone: +18158386102. Website: https://www.lockportdentalgroup.net/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lockport-dental-group-lockport/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lockport-dental-group-lockport.json",
+   "address": {
+    "streetAddress": "230 East 8th Street #C",
+    "addressLocality": "Lockport",
+    "addressRegion": "IL",
+    "postalCode": "60441",
+    "addressCountry": "US"
+   },
+   "city": "Lockport",
+   "state": "IL",
+   "zip": "60441",
+   "geo": {
+    "lat": 41.5899621,
+    "lon": -88.0545411
+   },
+   "phone": "+18158386102",
+   "website": "https://www.lockportdentalgroup.net/",
+   "opening_hours": "Mo,We 08:00-20:00; Tu,Th 08:00-23:00; Fr 08:00-11:00; Sa 08:00-14:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8090057507",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "lockport-express-medical-lockport",
+   "name": "Lockport Express Medical",
+   "summary": "Lockport Express Medical is an urgent care clinic in Lockport, IL at 16221 West 159th Street, Lockport, IL 60441. Phone: +18156059082. Website: https://www.xpressmedical.net/.",
+   "categories": [
+    "urgent care"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lockport-express-medical-lockport/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lockport-express-medical-lockport.json",
+   "address": {
+    "streetAddress": "16221 West 159th Street",
+    "addressLocality": "Lockport",
+    "addressRegion": "IL",
+    "postalCode": "60441",
+    "addressCountry": "US"
+   },
+   "city": "Lockport",
+   "state": "IL",
+   "zip": "60441",
+   "geo": {
+    "lat": 41.5971931,
+    "lon": -88.0129146
+   },
+   "phone": "+18156059082",
+   "website": "https://www.xpressmedical.net/",
+   "opening_hours": "Mo-Fr 08:00-20:00; Sa,Su 10:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/551256618",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "pridestaff-lockport",
+   "name": "PrideStaff",
+   "summary": "PrideStaff is a staffing agency in Lockport, IL at 16614 West 159th Street #305, Lockport, IL 60441. Phone: +18157303760. Website: https://www.pridestaff.com/locations/chicagoland/.",
+   "categories": [
+    "staffing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pridestaff-lockport/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pridestaff-lockport.json",
+   "address": {
+    "streetAddress": "16614 West 159th Street #305",
+    "addressLocality": "Lockport",
+    "addressRegion": "IL",
+    "postalCode": "60441",
+    "addressCountry": "US"
+   },
+   "city": "Lockport",
+   "state": "IL",
+   "zip": "60441",
+   "geo": {
+    "lat": 41.5996689,
+    "lon": -88.0219
+   },
+   "phone": "+18157303760",
+   "website": "https://www.pridestaff.com/locations/chicagoland/",
+   "opening_hours": "Mo-Fr 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13096841881",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "mattress-firm-lockport",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Lockport, IL at 16453 West 159th Street, Lockport, IL 60441. Phone: +18158381161. Website: https://www.mattressfirm.com/en-us/stores/il/lockport/119146/.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-lockport/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-lockport.json",
+   "address": {
+    "streetAddress": "16453 West 159th Street",
+    "addressLocality": "Lockport",
+    "addressRegion": "IL",
+    "postalCode": "60441",
+    "addressCountry": "US"
+   },
+   "city": "Lockport",
+   "state": "IL",
+   "zip": "60441",
+   "geo": {
+    "lat": 41.597174,
+    "lon": -88.018627
+   },
+   "phone": "+18158381161",
+   "website": "https://www.mattressfirm.com/en-us/stores/il/lockport/119146/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11983795890",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "united-collision-and-customs-lockport",
+   "name": "United Collision & Customs",
+   "summary": "United Collision & Customs is an auto repair shop in Lockport, IL at 3003 South State Street, Lockport, IL 60441. Phone: +18157743223. Website: https://www.unitedcollision.net/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/united-collision-and-customs-lockport/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/united-collision-and-customs-lockport.json",
+   "address": {
+    "streetAddress": "3003 South State Street",
+    "addressLocality": "Lockport",
+    "addressRegion": "IL",
+    "postalCode": "60441",
+    "addressCountry": "US"
+   },
+   "city": "Lockport",
+   "state": "IL",
+   "zip": "60441",
+   "geo": {
+    "lat": 41.5639228,
+    "lon": -88.069263
+   },
+   "phone": "+18157743223",
+   "website": "https://www.unitedcollision.net/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1416019769",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "sport-clips-lockport",
+   "name": "Sport Clips",
+   "summary": "Sport Clips is a hair salon in Lockport, IL at 16449 West 159th Street, Lockport, IL 60441.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sport-clips-lockport/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sport-clips-lockport.json",
+   "address": {
+    "streetAddress": "16449 West 159th Street",
+    "addressLocality": "Lockport",
+    "addressRegion": "IL",
+    "postalCode": "60441",
+    "addressCountry": "US"
+   },
+   "city": "Lockport",
+   "state": "IL",
+   "zip": "60441",
+   "geo": {
+    "lat": 41.5971789,
+    "lon": -88.0184211
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11983795893",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "the-open-bottle-lockport",
+   "name": "The Open Bottle",
+   "summary": "The Open Bottle is a liquor store in Lockport, IL at 16437 West 159th Street, Lockport, IL 60441.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-open-bottle-lockport/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-open-bottle-lockport.json",
+   "address": {
+    "streetAddress": "16437 West 159th Street",
+    "addressLocality": "Lockport",
+    "addressRegion": "IL",
+    "postalCode": "60441",
+    "addressCountry": "US"
+   },
+   "city": "Lockport",
+   "state": "IL",
+   "zip": "60441",
+   "geo": {
+    "lat": 41.5972188,
+    "lon": -88.0173719
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11983795896",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

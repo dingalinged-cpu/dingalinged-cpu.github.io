@@ -1,0 +1,61 @@
+{
+ "slug": "kavin-collision-gary",
+ "name": "Kavin Collision",
+ "categories": [
+  "auto repair"
+ ],
+ "keywords": [
+  "auto repair",
+  "mechanic",
+  "auto repair gary in",
+  "mechanic gary in"
+ ],
+ "services": [
+  {
+   "name": "auto repair",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "mechanic",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "3595 Broadway",
+  "addressLocality": "Gary",
+  "addressRegion": "IN",
+  "postalCode": "46409",
+  "addressCountry": "US"
+ },
+ "city": "Gary",
+ "state": "IN",
+ "zip": "46409",
+ "geo": {
+  "lat": 41.5532269,
+  "lon": -87.3361003
+ },
+ "phone": "+12194270929",
+ "schema_type": "AutoRepair",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/1149302296",
+ "osm": {
+  "type": "way",
+  "id": 1149302296,
+  "tags_used": {
+   "shop": "car_repair"
+  }
+ },
+ "municipality": "Gary",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/kavin-collision-gary/",
+ "summary": "Kavin Collision is an auto repair shop in Gary, IN at 3595 Broadway, Gary, IN 46409. Phone: +12194270929.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

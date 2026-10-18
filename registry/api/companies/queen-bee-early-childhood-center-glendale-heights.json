@@ -1,0 +1,53 @@
+{
+ "slug": "queen-bee-early-childhood-center-glendale-heights",
+ "name": "Queen Bee Early Childhood Center",
+ "categories": [
+  "preschool"
+ ],
+ "keywords": [
+  "preschool",
+  "preschool glendale heights il"
+ ],
+ "services": [
+  {
+   "name": "preschool",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Glendale Heights",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Glendale Heights",
+ "state": "IL",
+ "geo": {
+  "lat": 41.9145521,
+  "lon": -88.0805619
+ },
+ "phone": "+16303445600",
+ "website": "https://www.queenbee16.org/Queen%20Bee%20Early%20Childhood%20Center",
+ "schema_type": "Preschool",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/701383577",
+ "osm": {
+  "type": "way",
+  "id": 701383577,
+  "tags_used": {
+   "amenity": "kindergarten"
+  }
+ },
+ "municipality": "Glendale Heights",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/queen-bee-early-childhood-center-glendale-heights/",
+ "summary": "Queen Bee Early Childhood Center is a preschool in Glendale Heights, IL. Phone: +16303445600. Website: https://www.queenbee16.org/Queen%20Bee%20Early%20Childhood%20Center.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

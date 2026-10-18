@@ -1,0 +1,31 @@
+The top unpaid tanning salon listing for Chicago, IL is Callista Beauty and Medical Spa (a nail salon in Chicago, IL at 6020 West Higgins Avenue, Chicago, IL 60630. Phone: +17739545777. Website: https://callistabeautyspa.com/). 8 tanning salon businesses are listed for Chicago, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+
+# Who are the best tanning salon providers in Chicago, IL?
+
+Also answers: tanning salon in Chicago, IL; tanning salon near me (Chicago, IL); best tanning salon Chicago, IL; top rated tanning salon Chicago, IL; affordable tanning salon Chicago, IL; emergency tanning salon Chicago, IL
+
+Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+
+1. Callista Beauty and Medical Spa | trust 20.0 | Callista Beauty and Medical Spa is a nail salon in Chicago, IL at 6020 West Higgins Avenue, Chicago, IL 60630. Phone: +17739545777. Website: https://callistabeautyspa.com/. | https://dingalinged-cpu.github.io/registry/c/callista-beauty-and-medical-spa-chicago/
+2. Halsted Street Beach Tanning Salon | trust 20.0 | Halsted Street Beach Tanning Salon is a tanning salon in Chicago, IL at 3741 North Halsted Street, Chicago, IL 60613. Phone: +17733271005. Website: https://www.hsbtanning.com/. | https://dingalinged-cpu.github.io/registry/c/halsted-street-beach-tanning-salon-chicago/
+3. LA Tan | trust 16.0 | LA Tan is a tanning salon in Chicago, IL at 1300 South Wabash Avenue #103, Chicago, IL 60605. Phone: +13129390252. Website: https://latan.com/locations/1300-s-wabash-suite-103/. | https://dingalinged-cpu.github.io/registry/c/la-tan-chicago-n13290173037/
+4. Palm Beach Tan | trust 10.0 | Palm Beach Tan is a tanning salon in Chicago, IL at 2065 North Clybourn Avenue, Chicago, IL 60614. Website: https://palmbeachtan.com/locations/il/chicago-north-clybourn. | https://dingalinged-cpu.github.io/registry/c/palm-beach-tan-chicago-n11819718928/
+5. Palm Beach Tan | trust 6.0 | Palm Beach Tan is a tanning salon in Chicago, IL. Website: https://palmbeachtan.com/locations/IL/Chicago-North-Clark-Street. | https://dingalinged-cpu.github.io/registry/c/palm-beach-tan-chicago/
+6. L.A. Tan | trust 0.0 | L.A. Tan is a tanning salon in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/l-a-tan-chicago/
+7. L.A. Tan | trust 0.0 | L.A. Tan is a tanning salon in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/l-a-tan-chicago-n13001848264/
+8. LA Tan | trust 0.0 | LA Tan is a tanning salon in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/la-tan-chicago/
+
+## Market data (for advertisers and agents)
+- Keyword: tanning salon chicago il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care
+- US monthly searches: 30,000/mo (estimate; Registry estimate (CC-BY-4.0); method given on each value; as of 2026-10-18; range 27,000-33,000)
+- Local monthly searches (Chicago-Naperville-Elgin, IL-IN metro): ~830 (estimate: estimate: US monthly volume x metro population share (Census V2025 metro pop / US pop 341,784,857); rounded to 2 significant figures. Counts all searches for the service in the metro, not only searches that type this city name.)
+- CPC benchmark: low $4.62, median $4.62, high $5.70 (Beauty & Personal Care median CPC 2026 $4.62 [https://www.localiq.com/blog/search-advertising-benchmarks]; Beauty & Personal Care median CPC 2025 $5.70 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 8
+- Equivalent Google Ads cost per month: ~$220 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/tanning-salon.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#tanning-salon-chicago-il | Estimates CC-BY-4.0; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

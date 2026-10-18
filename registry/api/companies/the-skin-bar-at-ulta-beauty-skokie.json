@@ -1,0 +1,60 @@
+{
+ "slug": "the-skin-bar-at-ulta-beauty-skokie",
+ "name": "The Skin Bar at Ulta Beauty",
+ "categories": [
+  "facial"
+ ],
+ "keywords": [
+  "facial",
+  "facial skokie il"
+ ],
+ "services": [
+  {
+   "name": "facial",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "5481 West Touhy Avenue #16",
+  "addressLocality": "Skokie",
+  "addressRegion": "IL",
+  "postalCode": "60077",
+  "addressCountry": "US"
+ },
+ "city": "Skokie",
+ "state": "IL",
+ "zip": "60077",
+ "geo": {
+  "lat": 42.0104853,
+  "lon": -87.7659436
+ },
+ "phone": "+18473291445",
+ "website": "https://www.ulta.com/stores/skokie-il-137",
+ "opening_hours": "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00",
+ "brand": "Ulta Beauty",
+ "wikidata": "Q7880076",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/11702293749",
+ "osm": {
+  "type": "node",
+  "id": 11702293749,
+  "tags_used": {
+   "shop": "beauty",
+   "beauty": "skin_care"
+  }
+ },
+ "municipality": "Skokie",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/the-skin-bar-at-ulta-beauty-skokie/",
+ "summary": "The Skin Bar at Ulta Beauty is a skin care studio in Skokie, IL at 5481 West Touhy Avenue #16, Skokie, IL 60077. Phone: +18473291445. Website: https://www.ulta.com/stores/skokie-il-137.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,534 @@
+{
+ "place": "Bridgeview, IL",
+ "slug": "bridgeview-il",
+ "count": 15,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "auto repair bridgeview il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-bridgeview-il.json"
+  },
+  {
+   "keyword": "bakery bridgeview il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/bakery-bridgeview-il.json"
+  },
+  {
+   "keyword": "dentist bridgeview il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-bridgeview-il.json"
+  },
+  {
+   "keyword": "gym bridgeview il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-bridgeview-il.json"
+  },
+  {
+   "keyword": "insurance agency bridgeview il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-bridgeview-il.json"
+  },
+  {
+   "keyword": "insurance agent bridgeview il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-bridgeview-il.json"
+  },
+  {
+   "keyword": "insurance agents bridgeview il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-bridgeview-il.json"
+  },
+  {
+   "keyword": "mechanic bridgeview il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-bridgeview-il.json"
+  },
+  {
+   "keyword": "storage units bridgeview il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/storage-units-bridgeview-il.json"
+  },
+  {
+   "keyword": "tattoo shop bridgeview il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tattoo-shop-bridgeview-il.json"
+  },
+  {
+   "keyword": "tax preparation bridgeview il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tax-preparation-bridgeview-il.json"
+  },
+  {
+   "keyword": "tax preparer bridgeview il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tax-preparer-bridgeview-il.json"
+  },
+  {
+   "keyword": "thrift store bridgeview il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/thrift-store-bridgeview-il.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "albasha-sweets-bridgeview",
+   "name": "Albasha Sweets",
+   "summary": "Albasha Sweets is a bakery in Bridgeview, IL at 7311 West 87th Street, Bridgeview, IL 60455. Phone: +17082330826. Website: https://albashasweetsco.com/.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/albasha-sweets-bridgeview/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/albasha-sweets-bridgeview.json",
+   "address": {
+    "streetAddress": "7311 West 87th Street",
+    "addressLocality": "Bridgeview",
+    "addressRegion": "IL",
+    "postalCode": "60455",
+    "addressCountry": "US"
+   },
+   "city": "Bridgeview",
+   "state": "IL",
+   "zip": "60455",
+   "geo": {
+    "lat": 41.7327886,
+    "lon": -87.802611
+   },
+   "phone": "+17082330826",
+   "website": "https://albashasweetsco.com/",
+   "opening_hours": "Mo-Su 10:00-22:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13207787602",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "alwatan-bakery-bridgeview",
+   "name": "Alwatan Bakery",
+   "summary": "Alwatan Bakery is a bakery in Bridgeview, IL at 7279 West 87th Street, Bridgeview, IL 60455. Phone: +17089075681. Website: https://www.alwatanbakery.com/.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/alwatan-bakery-bridgeview/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/alwatan-bakery-bridgeview.json",
+   "address": {
+    "streetAddress": "7279 West 87th Street",
+    "addressLocality": "Bridgeview",
+    "addressRegion": "IL",
+    "postalCode": "60455",
+    "addressCountry": "US"
+   },
+   "city": "Bridgeview",
+   "state": "IL",
+   "zip": "60455",
+   "geo": {
+    "lat": 41.7327446,
+    "lon": -87.8018317
+   },
+   "phone": "+17089075681",
+   "website": "https://www.alwatanbakery.com/",
+   "opening_hours": "Mo-Fr 08:00-22:00; Sa-Su 07:00-22:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13207790201",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "auto-dealers-insurance-group-bridgeview",
+   "name": "Auto Dealers Insurance Group",
+   "summary": "Auto Dealers Insurance Group is an insurance agent in Bridgeview, IL at 7213 West 84th Street, Bridgeview, IL 60455. Phone: +18007703314. Website: https://autodealershipinsurance.com/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/auto-dealers-insurance-group-bridgeview/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/auto-dealers-insurance-group-bridgeview.json",
+   "address": {
+    "streetAddress": "7213 West 84th Street",
+    "addressLocality": "Bridgeview",
+    "addressRegion": "IL",
+    "postalCode": "60455",
+    "addressCountry": "US"
+   },
+   "city": "Bridgeview",
+   "state": "IL",
+   "zip": "60455",
+   "geo": {
+    "lat": 41.7385963,
+    "lon": -87.8002191
+   },
+   "phone": "+18007703314",
+   "website": "https://autodealershipinsurance.com/",
+   "opening_hours": "Mo - Fr 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12531533262",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "bridgeview-auto-center-bridgeview",
+   "name": "Bridgeview Auto Center",
+   "summary": "Bridgeview Auto Center is an auto repair shop in Bridgeview, IL at 9059 Harlem Avenue, Bridgeview, IL 60455. Phone: +17085983155. Website: https://www.bridgeviewautocenter.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bridgeview-auto-center-bridgeview/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bridgeview-auto-center-bridgeview.json",
+   "address": {
+    "streetAddress": "9059 Harlem Avenue",
+    "addressLocality": "Bridgeview",
+    "addressRegion": "IL",
+    "postalCode": "60455",
+    "addressCountry": "US"
+   },
+   "city": "Bridgeview",
+   "state": "IL",
+   "zip": "60455",
+   "geo": {
+    "lat": 41.7268834,
+    "lon": -87.7984362
+   },
+   "phone": "+17085983155",
+   "website": "https://www.bridgeviewautocenter.com/",
+   "opening_hours": "Sa-Su CLOSED, Mo-Fr 07:30-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13776614834",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "insurance-navy-brokers-bridgeview",
+   "name": "Insurance Navy Brokers",
+   "summary": "Insurance Navy Brokers is an insurance agent in Bridgeview, IL at 8258 Harlem Avenue, Bridgeview, IL 60455. Phone: +17083381111. Website: https://www.insurancenavy.com/locations/il/bridgeview/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/insurance-navy-brokers-bridgeview/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/insurance-navy-brokers-bridgeview.json",
+   "address": {
+    "streetAddress": "8258 Harlem Avenue",
+    "addressLocality": "Bridgeview",
+    "addressRegion": "IL",
+    "postalCode": "60455",
+    "addressCountry": "US"
+   },
+   "city": "Bridgeview",
+   "state": "IL",
+   "zip": "60455",
+   "geo": {
+    "lat": 41.7412397,
+    "lon": -87.8000064
+   },
+   "phone": "+17083381111",
+   "website": "https://www.insurancenavy.com/locations/il/bridgeview/",
+   "opening_hours": "Mo-Sa 08:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8595617884",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "accurate-auto-bridgeview",
+   "name": "Accurate Auto",
+   "summary": "Accurate Auto is an auto repair shop in Bridgeview, IL at 7438 West 90th Street, Bridgeview, IL 60455. Phone: +17082337728. Website: https://www.accurateautos.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/accurate-auto-bridgeview/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/accurate-auto-bridgeview.json",
+   "address": {
+    "streetAddress": "7438 West 90th Street",
+    "addressLocality": "Bridgeview",
+    "addressRegion": "IL",
+    "postalCode": "60455",
+    "addressCountry": "US"
+   },
+   "city": "Bridgeview",
+   "state": "IL",
+   "zip": "60455",
+   "geo": {
+    "lat": 41.7282418,
+    "lon": -87.8049744
+   },
+   "phone": "+17082337728",
+   "website": "https://www.accurateautos.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6026635479",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "dajani-dental-services-bridgeview",
+   "name": "Dajani Dental Services",
+   "summary": "Dajani Dental Services is a dentist in Bridgeview, IL at 8550 South Harlem Avenue #Suite C, Bridgeview, IL 60455. Website: https://www.dajanidental.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dajani-dental-services-bridgeview/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dajani-dental-services-bridgeview.json",
+   "address": {
+    "streetAddress": "8550 South Harlem Avenue #Suite C",
+    "addressLocality": "Bridgeview",
+    "addressRegion": "IL",
+    "postalCode": "60455",
+    "addressCountry": "US"
+   },
+   "city": "Bridgeview",
+   "state": "IL",
+   "zip": "60455",
+   "geo": {
+    "lat": 41.7356552,
+    "lon": -87.7997423
+   },
+   "website": "https://www.dajanidental.com/",
+   "opening_hours": "We, Sa-Su CLOSED, Mo & Fr 09:00-17:00, Tu & Th 09:00-13:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13378853238",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "marcd-up-tattoo-and-piercing-studio-bridgeview",
+   "name": "Marc'D Up Tattoo & Piercing Studio",
+   "summary": "Marc'D Up Tattoo & Piercing Studio is a tattoo shop in Bridgeview, IL at 8520 Harlem Avenue, Bridgeview, IL 60455. Phone: +17085813985.",
+   "categories": [
+    "tattoo shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/marcd-up-tattoo-and-piercing-studio-bridgeview/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/marcd-up-tattoo-and-piercing-studio-bridgeview.json",
+   "address": {
+    "streetAddress": "8520 Harlem Avenue",
+    "addressLocality": "Bridgeview",
+    "addressRegion": "IL",
+    "postalCode": "60455",
+    "addressCountry": "US"
+   },
+   "city": "Bridgeview",
+   "state": "IL",
+   "zip": "60455",
+   "geo": {
+    "lat": 41.7362475,
+    "lon": -87.7996862
+   },
+   "phone": "+17085813985",
+   "opening_hours": "Th-Tu 14:00-22:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12360588631",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "h-and-r-block-bridgeview",
+   "name": "H&R Block",
+   "summary": "H&R Block is a tax preparation service in Bridgeview, IL at 8801 Harlem Avenue, Bridgeview, IL 60455. Website: https://www.hrblock.com/local-tax-offices/illinois/bridgeview/8801-s-harlem-ave/13962/.",
+   "categories": [
+    "tax preparation"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/h-and-r-block-bridgeview/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/h-and-r-block-bridgeview.json",
+   "address": {
+    "streetAddress": "8801 Harlem Avenue",
+    "addressLocality": "Bridgeview",
+    "addressRegion": "IL",
+    "postalCode": "60455",
+    "addressCountry": "US"
+   },
+   "city": "Bridgeview",
+   "state": "IL",
+   "zip": "60455",
+   "geo": {
+    "lat": 41.7311668,
+    "lon": -87.7974765
+   },
+   "website": "https://www.hrblock.com/local-tax-offices/illinois/bridgeview/8801-s-harlem-ave/13962/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9063292347",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "planet-fitness-bridgeview",
+   "name": "Planet Fitness",
+   "summary": "Planet Fitness is a gym in Bridgeview, IL at 8741-8751 Harlem Avenue, Bridgeview, IL 60455. Website: https://www.planetfitness.com/gyms/bridgeview-il.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/planet-fitness-bridgeview/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/planet-fitness-bridgeview.json",
+   "address": {
+    "streetAddress": "8741-8751 Harlem Avenue",
+    "addressLocality": "Bridgeview",
+    "addressRegion": "IL",
+    "postalCode": "60455",
+    "addressCountry": "US"
+   },
+   "city": "Bridgeview",
+   "state": "IL",
+   "zip": "60455",
+   "geo": {
+    "lat": 41.7317925,
+    "lon": -87.797502
+   },
+   "website": "https://www.planetfitness.com/gyms/bridgeview-il",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12585965881",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "the-salvation-army-bridgeview",
+   "name": "The Salvation Army",
+   "summary": "The Salvation Army is a thrift store in Bridgeview, IL at 9000 Harlem Avenue, Bridgeview, IL 60455.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-salvation-army-bridgeview/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-salvation-army-bridgeview.json",
+   "address": {
+    "streetAddress": "9000 Harlem Avenue",
+    "addressLocality": "Bridgeview",
+    "addressRegion": "IL",
+    "postalCode": "60455",
+    "addressCountry": "US"
+   },
+   "city": "Bridgeview",
+   "state": "IL",
+   "zip": "60455",
+   "geo": {
+    "lat": 41.7277551,
+    "lon": -87.7997313
+   },
+   "opening_hours": "Mo-Sa 09:00-21:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1176332248",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "goodyear-bridgeview",
+   "name": "Goodyear",
+   "summary": "Goodyear is an auto repair shop in Bridgeview, IL at 9200 Harlem Avenue, Bridgeview, IL 60455.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/goodyear-bridgeview/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/goodyear-bridgeview.json",
+   "address": {
+    "streetAddress": "9200 Harlem Avenue",
+    "addressLocality": "Bridgeview",
+    "addressRegion": "IL",
+    "postalCode": "60455",
+    "addressCountry": "US"
+   },
+   "city": "Bridgeview",
+   "state": "IL",
+   "zip": "60455",
+   "geo": {
+    "lat": 41.7239244,
+    "lon": -87.7995448
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1176342436",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "jackson-hewitt-bridgeview",
+   "name": "Jackson Hewitt",
+   "summary": "Jackson Hewitt is a tax preparation service in Bridgeview, IL at 8717 Harlem Avenue, Bridgeview, IL 60455.",
+   "categories": [
+    "tax preparation"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jackson-hewitt-bridgeview/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jackson-hewitt-bridgeview.json",
+   "address": {
+    "streetAddress": "8717 Harlem Avenue",
+    "addressLocality": "Bridgeview",
+    "addressRegion": "IL",
+    "postalCode": "60455",
+    "addressCountry": "US"
+   },
+   "city": "Bridgeview",
+   "state": "IL",
+   "zip": "60455",
+   "geo": {
+    "lat": 41.733141,
+    "lon": -87.7984498
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9063292350",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "firestone-bridgeview",
+   "name": "Firestone",
+   "summary": "Firestone is an auto repair shop in Bridgeview, IL.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/firestone-bridgeview/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/firestone-bridgeview.json",
+   "address": {
+    "addressLocality": "Bridgeview",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Bridgeview",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7368312,
+    "lon": -87.7986872
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/874491417",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "public-storage-bridgeview",
+   "name": "Public Storage",
+   "summary": "Public Storage is a self-storage facility in Bridgeview, IL.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/public-storage-bridgeview/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/public-storage-bridgeview.json",
+   "address": {
+    "addressLocality": "Bridgeview",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Bridgeview",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7105213,
+    "lon": -87.7992783
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9063292353",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "slug": "silver-cross-urgent-care-joliet",
+ "name": "Silver Cross Urgent Care",
+ "categories": [
+  "urgent care"
+ ],
+ "keywords": [
+  "urgent care",
+  "urgent care joliet il"
+ ],
+ "services": [
+  {
+   "name": "urgent care",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1051 Essington Road #Suite 100",
+  "addressLocality": "Joliet",
+  "addressRegion": "IL",
+  "postalCode": "60435",
+  "addressCountry": "US"
+ },
+ "city": "Joliet",
+ "state": "IL",
+ "zip": "60435",
+ "geo": {
+  "lat": 41.541305,
+  "lon": -88.1622657
+ },
+ "phone": "+18153002273",
+ "website": "https://www.silvercross.org/index.php?option=com_content&view=article&id=1948&catid=135++",
+ "schema_type": "MedicalClinic",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/5323692612",
+ "osm": {
+  "type": "node",
+  "id": 5323692612,
+  "tags_used": {
+   "amenity": "doctors",
+   "healthcare": "doctor"
+  }
+ },
+ "municipality": "Joliet",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/silver-cross-urgent-care-joliet/",
+ "summary": "Silver Cross Urgent Care is an urgent care clinic in Joliet, IL at 1051 Essington Road #Suite 100, Joliet, IL 60435. Phone: +18153002273. Website: https://www.silvercross.org/index.php?option=com_content&view=article&id=1948&catid=135++.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

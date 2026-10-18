@@ -1,0 +1,57 @@
+{
+ "slug": "nuwave-dental-and-orthodontics-darien",
+ "name": "NuWave Dental & Orthodontics",
+ "categories": [
+  "dentist"
+ ],
+ "keywords": [
+  "dentist",
+  "dentist darien il"
+ ],
+ "services": [
+  {
+   "name": "dentist",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "7533 South Cass Avenue",
+  "addressLocality": "Darien",
+  "addressRegion": "IL",
+  "postalCode": "60561",
+  "addressCountry": "US"
+ },
+ "city": "Darien",
+ "state": "IL",
+ "zip": "60561",
+ "geo": {
+  "lat": 41.750168,
+  "lon": -87.9733287
+ },
+ "phone": "+16305416986",
+ "website": "https://nuwavedental.com/",
+ "schema_type": "Dentist",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/9455398123",
+ "osm": {
+  "type": "node",
+  "id": 9455398123,
+  "tags_used": {
+   "amenity": "dentist",
+   "healthcare": "dentist"
+  }
+ },
+ "municipality": "Darien",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/nuwave-dental-and-orthodontics-darien/",
+ "summary": "NuWave Dental & Orthodontics is a dentist in Darien, IL at 7533 South Cass Avenue, Darien, IL 60561. Phone: +16305416986. Website: https://nuwavedental.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

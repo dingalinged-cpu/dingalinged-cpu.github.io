@@ -1,0 +1,54 @@
+{
+ "slug": "aquarium-adventure-petland-bolingbrook",
+ "name": "Aquarium Adventure - Petland",
+ "categories": [
+  "pet store"
+ ],
+ "keywords": [
+  "pet store",
+  "pet store bolingbrook il"
+ ],
+ "services": [
+  {
+   "name": "pet store",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "744 Boughton Road",
+  "addressLocality": "Bolingbrook",
+  "addressRegion": "IL",
+  "postalCode": "60440",
+  "addressCountry": "US"
+ },
+ "city": "Bolingbrook",
+ "state": "IL",
+ "zip": "60440",
+ "geo": {
+  "lat": 41.7257303,
+  "lon": -88.0387938
+ },
+ "schema_type": "PetStore",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/3160436926",
+ "osm": {
+  "type": "node",
+  "id": 3160436926,
+  "tags_used": {
+   "shop": "pet"
+  }
+ },
+ "municipality": "Bolingbrook",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/aquarium-adventure-petland-bolingbrook/",
+ "summary": "Aquarium Adventure - Petland is a pet store in Bolingbrook, IL at 744 Boughton Road, Bolingbrook, IL 60440.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,65 @@
+{
+ "slug": "state-farm-woodridge",
+ "name": "State Farm",
+ "categories": [
+  "insurance agent"
+ ],
+ "keywords": [
+  "insurance agent",
+  "insurance agency",
+  "insurance agents",
+  "insurance agent woodridge il",
+  "insurance agency woodridge il",
+  "insurance agents woodridge il"
+ ],
+ "services": [
+  {
+   "name": "insurance agent",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "insurance agency",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "insurance agents",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Woodridge",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Woodridge",
+ "state": "IL",
+ "geo": {
+  "lat": 41.7507323,
+  "lon": -88.0513291
+ },
+ "brand": "State Farm",
+ "wikidata": "Q2007336",
+ "schema_type": "InsuranceAgency",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/6876197462",
+ "osm": {
+  "type": "node",
+  "id": 6876197462,
+  "tags_used": {
+   "office": "insurance"
+  }
+ },
+ "municipality": "Woodridge",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/state-farm-woodridge/",
+ "summary": "State Farm is an insurance agent in Woodridge, IL.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

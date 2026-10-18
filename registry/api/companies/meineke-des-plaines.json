@@ -1,0 +1,65 @@
+{
+ "slug": "meineke-des-plaines",
+ "name": "Meineke",
+ "categories": [
+  "auto repair"
+ ],
+ "keywords": [
+  "auto repair",
+  "mechanic",
+  "auto repair maine township il",
+  "auto repair des plaines il",
+  "mechanic maine township il",
+  "mechanic des plaines il"
+ ],
+ "services": [
+  {
+   "name": "auto repair",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "mechanic",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "9401 Golf Road",
+  "addressLocality": "Des Plaines",
+  "addressRegion": "IL",
+  "postalCode": "60016",
+  "addressCountry": "US"
+ },
+ "city": "Des Plaines",
+ "state": "IL",
+ "zip": "60016",
+ "geo": {
+  "lat": 42.0535768,
+  "lon": -87.8605634
+ },
+ "website": "https://www.meineke.com/locations/il/des-plaines-871/",
+ "brand": "Meineke",
+ "wikidata": "Q6810159",
+ "schema_type": "AutoRepair",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/1428079277",
+ "osm": {
+  "type": "way",
+  "id": 1428079277,
+  "tags_used": {
+   "shop": "car_repair"
+  }
+ },
+ "municipality": "Maine Township",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/meineke-des-plaines/",
+ "summary": "Meineke is an auto repair shop in Des Plaines, IL at 9401 Golf Road, Des Plaines, IL 60016. Website: https://www.meineke.com/locations/il/des-plaines-871/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,715 @@
+{
+ "place": "Crestwood, IL",
+ "slug": "crestwood-il",
+ "count": 21,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "auto body shop crestwood il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-body-shop-crestwood-il.json"
+  },
+  {
+   "keyword": "auto repair crestwood il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-crestwood-il.json"
+  },
+  {
+   "keyword": "car wash crestwood il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-crestwood-il.json"
+  },
+  {
+   "keyword": "dentist crestwood il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-crestwood-il.json"
+  },
+  {
+   "keyword": "gym crestwood il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-crestwood-il.json"
+  },
+  {
+   "keyword": "hair salon crestwood il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-crestwood-il.json"
+  },
+  {
+   "keyword": "haircut crestwood il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-crestwood-il.json"
+  },
+  {
+   "keyword": "mattress store crestwood il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mattress-store-crestwood-il.json"
+  },
+  {
+   "keyword": "mechanic crestwood il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-crestwood-il.json"
+  },
+  {
+   "keyword": "pet store crestwood il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/pet-store-crestwood-il.json"
+  },
+  {
+   "keyword": "preschool crestwood il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/preschool-crestwood-il.json"
+  },
+  {
+   "keyword": "tattoo shop crestwood il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tattoo-shop-crestwood-il.json"
+  },
+  {
+   "keyword": "tax preparation crestwood il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tax-preparation-crestwood-il.json"
+  },
+  {
+   "keyword": "tax preparer crestwood il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tax-preparer-crestwood-il.json"
+  },
+  {
+   "keyword": "tire shop crestwood il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tire-shop-crestwood-il.json"
+  },
+  {
+   "keyword": "vet crestwood il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/vet-crestwood-il.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "firehouse-tattoos-crestwood",
+   "name": "Firehouse Tattoos",
+   "summary": "Firehouse Tattoos is a tattoo shop in Crestwood, IL at 12740 West Cal Sag Road, Crestwood, IL 60418. Phone: +17083858282. Website: https://www.firehousetattoos.com/.",
+   "categories": [
+    "tattoo shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/firehouse-tattoos-crestwood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/firehouse-tattoos-crestwood.json",
+   "address": {
+    "streetAddress": "12740 West Cal Sag Road",
+    "addressLocality": "Crestwood",
+    "addressRegion": "IL",
+    "postalCode": "60418",
+    "addressCountry": "US"
+   },
+   "city": "Crestwood",
+   "state": "IL",
+   "zip": "60418",
+   "geo": {
+    "lat": 41.6603413,
+    "lon": -87.7513748
+   },
+   "phone": "+17083858282",
+   "website": "https://www.firehousetattoos.com/",
+   "opening_hours": "Mo-Sa 12:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13748228813",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "petsmart-crestwood",
+   "name": "PetSmart",
+   "summary": "PetSmart is a pet store in Crestwood, IL at 4975 Cal Sag Road, Crestwood, IL 60445. Phone: +17083962900. Website: https://www.petsmart.com/stores/us/il/crestwood-store0432.html.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petsmart-crestwood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petsmart-crestwood.json",
+   "address": {
+    "streetAddress": "4975 Cal Sag Road",
+    "addressLocality": "Crestwood",
+    "addressRegion": "IL",
+    "postalCode": "60445",
+    "addressCountry": "US"
+   },
+   "city": "Crestwood",
+   "state": "IL",
+   "zip": "60445",
+   "geo": {
+    "lat": 41.654268,
+    "lon": -87.7440687
+   },
+   "phone": "+17083962900",
+   "website": "https://www.petsmart.com/stores/us/il/crestwood-store0432.html",
+   "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8530992016",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "mattress-firm-crestwood",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Crestwood, IL at 13235 Cicero Avenue, Crestwood, IL 60418. Phone: +17083855660. Website: https://www.mattressfirm.com/en-us/stores/il/crestwood/119162/.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-crestwood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-crestwood.json",
+   "address": {
+    "streetAddress": "13235 Cicero Avenue",
+    "addressLocality": "Crestwood",
+    "addressRegion": "IL",
+    "postalCode": "60418",
+    "addressCountry": "US"
+   },
+   "city": "Crestwood",
+   "state": "IL",
+   "zip": "60418",
+   "geo": {
+    "lat": 41.651081,
+    "lon": -87.7376048
+   },
+   "phone": "+17083855660",
+   "website": "https://www.mattressfirm.com/en-us/stores/il/crestwood/119162/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8530992003",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "belle-tire-crestwood",
+   "name": "Belle Tire",
+   "summary": "Belle Tire is a tire shop in Crestwood, IL at 14066 Cicero Avenue, Crestwood, IL 60445. Website: https://www.belletire.com/stores/detail/184/belle-tire-crestwood-il.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/belle-tire-crestwood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/belle-tire-crestwood.json",
+   "address": {
+    "streetAddress": "14066 Cicero Avenue",
+    "addressLocality": "Crestwood",
+    "addressRegion": "IL",
+    "postalCode": "60445",
+    "addressCountry": "US"
+   },
+   "city": "Crestwood",
+   "state": "IL",
+   "zip": "60445",
+   "geo": {
+    "lat": 41.636443,
+    "lon": -87.7382822
+   },
+   "website": "https://www.belletire.com/stores/detail/184/belle-tire-crestwood-il",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1465722729",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "crash-champions-collision-repair-crestwood-crestwood",
+   "name": "Crash Champions Collision Repair Crestwood",
+   "summary": "Crash Champions Collision Repair Crestwood is an auto repair shop in Crestwood, IL at 14330 Cicero Avenue, Crestwood, IL 60445. Website: https://crashchampions.com/locations/crestwood-il.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/crash-champions-collision-repair-crestwood-crestwood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/crash-champions-collision-repair-crestwood-crestwood.json",
+   "address": {
+    "streetAddress": "14330 Cicero Avenue",
+    "addressLocality": "Crestwood",
+    "addressRegion": "IL",
+    "postalCode": "60445",
+    "addressCountry": "US"
+   },
+   "city": "Crestwood",
+   "state": "IL",
+   "zip": "60445",
+   "geo": {
+    "lat": 41.6317988,
+    "lon": -87.7384873
+   },
+   "website": "https://crashchampions.com/locations/crestwood-il",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1257181262",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "delta-sonic-car-wash-crestwood",
+   "name": "Delta Sonic Car Wash",
+   "summary": "Delta Sonic Car Wash is a car wash in Crestwood, IL at 13700 Cicero Avenue, Crestwood, IL 60418. Website: https://deltasoniccarwash.com/location/crestwood-il/.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/delta-sonic-car-wash-crestwood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/delta-sonic-car-wash-crestwood.json",
+   "address": {
+    "streetAddress": "13700 Cicero Avenue",
+    "addressLocality": "Crestwood",
+    "addressRegion": "IL",
+    "postalCode": "60418",
+    "addressCountry": "US"
+   },
+   "city": "Crestwood",
+   "state": "IL",
+   "zip": "60418",
+   "geo": {
+    "lat": 41.642631,
+    "lon": -87.7386124
+   },
+   "website": "https://deltasoniccarwash.com/location/crestwood-il/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1339650464",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "la-fitness-crestwood",
+   "name": "LA Fitness",
+   "summary": "LA Fitness is a gym in Crestwood, IL at 13343 Cicero Avenue, Crestwood, IL 60445. Website: https://www.lafitness.com/pages/clubhome.aspx?clubid=1423.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/la-fitness-crestwood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/la-fitness-crestwood.json",
+   "address": {
+    "streetAddress": "13343 Cicero Avenue",
+    "addressLocality": "Crestwood",
+    "addressRegion": "IL",
+    "postalCode": "60445",
+    "addressCountry": "US"
+   },
+   "city": "Crestwood",
+   "state": "IL",
+   "zip": "60445",
+   "geo": {
+    "lat": 41.6495046,
+    "lon": -87.7375211
+   },
+   "website": "https://www.lafitness.com/pages/clubhome.aspx?clubid=1423",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/996989738",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "mavis-tires-and-brakes-crestwood",
+   "name": "Mavis Tires & Brakes",
+   "summary": "Mavis Tires & Brakes is an auto repair shop in Crestwood, IL at 13230 Cicero Avenue, Crestwood, IL 60445. Website: https://www.mavis.com/locations/crestwood-il/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mavis-tires-and-brakes-crestwood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mavis-tires-and-brakes-crestwood.json",
+   "address": {
+    "streetAddress": "13230 Cicero Avenue",
+    "addressLocality": "Crestwood",
+    "addressRegion": "IL",
+    "postalCode": "60445",
+    "addressCountry": "US"
+   },
+   "city": "Crestwood",
+   "state": "IL",
+   "zip": "60445",
+   "geo": {
+    "lat": 41.6513538,
+    "lon": -87.7388998
+   },
+   "website": "https://www.mavis.com/locations/crestwood-il/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1364881842",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "meineke-crestwood",
+   "name": "Meineke",
+   "summary": "Meineke is an auto repair shop in Crestwood, IL at 13845 Cicero Avenue, Crestwood, IL 60445. Website: https://www.meineke.com/locations/il/crestwood-2913/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/meineke-crestwood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/meineke-crestwood.json",
+   "address": {
+    "streetAddress": "13845 Cicero Avenue",
+    "addressLocality": "Crestwood",
+    "addressRegion": "IL",
+    "postalCode": "60445",
+    "addressCountry": "US"
+   },
+   "city": "Crestwood",
+   "state": "IL",
+   "zip": "60445",
+   "geo": {
+    "lat": 41.6413008,
+    "lon": -87.7371745
+   },
+   "website": "https://www.meineke.com/locations/il/crestwood-2913/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1323873265",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "planet-fitness-crestwood",
+   "name": "Planet Fitness",
+   "summary": "Planet Fitness is a gym in Crestwood, IL at 4917 Cal Sag Road, Crestwood, IL 60418. Website: https://www.planetfitness.com/gyms/crestwood-il.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/planet-fitness-crestwood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/planet-fitness-crestwood.json",
+   "address": {
+    "streetAddress": "4917 Cal Sag Road",
+    "addressLocality": "Crestwood",
+    "addressRegion": "IL",
+    "postalCode": "60418",
+    "addressCountry": "US"
+   },
+   "city": "Crestwood",
+   "state": "IL",
+   "zip": "60418",
+   "geo": {
+    "lat": 41.6532977,
+    "lon": -87.7421178
+   },
+   "website": "https://www.planetfitness.com/gyms/crestwood-il",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12392073003",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "sport-clips-crestwood",
+   "name": "Sport Clips",
+   "summary": "Sport Clips is a hair salon in Crestwood, IL at 13422 Cicero Avenue, Crestwood, IL 60445. Website: https://sportclips.com/us-il-crestwood-il169.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sport-clips-crestwood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sport-clips-crestwood.json",
+   "address": {
+    "streetAddress": "13422 Cicero Avenue",
+    "addressLocality": "Crestwood",
+    "addressRegion": "IL",
+    "postalCode": "60445",
+    "addressCountry": "US"
+   },
+   "city": "Crestwood",
+   "state": "IL",
+   "zip": "60445",
+   "geo": {
+    "lat": 41.6483382,
+    "lon": -87.7386919
+   },
+   "website": "https://sportclips.com/us-il-crestwood-il169",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12392072848",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "aspen-dental-crestwood",
+   "name": "Aspen Dental",
+   "summary": "Aspen Dental is a dentist in Crestwood, IL at 13442 Cicero Avenue, Crestwood, IL 60418.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/aspen-dental-crestwood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/aspen-dental-crestwood.json",
+   "address": {
+    "streetAddress": "13442 Cicero Avenue",
+    "addressLocality": "Crestwood",
+    "addressRegion": "IL",
+    "postalCode": "60418",
+    "addressCountry": "US"
+   },
+   "city": "Crestwood",
+   "state": "IL",
+   "zip": "60418",
+   "geo": {
+    "lat": 41.648006,
+    "lon": -87.7387015
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9642742885",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "banfield-pet-hospital-crestwood",
+   "name": "Banfield Pet Hospital",
+   "summary": "Banfield Pet Hospital is a veterinarian in Crestwood, IL at 4975 Cal Sag Road, Crestwood, IL 60445.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/banfield-pet-hospital-crestwood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/banfield-pet-hospital-crestwood.json",
+   "address": {
+    "streetAddress": "4975 Cal Sag Road",
+    "addressLocality": "Crestwood",
+    "addressRegion": "IL",
+    "postalCode": "60445",
+    "addressCountry": "US"
+   },
+   "city": "Crestwood",
+   "state": "IL",
+   "zip": "60445",
+   "geo": {
+    "lat": 41.6541148,
+    "lon": -87.7441697
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11642991464",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "citgo-crestwood",
+   "name": "Citgo",
+   "summary": "Citgo is a car wash in Crestwood, IL at 13830 Pulaski Road, Crestwood, IL 60418.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/citgo-crestwood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/citgo-crestwood.json",
+   "address": {
+    "streetAddress": "13830 Pulaski Road",
+    "addressLocality": "Crestwood",
+    "addressRegion": "IL",
+    "postalCode": "60418",
+    "addressCountry": "US"
+   },
+   "city": "Crestwood",
+   "state": "IL",
+   "zip": "60418",
+   "geo": {
+    "lat": 41.6408154,
+    "lon": -87.7188292
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9634625958",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "discount-tire-crestwood",
+   "name": "Discount Tire",
+   "summary": "Discount Tire is a tire shop in Crestwood, IL at 13550 Cicero Avenue, Crestwood, IL 60445.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/discount-tire-crestwood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/discount-tire-crestwood.json",
+   "address": {
+    "streetAddress": "13550 Cicero Avenue",
+    "addressLocality": "Crestwood",
+    "addressRegion": "IL",
+    "postalCode": "60445",
+    "addressCountry": "US"
+   },
+   "city": "Crestwood",
+   "state": "IL",
+   "zip": "60445",
+   "geo": {
+    "lat": 41.6458918,
+    "lon": -87.7387335
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1339650470",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "jiffy-lube-crestwood",
+   "name": "Jiffy Lube",
+   "summary": "Jiffy Lube is an auto repair shop in Crestwood, IL at 14007 Cicero Avenue, Crestwood, IL 60445.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jiffy-lube-crestwood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jiffy-lube-crestwood.json",
+   "address": {
+    "streetAddress": "14007 Cicero Avenue",
+    "addressLocality": "Crestwood",
+    "addressRegion": "IL",
+    "postalCode": "60445",
+    "addressCountry": "US"
+   },
+   "city": "Crestwood",
+   "state": "IL",
+   "zip": "60445",
+   "geo": {
+    "lat": 41.6377959,
+    "lon": -87.7373385
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1339650455",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "midas-crestwood",
+   "name": "Midas",
+   "summary": "Midas is an auto repair shop in Crestwood, IL at 14224 Cicero Avenue, Crestwood, IL 60445.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/midas-crestwood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/midas-crestwood.json",
+   "address": {
+    "streetAddress": "14224 Cicero Avenue",
+    "addressLocality": "Crestwood",
+    "addressRegion": "IL",
+    "postalCode": "60445",
+    "addressCountry": "US"
+   },
+   "city": "Crestwood",
+   "state": "IL",
+   "zip": "60445",
+   "geo": {
+    "lat": 41.6335535,
+    "lon": -87.7382035
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1339650446",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "to-the-point-tattoo-studio-crestwood",
+   "name": "To The Point Tattoo Studio",
+   "summary": "To The Point Tattoo Studio is a tattoo shop in Crestwood, IL at 14142 Cicero Avenue, Crestwood, IL 60445.",
+   "categories": [
+    "tattoo shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/to-the-point-tattoo-studio-crestwood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/to-the-point-tattoo-studio-crestwood.json",
+   "address": {
+    "streetAddress": "14142 Cicero Avenue",
+    "addressLocality": "Crestwood",
+    "addressRegion": "IL",
+    "postalCode": "60445",
+    "addressCountry": "US"
+   },
+   "city": "Crestwood",
+   "state": "IL",
+   "zip": "60445",
+   "geo": {
+    "lat": 41.6348496,
+    "lon": -87.7382089
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8943902204",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "delia-turner-elementary-school-crestwood",
+   "name": "Delia Turner Elementary School",
+   "summary": "Delia Turner Elementary School is a preschool in Crestwood, IL.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/delia-turner-elementary-school-crestwood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/delia-turner-elementary-school-crestwood.json",
+   "address": {
+    "addressLocality": "Crestwood",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Crestwood",
+   "state": "IL",
+   "geo": {
+    "lat": 41.6469845,
+    "lon": -87.7155054
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1178017727",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "h-and-r-block-crestwood",
+   "name": "H&R Block",
+   "summary": "H&R Block is a tax preparation service in Crestwood, IL.",
+   "categories": [
+    "tax preparation"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/h-and-r-block-crestwood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/h-and-r-block-crestwood.json",
+   "address": {
+    "addressLocality": "Crestwood",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Crestwood",
+   "state": "IL",
+   "geo": {
+    "lat": 41.6515023,
+    "lon": -87.7375294
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9642742875",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "pep-boys-crestwood",
+   "name": "Pep Boys",
+   "summary": "Pep Boys is an auto repair shop in Crestwood, IL.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pep-boys-crestwood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pep-boys-crestwood.json",
+   "address": {
+    "addressLocality": "Crestwood",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Crestwood",
+   "state": "IL",
+   "geo": {
+    "lat": 41.6488658,
+    "lon": -87.7373819
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9642742884",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

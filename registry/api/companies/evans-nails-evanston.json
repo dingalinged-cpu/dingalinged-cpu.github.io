@@ -1,0 +1,55 @@
+{
+ "slug": "evans-nails-evanston",
+ "name": "Evan's Nails",
+ "categories": [
+  "nail salon"
+ ],
+ "keywords": [
+  "nail salon",
+  "nail salon evanston il"
+ ],
+ "services": [
+  {
+   "name": "nail salon",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "821 Noyes Street",
+  "addressLocality": "Evanston",
+  "addressRegion": "IL",
+  "postalCode": "60201",
+  "addressCountry": "US"
+ },
+ "city": "Evanston",
+ "state": "IL",
+ "zip": "60201",
+ "geo": {
+  "lat": 42.058602,
+  "lon": -87.6827812
+ },
+ "schema_type": "NailSalon",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/2295262903",
+ "osm": {
+  "type": "node",
+  "id": 2295262903,
+  "tags_used": {
+   "shop": "beauty",
+   "beauty": "nails"
+  }
+ },
+ "municipality": "Evanston",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/evans-nails-evanston/",
+ "summary": "Evan's Nails is a nail salon in Evanston, IL at 821 Noyes Street, Evanston, IL 60201.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

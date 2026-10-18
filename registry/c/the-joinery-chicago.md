@@ -1,0 +1,23 @@
+The Joinery is an event venue in Chicago, IL at 2533 West Homer Street, Chicago, IL 60647. Website: https://www.thejoinerychicago.com/.
+
+# The Joinery
+
+- Category: event venues
+- Services: event venues
+- Address: 2533 West Homer Street, Chicago, IL 60647
+- City: Chicago
+- State: IL
+- ZIP: 60647
+- Coordinates: 41.9163745, -87.691182
+- Phone: n/a
+- Website: https://www.thejoinerychicago.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/the-joinery-chicago/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-joinery-chicago.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/209405897 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

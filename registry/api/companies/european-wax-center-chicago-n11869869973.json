@@ -1,0 +1,57 @@
+{
+ "slug": "european-wax-center-chicago-n11869869973",
+ "name": "European Wax Center",
+ "categories": [
+  "waxing"
+ ],
+ "keywords": [
+  "waxing",
+  "waxing chicago il"
+ ],
+ "services": [
+  {
+   "name": "waxing",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "4112 South Pulaski Road",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60632",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60632",
+ "geo": {
+  "lat": 41.8175802,
+  "lon": -87.7242152
+ },
+ "brand": "European Wax Center",
+ "wikidata": "Q5413426",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/11869869973",
+ "osm": {
+  "type": "node",
+  "id": 11869869973,
+  "tags_used": {
+   "shop": "beauty",
+   "beauty": "waxing"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/european-wax-center-chicago-n11869869973/",
+ "summary": "European Wax Center is a waxing salon in Chicago, IL at 4112 South Pulaski Road, Chicago, IL 60632.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

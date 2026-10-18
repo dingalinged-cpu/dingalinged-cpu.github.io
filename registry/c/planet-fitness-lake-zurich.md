@@ -1,0 +1,23 @@
+Planet Fitness is a gym in Lake Zurich, IL at 935 South Rand Road, Lake Zurich, IL 60047.
+
+# Planet Fitness
+
+- Category: gym
+- Services: gym
+- Address: 935 South Rand Road, Lake Zurich, IL 60047
+- City: Lake Zurich
+- State: IL
+- ZIP: 60047
+- Coordinates: 42.1813043, -88.0840043
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/planet-fitness-lake-zurich/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/planet-fitness-lake-zurich.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11264804651 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

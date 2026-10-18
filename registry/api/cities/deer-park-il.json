@@ -1,0 +1,258 @@
+{
+ "place": "Deer Park, IL",
+ "slug": "deer-park-il",
+ "count": 8,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "dry cleaners deer park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dry-cleaners-deer-park-il.json"
+  },
+  {
+   "keyword": "furniture store deer park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/furniture-store-deer-park-il.json"
+  },
+  {
+   "keyword": "hair salon deer park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-deer-park-il.json"
+  },
+  {
+   "keyword": "haircut deer park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-deer-park-il.json"
+  },
+  {
+   "keyword": "jewelry store deer park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/jewelry-store-deer-park-il.json"
+  },
+  {
+   "keyword": "mattress store deer park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mattress-store-deer-park-il.json"
+  },
+  {
+   "keyword": "printing services deer park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/printing-services-deer-park-il.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "all-cleaners-deer-park",
+   "name": "All Cleaners",
+   "summary": "All Cleaners is a dry cleaner in Deer Park, IL.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/all-cleaners-deer-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/all-cleaners-deer-park.json",
+   "address": {
+    "addressLocality": "Deer Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Deer Park",
+   "state": "IL",
+   "geo": {
+    "lat": 42.1633073,
+    "lon": -88.0574921
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/323767104",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "great-clips-deer-park",
+   "name": "Great Clips",
+   "summary": "Great Clips is a hair salon in Deer Park, IL.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/great-clips-deer-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/great-clips-deer-park.json",
+   "address": {
+    "addressLocality": "Deer Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Deer Park",
+   "state": "IL",
+   "geo": {
+    "lat": 42.1618474,
+    "lon": -88.0535407
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10220471893",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "lovesac-deer-park",
+   "name": "LoveSac",
+   "summary": "LoveSac is a furniture store in Deer Park, IL.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lovesac-deer-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lovesac-deer-park.json",
+   "address": {
+    "addressLocality": "Deer Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Deer Park",
+   "state": "IL",
+   "geo": {
+    "lat": 42.1609994,
+    "lon": -88.0543201
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10220471898",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "pandora-deer-park",
+   "name": "Pandora",
+   "summary": "Pandora is a jewelry store in Deer Park, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pandora-deer-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pandora-deer-park.json",
+   "address": {
+    "addressLocality": "Deer Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Deer Park",
+   "state": "IL",
+   "geo": {
+    "lat": 42.1611116,
+    "lon": -88.0542182
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10220471896",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "pottery-barn-deer-park",
+   "name": "Pottery Barn",
+   "summary": "Pottery Barn is a furniture store in Deer Park, IL.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pottery-barn-deer-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pottery-barn-deer-park.json",
+   "address": {
+    "addressLocality": "Deer Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Deer Park",
+   "state": "IL",
+   "geo": {
+    "lat": 42.160482,
+    "lon": -88.0549328
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10220471904",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "sleep-number-deer-park",
+   "name": "Sleep Number",
+   "summary": "Sleep Number is a mattress store in Deer Park, IL.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sleep-number-deer-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sleep-number-deer-park.json",
+   "address": {
+    "addressLocality": "Deer Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Deer Park",
+   "state": "IL",
+   "geo": {
+    "lat": 42.1617886,
+    "lon": -88.0535976
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10220471900",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "teak-plus-deer-park",
+   "name": "Teak+Plus",
+   "summary": "Teak+Plus is a furniture store in Deer Park, IL.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/teak-plus-deer-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/teak-plus-deer-park.json",
+   "address": {
+    "addressLocality": "Deer Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Deer Park",
+   "state": "IL",
+   "geo": {
+    "lat": 42.1603643,
+    "lon": -88.0535417
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10220471906",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "the-ups-store-deer-park",
+   "name": "The UPS Store",
+   "summary": "The UPS Store is a printing service in Deer Park, IL.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-ups-store-deer-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-ups-store-deer-park.json",
+   "address": {
+    "addressLocality": "Deer Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Deer Park",
+   "state": "IL",
+   "geo": {
+    "lat": 42.1633256,
+    "lon": -88.0573231
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/323767105",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

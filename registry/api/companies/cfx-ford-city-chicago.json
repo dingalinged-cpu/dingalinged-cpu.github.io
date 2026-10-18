@@ -1,0 +1,57 @@
+{
+ "slug": "cfx-ford-city-chicago",
+ "name": "CFX Ford City",
+ "categories": [
+  "gym"
+ ],
+ "keywords": [
+  "gym",
+  "gym chicago il"
+ ],
+ "services": [
+  {
+   "name": "gym",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "7600 South Pulaski Road",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60652",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60652",
+ "geo": {
+  "lat": 41.754056,
+  "lon": -87.7231364
+ },
+ "phone": "+17735859000",
+ "website": "https://cfxfit.com/location/cfx-ford-city/",
+ "opening_hours": "24/7",
+ "schema_type": "ExerciseGym",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/11388536640",
+ "osm": {
+  "type": "node",
+  "id": 11388536640,
+  "tags_used": {
+   "leisure": "fitness_centre"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/cfx-ford-city-chicago/",
+ "summary": "CFX Ford City is a gym in Chicago, IL at 7600 South Pulaski Road, Chicago, IL 60652. Phone: +17735859000. Website: https://cfxfit.com/location/cfx-ford-city/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

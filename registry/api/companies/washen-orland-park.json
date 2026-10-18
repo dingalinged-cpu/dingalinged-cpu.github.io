@@ -1,0 +1,57 @@
+{
+ "slug": "washen-orland-park",
+ "name": "Washen",
+ "categories": [
+  "car wash"
+ ],
+ "keywords": [
+  "car wash",
+  "car wash orland park il"
+ ],
+ "services": [
+  {
+   "name": "car wash",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "8701 West 159th Street",
+  "addressLocality": "Orland Park",
+  "addressRegion": "IL",
+  "postalCode": "60462",
+  "addressCountry": "US"
+ },
+ "city": "Orland Park",
+ "state": "IL",
+ "zip": "60462",
+ "geo": {
+  "lat": 41.601158,
+  "lon": -87.8305996
+ },
+ "phone": "+14648002029",
+ "website": "https://washen.us/",
+ "opening_hours": "Mo-Su 08:00-18:00",
+ "schema_type": "AutoWash",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/1127672469",
+ "osm": {
+  "type": "way",
+  "id": 1127672469,
+  "tags_used": {
+   "amenity": "car_wash"
+  }
+ },
+ "municipality": "Orland Park",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/washen-orland-park/",
+ "summary": "Washen is a car wash in Orland Park, IL at 8701 West 159th Street, Orland Park, IL 60462. Phone: +14648002029. Website: https://washen.us/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

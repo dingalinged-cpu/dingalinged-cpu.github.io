@@ -1,0 +1,52 @@
+{
+ "slug": "detail-unlimited-brookfield",
+ "name": "Detail Unlimited",
+ "categories": [
+  "car wash"
+ ],
+ "keywords": [
+  "car wash",
+  "car wash brookfield il"
+ ],
+ "services": [
+  {
+   "name": "car wash",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Brookfield",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Brookfield",
+ "state": "IL",
+ "geo": {
+  "lat": 41.8058619,
+  "lon": -87.8495808
+ },
+ "website": "https://www.detail-unlimited.com/",
+ "schema_type": "AutoWash",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/9518398155",
+ "osm": {
+  "type": "node",
+  "id": 9518398155,
+  "tags_used": {
+   "amenity": "car_wash"
+  }
+ },
+ "municipality": "Brookfield",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/detail-unlimited-brookfield/",
+ "summary": "Detail Unlimited is a car wash in Brookfield, IL. Website: https://www.detail-unlimited.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

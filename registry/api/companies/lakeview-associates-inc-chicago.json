@@ -1,0 +1,63 @@
+{
+ "slug": "lakeview-associates-inc-chicago",
+ "name": "Lakeview Associates Inc",
+ "categories": [
+  "property management company"
+ ],
+ "keywords": [
+  "property management company",
+  "property management companies",
+  "property management company chicago il",
+  "property management companies chicago il"
+ ],
+ "services": [
+  {
+   "name": "property management company",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "property management companies",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "520 West Belden Avenue",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60614",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60614",
+ "geo": {
+  "lat": 41.923825,
+  "lon": -87.6423298
+ },
+ "phone": "+17739350240",
+ "website": "https://www.lakeviewassociates.com/",
+ "opening_hours": "Mo-Fr 09:00-17:00",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/11529862626",
+ "osm": {
+  "type": "node",
+  "id": 11529862626,
+  "tags_used": {
+   "office": "property_management"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/lakeview-associates-inc-chicago/",
+ "summary": "Lakeview Associates Inc is a property management company in Chicago, IL at 520 West Belden Avenue, Chicago, IL 60614. Phone: +17739350240. Website: https://www.lakeviewassociates.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

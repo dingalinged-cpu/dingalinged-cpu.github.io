@@ -1,0 +1,60 @@
+{
+ "slug": "qr-taxpro-chicago",
+ "name": "QR TaxPro",
+ "categories": [
+  "tax preparation"
+ ],
+ "keywords": [
+  "tax preparation",
+  "tax preparer",
+  "tax preparation chicago il",
+  "tax preparer chicago il"
+ ],
+ "services": [
+  {
+   "name": "tax preparation",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "tax preparer",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "6970 North Clark Street",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60626",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60626",
+ "geo": {
+  "lat": 42.0084865,
+  "lon": -87.6742498
+ },
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/12040423064",
+ "osm": {
+  "type": "node",
+  "id": 12040423064,
+  "tags_used": {
+   "office": "tax_advisor"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/qr-taxpro-chicago/",
+ "summary": "QR TaxPro is a tax preparation service in Chicago, IL at 6970 North Clark Street, Chicago, IL 60626.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

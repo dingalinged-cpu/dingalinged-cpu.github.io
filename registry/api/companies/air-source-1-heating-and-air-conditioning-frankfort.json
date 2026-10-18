@@ -1,0 +1,61 @@
+{
+ "slug": "air-source-1-heating-and-air-conditioning-frankfort",
+ "name": "Air Source 1 Heating & Air Conditioning",
+ "categories": [
+  "hvac repair"
+ ],
+ "keywords": [
+  "hvac repair",
+  "heating and air",
+  "hvac repair frankfort il",
+  "heating and air frankfort il"
+ ],
+ "services": [
+  {
+   "name": "hvac repair",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "heating and air",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "7649 Jamison Drive",
+  "addressLocality": "Frankfort",
+  "addressRegion": "IL",
+  "postalCode": "60423",
+  "addressCountry": "US"
+ },
+ "city": "Frankfort",
+ "state": "IL",
+ "zip": "60423",
+ "geo": {
+  "lat": 41.5190116,
+  "lon": -87.8020132
+ },
+ "phone": "+17089908965",
+ "website": "https://as1air.com/",
+ "schema_type": "HVACBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/4586515441",
+ "osm": {
+  "type": "node",
+  "id": 4586515441,
+  "tags_used": {
+   "craft": "hvac"
+  }
+ },
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/air-source-1-heating-and-air-conditioning-frankfort/",
+ "summary": "Air Source 1 Heating & Air Conditioning is a HVAC contractor in Frankfort, IL at 7649 Jamison Drive, Frankfort, IL 60423. Phone: +17089908965. Website: https://as1air.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

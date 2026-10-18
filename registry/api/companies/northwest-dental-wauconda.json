@@ -1,0 +1,52 @@
+{
+ "slug": "northwest-dental-wauconda",
+ "name": "Northwest Dental",
+ "categories": [
+  "dentist"
+ ],
+ "keywords": [
+  "dentist",
+  "dentist wauconda il"
+ ],
+ "services": [
+  {
+   "name": "dentist",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Wauconda",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Wauconda",
+ "state": "IL",
+ "geo": {
+  "lat": 42.2589443,
+  "lon": -88.1498111
+ },
+ "schema_type": "Dentist",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/4354682549",
+ "osm": {
+  "type": "node",
+  "id": 4354682549,
+  "tags_used": {
+   "amenity": "dentist",
+   "healthcare": "dentist"
+  }
+ },
+ "municipality": "Wauconda",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/northwest-dental-wauconda/",
+ "summary": "Northwest Dental is a dentist in Wauconda, IL.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

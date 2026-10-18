@@ -1,0 +1,55 @@
+{
+ "slug": "wayfair-edens-plaza-wilmette",
+ "name": "Wayfair Edens Plaza",
+ "categories": [
+  "furniture store"
+ ],
+ "keywords": [
+  "furniture store",
+  "furniture store wilmette il"
+ ],
+ "services": [
+  {
+   "name": "furniture store",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "3232 Lake Avenue #1",
+  "addressLocality": "Wilmette",
+  "addressRegion": "IL",
+  "postalCode": "60091",
+  "addressCountry": "US"
+ },
+ "city": "Wilmette",
+ "state": "IL",
+ "zip": "60091",
+ "geo": {
+  "lat": 42.0814288,
+  "lon": -87.757117
+ },
+ "website": "https://www.wayfair.com/edens-plaza-wilmette-illinois~b636.html",
+ "schema_type": "FurnitureStore",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/1268180783",
+ "osm": {
+  "type": "way",
+  "id": 1268180783,
+  "tags_used": {
+   "shop": "furniture"
+  }
+ },
+ "municipality": "Wilmette",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/wayfair-edens-plaza-wilmette/",
+ "summary": "Wayfair Edens Plaza is a furniture store in Wilmette, IL at 3232 Lake Avenue #1, Wilmette, IL 60091. Website: https://www.wayfair.com/edens-plaza-wilmette-illinois~b636.html.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

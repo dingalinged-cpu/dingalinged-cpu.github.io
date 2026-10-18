@@ -1,0 +1,56 @@
+{
+ "slug": "cr-me-de-la-cr-me-warrenville",
+ "name": "Crème de la Crème",
+ "categories": [
+  "daycare"
+ ],
+ "keywords": [
+  "daycare",
+  "daycare warrenville il"
+ ],
+ "services": [
+  {
+   "name": "daycare",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "4625 Weaver Parkway",
+  "addressLocality": "Warrenville",
+  "addressRegion": "IL",
+  "postalCode": "60555",
+  "addressCountry": "US"
+ },
+ "city": "Warrenville",
+ "state": "IL",
+ "zip": "60555",
+ "geo": {
+  "lat": 41.8019764,
+  "lon": -88.1596595
+ },
+ "phone": "+16303134956",
+ "website": "https://cremedelacreme.com/locations/warrenville-naperville-il/",
+ "schema_type": "ChildCare",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/966328763",
+ "osm": {
+  "type": "way",
+  "id": 966328763,
+  "tags_used": {
+   "amenity": "childcare"
+  }
+ },
+ "municipality": "Warrenville",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/cr-me-de-la-cr-me-warrenville/",
+ "summary": "Crème de la Crème is a daycare in Warrenville, IL at 4625 Weaver Parkway, Warrenville, IL 60555. Phone: +16303134956. Website: https://cremedelacreme.com/locations/warrenville-naperville-il/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,23 @@
+Weird Girl Ink is a tattoo shop in Chicago, IL at West Morse Avenue, Chicago, IL 60626.
+
+# Weird Girl Ink
+
+- Category: tattoo shop
+- Services: tattoo shop
+- Address: West Morse Avenue, Chicago, IL 60626
+- City: Chicago
+- State: IL
+- ZIP: 60626
+- Coordinates: 42.0077272, -87.6675368
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/weird-girl-ink-chicago/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/weird-girl-ink-chicago.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10659667679 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

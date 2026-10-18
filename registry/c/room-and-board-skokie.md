@@ -1,0 +1,23 @@
+Room & Board is a furniture store in Skokie, IL at 10071 Skokie Boulevard, Skokie, IL 60077.
+
+# Room & Board
+
+- Category: furniture store
+- Services: furniture store
+- Address: 10071 Skokie Boulevard, Skokie, IL 60077
+- City: Skokie
+- State: IL
+- ZIP: 60077
+- Coordinates: 42.0644873, -87.7459118
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/room-and-board-skokie/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/room-and-board-skokie.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/383572601 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,0 +1,54 @@
+{
+ "slug": "zachs-car-wash-elmwood-park",
+ "name": "Zach's Car Wash",
+ "categories": [
+  "car wash"
+ ],
+ "keywords": [
+  "car wash",
+  "car wash elmwood park il"
+ ],
+ "services": [
+  {
+   "name": "car wash",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "7525 West Grand Avenue",
+  "addressLocality": "Elmwood Park",
+  "addressRegion": "IL",
+  "postalCode": "60707",
+  "addressCountry": "US"
+ },
+ "city": "Elmwood Park",
+ "state": "IL",
+ "zip": "60707",
+ "geo": {
+  "lat": 41.9251342,
+  "lon": -87.8150361
+ },
+ "schema_type": "AutoWash",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/1344684529",
+ "osm": {
+  "type": "way",
+  "id": 1344684529,
+  "tags_used": {
+   "amenity": "car_wash"
+  }
+ },
+ "municipality": "Elmwood Park",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/zachs-car-wash-elmwood-park/",
+ "summary": "Zach's Car Wash is a car wash in Elmwood Park, IL at 7525 West Grand Avenue, Elmwood Park, IL 60707.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

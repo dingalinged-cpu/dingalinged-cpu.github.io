@@ -1,0 +1,57 @@
+{
+ "slug": "m-spa-naperville",
+ "name": "M SPA",
+ "categories": [
+  "massage"
+ ],
+ "keywords": [
+  "massage",
+  "massage naperville il"
+ ],
+ "services": [
+  {
+   "name": "massage",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1803 Wehrli Road",
+  "addressLocality": "Naperville",
+  "addressRegion": "IL",
+  "postalCode": "60565",
+  "addressCountry": "US"
+ },
+ "city": "Naperville",
+ "state": "IL",
+ "zip": "60565",
+ "geo": {
+  "lat": 41.7358737,
+  "lon": -88.100102
+ },
+ "phone": "+16303408259",
+ "website": "https://mspa-naperville.com/",
+ "opening_hours": "Mo-Su 10:00-22:00",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/7998411421",
+ "osm": {
+  "type": "node",
+  "id": 7998411421,
+  "tags_used": {
+   "shop": "massage"
+  }
+ },
+ "municipality": "Naperville",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/m-spa-naperville/",
+ "summary": "M SPA is a massage studio in Naperville, IL at 1803 Wehrli Road, Naperville, IL 60565. Phone: +16303408259. Website: https://mspa-naperville.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

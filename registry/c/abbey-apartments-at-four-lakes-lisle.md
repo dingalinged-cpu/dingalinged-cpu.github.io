@@ -1,0 +1,23 @@
+Abbey Apartments at Four Lakes is a property management company in Lisle, IL at 5550 Abbey Drive #1B, Lisle, IL 60532. Phone: +16303229700. Website: https://www.abbey4lakes.com/.
+
+# Abbey Apartments at Four Lakes
+
+- Category: property management company
+- Services: property management company, property management companies
+- Address: 5550 Abbey Drive #1B, Lisle, IL 60532
+- City: Lisle
+- State: IL
+- ZIP: 60532
+- Coordinates: 41.783781, -88.0866138
+- Phone: +16303229700
+- Website: https://www.abbey4lakes.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 09:00-17:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/abbey-apartments-at-four-lakes-lisle/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/abbey-apartments-at-four-lakes-lisle.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13409752587 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

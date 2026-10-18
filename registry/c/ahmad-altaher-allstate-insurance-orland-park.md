@@ -1,0 +1,23 @@
+AHMAD ALTAHER: Allstate Insurance is an insurance agent in Orland Park, IL at 17845 Wolf Road, Orland Park, IL 60467. Phone: +17086946705. Website: https://agents.allstate.com/ahmad-altaher-orland-park-il.html.
+
+# AHMAD ALTAHER: Allstate Insurance
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: 17845 Wolf Road, Orland Park, IL 60467
+- City: Orland Park
+- State: IL
+- ZIP: 60467
+- Coordinates: 41.5656677, -87.8899159
+- Phone: +17086946705
+- Website: https://agents.allstate.com/ahmad-altaher-orland-park-il.html
+- Email: ahmadaltaher1@allstate.com
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/ahmad-altaher-allstate-insurance-orland-park/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/ahmad-altaher-allstate-insurance-orland-park.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13619006095 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

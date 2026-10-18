@@ -1,0 +1,149 @@
+{
+ "place": "Bannockburn, IL",
+ "slug": "bannockburn-il",
+ "count": 4,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "gym bannockburn il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-bannockburn-il.json"
+  },
+  {
+   "keyword": "hair salon bannockburn il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-bannockburn-il.json"
+  },
+  {
+   "keyword": "haircut bannockburn il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-bannockburn-il.json"
+  },
+  {
+   "keyword": "mattress store bannockburn il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mattress-store-bannockburn-il.json"
+  },
+  {
+   "keyword": "storage units bannockburn il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/storage-units-bannockburn-il.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "sport-clips-bannockburn",
+   "name": "Sport Clips",
+   "summary": "Sport Clips is a hair salon in Bannockburn, IL at 2563 Waukegan Road, Bannockburn, IL. Phone: +18479140200. Website: https://sportclips.com/us-il-bannockburn-il143.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sport-clips-bannockburn/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sport-clips-bannockburn.json",
+   "address": {
+    "streetAddress": "2563 Waukegan Road",
+    "addressLocality": "Bannockburn",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Bannockburn",
+   "state": "IL",
+   "geo": {
+    "lat": 42.1986896,
+    "lon": -87.8586083
+   },
+   "phone": "+18479140200",
+   "website": "https://sportclips.com/us-il-bannockburn-il143",
+   "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su 10:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13806622947",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "metro-self-storage-deerfield",
+   "name": "Metro Self Storage",
+   "summary": "Metro Self Storage is a self-storage facility in Deerfield, IL at 2021 Waukegan Road, Deerfield, IL 60015.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/metro-self-storage-deerfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/metro-self-storage-deerfield.json",
+   "address": {
+    "streetAddress": "2021 Waukegan Road",
+    "addressLocality": "Deerfield",
+    "addressRegion": "IL",
+    "postalCode": "60015",
+    "addressCountry": "US"
+   },
+   "city": "Deerfield",
+   "state": "IL",
+   "zip": "60015",
+   "geo": {
+    "lat": 42.189459,
+    "lon": -87.8564427
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1336896419",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "aldeen-building-bannockburn",
+   "name": "Aldeen Building",
+   "summary": "Aldeen Building is a gym in Bannockburn, IL.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/aldeen-building-bannockburn/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/aldeen-building-bannockburn.json",
+   "address": {
+    "addressLocality": "Bannockburn",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Bannockburn",
+   "state": "IL",
+   "geo": {
+    "lat": 42.1990404,
+    "lon": -87.8806543
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/546395868",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "mattress-firm-bannockburn",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Bannockburn, IL.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-bannockburn/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-bannockburn.json",
+   "address": {
+    "addressLocality": "Bannockburn",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Bannockburn",
+   "state": "IL",
+   "geo": {
+    "lat": 42.1995354,
+    "lon": -87.8599031
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13806622952",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

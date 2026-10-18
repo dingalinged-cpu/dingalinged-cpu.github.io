@@ -1,0 +1,23 @@
+Farmers Insurance - Anna Lebiecka-Helma is an insurance agent in Villa Park, IL at 401 East North Avenue ##8, Villa Park, IL 60181. Phone: +16303523052. Website: https://agents.farmers.com/il/villa-park/anna-lebiecka-helma.
+
+# Farmers Insurance - Anna Lebiecka-Helma
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: 401 East North Avenue ##8, Villa Park, IL 60181
+- City: Villa Park
+- State: IL
+- ZIP: 60181
+- Coordinates: 41.9044017, -88.0115805
+- Phone: +16303523052
+- Website: https://agents.farmers.com/il/villa-park/anna-lebiecka-helma
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 09:00-17:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/farmers-insurance-anna-lebiecka-helma-villa-park/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/farmers-insurance-anna-lebiecka-helma-villa-park.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5961090382 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

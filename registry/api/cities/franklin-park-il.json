@@ -1,0 +1,512 @@
+{
+ "place": "Franklin Park, IL",
+ "slug": "franklin-park-il",
+ "count": 15,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "auto repair franklin park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-franklin-park-il.json"
+  },
+  {
+   "keyword": "bakery franklin park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/bakery-franklin-park-il.json"
+  },
+  {
+   "keyword": "car wash franklin park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-franklin-park-il.json"
+  },
+  {
+   "keyword": "dentist franklin park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-franklin-park-il.json"
+  },
+  {
+   "keyword": "furniture store franklin park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/furniture-store-franklin-park-il.json"
+  },
+  {
+   "keyword": "liquor store franklin park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/liquor-store-franklin-park-il.json"
+  },
+  {
+   "keyword": "mechanic franklin park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-franklin-park-il.json"
+  },
+  {
+   "keyword": "movers franklin park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/movers-franklin-park-il.json"
+  },
+  {
+   "keyword": "moving company franklin park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/moving-company-franklin-park-il.json"
+  },
+  {
+   "keyword": "storage units franklin park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/storage-units-franklin-park-il.json"
+  },
+  {
+   "keyword": "thrift store franklin park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/thrift-store-franklin-park-il.json"
+  },
+  {
+   "keyword": "vet franklin park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/vet-franklin-park-il.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "firestone-franklin-park",
+   "name": "Firestone",
+   "summary": "Firestone is an auto repair shop in Franklin Park, IL at 2550 North Mannheim Road, Franklin Park, IL 60131. Phone: +18479161134. Website: https://local.firestonecompleteautocare.com/illinois/franklin-park/2550-mannheim-rd/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/firestone-franklin-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/firestone-franklin-park.json",
+   "address": {
+    "streetAddress": "2550 North Mannheim Road",
+    "addressLocality": "Franklin Park",
+    "addressRegion": "IL",
+    "postalCode": "60131",
+    "addressCountry": "US"
+   },
+   "city": "Franklin Park",
+   "state": "IL",
+   "zip": "60131",
+   "geo": {
+    "lat": 41.9252527,
+    "lon": -87.8851603
+   },
+   "phone": "+18479161134",
+   "website": "https://local.firestonecompleteautocare.com/illinois/franklin-park/2550-mannheim-rd/",
+   "opening_hours": "Mo-Fr 07:00-19:00; Sa 07:00-18:00; Su 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1330653471",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "il-mulino-di-valenzano-bakery-franklin-park",
+   "name": "Il Mulino Di Valenzano Bakery",
+   "summary": "Il Mulino Di Valenzano Bakery is a bakery in Franklin Park, IL at 3853 Carnation Street, Franklin Park, IL 60131. Phone: +18476715216.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/il-mulino-di-valenzano-bakery-franklin-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/il-mulino-di-valenzano-bakery-franklin-park.json",
+   "address": {
+    "streetAddress": "3853 Carnation Street",
+    "addressLocality": "Franklin Park",
+    "addressRegion": "IL",
+    "postalCode": "60131",
+    "addressCountry": "US"
+   },
+   "city": "Franklin Park",
+   "state": "IL",
+   "zip": "60131",
+   "geo": {
+    "lat": 41.9506014,
+    "lon": -87.888228
+   },
+   "phone": "+18476715216",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11837316004",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "vca-animal-hospital-franklin-park",
+   "name": "VCA Animal Hospital",
+   "summary": "VCA Animal Hospital is a veterinarian in Franklin Park, IL at 9846 West Grand Avenue, Franklin Park, IL 60131. Website: https://vcahospitals.com/franklin-park/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/vca-animal-hospital-franklin-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/vca-animal-hospital-franklin-park.json",
+   "address": {
+    "streetAddress": "9846 West Grand Avenue",
+    "addressLocality": "Franklin Park",
+    "addressRegion": "IL",
+    "postalCode": "60131",
+    "addressCountry": "US"
+   },
+   "city": "Franklin Park",
+   "state": "IL",
+   "zip": "60131",
+   "geo": {
+    "lat": 41.9301252,
+    "lon": -87.8723007
+   },
+   "website": "https://vcahospitals.com/franklin-park/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11942606915",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "acme-dentistry-franklin-park",
+   "name": "Acme Dentistry",
+   "summary": "Acme Dentistry is a dentist in Franklin Park, IL at 10114 Grand Avenue, Franklin Park, IL 60131.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/acme-dentistry-franklin-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/acme-dentistry-franklin-park.json",
+   "address": {
+    "streetAddress": "10114 Grand Avenue",
+    "addressLocality": "Franklin Park",
+    "addressRegion": "IL",
+    "postalCode": "60131",
+    "addressCountry": "US"
+   },
+   "city": "Franklin Park",
+   "state": "IL",
+   "zip": "60131",
+   "geo": {
+    "lat": 41.9304269,
+    "lon": -87.8782451
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13096674436",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "allied-international-franklin-park",
+   "name": "Allied International",
+   "summary": "Allied International is a moving company in Franklin Park, IL at 10423 Franklin Avenue, Franklin Park, IL 60131.",
+   "categories": [
+    "movers"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/allied-international-franklin-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/allied-international-franklin-park.json",
+   "address": {
+    "streetAddress": "10423 Franklin Avenue",
+    "addressLocality": "Franklin Park",
+    "addressRegion": "IL",
+    "postalCode": "60131",
+    "addressCountry": "US"
+   },
+   "city": "Franklin Park",
+   "state": "IL",
+   "zip": "60131",
+   "geo": {
+    "lat": 41.9392399,
+    "lon": -87.8872473
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10687317048",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "flexport-franklin-park",
+   "name": "Flexport",
+   "summary": "Flexport is a moving company in Franklin Park, IL at 10601 Franklin Avenue #100, Franklin Park, IL 60132.",
+   "categories": [
+    "movers"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/flexport-franklin-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/flexport-franklin-park.json",
+   "address": {
+    "streetAddress": "10601 Franklin Avenue #100",
+    "addressLocality": "Franklin Park",
+    "addressRegion": "IL",
+    "postalCode": "60132",
+    "addressCountry": "US"
+   },
+   "city": "Franklin Park",
+   "state": "IL",
+   "zip": "60132",
+   "geo": {
+    "lat": 41.9394235,
+    "lon": -87.8914026
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7191547988",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "jiffy-lube-franklin-park",
+   "name": "Jiffy Lube",
+   "summary": "Jiffy Lube is an auto repair shop in Franklin Park, IL at 3301 North Mannheim Road, Franklin Park, IL 60131.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jiffy-lube-franklin-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jiffy-lube-franklin-park.json",
+   "address": {
+    "streetAddress": "3301 North Mannheim Road",
+    "addressLocality": "Franklin Park",
+    "addressRegion": "IL",
+    "postalCode": "60131",
+    "addressCountry": "US"
+   },
+   "city": "Franklin Park",
+   "state": "IL",
+   "zip": "60131",
+   "geo": {
+    "lat": 41.9385231,
+    "lon": -87.8846487
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1330653497",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "mobil-franklin-park",
+   "name": "Mobil",
+   "summary": "Mobil is a car wash in Franklin Park, IL at 3201 North Mannheim Road, Franklin Park, IL 60131.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mobil-franklin-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mobil-franklin-park.json",
+   "address": {
+    "streetAddress": "3201 North Mannheim Road",
+    "addressLocality": "Franklin Park",
+    "addressRegion": "IL",
+    "postalCode": "60131",
+    "addressCountry": "US"
+   },
+   "city": "Franklin Park",
+   "state": "IL",
+   "zip": "60131",
+   "geo": {
+    "lat": 41.9370912,
+    "lon": -87.8844668
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1330653496",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "rent-a-center-franklin-park",
+   "name": "Rent-A-Center",
+   "summary": "Rent-A-Center is a furniture store in Franklin Park, IL at 2717 North Mannheim Road, Franklin Park, IL 60131.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rent-a-center-franklin-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rent-a-center-franklin-park.json",
+   "address": {
+    "streetAddress": "2717 North Mannheim Road",
+    "addressLocality": "Franklin Park",
+    "addressRegion": "IL",
+    "postalCode": "60131",
+    "addressCountry": "US"
+   },
+   "city": "Franklin Park",
+   "state": "IL",
+   "zip": "60131",
+   "geo": {
+    "lat": 41.9278685,
+    "lon": -87.8830114
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7432986785",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "shell-franklin-park",
+   "name": "Shell",
+   "summary": "Shell is a car wash in Franklin Park, IL at 9601 West Grand Avenue, Franklin Park, IL 60131.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/shell-franklin-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/shell-franklin-park.json",
+   "address": {
+    "streetAddress": "9601 West Grand Avenue",
+    "addressLocality": "Franklin Park",
+    "addressRegion": "IL",
+    "postalCode": "60131",
+    "addressCountry": "US"
+   },
+   "city": "Franklin Park",
+   "state": "IL",
+   "zip": "60131",
+   "geo": {
+    "lat": 41.9293052,
+    "lon": -87.865827
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1330653482",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "storagemart-franklin-park",
+   "name": "StorageMart",
+   "summary": "StorageMart is a self-storage facility in Franklin Park, IL at 3100 North Mannheim Road, Franklin Park, IL 60131.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/storagemart-franklin-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/storagemart-franklin-park.json",
+   "address": {
+    "streetAddress": "3100 North Mannheim Road",
+    "addressLocality": "Franklin Park",
+    "addressRegion": "IL",
+    "postalCode": "60131",
+    "addressCountry": "US"
+   },
+   "city": "Franklin Park",
+   "state": "IL",
+   "zip": "60131",
+   "geo": {
+    "lat": 41.9350498,
+    "lon": -87.8853639
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/406779362",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "unilogic-franklin-park",
+   "name": "Unilogic",
+   "summary": "Unilogic is a moving company in Franklin Park, IL at 10601 Franklin Avenue, Franklin Park, IL 60132.",
+   "categories": [
+    "movers"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/unilogic-franklin-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/unilogic-franklin-park.json",
+   "address": {
+    "streetAddress": "10601 Franklin Avenue",
+    "addressLocality": "Franklin Park",
+    "addressRegion": "IL",
+    "postalCode": "60132",
+    "addressCountry": "US"
+   },
+   "city": "Franklin Park",
+   "state": "IL",
+   "zip": "60132",
+   "geo": {
+    "lat": 41.9391405,
+    "lon": -87.8907877
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10687316161",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "valasquez-and-sons-muffler-franklin-park",
+   "name": "Valasquez & Sons Muffler",
+   "summary": "Valasquez & Sons Muffler is an auto repair shop in Franklin Park, IL at 3035 North Mannheim Road, Franklin Park, IL 60131.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/valasquez-and-sons-muffler-franklin-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/valasquez-and-sons-muffler-franklin-park.json",
+   "address": {
+    "streetAddress": "3035 North Mannheim Road",
+    "addressLocality": "Franklin Park",
+    "addressRegion": "IL",
+    "postalCode": "60131",
+    "addressCountry": "US"
+   },
+   "city": "Franklin Park",
+   "state": "IL",
+   "zip": "60131",
+   "geo": {
+    "lat": 41.9341553,
+    "lon": -87.8844464
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/105007004",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "bell-liquors-and-tap-franklin-park",
+   "name": "Bell Liquors & Tap",
+   "summary": "Bell Liquors & Tap is a liquor store in Franklin Park, IL.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bell-liquors-and-tap-franklin-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bell-liquors-and-tap-franklin-park.json",
+   "address": {
+    "addressLocality": "Franklin Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Franklin Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.935381,
+    "lon": -87.8664532
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4207789134",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "the-salvation-army-franklin-park",
+   "name": "The Salvation Army",
+   "summary": "The Salvation Army is a thrift store in Franklin Park, IL.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-salvation-army-franklin-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-salvation-army-franklin-park.json",
+   "address": {
+    "addressLocality": "Franklin Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Franklin Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9274694,
+    "lon": -87.8812411
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7432982084",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

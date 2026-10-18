@@ -1,0 +1,57 @@
+{
+ "slug": "sunny-financial-strategies-schaumburg",
+ "name": "Sunny Financial Strategies",
+ "categories": [
+  "financial advisor"
+ ],
+ "keywords": [
+  "financial advisor",
+  "financial advisor schaumburg il"
+ ],
+ "services": [
+  {
+   "name": "financial advisor",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "475 North Martingale Road #1250",
+  "addressLocality": "Schaumburg",
+  "addressRegion": "IL",
+  "postalCode": "60173",
+  "addressCountry": "US"
+ },
+ "city": "Schaumburg",
+ "state": "IL",
+ "zip": "60173",
+ "geo": {
+  "lat": 42.0366158,
+  "lon": -88.0364984
+ },
+ "phone": "+18474149116",
+ "website": "https://sunnyfinancial.com/",
+ "opening_hours": "Mo-Th 09:00-20:00; Fr 09:00-17:00; Sa 10:00-15:00",
+ "schema_type": "FinancialService",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/11303916951",
+ "osm": {
+  "type": "node",
+  "id": 11303916951,
+  "tags_used": {
+   "office": "financial_advisor"
+  }
+ },
+ "municipality": "Schaumburg",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/sunny-financial-strategies-schaumburg/",
+ "summary": "Sunny Financial Strategies is a financial advisor in Schaumburg, IL at 475 North Martingale Road #1250, Schaumburg, IL 60173. Phone: +18474149116. Website: https://sunnyfinancial.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

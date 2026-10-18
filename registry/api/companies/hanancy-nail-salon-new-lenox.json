@@ -1,0 +1,56 @@
+{
+ "slug": "hanancy-nail-salon-new-lenox",
+ "name": "Hanancy Nail Salon",
+ "categories": [
+  "nail salon"
+ ],
+ "keywords": [
+  "nail salon",
+  "nail salon new lenox il"
+ ],
+ "services": [
+  {
+   "name": "nail salon",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "West Illinois Highway",
+  "addressLocality": "New Lenox",
+  "addressRegion": "IL",
+  "postalCode": "60451",
+  "addressCountry": "US"
+ },
+ "city": "New Lenox",
+ "state": "IL",
+ "zip": "60451",
+ "geo": {
+  "lat": 41.4971464,
+  "lon": -87.9664143
+ },
+ "phone": "+18154630998",
+ "schema_type": "NailSalon",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/7657641707",
+ "osm": {
+  "type": "node",
+  "id": 7657641707,
+  "tags_used": {
+   "shop": "beauty",
+   "beauty": "nails"
+  }
+ },
+ "municipality": "New Lenox",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/hanancy-nail-salon-new-lenox/",
+ "summary": "Hanancy Nail Salon is a nail salon in New Lenox, IL at West Illinois Highway, New Lenox, IL 60451. Phone: +18154630998.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

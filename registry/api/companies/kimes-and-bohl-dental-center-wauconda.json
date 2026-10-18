@@ -1,0 +1,56 @@
+{
+ "slug": "kimes-and-bohl-dental-center-wauconda",
+ "name": "Kimes & Bohl Dental Center",
+ "categories": [
+  "dentist"
+ ],
+ "keywords": [
+  "dentist",
+  "dentist wauconda il"
+ ],
+ "services": [
+  {
+   "name": "dentist",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "469 West Liberty Street #C",
+  "addressLocality": "Wauconda",
+  "addressRegion": "IL",
+  "postalCode": "60084",
+  "addressCountry": "US"
+ },
+ "city": "Wauconda",
+ "state": "IL",
+ "zip": "60084",
+ "geo": {
+  "lat": 42.2574809,
+  "lon": -88.1493739
+ },
+ "phone": "+18475269288",
+ "schema_type": "Dentist",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/9075044628",
+ "osm": {
+  "type": "node",
+  "id": 9075044628,
+  "tags_used": {
+   "amenity": "dentist",
+   "healthcare": "dentist"
+  }
+ },
+ "municipality": "Wauconda",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/kimes-and-bohl-dental-center-wauconda/",
+ "summary": "Kimes & Bohl Dental Center is a dentist in Wauconda, IL at 469 West Liberty Street #C, Wauconda, IL 60084. Phone: +18475269288.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

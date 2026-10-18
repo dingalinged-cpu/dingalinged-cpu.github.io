@@ -1,0 +1,51 @@
+{
+ "slug": "childrens-developmental-institute-chicago-w446707592",
+ "name": "Children's Developmental Institute",
+ "categories": [
+  "preschool"
+ ],
+ "keywords": [
+  "preschool",
+  "preschool chicago il"
+ ],
+ "services": [
+  {
+   "name": "preschool",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "geo": {
+  "lat": 41.7666878,
+  "lon": -87.5854858
+ },
+ "schema_type": "Preschool",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/446707592",
+ "osm": {
+  "type": "way",
+  "id": 446707592,
+  "tags_used": {
+   "amenity": "kindergarten"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/childrens-developmental-institute-chicago-w446707592/",
+ "summary": "Children's Developmental Institute is a preschool in Chicago, IL.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

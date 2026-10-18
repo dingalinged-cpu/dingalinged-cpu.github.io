@@ -1,0 +1,62 @@
+{
+ "slug": "westfield-ford-truck-center-countryside",
+ "name": "Westfield Ford Truck Center",
+ "categories": [
+  "auto repair"
+ ],
+ "keywords": [
+  "auto repair",
+  "mechanic",
+  "auto repair countryside il",
+  "mechanic countryside il"
+ ],
+ "services": [
+  {
+   "name": "auto repair",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "mechanic",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "6200 South La Grange Road",
+  "addressLocality": "Countryside",
+  "addressRegion": "IL",
+  "postalCode": "60525",
+  "addressCountry": "US"
+ },
+ "city": "Countryside",
+ "state": "IL",
+ "zip": "60525",
+ "geo": {
+  "lat": 41.7762619,
+  "lon": -87.8687151
+ },
+ "brand": "Ford",
+ "wikidata": "Q44294",
+ "schema_type": "AutoRepair",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/554965231",
+ "osm": {
+  "type": "way",
+  "id": 554965231,
+  "tags_used": {
+   "shop": "car_repair"
+  }
+ },
+ "municipality": "Countryside",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/westfield-ford-truck-center-countryside/",
+ "summary": "Westfield Ford Truck Center is an auto repair shop in Countryside, IL at 6200 South La Grange Road, Countryside, IL 60525.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

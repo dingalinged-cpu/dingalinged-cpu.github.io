@@ -1,0 +1,23 @@
+Law Offices of David L. Freidberg, P.C. is a lawyer in Chicago, IL at 70 West Madison Street #1450, Chicago, IL 60602. Phone: +13125607100. Website: https://www.chicagocriminallawyer.pro/.
+
+# Law Offices of David L. Freidberg, P.C.
+
+- Category: lawyer
+- Services: lawyer, attorney
+- Address: 70 West Madison Street #1450, Chicago, IL 60602
+- City: Chicago
+- State: IL
+- ZIP: 60602
+- Coordinates: 41.8822485, -87.6301555
+- Phone: +13125607100
+- Website: https://www.chicagocriminallawyer.pro/
+- Email: n/a
+- Opening hours (OSM syntax): 24/7
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/law-offices-of-david-l-freidberg-p-c-chicago/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/law-offices-of-david-l-freidberg-p-c-chicago.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12723368696 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,0 +1,53 @@
+{
+ "slug": "1st-dental-and-orthodontist-mount-prospect",
+ "name": "1st Dental & Orthodontist",
+ "categories": [
+  "dentist"
+ ],
+ "keywords": [
+  "dentist",
+  "dentist mount prospect il"
+ ],
+ "services": [
+  {
+   "name": "dentist",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Mount Prospect",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Mount Prospect",
+ "state": "IL",
+ "geo": {
+  "lat": 42.080539,
+  "lon": -87.9339926
+ },
+ "schema_type": "Dentist",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/1221219284",
+ "osm": {
+  "type": "way",
+  "id": 1221219284,
+  "tags_used": {
+   "amenity": "dentist",
+   "healthcare": "dentist",
+   "healthcare:speciality": "orthodontics"
+  }
+ },
+ "municipality": "Mount Prospect",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/1st-dental-and-orthodontist-mount-prospect/",
+ "summary": "1st Dental & Orthodontist is a dentist in Mount Prospect, IL.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

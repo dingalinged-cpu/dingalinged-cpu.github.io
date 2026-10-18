@@ -1,0 +1,54 @@
+{
+ "slug": "armandos-tire-shop-chicago",
+ "name": "Armando's Tire Shop",
+ "categories": [
+  "tire shop"
+ ],
+ "keywords": [
+  "tire shop",
+  "tire shop chicago il"
+ ],
+ "services": [
+  {
+   "name": "tire shop",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "10546 South Torrence Avenue",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60617",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60617",
+ "geo": {
+  "lat": 41.7032183,
+  "lon": -87.5598896
+ },
+ "schema_type": "TireShop",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/211270935",
+ "osm": {
+  "type": "way",
+  "id": 211270935,
+  "tags_used": {
+   "shop": "tyres"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/armandos-tire-shop-chicago/",
+ "summary": "Armando's Tire Shop is a tire shop in Chicago, IL at 10546 South Torrence Avenue, Chicago, IL 60617.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,67 @@
+{
+ "slug": "salon-yangmi-niles",
+ "name": "Salon Yangmi",
+ "categories": [
+  "hair salon"
+ ],
+ "keywords": [
+  "hair salon",
+  "haircut",
+  "hair salon niles il",
+  "haircut niles il"
+ ],
+ "services": [
+  {
+   "name": "hair salon",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "haircut",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "9620 North Milwaukee Avenue",
+  "addressLocality": "Niles",
+  "addressRegion": "IL",
+  "postalCode": "60714",
+  "addressCountry": "US"
+ },
+ "city": "Niles",
+ "state": "IL",
+ "zip": "60714",
+ "geo": {
+  "lat": 42.0551522,
+  "lon": -87.8394014
+ },
+ "phone": "+18478272662",
+ "website": "https://www.salonyangmi.com/",
+ "opening_hours": "Mo, We-Sa 10:00-19:00; Su 11:00-19:00",
+ "social": [
+  "https://www.facebook.com/salonyangminiles/",
+  "https://www.instagram.com/salon_yangmi/"
+ ],
+ "schema_type": "HairSalon",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/13025939357",
+ "osm": {
+  "type": "node",
+  "id": 13025939357,
+  "tags_used": {
+   "shop": "hairdresser"
+  }
+ },
+ "municipality": "Niles",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/salon-yangmi-niles/",
+ "summary": "Salon Yangmi is a hair salon in Niles, IL at 9620 North Milwaukee Avenue, Niles, IL 60714. Phone: +18478272662. Website: https://www.salonyangmi.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

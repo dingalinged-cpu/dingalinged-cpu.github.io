@@ -1,0 +1,63 @@
+{
+ "slug": "ubreakifix-darien",
+ "name": "uBreakiFix",
+ "categories": [
+  "phone repair"
+ ],
+ "keywords": [
+  "phone repair",
+  "computer repair",
+  "phone repair darien il",
+  "computer repair darien il"
+ ],
+ "services": [
+  {
+   "name": "phone repair",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "computer repair",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "7531 Lemont Road #B",
+  "addressLocality": "Darien",
+  "addressRegion": "IL",
+  "postalCode": "60561",
+  "addressCountry": "US"
+ },
+ "city": "Darien",
+ "state": "IL",
+ "zip": "60561",
+ "geo": {
+  "lat": 41.749019,
+  "lon": -88.0121097
+ },
+ "phone": "+16303246076",
+ "brand": "uBreakiFix",
+ "wikidata": "Q53685733",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/8989207174",
+ "osm": {
+  "type": "node",
+  "id": 8989207174,
+  "tags_used": {
+   "craft": "electronics_repair"
+  }
+ },
+ "municipality": "Darien",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/ubreakifix-darien/",
+ "summary": "uBreakiFix is a phone repair shop in Darien, IL at 7531 Lemont Road #B, Darien, IL 60561. Phone: +16303246076.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

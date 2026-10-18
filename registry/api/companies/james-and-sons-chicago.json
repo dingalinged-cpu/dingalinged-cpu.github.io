@@ -1,0 +1,51 @@
+{
+ "slug": "james-and-sons-chicago",
+ "name": "James & Sons",
+ "categories": [
+  "jewelry store"
+ ],
+ "keywords": [
+  "jewelry store",
+  "jewelry store chicago il"
+ ],
+ "services": [
+  {
+   "name": "jewelry store",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "geo": {
+  "lat": 41.9084015,
+  "lon": -87.6478797
+ },
+ "schema_type": "JewelryStore",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/4191676728",
+ "osm": {
+  "type": "node",
+  "id": 4191676728,
+  "tags_used": {
+   "shop": "jewelry"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/james-and-sons-chicago/",
+ "summary": "James & Sons is a jewelry store in Chicago, IL.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

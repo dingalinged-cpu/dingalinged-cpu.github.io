@@ -1,0 +1,653 @@
+{
+ "keyword": "auto body shop chicago il",
+ "slug": "auto-body-shop-chicago-il",
+ "place": "Chicago, IL",
+ "service": "auto body shop",
+ "query": "Who are the best auto body shop providers in Chicago, IL?",
+ "matches": [
+  "auto body shop in Chicago, IL",
+  "auto body shop near me (Chicago, IL)",
+  "best auto body shop Chicago, IL",
+  "top rated auto body shop Chicago, IL",
+  "affordable auto body shop Chicago, IL",
+  "emergency auto body shop Chicago, IL"
+ ],
+ "answer": "The top unpaid auto body shop listing for Chicago, IL is Kraftsmen Auto Body (an auto repair shop in Chicago, IL at 3149-3151 North Clybourn Avenue, Chicago, IL 60618. Phone: +17735251907. Website: https://www.kraftsmenauto.com/). 12 auto body shop businesses are listed for Chicago, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-18",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "kraftsmen-auto-body-chicago",
+   "name": "Kraftsmen Auto Body",
+   "summary": "Kraftsmen Auto Body is an auto repair shop in Chicago, IL at 3149-3151 North Clybourn Avenue, Chicago, IL 60618. Phone: +17735251907. Website: https://www.kraftsmenauto.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kraftsmen-auto-body-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kraftsmen-auto-body-chicago.json",
+   "address": {
+    "streetAddress": "3149-3151 North Clybourn Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60618",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60618",
+   "geo": {
+    "lat": 41.938936,
+    "lon": -87.6868306
+   },
+   "phone": "+17735251907",
+   "website": "https://www.kraftsmenauto.com/",
+   "opening_hours": "Mo-Fr 08:30-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/209457519",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "a-ok-automotive-collison-center-chicago",
+   "name": "A-OK Automotive Collison Center",
+   "summary": "A-OK Automotive Collison Center is an auto repair shop in Chicago, IL at 5805 South Archer Avenue, Chicago, IL 60638. Phone: +17735817979. Website: https://www.a-okautomotive.net/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/a-ok-automotive-collison-center-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/a-ok-automotive-collison-center-chicago.json",
+   "address": {
+    "streetAddress": "5805 South Archer Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60638",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60638",
+   "geo": {
+    "lat": 41.7961117,
+    "lon": -87.7585219
+   },
+   "phone": "+17735817979",
+   "website": "https://www.a-okautomotive.net/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8144849182",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "caliber-collision-chicago-w163444746",
+   "name": "Caliber Collision",
+   "summary": "Caliber Collision is an auto repair shop in Chicago, IL at 7606 West Touhy Avenue, Chicago, IL 60631. Website: https://www.caliber.com/find-a-location/chicago-north.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/caliber-collision-chicago-w163444746/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/caliber-collision-chicago-w163444746.json",
+   "address": {
+    "streetAddress": "7606 West Touhy Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60631",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60631",
+   "geo": {
+    "lat": 42.0117585,
+    "lon": -87.8166921
+   },
+   "website": "https://www.caliber.com/find-a-location/chicago-north",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/163444746",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "crash-champions-chicago",
+   "name": "Crash Champions",
+   "summary": "Crash Champions is an auto repair shop in Chicago, IL at 3545 North Milwaukee Avenue, Chicago, IL 60641. Website: https://crashchampions.com/locations/crash-champions-milwaukee-ave.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/crash-champions-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/crash-champions-chicago.json",
+   "address": {
+    "streetAddress": "3545 North Milwaukee Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60641",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60641",
+   "geo": {
+    "lat": 41.945263,
+    "lon": -87.7335323
+   },
+   "website": "https://crashchampions.com/locations/crash-champions-milwaukee-ave",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12288579155",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "crash-champions-chicago-w210308312",
+   "name": "Crash Champions",
+   "summary": "Crash Champions is an auto repair shop in Chicago, IL at 870 West Division Street, Chicago, IL 60642. Website: https://crashchampions.com/locations/crash-champions-division.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/crash-champions-chicago-w210308312/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/crash-champions-chicago-w210308312.json",
+   "address": {
+    "streetAddress": "870 West Division Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60642",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60642",
+   "geo": {
+    "lat": 41.9041328,
+    "lon": -87.6510469
+   },
+   "website": "https://crashchampions.com/locations/crash-champions-division",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/210308312",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "crash-champions-chicago-w210538050",
+   "name": "Crash Champions",
+   "summary": "Crash Champions is an auto repair shop in Chicago, IL at 2232 South Wabash Avenue, Chicago, IL 60616. Website: https://crashchampions.com/locations/crash-champions-south-loop.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/crash-champions-chicago-w210538050/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/crash-champions-chicago-w210538050.json",
+   "address": {
+    "streetAddress": "2232 South Wabash Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60616",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60616",
+   "geo": {
+    "lat": 41.8518217,
+    "lon": -87.6259648
+   },
+   "website": "https://crashchampions.com/locations/crash-champions-south-loop",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/210538050",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "gerber-collision-and-glass-chicago-w210329525",
+   "name": "Gerber Collision & Glass",
+   "summary": "Gerber Collision & Glass is an auto repair shop in Chicago, IL at 3425 North Halsted Street, Chicago, IL 60657. Website: https://www.gerbercollision.com/locations/chicago-halsted-st-il.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gerber-collision-and-glass-chicago-w210329525/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gerber-collision-and-glass-chicago-w210329525.json",
+   "address": {
+    "streetAddress": "3425 North Halsted Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60657",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60657",
+   "geo": {
+    "lat": 41.944328,
+    "lon": -87.6488351
+   },
+   "website": "https://www.gerbercollision.com/locations/chicago-halsted-st-il",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/210329525",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "caliber-collision-chicago",
+   "name": "Caliber Collision",
+   "summary": "Caliber Collision is an auto repair shop in Chicago, IL at 3363 West Columbus Avenue, Chicago, IL 60652.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/caliber-collision-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/caliber-collision-chicago.json",
+   "address": {
+    "streetAddress": "3363 West Columbus Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60652",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60652",
+   "geo": {
+    "lat": 41.7472035,
+    "lon": -87.706359
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9658034093",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "caliber-collision-chicago-n12087431967",
+   "name": "Caliber Collision",
+   "summary": "Caliber Collision is an auto repair shop in Chicago, IL at 318 South Morgan Street, Chicago, IL 60607.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/caliber-collision-chicago-n12087431967/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/caliber-collision-chicago-n12087431967.json",
+   "address": {
+    "streetAddress": "318 South Morgan Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60607",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60607",
+   "geo": {
+    "lat": 41.8772684,
+    "lon": -87.6521457
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12087431967",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "gerber-collision-and-glass-chicago",
+   "name": "Gerber Collision & Glass",
+   "summary": "Gerber Collision & Glass is an auto repair shop in Chicago, IL at 3029 North Kedzie Avenue, Chicago, IL 60618.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gerber-collision-and-glass-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gerber-collision-and-glass-chicago.json",
+   "address": {
+    "streetAddress": "3029 North Kedzie Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60618",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60618",
+   "geo": {
+    "lat": 41.9364864,
+    "lon": -87.7073187
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11807488201",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 11,
+   "sponsored": false,
+   "slug": "gerber-collision-and-glass-chicago-w209572697",
+   "name": "Gerber Collision & Glass",
+   "summary": "Gerber Collision & Glass is an auto repair shop in Chicago, IL at 6440 North Western Avenue, Chicago, IL 60659.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gerber-collision-and-glass-chicago-w209572697/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gerber-collision-and-glass-chicago-w209572697.json",
+   "address": {
+    "streetAddress": "6440 North Western Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60659",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60659",
+   "geo": {
+    "lat": 41.9988534,
+    "lon": -87.6902945
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/209572697",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 12,
+   "sponsored": false,
+   "slug": "maaco-chicago",
+   "name": "MAACO",
+   "summary": "MAACO is an auto repair shop in Chicago, IL at 8383 South South Chicago Avenue, Chicago, IL 60617.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/maaco-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/maaco-chicago.json",
+   "address": {
+    "streetAddress": "8383 South South Chicago Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60617",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60617",
+   "geo": {
+    "lat": 41.7428088,
+    "lon": -87.5729745
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7873260434",
+   "last_checked": "2026-10-17"
+  }
+ ],
+ "market": {
+  "keyword": "auto body shop chicago il",
+  "slug": "auto-body-shop-chicago-il",
+  "base_keyword": "auto body shop",
+  "scope": "city",
+  "city": "chicago",
+  "state": "il",
+  "category": "Auto services",
+  "industry": "Automotive: Repair, Service & Parts",
+  "us_monthly_searches": {
+   "value": 60500,
+   "method": "cited",
+   "source": "r_prostarseo-com-en-the-blog-automotive-keyword-list",
+   "as_of": "2026-09",
+   "source_phrase": "auto body shop near me",
+   "note": "US monthly searches, Semrush US Sep 2026"
+  },
+  "local_monthly_searches": {
+   "value": 1700,
+   "method": "estimate",
+   "method_id": "local_metro",
+   "geography": "Chicago-Naperville-Elgin, IL-IN metro",
+   "population": 9434123,
+   "source": "registry_estimate",
+   "volume_source": "r_prostarseo-com-en-the-blog-automotive-keyword-list",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: US monthly volume x metro population share (Census V2025 metro pop / US pop 341,784,857); rounded to 2 significant figures. Counts all searches for the service in the metro, not only searches that type this city name."
+  },
+  "cpc_usd": {
+   "industry_benchmark": "Automotive: Repair, Service & Parts",
+   "low_usd": 3.9,
+   "median_usd": 4.35,
+   "high_usd": 4.35,
+   "method": "published benchmarks: low/high = range of the industry and sub-industry median CPCs listed in 'figures'; median = most specific benchmark",
+   "figures": [
+    {
+     "usd": 4.35,
+     "label": "Automotive: Repair, Service & Parts median CPC 2026",
+     "source": "wordstream_2026"
+    },
+    {
+     "usd": 3.9,
+     "label": "Automotive: Repair, Service & Parts median CPC 2025",
+     "source": "wordstream_2025"
+    }
+   ],
+   "source": "wordstream_2026",
+   "as_of": "2026",
+   "basis_for_value": {
+    "usd": 4.35,
+    "method": "benchmark median CPC",
+    "source": "wordstream_2026"
+   }
+  },
+  "ctr_pct": {
+   "value": 5.56,
+   "label": "Automotive: Repair, Service & Parts average search-ad CTR 2025",
+   "source": "wordstream_2025",
+   "as_of": "2025-03"
+  },
+  "competition": {
+   "level": "medium",
+   "method": "proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research)",
+   "source": "wordstream_2026",
+   "as_of": "2026"
+  },
+  "trend": null,
+  "seasonality": {
+   "value": null,
+   "note": "No seasonality data in the research sources for this keyword."
+  },
+  "ai_query": {
+   "text": "No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.",
+   "figures": [
+    {
+     "value": "45%",
+     "label": "US adults using AI for local recommendations",
+     "source": "brightlocal_lcrs_2026"
+    },
+    {
+     "value": "75%",
+     "label": "sessions with keyword-style prompts",
+     "source": "sagapixel_sel"
+    },
+    {
+     "value": "59%",
+     "label": "local-intent prompts that triggered web search",
+     "source": "nectiv"
+    }
+   ],
+   "as_of": "2026"
+  },
+  "registry_competitors": {
+   "value": 12,
+   "slugs": [
+    "a-ok-automotive-collison-center-chicago",
+    "caliber-collision-chicago",
+    "caliber-collision-chicago-n12087431967",
+    "caliber-collision-chicago-w163444746",
+    "crash-champions-chicago",
+    "crash-champions-chicago-w210308312",
+    "crash-champions-chicago-w210538050",
+    "gerber-collision-and-glass-chicago",
+    "gerber-collision-and-glass-chicago-w209572697",
+    "gerber-collision-and-glass-chicago-w210329525"
+   ],
+   "method_id": "competitors",
+   "source": "registry",
+   "as_of": "2026-10-18",
+   "urls": [
+    "https://dingalinged-cpu.github.io/registry/c/a-ok-automotive-collison-center-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/caliber-collision-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/caliber-collision-chicago-n12087431967/",
+    "https://dingalinged-cpu.github.io/registry/c/caliber-collision-chicago-w163444746/",
+    "https://dingalinged-cpu.github.io/registry/c/crash-champions-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/crash-champions-chicago-w210308312/",
+    "https://dingalinged-cpu.github.io/registry/c/crash-champions-chicago-w210538050/",
+    "https://dingalinged-cpu.github.io/registry/c/gerber-collision-and-glass-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/gerber-collision-and-glass-chicago-w209572697/",
+    "https://dingalinged-cpu.github.io/registry/c/gerber-collision-and-glass-chicago-w210329525/"
+   ],
+   "method": "count of registry listings tagged with the keyword (city/national) or with the base service in the same state (state keywords)"
+  },
+  "agent_demand": null,
+  "agent_demand_note": "Not yet measured. Will carry AI-agent query counts from the registry's agent analytics (contract: meta.agent_demand_contract in the market index).",
+  "equivalent_google_ads_cost_month": {
+   "value_usd": 410,
+   "method": "estimate",
+   "method_id": "google_ads_equiv",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote."
+  },
+  "search_value_index": {
+   "value_usd": 7400,
+   "method": "estimate",
+   "method_id": "value_index",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: search value index = monthly searches x CPC basis; an advertiser-value ranking signal, not revenue; rounded to 2 significant figures."
+  },
+  "auction": {
+   "featured_spot_min_usd": 20,
+   "spots_2_to_4_min_usd": 2,
+   "tier": "mid",
+   "pricing_rule": "tier minimum (premium $500, high $250, mid $100, standard $50) for national keywords; city = max($10, 20% of tier); state = max($10, 35% of tier); spots 2-4 open at 10% of the featured minimum",
+   "model": "Monthly auction in the last 7 days of each month: days 1-5 bid for the Featured #1 spot, days 6-7 for spots 2-4; winners display all next month; all paid spots labeled Sponsored.",
+   "next_auctions": [
+    {
+     "display_month": "2026-11",
+     "featured_spot_bidding": [
+      "2026-10-25",
+      "2026-10-29"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-10-30",
+      "2026-10-31"
+     ]
+    },
+    {
+     "display_month": "2026-12",
+     "featured_spot_bidding": [
+      "2026-11-24",
+      "2026-11-28"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-11-29",
+      "2026-11-30"
+     ]
+    }
+   ],
+   "source": "registry_auction",
+   "as_of": "2026-10-18"
+  },
+  "sources": {
+   "brightlocal_lcrs_2026": {
+    "name": "BrightLocal Local Consumer Review Survey 2026 (n=1,002 US adults)",
+    "url": "https://www.brightlocal.com/research/lcrs-ai-trust/",
+    "as_of": "2026"
+   },
+   "nectiv": {
+    "name": "Nectiv study of 8,500+ ChatGPT prompts",
+    "url": "https://nectivdigital.com/blog/new-data-study-what-queries-is-chatgpt-using-behind-the-scenes",
+    "as_of": "2025"
+   },
+   "r_prostarseo-com-en-the-blog-automotive-keyword-list": {
+    "name": "Semrush US Sep 2026 (via research source)",
+    "url": "https://www.prostarseo.com/en/the-blog/automotive-keyword-list",
+    "as_of": "2026-09"
+   },
+   "registry": {
+    "name": "This registry's own listings (OpenStreetMap-seeded, ODbL)",
+    "url": "https://dingalinged-cpu.github.io/registry/api/companies.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_auction": {
+    "name": "Registry keyword auction catalog and rules",
+    "url": "https://dingalinged-cpu.github.io/registry/api/keyword-prices.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_estimate": {
+    "name": "Registry estimate (CC-BY-4.0); method given on each value",
+    "url": "https://dingalinged-cpu.github.io/registry/market/",
+    "as_of": "2026-10-18"
+   },
+   "sagapixel_sel": {
+    "name": "Sagapixel ChatGPT local-services sessions, via Search Engine Land",
+    "url": "https://searchengineland.com/chatgpt-users-keywords-for-local-services-data-467715",
+    "as_of": "2026-01"
+   },
+   "wordstream_2025": {
+    "name": "WordStream Google Ads Benchmarks 2025 (16,446 US campaigns, Apr 2024-Mar 2025; median CPC and CTR by industry)",
+    "url": "https://www.wordstream.com/blog/2025-google-ads-benchmarks",
+    "as_of": "2025-03"
+   },
+   "wordstream_2026": {
+    "name": "LocaliQ/WordStream Search Advertising Benchmarks 2026 (US median CPC by industry)",
+    "url": "https://www.localiq.com/blog/search-advertising-benchmarks",
+    "as_of": "2026"
+   }
+  },
+  "license": {
+   "registry_estimates": "CC-BY-4.0",
+   "url": "https://creativecommons.org/licenses/by/4.0/",
+   "cited_figures": "attribute to the publishers in sources"
+  },
+  "as_of": "2026-10-18",
+  "api": "https://dingalinged-cpu.github.io/registry/api/market/auto-body-shop.json",
+  "rate_card": "https://dingalinged-cpu.github.io/registry/view/market.html#auto-body-shop-chicago-il"
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "slug": "liberty-tax-chicago-n9516667418",
+ "name": "Liberty Tax",
+ "categories": [
+  "tax preparation"
+ ],
+ "keywords": [
+  "tax preparation",
+  "tax preparer",
+  "tax preparation chicago il",
+  "tax preparer chicago il"
+ ],
+ "services": [
+  {
+   "name": "tax preparation",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "tax preparer",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "4041 West Madison Street",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60624",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60624",
+ "geo": {
+  "lat": 41.8805031,
+  "lon": -87.7272614
+ },
+ "brand": "Liberty Tax",
+ "wikidata": "Q6541978",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/9516667418",
+ "osm": {
+  "type": "node",
+  "id": 9516667418,
+  "tags_used": {
+   "office": "tax_advisor"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/liberty-tax-chicago-n9516667418/",
+ "summary": "Liberty Tax is a tax preparation service in Chicago, IL at 4041 West Madison Street, Chicago, IL 60624.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

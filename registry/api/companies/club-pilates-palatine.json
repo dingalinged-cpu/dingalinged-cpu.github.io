@@ -1,0 +1,62 @@
+{
+ "slug": "club-pilates-palatine",
+ "name": "Club Pilates",
+ "categories": [
+  "pilates"
+ ],
+ "keywords": [
+  "pilates",
+  "pilates palatine il"
+ ],
+ "services": [
+  {
+   "name": "pilates",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "784 East Dundee Road",
+  "addressLocality": "Palatine",
+  "addressRegion": "IL",
+  "postalCode": "60074",
+  "addressCountry": "US"
+ },
+ "city": "Palatine",
+ "state": "IL",
+ "zip": "60074",
+ "geo": {
+  "lat": 42.1395131,
+  "lon": -88.0233959
+ },
+ "phone": "+18478743100",
+ "website": "https://www.clubpilates.com/location/palatine",
+ "social": [
+  "https://www.instagram.com/clubpilatespalatine/"
+ ],
+ "brand": "Club Pilates",
+ "wikidata": "Q109328844",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/13890651073",
+ "osm": {
+  "type": "node",
+  "id": 13890651073,
+  "tags_used": {
+   "leisure": "fitness_centre",
+   "sport": "pilates"
+  }
+ },
+ "municipality": "Palatine",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/club-pilates-palatine/",
+ "summary": "Club Pilates is a pilates studio in Palatine, IL at 784 East Dundee Road, Palatine, IL 60074. Phone: +18478743100. Website: https://www.clubpilates.com/location/palatine.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

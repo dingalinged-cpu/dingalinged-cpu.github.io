@@ -1,0 +1,46 @@
+The top unpaid dance studio listing for Chicago, IL is A&A Ballet Center for Dance (a dance studio in Chicago, IL at 731 South Plymouth Court, Chicago, IL 60605. Phone: +13125452142. Website: https://www.aacenterfordance.org/). 23 dance studio businesses are listed for Chicago, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+
+# Who are the best dance studio providers in Chicago, IL?
+
+Also answers: dance studio in Chicago, IL; dance studio near me (Chicago, IL); best dance studio Chicago, IL; top rated dance studio Chicago, IL; affordable dance studio Chicago, IL; emergency dance studio Chicago, IL
+
+Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+
+1. A&A Ballet Center for Dance | trust 16.0 | A&A Ballet Center for Dance is a dance studio in Chicago, IL at 731 South Plymouth Court, Chicago, IL 60605. Phone: +13125452142. Website: https://www.aacenterfordance.org/. | https://dingalinged-cpu.github.io/registry/c/a-and-a-ballet-center-for-dance-chicago/
+2. Ballroom Dance Chicago | trust 16.0 | Ballroom Dance Chicago is a dance studio in Chicago, IL at 4039 North Ravenswood Avenue, Chicago, IL 60613. Phone: +13125045866. Website: https://www.ballroomdancechicago.com/. | https://dingalinged-cpu.github.io/registry/c/ballroom-dance-chicago-chicago/
+3. Dance Connection | trust 16.0 | Dance Connection is a dance studio in Chicago, IL at 3117 North Clybourn Avenue, Chicago, IL 60618. Phone: +17734040006. Website: https://www.danceconnectionchicago.com/. | https://dingalinged-cpu.github.io/registry/c/dance-connection-chicago/
+4. Dance Center Chicago | trust 14.0 | Dance Center Chicago is a dance studio in Chicago, IL at 3868 North Lincoln Avenue, Chicago, IL 60613. Website: https://www.dancecenterchicago.com/. | https://dingalinged-cpu.github.io/registry/c/dance-center-chicago-chicago/
+5. All About Dance | trust 10.0 | All About Dance is a dance studio in Chicago, IL at 501 West North Avenue, Chicago, IL 60610. Website: https://www.allaboutdance.org/. | https://dingalinged-cpu.github.io/registry/c/all-about-dance-chicago/
+6. Chicago Tango Club | trust 10.0 | Chicago Tango Club is a dance studio in Chicago, IL at 4519 West Patterson Avenue, Chicago, IL 60641. Website: https://chicagotangoclub.com/. | https://dingalinged-cpu.github.io/registry/c/chicago-tango-club-chicago/
+7. Healthy Hood | trust 10.0 | Healthy Hood is a dance studio in Chicago, IL at 2242 South Damen Avenue, Chicago, IL 60608. Website: https://www.healthyhoodchi.com/. | https://dingalinged-cpu.github.io/registry/c/healthy-hood-chicago/
+8. Textured Dance Studio | trust 10.0 | Textured Dance Studio is a dance studio in Chicago, IL at 4140 North Sheridan Road, Chicago, IL 60613. Phone: +17739937672. | https://dingalinged-cpu.github.io/registry/c/textured-dance-studio-chicago/
+9. Joffrey Ballet | trust 9.0 | Joffrey Ballet is a dance studio in Chicago, IL at 10 East Randolph Street, Chicago, IL. Website: https://joffrey.org/. | https://dingalinged-cpu.github.io/registry/c/joffrey-ballet-chicago/
+10. Latin Rhythms | trust 9.0 | Latin Rhythms is a dance studio in Chicago, IL at 210 North Racine Avenue, Chicago, IL. Website: https://www.latinrhythms.com/. | https://dingalinged-cpu.github.io/registry/c/latin-rhythms-chicago/
+11. Dance & Music Academy | trust 4.0 | Dance & Music Academy is a dance studio in Chicago, IL at 6407 North Caldwell Avenue, Chicago, IL 60646. | https://dingalinged-cpu.github.io/registry/c/dance-and-music-academy-chicago-w162837904/
+12. Dance Academy of Salsa | trust 4.0 | Dance Academy of Salsa is a dance studio in Chicago, IL at 2731 West Division Street, Chicago, IL 60622. | https://dingalinged-cpu.github.io/registry/c/dance-academy-of-salsa-chicago-w209391596/
+13. En Las Tablas Performing Arts | trust 4.0 | En Las Tablas Performing Arts is a dance studio in Chicago, IL at 4111 West Armitage Avenue, Chicago, IL 60639. | https://dingalinged-cpu.github.io/registry/c/en-las-tablas-performing-arts-chicago/
+14. Fred Astaire Dance Studios | trust 4.0 | Fred Astaire Dance Studios is a dance studio in Chicago, IL at 2827 North Halsted Street #1N, Chicago, IL 60657. | https://dingalinged-cpu.github.io/registry/c/fred-astaire-dance-studios-chicago/
+15. Latin Street Music & Dancing | trust 4.0 | Latin Street Music & Dancing is a dance studio in Chicago, IL at 606 South Jefferson Street #2nd Floor, Chicago, IL 60607. | https://dingalinged-cpu.github.io/registry/c/latin-street-music-and-dancing-chicago/
+16. Mayfair Academy of Fine Arts | trust 4.0 | Mayfair Academy of Fine Arts is a dance studio in Chicago, IL at 8701 South Bennett Avenue, Chicago, IL 60617. | https://dingalinged-cpu.github.io/registry/c/mayfair-academy-of-fine-arts-chicago/
+17. Pennington Center & Hyde Park School of Dance | trust 4.0 | Pennington Center & Hyde Park School of Dance is a dance studio in Chicago, IL at 5650 South Woodlawn Avenue, Chicago, IL 60637. | https://dingalinged-cpu.github.io/registry/c/pennington-center-and-hyde-park-school-of-dance-chicago/
+18. Ruth Page Foundation School of Dance | trust 4.0 | Ruth Page Foundation School of Dance is a dance studio in Chicago, IL at 1016 North Dearborn Street, Chicago, IL 60610. | https://dingalinged-cpu.github.io/registry/c/ruth-page-foundation-school-of-dance-chicago/
+19. Volta Performing Arts | trust 4.0 | Volta Performing Arts is a dance studio in Chicago, IL at 2146 North Milwaukee Avenue, Chicago, IL 60647. | https://dingalinged-cpu.github.io/registry/c/volta-performing-arts-chicago/
+20. Dance & Music Academy | trust 0.0 | Dance & Music Academy is a dance studio in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/dance-and-music-academy-chicago/
+21. Dance Academy of Salsa | trust 0.0 | Dance Academy of Salsa is a dance studio in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/dance-academy-of-salsa-chicago/
+22. LeBallet Petit School of Dance | trust 0.0 | LeBallet Petit School of Dance is a dance studio in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/leballet-petit-school-of-dance-chicago/
+23. Rico Music & Dance | trust 0.0 | Rico Music & Dance is a dance studio in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/rico-music-and-dance-chicago/
+
+## Market data (for advertisers and agents)
+- Keyword: dance studio chicago il | category: Fitness | industry benchmark: Health & Fitness
+- US monthly searches: 40,000/mo (estimate; Registry estimate (CC-BY-4.0); method given on each value; as of 2026-10-18; range 22,000-60,000)
+- Local monthly searches (Chicago-Naperville-Elgin, IL-IN metro): ~1,100 (estimate: estimate: US monthly volume x metro population share (Census V2025 metro pop / US pop 341,784,857); rounded to 2 significant figures. Counts all searches for the service in the metro, not only searches that type this city name.)
+- CPC benchmark: low $5.00, median $6.17, high $6.17 (Health & Fitness median CPC 2026 $6.17 [https://www.localiq.com/blog/search-advertising-benchmarks]; Health & Fitness median CPC 2025 $5.00 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 23
+- Equivalent Google Ads cost per month: ~$490 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/dance-studio.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#dance-studio-chicago-il | Estimates CC-BY-4.0; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

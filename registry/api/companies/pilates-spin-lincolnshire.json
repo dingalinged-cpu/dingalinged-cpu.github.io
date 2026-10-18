@@ -1,0 +1,51 @@
+{
+ "slug": "pilates-spin-lincolnshire",
+ "name": "Pilates*Spin",
+ "categories": [
+  "gym"
+ ],
+ "keywords": [
+  "gym",
+  "gym lincolnshire il"
+ ],
+ "services": [
+  {
+   "name": "gym",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Lincolnshire",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Lincolnshire",
+ "state": "IL",
+ "geo": {
+  "lat": 42.1816589,
+  "lon": -87.9277477
+ },
+ "schema_type": "ExerciseGym",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/5761009190",
+ "osm": {
+  "type": "node",
+  "id": 5761009190,
+  "tags_used": {
+   "leisure": "fitness_centre"
+  }
+ },
+ "municipality": "Lincolnshire",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/pilates-spin-lincolnshire/",
+ "summary": "Pilates*Spin is a gym in Lincolnshire, IL.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

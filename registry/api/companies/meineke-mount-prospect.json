@@ -1,0 +1,59 @@
+{
+ "slug": "meineke-mount-prospect",
+ "name": "Meineke",
+ "categories": [
+  "auto repair"
+ ],
+ "keywords": [
+  "auto repair",
+  "mechanic",
+  "auto repair mount prospect il",
+  "mechanic mount prospect il"
+ ],
+ "services": [
+  {
+   "name": "auto repair",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "mechanic",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Mount Prospect",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Mount Prospect",
+ "state": "IL",
+ "geo": {
+  "lat": 42.0264688,
+  "lon": -87.941043
+ },
+ "brand": "Meineke",
+ "wikidata": "Q6810159",
+ "schema_type": "AutoRepair",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/4207698898",
+ "osm": {
+  "type": "node",
+  "id": 4207698898,
+  "tags_used": {
+   "shop": "car_repair"
+  }
+ },
+ "municipality": "Mount Prospect",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/meineke-mount-prospect/",
+ "summary": "Meineke is an auto repair shop in Mount Prospect, IL.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

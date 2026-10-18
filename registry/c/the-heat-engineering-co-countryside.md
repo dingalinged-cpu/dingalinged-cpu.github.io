@@ -1,0 +1,23 @@
+The Heat Engineering Co. is a HVAC contractor in Countryside, IL.
+
+# The Heat Engineering Co.
+
+- Category: hvac repair
+- Services: hvac repair, heating and air
+- Address: Countryside, IL
+- City: Countryside
+- State: IL
+- ZIP: n/a
+- Coordinates: 41.770161, -87.8858371
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/the-heat-engineering-co-countryside/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-heat-engineering-co-countryside.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10172624453 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

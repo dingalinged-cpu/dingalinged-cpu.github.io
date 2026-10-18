@@ -1,0 +1,123 @@
+{
+ "place": "Hodgkins, IL",
+ "slug": "hodgkins-il",
+ "count": 3,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "auto repair hodgkins il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-hodgkins-il.json"
+  },
+  {
+   "keyword": "mechanic hodgkins il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-hodgkins-il.json"
+  },
+  {
+   "keyword": "thrift store hodgkins il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/thrift-store-hodgkins-il.json"
+  },
+  {
+   "keyword": "used cars for sale hodgkins il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/used-cars-for-sale-hodgkins-il.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "continental-toyota-hodgkins",
+   "name": "Continental Toyota",
+   "summary": "Continental Toyota is an used car dealer in Hodgkins, IL at 6701 South La Grange Road, Hodgkins, IL 60525. Phone: +17087164497. Website: https://www.continentaltoyota.com/.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/continental-toyota-hodgkins/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/continental-toyota-hodgkins.json",
+   "address": {
+    "streetAddress": "6701 South La Grange Road",
+    "addressLocality": "Hodgkins",
+    "addressRegion": "IL",
+    "postalCode": "60525",
+    "addressCountry": "US"
+   },
+   "city": "Hodgkins",
+   "state": "IL",
+   "zip": "60525",
+   "geo": {
+    "lat": 41.767491,
+    "lon": -87.8662346
+   },
+   "phone": "+17087164497",
+   "website": "https://www.continentaltoyota.com/",
+   "opening_hours": "Mo-Tu 07:00-17:00; We 07:00-18:00; Th-Sa 07:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1040880508",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "home2home-project-hodgkins",
+   "name": "Home2Home Project",
+   "summary": "Home2Home Project is a thrift store in Hodgkins, IL. Website: https://www.theh2hproject.org/.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/home2home-project-hodgkins/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/home2home-project-hodgkins.json",
+   "address": {
+    "addressLocality": "Hodgkins",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Hodgkins",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7790668,
+    "lon": -87.8580147
+   },
+   "website": "https://www.theh2hproject.org/",
+   "opening_hours": "Tu 10:00-14:00; We 16:00-19:00; Th 10:00-14:00; Sa 10:00-14:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13421884707",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "pep-boys-hodgkins",
+   "name": "Pep Boys",
+   "summary": "Pep Boys is an auto repair shop in Hodgkins, IL at 6247 South La Grange Road, Hodgkins, IL 60525.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pep-boys-hodgkins/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pep-boys-hodgkins.json",
+   "address": {
+    "streetAddress": "6247 South La Grange Road",
+    "addressLocality": "Hodgkins",
+    "addressRegion": "IL",
+    "postalCode": "60525",
+    "addressCountry": "US"
+   },
+   "city": "Hodgkins",
+   "state": "IL",
+   "zip": "60525",
+   "geo": {
+    "lat": 41.7764461,
+    "lon": -87.8674783
+   },
+   "opening_hours": "Mo-Sa 07:30-20:00; Su 09:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/554941195",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

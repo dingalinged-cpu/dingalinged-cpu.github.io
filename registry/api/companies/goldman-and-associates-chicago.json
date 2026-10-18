@@ -1,0 +1,64 @@
+{
+ "slug": "goldman-and-associates-chicago",
+ "name": "Goldman & Associates",
+ "categories": [
+  "lawyer"
+ ],
+ "keywords": [
+  "lawyer",
+  "attorney",
+  "lawyer chicago il",
+  "attorney chicago il"
+ ],
+ "services": [
+  {
+   "name": "lawyer",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "attorney",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "180 North LaSalle Street #3650",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60601",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60601",
+ "geo": {
+  "lat": 41.8854812,
+  "lon": -87.6329558
+ },
+ "phone": "+17734843131",
+ "website": "https://www.criminallawyer-chicago.com/",
+ "email": "info@criminallawyer-chicago.com",
+ "opening_hours": "24/7",
+ "schema_type": "LegalService",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/9583204671",
+ "osm": {
+  "type": "node",
+  "id": 9583204671,
+  "tags_used": {
+   "office": "lawyer"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/goldman-and-associates-chicago/",
+ "summary": "Goldman & Associates is a lawyer in Chicago, IL at 180 North LaSalle Street #3650, Chicago, IL 60601. Phone: +17734843131. Website: https://www.criminallawyer-chicago.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

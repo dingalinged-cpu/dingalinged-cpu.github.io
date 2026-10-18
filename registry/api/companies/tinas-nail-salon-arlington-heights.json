@@ -1,0 +1,58 @@
+{
+ "slug": "tinas-nail-salon-arlington-heights",
+ "name": "Tina's Nail Salon",
+ "categories": [
+  "nail salon"
+ ],
+ "keywords": [
+  "nail salon",
+  "nail salon arlington heights il"
+ ],
+ "services": [
+  {
+   "name": "nail salon",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1844 South Arlington Heights Road",
+  "addressLocality": "Arlington Heights",
+  "addressRegion": "IL",
+  "postalCode": "60005",
+  "addressCountry": "US"
+ },
+ "city": "Arlington Heights",
+ "state": "IL",
+ "zip": "60005",
+ "geo": {
+  "lat": 42.0526972,
+  "lon": -87.9835021
+ },
+ "phone": "+18476408001",
+ "website": "https://tinasnailsalon.biz/",
+ "opening_hours": "Mo-Sa 09:30 - 20:00; Su 10:30-17:00",
+ "schema_type": "NailSalon",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/6604422764",
+ "osm": {
+  "type": "node",
+  "id": 6604422764,
+  "tags_used": {
+   "shop": "beauty",
+   "beauty": "nails"
+  }
+ },
+ "municipality": "Arlington Heights",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/tinas-nail-salon-arlington-heights/",
+ "summary": "Tina's Nail Salon is a nail salon in Arlington Heights, IL at 1844 South Arlington Heights Road, Arlington Heights, IL 60005. Phone: +18476408001. Website: https://tinasnailsalon.biz/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

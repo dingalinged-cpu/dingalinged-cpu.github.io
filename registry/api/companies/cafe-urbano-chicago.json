@@ -1,0 +1,57 @@
+{
+ "slug": "cafe-urbano-chicago",
+ "name": "Cafe Urbano",
+ "categories": [
+  "bakery"
+ ],
+ "keywords": [
+  "bakery",
+  "bakery chicago il"
+ ],
+ "services": [
+  {
+   "name": "bakery",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "4176 North Elston Avenue",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60618",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60618",
+ "geo": {
+  "lat": 41.9566893,
+  "lon": -87.7238332
+ },
+ "phone": "+17734781000",
+ "website": "https://www.cafeurbano-chicago.com/",
+ "opening_hours": "Mo-Sa 06:30-16:00; Su 07:00-16:00",
+ "schema_type": "Bakery",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/6269876725",
+ "osm": {
+  "type": "node",
+  "id": 6269876725,
+  "tags_used": {
+   "shop": "bakery"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/cafe-urbano-chicago/",
+ "summary": "Cafe Urbano is a bakery in Chicago, IL at 4176 North Elston Avenue, Chicago, IL 60618. Phone: +17734781000. Website: https://www.cafeurbano-chicago.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,63 @@
+{
+ "slug": "liberty-tax-maywood",
+ "name": "Liberty Tax",
+ "categories": [
+  "tax preparation"
+ ],
+ "keywords": [
+  "tax preparation",
+  "tax preparer",
+  "tax preparation maywood il",
+  "tax preparer maywood il"
+ ],
+ "services": [
+  {
+   "name": "tax preparation",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "tax preparer",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "901 South 5th Avenue #A",
+  "addressLocality": "Maywood",
+  "addressRegion": "IL",
+  "postalCode": "60153",
+  "addressCountry": "US"
+ },
+ "city": "Maywood",
+ "state": "IL",
+ "zip": "60153",
+ "geo": {
+  "lat": 41.8797533,
+  "lon": -87.8387372
+ },
+ "website": "https://www.libertytax.com/12721",
+ "brand": "Liberty Tax",
+ "wikidata": "Q6541978",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/13663106827",
+ "osm": {
+  "type": "node",
+  "id": 13663106827,
+  "tags_used": {
+   "office": "tax_advisor"
+  }
+ },
+ "municipality": "Maywood",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/liberty-tax-maywood/",
+ "summary": "Liberty Tax is a tax preparation service in Maywood, IL at 901 South 5th Avenue #A, Maywood, IL 60153. Website: https://www.libertytax.com/12721.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

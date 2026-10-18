@@ -1,0 +1,55 @@
+{
+ "slug": "spacetime-floatation-center-chicago",
+ "name": "SpaceTime Floatation Center",
+ "categories": [
+  "spa"
+ ],
+ "keywords": [
+  "spa",
+  "spa chicago il"
+ ],
+ "services": [
+  {
+   "name": "spa",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "939 West North Avenue #100",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "geo": {
+  "lat": 41.9106799,
+  "lon": -87.6528198
+ },
+ "phone": "+13122852127",
+ "website": "https://floatspacetime.com/",
+ "schema_type": "DaySpa",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/13574784321",
+ "osm": {
+  "type": "node",
+  "id": 13574784321,
+  "tags_used": {
+   "shop": "beauty",
+   "beauty": "spa"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/spacetime-floatation-center-chicago/",
+ "summary": "SpaceTime Floatation Center is a spa in Chicago, IL at 939 West North Avenue #100, Chicago, IL. Phone: +13122852127. Website: https://floatspacetime.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

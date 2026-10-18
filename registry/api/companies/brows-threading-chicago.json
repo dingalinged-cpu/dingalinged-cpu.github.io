@@ -1,0 +1,59 @@
+{
+ "slug": "brows-threading-chicago",
+ "name": "Brows Threading",
+ "categories": [
+  "waxing"
+ ],
+ "keywords": [
+  "waxing",
+  "waxing chicago il"
+ ],
+ "services": [
+  {
+   "name": "waxing",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "3937 North Broadway",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60613",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60613",
+ "geo": {
+  "lat": 41.9538613,
+  "lon": -87.6499402
+ },
+ "phone": "+17736612725",
+ "website": "https://www.browsthreading.biz/services",
+ "opening_hours": "Mo-Sa 10:00-19:00; Su 12:00-17:00",
+ "brand": "Brows Threading",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/10249091443",
+ "osm": {
+  "type": "node",
+  "id": 10249091443,
+  "tags_used": {
+   "shop": "beauty",
+   "beauty": "hair_removal;eyelash;waxing"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/brows-threading-chicago/",
+ "summary": "Brows Threading is a waxing salon in Chicago, IL at 3937 North Broadway, Chicago, IL 60613. Phone: +17736612725. Website: https://www.browsthreading.biz/services.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

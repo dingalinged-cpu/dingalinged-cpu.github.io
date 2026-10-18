@@ -1,0 +1,717 @@
+{
+ "place": "Lemont Township, IL",
+ "slug": "lemont-township-il",
+ "count": 22,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "auto repair lemont township il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-lemont-township-il.json"
+  },
+  {
+   "keyword": "bakery lemont township il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/bakery-lemont-township-il.json"
+  },
+  {
+   "keyword": "car wash lemont township il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-lemont-township-il.json"
+  },
+  {
+   "keyword": "dance studio lemont township il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dance-studio-lemont-township-il.json"
+  },
+  {
+   "keyword": "florist lemont township il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/florist-lemont-township-il.json"
+  },
+  {
+   "keyword": "gym lemont township il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-lemont-township-il.json"
+  },
+  {
+   "keyword": "hair salon lemont township il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-lemont-township-il.json"
+  },
+  {
+   "keyword": "haircut lemont township il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-lemont-township-il.json"
+  },
+  {
+   "keyword": "insurance agency lemont township il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-lemont-township-il.json"
+  },
+  {
+   "keyword": "insurance agent lemont township il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-lemont-township-il.json"
+  },
+  {
+   "keyword": "insurance agents lemont township il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-lemont-township-il.json"
+  },
+  {
+   "keyword": "jewelry store lemont township il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/jewelry-store-lemont-township-il.json"
+  },
+  {
+   "keyword": "liquor store lemont township il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/liquor-store-lemont-township-il.json"
+  },
+  {
+   "keyword": "mattress store lemont township il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mattress-store-lemont-township-il.json"
+  },
+  {
+   "keyword": "mechanic lemont township il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-lemont-township-il.json"
+  },
+  {
+   "keyword": "pet store lemont township il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/pet-store-lemont-township-il.json"
+  },
+  {
+   "keyword": "photographer lemont township il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/photographer-lemont-township-il.json"
+  },
+  {
+   "keyword": "thrift store lemont township il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/thrift-store-lemont-township-il.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "american-matress-lemont-township",
+   "name": "American Matress",
+   "summary": "American Matress is a mattress store in Lemont Township, IL at 1217 State Street, Lemont Township, IL 60439. Phone: +16302431075. Website: https://www.americanmattress.com/.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/american-matress-lemont-township/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/american-matress-lemont-township.json",
+   "address": {
+    "streetAddress": "1217 State Street",
+    "addressLocality": "Lemont Township",
+    "addressRegion": "IL",
+    "postalCode": "60439",
+    "addressCountry": "US"
+   },
+   "city": "Lemont Township",
+   "state": "IL",
+   "zip": "60439",
+   "geo": {
+    "lat": 41.655808,
+    "lon": -87.999276
+   },
+   "phone": "+16302431075",
+   "website": "https://www.americanmattress.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3216766561",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "firestone-complete-auto-care-lemont-township",
+   "name": "Firestone Complete Auto Care",
+   "summary": "Firestone Complete Auto Care is an auto repair shop in Lemont Township, IL at 15645 127th Street, Lemont Township, IL 60439. Phone: +16303435216. Website: https://www.firestonecompleteautocare.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/firestone-complete-auto-care-lemont-township/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/firestone-complete-auto-care-lemont-township.json",
+   "address": {
+    "streetAddress": "15645 127th Street",
+    "addressLocality": "Lemont Township",
+    "addressRegion": "IL",
+    "postalCode": "60439",
+    "addressCountry": "US"
+   },
+   "city": "Lemont Township",
+   "state": "IL",
+   "zip": "60439",
+   "geo": {
+    "lat": 41.6571177,
+    "lon": -88.0010486
+   },
+   "phone": "+16303435216",
+   "website": "https://www.firestonecompleteautocare.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/315081826",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "goodwill-lemont-township",
+   "name": "Goodwill",
+   "summary": "Goodwill is a thrift store in Lemont Township, IL at 1146 State Street, Lemont Township, IL 60439. Phone: +16302575608. Website: https://www.goodwill.org/.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/goodwill-lemont-township/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/goodwill-lemont-township.json",
+   "address": {
+    "streetAddress": "1146 State Street",
+    "addressLocality": "Lemont Township",
+    "addressRegion": "IL",
+    "postalCode": "60439",
+    "addressCountry": "US"
+   },
+   "city": "Lemont Township",
+   "state": "IL",
+   "zip": "60439",
+   "geo": {
+    "lat": 41.6590615,
+    "lon": -88.0017033
+   },
+   "phone": "+16302575608",
+   "website": "https://www.goodwill.org/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/308321311",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "hauptman-jewelers-lemont-township",
+   "name": "Hauptman Jewelers",
+   "summary": "Hauptman Jewelers is a jewelry store in Lemont Township, IL at 1052 State Street, Lemont Township, IL 60439. Phone: +16302437744. Website: https://www.hauptmanjewelers.com/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hauptman-jewelers-lemont-township/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hauptman-jewelers-lemont-township.json",
+   "address": {
+    "streetAddress": "1052 State Street",
+    "addressLocality": "Lemont Township",
+    "addressRegion": "IL",
+    "postalCode": "60439",
+    "addressCountry": "US"
+   },
+   "city": "Lemont Township",
+   "state": "IL",
+   "zip": "60439",
+   "geo": {
+    "lat": 41.6618238,
+    "lon": -88.0007353
+   },
+   "phone": "+16302437744",
+   "website": "https://www.hauptmanjewelers.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5443933512",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "jiffy-lube-lemont-township",
+   "name": "Jiffy Lube",
+   "summary": "Jiffy Lube is an auto repair shop in Lemont Township, IL at 15667 127th Street, Lemont Township, IL 60439. Phone: +16302439384. Website: https://www.jiffylube.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jiffy-lube-lemont-township/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jiffy-lube-lemont-township.json",
+   "address": {
+    "streetAddress": "15667 127th Street",
+    "addressLocality": "Lemont Township",
+    "addressRegion": "IL",
+    "postalCode": "60439",
+    "addressCountry": "US"
+   },
+   "city": "Lemont Township",
+   "state": "IL",
+   "zip": "60439",
+   "geo": {
+    "lat": 41.6569734,
+    "lon": -88.0020845
+   },
+   "phone": "+16302439384",
+   "website": "https://www.jiffylube.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/315081829",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "lemont-express-carwash-lemont-township",
+   "name": "Lemont Express Carwash",
+   "summary": "Lemont Express Carwash is a car wash in Lemont Township, IL at 1174 State Street, Lemont Township, IL 60439.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lemont-express-carwash-lemont-township/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lemont-express-carwash-lemont-township.json",
+   "address": {
+    "streetAddress": "1174 State Street",
+    "addressLocality": "Lemont Township",
+    "addressRegion": "IL",
+    "postalCode": "60439",
+    "addressCountry": "US"
+   },
+   "city": "Lemont Township",
+   "state": "IL",
+   "zip": "60439",
+   "geo": {
+    "lat": 41.6577002,
+    "lon": -88.0003301
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/372756392",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "look-nu-lemont-township",
+   "name": "Look NU",
+   "summary": "Look NU is a car wash in Lemont Township, IL at 1388 State Street, Lemont Township, IL 60439.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/look-nu-lemont-township/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/look-nu-lemont-township.json",
+   "address": {
+    "streetAddress": "1388 State Street",
+    "addressLocality": "Lemont Township",
+    "addressRegion": "IL",
+    "postalCode": "60439",
+    "addressCountry": "US"
+   },
+   "city": "Lemont Township",
+   "state": "IL",
+   "zip": "60439",
+   "geo": {
+    "lat": 41.6460921,
+    "lon": -88.0000455
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/317291251",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "ludwigs-feed-store-lemont-township",
+   "name": "Ludwig's Feed Store",
+   "summary": "Ludwig's Feed Store is a pet store in Lemont Township, IL at 13205 West 131st Street, Lemont Township, IL 60439.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ludwigs-feed-store-lemont-township/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ludwigs-feed-store-lemont-township.json",
+   "address": {
+    "streetAddress": "13205 West 131st Street",
+    "addressLocality": "Lemont Township",
+    "addressRegion": "IL",
+    "postalCode": "60439",
+    "addressCountry": "US"
+   },
+   "city": "Lemont Township",
+   "state": "IL",
+   "zip": "60439",
+   "geo": {
+    "lat": 41.6511661,
+    "lon": -87.9430887
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1078399063",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "peppers-auto-care-lemont-township",
+   "name": "Pepper's Auto Care",
+   "summary": "Pepper's Auto Care is an auto repair shop in Lemont Township, IL at 16191 127th Street, Lemont Township, IL 60439.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/peppers-auto-care-lemont-township/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/peppers-auto-care-lemont-township.json",
+   "address": {
+    "streetAddress": "16191 127th Street",
+    "addressLocality": "Lemont Township",
+    "addressRegion": "IL",
+    "postalCode": "60439",
+    "addressCountry": "US"
+   },
+   "city": "Lemont Township",
+   "state": "IL",
+   "zip": "60439",
+   "geo": {
+    "lat": 41.656914,
+    "lon": -88.014157
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3211139762",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "allegro-music-and-dance-lemont-township",
+   "name": "Allegro Music and Dance",
+   "summary": "Allegro Music and Dance is a dance studio in Lemont Township, IL.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/allegro-music-and-dance-lemont-township/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/allegro-music-and-dance-lemont-township.json",
+   "address": {
+    "addressLocality": "Lemont Township",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Lemont Township",
+   "state": "IL",
+   "geo": {
+    "lat": 41.6748488,
+    "lon": -87.9994833
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/543779606",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "belle-de-jour-salon-lemont-township",
+   "name": "Belle De Jour Salon",
+   "summary": "Belle De Jour Salon is a hair salon in Lemont Township, IL.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/belle-de-jour-salon-lemont-township/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/belle-de-jour-salon-lemont-township.json",
+   "address": {
+    "addressLocality": "Lemont Township",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Lemont Township",
+   "state": "IL",
+   "geo": {
+    "lat": 41.675209,
+    "lon": -87.9992151
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/543779613",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "great-clips-lemont-township",
+   "name": "Great Clips",
+   "summary": "Great Clips is a hair salon in Lemont Township, IL.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/great-clips-lemont-township/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/great-clips-lemont-township.json",
+   "address": {
+    "addressLocality": "Lemont Township",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Lemont Township",
+   "state": "IL",
+   "geo": {
+    "lat": 41.6433469,
+    "lon": -88.0016876
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4622614769",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "hayes-auto-and-truck-repair-lemont-township",
+   "name": "Hayes Auto & Truck Repair",
+   "summary": "Hayes Auto & Truck Repair is an auto repair shop in Lemont Township, IL.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hayes-auto-and-truck-repair-lemont-township/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hayes-auto-and-truck-repair-lemont-township.json",
+   "address": {
+    "addressLocality": "Lemont Township",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Lemont Township",
+   "state": "IL",
+   "geo": {
+    "lat": 41.6754588,
+    "lon": -87.9987264
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/543779586",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "j-r-owen-and-co-lemont-township",
+   "name": "J.R.Owen & Co.",
+   "summary": "J.R.Owen & Co. is a photographer in Lemont Township, IL.",
+   "categories": [
+    "photographer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/j-r-owen-and-co-lemont-township/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/j-r-owen-and-co-lemont-township.json",
+   "address": {
+    "addressLocality": "Lemont Township",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Lemont Township",
+   "state": "IL",
+   "geo": {
+    "lat": 41.6748357,
+    "lon": -87.9996683
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/543779604",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "lemont-liquors-lemont-township",
+   "name": "Lemont Liquors",
+   "summary": "Lemont Liquors is a liquor store in Lemont Township, IL.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lemont-liquors-lemont-township/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lemont-liquors-lemont-township.json",
+   "address": {
+    "addressLocality": "Lemont Township",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Lemont Township",
+   "state": "IL",
+   "geo": {
+    "lat": 41.6599817,
+    "lon": -88.0013604
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5584611862",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "pawz-and-klawz-pet-salon-lemont-township",
+   "name": "Pawz & Klawz Pet Salon",
+   "summary": "Pawz & Klawz Pet Salon is a pet store in Lemont Township, IL.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pawz-and-klawz-pet-salon-lemont-township/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pawz-and-klawz-pet-salon-lemont-township.json",
+   "address": {
+    "addressLocality": "Lemont Township",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Lemont Township",
+   "state": "IL",
+   "geo": {
+    "lat": 41.6756898,
+    "lon": -87.9977247
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5256650247",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "petal-play-design-lemont-township",
+   "name": "Petal Play Design",
+   "summary": "Petal Play Design is a florist in Lemont Township, IL.",
+   "categories": [
+    "florist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petal-play-design-lemont-township/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petal-play-design-lemont-township.json",
+   "address": {
+    "addressLocality": "Lemont Township",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Lemont Township",
+   "state": "IL",
+   "geo": {
+    "lat": 41.6758827,
+    "lon": -87.9978299
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5256650246",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "planet-fitness-lemont-township",
+   "name": "Planet Fitness",
+   "summary": "Planet Fitness is a gym in Lemont Township, IL.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/planet-fitness-lemont-township/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/planet-fitness-lemont-township.json",
+   "address": {
+    "addressLocality": "Lemont Township",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Lemont Township",
+   "state": "IL",
+   "geo": {
+    "lat": 41.6443381,
+    "lon": -88.0019206
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13104549601",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "rustic-knead-lemont-township",
+   "name": "Rustic Knead",
+   "summary": "Rustic Knead is a bakery in Lemont Township, IL.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rustic-knead-lemont-township/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rustic-knead-lemont-township.json",
+   "address": {
+    "addressLocality": "Lemont Township",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Lemont Township",
+   "state": "IL",
+   "geo": {
+    "lat": 41.6598759,
+    "lon": -88.0013603
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5443933503",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "salon-312-lemont-township",
+   "name": "Salon 312",
+   "summary": "Salon 312 is a hair salon in Lemont Township, IL.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/salon-312-lemont-township/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/salon-312-lemont-township.json",
+   "address": {
+    "addressLocality": "Lemont Township",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Lemont Township",
+   "state": "IL",
+   "geo": {
+    "lat": 41.6744843,
+    "lon": -87.999674
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/543779596",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "simply-yoga-lemont-township",
+   "name": "Simply Yoga",
+   "summary": "Simply Yoga is a gym in Lemont Township, IL.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/simply-yoga-lemont-township/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/simply-yoga-lemont-township.json",
+   "address": {
+    "addressLocality": "Lemont Township",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Lemont Township",
+   "state": "IL",
+   "geo": {
+    "lat": 41.6544203,
+    "lon": -87.9980352
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5443933510",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "state-farm-lemont-township",
+   "name": "State Farm",
+   "summary": "State Farm is an insurance agent in Lemont Township, IL.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/state-farm-lemont-township/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/state-farm-lemont-township.json",
+   "address": {
+    "addressLocality": "Lemont Township",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Lemont Township",
+   "state": "IL",
+   "geo": {
+    "lat": 41.6744629,
+    "lon": -87.9997754
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/543779597",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

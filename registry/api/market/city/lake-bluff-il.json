@@ -1,0 +1,34 @@
+{
+ "title": "Keyword market data: Lake Bluff, IL",
+ "description": "Top Lake Bluff, IL service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
+ "updated": "2026-10-18",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are in the JSON and dataset. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "place": "Lake Bluff, IL",
+ "geography": "Chicago-Naperville-Elgin, IL-IN metro",
+ "keywords": 1,
+ "lists": {
+  "by_volume": [],
+  "by_cpc": [
+   {
+    "keyword": "used cars for sale lake bluff il",
+    "slug": "used-cars-for-sale-lake-bluff-il",
+    "url": "https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-lake-bluff-il/",
+    "us_monthly_searches": 140000,
+    "us_volume_method": "estimate",
+    "local_monthly_searches_est": 3900,
+    "cpc_basis_usd": 4.14,
+    "cpc_median_usd": 4.14,
+    "search_value_index_usd": 16000,
+    "equivalent_google_ads_cost_month_usd": 1400,
+    "featured_spot_min_usd": 10,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   }
+  ],
+  "by_value": []
+ },
+ "license": {
+  "registry_estimates": "CC-BY-4.0",
+  "url": "https://creativecommons.org/licenses/by/4.0/"
+ }
+}

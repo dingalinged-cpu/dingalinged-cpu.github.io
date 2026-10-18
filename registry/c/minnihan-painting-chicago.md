@@ -1,0 +1,23 @@
+Minnihan Painting is a painting contractor in Chicago, IL.
+
+# Minnihan Painting
+
+- Category: painters
+- Services: painters
+- Address: Chicago, IL
+- City: Chicago
+- State: IL
+- ZIP: n/a
+- Coordinates: 41.9443038, -87.7051587
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/minnihan-painting-chicago/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/minnihan-painting-chicago.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/3226638422 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,0 +1,23 @@
+Maas is an auto repair shop in Countryside, IL.
+
+# Maas
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: Countryside, IL
+- City: Countryside
+- State: IL
+- ZIP: n/a
+- Coordinates: 41.7875008, -87.868944
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/maas-countryside/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/maas-countryside.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1055483189 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

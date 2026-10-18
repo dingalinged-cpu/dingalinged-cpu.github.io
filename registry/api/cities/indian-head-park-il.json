@@ -1,0 +1,419 @@
+{
+ "place": "Indian Head Park, IL",
+ "slug": "indian-head-park-il",
+ "count": 13,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "auto repair indian head park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-indian-head-park-il.json"
+  },
+  {
+   "keyword": "dance studio indian head park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dance-studio-indian-head-park-il.json"
+  },
+  {
+   "keyword": "dentist indian head park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-indian-head-park-il.json"
+  },
+  {
+   "keyword": "dry cleaners indian head park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dry-cleaners-indian-head-park-il.json"
+  },
+  {
+   "keyword": "florist indian head park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/florist-indian-head-park-il.json"
+  },
+  {
+   "keyword": "gym indian head park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-indian-head-park-il.json"
+  },
+  {
+   "keyword": "hair salon indian head park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-indian-head-park-il.json"
+  },
+  {
+   "keyword": "haircut indian head park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-indian-head-park-il.json"
+  },
+  {
+   "keyword": "jewelry store indian head park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/jewelry-store-indian-head-park-il.json"
+  },
+  {
+   "keyword": "massage indian head park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/massage-indian-head-park-il.json"
+  },
+  {
+   "keyword": "mechanic indian head park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-indian-head-park-il.json"
+  },
+  {
+   "keyword": "printing services indian head park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/printing-services-indian-head-park-il.json"
+  },
+  {
+   "keyword": "transmission repair indian head park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/transmission-repair-indian-head-park-il.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "i-noah-training-indian-head-park",
+   "name": "I Noah Training",
+   "summary": "I Noah Training is a gym in Indian Head Park, IL. Website: https://inoahtraining.com/.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/i-noah-training-indian-head-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/i-noah-training-indian-head-park.json",
+   "address": {
+    "addressLocality": "Indian Head Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Indian Head Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7648033,
+    "lon": -87.8978276
+   },
+   "website": "https://inoahtraining.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10684390300",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "skreko-dentistry-indian-head-park",
+   "name": "Skreko Dentistry",
+   "summary": "Skreko Dentistry is a dentist in Indian Head Park, IL. Website: https://www.drskreko.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/skreko-dentistry-indian-head-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/skreko-dentistry-indian-head-park.json",
+   "address": {
+    "addressLocality": "Indian Head Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Indian Head Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7643349,
+    "lon": -87.8981151
+   },
+   "website": "https://www.drskreko.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10684391123",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "bozena-day-spa-indian-head-park",
+   "name": "Bozena Day Spa",
+   "summary": "Bozena Day Spa is a massage studio in Indian Head Park, IL.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bozena-day-spa-indian-head-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bozena-day-spa-indian-head-park.json",
+   "address": {
+    "addressLocality": "Indian Head Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Indian Head Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7639794,
+    "lon": -87.8972812
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10684391120",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "chucks-auto-repair-indian-head-park",
+   "name": "Chuck's Auto Repair",
+   "summary": "Chuck's Auto Repair is an auto repair shop in Indian Head Park, IL.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chucks-auto-repair-indian-head-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chucks-auto-repair-indian-head-park.json",
+   "address": {
+    "addressLocality": "Indian Head Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Indian Head Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7698099,
+    "lon": -87.8893169
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10172624495",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "custom-cleaners-indian-head-park",
+   "name": "Custom Cleaners",
+   "summary": "Custom Cleaners is a dry cleaner in Indian Head Park, IL.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/custom-cleaners-indian-head-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/custom-cleaners-indian-head-park.json",
+   "address": {
+    "addressLocality": "Indian Head Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Indian Head Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7646873,
+    "lon": -87.8973123
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10684390297",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "guy-blando-indian-head-park",
+   "name": "Guy Blando",
+   "summary": "Guy Blando is a jewelry store in Indian Head Park, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/guy-blando-indian-head-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/guy-blando-indian-head-park.json",
+   "address": {
+    "addressLocality": "Indian Head Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Indian Head Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7643104,
+    "lon": -87.897273
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10684391122",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "hair-cuttery-indian-head-park",
+   "name": "Hair Cuttery",
+   "summary": "Hair Cuttery is a hair salon in Indian Head Park, IL.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hair-cuttery-indian-head-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hair-cuttery-indian-head-park.json",
+   "address": {
+    "addressLocality": "Indian Head Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Indian Head Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7700089,
+    "lon": -87.8888563
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10172624493",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "heather-and-vine-indian-head-park",
+   "name": "Heather & Vine",
+   "summary": "Heather & Vine is a florist in Indian Head Park, IL.",
+   "categories": [
+    "florist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/heather-and-vine-indian-head-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/heather-and-vine-indian-head-park.json",
+   "address": {
+    "addressLocality": "Indian Head Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Indian Head Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7640943,
+    "lon": -87.8972874
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10684391121",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "lc-salon-and-spa-indian-head-park",
+   "name": "LC Salon & Spa",
+   "summary": "LC Salon & Spa is a hair salon in Indian Head Park, IL.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lc-salon-and-spa-indian-head-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lc-salon-and-spa-indian-head-park.json",
+   "address": {
+    "addressLocality": "Indian Head Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Indian Head Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7648474,
+    "lon": -87.8977006
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10684390294",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "novack-and-cvetkovic-dentistry-indian-head-park",
+   "name": "Novack & Cvetkovic Dentistry",
+   "summary": "Novack & Cvetkovic Dentistry is a dentist in Indian Head Park, IL.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/novack-and-cvetkovic-dentistry-indian-head-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/novack-and-cvetkovic-dentistry-indian-head-park.json",
+   "address": {
+    "addressLocality": "Indian Head Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Indian Head Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7699863,
+    "lon": -87.8889167
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10172624494",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "studio-suites-indian-head-park",
+   "name": "Studio Suites",
+   "summary": "Studio Suites is a hair salon in Indian Head Park, IL.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/studio-suites-indian-head-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/studio-suites-indian-head-park.json",
+   "address": {
+    "addressLocality": "Indian Head Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Indian Head Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7639262,
+    "lon": -87.8972831
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10684391126",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "the-ups-store-indian-head-park",
+   "name": "The UPS Store",
+   "summary": "The UPS Store is a printing service in Indian Head Park, IL.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-ups-store-indian-head-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-ups-store-indian-head-park.json",
+   "address": {
+    "addressLocality": "Indian Head Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Indian Head Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7699525,
+    "lon": -87.8889746
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10172624490",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "thrive-center-for-dance-indian-head-park",
+   "name": "Thrive Center for Dance",
+   "summary": "Thrive Center for Dance is a dance studio in Indian Head Park, IL.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/thrive-center-for-dance-indian-head-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/thrive-center-for-dance-indian-head-park.json",
+   "address": {
+    "addressLocality": "Indian Head Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Indian Head Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7648507,
+    "lon": -87.8974521
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10684390298",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

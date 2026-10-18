@@ -1,0 +1,62 @@
+{
+ "slug": "semeria-imports-inc-prospect-heights",
+ "name": "Semeria Imports, Inc.",
+ "categories": [
+  "auto repair"
+ ],
+ "keywords": [
+  "auto repair",
+  "mechanic",
+  "auto repair prospect heights il",
+  "mechanic prospect heights il"
+ ],
+ "services": [
+  {
+   "name": "auto repair",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "mechanic",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "851 East Palatine Road",
+  "addressLocality": "Prospect Heights",
+  "addressRegion": "IL",
+  "postalCode": "60070",
+  "addressCountry": "US"
+ },
+ "city": "Prospect Heights",
+ "state": "IL",
+ "zip": "60070",
+ "geo": {
+  "lat": 42.1090193,
+  "lon": -87.8922255
+ },
+ "phone": "+18475375454",
+ "website": "https://www.semeriaimports.com/",
+ "schema_type": "AutoRepair",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/327819433",
+ "osm": {
+  "type": "way",
+  "id": 327819433,
+  "tags_used": {
+   "shop": "car_repair"
+  }
+ },
+ "municipality": "Prospect Heights",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/semeria-imports-inc-prospect-heights/",
+ "summary": "Semeria Imports, Inc. is an auto repair shop in Prospect Heights, IL at 851 East Palatine Road, Prospect Heights, IL 60070. Phone: +18475375454. Website: https://www.semeriaimports.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

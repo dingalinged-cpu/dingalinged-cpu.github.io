@@ -1,0 +1,58 @@
+{
+ "slug": "march-animal-hospital-arlington-heights",
+ "name": "March Animal Hospital",
+ "categories": [
+  "vet"
+ ],
+ "keywords": [
+  "vet",
+  "vet arlington heights il"
+ ],
+ "services": [
+  {
+   "name": "vet",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1000 East Central Road",
+  "addressLocality": "Arlington Heights",
+  "addressRegion": "IL",
+  "postalCode": "60005",
+  "addressCountry": "US"
+ },
+ "city": "Arlington Heights",
+ "state": "IL",
+ "zip": "60005",
+ "geo": {
+  "lat": 42.0667568,
+  "lon": -87.9704587
+ },
+ "phone": "+18476708470",
+ "website": "https://www.marchanimalhospital.com/",
+ "email": "csrs.mah@gmail.com",
+ "opening_hours": "Mo, Th 09:00-20:00; Tu-We, Fr 09:00-18:00; Sa 09:00-14:00",
+ "schema_type": "VeterinaryCare",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/13416516201",
+ "osm": {
+  "type": "node",
+  "id": 13416516201,
+  "tags_used": {
+   "amenity": "veterinary"
+  }
+ },
+ "municipality": "Arlington Heights",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/march-animal-hospital-arlington-heights/",
+ "summary": "March Animal Hospital is a veterinarian in Arlington Heights, IL at 1000 East Central Road, Arlington Heights, IL 60005. Phone: +18476708470. Website: https://www.marchanimalhospital.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

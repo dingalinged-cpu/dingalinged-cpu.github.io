@@ -1,0 +1,62 @@
+{
+ "slug": "rck-law-firm-naperville",
+ "name": "RCK Law Firm",
+ "categories": [
+  "lawyer"
+ ],
+ "keywords": [
+  "lawyer",
+  "attorney",
+  "lawyer naperville il",
+  "attorney naperville il"
+ ],
+ "services": [
+  {
+   "name": "lawyer",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "attorney",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "210 West Ogden Avenue",
+  "addressLocality": "Naperville",
+  "addressRegion": "IL",
+  "postalCode": "60563",
+  "addressCountry": "US"
+ },
+ "city": "Naperville",
+ "state": "IL",
+ "zip": "60563",
+ "geo": {
+  "lat": 41.7855396,
+  "lon": -88.1501902
+ },
+ "phone": "+16303642188",
+ "website": "https://www.rcklawfirm.com/",
+ "schema_type": "LegalService",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/687202868",
+ "osm": {
+  "type": "way",
+  "id": 687202868,
+  "tags_used": {
+   "office": "lawyer"
+  }
+ },
+ "municipality": "Naperville",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/rck-law-firm-naperville/",
+ "summary": "RCK Law Firm is a lawyer in Naperville, IL at 210 West Ogden Avenue, Naperville, IL 60563. Phone: +16303642188. Website: https://www.rcklawfirm.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

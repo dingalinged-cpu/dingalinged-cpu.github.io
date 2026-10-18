@@ -1,0 +1,1014 @@
+{
+ "place": "Whiting, IN",
+ "slug": "whiting-in",
+ "count": 30,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "accountant whiting in",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/accountant-whiting-in.json"
+  },
+  {
+   "keyword": "accounting services whiting in",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/accounting-services-whiting-in.json"
+  },
+  {
+   "keyword": "attorney whiting in",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/attorney-whiting-in.json"
+  },
+  {
+   "keyword": "dentist whiting in",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-whiting-in.json"
+  },
+  {
+   "keyword": "dog groomer whiting in",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dog-groomer-whiting-in.json"
+  },
+  {
+   "keyword": "event venues whiting in",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/event-venues-whiting-in.json"
+  },
+  {
+   "keyword": "eye doctor whiting in",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/eye-doctor-whiting-in.json"
+  },
+  {
+   "keyword": "financial advisor whiting in",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/financial-advisor-whiting-in.json"
+  },
+  {
+   "keyword": "florist whiting in",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/florist-whiting-in.json"
+  },
+  {
+   "keyword": "funeral home whiting in",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/funeral-home-whiting-in.json"
+  },
+  {
+   "keyword": "gift shop whiting in",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gift-shop-whiting-in.json"
+  },
+  {
+   "keyword": "gym whiting in",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-whiting-in.json"
+  },
+  {
+   "keyword": "hair salon whiting in",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-whiting-in.json"
+  },
+  {
+   "keyword": "haircut whiting in",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-whiting-in.json"
+  },
+  {
+   "keyword": "insurance agency whiting in",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-whiting-in.json"
+  },
+  {
+   "keyword": "insurance agent whiting in",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-whiting-in.json"
+  },
+  {
+   "keyword": "insurance agents whiting in",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-whiting-in.json"
+  },
+  {
+   "keyword": "jewelry store whiting in",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/jewelry-store-whiting-in.json"
+  },
+  {
+   "keyword": "lawyer whiting in",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/lawyer-whiting-in.json"
+  },
+  {
+   "keyword": "liquor store whiting in",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/liquor-store-whiting-in.json"
+  },
+  {
+   "keyword": "photographer whiting in",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/photographer-whiting-in.json"
+  },
+  {
+   "keyword": "shoe repair whiting in",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/shoe-repair-whiting-in.json"
+  },
+  {
+   "keyword": "tattoo shop whiting in",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tattoo-shop-whiting-in.json"
+  },
+  {
+   "keyword": "thrift store whiting in",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/thrift-store-whiting-in.json"
+  },
+  {
+   "keyword": "window repair whiting in",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/window-repair-whiting-in.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "80-20-fitness-whiting",
+   "name": "80/20 Fitness",
+   "summary": "80/20 Fitness is a gym in Whiting, IN at 1308 119th Street, Whiting, IN 46394.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/80-20-fitness-whiting/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/80-20-fitness-whiting.json",
+   "address": {
+    "streetAddress": "1308 119th Street",
+    "addressLocality": "Whiting",
+    "addressRegion": "IN",
+    "postalCode": "46394",
+    "addressCountry": "US"
+   },
+   "city": "Whiting",
+   "state": "IN",
+   "zip": "46394",
+   "geo": {
+    "lat": 41.6790681,
+    "lon": -87.4974508
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1232071689",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "american-trust-insurance-services-whiting",
+   "name": "American Trust Insurance Services",
+   "summary": "American Trust Insurance Services is an insurance agent in Whiting, IN at 1315 119th Street, Whiting, IN 46394.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/american-trust-insurance-services-whiting/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/american-trust-insurance-services-whiting.json",
+   "address": {
+    "streetAddress": "1315 119th Street",
+    "addressLocality": "Whiting",
+    "addressRegion": "IN",
+    "postalCode": "46394",
+    "addressCountry": "US"
+   },
+   "city": "Whiting",
+   "state": "IN",
+   "zip": "46394",
+   "geo": {
+    "lat": 41.6794996,
+    "lon": -87.4971282
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1231926397",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "anas-beauty-salon-whiting",
+   "name": "Ana's Beauty Salon",
+   "summary": "Ana's Beauty Salon is a hair salon in Whiting, IN at 1440 119th Street, Whiting, IN 46394.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/anas-beauty-salon-whiting/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/anas-beauty-salon-whiting.json",
+   "address": {
+    "streetAddress": "1440 119th Street",
+    "addressLocality": "Whiting",
+    "addressRegion": "IN",
+    "postalCode": "46394",
+    "addressCountry": "US"
+   },
+   "city": "Whiting",
+   "state": "IN",
+   "zip": "46394",
+   "geo": {
+    "lat": 41.679174,
+    "lon": -87.4936855
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1232078541",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "baran-funeral-home-whiting",
+   "name": "Baran Funeral Home",
+   "summary": "Baran Funeral Home is a funeral home in Whiting, IN at 1235 119th Street, Whiting, IN 46394.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/baran-funeral-home-whiting/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/baran-funeral-home-whiting.json",
+   "address": {
+    "streetAddress": "1235 119th Street",
+    "addressLocality": "Whiting",
+    "addressRegion": "IN",
+    "postalCode": "46394",
+    "addressCountry": "US"
+   },
+   "city": "Whiting",
+   "state": "IN",
+   "zip": "46394",
+   "geo": {
+    "lat": 41.6795527,
+    "lon": -87.4986114
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1232071667",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "berquist-family-dentistry-whiting",
+   "name": "Berquist Family Dentistry",
+   "summary": "Berquist Family Dentistry is a dentist in Whiting, IN at 1444 119th Street, Whiting, IN 46394.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/berquist-family-dentistry-whiting/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/berquist-family-dentistry-whiting.json",
+   "address": {
+    "streetAddress": "1444 119th Street",
+    "addressLocality": "Whiting",
+    "addressRegion": "IN",
+    "postalCode": "46394",
+    "addressCountry": "US"
+   },
+   "city": "Whiting",
+   "state": "IN",
+   "zip": "46394",
+   "geo": {
+    "lat": 41.6792646,
+    "lon": -87.4935219
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11428033310",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "bizik-glass-block-corp-whiting",
+   "name": "Bizik Glass Block Corp",
+   "summary": "Bizik Glass Block Corp is a window repair service in Whiting, IN at 2435 Indianapolis Boulevard, Whiting, IN 46394.",
+   "categories": [
+    "window repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bizik-glass-block-corp-whiting/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bizik-glass-block-corp-whiting.json",
+   "address": {
+    "streetAddress": "2435 Indianapolis Boulevard",
+    "addressLocality": "Whiting",
+    "addressRegion": "IN",
+    "postalCode": "46394",
+    "addressCountry": "US"
+   },
+   "city": "Whiting",
+   "state": "IN",
+   "zip": "46394",
+   "geo": {
+    "lat": 41.6706259,
+    "lon": -87.4894254
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1211633500",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "castelan-jewlery-whiting",
+   "name": "Castelan Jewlery",
+   "summary": "Castelan Jewlery is a jewelry store in Whiting, IN at 1246 119th Street, Whiting, IN 46394.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/castelan-jewlery-whiting/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/castelan-jewlery-whiting.json",
+   "address": {
+    "streetAddress": "1246 119th Street",
+    "addressLocality": "Whiting",
+    "addressRegion": "IN",
+    "postalCode": "46394",
+    "addressCountry": "US"
+   },
+   "city": "Whiting",
+   "state": "IN",
+   "zip": "46394",
+   "geo": {
+    "lat": 41.679101,
+    "lon": -87.4979963
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1231913399",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "curosh-and-curosh-attorneys-at-law-whiting",
+   "name": "Curosh & Curosh -Attorneys at Law",
+   "summary": "Curosh & Curosh -Attorneys at Law is a lawyer in Whiting, IN at 1532 119th Street, Whiting, IN 46394.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/curosh-and-curosh-attorneys-at-law-whiting/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/curosh-and-curosh-attorneys-at-law-whiting.json",
+   "address": {
+    "streetAddress": "1532 119th Street",
+    "addressLocality": "Whiting",
+    "addressRegion": "IN",
+    "postalCode": "46394",
+    "addressCountry": "US"
+   },
+   "city": "Whiting",
+   "state": "IN",
+   "zip": "46394",
+   "geo": {
+    "lat": 41.6791076,
+    "lon": -87.4914921
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1232448666",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "fourstar-fit-whiting",
+   "name": "FourStar Fit",
+   "summary": "FourStar Fit is a gym in Whiting, IN at 1916 Indianapolis Boulevard, Whiting, IN 46394.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fourstar-fit-whiting/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fourstar-fit-whiting.json",
+   "address": {
+    "streetAddress": "1916 Indianapolis Boulevard",
+    "addressLocality": "Whiting",
+    "addressRegion": "IN",
+    "postalCode": "46394",
+    "addressCountry": "US"
+   },
+   "city": "Whiting",
+   "state": "IN",
+   "zip": "46394",
+   "geo": {
+    "lat": 41.6786896,
+    "lon": -87.4989718
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1233085007",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "happy-jacks-liquor-whiting",
+   "name": "Happy Jack's Liquor",
+   "summary": "Happy Jack's Liquor is a liquor store in Whiting, IN at 2440 Indianapolis Boulevard, Whiting, IN 46394.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/happy-jacks-liquor-whiting/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/happy-jacks-liquor-whiting.json",
+   "address": {
+    "streetAddress": "2440 Indianapolis Boulevard",
+    "addressLocality": "Whiting",
+    "addressRegion": "IN",
+    "postalCode": "46394",
+    "addressCountry": "US"
+   },
+   "city": "Whiting",
+   "state": "IN",
+   "zip": "46394",
+   "geo": {
+    "lat": 41.6700529,
+    "lon": -87.4895688
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1211633502",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "john-singel-cpa-whiting",
+   "name": "John Singel, CPA",
+   "summary": "John Singel, CPA is an accountant in Whiting, IN at 1405 119th Street, Whiting, IN 46394.",
+   "categories": [
+    "accountant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/john-singel-cpa-whiting/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/john-singel-cpa-whiting.json",
+   "address": {
+    "streetAddress": "1405 119th Street",
+    "addressLocality": "Whiting",
+    "addressRegion": "IN",
+    "postalCode": "46394",
+    "addressCountry": "US"
+   },
+   "city": "Whiting",
+   "state": "IN",
+   "zip": "46394",
+   "geo": {
+    "lat": 41.6795247,
+    "lon": -87.4953148
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1231822702",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "lakeside-barber-studio-whiting",
+   "name": "Lakeside Barber Studio",
+   "summary": "Lakeside Barber Studio is a hair salon in Whiting, IN at 1426 119th Street #1, Whiting, IN 46394.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lakeside-barber-studio-whiting/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lakeside-barber-studio-whiting.json",
+   "address": {
+    "streetAddress": "1426 119th Street #1",
+    "addressLocality": "Whiting",
+    "addressRegion": "IN",
+    "postalCode": "46394",
+    "addressCountry": "US"
+   },
+   "city": "Whiting",
+   "state": "IN",
+   "zip": "46394",
+   "geo": {
+    "lat": 41.6792211,
+    "lon": -87.4943321
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1232071708",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "levin-eye-care-center-whiting",
+   "name": "Levin Eye Care Center",
+   "summary": "Levin Eye Care Center is an eye care practice in Whiting, IN at 1334 119th Street, Whiting, IN 46394.",
+   "categories": [
+    "eye doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/levin-eye-care-center-whiting/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/levin-eye-care-center-whiting.json",
+   "address": {
+    "streetAddress": "1334 119th Street",
+    "addressLocality": "Whiting",
+    "addressRegion": "IN",
+    "postalCode": "46394",
+    "addressCountry": "US"
+   },
+   "city": "Whiting",
+   "state": "IN",
+   "zip": "46394",
+   "geo": {
+    "lat": 41.6791622,
+    "lon": -87.4962712
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11511927699",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "lucky-kat-tat-whiting",
+   "name": "Lucky Kat Tat",
+   "summary": "Lucky Kat Tat is a tattoo shop in Whiting, IN at 1858 Indianapolis Boulevard, Whiting, IN 46394.",
+   "categories": [
+    "tattoo shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lucky-kat-tat-whiting/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lucky-kat-tat-whiting.json",
+   "address": {
+    "streetAddress": "1858 Indianapolis Boulevard",
+    "addressLocality": "Whiting",
+    "addressRegion": "IN",
+    "postalCode": "46394",
+    "addressCountry": "US"
+   },
+   "city": "Whiting",
+   "state": "IN",
+   "zip": "46394",
+   "geo": {
+    "lat": 41.6798477,
+    "lon": -87.4999974
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11426104230",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "lynns-doggie-spa-whiting",
+   "name": "Lynn's Doggie Spa",
+   "summary": "Lynn's Doggie Spa is a dog groomer in Whiting, IN at 1612 119th Street, Whiting, IN 46394.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lynns-doggie-spa-whiting/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lynns-doggie-spa-whiting.json",
+   "address": {
+    "streetAddress": "1612 119th Street",
+    "addressLocality": "Whiting",
+    "addressRegion": "IN",
+    "postalCode": "46394",
+    "addressCountry": "US"
+   },
+   "city": "Whiting",
+   "state": "IN",
+   "zip": "46394",
+   "geo": {
+    "lat": 41.6791638,
+    "lon": -87.4900614
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1231822627",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "melrose-place-whiting",
+   "name": "Melrose Place",
+   "summary": "Melrose Place is an event venue in Whiting, IN at 1548 119th Street #100, Whiting, IN 46394.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/melrose-place-whiting/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/melrose-place-whiting.json",
+   "address": {
+    "streetAddress": "1548 119th Street #100",
+    "addressLocality": "Whiting",
+    "addressRegion": "IN",
+    "postalCode": "46394",
+    "addressCountry": "US"
+   },
+   "city": "Whiting",
+   "state": "IN",
+   "zip": "46394",
+   "geo": {
+    "lat": 41.679121,
+    "lon": -87.4908512
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1232448662",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "memory-makers-photography-whiting",
+   "name": "Memory Makers Photography",
+   "summary": "Memory Makers Photography is a photographer in Whiting, IN at 1530 119th Street, Whiting, IN 46394.",
+   "categories": [
+    "photographer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/memory-makers-photography-whiting/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/memory-makers-photography-whiting.json",
+   "address": {
+    "streetAddress": "1530 119th Street",
+    "addressLocality": "Whiting",
+    "addressRegion": "IN",
+    "postalCode": "46394",
+    "addressCountry": "US"
+   },
+   "city": "Whiting",
+   "state": "IN",
+   "zip": "46394",
+   "geo": {
+    "lat": 41.679142,
+    "lon": -87.4915678
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1232448667",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "muneca-salon-whiting",
+   "name": "Muneca Salon",
+   "summary": "Muneca Salon is a hair salon in Whiting, IN at 1921 Clark Street, Whiting, IN 46394.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/muneca-salon-whiting/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/muneca-salon-whiting.json",
+   "address": {
+    "streetAddress": "1921 Clark Street",
+    "addressLocality": "Whiting",
+    "addressRegion": "IN",
+    "postalCode": "46394",
+    "addressCountry": "US"
+   },
+   "city": "Whiting",
+   "state": "IN",
+   "zip": "46394",
+   "geo": {
+    "lat": 41.6785701,
+    "lon": -87.4958286
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1232487809",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "paradise-liquors-whiting",
+   "name": "Paradise Liquors",
+   "summary": "Paradise Liquors is a liquor store in Whiting, IN at 1506 119th Street, Whiting, IN 46394.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/paradise-liquors-whiting/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/paradise-liquors-whiting.json",
+   "address": {
+    "streetAddress": "1506 119th Street",
+    "addressLocality": "Whiting",
+    "addressRegion": "IN",
+    "postalCode": "46394",
+    "addressCountry": "US"
+   },
+   "city": "Whiting",
+   "state": "IN",
+   "zip": "46394",
+   "geo": {
+    "lat": 41.6791351,
+    "lon": -87.4926339
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1232487824",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "rebeccas-hair-care-whiting",
+   "name": "Rebecca's Hair Care",
+   "summary": "Rebecca's Hair Care is a hair salon in Whiting, IN at 1544 119th Street, Whiting, IN 46394.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rebeccas-hair-care-whiting/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rebeccas-hair-care-whiting.json",
+   "address": {
+    "streetAddress": "1544 119th Street",
+    "addressLocality": "Whiting",
+    "addressRegion": "IN",
+    "postalCode": "46394",
+    "addressCountry": "US"
+   },
+   "city": "Whiting",
+   "state": "IN",
+   "zip": "46394",
+   "geo": {
+    "lat": 41.6792267,
+    "lon": -87.4909475
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1232448663",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "ritzi-law-llc-whiting",
+   "name": "Ritzi Law LLC",
+   "summary": "Ritzi Law LLC is a lawyer in Whiting, IN at 1322 119th Street, Whiting, IN 46394.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ritzi-law-llc-whiting/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ritzi-law-llc-whiting.json",
+   "address": {
+    "streetAddress": "1322 119th Street",
+    "addressLocality": "Whiting",
+    "addressRegion": "IN",
+    "postalCode": "46394",
+    "addressCountry": "US"
+   },
+   "city": "Whiting",
+   "state": "IN",
+   "zip": "46394",
+   "geo": {
+    "lat": 41.6792263,
+    "lon": -87.49688
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11428001906",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "second-wind-whiting",
+   "name": "Second Wind",
+   "summary": "Second Wind is a thrift store in Whiting, IN at 1422 119th Street, Whiting, IN 46394.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/second-wind-whiting/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/second-wind-whiting.json",
+   "address": {
+    "streetAddress": "1422 119th Street",
+    "addressLocality": "Whiting",
+    "addressRegion": "IN",
+    "postalCode": "46394",
+    "addressCountry": "US"
+   },
+   "city": "Whiting",
+   "state": "IN",
+   "zip": "46394",
+   "geo": {
+    "lat": 41.6791673,
+    "lon": -87.4945293
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1232071706",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "state-farm-whiting",
+   "name": "State Farm",
+   "summary": "State Farm is an insurance agent in Whiting, IN at 1319 119th Street, Whiting, IN 46394.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/state-farm-whiting/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/state-farm-whiting.json",
+   "address": {
+    "streetAddress": "1319 119th Street",
+    "addressLocality": "Whiting",
+    "addressRegion": "IN",
+    "postalCode": "46394",
+    "addressCountry": "US"
+   },
+   "city": "Whiting",
+   "state": "IN",
+   "zip": "46394",
+   "geo": {
+    "lat": 41.6794953,
+    "lon": -87.4970122
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1231926398",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "sun-catchers-whiting",
+   "name": "Sun Catchers",
+   "summary": "Sun Catchers is a gift shop in Whiting, IN at 1348 119th Street, Whiting, IN 46394.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sun-catchers-whiting/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sun-catchers-whiting.json",
+   "address": {
+    "streetAddress": "1348 119th Street",
+    "addressLocality": "Whiting",
+    "addressRegion": "IN",
+    "postalCode": "46394",
+    "addressCountry": "US"
+   },
+   "city": "Whiting",
+   "state": "IN",
+   "zip": "46394",
+   "geo": {
+    "lat": 41.6790915,
+    "lon": -87.4956881
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1232071700",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "the-hobson-financial-group-whiting",
+   "name": "The Hobson Financial Group",
+   "summary": "The Hobson Financial Group is a financial advisor in Whiting, IN at 1306 119th Street, Whiting, IN 46394.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-hobson-financial-group-whiting/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-hobson-financial-group-whiting.json",
+   "address": {
+    "streetAddress": "1306 119th Street",
+    "addressLocality": "Whiting",
+    "addressRegion": "IN",
+    "postalCode": "46394",
+    "addressCountry": "US"
+   },
+   "city": "Whiting",
+   "state": "IN",
+   "zip": "46394",
+   "geo": {
+    "lat": 41.6790847,
+    "lon": -87.4975628
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1232071688",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "the-mustache-lounge-whiting",
+   "name": "The Mustache Lounge",
+   "summary": "The Mustache Lounge is a hair salon in Whiting, IN at 1242 119th Street, Whiting, IN 46394.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-mustache-lounge-whiting/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-mustache-lounge-whiting.json",
+   "address": {
+    "streetAddress": "1242 119th Street",
+    "addressLocality": "Whiting",
+    "addressRegion": "IN",
+    "postalCode": "46394",
+    "addressCountry": "US"
+   },
+   "city": "Whiting",
+   "state": "IN",
+   "zip": "46394",
+   "geo": {
+    "lat": 41.6791207,
+    "lon": -87.4982025
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1231913397",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "vision-one-whiting",
+   "name": "Vision One",
+   "summary": "Vision One is an eye care practice in Whiting, IN at 1538 119th Street, Whiting, IN 46394.",
+   "categories": [
+    "eye doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/vision-one-whiting/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/vision-one-whiting.json",
+   "address": {
+    "streetAddress": "1538 119th Street",
+    "addressLocality": "Whiting",
+    "addressRegion": "IN",
+    "postalCode": "46394",
+    "addressCountry": "US"
+   },
+   "city": "Whiting",
+   "state": "IN",
+   "zip": "46394",
+   "geo": {
+    "lat": 41.6791067,
+    "lon": -87.4913142
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1232448665",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "whiting-dental-center-whiting",
+   "name": "Whiting Dental Center",
+   "summary": "Whiting Dental Center is a dentist in Whiting, IN at 1332 119th Street, Whiting, IN 46394.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/whiting-dental-center-whiting/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/whiting-dental-center-whiting.json",
+   "address": {
+    "streetAddress": "1332 119th Street",
+    "addressLocality": "Whiting",
+    "addressRegion": "IN",
+    "postalCode": "46394",
+    "addressCountry": "US"
+   },
+   "city": "Whiting",
+   "state": "IN",
+   "zip": "46394",
+   "geo": {
+    "lat": 41.6790792,
+    "lon": -87.4964229
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1232071696",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "whiting-flower-shop-whiting",
+   "name": "Whiting Flower Shop",
+   "summary": "Whiting Flower Shop is a florist in Whiting, IN at 1341 119th Street, Whiting, IN 46394.",
+   "categories": [
+    "florist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/whiting-flower-shop-whiting/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/whiting-flower-shop-whiting.json",
+   "address": {
+    "streetAddress": "1341 119th Street",
+    "addressLocality": "Whiting",
+    "addressRegion": "IN",
+    "postalCode": "46394",
+    "addressCountry": "US"
+   },
+   "city": "Whiting",
+   "state": "IN",
+   "zip": "46394",
+   "geo": {
+    "lat": 41.6795697,
+    "lon": -87.4960274
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1231822694",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "whiting-shoe-service-whiting",
+   "name": "Whiting Shoe Service",
+   "summary": "Whiting Shoe Service is a shoe repair in Whiting, IN at 1932 Indianapolis Boulevard, Whiting, IN 46394.",
+   "categories": [
+    "shoe repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/whiting-shoe-service-whiting/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/whiting-shoe-service-whiting.json",
+   "address": {
+    "streetAddress": "1932 Indianapolis Boulevard",
+    "addressLocality": "Whiting",
+    "addressRegion": "IN",
+    "postalCode": "46394",
+    "addressCountry": "US"
+   },
+   "city": "Whiting",
+   "state": "IN",
+   "zip": "46394",
+   "geo": {
+    "lat": 41.6783048,
+    "lon": -87.4985023
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1233085012",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

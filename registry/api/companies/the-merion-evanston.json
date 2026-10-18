@@ -1,0 +1,55 @@
+{
+ "slug": "the-merion-evanston",
+ "name": "The Merion",
+ "categories": [
+  "assisted living"
+ ],
+ "keywords": [
+  "assisted living",
+  "assisted living evanston il"
+ ],
+ "services": [
+  {
+   "name": "assisted living",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1611 Chicago Avenue",
+  "addressLocality": "Evanston",
+  "addressRegion": "IL",
+  "postalCode": "60201",
+  "addressCountry": "US"
+ },
+ "city": "Evanston",
+ "state": "IL",
+ "zip": "60201",
+ "geo": {
+  "lat": 42.0465108,
+  "lon": -87.6789829
+ },
+ "website": "https://www.merionevanston.com/",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/relation/16285694",
+ "osm": {
+  "type": "relation",
+  "id": 16285694,
+  "tags_used": {
+   "amenity": "social_facility"
+  }
+ },
+ "municipality": "Evanston",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/the-merion-evanston/",
+ "summary": "The Merion is an assisted living facility in Evanston, IL at 1611 Chicago Avenue, Evanston, IL 60201. Website: https://www.merionevanston.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

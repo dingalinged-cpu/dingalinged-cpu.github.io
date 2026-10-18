@@ -1,0 +1,23 @@
+Jet Brite Car Wash is a car wash in Chicago, IL at 7150 West 54th Street, Chicago, IL 60638. Website: https://www.jetbritecarwash.com/.
+
+# Jet Brite Car Wash
+
+- Category: car wash
+- Services: car wash
+- Address: 7150 West 54th Street, Chicago, IL 60638
+- City: Chicago
+- State: IL
+- ZIP: 60638
+- Coordinates: 41.7944012, -87.8011067
+- Phone: n/a
+- Website: https://www.jetbritecarwash.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/jet-brite-car-wash-chicago/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/jet-brite-car-wash-chicago.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/911080757 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

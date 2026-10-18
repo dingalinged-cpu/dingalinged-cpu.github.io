@@ -1,0 +1,60 @@
+{
+ "slug": "liberty-tax-chicago-n11242080802",
+ "name": "Liberty Tax",
+ "categories": [
+  "tax preparation"
+ ],
+ "keywords": [
+  "tax preparation",
+  "tax preparer",
+  "tax preparation chicago il",
+  "tax preparer chicago il"
+ ],
+ "services": [
+  {
+   "name": "tax preparation",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "tax preparer",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "geo": {
+  "lat": 41.9620368,
+  "lon": -87.6550946
+ },
+ "phone": "+17735069711",
+ "brand": "Liberty Tax",
+ "wikidata": "Q6541978",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/11242080802",
+ "osm": {
+  "type": "node",
+  "id": 11242080802,
+  "tags_used": {
+   "office": "tax_advisor"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/liberty-tax-chicago-n11242080802/",
+ "summary": "Liberty Tax is a tax preparation service in Chicago, IL. Phone: +17735069711.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

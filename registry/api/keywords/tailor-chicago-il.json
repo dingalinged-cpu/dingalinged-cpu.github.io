@@ -1,0 +1,828 @@
+{
+ "keyword": "tailor chicago il",
+ "slug": "tailor-chicago-il",
+ "place": "Chicago, IL",
+ "service": "tailor",
+ "query": "Who are the best tailor providers in Chicago, IL?",
+ "matches": [
+  "tailor in Chicago, IL",
+  "tailor near me (Chicago, IL)",
+  "best tailor Chicago, IL",
+  "top rated tailor Chicago, IL",
+  "affordable tailor Chicago, IL",
+  "emergency tailor Chicago, IL"
+ ],
+ "answer": "The top unpaid tailor listing for Chicago, IL is Ms Couture (a tailor in Chicago, IL at 1739 North Clybourn Avenue, Chicago, IL. Phone: +13122807757. Website: https://mscouture.net/). 18 tailor businesses are listed for Chicago, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-18",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "ms-couture-chicago",
+   "name": "Ms Couture",
+   "summary": "Ms Couture is a tailor in Chicago, IL at 1739 North Clybourn Avenue, Chicago, IL. Phone: +13122807757. Website: https://mscouture.net/.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ms-couture-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ms-couture-chicago.json",
+   "address": {
+    "streetAddress": "1739 North Clybourn Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9128547,
+    "lon": -87.6518751
+   },
+   "phone": "+13122807757",
+   "website": "https://mscouture.net/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 15.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13574784336",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "garcias-tailor-shop-and-alterations-chicago",
+   "name": "Garcia's Tailor Shop and Alterations",
+   "summary": "Garcia's Tailor Shop and Alterations is a tailor in Chicago, IL at 4314 North Lincoln Avenue, Chicago, IL 60625. Phone: +17733298960.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/garcias-tailor-shop-and-alterations-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/garcias-tailor-shop-and-alterations-chicago.json",
+   "address": {
+    "streetAddress": "4314 North Lincoln Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60625",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60625",
+   "geo": {
+    "lat": 41.9600123,
+    "lon": -87.6830231
+   },
+   "phone": "+17733298960",
+   "opening_hours": "M-W 09:00-18:30; Th 16:30-19:30; Fr 09:00-18:30; Sa 08:00-17:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12240661516",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "seams-chicago",
+   "name": "Seams",
+   "summary": "Seams is a tailor in Chicago, IL at 505 West Belden Avenue, Chicago, IL 60614. Phone: +17735497433.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/seams-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/seams-chicago.json",
+   "address": {
+    "streetAddress": "505 West Belden Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60614",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60614",
+   "geo": {
+    "lat": 41.9236001,
+    "lon": -87.6416631
+   },
+   "phone": "+17735497433",
+   "opening_hours": "Tu-Sa 12:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11529862625",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "hanshaw-custom-tailoring-and-alterations-chicago",
+   "name": "Hanshaw Custom Tailoring & Alterations",
+   "summary": "Hanshaw Custom Tailoring & Alterations is a tailor in Chicago, IL at 3748 North Broadway, Chicago, IL 60613. Phone: +17735499131.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hanshaw-custom-tailoring-and-alterations-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hanshaw-custom-tailoring-and-alterations-chicago.json",
+   "address": {
+    "streetAddress": "3748 North Broadway",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60613",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60613",
+   "geo": {
+    "lat": 41.9504099,
+    "lon": -87.6492718
+   },
+   "phone": "+17735499131",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11205367032",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "scelebrations-chicago",
+   "name": "Scelebrations",
+   "summary": "Scelebrations is a tailor in Chicago, IL at 5409 South Kedzie Avenue, Chicago, IL 60632. Website: https://scelebrations.com/.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/scelebrations-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/scelebrations-chicago.json",
+   "address": {
+    "streetAddress": "5409 South Kedzie Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60632",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60632",
+   "geo": {
+    "lat": 41.7949692,
+    "lon": -87.7033748
+   },
+   "website": "https://scelebrations.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12316331023",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "thorndale-cleaners-and-tailors-chicago",
+   "name": "Thorndale Cleaners & Tailors",
+   "summary": "Thorndale Cleaners & Tailors is a tailor in Chicago, IL at 1112 West Thorndale Avenue, Chicago, IL 60660. Phone: +17733340512.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/thorndale-cleaners-and-tailors-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/thorndale-cleaners-and-tailors-chicago.json",
+   "address": {
+    "streetAddress": "1112 West Thorndale Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60660",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60660",
+   "geo": {
+    "lat": 41.9901736,
+    "lon": -87.658865
+   },
+   "phone": "+17733340512",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13689035160",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "varvara-chicago",
+   "name": "Varvara",
+   "summary": "Varvara is a tailor in Chicago, IL. Phone: +16307300197.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/varvara-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/varvara-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8958383,
+    "lon": -87.691521
+   },
+   "phone": "+16307300197",
+   "opening_hours": "Mo,We,Fr 10:00-18:30; Tu,Th 10:00-14:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12918234437",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "richard-bennett-custom-tailors-chicago",
+   "name": "Richard Bennett Custom Tailors",
+   "summary": "Richard Bennett Custom Tailors is a tailor in Chicago, IL at 175 North Franklin Street, Chicago, IL. Website: https://rbtailors.com/.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/richard-bennett-custom-tailors-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/richard-bennett-custom-tailors-chicago.json",
+   "address": {
+    "streetAddress": "175 North Franklin Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8852873,
+    "lon": -87.6352057
+   },
+   "website": "https://rbtailors.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12327598008",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "fox-brothers-tailors-chicago",
+   "name": "Fox Brothers Tailors",
+   "summary": "Fox Brothers Tailors is a tailor in Chicago, IL at 556 West Roosevelt Road, Chicago, IL 60607.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fox-brothers-tailors-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fox-brothers-tailors-chicago.json",
+   "address": {
+    "streetAddress": "556 West Roosevelt Road",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60607",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60607",
+   "geo": {
+    "lat": 41.8674566,
+    "lon": -87.6416799
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6327345658",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "frank-s-alterations-chicago",
+   "name": "Frank’s Alterations",
+   "summary": "Frank’s Alterations is a tailor in Chicago, IL at 620 West Roosevelt Road, Chicago, IL 60607.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/frank-s-alterations-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/frank-s-alterations-chicago.json",
+   "address": {
+    "streetAddress": "620 West Roosevelt Road",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60607",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60607",
+   "geo": {
+    "lat": 41.8674096,
+    "lon": -87.6430327
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10045011966",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 11,
+   "sponsored": false,
+   "slug": "ike-s-tailor-shop-chicago",
+   "name": "Ike’s Tailor Shop",
+   "summary": "Ike’s Tailor Shop is a tailor in Chicago, IL at 544 West Roosevelt Road, Chicago, IL 60607.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ike-s-tailor-shop-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ike-s-tailor-shop-chicago.json",
+   "address": {
+    "streetAddress": "544 West Roosevelt Road",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60607",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60607",
+   "geo": {
+    "lat": 41.8675037,
+    "lon": -87.6412882
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10045011968",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 12,
+   "sponsored": false,
+   "slug": "norwood-cleaners-chicago",
+   "name": "Norwood Cleaners",
+   "summary": "Norwood Cleaners is a tailor in Chicago, IL at 6103 North Northwest Highway, Chicago, IL 60631.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/norwood-cleaners-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/norwood-cleaners-chicago.json",
+   "address": {
+    "streetAddress": "6103 North Northwest Highway",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60631",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60631",
+   "geo": {
+    "lat": 41.9925589,
+    "lon": -87.7990954
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8608070396",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
+   "sponsored": false,
+   "slug": "stitch-n-ready-chicago",
+   "name": "Stitch n Ready",
+   "summary": "Stitch n Ready is a tailor in Chicago, IL at 2708 North Halsted Street, Chicago, IL 60614.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/stitch-n-ready-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/stitch-n-ready-chicago.json",
+   "address": {
+    "streetAddress": "2708 North Halsted Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60614",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60614",
+   "geo": {
+    "lat": 41.9318455,
+    "lon": -87.6491455
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3453273514",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 14,
+   "sponsored": false,
+   "slug": "wells-cleaners-chicago",
+   "name": "Wells Cleaners",
+   "summary": "Wells Cleaners is a tailor in Chicago, IL at 1649 North Wells Street, Chicago, IL 60614.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wells-cleaners-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wells-cleaners-chicago.json",
+   "address": {
+    "streetAddress": "1649 North Wells Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60614",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60614",
+   "geo": {
+    "lat": 41.9125606,
+    "lon": -87.6345806
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2393465771",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 15,
+   "sponsored": false,
+   "slug": "nicholas-joseph-chicago",
+   "name": "Nicholas Joseph",
+   "summary": "Nicholas Joseph is a tailor in Chicago, IL at 300 West Grand Avenue, Chicago, IL.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/nicholas-joseph-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/nicholas-joseph-chicago.json",
+   "address": {
+    "streetAddress": "300 West Grand Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8917006,
+    "lon": -87.6363047
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3575231493",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 16,
+   "sponsored": false,
+   "slug": "grace-fashion-inc-chicago",
+   "name": "Grace Fashion Inc.",
+   "summary": "Grace Fashion Inc. is a tailor in Chicago, IL.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/grace-fashion-inc-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/grace-fashion-inc-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.935236,
+    "lon": -87.6466837
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13009792706",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 17,
+   "sponsored": false,
+   "slug": "royale-cleaners-chicago",
+   "name": "Royale Cleaners",
+   "summary": "Royale Cleaners is a tailor in Chicago, IL.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/royale-cleaners-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/royale-cleaners-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.912742,
+    "lon": -87.634581
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10857072628",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 18,
+   "sponsored": false,
+   "slug": "usa-bridal-chicago",
+   "name": "USA Bridal",
+   "summary": "USA Bridal is a tailor in Chicago, IL.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/usa-bridal-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/usa-bridal-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9538019,
+    "lon": -87.7482388
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4089091894",
+   "last_checked": "2026-10-17"
+  }
+ ],
+ "market": {
+  "keyword": "tailor chicago il",
+  "slug": "tailor-chicago-il",
+  "base_keyword": "tailor",
+  "scope": "city",
+  "city": "chicago",
+  "state": "il",
+  "category": "Professional & financial services",
+  "industry": "Finance & Insurance",
+  "us_monthly_searches": {
+   "value": 220000,
+   "range": [
+    150000,
+    370000
+   ],
+   "method": "estimate",
+   "estimate_method": "median of 58 cited US volumes for 'high'-demand keywords in the local_services research; rounded to 2 significant figures; range = 25th-75th percentile",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "confidence": "low"
+  },
+  "local_monthly_searches": {
+   "value": 6100,
+   "method": "estimate",
+   "method_id": "local_metro",
+   "geography": "Chicago-Naperville-Elgin, IL-IN metro",
+   "population": 9434123,
+   "source": "registry_estimate",
+   "volume_source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: US monthly volume x metro population share (Census V2025 metro pop / US pop 341,784,857); rounded to 2 significant figures. Counts all searches for the service in the metro, not only searches that type this city name."
+  },
+  "cpc_usd": {
+   "industry_benchmark": "Finance & Insurance",
+   "low_usd": 3.39,
+   "median_usd": 3.39,
+   "high_usd": 3.46,
+   "method": "published benchmarks: low/high = range of the industry and sub-industry median CPCs listed in 'figures'; median = most specific benchmark",
+   "figures": [
+    {
+     "usd": 3.39,
+     "label": "Finance & Insurance median CPC 2026",
+     "source": "wordstream_2026"
+    },
+    {
+     "usd": 3.46,
+     "label": "Finance & Insurance median CPC 2025",
+     "source": "wordstream_2025"
+    }
+   ],
+   "source": "wordstream_2026",
+   "as_of": "2026",
+   "basis_for_value": {
+    "usd": 3.39,
+    "method": "benchmark median CPC",
+    "source": "wordstream_2026"
+   }
+  },
+  "ctr_pct": {
+   "value": 8.33,
+   "label": "Finance & Insurance average search-ad CTR 2025",
+   "source": "wordstream_2025",
+   "as_of": "2025-03"
+  },
+  "competition": {
+   "level": "low",
+   "method": "proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research)",
+   "source": "wordstream_2026",
+   "as_of": "2026"
+  },
+  "trend": null,
+  "seasonality": {
+   "value": null,
+   "note": "No seasonality data in the research sources for this keyword."
+  },
+  "ai_query": {
+   "text": "No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.",
+   "figures": [
+    {
+     "value": "45%",
+     "label": "US adults using AI for local recommendations",
+     "source": "brightlocal_lcrs_2026"
+    },
+    {
+     "value": "75%",
+     "label": "sessions with keyword-style prompts",
+     "source": "sagapixel_sel"
+    },
+    {
+     "value": "59%",
+     "label": "local-intent prompts that triggered web search",
+     "source": "nectiv"
+    }
+   ],
+   "as_of": "2026"
+  },
+  "registry_competitors": {
+   "value": 18,
+   "slugs": [
+    "fox-brothers-tailors-chicago",
+    "frank-s-alterations-chicago",
+    "garcias-tailor-shop-and-alterations-chicago",
+    "grace-fashion-inc-chicago",
+    "hanshaw-custom-tailoring-and-alterations-chicago",
+    "ike-s-tailor-shop-chicago",
+    "ms-couture-chicago",
+    "nicholas-joseph-chicago",
+    "norwood-cleaners-chicago",
+    "richard-bennett-custom-tailors-chicago"
+   ],
+   "method_id": "competitors",
+   "source": "registry",
+   "as_of": "2026-10-18",
+   "urls": [
+    "https://dingalinged-cpu.github.io/registry/c/fox-brothers-tailors-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/frank-s-alterations-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/garcias-tailor-shop-and-alterations-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/grace-fashion-inc-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/hanshaw-custom-tailoring-and-alterations-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/ike-s-tailor-shop-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/ms-couture-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/nicholas-joseph-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/norwood-cleaners-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/richard-bennett-custom-tailors-chicago/"
+   ],
+   "method": "count of registry listings tagged with the keyword (city/national) or with the base service in the same state (state keywords)"
+  },
+  "agent_demand": null,
+  "agent_demand_note": "Not yet measured. Will carry AI-agent query counts from the registry's agent analytics (contract: meta.agent_demand_contract in the market index).",
+  "equivalent_google_ads_cost_month": {
+   "value_usd": 1700,
+   "method": "estimate",
+   "method_id": "google_ads_equiv",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote."
+  },
+  "search_value_index": {
+   "value_usd": 21000,
+   "method": "estimate",
+   "method_id": "value_index",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: search value index = monthly searches x CPC basis; an advertiser-value ranking signal, not revenue; rounded to 2 significant figures."
+  },
+  "auction": {
+   "featured_spot_min_usd": 50,
+   "spots_2_to_4_min_usd": 5,
+   "tier": "high",
+   "pricing_rule": "tier minimum (premium $500, high $250, mid $100, standard $50) for national keywords; city = max($10, 20% of tier); state = max($10, 35% of tier); spots 2-4 open at 10% of the featured minimum",
+   "model": "Monthly auction in the last 7 days of each month: days 1-5 bid for the Featured #1 spot, days 6-7 for spots 2-4; winners display all next month; all paid spots labeled Sponsored.",
+   "next_auctions": [
+    {
+     "display_month": "2026-11",
+     "featured_spot_bidding": [
+      "2026-10-25",
+      "2026-10-29"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-10-30",
+      "2026-10-31"
+     ]
+    },
+    {
+     "display_month": "2026-12",
+     "featured_spot_bidding": [
+      "2026-11-24",
+      "2026-11-28"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-11-29",
+      "2026-11-30"
+     ]
+    }
+   ],
+   "source": "registry_auction",
+   "as_of": "2026-10-18"
+  },
+  "sources": {
+   "brightlocal_lcrs_2026": {
+    "name": "BrightLocal Local Consumer Review Survey 2026 (n=1,002 US adults)",
+    "url": "https://www.brightlocal.com/research/lcrs-ai-trust/",
+    "as_of": "2026"
+   },
+   "nectiv": {
+    "name": "Nectiv study of 8,500+ ChatGPT prompts",
+    "url": "https://nectivdigital.com/blog/new-data-study-what-queries-is-chatgpt-using-behind-the-scenes",
+    "as_of": "2025"
+   },
+   "registry": {
+    "name": "This registry's own listings (OpenStreetMap-seeded, ODbL)",
+    "url": "https://dingalinged-cpu.github.io/registry/api/companies.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_auction": {
+    "name": "Registry keyword auction catalog and rules",
+    "url": "https://dingalinged-cpu.github.io/registry/api/keyword-prices.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_estimate": {
+    "name": "Registry estimate (CC-BY-4.0); method given on each value",
+    "url": "https://dingalinged-cpu.github.io/registry/market/",
+    "as_of": "2026-10-18"
+   },
+   "sagapixel_sel": {
+    "name": "Sagapixel ChatGPT local-services sessions, via Search Engine Land",
+    "url": "https://searchengineland.com/chatgpt-users-keywords-for-local-services-data-467715",
+    "as_of": "2026-01"
+   },
+   "wordstream_2025": {
+    "name": "WordStream Google Ads Benchmarks 2025 (16,446 US campaigns, Apr 2024-Mar 2025; median CPC and CTR by industry)",
+    "url": "https://www.wordstream.com/blog/2025-google-ads-benchmarks",
+    "as_of": "2025-03"
+   },
+   "wordstream_2026": {
+    "name": "LocaliQ/WordStream Search Advertising Benchmarks 2026 (US median CPC by industry)",
+    "url": "https://www.localiq.com/blog/search-advertising-benchmarks",
+    "as_of": "2026"
+   }
+  },
+  "license": {
+   "registry_estimates": "CC-BY-4.0",
+   "url": "https://creativecommons.org/licenses/by/4.0/",
+   "cited_figures": "attribute to the publishers in sources"
+  },
+  "as_of": "2026-10-18",
+  "api": "https://dingalinged-cpu.github.io/registry/api/market/tailor.json",
+  "rate_card": "https://dingalinged-cpu.github.io/registry/view/market.html#tailor-chicago-il"
+ }
+}

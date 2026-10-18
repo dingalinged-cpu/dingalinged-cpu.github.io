@@ -40,6 +40,20 @@
    "tags": [
     "advertising"
    ]
+  },
+  {
+   "id": "keyword_market",
+   "name": "Keyword market data",
+   "description": "Search volume, local search estimate, CPC benchmark, competition, registry competitors and sponsored-spot starting bid for a keyword. Sourced; estimates labeled.",
+   "tags": [
+    "advertising",
+    "keyword research",
+    "search volume",
+    "cpc"
+   ],
+   "examples": [
+    "plumber minneapolis mn"
+   ]
   }
  ],
  "additionalInterfaces": [

@@ -1,0 +1,53 @@
+{
+ "slug": "oak-forest-complete-dental-oak-forest",
+ "name": "Oak Forest Complete Dental",
+ "categories": [
+  "dentist"
+ ],
+ "keywords": [
+  "dentist",
+  "dentist oak forest il"
+ ],
+ "services": [
+  {
+   "name": "dentist",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "West 159th Street",
+  "addressLocality": "Oak Forest",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Oak Forest",
+ "state": "IL",
+ "geo": {
+  "lat": 41.6032444,
+  "lon": -87.7645544
+ },
+ "phone": "+17086876100",
+ "schema_type": "Dentist",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/13676566501",
+ "osm": {
+  "type": "node",
+  "id": 13676566501,
+  "tags_used": {
+   "amenity": "dentist"
+  }
+ },
+ "municipality": "Oak Forest",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/oak-forest-complete-dental-oak-forest/",
+ "summary": "Oak Forest Complete Dental is a dentist in Oak Forest, IL at West 159th Street, Oak Forest, IL. Phone: +17086876100.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

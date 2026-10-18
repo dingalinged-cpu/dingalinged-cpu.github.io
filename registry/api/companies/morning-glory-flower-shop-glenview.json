@@ -1,0 +1,58 @@
+{
+ "slug": "morning-glory-flower-shop-glenview",
+ "name": "Morning Glory Flower Shop",
+ "categories": [
+  "florist"
+ ],
+ "keywords": [
+  "florist",
+  "florist glenview il"
+ ],
+ "services": [
+  {
+   "name": "florist",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1822 Glenview Road",
+  "addressLocality": "Glenview",
+  "addressRegion": "IL",
+  "postalCode": "60025",
+  "addressCountry": "US"
+ },
+ "city": "Glenview",
+ "state": "IL",
+ "zip": "60025",
+ "geo": {
+  "lat": 42.0729922,
+  "lon": -87.8032455
+ },
+ "phone": "+18477292070",
+ "website": "https://www.morninggloryltd.com/",
+ "email": "Information@MorningGloryLtd.com",
+ "opening_hours": "Su off; Mo off; We 09:00-17:00; Th 09:00-17:00; Fr 09:00-17:00; Sa 10:00-14:00; PH off",
+ "schema_type": "Florist",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/11020129262",
+ "osm": {
+  "type": "node",
+  "id": 11020129262,
+  "tags_used": {
+   "shop": "florist"
+  }
+ },
+ "municipality": "Glenview",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/morning-glory-flower-shop-glenview/",
+ "summary": "Morning Glory Flower Shop is a florist in Glenview, IL at 1822 Glenview Road, Glenview, IL 60025. Phone: +18477292070. Website: https://www.morninggloryltd.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

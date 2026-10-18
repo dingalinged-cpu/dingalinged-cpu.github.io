@@ -1,0 +1,34 @@
+{
+ "title": "Keyword market data: Woodbury, MN",
+ "description": "Top Woodbury, MN service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
+ "updated": "2026-10-18",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are in the JSON and dataset. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "place": "Woodbury, MN",
+ "geography": "Minneapolis-St. Paul-Bloomington, MN-WI metro",
+ "keywords": 1,
+ "lists": {
+  "by_volume": [],
+  "by_cpc": [
+   {
+    "keyword": "orthopedic surgeon woodbury mn",
+    "slug": "orthopedic-surgeon-woodbury-mn",
+    "url": "https://dingalinged-cpu.github.io/registry/k/orthopedic-surgeon-woodbury-mn/",
+    "us_monthly_searches": 33000,
+    "us_volume_method": "estimate",
+    "local_monthly_searches_est": 370,
+    "cpc_basis_usd": 4.76,
+    "cpc_median_usd": 4.76,
+    "search_value_index_usd": 1800,
+    "equivalent_google_ads_cost_month_usd": 120,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   }
+  ],
+  "by_value": []
+ },
+ "license": {
+  "registry_estimates": "CC-BY-4.0",
+  "url": "https://creativecommons.org/licenses/by/4.0/"
+ }
+}

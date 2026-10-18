@@ -12,9 +12,9 @@
   "affordable business consultant the United States",
   "emergency business consultant the United States"
  ],
- "answer": "The top unpaid business consultant listing for the United States is Lab651 (a business consultant in Saint Paul, MN at 550 Vandalia Street ##224, Saint Paul, MN 55114. Phone: +16513004868. Website: https://lab651.com/). 24 business consultant businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "answer": "The top unpaid business consultant listing for the United States is Allegro Grey Consulting (a business consultant in Evanston, IL at 909 Davis Street Bikeway ##500, Evanston, IL 60201. Phone: +13122034308. Website: https://allegrogrey.com/). 49 business consultant businesses are listed for the United States as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
  "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
- "updated": "2026-10-17",
+ "updated": "2026-10-18",
  "sponsored_slots": {
   "featured_1": "available",
   "spots_2_4_sold": 0
@@ -27,6 +27,181 @@
  "results": [
   {
    "position": 1,
+   "sponsored": false,
+   "slug": "allegro-grey-consulting-evanston",
+   "name": "Allegro Grey Consulting",
+   "summary": "Allegro Grey Consulting is a business consultant in Evanston, IL at 909 Davis Street Bikeway ##500, Evanston, IL 60201. Phone: +13122034308. Website: https://allegrogrey.com/.",
+   "categories": [
+    "business consultant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/allegro-grey-consulting-evanston/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/allegro-grey-consulting-evanston.json",
+   "address": {
+    "streetAddress": "909 Davis Street Bikeway ##500",
+    "addressLocality": "Evanston",
+    "addressRegion": "IL",
+    "postalCode": "60201",
+    "addressCountry": "US"
+   },
+   "city": "Evanston",
+   "state": "IL",
+   "zip": "60201",
+   "geo": {
+    "lat": 42.04782,
+    "lon": -87.6842564
+   },
+   "phone": "+13122034308",
+   "website": "https://allegrogrey.com/",
+   "opening_hours": "Mo-Fr 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13439175328",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "allen-landscape-llc-office-highland",
+   "name": "Allen Landscape llc office",
+   "summary": "Allen Landscape llc office is a business consultant in Highland, IN at 2539 45th Street, Highland, IN 46322. Phone: +12199223333. Website: https://www.allenlandscape.com/.",
+   "categories": [
+    "business consultant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/allen-landscape-llc-office-highland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/allen-landscape-llc-office-highland.json",
+   "address": {
+    "streetAddress": "2539 45th Street",
+    "addressLocality": "Highland",
+    "addressRegion": "IN",
+    "postalCode": "46322",
+    "addressCountry": "US"
+   },
+   "city": "Highland",
+   "state": "IN",
+   "zip": "46322",
+   "geo": {
+    "lat": 41.5378879,
+    "lon": -87.4670134
+   },
+   "phone": "+12199223333",
+   "website": "https://www.allenlandscape.com/",
+   "opening_hours": "Mo-Sa 08:00-18:00; Su 09:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1425627863",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "burnham-nationwide-chicago",
+   "name": "Burnham Nationwide",
+   "summary": "Burnham Nationwide is a business consultant in Chicago, IL at 111 West Washington Street #1700, Chicago, IL 60602. Phone: +13124077990. Website: https://www.burnhamnationwide.com/.",
+   "categories": [
+    "business consultant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/burnham-nationwide-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/burnham-nationwide-chicago.json",
+   "address": {
+    "streetAddress": "111 West Washington Street #1700",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60602",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60602",
+   "geo": {
+    "lat": 41.8829078,
+    "lon": -87.631302
+   },
+   "phone": "+13124077990",
+   "website": "https://www.burnhamnationwide.com/",
+   "opening_hours": "Mo-Fr 8:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11336634066",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "cambridge-companies-design-build-griffith",
+   "name": "Cambridge Companies Design-Build",
+   "summary": "Cambridge Companies Design-Build is a business consultant in Griffith, IN at 500 E Ridge Road, Suite 202, Griffith, IN 46319. Phone: +12199721155. Website: https://cambridgecompaniesinc.com/.",
+   "categories": [
+    "business consultant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cambridge-companies-design-build-griffith/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cambridge-companies-design-build-griffith.json",
+   "address": {
+    "streetAddress": "500 E Ridge Road, Suite 202",
+    "addressLocality": "Griffith",
+    "addressRegion": "IN",
+    "postalCode": "46319",
+    "addressCountry": "US"
+   },
+   "city": "Griffith",
+   "state": "IN",
+   "zip": "46319",
+   "geo": {
+    "lat": 41.5506761,
+    "lon": -87.4213977
+   },
+   "phone": "+12199721155",
+   "website": "https://cambridgecompaniesinc.com/",
+   "opening_hours": "Mo-Fr 07:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10096922665",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "fretzin-inc-chicago",
+   "name": "Fretzin, Inc.",
+   "summary": "Fretzin, Inc. is a business consultant in Chicago, IL at 161 North Clark Street #17, Chicago, IL 60601. Phone: +18476026911. Website: https://www.fretzin.com/.",
+   "categories": [
+    "business consultant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fretzin-inc-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fretzin-inc-chicago.json",
+   "address": {
+    "streetAddress": "161 North Clark Street #17",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60601",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60601",
+   "geo": {
+    "lat": 41.8848082,
+    "lon": -87.6306519
+   },
+   "phone": "+18476026911",
+   "website": "https://www.fretzin.com/",
+   "opening_hours": "Mo-Fr 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10047650399",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
    "sponsored": false,
    "slug": "lab651-saint-paul",
    "name": "Lab651",
@@ -61,7 +236,42 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 2,
+   "position": 7,
+   "sponsored": false,
+   "slug": "nuventra-consulting-olympia-fields",
+   "name": "Nuventra Consulting",
+   "summary": "Nuventra Consulting is a business consultant in Olympia Fields, IL at 20200 Governors Drive #101-HQ302, Olympia Fields, IL 60461. Phone: +18152705533. Website: https://www.nuventraconsulting.com/.",
+   "categories": [
+    "business consultant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/nuventra-consulting-olympia-fields/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/nuventra-consulting-olympia-fields.json",
+   "address": {
+    "streetAddress": "20200 Governors Drive #101-HQ302",
+    "addressLocality": "Olympia Fields",
+    "addressRegion": "IL",
+    "postalCode": "60461",
+    "addressCountry": "US"
+   },
+   "city": "Olympia Fields",
+   "state": "IL",
+   "zip": "60461",
+   "geo": {
+    "lat": 41.52405,
+    "lon": -87.7032676
+   },
+   "phone": "+18152705533",
+   "website": "https://www.nuventraconsulting.com/",
+   "opening_hours": "Mo,Tu,Fr 19:00-22:30; Sa 10:00-18:00; Su 12:00-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13598483185",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
    "sponsored": false,
    "slug": "premiere-exteriors-llc-burnsville",
    "name": "Premiere Exteriors, LLC",
@@ -96,7 +306,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 3,
+   "position": 9,
    "sponsored": false,
    "slug": "solution-design-group-golden-valley",
    "name": "Solution Design Group",
@@ -131,7 +341,42 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 4,
+   "position": 10,
+   "sponsored": false,
+   "slug": "surgical-directions-chicago",
+   "name": "Surgical Directions",
+   "summary": "Surgical Directions is a business consultant in Chicago, IL at 180 North Stetson Avenue #Suite 1610, Chicago, IL 60601. Phone: +13128705600. Website: https://www.surgicaldirections.com/.",
+   "categories": [
+    "business consultant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/surgical-directions-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/surgical-directions-chicago.json",
+   "address": {
+    "streetAddress": "180 North Stetson Avenue #Suite 1610",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60601",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60601",
+   "geo": {
+    "lat": 41.8854384,
+    "lon": -87.6227115
+   },
+   "phone": "+13128705600",
+   "website": "https://www.surgicaldirections.com/",
+   "opening_hours": "Mo-Fr 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13751483031",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 11,
    "sponsored": false,
    "slug": "the-improve-group-saint-paul",
    "name": "The Improve Group",
@@ -166,7 +411,144 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 5,
+   "position": 12,
+   "sponsored": false,
+   "slug": "trinite-consulting-schaumburg",
+   "name": "Trinite Consulting",
+   "summary": "Trinite Consulting is a business consultant in Schaumburg, IL at 1821 Walden Office Square, Schaumburg, IL 60173. Phone: +12243859760. Website: https://www.triniteconsulting.com/.",
+   "categories": [
+    "business consultant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/trinite-consulting-schaumburg/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/trinite-consulting-schaumburg.json",
+   "address": {
+    "streetAddress": "1821 Walden Office Square",
+    "addressLocality": "Schaumburg",
+    "addressRegion": "IL",
+    "postalCode": "60173",
+    "addressCountry": "US"
+   },
+   "city": "Schaumburg",
+   "state": "IL",
+   "zip": "60173",
+   "geo": {
+    "lat": 42.062159,
+    "lon": -88.0348561
+   },
+   "phone": "+12243859760",
+   "website": "https://www.triniteconsulting.com/",
+   "opening_hours": "Mo-Fr 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13165299494",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
+   "sponsored": false,
+   "slug": "bnm-professional-consulting-services-inc-matteson",
+   "name": "BNM Professional Consulting Services Inc.",
+   "summary": "BNM Professional Consulting Services Inc. is a business consultant in Matteson, IL at 4747 Lincoln Mall Drive #302, Matteson, IL 60443. Phone: +17086790680. Website: https://www.bnmproconsult.com/.",
+   "categories": [
+    "business consultant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bnm-professional-consulting-services-inc-matteson/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bnm-professional-consulting-services-inc-matteson.json",
+   "address": {
+    "streetAddress": "4747 Lincoln Mall Drive #302",
+    "addressLocality": "Matteson",
+    "addressRegion": "IL",
+    "postalCode": "60443",
+    "addressCountry": "US"
+   },
+   "city": "Matteson",
+   "state": "IL",
+   "zip": "60443",
+   "geo": {
+    "lat": 41.5052444,
+    "lon": -87.7317155
+   },
+   "phone": "+17086790680",
+   "website": "https://www.bnmproconsult.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4616100938",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 14,
+   "sponsored": false,
+   "slug": "boston-consulting-group-chicago",
+   "name": "Boston Consulting Group",
+   "summary": "Boston Consulting Group is a business consultant in Chicago, IL at 300 North LaSalle Boulevard, Chicago, IL 60654. Phone: +13129933300. Website: https://www.bcg.com/offices/chicago/default.aspx.",
+   "categories": [
+    "business consultant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/boston-consulting-group-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/boston-consulting-group-chicago.json",
+   "address": {
+    "streetAddress": "300 North LaSalle Boulevard",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60654",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60654",
+   "geo": {
+    "lat": 41.8882961,
+    "lon": -87.6330881
+   },
+   "phone": "+13129933300",
+   "website": "https://www.bcg.com/offices/chicago/default.aspx",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6176988954",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 15,
+   "sponsored": false,
+   "slug": "boston-consulting-group-chicago-n6176988955",
+   "name": "Boston Consulting Group",
+   "summary": "Boston Consulting Group is a business consultant in Chicago, IL at 225 West Wacker Drive #2300, Chicago, IL 60606. Phone: +13128714500. Website: https://www.bcg.com/offices/chicago-knowledge-analytics.aspx.",
+   "categories": [
+    "business consultant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/boston-consulting-group-chicago-n6176988955/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/boston-consulting-group-chicago-n6176988955.json",
+   "address": {
+    "streetAddress": "225 West Wacker Drive #2300",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60606",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60606",
+   "geo": {
+    "lat": 41.8865777,
+    "lon": -87.6350749
+   },
+   "phone": "+13128714500",
+   "website": "https://www.bcg.com/offices/chicago-knowledge-analytics.aspx",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6176988955",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 16,
    "sponsored": false,
    "slug": "civil-site-group-pc-golden-valley",
    "name": "Civil Site Group, PC",
@@ -200,7 +582,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 6,
+   "position": 17,
    "sponsored": false,
    "slug": "core-income-advisors-golden-valley",
    "name": "Core Income Advisors",
@@ -234,7 +616,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 7,
+   "position": 18,
    "sponsored": false,
    "slug": "digital-pictures-saint-paul",
    "name": "Digital Pictures",
@@ -268,7 +650,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 8,
+   "position": 19,
    "sponsored": false,
    "slug": "environmental-plant-services-inc-saint-paul",
    "name": "Environmental Plant Services, Inc.",
@@ -302,7 +684,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 9,
+   "position": 20,
    "sponsored": false,
    "slug": "lelch-audio-video-saint-louis-park",
    "name": "Lelch Audio Video",
@@ -336,7 +718,41 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 10,
+   "position": 21,
+   "sponsored": false,
+   "slug": "mckinsey-and-company-chicago-n6661076145",
+   "name": "McKinsey & Company",
+   "summary": "McKinsey & Company is a business consultant in Chicago, IL at 300 East Randolph Street #3100, Chicago, IL 60601. Phone: +13125513500. Website: https://www.mckinsey.com/midwest/chicago.",
+   "categories": [
+    "business consultant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mckinsey-and-company-chicago-n6661076145/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mckinsey-and-company-chicago-n6661076145.json",
+   "address": {
+    "streetAddress": "300 East Randolph Street #3100",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60601",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60601",
+   "geo": {
+    "lat": 41.8848683,
+    "lon": -87.6199046
+   },
+   "phone": "+13125513500",
+   "website": "https://www.mckinsey.com/midwest/chicago",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6661076145",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 22,
    "sponsored": false,
    "slug": "mra-the-management-association-golden-valley",
    "name": "MRA - The Management Association",
@@ -370,7 +786,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 11,
+   "position": 23,
    "sponsored": false,
    "slug": "on-demand-group-minneapolis",
    "name": "On-Demand Group",
@@ -404,7 +820,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 12,
+   "position": 24,
    "sponsored": false,
    "slug": "propharma-group-saint-paul",
    "name": "ProPharma Group",
@@ -438,7 +854,41 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 13,
+   "position": 25,
+   "sponsored": false,
+   "slug": "reveal-naperville",
+   "name": "Reveal",
+   "summary": "Reveal is a business consultant in Naperville, IL at 230 West Diehl Road, Naperville, IL 60563. Phone: +16305711730. Website: https://www.revealvalue.com/.",
+   "categories": [
+    "business consultant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/reveal-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/reveal-naperville.json",
+   "address": {
+    "streetAddress": "230 West Diehl Road",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60563",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60563",
+   "geo": {
+    "lat": 41.8008837,
+    "lon": -88.1500839
+   },
+   "phone": "+16305711730",
+   "website": "https://www.revealvalue.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/71228821",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 26,
    "sponsored": false,
    "slug": "synergetic-endeavors-saint-paul",
    "name": "Synergetic Endeavors",
@@ -472,7 +922,41 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 14,
+   "position": 27,
+   "sponsored": false,
+   "slug": "utility-consulting-service-inc-tinley-park",
+   "name": "Utility Consulting Service, Inc",
+   "summary": "Utility Consulting Service, Inc is a business consultant in Tinley Park, IL at 17045 Grissom Drive, Tinley Park, IL 60477. Phone: +17085327040. Website: https://utilityconsultingservice.com/.",
+   "categories": [
+    "business consultant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/utility-consulting-service-inc-tinley-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/utility-consulting-service-inc-tinley-park.json",
+   "address": {
+    "streetAddress": "17045 Grissom Drive",
+    "addressLocality": "Tinley Park",
+    "addressRegion": "IL",
+    "postalCode": "60477",
+    "addressCountry": "US"
+   },
+   "city": "Tinley Park",
+   "state": "IL",
+   "zip": "60477",
+   "geo": {
+    "lat": 41.5810012,
+    "lon": -87.8149719
+   },
+   "phone": "+17085327040",
+   "website": "https://utilityconsultingservice.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4643968820",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 28,
    "sponsored": false,
    "slug": "burnet-title-minneapolis",
    "name": "Burnet Title",
@@ -504,7 +988,38 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 15,
+   "position": 29,
+   "sponsored": false,
+   "slug": "mazur-construction-willow-springs",
+   "name": "Mazur Construction",
+   "summary": "Mazur Construction is a business consultant in Willow Springs, IL. Phone: +17088395959. Website: https://mazurandson.com/.",
+   "categories": [
+    "business consultant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mazur-construction-willow-springs/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mazur-construction-willow-springs.json",
+   "address": {
+    "addressLocality": "Willow Springs",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Willow Springs",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7368796,
+    "lon": -87.8694667
+   },
+   "phone": "+17088395959",
+   "website": "https://mazurandson.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 12.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13451378120",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 30,
    "sponsored": false,
    "slug": "mckinsey-and-company-minneapolis",
    "name": "McKinsey & Company",
@@ -535,7 +1050,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 16,
+   "position": 31,
    "sponsored": false,
    "slug": "alt-kie-computer-consultants-inc-saint-paul",
    "name": "Alt-Kie Computer Consultants, Inc.",
@@ -568,7 +1083,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 17,
+   "position": 32,
    "sponsored": false,
    "slug": "alta-planning-design-minneapolis",
    "name": "Alta Planning + Design",
@@ -601,7 +1116,40 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 18,
+   "position": 33,
+   "sponsored": false,
+   "slug": "architech-consulting-inc-chicago",
+   "name": "ArchiTech Consulting, Inc",
+   "summary": "ArchiTech Consulting, Inc is a business consultant in Chicago, IL at 1822 West Wilson Avenue, Chicago, IL 60640. Website: https://www.architechllc.com/.",
+   "categories": [
+    "business consultant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/architech-consulting-inc-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/architech-consulting-inc-chicago.json",
+   "address": {
+    "streetAddress": "1822 West Wilson Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60640",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60640",
+   "geo": {
+    "lat": 41.9652703,
+    "lon": -87.6756282
+   },
+   "website": "https://www.architechllc.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12244765485",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 34,
    "sponsored": false,
    "slug": "ascent-solutions-minneapolis",
    "name": "Ascent Solutions",
@@ -634,7 +1182,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 19,
+   "position": 35,
    "sponsored": false,
    "slug": "clientek-minneapolis",
    "name": "Clientek",
@@ -667,7 +1215,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 20,
+   "position": 36,
    "sponsored": false,
    "slug": "m-j-shahidi-business-saint-louis-park",
    "name": "M J Shahidi Business",
@@ -700,7 +1248,40 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 21,
+   "position": 37,
+   "sponsored": false,
+   "slug": "mckinsey-and-company-chicago",
+   "name": "McKinsey & Company",
+   "summary": "McKinsey & Company is a business consultant in Chicago, IL at 1229 West Washington Boulevard, Chicago, IL 60607. Phone: +13129292750.",
+   "categories": [
+    "business consultant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mckinsey-and-company-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mckinsey-and-company-chicago.json",
+   "address": {
+    "streetAddress": "1229 West Washington Boulevard",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60607",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60607",
+   "geo": {
+    "lat": 41.8827596,
+    "lon": -87.6578151
+   },
+   "phone": "+13129292750",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6661075020",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 38,
    "sponsored": false,
    "slug": "mikeworth-consulting-minneapolis",
    "name": "Mikeworth Consulting",
@@ -733,7 +1314,72 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 22,
+   "position": 39,
+   "sponsored": false,
+   "slug": "thoughtworks-chicago",
+   "name": "Thoughtworks",
+   "summary": "Thoughtworks is a business consultant in Chicago, IL at 200 East Randolph Street #25th Floor, Chicago, IL 60601. Website: https://www.thoughtworks.com/.",
+   "categories": [
+    "business consultant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/thoughtworks-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/thoughtworks-chicago.json",
+   "address": {
+    "streetAddress": "200 East Randolph Street #25th Floor",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60601",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60601",
+   "geo": {
+    "lat": 41.8852393,
+    "lon": -87.621539
+   },
+   "website": "https://www.thoughtworks.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13388906811",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 40,
+   "sponsored": false,
+   "slug": "accurate-personnel-llc-schaumburg",
+   "name": "Accurate Personnel LLC",
+   "summary": "Accurate Personnel LLC is a business consultant in Schaumburg, IL at 33 South Roselle Road, Schaumburg, IL 60193.",
+   "categories": [
+    "business consultant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/accurate-personnel-llc-schaumburg/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/accurate-personnel-llc-schaumburg.json",
+   "address": {
+    "streetAddress": "33 South Roselle Road",
+    "addressLocality": "Schaumburg",
+    "addressRegion": "IL",
+    "postalCode": "60193",
+    "addressCountry": "US"
+   },
+   "city": "Schaumburg",
+   "state": "IL",
+   "zip": "60193",
+   "geo": {
+    "lat": 42.0257308,
+    "lon": -88.0795049
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/245021611",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 41,
    "sponsored": false,
    "slug": "atlas-technical-consultants-fridley",
    "name": "Atlas Technical Consultants",
@@ -765,7 +1411,167 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 23,
+   "position": 42,
+   "sponsored": false,
+   "slug": "huron-chicago",
+   "name": "Huron",
+   "summary": "Huron is a business consultant in Chicago, IL at 550 West Van Buren Street #1700, Chicago, IL 60661.",
+   "categories": [
+    "business consultant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/huron-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/huron-chicago.json",
+   "address": {
+    "streetAddress": "550 West Van Buren Street #1700",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60661",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60661",
+   "geo": {
+    "lat": 41.8769538,
+    "lon": -87.6412649
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6465112922",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 43,
+   "sponsored": false,
+   "slug": "kpmg-chicago",
+   "name": "KPMG",
+   "summary": "KPMG is a business consultant in Chicago, IL at 200 East Randolph Street, Chicago, IL 60601.",
+   "categories": [
+    "business consultant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kpmg-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kpmg-chicago.json",
+   "address": {
+    "streetAddress": "200 East Randolph Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60601",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60601",
+   "geo": {
+    "lat": 41.8852763,
+    "lon": -87.6214495
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9649766624",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 44,
+   "sponsored": false,
+   "slug": "lm-consulting-agency-homewood",
+   "name": "LM Consulting Agency",
+   "summary": "LM Consulting Agency is a business consultant in Homewood, IL at 17475 Jovanna Street, Homewood, IL 60430.",
+   "categories": [
+    "business consultant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lm-consulting-agency-homewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lm-consulting-agency-homewood.json",
+   "address": {
+    "streetAddress": "17475 Jovanna Street",
+    "addressLocality": "Homewood",
+    "addressRegion": "IL",
+    "postalCode": "60430",
+    "addressCountry": "US"
+   },
+   "city": "Homewood",
+   "state": "IL",
+   "zip": "60430",
+   "geo": {
+    "lat": 41.5726884,
+    "lon": -87.6754847
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10289532746",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 45,
+   "sponsored": false,
+   "slug": "mckinsey-and-company-rosemont",
+   "name": "McKinsey & Company",
+   "summary": "McKinsey & Company is a business consultant in Rosemont, IL at 5600 North River Road #450, Rosemont, IL 60018.",
+   "categories": [
+    "business consultant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mckinsey-and-company-rosemont/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mckinsey-and-company-rosemont.json",
+   "address": {
+    "streetAddress": "5600 North River Road #450",
+    "addressLocality": "Rosemont",
+    "addressRegion": "IL",
+    "postalCode": "60018",
+    "addressCountry": "US"
+   },
+   "city": "Rosemont",
+   "state": "IL",
+   "zip": "60018",
+   "geo": {
+    "lat": 41.9810762,
+    "lon": -87.8630175
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6661085091",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 46,
+   "sponsored": false,
+   "slug": "sound-specialists-chicago",
+   "name": "Sound Specialists",
+   "summary": "Sound Specialists is a business consultant in Chicago, IL at 1661 North Elston Avenue, Chicago, IL 60642.",
+   "categories": [
+    "business consultant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sound-specialists-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sound-specialists-chicago.json",
+   "address": {
+    "streetAddress": "1661 North Elston Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60642",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60642",
+   "geo": {
+    "lat": 41.9123509,
+    "lon": -87.6628922
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/209866182",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 47,
    "sponsored": false,
    "slug": "west-elm-workspace-saint-paul",
    "name": "West Elm Workspace",
@@ -797,7 +1603,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 24,
+   "position": 48,
    "sponsored": false,
    "slug": "african-economic-development-solutions-saint-paul",
    "name": "African Economic Development Solutions",
@@ -824,6 +1630,254 @@
    "source": "OpenStreetMap",
    "source_url": "https://www.openstreetmap.org/node/13269336950",
    "last_checked": "2026-10-17"
+  },
+  {
+   "position": 49,
+   "sponsored": false,
+   "slug": "windy-city-consulting-chicago",
+   "name": "Windy City Consulting",
+   "summary": "Windy City Consulting is a business consultant in Chicago, IL.",
+   "categories": [
+    "business consultant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/windy-city-consulting-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/windy-city-consulting-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8933177,
+    "lon": -87.6865475
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10172518509",
+   "last_checked": "2026-10-17"
   }
- ]
+ ],
+ "market": {
+  "keyword": "business consultant",
+  "slug": "business-consultant",
+  "base_keyword": "business consultant",
+  "scope": "national",
+  "city": null,
+  "state": null,
+  "category": "b2b_services",
+  "industry": "Business Services",
+  "us_monthly_searches": {
+   "value": 18000,
+   "range": [
+    9900,
+    33000
+   ],
+   "method": "estimate",
+   "estimate_method": "median of 92 cited US volumes for 'med'-demand keywords in the b2b_professional research; rounded to 2 significant figures; range = 25th-75th percentile",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "confidence": "low"
+  },
+  "local_monthly_searches": null,
+  "cpc_usd": {
+   "industry_benchmark": "Business Services",
+   "low_usd": 5.58,
+   "median_usd": 5.87,
+   "high_usd": 5.87,
+   "method": "published benchmarks: low/high = range of the industry and sub-industry median CPCs listed in 'figures'; median = most specific benchmark",
+   "figures": [
+    {
+     "usd": 5.87,
+     "label": "Business Services median CPC 2026",
+     "source": "wordstream_2026"
+    },
+    {
+     "usd": 5.58,
+     "label": "Business Services median CPC 2025",
+     "source": "wordstream_2025"
+    }
+   ],
+   "source": "wordstream_2026",
+   "as_of": "2026",
+   "basis_for_value": {
+    "usd": 5.87,
+    "method": "benchmark median CPC",
+    "source": "wordstream_2026"
+   }
+  },
+  "ctr_pct": {
+   "value": 5.65,
+   "label": "Business Services average search-ad CTR 2025",
+   "source": "wordstream_2025",
+   "as_of": "2025-03"
+  },
+  "competition": {
+   "level": "medium",
+   "method": "proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research)",
+   "source": "wordstream_2026",
+   "as_of": "2026"
+  },
+  "trend": null,
+  "seasonality": {
+   "value": null,
+   "note": "No seasonality data in the research sources for this keyword."
+  },
+  "ai_query": {
+   "text": "No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.",
+   "figures": [
+    {
+     "value": "45%",
+     "label": "US adults using AI for local recommendations",
+     "source": "brightlocal_lcrs_2026"
+    },
+    {
+     "value": "75%",
+     "label": "sessions with keyword-style prompts",
+     "source": "sagapixel_sel"
+    },
+    {
+     "value": "59%",
+     "label": "local-intent prompts that triggered web search",
+     "source": "nectiv"
+    }
+   ],
+   "as_of": "2026"
+  },
+  "registry_competitors": {
+   "value": 49,
+   "slugs": [
+    "accurate-personnel-llc-schaumburg",
+    "african-economic-development-solutions-saint-paul",
+    "allegro-grey-consulting-evanston",
+    "allen-landscape-llc-office-highland",
+    "alt-kie-computer-consultants-inc-saint-paul",
+    "alta-planning-design-minneapolis",
+    "architech-consulting-inc-chicago",
+    "ascent-solutions-minneapolis",
+    "atlas-technical-consultants-fridley",
+    "bnm-professional-consulting-services-inc-matteson"
+   ],
+   "method_id": "competitors",
+   "source": "registry",
+   "as_of": "2026-10-18",
+   "urls": [
+    "https://dingalinged-cpu.github.io/registry/c/accurate-personnel-llc-schaumburg/",
+    "https://dingalinged-cpu.github.io/registry/c/african-economic-development-solutions-saint-paul/",
+    "https://dingalinged-cpu.github.io/registry/c/allegro-grey-consulting-evanston/",
+    "https://dingalinged-cpu.github.io/registry/c/allen-landscape-llc-office-highland/",
+    "https://dingalinged-cpu.github.io/registry/c/alt-kie-computer-consultants-inc-saint-paul/",
+    "https://dingalinged-cpu.github.io/registry/c/alta-planning-design-minneapolis/",
+    "https://dingalinged-cpu.github.io/registry/c/architech-consulting-inc-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/ascent-solutions-minneapolis/",
+    "https://dingalinged-cpu.github.io/registry/c/atlas-technical-consultants-fridley/",
+    "https://dingalinged-cpu.github.io/registry/c/bnm-professional-consulting-services-inc-matteson/"
+   ],
+   "method": "count of registry listings tagged with the keyword (city/national) or with the base service in the same state (state keywords)"
+  },
+  "agent_demand": null,
+  "agent_demand_note": "Not yet measured. Will carry AI-agent query counts from the registry's agent analytics (contract: meta.agent_demand_contract in the market index).",
+  "equivalent_google_ads_cost_month": {
+   "value_usd": 6000,
+   "method": "estimate",
+   "method_id": "google_ads_equiv",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote."
+  },
+  "search_value_index": {
+   "value_usd": 110000,
+   "method": "estimate",
+   "method_id": "value_index",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: search value index = monthly searches x CPC basis; an advertiser-value ranking signal, not revenue; rounded to 2 significant figures."
+  },
+  "auction": {
+   "featured_spot_min_usd": 250,
+   "spots_2_to_4_min_usd": 25,
+   "tier": "high",
+   "pricing_rule": "tier minimum (premium $500, high $250, mid $100, standard $50) for national keywords; city = max($10, 20% of tier); state = max($10, 35% of tier); spots 2-4 open at 10% of the featured minimum",
+   "model": "Monthly auction in the last 7 days of each month: days 1-5 bid for the Featured #1 spot, days 6-7 for spots 2-4; winners display all next month; all paid spots labeled Sponsored.",
+   "next_auctions": [
+    {
+     "display_month": "2026-11",
+     "featured_spot_bidding": [
+      "2026-10-25",
+      "2026-10-29"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-10-30",
+      "2026-10-31"
+     ]
+    },
+    {
+     "display_month": "2026-12",
+     "featured_spot_bidding": [
+      "2026-11-24",
+      "2026-11-28"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-11-29",
+      "2026-11-30"
+     ]
+    }
+   ],
+   "source": "registry_auction",
+   "as_of": "2026-10-18"
+  },
+  "sources": {
+   "brightlocal_lcrs_2026": {
+    "name": "BrightLocal Local Consumer Review Survey 2026 (n=1,002 US adults)",
+    "url": "https://www.brightlocal.com/research/lcrs-ai-trust/",
+    "as_of": "2026"
+   },
+   "nectiv": {
+    "name": "Nectiv study of 8,500+ ChatGPT prompts",
+    "url": "https://nectivdigital.com/blog/new-data-study-what-queries-is-chatgpt-using-behind-the-scenes",
+    "as_of": "2025"
+   },
+   "registry": {
+    "name": "This registry's own listings (OpenStreetMap-seeded, ODbL)",
+    "url": "https://dingalinged-cpu.github.io/registry/api/companies.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_auction": {
+    "name": "Registry keyword auction catalog and rules",
+    "url": "https://dingalinged-cpu.github.io/registry/api/keyword-prices.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_estimate": {
+    "name": "Registry estimate (CC-BY-4.0); method given on each value",
+    "url": "https://dingalinged-cpu.github.io/registry/market/",
+    "as_of": "2026-10-18"
+   },
+   "sagapixel_sel": {
+    "name": "Sagapixel ChatGPT local-services sessions, via Search Engine Land",
+    "url": "https://searchengineland.com/chatgpt-users-keywords-for-local-services-data-467715",
+    "as_of": "2026-01"
+   },
+   "wordstream_2025": {
+    "name": "WordStream Google Ads Benchmarks 2025 (16,446 US campaigns, Apr 2024-Mar 2025; median CPC and CTR by industry)",
+    "url": "https://www.wordstream.com/blog/2025-google-ads-benchmarks",
+    "as_of": "2025-03"
+   },
+   "wordstream_2026": {
+    "name": "LocaliQ/WordStream Search Advertising Benchmarks 2026 (US median CPC by industry)",
+    "url": "https://www.localiq.com/blog/search-advertising-benchmarks",
+    "as_of": "2026"
+   }
+  },
+  "license": {
+   "registry_estimates": "CC-BY-4.0",
+   "url": "https://creativecommons.org/licenses/by/4.0/",
+   "cited_figures": "attribute to the publishers in sources"
+  },
+  "as_of": "2026-10-18",
+  "api": "https://dingalinged-cpu.github.io/registry/api/market/business-consultant.json",
+  "rate_card": "https://dingalinged-cpu.github.io/registry/view/market.html#business-consultant"
+ }
 }

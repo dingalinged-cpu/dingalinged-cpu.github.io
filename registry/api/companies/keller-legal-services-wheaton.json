@@ -1,0 +1,64 @@
+{
+ "slug": "keller-legal-services-wheaton",
+ "name": "Keller Legal Services",
+ "categories": [
+  "lawyer"
+ ],
+ "keywords": [
+  "lawyer",
+  "attorney",
+  "lawyer wheaton il",
+  "attorney wheaton il"
+ ],
+ "services": [
+  {
+   "name": "lawyer",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "attorney",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "620 W. Roosevelt Road #A2",
+  "addressLocality": "Wheaton",
+  "addressRegion": "IL",
+  "postalCode": "60187",
+  "addressCountry": "US"
+ },
+ "city": "Wheaton",
+ "state": "IL",
+ "zip": "60187",
+ "geo": {
+  "lat": 41.8583034,
+  "lon": -88.1159637
+ },
+ "phone": "+16308683093",
+ "website": "https://kellerlegalservices.com/",
+ "email": "Esq0120@aol.com",
+ "opening_hours": "Mo-Fr 09:00-17:00",
+ "schema_type": "LegalService",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/7101263583",
+ "osm": {
+  "type": "node",
+  "id": 7101263583,
+  "tags_used": {
+   "office": "lawyer"
+  }
+ },
+ "municipality": "Wheaton",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/keller-legal-services-wheaton/",
+ "summary": "Keller Legal Services is a lawyer in Wheaton, IL at 620 W. Roosevelt Road #A2, Wheaton, IL 60187. Phone: +16308683093. Website: https://kellerlegalservices.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

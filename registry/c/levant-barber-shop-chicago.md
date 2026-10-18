@@ -1,0 +1,23 @@
+Levant Barber Shop is a barber shop in Chicago, IL at 149 West Chicago Avenue, Chicago, IL. Website: https://levantbarbershop.com/.
+
+# Levant Barber Shop
+
+- Category: barber shop
+- Services: barber shop, haircut
+- Address: 149 West Chicago Avenue, Chicago, IL
+- City: Chicago
+- State: IL
+- ZIP: n/a
+- Coordinates: 41.8964355, -87.6331523
+- Phone: n/a
+- Website: https://levantbarbershop.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/levant-barber-shop-chicago/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/levant-barber-shop-chicago.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13571659705 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

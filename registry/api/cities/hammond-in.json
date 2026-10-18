@@ -1,0 +1,737 @@
+{
+ "place": "Hammond, IN",
+ "slug": "hammond-in",
+ "count": 21,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "auto repair hammond in",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-hammond-in.json"
+  },
+  {
+   "keyword": "brake repair hammond in",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/brake-repair-hammond-in.json"
+  },
+  {
+   "keyword": "car wash hammond in",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-hammond-in.json"
+  },
+  {
+   "keyword": "dentist hammond in",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-hammond-in.json"
+  },
+  {
+   "keyword": "furniture store hammond in",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/furniture-store-hammond-in.json"
+  },
+  {
+   "keyword": "gym hammond in",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-hammond-in.json"
+  },
+  {
+   "keyword": "hair salon hammond in",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-hammond-in.json"
+  },
+  {
+   "keyword": "haircut hammond in",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-hammond-in.json"
+  },
+  {
+   "keyword": "insurance agency hammond in",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-hammond-in.json"
+  },
+  {
+   "keyword": "insurance agent hammond in",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-hammond-in.json"
+  },
+  {
+   "keyword": "insurance agents hammond in",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-hammond-in.json"
+  },
+  {
+   "keyword": "mechanic hammond in",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-hammond-in.json"
+  },
+  {
+   "keyword": "oil change hammond in",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/oil-change-hammond-in.json"
+  },
+  {
+   "keyword": "storage units hammond in",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/storage-units-hammond-in.json"
+  },
+  {
+   "keyword": "tattoo shop hammond in",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tattoo-shop-hammond-in.json"
+  },
+  {
+   "keyword": "tax preparation hammond in",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tax-preparation-hammond-in.json"
+  },
+  {
+   "keyword": "tax preparer hammond in",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tax-preparer-hammond-in.json"
+  },
+  {
+   "keyword": "therapist hammond in",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/therapist-hammond-in.json"
+  },
+  {
+   "keyword": "transmission repair hammond in",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/transmission-repair-hammond-in.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "hessville-smiles-dentist-hammond",
+   "name": "Hessville Smiles Dentist",
+   "summary": "Hessville Smiles Dentist is a dentist in Hammond, IN at 6933 Kennedy Avenue #A, Hammond, IN 46323. Phone: +12198030349. Website: https://www.hessvilledentist.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hessville-smiles-dentist-hammond/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hessville-smiles-dentist-hammond.json",
+   "address": {
+    "streetAddress": "6933 Kennedy Avenue #A",
+    "addressLocality": "Hammond",
+    "addressRegion": "IN",
+    "postalCode": "46323",
+    "addressCountry": "US"
+   },
+   "city": "Hammond",
+   "state": "IN",
+   "zip": "46323",
+   "geo": {
+    "lat": 41.5871623,
+    "lon": -87.4613738
+   },
+   "phone": "+12198030349",
+   "website": "https://www.hessvilledentist.com/",
+   "opening_hours": "Mo-Th 08:00-16:00; Fr 09:00-17:00; Sa 09:00-14:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13070310044",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "martinez-auto-body-l-l-c-hammond",
+   "name": "Martinez Auto Body, L.L.C.",
+   "summary": "Martinez Auto Body, L.L.C. is an auto repair shop in Hammond, IN at 630 State Street, Hammond, IN 46320. Phone: +12198520718. Website: https://martinezautobody.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/martinez-auto-body-l-l-c-hammond/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/martinez-auto-body-l-l-c-hammond.json",
+   "address": {
+    "streetAddress": "630 State Street",
+    "addressLocality": "Hammond",
+    "addressRegion": "IN",
+    "postalCode": "46320",
+    "addressCountry": "US"
+   },
+   "city": "Hammond",
+   "state": "IN",
+   "zip": "46320",
+   "geo": {
+    "lat": 41.6167314,
+    "lon": -87.5126805
+   },
+   "phone": "+12198520718",
+   "website": "https://martinezautobody.com/",
+   "opening_hours": "Mo-Fr 08:00-17:00, Sa-Su CLOSED",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13231654123",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "planned-parenthood-hammond",
+   "name": "Planned Parenthood",
+   "summary": "Planned Parenthood is a therapy practice in Hammond, IN at 7131 Indianapolis Boulevard, Hammond, IN 46324. Phone: +18007690045. Website: https://www.plannedparenthood.org/health-center/indiana/hammond/46324/hammond-health-center-2922-91810.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/planned-parenthood-hammond/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/planned-parenthood-hammond.json",
+   "address": {
+    "streetAddress": "7131 Indianapolis Boulevard",
+    "addressLocality": "Hammond",
+    "addressRegion": "IN",
+    "postalCode": "46324",
+    "addressCountry": "US"
+   },
+   "city": "Hammond",
+   "state": "IN",
+   "zip": "46324",
+   "geo": {
+    "lat": 41.5835838,
+    "lon": -87.480636
+   },
+   "phone": "+18007690045",
+   "website": "https://www.plannedparenthood.org/health-center/indiana/hammond/46324/hammond-health-center-2922-91810",
+   "opening_hours": "Mo-Tu,Th-Fr 09:00-17:00; We 10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1442915463",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "the-tattoo-lady-hammond",
+   "name": "The Tattoo Lady",
+   "summary": "The Tattoo Lady is a tattoo shop in Hammond, IN at 6817 Kennedy Avenue, Hammond, IN 46323. Phone: +12198449976. Website: https://www.thetattoolady.com/.",
+   "categories": [
+    "tattoo shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-tattoo-lady-hammond/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-tattoo-lady-hammond.json",
+   "address": {
+    "streetAddress": "6817 Kennedy Avenue",
+    "addressLocality": "Hammond",
+    "addressRegion": "IN",
+    "postalCode": "46323",
+    "addressCountry": "US"
+   },
+   "city": "Hammond",
+   "state": "IN",
+   "zip": "46323",
+   "geo": {
+    "lat": 41.5900488,
+    "lon": -87.4614863
+   },
+   "phone": "+12198449976",
+   "website": "https://www.thetattoolady.com/",
+   "opening_hours": "Mo-Th 12:00-20:00; Sa 12:00-21:00; Su 12:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5476732304",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "china-doll-tattoo-and-piercing-hammond",
+   "name": "China Doll Tattoo & Piercing",
+   "summary": "China Doll Tattoo & Piercing is a tattoo shop in Hammond, IN at 7346 Calumet Avenue, Hammond, IN 46324. Phone: +12198530956. Website: https://chinadolltattooandpiercing.net/.",
+   "categories": [
+    "tattoo shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/china-doll-tattoo-and-piercing-hammond/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/china-doll-tattoo-and-piercing-hammond.json",
+   "address": {
+    "streetAddress": "7346 Calumet Avenue",
+    "addressLocality": "Hammond",
+    "addressRegion": "IN",
+    "postalCode": "46324",
+    "addressCountry": "US"
+   },
+   "city": "Hammond",
+   "state": "IN",
+   "zip": "46324",
+   "geo": {
+    "lat": 41.5794486,
+    "lon": -87.5093097
+   },
+   "phone": "+12198530956",
+   "website": "https://chinadolltattooandpiercing.net/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1346049611",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "aarons-hammond",
+   "name": "Aaron's",
+   "summary": "Aaron's is a furniture store in Hammond, IN at 1149 165th Street, Hammond, IN 46320. Website: https://locations.aarons.com/us/in/hammond/1149-165th-st.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/aarons-hammond/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/aarons-hammond.json",
+   "address": {
+    "streetAddress": "1149 165th Street",
+    "addressLocality": "Hammond",
+    "addressRegion": "IN",
+    "postalCode": "46320",
+    "addressCountry": "US"
+   },
+   "city": "Hammond",
+   "state": "IN",
+   "zip": "46320",
+   "geo": {
+    "lat": 41.5960307,
+    "lon": -87.5011362
+   },
+   "website": "https://locations.aarons.com/us/in/hammond/1149-165th-st",
+   "opening_hours": "Mo-Th 10:00-19:00; Fr 10:00-20:00; Sa 10:00-18:00; Su closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1359710977",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "extra-space-storage-hammond",
+   "name": "Extra Space Storage",
+   "summary": "Extra Space Storage is a self-storage facility in Hammond, IN at 6641 Columbia Avenue, Hammond, IN 46320. Website: https://www.extraspace.com/storage/facilities/us/indiana/hammond/2046/.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/extra-space-storage-hammond/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/extra-space-storage-hammond.json",
+   "address": {
+    "streetAddress": "6641 Columbia Avenue",
+    "addressLocality": "Hammond",
+    "addressRegion": "IN",
+    "postalCode": "46320",
+    "addressCountry": "US"
+   },
+   "city": "Hammond",
+   "state": "IN",
+   "zip": "46320",
+   "geo": {
+    "lat": 41.5923701,
+    "lon": -87.4984521
+   },
+   "website": "https://www.extraspace.com/storage/facilities/us/indiana/hammond/2046/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/169937871",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "extra-space-storage-hammond-w1359710980",
+   "name": "Extra Space Storage",
+   "summary": "Extra Space Storage is a self-storage facility in Hammond, IN at 950 165th Street, Hammond, IN 46324. Website: https://www.extraspace.com/storage/facilities/us/indiana/hammond/7608.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/extra-space-storage-hammond-w1359710980/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/extra-space-storage-hammond-w1359710980.json",
+   "address": {
+    "streetAddress": "950 165th Street",
+    "addressLocality": "Hammond",
+    "addressRegion": "IN",
+    "postalCode": "46324",
+    "addressCountry": "US"
+   },
+   "city": "Hammond",
+   "state": "IN",
+   "zip": "46324",
+   "geo": {
+    "lat": 41.5950421,
+    "lon": -87.5053264
+   },
+   "website": "https://www.extraspace.com/storage/facilities/us/indiana/hammond/7608",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1359710980",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "h-and-r-block-hammond",
+   "name": "H&R Block",
+   "summary": "H&R Block is a tax preparation service in Hammond, IN at 6938 Grand Avenue, Hammond, IN 46323. Website: https://www.hrblock.com/local-tax-offices/indiana/hammond/6938-s-grand-ave/14543/.",
+   "categories": [
+    "tax preparation"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/h-and-r-block-hammond/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/h-and-r-block-hammond.json",
+   "address": {
+    "streetAddress": "6938 Grand Avenue",
+    "addressLocality": "Hammond",
+    "addressRegion": "IN",
+    "postalCode": "46323",
+    "addressCountry": "US"
+   },
+   "city": "Hammond",
+   "state": "IN",
+   "zip": "46323",
+   "geo": {
+    "lat": 41.5868117,
+    "lon": -87.4443722
+   },
+   "website": "https://www.hrblock.com/local-tax-offices/indiana/hammond/6938-s-grand-ave/14543/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12586146397",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "public-storage-hammond",
+   "name": "Public Storage",
+   "summary": "Public Storage is a self-storage facility in Hammond, IN at 4015 Calumet Avenue, Hammond, IN 46320. Website: https://www.publicstorage.com/self-storage-in-hammond/1259.html.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/public-storage-hammond/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/public-storage-hammond.json",
+   "address": {
+    "streetAddress": "4015 Calumet Avenue",
+    "addressLocality": "Hammond",
+    "addressRegion": "IN",
+    "postalCode": "46320",
+    "addressCountry": "US"
+   },
+   "city": "Hammond",
+   "state": "IN",
+   "zip": "46320",
+   "geo": {
+    "lat": 41.6416924,
+    "lon": -87.5077381
+   },
+   "website": "https://www.publicstorage.com/self-storage-in-hammond/1259.html",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11511927722",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "rent-a-center-hammond",
+   "name": "Rent-A-Center",
+   "summary": "Rent-A-Center is a furniture store in Hammond, IN at 6425 Columbia Avenue, Hammond, IN 46320. Website: https://locations.rentacenter.com/indiana/hammond/6425-columbia-avenue/.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rent-a-center-hammond/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rent-a-center-hammond.json",
+   "address": {
+    "streetAddress": "6425 Columbia Avenue",
+    "addressLocality": "Hammond",
+    "addressRegion": "IN",
+    "postalCode": "46320",
+    "addressCountry": "US"
+   },
+   "city": "Hammond",
+   "state": "IN",
+   "zip": "46320",
+   "geo": {
+    "lat": 41.5965481,
+    "lon": -87.49738
+   },
+   "website": "https://locations.rentacenter.com/indiana/hammond/6425-columbia-avenue/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12586119233",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "u-haul-hammond",
+   "name": "U-Haul",
+   "summary": "U-Haul is a self-storage facility in Hammond, IN at 822 165th Street, Hammond, IN 46324. Website: https://www.uhaul.com/Locations/Truck-Rentals-near-Hammond-IN-46324/759022.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/u-haul-hammond/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/u-haul-hammond.json",
+   "address": {
+    "streetAddress": "822 165th Street",
+    "addressLocality": "Hammond",
+    "addressRegion": "IN",
+    "postalCode": "46324",
+    "addressCountry": "US"
+   },
+   "city": "Hammond",
+   "state": "IN",
+   "zip": "46324",
+   "geo": {
+    "lat": 41.5952315,
+    "lon": -87.5078784
+   },
+   "website": "https://www.uhaul.com/Locations/Truck-Rentals-near-Hammond-IN-46324/759022",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1359710983",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "car-x-hammond",
+   "name": "Car-X",
+   "summary": "Car-X is an auto repair shop in Hammond, IN at 1337 Calumet Avenue, Hammond, IN 46394.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/car-x-hammond/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/car-x-hammond.json",
+   "address": {
+    "streetAddress": "1337 Calumet Avenue",
+    "addressLocality": "Hammond",
+    "addressRegion": "IN",
+    "postalCode": "46394",
+    "addressCountry": "US"
+   },
+   "city": "Hammond",
+   "state": "IN",
+   "zip": "46394",
+   "geo": {
+    "lat": 41.688643,
+    "lon": -87.5081675
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1329739601",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "circle-k-hammond",
+   "name": "Circle K",
+   "summary": "Circle K is a car wash in Hammond, IN at 260 165th Street, Hammond, IN 46324.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/circle-k-hammond/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/circle-k-hammond.json",
+   "address": {
+    "streetAddress": "260 165th Street",
+    "addressLocality": "Hammond",
+    "addressRegion": "IN",
+    "postalCode": "46324",
+    "addressCountry": "US"
+   },
+   "city": "Hammond",
+   "state": "IN",
+   "zip": "46324",
+   "geo": {
+    "lat": 41.5953164,
+    "lon": -87.5189511
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1346055830",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "freeway-insurance-hammond",
+   "name": "Freeway Insurance",
+   "summary": "Freeway Insurance is an insurance agent in Hammond, IN at 1305 165th Street, Hammond, IN 46320.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/freeway-insurance-hammond/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/freeway-insurance-hammond.json",
+   "address": {
+    "streetAddress": "1305 165th Street",
+    "addressLocality": "Hammond",
+    "addressRegion": "IN",
+    "postalCode": "46320",
+    "addressCountry": "US"
+   },
+   "city": "Hammond",
+   "state": "IN",
+   "zip": "46320",
+   "geo": {
+    "lat": 41.5961109,
+    "lon": -87.4973737
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12586119268",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "liberty-tax-hammond",
+   "name": "Liberty Tax",
+   "summary": "Liberty Tax is a tax preparation service in Hammond, IN at 6414 Calumet Avenue, Hammond, IN 46324.",
+   "categories": [
+    "tax preparation"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/liberty-tax-hammond/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/liberty-tax-hammond.json",
+   "address": {
+    "streetAddress": "6414 Calumet Avenue",
+    "addressLocality": "Hammond",
+    "addressRegion": "IN",
+    "postalCode": "46324",
+    "addressCountry": "US"
+   },
+   "city": "Hammond",
+   "state": "IN",
+   "zip": "46324",
+   "geo": {
+    "lat": 41.5966515,
+    "lon": -87.5093594
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11543807005",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "luke-hammond",
+   "name": "Luke",
+   "summary": "Luke is a car wash in Hammond, IN at 850 Indianapolis Boulevard, Hammond, IN 46320.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/luke-hammond/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/luke-hammond.json",
+   "address": {
+    "streetAddress": "850 Indianapolis Boulevard",
+    "addressLocality": "Hammond",
+    "addressRegion": "IN",
+    "postalCode": "46320",
+    "addressCountry": "US"
+   },
+   "city": "Hammond",
+   "state": "IN",
+   "zip": "46320",
+   "geo": {
+    "lat": 41.6966752,
+    "lon": -87.5195116
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1329739594",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "speedy-wash-hammond",
+   "name": "Speedy Wash",
+   "summary": "Speedy Wash is a car wash in Hammond, IN at 7405 Calumet Avenue, Hammond, IN 46324.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/speedy-wash-hammond/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/speedy-wash-hammond.json",
+   "address": {
+    "streetAddress": "7405 Calumet Avenue",
+    "addressLocality": "Hammond",
+    "addressRegion": "IN",
+    "postalCode": "46324",
+    "addressCountry": "US"
+   },
+   "city": "Hammond",
+   "state": "IN",
+   "zip": "46324",
+   "geo": {
+    "lat": 41.5785373,
+    "lon": -87.5086891
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1242292137",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "state-farm-hammond",
+   "name": "State Farm",
+   "summary": "State Farm is an insurance agent in Hammond, IN at 2739 169th Street, Hammond, IN 46323.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/state-farm-hammond/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/state-farm-hammond.json",
+   "address": {
+    "streetAddress": "2739 169th Street",
+    "addressLocality": "Hammond",
+    "addressRegion": "IN",
+    "postalCode": "46323",
+    "addressCountry": "US"
+   },
+   "city": "Hammond",
+   "state": "IN",
+   "zip": "46323",
+   "geo": {
+    "lat": 41.5887793,
+    "lon": -87.4621813
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9063334704",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "planet-fitness-hammond",
+   "name": "Planet Fitness",
+   "summary": "Planet Fitness is a gym in Hammond, IN at 7929 Indianapolis Boulevard, Hammond, IN.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/planet-fitness-hammond/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/planet-fitness-hammond.json",
+   "address": {
+    "streetAddress": "7929 Indianapolis Boulevard",
+    "addressLocality": "Hammond",
+    "addressRegion": "IN",
+    "addressCountry": "US"
+   },
+   "city": "Hammond",
+   "state": "IN",
+   "geo": {
+    "lat": 41.5704757,
+    "lon": -87.4735462
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4367392302",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "great-clips-hammond",
+   "name": "Great Clips",
+   "summary": "Great Clips is a hair salon in Hammond, IN.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/great-clips-hammond/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/great-clips-hammond.json",
+   "address": {
+    "addressLocality": "Hammond",
+    "addressRegion": "IN",
+    "addressCountry": "US"
+   },
+   "city": "Hammond",
+   "state": "IN",
+   "geo": {
+    "lat": 41.5702514,
+    "lon": -87.4757316
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11511850933",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

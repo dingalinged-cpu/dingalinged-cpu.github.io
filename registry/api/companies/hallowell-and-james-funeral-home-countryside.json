@@ -1,0 +1,52 @@
+{
+ "slug": "hallowell-and-james-funeral-home-countryside",
+ "name": "Hallowell & James Funeral Home",
+ "categories": [
+  "funeral home"
+ ],
+ "keywords": [
+  "funeral home",
+  "funeral home countryside il"
+ ],
+ "services": [
+  {
+   "name": "funeral home",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1025 West 55th Street",
+  "addressLocality": "Countryside",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Countryside",
+ "state": "IL",
+ "geo": {
+  "lat": 41.7897259,
+  "lon": -87.8824943
+ },
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/967109564",
+ "osm": {
+  "type": "way",
+  "id": 967109564,
+  "tags_used": {
+   "shop": "funeral_directors"
+  }
+ },
+ "municipality": "Countryside",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/hallowell-and-james-funeral-home-countryside/",
+ "summary": "Hallowell & James Funeral Home is a funeral home in Countryside, IL at 1025 West 55th Street, Countryside, IL.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

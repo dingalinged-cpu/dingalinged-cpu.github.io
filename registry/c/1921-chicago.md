@@ -1,0 +1,23 @@
+1921 is a coworking space in Chicago, IL at 11001 South Michigan Avenue, Chicago, IL 60628. Website: https://www.1921coworking.com/.
+
+# 1921
+
+- Category: coworking space
+- Services: coworking space
+- Address: 11001 South Michigan Avenue, Chicago, IL 60628
+- City: Chicago
+- State: IL
+- ZIP: 60628
+- Coordinates: 41.6941799, -87.6205943
+- Phone: n/a
+- Website: https://www.1921coworking.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/1921-chicago/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/1921-chicago.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/8487419339 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

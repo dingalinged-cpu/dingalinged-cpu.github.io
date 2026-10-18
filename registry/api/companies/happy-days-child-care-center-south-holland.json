@@ -1,0 +1,56 @@
+{
+ "slug": "happy-days-child-care-center-south-holland",
+ "name": "Happy Days Child Care Center",
+ "categories": [
+  "daycare"
+ ],
+ "keywords": [
+  "daycare",
+  "daycare south holland il"
+ ],
+ "services": [
+  {
+   "name": "daycare",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "831 East 162nd Street",
+  "addressLocality": "South Holland",
+  "addressRegion": "IL",
+  "postalCode": "60473",
+  "addressCountry": "US"
+ },
+ "city": "South Holland",
+ "state": "IL",
+ "zip": "60473",
+ "geo": {
+  "lat": 41.6004838,
+  "lon": -87.5966855
+ },
+ "phone": "+17085964848",
+ "website": "https://happydayschildcarecenter.org/",
+ "schema_type": "ChildCare",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/1272947825",
+ "osm": {
+  "type": "way",
+  "id": 1272947825,
+  "tags_used": {
+   "amenity": "childcare"
+  }
+ },
+ "municipality": "South Holland",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/happy-days-child-care-center-south-holland/",
+ "summary": "Happy Days Child Care Center is a daycare in South Holland, IL at 831 East 162nd Street, South Holland, IL 60473. Phone: +17085964848. Website: https://happydayschildcarecenter.org/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,57 @@
+{
+ "slug": "vca-cairo-animal-hospital-highland-park",
+ "name": "VCA Cairo Animal Hospital",
+ "categories": [
+  "vet"
+ ],
+ "keywords": [
+  "vet",
+  "vet highland park il"
+ ],
+ "services": [
+  {
+   "name": "vet",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1170 Park Avenue West",
+  "addressLocality": "Highland Park",
+  "addressRegion": "IL",
+  "postalCode": "60035",
+  "addressCountry": "US"
+ },
+ "city": "Highland Park",
+ "state": "IL",
+ "zip": "60035",
+ "geo": {
+  "lat": 42.1884895,
+  "lon": -87.818526
+ },
+ "website": "https://vcahospitals.com/cairo",
+ "brand": "VCA Animal Hospitals",
+ "wikidata": "Q7906620",
+ "schema_type": "VeterinaryCare",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/1181043387",
+ "osm": {
+  "type": "way",
+  "id": 1181043387,
+  "tags_used": {
+   "amenity": "veterinary"
+  }
+ },
+ "municipality": "Highland Park",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/vca-cairo-animal-hospital-highland-park/",
+ "summary": "VCA Cairo Animal Hospital is a veterinarian in Highland Park, IL at 1170 Park Avenue West, Highland Park, IL 60035. Website: https://vcahospitals.com/cairo.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

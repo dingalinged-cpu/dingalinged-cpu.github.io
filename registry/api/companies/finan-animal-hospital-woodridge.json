@@ -1,0 +1,54 @@
+{
+ "slug": "finan-animal-hospital-woodridge",
+ "name": "Finan Animal Hospital",
+ "categories": [
+  "vet"
+ ],
+ "keywords": [
+  "vet",
+  "vet woodridge il"
+ ],
+ "services": [
+  {
+   "name": "vet",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "Lemont Road",
+  "addressLocality": "Woodridge",
+  "addressRegion": "IL",
+  "postalCode": "60516",
+  "addressCountry": "US"
+ },
+ "city": "Woodridge",
+ "state": "IL",
+ "zip": "60516",
+ "geo": {
+  "lat": 41.743377,
+  "lon": -88.0125602
+ },
+ "schema_type": "VeterinaryCare",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/13574435302",
+ "osm": {
+  "type": "node",
+  "id": 13574435302,
+  "tags_used": {
+   "amenity": "veterinary"
+  }
+ },
+ "municipality": "Woodridge",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/finan-animal-hospital-woodridge/",
+ "summary": "Finan Animal Hospital is a veterinarian in Woodridge, IL at Lemont Road, Woodridge, IL 60516.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

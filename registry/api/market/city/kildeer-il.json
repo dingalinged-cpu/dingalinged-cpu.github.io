@@ -1,0 +1,171 @@
+{
+ "title": "Keyword market data: Kildeer, IL",
+ "description": "Top Kildeer, IL service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
+ "updated": "2026-10-18",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are in the JSON and dataset. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "place": "Kildeer, IL",
+ "geography": "Chicago-Naperville-Elgin, IL-IN metro",
+ "keywords": 6,
+ "lists": {
+  "by_volume": [
+   {
+    "keyword": "family doctor kildeer il",
+    "slug": "family-doctor-kildeer-il",
+    "url": "https://dingalinged-cpu.github.io/registry/k/family-doctor-kildeer-il/",
+    "us_monthly_searches": 33100,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 910,
+    "cpc_basis_usd": 4.76,
+    "cpc_median_usd": 4.76,
+    "search_value_index_usd": 4300,
+    "equivalent_google_ads_cost_month_usd": 290,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_volume"
+   },
+   {
+    "keyword": "primary care physician kildeer il",
+    "slug": "primary-care-physician-kildeer-il",
+    "url": "https://dingalinged-cpu.github.io/registry/k/primary-care-physician-kildeer-il/",
+    "us_monthly_searches": 27100,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 750,
+    "cpc_basis_usd": 4.76,
+    "cpc_median_usd": 4.76,
+    "search_value_index_usd": 3600,
+    "equivalent_google_ads_cost_month_usd": 240,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_volume"
+   }
+  ],
+  "by_cpc": [
+   {
+    "keyword": "storage units kildeer il",
+    "slug": "storage-units-kildeer-il",
+    "url": "https://dingalinged-cpu.github.io/registry/k/storage-units-kildeer-il/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "local_monthly_searches_est": 6100,
+    "cpc_basis_usd": 8.33,
+    "cpc_median_usd": 8.33,
+    "search_value_index_usd": 51000,
+    "equivalent_google_ads_cost_month_usd": 3200,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "event venues kildeer il",
+    "slug": "event-venues-kildeer-il",
+    "url": "https://dingalinged-cpu.github.io/registry/k/event-venues-kildeer-il/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "local_monthly_searches_est": 6100,
+    "cpc_basis_usd": 7.17,
+    "cpc_median_usd": 7.17,
+    "search_value_index_usd": 44000,
+    "equivalent_google_ads_cost_month_usd": 3400,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "family doctor kildeer il",
+    "slug": "family-doctor-kildeer-il",
+    "url": "https://dingalinged-cpu.github.io/registry/k/family-doctor-kildeer-il/",
+    "us_monthly_searches": 33100,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 910,
+    "cpc_basis_usd": 4.76,
+    "cpc_median_usd": 4.76,
+    "search_value_index_usd": 4300,
+    "equivalent_google_ads_cost_month_usd": 290,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "primary care physician kildeer il",
+    "slug": "primary-care-physician-kildeer-il",
+    "url": "https://dingalinged-cpu.github.io/registry/k/primary-care-physician-kildeer-il/",
+    "us_monthly_searches": 27100,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 750,
+    "cpc_basis_usd": 4.76,
+    "cpc_median_usd": 4.76,
+    "search_value_index_usd": 3600,
+    "equivalent_google_ads_cost_month_usd": 240,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "furniture store kildeer il",
+    "slug": "furniture-store-kildeer-il",
+    "url": "https://dingalinged-cpu.github.io/registry/k/furniture-store-kildeer-il/",
+    "us_monthly_searches": 140000,
+    "us_volume_method": "estimate",
+    "local_monthly_searches_est": 3900,
+    "cpc_basis_usd": 4.14,
+    "cpc_median_usd": 4.14,
+    "search_value_index_usd": 16000,
+    "equivalent_google_ads_cost_month_usd": 1400,
+    "featured_spot_min_usd": 10,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "mattress store kildeer il",
+    "slug": "mattress-store-kildeer-il",
+    "url": "https://dingalinged-cpu.github.io/registry/k/mattress-store-kildeer-il/",
+    "us_monthly_searches": 140000,
+    "us_volume_method": "estimate",
+    "local_monthly_searches_est": 3900,
+    "cpc_basis_usd": 4.14,
+    "cpc_median_usd": 4.14,
+    "search_value_index_usd": 16000,
+    "equivalent_google_ads_cost_month_usd": 1400,
+    "featured_spot_min_usd": 10,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   }
+  ],
+  "by_value": [
+   {
+    "keyword": "family doctor kildeer il",
+    "slug": "family-doctor-kildeer-il",
+    "url": "https://dingalinged-cpu.github.io/registry/k/family-doctor-kildeer-il/",
+    "us_monthly_searches": 33100,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 910,
+    "cpc_basis_usd": 4.76,
+    "cpc_median_usd": 4.76,
+    "search_value_index_usd": 4300,
+    "equivalent_google_ads_cost_month_usd": 290,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_value"
+   },
+   {
+    "keyword": "primary care physician kildeer il",
+    "slug": "primary-care-physician-kildeer-il",
+    "url": "https://dingalinged-cpu.github.io/registry/k/primary-care-physician-kildeer-il/",
+    "us_monthly_searches": 27100,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 750,
+    "cpc_basis_usd": 4.76,
+    "cpc_median_usd": 4.76,
+    "search_value_index_usd": 3600,
+    "equivalent_google_ads_cost_month_usd": 240,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_value"
+   }
+  ]
+ },
+ "license": {
+  "registry_estimates": "CC-BY-4.0",
+  "url": "https://creativecommons.org/licenses/by/4.0/"
+ }
+}

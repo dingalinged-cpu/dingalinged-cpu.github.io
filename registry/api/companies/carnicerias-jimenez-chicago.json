@@ -1,0 +1,56 @@
+{
+ "slug": "carnicerias-jimenez-chicago",
+ "name": "Carnicerias Jimenez",
+ "categories": [
+  "bakery"
+ ],
+ "keywords": [
+  "bakery",
+  "bakery chicago il"
+ ],
+ "services": [
+  {
+   "name": "bakery",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "5330 West Belmont Avenue",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60641",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60641",
+ "geo": {
+  "lat": 41.9389312,
+  "lon": -87.7602891
+ },
+ "phone": "+17732839402",
+ "website": "https://www.carniceriasjimenez.com/",
+ "schema_type": "Bakery",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/6280519587",
+ "osm": {
+  "type": "node",
+  "id": 6280519587,
+  "tags_used": {
+   "shop": "bakery"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/carnicerias-jimenez-chicago/",
+ "summary": "Carnicerias Jimenez is a bakery in Chicago, IL at 5330 West Belmont Avenue, Chicago, IL 60641. Phone: +17732839402. Website: https://www.carniceriasjimenez.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

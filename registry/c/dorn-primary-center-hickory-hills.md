@@ -1,0 +1,23 @@
+Dorn Primary Center is a preschool in Hickory Hills, IL.
+
+# Dorn Primary Center
+
+- Category: preschool
+- Services: preschool
+- Address: Hickory Hills, IL
+- City: Hickory Hills
+- State: IL
+- ZIP: n/a
+- Coordinates: 41.7247327, -87.8157112
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/dorn-primary-center-hickory-hills/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/dorn-primary-center-hickory-hills.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1084965007 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

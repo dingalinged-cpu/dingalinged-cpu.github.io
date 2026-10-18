@@ -1,0 +1,58 @@
+Keyword market for Roselle, IL: 17 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Chicago-Naperville-Elgin, IL-IN metro (US volume x population share).
+
+# Top keywords in Roselle, IL
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are in the JSON and dataset. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json
+
+## By monthly searches
+1. car wash roselle il | searches/mo 51,000 (est) | CPC $4.35 | value $220,000 | Google Ads equiv $12,000/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/car-wash-roselle-il/
+2. dentist roselle il | searches/mo 51,000 (est) | CPC $4.70 | value $240,000 | Google Ads equiv $13,000/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/dentist-roselle-il/
+3. gym roselle il | searches/mo 51,000 (est) | CPC $1.67 | value $85,000 | Google Ads equiv $6,100/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/gym-roselle-il/
+4. hair salon roselle il | searches/mo 41,000 (est) | CPC $0.55 | value $23,000 | Google Ads equiv $1,300/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/hair-salon-roselle-il/
+5. mechanic roselle il | searches/mo 19,000 (est) | CPC $4.35 | value $83,000 | Google Ads equiv $4,600/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/mechanic-roselle-il/
+6. haircut roselle il | searches/mo 10,000 (est) | CPC $4.62 | value $46,000 | Google Ads equiv $2,600/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/haircut-roselle-il/
+7. auto repair roselle il | searches/mo 8,300 (est) | CPC $4.35 | value $36,000 | Google Ads equiv $2,000/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/auto-repair-roselle-il/
+8. financial advisor roselle il | searches/mo 6,800 (est) | CPC $3.39 | value $23,000 | Google Ads equiv $1,900/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/financial-advisor-roselle-il/
+9. real estate agent roselle il | searches/mo 5,500 (est) | CPC $3.61 | value $20,000 | Google Ads equiv $1,700/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/real-estate-agent-roselle-il/
+10. insurance agency roselle il | searches/mo 2,500 (est) | CPC $3.39 | value $8,500 | Google Ads equiv $710/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/insurance-agency-roselle-il/
+11. realtor roselle il | searches/mo 2,500 (est) | CPC $3.70 | value $9,200 | Google Ads equiv $780/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/realtor-roselle-il/
+12. facial roselle il | searches/mo 2,000 (est) | CPC $4.62 | value $9,200 | Google Ads equiv $530/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/facial-roselle-il/
+13. tax preparation roselle il | searches/mo 2,000 (est) | CPC $3.25 | value $6,500 | Google Ads equiv $540/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/tax-preparation-roselle-il/
+14. tax preparer roselle il | searches/mo 1,700 (est) | CPC $5.87 | value $10,000 | Google Ads equiv $560/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/tax-preparer-roselle-il/
+15. insurance agents roselle il | searches/mo 1,400 (est) | CPC $3.39 | value $4,700 | Google Ads equiv $400/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/insurance-agents-roselle-il/
+
+## By CPC
+1. tax preparer roselle il | searches/mo 1,700 (est) | CPC $5.87 | value $10,000 | Google Ads equiv $560/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/tax-preparer-roselle-il/
+2. podiatrist roselle il | searches/mo 6,100 (est) | CPC $4.76 | value $29,000 | Google Ads equiv $2,000/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/podiatrist-roselle-il/
+3. dentist roselle il | searches/mo 51,000 (est) | CPC $4.70 | value $240,000 | Google Ads equiv $13,000/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/dentist-roselle-il/
+4. facial roselle il | searches/mo 2,000 (est) | CPC $4.62 | value $9,200 | Google Ads equiv $530/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/facial-roselle-il/
+5. haircut roselle il | searches/mo 10,000 (est) | CPC $4.62 | value $46,000 | Google Ads equiv $2,600/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/haircut-roselle-il/
+6. auto repair roselle il | searches/mo 8,300 (est) | CPC $4.35 | value $36,000 | Google Ads equiv $2,000/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/auto-repair-roselle-il/
+7. car wash roselle il | searches/mo 51,000 (est) | CPC $4.35 | value $220,000 | Google Ads equiv $12,000/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/car-wash-roselle-il/
+8. mechanic roselle il | searches/mo 19,000 (est) | CPC $4.35 | value $83,000 | Google Ads equiv $4,600/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/mechanic-roselle-il/
+9. realtor roselle il | searches/mo 2,500 (est) | CPC $3.70 | value $9,200 | Google Ads equiv $780/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/realtor-roselle-il/
+10. real estate agent roselle il | searches/mo 5,500 (est) | CPC $3.61 | value $20,000 | Google Ads equiv $1,700/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/real-estate-agent-roselle-il/
+11. financial advisor roselle il | searches/mo 6,800 (est) | CPC $3.39 | value $23,000 | Google Ads equiv $1,900/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/financial-advisor-roselle-il/
+12. insurance agency roselle il | searches/mo 2,500 (est) | CPC $3.39 | value $8,500 | Google Ads equiv $710/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/insurance-agency-roselle-il/
+13. insurance agent roselle il | searches/mo 1,100 (est) | CPC $3.39 | value $3,700 | Google Ads equiv $310/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/insurance-agent-roselle-il/
+14. insurance agents roselle il | searches/mo 1,400 (est) | CPC $3.39 | value $4,700 | Google Ads equiv $400/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/insurance-agents-roselle-il/
+15. tax preparation roselle il | searches/mo 2,000 (est) | CPC $3.25 | value $6,500 | Google Ads equiv $540/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/tax-preparation-roselle-il/
+
+## By value (searches x CPC)
+1. dentist roselle il | searches/mo 51,000 (est) | CPC $4.70 | value $240,000 | Google Ads equiv $13,000/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/dentist-roselle-il/
+2. car wash roselle il | searches/mo 51,000 (est) | CPC $4.35 | value $220,000 | Google Ads equiv $12,000/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/car-wash-roselle-il/
+3. gym roselle il | searches/mo 51,000 (est) | CPC $1.67 | value $85,000 | Google Ads equiv $6,100/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/gym-roselle-il/
+4. mechanic roselle il | searches/mo 19,000 (est) | CPC $4.35 | value $83,000 | Google Ads equiv $4,600/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/mechanic-roselle-il/
+5. haircut roselle il | searches/mo 10,000 (est) | CPC $4.62 | value $46,000 | Google Ads equiv $2,600/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/haircut-roselle-il/
+6. auto repair roselle il | searches/mo 8,300 (est) | CPC $4.35 | value $36,000 | Google Ads equiv $2,000/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/auto-repair-roselle-il/
+7. financial advisor roselle il | searches/mo 6,800 (est) | CPC $3.39 | value $23,000 | Google Ads equiv $1,900/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/financial-advisor-roselle-il/
+8. hair salon roselle il | searches/mo 41,000 (est) | CPC $0.55 | value $23,000 | Google Ads equiv $1,300/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/hair-salon-roselle-il/
+9. real estate agent roselle il | searches/mo 5,500 (est) | CPC $3.61 | value $20,000 | Google Ads equiv $1,700/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/real-estate-agent-roselle-il/
+10. tax preparer roselle il | searches/mo 1,700 (est) | CPC $5.87 | value $10,000 | Google Ads equiv $560/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/tax-preparer-roselle-il/
+11. facial roselle il | searches/mo 2,000 (est) | CPC $4.62 | value $9,200 | Google Ads equiv $530/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/facial-roselle-il/
+12. realtor roselle il | searches/mo 2,500 (est) | CPC $3.70 | value $9,200 | Google Ads equiv $780/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/realtor-roselle-il/
+13. insurance agency roselle il | searches/mo 2,500 (est) | CPC $3.39 | value $8,500 | Google Ads equiv $710/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/insurance-agency-roselle-il/
+14. tax preparation roselle il | searches/mo 2,000 (est) | CPC $3.25 | value $6,500 | Google Ads equiv $540/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/tax-preparation-roselle-il/
+15. insurance agents roselle il | searches/mo 1,400 (est) | CPC $3.39 | value $4,700 | Google Ads equiv $400/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/insurance-agents-roselle-il/
+
+All market data: https://dingalinged-cpu.github.io/registry/market/ | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html

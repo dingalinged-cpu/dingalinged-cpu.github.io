@@ -1,0 +1,63 @@
+{
+ "slug": "brothers-barber-shop-mundelein",
+ "name": "Brother's Barber Shop",
+ "categories": [
+  "barber shop"
+ ],
+ "keywords": [
+  "barber shop",
+  "haircut",
+  "barber shop mundelein il",
+  "haircut mundelein il"
+ ],
+ "services": [
+  {
+   "name": "barber shop",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "haircut",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "439 North Lake Street",
+  "addressLocality": "Mundelein",
+  "addressRegion": "IL",
+  "postalCode": "60060",
+  "addressCountry": "US"
+ },
+ "city": "Mundelein",
+ "state": "IL",
+ "zip": "60060",
+ "geo": {
+  "lat": 42.2707234,
+  "lon": -88.0037552
+ },
+ "phone": "+18479103181",
+ "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-17:00",
+ "schema_type": "HairSalon",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/570024043",
+ "osm": {
+  "type": "way",
+  "id": 570024043,
+  "tags_used": {
+   "shop": "hairdresser",
+   "hairdresser": "barber"
+  }
+ },
+ "municipality": "Mundelein",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/brothers-barber-shop-mundelein/",
+ "summary": "Brother's Barber Shop is a barber shop in Mundelein, IL at 439 North Lake Street, Mundelein, IL 60060. Phone: +18479103181.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

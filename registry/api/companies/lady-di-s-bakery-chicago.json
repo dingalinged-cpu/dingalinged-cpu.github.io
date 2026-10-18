@@ -1,0 +1,56 @@
+{
+ "slug": "lady-di-s-bakery-chicago",
+ "name": "Lady Di’s Bakery",
+ "categories": [
+  "bakery"
+ ],
+ "keywords": [
+  "bakery",
+  "bakery chicago il"
+ ],
+ "services": [
+  {
+   "name": "bakery",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "4356 West Ford City Drive",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60652",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60652",
+ "geo": {
+  "lat": 41.7537983,
+  "lon": -87.7318361
+ },
+ "phone": "+17738854817",
+ "website": "https://www.ladydisbakery.com/",
+ "schema_type": "Bakery",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/6324364855",
+ "osm": {
+  "type": "node",
+  "id": 6324364855,
+  "tags_used": {
+   "shop": "bakery"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/lady-di-s-bakery-chicago/",
+ "summary": "Lady Di’s Bakery is a bakery in Chicago, IL at 4356 West Ford City Drive, Chicago, IL 60652. Phone: +17738854817. Website: https://www.ladydisbakery.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

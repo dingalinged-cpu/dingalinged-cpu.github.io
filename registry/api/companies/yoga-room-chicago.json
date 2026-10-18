@@ -1,0 +1,54 @@
+{
+ "slug": "yoga-room-chicago",
+ "name": "Yoga Room",
+ "categories": [
+  "yoga classes"
+ ],
+ "keywords": [
+  "yoga classes",
+  "yoga classes chicago il"
+ ],
+ "services": [
+  {
+   "name": "yoga classes",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "geo": {
+  "lat": 41.9754406,
+  "lon": -87.9034638
+ },
+ "website": "https://www.flychicago.com/ohare/ServicesAmenities/amenities/Pages/yoga.aspx",
+ "opening_hours": "Mo-Su 06:00-22:00",
+ "schema_type": "SportsActivityLocation",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/6390528707",
+ "osm": {
+  "type": "node",
+  "id": 6390528707,
+  "tags_used": {
+   "leisure": "fitness_centre",
+   "sport": "yoga"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/yoga-room-chicago/",
+ "summary": "Yoga Room is a yoga studio in Chicago, IL. Website: https://www.flychicago.com/ohare/ServicesAmenities/amenities/Pages/yoga.aspx.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

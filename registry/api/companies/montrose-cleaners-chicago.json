@@ -1,0 +1,54 @@
+{
+ "slug": "montrose-cleaners-chicago",
+ "name": "Montrose Cleaners",
+ "categories": [
+  "dry cleaners"
+ ],
+ "keywords": [
+  "dry cleaners",
+  "dry cleaners chicago il"
+ ],
+ "services": [
+  {
+   "name": "dry cleaners",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "2004 West Montrose Avenue",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60618",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60618",
+ "geo": {
+  "lat": 41.9617083,
+  "lon": -87.6794558
+ },
+ "schema_type": "DryCleaningOrLaundry",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/13160174401",
+ "osm": {
+  "type": "node",
+  "id": 13160174401,
+  "tags_used": {
+   "shop": "dry_cleaning"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/montrose-cleaners-chicago/",
+ "summary": "Montrose Cleaners is a dry cleaner in Chicago, IL at 2004 West Montrose Avenue, Chicago, IL 60618.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

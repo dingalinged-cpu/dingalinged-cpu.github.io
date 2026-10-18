@@ -1,0 +1,60 @@
+{
+ "slug": "barbara-and-barbara-chicago",
+ "name": "Barbara & Barbara",
+ "categories": [
+  "hair salon"
+ ],
+ "keywords": [
+  "hair salon",
+  "haircut",
+  "hair salon chicago il",
+  "haircut chicago il"
+ ],
+ "services": [
+  {
+   "name": "hair salon",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "haircut",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "geo": {
+  "lat": 41.9319577,
+  "lon": -87.7011455
+ },
+ "phone": "+17733846244",
+ "website": "https://www.barbaraandbarbara.com/",
+ "opening_hours": "Tu-Th,Sa 09:00-21:00; Fr,Mo 11:00-20:00; Su 10:00-19:00",
+ "schema_type": "HairSalon",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/3574954593",
+ "osm": {
+  "type": "node",
+  "id": 3574954593,
+  "tags_used": {
+   "shop": "hairdresser"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/barbara-and-barbara-chicago/",
+ "summary": "Barbara & Barbara is a hair salon in Chicago, IL. Phone: +17733846244. Website: https://www.barbaraandbarbara.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

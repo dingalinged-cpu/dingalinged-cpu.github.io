@@ -1,0 +1,23 @@
+Davenport Family Funeral Homes and Crematory is a funeral home in Lake Zurich, IL at 941 South Old Rand Road, Lake Zurich, IL 60047.
+
+# Davenport Family Funeral Homes and Crematory
+
+- Category: funeral home
+- Services: funeral home
+- Address: 941 South Old Rand Road, Lake Zurich, IL 60047
+- City: Lake Zurich
+- State: IL
+- ZIP: 60047
+- Coordinates: 42.1812506, -88.0793173
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/davenport-family-funeral-homes-and-crematory-lake-zurich/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/davenport-family-funeral-homes-and-crematory-lake-zurich.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1215596561 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

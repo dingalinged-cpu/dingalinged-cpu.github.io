@@ -1,0 +1,62 @@
+{
+ "slug": "firestone-midlothian",
+ "name": "Firestone",
+ "categories": [
+  "auto repair"
+ ],
+ "keywords": [
+  "auto repair",
+  "mechanic",
+  "auto repair midlothian il",
+  "mechanic midlothian il"
+ ],
+ "services": [
+  {
+   "name": "auto repair",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "mechanic",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "14740 Pulaski Road",
+  "addressLocality": "Midlothian",
+  "addressRegion": "IL",
+  "postalCode": "60445",
+  "addressCountry": "US"
+ },
+ "city": "Midlothian",
+ "state": "IL",
+ "zip": "60445",
+ "geo": {
+  "lat": 41.6242035,
+  "lon": -87.7181495
+ },
+ "brand": "Firestone",
+ "wikidata": "Q420837",
+ "schema_type": "AutoRepair",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/870997065",
+ "osm": {
+  "type": "way",
+  "id": 870997065,
+  "tags_used": {
+   "shop": "car_repair"
+  }
+ },
+ "municipality": "Midlothian",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/firestone-midlothian/",
+ "summary": "Firestone is an auto repair shop in Midlothian, IL at 14740 Pulaski Road, Midlothian, IL 60445.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

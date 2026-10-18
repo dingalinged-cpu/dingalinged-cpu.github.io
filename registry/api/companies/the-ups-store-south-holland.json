@@ -1,0 +1,57 @@
+{
+ "slug": "the-ups-store-south-holland",
+ "name": "The UPS Store",
+ "categories": [
+  "printing services"
+ ],
+ "keywords": [
+  "printing services",
+  "printing services south holland il"
+ ],
+ "services": [
+  {
+   "name": "printing services",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "430 East 162nd Street",
+  "addressLocality": "South Holland",
+  "addressRegion": "IL",
+  "postalCode": "60473",
+  "addressCountry": "US"
+ },
+ "city": "South Holland",
+ "state": "IL",
+ "zip": "60473",
+ "geo": {
+  "lat": 41.6011647,
+  "lon": -87.6062818
+ },
+ "brand": "The UPS Store",
+ "wikidata": "Q7771029",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/7488270570",
+ "osm": {
+  "type": "node",
+  "id": 7488270570,
+  "tags_used": {
+   "shop": "copyshop",
+   "amenity": "post_office"
+  }
+ },
+ "municipality": "South Holland",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/the-ups-store-south-holland/",
+ "summary": "The UPS Store is a printing service in South Holland, IL at 430 East 162nd Street, South Holland, IL 60473.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,23 @@
+Konquer Dance Company is a dance studio in Orland Park, IL at 8600 West 159th Street, Orland Park, IL 60462. Phone: +17089791910. Website: https://www.konquerdancecompany.com/.
+
+# Konquer Dance Company
+
+- Category: dance studio
+- Services: dance studio
+- Address: 8600 West 159th Street, Orland Park, IL 60462
+- City: Orland Park
+- State: IL
+- ZIP: 60462
+- Coordinates: 41.603026, -87.8290839
+- Phone: +17089791910
+- Website: https://www.konquerdancecompany.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/konquer-dance-company-orland-park/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/konquer-dance-company-orland-park.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10309976608 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

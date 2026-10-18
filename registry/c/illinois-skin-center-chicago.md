@@ -1,0 +1,23 @@
+Illinois Skin Center is a dermatologist in Chicago, IL at 2202 North Halsted Street #1, Chicago, IL 60614. Phone: +13126005826. Website: https://www.ilskin.com/.
+
+# Illinois Skin Center
+
+- Category: dermatologist
+- Services: dermatologist
+- Address: 2202 North Halsted Street #1, Chicago, IL 60614
+- City: Chicago
+- State: IL
+- ZIP: 60614
+- Coordinates: 41.9220105, -87.6488386
+- Phone: +13126005826
+- Website: https://www.ilskin.com/
+- Email: frontdesk@ilskin.com
+- Opening hours (OSM syntax): Mo,Tu,We,Fr 15:00-19:00; Sa 12:00-15:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/illinois-skin-center-chicago/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/illinois-skin-center-chicago.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13688794118 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

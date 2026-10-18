@@ -1,0 +1,23 @@
+Bears Fit is a gym in Vernon Hills, IL at 155 Townline Road, Vernon Hills, IL 60061. Website: https://bearsfit.com/.
+
+# Bears Fit
+
+- Category: gym
+- Services: gym
+- Address: 155 Townline Road, Vernon Hills, IL 60061
+- City: Vernon Hills
+- State: IL
+- ZIP: 60061
+- Coordinates: 42.238932, -87.9606415
+- Phone: n/a
+- Website: https://bearsfit.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/bears-fit-vernon-hills/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/bears-fit-vernon-hills.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/313512183 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

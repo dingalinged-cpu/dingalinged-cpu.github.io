@@ -12,9 +12,9 @@
   "affordable assisted living the United States",
   "emergency assisted living the United States"
  ],
- "answer": "The top unpaid assisted living listing for the United States is Gianna Homes - Minnetonka (an assisted living facility in Minnetonka, MN at 4605 Fairhills Road East, Minnetonka, MN 55345. Phone: +19529880953. Website: https://giannahomes.org/). 45 assisted living businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "answer": "The top unpaid assisted living listing for the United States is Gianna Homes - Minnetonka (an assisted living facility in Minnetonka, MN at 4605 Fairhills Road East, Minnetonka, MN 55345. Phone: +19529880953. Website: https://giannahomes.org/). 80 assisted living businesses are listed for the United States as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
  "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
- "updated": "2026-10-17",
+ "updated": "2026-10-18",
  "sponsored_slots": {
   "featured_1": "available",
   "spots_2_4_sold": 0
@@ -63,6 +63,41 @@
   {
    "position": 2,
    "sponsored": false,
+   "slug": "ronald-mcdonald-childrens-hospital-maywood",
+   "name": "Ronald McDonald ® Children's Hospital",
+   "summary": "Ronald McDonald ® Children's Hospital is an assisted living facility in Maywood, IL at 2160 South 1st Avenue, Maywood, IL 60153. Phone: +18885847888. Website: https://www.loyolamedicine.org/locations/ronald-mcdonald-%C2%AE-childrens-hospital.",
+   "categories": [
+    "assisted living"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ronald-mcdonald-childrens-hospital-maywood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ronald-mcdonald-childrens-hospital-maywood.json",
+   "address": {
+    "streetAddress": "2160 South 1st Avenue",
+    "addressLocality": "Maywood",
+    "addressRegion": "IL",
+    "postalCode": "60153",
+    "addressCountry": "US"
+   },
+   "city": "Maywood",
+   "state": "IL",
+   "zip": "60153",
+   "geo": {
+    "lat": 41.8611494,
+    "lon": -87.8347761
+   },
+   "phone": "+18885847888",
+   "website": "https://www.loyolamedicine.org/locations/ronald-mcdonald-%C2%AE-childrens-hospital",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/354249891",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
    "slug": "visiting-angels-senior-home-care-blaine",
    "name": "Visiting Angels Senior Home Care",
    "summary": "Visiting Angels Senior Home Care is an assisted living facility in Blaine, MN at 12760 Aberdeen Street Northeast #316, Blaine, MN 55449. Phone: +19528918000. Website: https://www.visitingangels.com/blaine/home.",
@@ -96,7 +131,42 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 3,
+   "position": 4,
+   "sponsored": false,
+   "slug": "wecare-in-home-care-skokie",
+   "name": "WeCare In Home Care",
+   "summary": "WeCare In Home Care is an assisted living facility in Skokie, IL at 5360 Fargo Ave, Skokie, IL 60077. Phone: +18476794387. Website: https://www.midwestwecare.com/.",
+   "categories": [
+    "assisted living"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wecare-in-home-care-skokie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wecare-in-home-care-skokie.json",
+   "address": {
+    "streetAddress": "5360 Fargo Ave",
+    "addressLocality": "Skokie",
+    "addressRegion": "IL",
+    "postalCode": "60077",
+    "addressCountry": "US"
+   },
+   "city": "Skokie",
+   "state": "IL",
+   "zip": "60077",
+   "geo": {
+    "lat": 42.016675,
+    "lon": -87.7621663
+   },
+   "phone": "+18476794387",
+   "website": "https://www.midwestwecare.com/",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13962563269",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
    "sponsored": false,
    "slug": "copperfield-hill-robbinsdale",
    "name": "Copperfield Hill",
@@ -130,7 +200,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 4,
+   "position": 6,
    "sponsored": false,
    "slug": "new-perspective-golden-valley-golden-valley",
    "name": "New Perspective Golden Valley",
@@ -164,7 +234,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 5,
+   "position": 7,
    "sponsored": false,
    "slug": "norbella-senior-living-centerville",
    "name": "NorBella Senior Living",
@@ -198,7 +268,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 6,
+   "position": 8,
    "sponsored": false,
    "slug": "shorewood-landing-shorewood",
    "name": "Shorewood Landing",
@@ -232,7 +302,41 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 7,
+   "position": 9,
+   "sponsored": false,
+   "slug": "storypoint-naperville",
+   "name": "StoryPoint",
+   "summary": "StoryPoint is an assisted living facility in Naperville, IL at 504 North River Road, Naperville, IL 60563. Phone: +16304466812. Website: https://www.storypoint.com/community/naperville-il/.",
+   "categories": [
+    "assisted living"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/storypoint-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/storypoint-naperville.json",
+   "address": {
+    "streetAddress": "504 North River Road",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60563",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60563",
+   "geo": {
+    "lat": 41.7818645,
+    "lon": -88.1776059
+   },
+   "phone": "+16304466812",
+   "website": "https://www.storypoint.com/community/naperville-il/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8522789095",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
    "sponsored": false,
    "slug": "suite-living-memory-care-and-assisted-living-vadnais-heights",
    "name": "Suite Living Memory Care & Assisted Living",
@@ -266,7 +370,41 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 8,
+   "position": 11,
+   "sponsored": false,
+   "slug": "sunrise-of-naperville-north-naperville",
+   "name": "Sunrise of Naperville North",
+   "summary": "Sunrise of Naperville North is an assisted living facility in Naperville, IL at 535 West Ogden Avenue, Naperville, IL 60563. Phone: +17085127902. Website: https://www.sunriseseniorliving.com/communities/sunrise-of-naperville-north.",
+   "categories": [
+    "assisted living"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sunrise-of-naperville-north-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sunrise-of-naperville-north-naperville.json",
+   "address": {
+    "streetAddress": "535 West Ogden Avenue",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60563",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60563",
+   "geo": {
+    "lat": 41.7864554,
+    "lon": -88.1566246
+   },
+   "phone": "+17085127902",
+   "website": "https://www.sunriseseniorliving.com/communities/sunrise-of-naperville-north",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/311574299",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 12,
    "sponsored": false,
    "slug": "the-glenn-hopkins-hopkins",
    "name": "The Glenn Hopkins",
@@ -300,7 +438,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 9,
+   "position": 13,
    "sponsored": false,
    "slug": "the-homestead-at-maplewood-maplewood",
    "name": "The Homestead at Maplewood",
@@ -334,7 +472,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 10,
+   "position": 14,
    "sponsored": false,
    "slug": "chandler-place-saint-anthony",
    "name": "Chandler Place",
@@ -366,7 +504,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 11,
+   "position": 15,
    "sponsored": false,
    "slug": "family-first-home-healthcare-saint-paul",
    "name": "Family First Home Healthcare",
@@ -398,7 +536,39 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 12,
+   "position": 16,
+   "sponsored": false,
+   "slug": "sunrise-of-willowbrook-willowbrook",
+   "name": "Sunrise of Willowbrook",
+   "summary": "Sunrise of Willowbrook is an assisted living facility in Willowbrook, IL at 6300 Clarendon Hills Road, Willowbrook, IL. Phone: +16307349954. Website: https://www.sunriseseniorliving.com/communities/il/sunrise-of-willowbrook.",
+   "categories": [
+    "assisted living"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sunrise-of-willowbrook-willowbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sunrise-of-willowbrook-willowbrook.json",
+   "address": {
+    "streetAddress": "6300 Clarendon Hills Road",
+    "addressLocality": "Willowbrook",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Willowbrook",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7734812,
+    "lon": -87.9562894
+   },
+   "phone": "+16307349954",
+   "website": "https://www.sunriseseniorliving.com/communities/il/sunrise-of-willowbrook",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 15.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1436287622",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 17,
    "sponsored": false,
    "slug": "assisted-living-and-memory-care-ramsey",
    "name": "Assisted Living and Memory Care",
@@ -432,7 +602,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 13,
+   "position": 18,
    "sponsored": false,
    "slug": "becketwood-minneapolis",
    "name": "Becketwood",
@@ -465,7 +635,40 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 14,
+   "position": 19,
+   "sponsored": false,
+   "slug": "brookdale-des-plaines-des-plaines",
+   "name": "Brookdale Des Plaines",
+   "summary": "Brookdale Des Plaines is an assisted living facility in Des Plaines, IL at 800 South Des Plaines River Road, Des Plaines, IL 60016. Website: https://www.brookdale.com/.",
+   "categories": [
+    "assisted living"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/brookdale-des-plaines-des-plaines/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/brookdale-des-plaines-des-plaines.json",
+   "address": {
+    "streetAddress": "800 South Des Plaines River Road",
+    "addressLocality": "Des Plaines",
+    "addressRegion": "IL",
+    "postalCode": "60016",
+    "addressCountry": "US"
+   },
+   "city": "Des Plaines",
+   "state": "IL",
+   "zip": "60016",
+   "geo": {
+    "lat": 42.0386611,
+    "lon": -87.8840357
+   },
+   "website": "https://www.brookdale.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/431422382",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 20,
    "sponsored": false,
    "slug": "ebenezer-tower-apartments-minneapolis",
    "name": "Ebenezer Tower Apartments",
@@ -498,7 +701,73 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 15,
+   "position": 21,
+   "sponsored": false,
+   "slug": "grand-regency-of-south-shore-chicago",
+   "name": "Grand Regency Of South Shore",
+   "summary": "Grand Regency Of South Shore is an assisted living facility in Chicago, IL at 7419 South Exchange Avenue, Chicago, IL 60649. Website: https://grandregencysouthshore.com/.",
+   "categories": [
+    "assisted living"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/grand-regency-of-south-shore-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/grand-regency-of-south-shore-chicago.json",
+   "address": {
+    "streetAddress": "7419 South Exchange Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60649",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60649",
+   "geo": {
+    "lat": 41.7605356,
+    "lon": -87.5607669
+   },
+   "website": "https://grandregencysouthshore.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/211319558",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 22,
+   "sponsored": false,
+   "slug": "kenwood-village-chicago",
+   "name": "Kenwood Village",
+   "summary": "Kenwood Village is an assisted living facility in Chicago, IL at 4505 South Drexel Boulevard, Chicago, IL 60653. Website: https://kenwoodvillagehc.com/.",
+   "categories": [
+    "assisted living"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kenwood-village-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kenwood-village-chicago.json",
+   "address": {
+    "streetAddress": "4505 South Drexel Boulevard",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60653",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60653",
+   "geo": {
+    "lat": 41.8129475,
+    "lon": -87.6034234
+   },
+   "website": "https://kenwoodvillagehc.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/210914624",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 23,
    "sponsored": false,
    "slug": "loren-on-park-assisted-living-minneapolis",
    "name": "Loren on Park Assisted Living",
@@ -531,7 +800,73 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 16,
+   "position": 24,
+   "sponsored": false,
+   "slug": "maywood-supportive-living-maywood",
+   "name": "Maywood Supportive Living",
+   "summary": "Maywood Supportive Living is an assisted living facility in Maywood, IL at 316 Randolph Street, Maywood, IL 60153. Website: https://maywoodsupportiveliving.com/.",
+   "categories": [
+    "assisted living"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/maywood-supportive-living-maywood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/maywood-supportive-living-maywood.json",
+   "address": {
+    "streetAddress": "316 Randolph Street",
+    "addressLocality": "Maywood",
+    "addressRegion": "IL",
+    "postalCode": "60153",
+    "addressCountry": "US"
+   },
+   "city": "Maywood",
+   "state": "IL",
+   "zip": "60153",
+   "geo": {
+    "lat": 41.8840006,
+    "lon": -87.8372436
+   },
+   "website": "https://maywoodsupportiveliving.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1423954140",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 25,
+   "sponsored": false,
+   "slug": "midway-pointe-senior-living-chicago",
+   "name": "Midway Pointe Senior Living",
+   "summary": "Midway Pointe Senior Living is an assisted living facility in Chicago, IL at 5011 West 47th Street, Chicago, IL 60638. Website: https://www.midwaypointe.com/.",
+   "categories": [
+    "assisted living"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/midway-pointe-senior-living-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/midway-pointe-senior-living-chicago.json",
+   "address": {
+    "streetAddress": "5011 West 47th Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60638",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60638",
+   "geo": {
+    "lat": 41.8073292,
+    "lon": -87.7485382
+   },
+   "website": "https://www.midwaypointe.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/162167886",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 26,
    "sponsored": false,
    "slug": "minnehaha-senior-living-minneapolis",
    "name": "Minnehaha Senior Living",
@@ -564,7 +899,172 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 17,
+   "position": 27,
+   "sponsored": false,
+   "slug": "montclare-supportive-living-community-chicago",
+   "name": "Montclare Supportive Living Community",
+   "summary": "Montclare Supportive Living Community is an assisted living facility in Chicago, IL at 4339 West 19th Street, Chicago, IL 60623. Website: https://www.montclare-slf.com/.",
+   "categories": [
+    "assisted living"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/montclare-supportive-living-community-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/montclare-supportive-living-community-chicago.json",
+   "address": {
+    "streetAddress": "4339 West 19th Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60623",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60623",
+   "geo": {
+    "lat": 41.855408,
+    "lon": -87.7334087
+   },
+   "website": "https://www.montclare-slf.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1032917800",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 28,
+   "sponsored": false,
+   "slug": "prairie-green-at-fays-point-blue-island",
+   "name": "Prairie Green at Fay's Point",
+   "summary": "Prairie Green at Fay's Point is an assisted living facility in Blue Island, IL at 1546 Water Street, Blue Island, IL 60827. Website: https://www.seniorlifestyle.com/property/illinois/prairie-green-at-fays-point/.",
+   "categories": [
+    "assisted living"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/prairie-green-at-fays-point-blue-island/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/prairie-green-at-fays-point-blue-island.json",
+   "address": {
+    "streetAddress": "1546 Water Street",
+    "addressLocality": "Blue Island",
+    "addressRegion": "IL",
+    "postalCode": "60827",
+    "addressCountry": "US"
+   },
+   "city": "Blue Island",
+   "state": "IL",
+   "zip": "60827",
+   "geo": {
+    "lat": 41.6544406,
+    "lon": -87.6597667
+   },
+   "website": "https://www.seniorlifestyle.com/property/illinois/prairie-green-at-fays-point/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1525621420",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 29,
+   "sponsored": false,
+   "slug": "sunrise-of-lincoln-park-chicago",
+   "name": "Sunrise of Lincoln Park",
+   "summary": "Sunrise of Lincoln Park is an assisted living facility in Chicago, IL at 2710 North Clark Street, Chicago, IL 60614. Website: https://www.sunriseseniorliving.com/communities/il/sunrise-of-lincoln-park.",
+   "categories": [
+    "assisted living"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sunrise-of-lincoln-park-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sunrise-of-lincoln-park-chicago.json",
+   "address": {
+    "streetAddress": "2710 North Clark Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60614",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60614",
+   "geo": {
+    "lat": 41.931544,
+    "lon": -87.6448178
+   },
+   "website": "https://www.sunriseseniorliving.com/communities/il/sunrise-of-lincoln-park",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/210322179",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 30,
+   "sponsored": false,
+   "slug": "symphony-of-buffalo-grove-buffalo-grove",
+   "name": "Symphony of Buffalo Grove",
+   "summary": "Symphony of Buffalo Grove is an assisted living facility in Buffalo Grove, IL at 150 Weiland Road, Buffalo Grove, IL 60089. Website: https://www.assistedlivingcenter.com/facilities/il/buffalo-grove/symphony-buffalo-grove-60089/.",
+   "categories": [
+    "assisted living"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/symphony-of-buffalo-grove-buffalo-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/symphony-of-buffalo-grove-buffalo-grove.json",
+   "address": {
+    "streetAddress": "150 Weiland Road",
+    "addressLocality": "Buffalo Grove",
+    "addressRegion": "IL",
+    "postalCode": "60089",
+    "addressCountry": "US"
+   },
+   "city": "Buffalo Grove",
+   "state": "IL",
+   "zip": "60089",
+   "geo": {
+    "lat": 42.1557156,
+    "lon": -87.9562676
+   },
+   "website": "https://www.assistedlivingcenter.com/facilities/il/buffalo-grove/symphony-buffalo-grove-60089/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11401808452",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 31,
+   "sponsored": false,
+   "slug": "the-merion-evanston",
+   "name": "The Merion",
+   "summary": "The Merion is an assisted living facility in Evanston, IL at 1611 Chicago Avenue, Evanston, IL 60201. Website: https://www.merionevanston.com/.",
+   "categories": [
+    "assisted living"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-merion-evanston/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-merion-evanston.json",
+   "address": {
+    "streetAddress": "1611 Chicago Avenue",
+    "addressLocality": "Evanston",
+    "addressRegion": "IL",
+    "postalCode": "60201",
+    "addressCountry": "US"
+   },
+   "city": "Evanston",
+   "state": "IL",
+   "zip": "60201",
+   "geo": {
+    "lat": 42.0465108,
+    "lon": -87.6789829
+   },
+   "website": "https://www.merionevanston.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/relation/16285694",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 32,
    "sponsored": false,
    "slug": "haven-homes-maple-plain",
    "name": "Haven Homes",
@@ -595,7 +1095,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 18,
+   "position": 33,
    "sponsored": false,
    "slug": "millers-landing-senior-living-minneapolis",
    "name": "Millers Landing Senior Living",
@@ -626,7 +1126,38 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 19,
+   "position": 34,
+   "sponsored": false,
+   "slug": "the-vistas-lincoln-park-chicago",
+   "name": "The Vistas Lincoln Park",
+   "summary": "The Vistas Lincoln Park is an assisted living facility in Chicago, IL at 2437 North Southport Avenue, Chicago, IL. Website: https://www.thevistaslincolnpark.com/.",
+   "categories": [
+    "assisted living"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-vistas-lincoln-park-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-vistas-lincoln-park-chicago.json",
+   "address": {
+    "streetAddress": "2437 North Southport Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9261496,
+    "lon": -87.6630671
+   },
+   "website": "https://www.thevistaslincolnpark.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1459315592",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 35,
    "sponsored": false,
    "slug": "preserve-of-roseville-roseville",
    "name": "Preserve of Roseville",
@@ -656,7 +1187,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 20,
+   "position": 36,
    "sponsored": false,
    "slug": "redeemer-health-and-rehab-center-minneapolis",
    "name": "Redeemer Health & Rehab Center",
@@ -686,7 +1217,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 21,
+   "position": 37,
    "sponsored": false,
    "slug": "abiitan-mill-city-minneapolis",
    "name": "Abiitan Mill City",
@@ -718,7 +1249,71 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 22,
+   "position": 38,
+   "sponsored": false,
+   "slug": "autumn-leaves-glen-ellyn",
+   "name": "Autumn Leaves",
+   "summary": "Autumn Leaves is an assisted living facility in Glen Ellyn, IL at 190 East Geneva Road, Glen Ellyn, IL 60137.",
+   "categories": [
+    "assisted living"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/autumn-leaves-glen-ellyn/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/autumn-leaves-glen-ellyn.json",
+   "address": {
+    "streetAddress": "190 East Geneva Road",
+    "addressLocality": "Glen Ellyn",
+    "addressRegion": "IL",
+    "postalCode": "60137",
+    "addressCountry": "US"
+   },
+   "city": "Glen Ellyn",
+   "state": "IL",
+   "zip": "60137",
+   "geo": {
+    "lat": 41.8896517,
+    "lon": -88.0829337
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/530351187",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 39,
+   "sponsored": false,
+   "slug": "california-gardens-nursing-home-chicago",
+   "name": "California Gardens Nursing Home",
+   "summary": "California Gardens Nursing Home is an assisted living facility in Chicago, IL at 2829 South California Avenue, Chicago, IL 60623.",
+   "categories": [
+    "assisted living"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/california-gardens-nursing-home-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/california-gardens-nursing-home-chicago.json",
+   "address": {
+    "streetAddress": "2829 South California Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60623",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60623",
+   "geo": {
+    "lat": 41.8408517,
+    "lon": -87.6932951
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/231704401",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 40,
    "sponsored": false,
    "slug": "cardigan-ridge-senior-living-shoreview",
    "name": "Cardigan Ridge Senior Living",
@@ -750,7 +1345,39 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 23,
+   "position": 41,
+   "sponsored": false,
+   "slug": "cicero-senior-lofts-chicago",
+   "name": "Cicero Senior Lofts",
+   "summary": "Cicero Senior Lofts is an assisted living facility in Chicago, IL at 4835 South Cicero Avenue, Chicago, IL 60632.",
+   "categories": [
+    "assisted living"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cicero-senior-lofts-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cicero-senior-lofts-chicago.json",
+   "address": {
+    "streetAddress": "4835 South Cicero Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60632",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60632",
+   "geo": {
+    "lat": 41.8044546,
+    "lon": -87.7427075
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/857417714",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 42,
    "sponsored": false,
    "slug": "clare-bridge-assisted-living-eagan",
    "name": "Clare Bridge Assisted Living",
@@ -782,7 +1409,71 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 24,
+   "position": 43,
+   "sponsored": false,
+   "slug": "danish-old-peoples-home-chicago",
+   "name": "Danish Old Peoples Home",
+   "summary": "Danish Old Peoples Home is an assisted living facility in Chicago, IL at 5656 North Newcastle Avenue, Chicago, IL 60631.",
+   "categories": [
+    "assisted living"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/danish-old-peoples-home-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/danish-old-peoples-home-chicago.json",
+   "address": {
+    "streetAddress": "5656 North Newcastle Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60631",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60631",
+   "geo": {
+    "lat": 41.9845145,
+    "lon": -87.7984237
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/163325308",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 44,
+   "sponsored": false,
+   "slug": "eden-assisted-living-chicago",
+   "name": "Eden Assisted Living",
+   "summary": "Eden Assisted Living is an assisted living facility in Chicago, IL at 4129-4141 North Sheridan Road, Chicago, IL 60613.",
+   "categories": [
+    "assisted living"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/eden-assisted-living-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/eden-assisted-living-chicago.json",
+   "address": {
+    "streetAddress": "4129-4141 North Sheridan Road",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60613",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60613",
+   "geo": {
+    "lat": 41.9575852,
+    "lon": -87.6541979
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/210381748",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 45,
    "sponsored": false,
    "slug": "encore-assisted-living-and-memory-care-hugo",
    "name": "Encore Assisted Living & Memory Care",
@@ -814,7 +1505,39 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 25,
+   "position": 46,
+   "sponsored": false,
+   "slug": "heritage-woods-chicago",
+   "name": "Heritage Woods",
+   "summary": "Heritage Woods is an assisted living facility in Chicago, IL at 2800 West Fulton Street, Chicago, IL 60612.",
+   "categories": [
+    "assisted living"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/heritage-woods-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/heritage-woods-chicago.json",
+   "address": {
+    "streetAddress": "2800 West Fulton Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60612",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60612",
+   "geo": {
+    "lat": 41.8870426,
+    "lon": -87.6970237
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/209382106",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 47,
    "sponsored": false,
    "slug": "maple-hill-senior-living-maplewood",
    "name": "Maple Hill Senior Living",
@@ -846,7 +1569,71 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 26,
+   "position": 48,
+   "sponsored": false,
+   "slug": "marley-oaks-assisted-living-residence-mokena",
+   "name": "Marley Oaks Assisted Living Residence",
+   "summary": "Marley Oaks Assisted Living Residence is an assisted living facility in Mokena, IL at 12631 Maple Street, Mokena, IL 60448.",
+   "categories": [
+    "assisted living"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/marley-oaks-assisted-living-residence-mokena/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/marley-oaks-assisted-living-residence-mokena.json",
+   "address": {
+    "streetAddress": "12631 Maple Street",
+    "addressLocality": "Mokena",
+    "addressRegion": "IL",
+    "postalCode": "60448",
+    "addressCountry": "US"
+   },
+   "city": "Mokena",
+   "state": "IL",
+   "zip": "60448",
+   "geo": {
+    "lat": 41.547693,
+    "lon": -87.9239055
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1210434003",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 49,
+   "sponsored": false,
+   "slug": "meadowbrook-manor-la-grange",
+   "name": "Meadowbrook Manor",
+   "summary": "Meadowbrook Manor is an assisted living facility in La Grange, IL at 339 South 9th Avenue, La Grange, IL 60525.",
+   "categories": [
+    "assisted living"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/meadowbrook-manor-la-grange/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/meadowbrook-manor-la-grange.json",
+   "address": {
+    "streetAddress": "339 South 9th Avenue",
+    "addressLocality": "La Grange",
+    "addressRegion": "IL",
+    "postalCode": "60525",
+    "addressCountry": "US"
+   },
+   "city": "La Grange",
+   "state": "IL",
+   "zip": "60525",
+   "geo": {
+    "lat": 41.8075071,
+    "lon": -87.8631069
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/407730545",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 50,
    "sponsored": false,
    "slug": "mount-olivet-home-minneapolis",
    "name": "Mount Olivet Home",
@@ -878,7 +1665,71 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 27,
+   "position": 51,
+   "sponsored": false,
+   "slug": "north-park-village-chicago",
+   "name": "North Park Village",
+   "summary": "North Park Village is an assisted living facility in Chicago, IL at 5801 North Pulaski Road, Chicago, IL 60646.",
+   "categories": [
+    "assisted living"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/north-park-village-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/north-park-village-chicago.json",
+   "address": {
+    "streetAddress": "5801 North Pulaski Road",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60646",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60646",
+   "geo": {
+    "lat": 41.9850585,
+    "lon": -87.7234115
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/relation/20458295",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 52,
+   "sponsored": false,
+   "slug": "paul-house-chicago",
+   "name": "Paul House",
+   "summary": "Paul House is an assisted living facility in Chicago, IL at 3800 North California Avenue, Chicago, IL 60618.",
+   "categories": [
+    "assisted living"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/paul-house-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/paul-house-chicago.json",
+   "address": {
+    "streetAddress": "3800 North California Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60618",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60618",
+   "geo": {
+    "lat": 41.9507793,
+    "lon": -87.6987771
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/relation/2814746",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 53,
    "sponsored": false,
    "slug": "providence-place-minneapolis",
    "name": "Providence Place",
@@ -910,7 +1761,39 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 28,
+   "position": 54,
+   "sponsored": false,
+   "slug": "st-anthony-village-crown-point",
+   "name": "St. Anthony Village",
+   "summary": "St. Anthony Village is an assisted living facility in Crown Point, IN at 203 Fraciscan Drive, Crown Point, IN 46307.",
+   "categories": [
+    "assisted living"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/st-anthony-village-crown-point/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/st-anthony-village-crown-point.json",
+   "address": {
+    "streetAddress": "203 Fraciscan Drive",
+    "addressLocality": "Crown Point",
+    "addressRegion": "IN",
+    "postalCode": "46307",
+    "addressCountry": "US"
+   },
+   "city": "Crown Point",
+   "state": "IN",
+   "zip": "46307",
+   "geo": {
+    "lat": 41.398033,
+    "lon": -87.3672001
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/209477687",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 55,
    "sponsored": false,
    "slug": "stonehaven-of-eagan-eagan",
    "name": "Stonehaven of Eagan",
@@ -942,7 +1825,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 29,
+   "position": 56,
    "sponsored": false,
    "slug": "sunrise-of-edina-edina",
    "name": "Sunrise of Edina",
@@ -974,7 +1857,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 30,
+   "position": 57,
    "sponsored": false,
    "slug": "the-pines-richfield",
    "name": "The Pines",
@@ -1006,7 +1889,39 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 31,
+   "position": 58,
+   "sponsored": false,
+   "slug": "westhaven-homes-chicago",
+   "name": "Westhaven Homes",
+   "summary": "Westhaven Homes is an assisted living facility in Chicago, IL at 850 West Garfield Boulevard, Chicago, IL 60621.",
+   "categories": [
+    "assisted living"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/westhaven-homes-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/westhaven-homes-chicago.json",
+   "address": {
+    "streetAddress": "850 West Garfield Boulevard",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60621",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60621",
+   "geo": {
+    "lat": 41.7945297,
+    "lon": -87.6472254
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/210162164",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 59,
    "sponsored": false,
    "slug": "willow-bend-senior-living-fridley",
    "name": "Willow Bend Senior Living",
@@ -1038,7 +1953,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 32,
+   "position": 60,
    "sponsored": false,
    "slug": "augustana-apartments-minneapolis",
    "name": "Augustana Apartments",
@@ -1068,7 +1983,37 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 33,
+   "position": 61,
+   "sponsored": false,
+   "slug": "clarendale-of-addison-addison",
+   "name": "Clarendale of Addison",
+   "summary": "Clarendale of Addison is an assisted living facility in Addison, IL at 1651, Addison, IL.",
+   "categories": [
+    "assisted living"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/clarendale-of-addison-addison/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/clarendale-of-addison-addison.json",
+   "address": {
+    "streetAddress": "1651",
+    "addressLocality": "Addison",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Addison",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9472122,
+    "lon": -88.0287573
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13523004861",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 62,
    "sponsored": false,
    "slug": "golden-living-center-fridley",
    "name": "Golden Living Center",
@@ -1098,7 +2043,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 34,
+   "position": 63,
    "sponsored": false,
    "slug": "pebmoob-senior-center-saint-paul",
    "name": "Pebmoob Senior Center",
@@ -1128,7 +2073,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 35,
+   "position": 64,
    "sponsored": false,
    "slug": "runnstone-senior-living-minneapolis",
    "name": "Runnstone Senior Living",
@@ -1158,7 +2103,96 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 36,
+   "position": 65,
+   "sponsored": false,
+   "slug": "the-carlton-chicago",
+   "name": "The Carlton",
+   "summary": "The Carlton is an assisted living facility in Chicago, IL at 725-735 West Montrose Avenue, Chicago, IL.",
+   "categories": [
+    "assisted living"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-carlton-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-carlton-chicago.json",
+   "address": {
+    "streetAddress": "725-735 West Montrose Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9616135,
+    "lon": -87.6488967
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/210382537",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 66,
+   "sponsored": false,
+   "slug": "trinity-acres-senior-apartments-chicago",
+   "name": "Trinity Acres Senior Apartments",
+   "summary": "Trinity Acres Senior Apartments is an assisted living facility in Chicago, IL at 3939 South Calumet Avenue, Chicago, IL.",
+   "categories": [
+    "assisted living"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/trinity-acres-senior-apartments-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/trinity-acres-senior-apartments-chicago.json",
+   "address": {
+    "streetAddress": "3939 South Calumet Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8224596,
+    "lon": -87.6182061
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/210913263",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 67,
+   "sponsored": false,
+   "slug": "avantara-lake-zurich",
+   "name": "Avantara",
+   "summary": "Avantara is an assisted living facility in Lake Zurich, IL.",
+   "categories": [
+    "assisted living"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/avantara-lake-zurich/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/avantara-lake-zurich.json",
+   "address": {
+    "addressLocality": "Lake Zurich",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Lake Zurich",
+   "state": "IL",
+   "geo": {
+    "lat": 42.1824612,
+    "lon": -88.0819296
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/447973830",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 68,
    "sponsored": false,
    "slug": "bi-di-gain-dash-anwebi-elder-housing-minneapolis",
    "name": "Bi Di Gain Dash Anwebi Elder Housing",
@@ -1187,7 +2221,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 37,
+   "position": 69,
    "sponsored": false,
    "slug": "cerenity-marian-saint-paul",
    "name": "Cerenity Marian",
@@ -1216,7 +2250,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 38,
+   "position": 70,
    "sponsored": false,
    "slug": "edgewood-blaine",
    "name": "Edgewood",
@@ -1245,7 +2279,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 39,
+   "position": 71,
    "sponsored": false,
    "slug": "landings-of-minnetonka-minnetonka",
    "name": "Landings of Minnetonka",
@@ -1274,7 +2308,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 40,
+   "position": 72,
    "sponsored": false,
    "slug": "lyons-court-senior-apartments-saint-paul",
    "name": "Lyons Court Senior Apartments",
@@ -1303,7 +2337,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 41,
+   "position": 73,
    "sponsored": false,
    "slug": "meadow-trails-of-rogers-rogers",
    "name": "Meadow Trails of Rogers",
@@ -1332,7 +2366,36 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 42,
+   "position": 74,
+   "sponsored": false,
+   "slug": "the-auberge-lake-zurich",
+   "name": "The Auberge",
+   "summary": "The Auberge is an assisted living facility in Lake Zurich, IL.",
+   "categories": [
+    "assisted living"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-auberge-lake-zurich/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-auberge-lake-zurich.json",
+   "address": {
+    "addressLocality": "Lake Zurich",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Lake Zurich",
+   "state": "IL",
+   "geo": {
+    "lat": 42.1820574,
+    "lon": -88.0784685
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11264804669",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 75,
    "sponsored": false,
    "slug": "the-quinlan-home-saint-paul",
    "name": "The Quinlan Home",
@@ -1361,7 +2424,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 43,
+   "position": 76,
    "sponsored": false,
    "slug": "the-waters-of-edina-edina",
    "name": "The Waters of Edina",
@@ -1390,7 +2453,36 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 44,
+   "position": 77,
+   "sponsored": false,
+   "slug": "vi-at-the-glen-glenview",
+   "name": "Vi at The Glen",
+   "summary": "Vi at The Glen is an assisted living facility in Glenview, IL.",
+   "categories": [
+    "assisted living"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/vi-at-the-glen-glenview/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/vi-at-the-glen-glenview.json",
+   "address": {
+    "addressLocality": "Glenview",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Glenview",
+   "state": "IL",
+   "geo": {
+    "lat": 42.0811389,
+    "lon": -87.8167842
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1080783255",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 78,
    "sponsored": false,
    "slug": "white-pines-senior-living-mendota-heights",
    "name": "White Pines Senior Living",
@@ -1419,7 +2511,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 45,
+   "position": 79,
    "sponsored": false,
    "slug": "woodlake-at-new-hope-new-hope",
    "name": "Woodlake at New Hope",
@@ -1446,6 +2538,264 @@
    "source": "OpenStreetMap",
    "source_url": "https://www.openstreetmap.org/way/1333419512",
    "last_checked": "2026-10-17"
+  },
+  {
+   "position": 80,
+   "sponsored": false,
+   "slug": "zurich-meadows-senior-apartments-lake-zurich",
+   "name": "Zurich Meadows Senior Apartments",
+   "summary": "Zurich Meadows Senior Apartments is an assisted living facility in Lake Zurich, IL.",
+   "categories": [
+    "assisted living"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/zurich-meadows-senior-apartments-lake-zurich/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/zurich-meadows-senior-apartments-lake-zurich.json",
+   "address": {
+    "addressLocality": "Lake Zurich",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Lake Zurich",
+   "state": "IL",
+   "geo": {
+    "lat": 42.1933109,
+    "lon": -88.08568
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1215596560",
+   "last_checked": "2026-10-17"
   }
- ]
+ ],
+ "market": {
+  "keyword": "assisted living",
+  "slug": "assisted-living",
+  "base_keyword": "assisted living",
+  "scope": "national",
+  "city": null,
+  "state": null,
+  "category": "Health & medical - Senior care",
+  "industry": "Physicians & Surgeons",
+  "us_monthly_searches": {
+   "value": 220000,
+   "range": [
+    150000,
+    370000
+   ],
+   "method": "estimate",
+   "estimate_method": "median of 58 cited US volumes for 'high'-demand keywords in the local_services research; rounded to 2 significant figures; range = 25th-75th percentile",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "confidence": "low"
+  },
+  "local_monthly_searches": null,
+  "cpc_usd": {
+   "industry_benchmark": "Physicians & Surgeons",
+   "low_usd": 4.76,
+   "median_usd": 4.76,
+   "high_usd": 5.0,
+   "method": "published benchmarks: low/high = range of the industry and sub-industry median CPCs listed in 'figures'; median = most specific benchmark",
+   "figures": [
+    {
+     "usd": 4.76,
+     "label": "Physicians & Surgeons median CPC 2026",
+     "source": "wordstream_2026"
+    },
+    {
+     "usd": 5.0,
+     "label": "Physicians & Surgeons median CPC 2025",
+     "source": "wordstream_2025"
+    }
+   ],
+   "source": "wordstream_2026",
+   "as_of": "2026",
+   "basis_for_value": {
+    "usd": 4.76,
+    "method": "benchmark median CPC",
+    "source": "wordstream_2026"
+   }
+  },
+  "ctr_pct": {
+   "value": 6.73,
+   "label": "Physicians & Surgeons average search-ad CTR 2025",
+   "source": "wordstream_2025",
+   "as_of": "2025-03"
+  },
+  "competition": {
+   "level": "medium",
+   "method": "proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research)",
+   "source": "wordstream_2026",
+   "as_of": "2026"
+  },
+  "trend": null,
+  "seasonality": {
+   "value": null,
+   "note": "No seasonality data in the research sources for this keyword."
+  },
+  "ai_query": {
+   "text": "No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.",
+   "figures": [
+    {
+     "value": "45%",
+     "label": "US adults using AI for local recommendations",
+     "source": "brightlocal_lcrs_2026"
+    },
+    {
+     "value": "75%",
+     "label": "sessions with keyword-style prompts",
+     "source": "sagapixel_sel"
+    },
+    {
+     "value": "59%",
+     "label": "local-intent prompts that triggered web search",
+     "source": "nectiv"
+    },
+    {
+     "value": "21%",
+     "label": "AI-first discovery journeys in healthcare (excerpt only)",
+     "source": "soci_2026"
+    }
+   ],
+   "as_of": "2026"
+  },
+  "registry_competitors": {
+   "value": 80,
+   "slugs": [
+    "abiitan-mill-city-minneapolis",
+    "assisted-living-and-memory-care-ramsey",
+    "augustana-apartments-minneapolis",
+    "autumn-leaves-glen-ellyn",
+    "avantara-lake-zurich",
+    "becketwood-minneapolis",
+    "bi-di-gain-dash-anwebi-elder-housing-minneapolis",
+    "brookdale-des-plaines-des-plaines",
+    "california-gardens-nursing-home-chicago",
+    "cardigan-ridge-senior-living-shoreview"
+   ],
+   "method_id": "competitors",
+   "source": "registry",
+   "as_of": "2026-10-18",
+   "urls": [
+    "https://dingalinged-cpu.github.io/registry/c/abiitan-mill-city-minneapolis/",
+    "https://dingalinged-cpu.github.io/registry/c/assisted-living-and-memory-care-ramsey/",
+    "https://dingalinged-cpu.github.io/registry/c/augustana-apartments-minneapolis/",
+    "https://dingalinged-cpu.github.io/registry/c/autumn-leaves-glen-ellyn/",
+    "https://dingalinged-cpu.github.io/registry/c/avantara-lake-zurich/",
+    "https://dingalinged-cpu.github.io/registry/c/becketwood-minneapolis/",
+    "https://dingalinged-cpu.github.io/registry/c/bi-di-gain-dash-anwebi-elder-housing-minneapolis/",
+    "https://dingalinged-cpu.github.io/registry/c/brookdale-des-plaines-des-plaines/",
+    "https://dingalinged-cpu.github.io/registry/c/california-gardens-nursing-home-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/cardigan-ridge-senior-living-shoreview/"
+   ],
+   "method": "count of registry listings tagged with the keyword (city/national) or with the base service in the same state (state keywords)"
+  },
+  "agent_demand": null,
+  "agent_demand_note": "Not yet measured. Will carry AI-agent query counts from the registry's agent analytics (contract: meta.agent_demand_contract in the market index).",
+  "equivalent_google_ads_cost_month": {
+   "value_usd": 70000,
+   "method": "estimate",
+   "method_id": "google_ads_equiv",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote."
+  },
+  "search_value_index": {
+   "value_usd": 1000000,
+   "method": "estimate",
+   "method_id": "value_index",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: search value index = monthly searches x CPC basis; an advertiser-value ranking signal, not revenue; rounded to 2 significant figures."
+  },
+  "auction": {
+   "featured_spot_min_usd": 500,
+   "spots_2_to_4_min_usd": 50,
+   "tier": "premium",
+   "pricing_rule": "tier minimum (premium $500, high $250, mid $100, standard $50) for national keywords; city = max($10, 20% of tier); state = max($10, 35% of tier); spots 2-4 open at 10% of the featured minimum",
+   "model": "Monthly auction in the last 7 days of each month: days 1-5 bid for the Featured #1 spot, days 6-7 for spots 2-4; winners display all next month; all paid spots labeled Sponsored.",
+   "next_auctions": [
+    {
+     "display_month": "2026-11",
+     "featured_spot_bidding": [
+      "2026-10-25",
+      "2026-10-29"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-10-30",
+      "2026-10-31"
+     ]
+    },
+    {
+     "display_month": "2026-12",
+     "featured_spot_bidding": [
+      "2026-11-24",
+      "2026-11-28"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-11-29",
+      "2026-11-30"
+     ]
+    }
+   ],
+   "source": "registry_auction",
+   "as_of": "2026-10-18"
+  },
+  "sources": {
+   "brightlocal_lcrs_2026": {
+    "name": "BrightLocal Local Consumer Review Survey 2026 (n=1,002 US adults)",
+    "url": "https://www.brightlocal.com/research/lcrs-ai-trust/",
+    "as_of": "2026"
+   },
+   "nectiv": {
+    "name": "Nectiv study of 8,500+ ChatGPT prompts",
+    "url": "https://nectivdigital.com/blog/new-data-study-what-queries-is-chatgpt-using-behind-the-scenes",
+    "as_of": "2025"
+   },
+   "registry": {
+    "name": "This registry's own listings (OpenStreetMap-seeded, ODbL)",
+    "url": "https://dingalinged-cpu.github.io/registry/api/companies.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_auction": {
+    "name": "Registry keyword auction catalog and rules",
+    "url": "https://dingalinged-cpu.github.io/registry/api/keyword-prices.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_estimate": {
+    "name": "Registry estimate (CC-BY-4.0); method given on each value",
+    "url": "https://dingalinged-cpu.github.io/registry/market/",
+    "as_of": "2026-10-18"
+   },
+   "sagapixel_sel": {
+    "name": "Sagapixel ChatGPT local-services sessions, via Search Engine Land",
+    "url": "https://searchengineland.com/chatgpt-users-keywords-for-local-services-data-467715",
+    "as_of": "2026-01"
+   },
+   "soci_2026": {
+    "name": "SOCi Local Discovery Index 2026 (excerpt only, via pantora.ai)",
+    "url": "https://www.pantora.ai/blog/consumers-use-ai-to-find-local-businesses",
+    "as_of": "2026"
+   },
+   "wordstream_2025": {
+    "name": "WordStream Google Ads Benchmarks 2025 (16,446 US campaigns, Apr 2024-Mar 2025; median CPC and CTR by industry)",
+    "url": "https://www.wordstream.com/blog/2025-google-ads-benchmarks",
+    "as_of": "2025-03"
+   },
+   "wordstream_2026": {
+    "name": "LocaliQ/WordStream Search Advertising Benchmarks 2026 (US median CPC by industry)",
+    "url": "https://www.localiq.com/blog/search-advertising-benchmarks",
+    "as_of": "2026"
+   }
+  },
+  "license": {
+   "registry_estimates": "CC-BY-4.0",
+   "url": "https://creativecommons.org/licenses/by/4.0/",
+   "cited_figures": "attribute to the publishers in sources"
+  },
+  "as_of": "2026-10-18",
+  "api": "https://dingalinged-cpu.github.io/registry/api/market/assisted-living.json",
+  "rate_card": "https://dingalinged-cpu.github.io/registry/view/market.html#assisted-living"
+ }
 }

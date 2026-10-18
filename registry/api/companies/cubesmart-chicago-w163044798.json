@@ -1,0 +1,58 @@
+{
+ "slug": "cubesmart-chicago-w163044798",
+ "name": "CubeSmart",
+ "categories": [
+  "storage units"
+ ],
+ "keywords": [
+  "storage units",
+  "storage units chicago il"
+ ],
+ "services": [
+  {
+   "name": "storage units",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1900 North Narragansett Avenue",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60707",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60707",
+ "geo": {
+  "lat": 41.9152845,
+  "lon": -87.7859502
+ },
+ "website": "https://www.cubesmart.com/illinois-self-storage/chicago-self-storage/3381.html",
+ "opening_hours": "Mo-Fr 09:30-18:00; Sa 08:30-17:00; Su 11:00-15:00",
+ "brand": "CubeSmart",
+ "wikidata": "Q5192200",
+ "schema_type": "SelfStorage",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/163044798",
+ "osm": {
+  "type": "way",
+  "id": 163044798,
+  "tags_used": {
+   "shop": "storage_rental"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/cubesmart-chicago-w163044798/",
+ "summary": "CubeSmart is a self-storage facility in Chicago, IL at 1900 North Narragansett Avenue, Chicago, IL 60707. Website: https://www.cubesmart.com/illinois-self-storage/chicago-self-storage/3381.html.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

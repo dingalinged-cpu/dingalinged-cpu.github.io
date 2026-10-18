@@ -1,0 +1,153 @@
+{
+ "place": "Rich Township, IL",
+ "slug": "rich-township-il",
+ "count": 4,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "auto repair rich township il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-rich-township-il.json"
+  },
+  {
+   "keyword": "chimney sweep rich township il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/chimney-sweep-rich-township-il.json"
+  },
+  {
+   "keyword": "dentist rich township il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-rich-township-il.json"
+  },
+  {
+   "keyword": "mechanic rich township il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-rich-township-il.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "progressive-dental-and-associates-matteson",
+   "name": "Progressive Dental & Associates",
+   "summary": "Progressive Dental & Associates is a dentist in Matteson, IL at 20402 Crawford Avenue, Matteson, IL 60443. Phone: +17087474294. Website: https://www.progressivedentalsmiles.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/progressive-dental-and-associates-matteson/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/progressive-dental-and-associates-matteson.json",
+   "address": {
+    "streetAddress": "20402 Crawford Avenue",
+    "addressLocality": "Matteson",
+    "addressRegion": "IL",
+    "postalCode": "60443",
+    "addressCountry": "US"
+   },
+   "city": "Matteson",
+   "state": "IL",
+   "zip": "60443",
+   "geo": {
+    "lat": 41.5185981,
+    "lon": -87.713602
+   },
+   "phone": "+17087474294",
+   "website": "https://www.progressivedentalsmiles.com/",
+   "opening_hours": "Mo,We,Th 08:00-17:00; Tu,Fr 08:00-14:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9737492752",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "a-village-sweeps-flossmoor",
+   "name": "A Village Sweeps",
+   "summary": "A Village Sweeps is a chimney sweep in Flossmoor, IL at 3436 194th Street, Flossmoor, IL 60422. Phone: +17087990919. Website: https://avillagesweeps.com/.",
+   "categories": [
+    "chimney sweep"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/a-village-sweeps-flossmoor/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/a-village-sweeps-flossmoor.json",
+   "address": {
+    "streetAddress": "3436 194th Street",
+    "addressLocality": "Flossmoor",
+    "addressRegion": "IL",
+    "postalCode": "60422",
+    "addressCountry": "US"
+   },
+   "city": "Flossmoor",
+   "state": "IL",
+   "zip": "60422",
+   "geo": {
+    "lat": 41.5373377,
+    "lon": -87.7004389
+   },
+   "phone": "+17087990919",
+   "website": "https://avillagesweeps.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8381343879",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "pep-boys-matteson",
+   "name": "Pep Boys",
+   "summary": "Pep Boys is an auto repair shop in Matteson, IL at 21610 Cicero Avenue, Matteson, IL 60443. Website: https://pepboys.com/stores/il/matteson/21610-cicero-ave?storeCode=0835.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pep-boys-matteson/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pep-boys-matteson.json",
+   "address": {
+    "streetAddress": "21610 Cicero Avenue",
+    "addressLocality": "Matteson",
+    "addressRegion": "IL",
+    "postalCode": "60443",
+    "addressCountry": "US"
+   },
+   "city": "Matteson",
+   "state": "IL",
+   "zip": "60443",
+   "geo": {
+    "lat": 41.4975101,
+    "lon": -87.7355399
+   },
+   "website": "https://pepboys.com/stores/il/matteson/21610-cicero-ave?storeCode=0835",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7845239211",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "firestone-rich-township",
+   "name": "Firestone",
+   "summary": "Firestone is an auto repair shop in Rich Township, IL.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/firestone-rich-township/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/firestone-rich-township.json",
+   "address": {
+    "addressLocality": "Rich Township",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Rich Township",
+   "state": "IL",
+   "geo": {
+    "lat": 41.5067555,
+    "lon": -87.7295675
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1020142303",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

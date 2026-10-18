@@ -1,0 +1,23 @@
+Mobil is a car wash in South Holland, IL at 16200 State Street, South Holland, IL 60473.
+
+# Mobil
+
+- Category: car wash
+- Services: car wash
+- Address: 16200 State Street, South Holland, IL 60473
+- City: South Holland
+- State: IL
+- ZIP: 60473
+- Coordinates: 41.6002678, -87.6174691
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/mobil-south-holland/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/mobil-south-holland.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1331500055 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

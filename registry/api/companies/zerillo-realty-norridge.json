@@ -1,0 +1,67 @@
+{
+ "slug": "zerillo-realty-norridge",
+ "name": "Zerillo Realty",
+ "categories": [
+  "real estate agent"
+ ],
+ "keywords": [
+  "real estate agent",
+  "realtor",
+  "real estate agent norridge il",
+  "realtor norridge il"
+ ],
+ "services": [
+  {
+   "name": "real estate agent",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "realtor",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "4840 North Cumberland Avenue",
+  "addressLocality": "Norridge",
+  "addressRegion": "IL",
+  "postalCode": "60706",
+  "addressCountry": "US"
+ },
+ "city": "Norridge",
+ "state": "IL",
+ "zip": "60706",
+ "geo": {
+  "lat": 41.9682916,
+  "lon": -87.8370039
+ },
+ "phone": "+17085838300",
+ "website": "https://www.zerillorealty.com/",
+ "email": "marketing@zerillorealty.com",
+ "opening_hours": "11:00-16:00",
+ "social": [
+  "https://www.facebook.com/ZerilloRealtyInc/"
+ ],
+ "schema_type": "RealEstateAgent",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/9442520137",
+ "osm": {
+  "type": "node",
+  "id": 9442520137,
+  "tags_used": {
+   "office": "estate_agent"
+  }
+ },
+ "municipality": "Norridge",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/zerillo-realty-norridge/",
+ "summary": "Zerillo Realty is a real estate agency in Norridge, IL at 4840 North Cumberland Avenue, Norridge, IL 60706. Phone: +17085838300. Website: https://www.zerillorealty.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

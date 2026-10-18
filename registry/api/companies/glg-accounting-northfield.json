@@ -1,0 +1,62 @@
+{
+ "slug": "glg-accounting-northfield",
+ "name": "GLG Accounting",
+ "categories": [
+  "accountant"
+ ],
+ "keywords": [
+  "accountant",
+  "accounting services",
+  "accountant northfield il",
+  "accounting services northfield il"
+ ],
+ "services": [
+  {
+   "name": "accountant",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "accounting services",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "400 Central Avenue #340B",
+  "addressLocality": "Northfield",
+  "addressRegion": "IL",
+  "postalCode": "60093",
+  "addressCountry": "US"
+ },
+ "city": "Northfield",
+ "state": "IL",
+ "zip": "60093",
+ "geo": {
+  "lat": 42.1033103,
+  "lon": -87.7710935
+ },
+ "website": "https://www.glgaccounting.com/",
+ "opening_hours": "Mo-Fr 09:00-17:00",
+ "schema_type": "AccountingService",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/4894524702",
+ "osm": {
+  "type": "node",
+  "id": 4894524702,
+  "tags_used": {
+   "office": "accountant"
+  }
+ },
+ "municipality": "Northfield",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/glg-accounting-northfield/",
+ "summary": "GLG Accounting is an accountant in Northfield, IL at 400 Central Avenue #340B, Northfield, IL 60093. Website: https://www.glgaccounting.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

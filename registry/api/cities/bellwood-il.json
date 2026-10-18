@@ -1,0 +1,149 @@
+{
+ "place": "Bellwood, IL",
+ "slug": "bellwood-il",
+ "count": 4,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "hair salon bellwood il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-bellwood-il.json"
+  },
+  {
+   "keyword": "haircut bellwood il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-bellwood-il.json"
+  },
+  {
+   "keyword": "liquor store bellwood il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/liquor-store-bellwood-il.json"
+  },
+  {
+   "keyword": "preschool bellwood il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/preschool-bellwood-il.json"
+  },
+  {
+   "keyword": "storage units bellwood il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/storage-units-bellwood-il.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "lincoln-primary-school-bellwood",
+   "name": "Lincoln Primary School",
+   "summary": "Lincoln Primary School is a preschool in Bellwood, IL at 3519 Wilcox Street, Bellwood, IL 60104. Website: https://sd88-ecc.edlioschool.com/.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lincoln-primary-school-bellwood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lincoln-primary-school-bellwood.json",
+   "address": {
+    "streetAddress": "3519 Wilcox Street",
+    "addressLocality": "Bellwood",
+    "addressRegion": "IL",
+    "postalCode": "60104",
+    "addressCountry": "US"
+   },
+   "city": "Bellwood",
+   "state": "IL",
+   "zip": "60104",
+   "geo": {
+    "lat": 41.8764592,
+    "lon": -87.8769143
+   },
+   "website": "https://sd88-ecc.edlioschool.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/738342411",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "cubesmart-bellwood",
+   "name": "CubeSmart",
+   "summary": "CubeSmart is a self-storage facility in Bellwood, IL at 2801 Harrison Street, Bellwood, IL 60104.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cubesmart-bellwood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cubesmart-bellwood.json",
+   "address": {
+    "streetAddress": "2801 Harrison Street",
+    "addressLocality": "Bellwood",
+    "addressRegion": "IL",
+    "postalCode": "60104",
+    "addressCountry": "US"
+   },
+   "city": "Bellwood",
+   "state": "IL",
+   "zip": "60104",
+   "geo": {
+    "lat": 41.8717958,
+    "lon": -87.8673209
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1320817932",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "crucial-kutz-bellwood",
+   "name": "Crucial Kutz",
+   "summary": "Crucial Kutz is a hair salon in Bellwood, IL.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/crucial-kutz-bellwood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/crucial-kutz-bellwood.json",
+   "address": {
+    "addressLocality": "Bellwood",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Bellwood",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8732286,
+    "lon": -87.8628839
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12654067118",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "prime-wine-and-spirits-bellwood",
+   "name": "Prime Wine & Spirits",
+   "summary": "Prime Wine & Spirits is a liquor store in Bellwood, IL.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/prime-wine-and-spirits-bellwood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/prime-wine-and-spirits-bellwood.json",
+   "address": {
+    "addressLocality": "Bellwood",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Bellwood",
+   "state": "IL",
+   "geo": {
+    "lat": 41.873301,
+    "lon": -87.8628866
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12654067115",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

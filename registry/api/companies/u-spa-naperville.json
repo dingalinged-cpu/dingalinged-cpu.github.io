@@ -1,0 +1,56 @@
+{
+ "slug": "u-spa-naperville",
+ "name": "U Spa",
+ "categories": [
+  "massage"
+ ],
+ "keywords": [
+  "massage",
+  "massage naperville il"
+ ],
+ "services": [
+  {
+   "name": "massage",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1220 West Ogden Avenue #A",
+  "addressLocality": "Naperville",
+  "addressRegion": "IL",
+  "postalCode": "60563",
+  "addressCountry": "US"
+ },
+ "city": "Naperville",
+ "state": "IL",
+ "zip": "60563",
+ "geo": {
+  "lat": 41.781329,
+  "lon": -88.1751591
+ },
+ "phone": "+16305506655",
+ "website": "https://uspailusa.wixsite.com/website",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/8519287308",
+ "osm": {
+  "type": "node",
+  "id": 8519287308,
+  "tags_used": {
+   "shop": "massage"
+  }
+ },
+ "municipality": "Naperville",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/u-spa-naperville/",
+ "summary": "U Spa is a massage studio in Naperville, IL at 1220 West Ogden Avenue #A, Naperville, IL 60563. Phone: +16305506655. Website: https://uspailusa.wixsite.com/website.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

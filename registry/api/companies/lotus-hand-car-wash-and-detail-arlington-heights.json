@@ -1,0 +1,56 @@
+{
+ "slug": "lotus-hand-car-wash-and-detail-arlington-heights",
+ "name": "Lotus Hand Car Wash And Detail",
+ "categories": [
+  "car wash"
+ ],
+ "keywords": [
+  "car wash",
+  "car wash arlington heights il"
+ ],
+ "services": [
+  {
+   "name": "car wash",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1915 South Arlington Heights Road",
+  "addressLocality": "Arlington Heights",
+  "addressRegion": "IL",
+  "postalCode": "60005",
+  "addressCountry": "US"
+ },
+ "city": "Arlington Heights",
+ "state": "IL",
+ "zip": "60005",
+ "geo": {
+  "lat": 42.0500717,
+  "lon": -87.9810267
+ },
+ "phone": "+12243231046",
+ "opening_hours": "Mo 09:00-18:00; Tu-Fr 09:00-17:30; Sa 10:30-17:00",
+ "schema_type": "AutoWash",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/13545067164",
+ "osm": {
+  "type": "node",
+  "id": 13545067164,
+  "tags_used": {
+   "amenity": "car_wash"
+  }
+ },
+ "municipality": "Arlington Heights",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/lotus-hand-car-wash-and-detail-arlington-heights/",
+ "summary": "Lotus Hand Car Wash And Detail is a car wash in Arlington Heights, IL at 1915 South Arlington Heights Road, Arlington Heights, IL 60005. Phone: +12243231046.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

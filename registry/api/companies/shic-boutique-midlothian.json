@@ -1,0 +1,58 @@
+{
+ "slug": "shic-boutique-midlothian",
+ "name": "Shic Boutique",
+ "categories": [
+  "nail salon"
+ ],
+ "keywords": [
+  "nail salon",
+  "nail salon midlothian il"
+ ],
+ "services": [
+  {
+   "name": "nail salon",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "14736 Pulaski Road",
+  "addressLocality": "Midlothian",
+  "addressRegion": "IL",
+  "postalCode": "60445",
+  "addressCountry": "US"
+ },
+ "city": "Midlothian",
+ "state": "IL",
+ "zip": "60445",
+ "geo": {
+  "lat": 41.624401,
+  "lon": -87.7178777
+ },
+ "phone": "+17088978067",
+ "website": "https://shicboutique.com/",
+ "opening_hours": "Tu-Fr 09:00-18:00; Sa 07:00-15:00",
+ "schema_type": "NailSalon",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/8113395849",
+ "osm": {
+  "type": "node",
+  "id": 8113395849,
+  "tags_used": {
+   "shop": "beauty",
+   "beauty": "nails"
+  }
+ },
+ "municipality": "Midlothian",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/shic-boutique-midlothian/",
+ "summary": "Shic Boutique is a nail salon in Midlothian, IL at 14736 Pulaski Road, Midlothian, IL 60445. Phone: +17088978067. Website: https://shicboutique.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

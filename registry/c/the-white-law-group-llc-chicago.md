@@ -1,0 +1,23 @@
+The White Law Group, LLC is a lawyer in Chicago, IL at 205 West Randolph Street, Chicago, IL 60606. Phone: +13122389650. Website: https://www.whitesecuritieslaw.com/.
+
+# The White Law Group, LLC
+
+- Category: lawyer
+- Services: lawyer, attorney
+- Address: 205 West Randolph Street, Chicago, IL 60606
+- City: Chicago
+- State: IL
+- ZIP: 60606
+- Coordinates: 41.8840475, -87.634266
+- Phone: +13122389650
+- Website: https://www.whitesecuritieslaw.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/the-white-law-group-llc-chicago/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-white-law-group-llc-chicago.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/2622842623 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

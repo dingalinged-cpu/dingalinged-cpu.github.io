@@ -1,0 +1,52 @@
+{
+ "slug": "second-city-eye-care-chicago",
+ "name": "Second City Eye Care",
+ "categories": [
+  "eye doctor"
+ ],
+ "keywords": [
+  "eye doctor",
+  "eye doctor chicago il"
+ ],
+ "services": [
+  {
+   "name": "eye doctor",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "geo": {
+  "lat": 41.9564964,
+  "lon": -87.680196
+ },
+ "opening_hours": "Mo 09:00-18:00; Tu,Th 10:00-19:00; We 09:00-14:00; Fr 09:00-17:00",
+ "schema_type": "Optician",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/11959072769",
+ "osm": {
+  "type": "node",
+  "id": 11959072769,
+  "tags_used": {
+   "healthcare": "optometrist"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/second-city-eye-care-chicago/",
+ "summary": "Second City Eye Care is an eye care practice in Chicago, IL.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

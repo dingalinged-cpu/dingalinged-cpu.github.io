@@ -12,9 +12,9 @@
   "affordable financial advisor the United States",
   "emergency financial advisor the United States"
  ],
- "answer": "The top unpaid financial advisor listing for the United States is Allodium Investment Consultants, LLC (a financial advisor in Minneapolis, MN at 500 South Washington Avenue ##4400, Minneapolis, MN 55415. Phone: +16122303700. Website: https://allodium.com/). 29 financial advisor businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "answer": "The top unpaid financial advisor listing for the United States is Allodium Investment Consultants, LLC (a financial advisor in Minneapolis, MN at 500 South Washington Avenue ##4400, Minneapolis, MN 55415. Phone: +16122303700. Website: https://allodium.com/). 83 financial advisor businesses are listed for the United States as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
  "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
- "updated": "2026-10-17",
+ "updated": "2026-10-18",
  "sponsored_slots": {
   "featured_1": "available",
   "spots_2_4_sold": 0
@@ -63,6 +63,41 @@
   {
    "position": 2,
    "sponsored": false,
+   "slug": "ameriprise-financial-warrenville",
+   "name": "Ameriprise Financial",
+   "summary": "Ameriprise Financial is a financial advisor in Warrenville, IL at 28381 Davis Parkway #703, Warrenville, IL 60555. Phone: +16309959836. Website: https://www.ameripriseadvisors.com/armand.d.prestidge/contact/.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ameriprise-financial-warrenville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ameriprise-financial-warrenville.json",
+   "address": {
+    "streetAddress": "28381 Davis Parkway #703",
+    "addressLocality": "Warrenville",
+    "addressRegion": "IL",
+    "postalCode": "60555",
+    "addressCountry": "US"
+   },
+   "city": "Warrenville",
+   "state": "IL",
+   "zip": "60555",
+   "geo": {
+    "lat": 41.8010915,
+    "lon": -88.1779285
+   },
+   "phone": "+16309959836",
+   "website": "https://www.ameripriseadvisors.com/armand.d.prestidge/contact/",
+   "opening_hours": "Mo-Th 09:00-18:00; Fr 09:00-16:00; Sa, Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8940134209",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
    "slug": "brighton-jones-edina",
    "name": "Brighton Jones",
    "summary": "Brighton Jones is a financial advisor in Edina, MN at 4951 West 77th Street, Edina, MN 55435. Phone: +16514614872. Website: https://www.brightonjones.com/locations/minneapolis.",
@@ -96,7 +131,147 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 3,
+   "position": 4,
+   "sponsored": false,
+   "slug": "charles-schwab-naperville",
+   "name": "Charles Schwab",
+   "summary": "Charles Schwab is a financial advisor in Naperville, IL at 19 West Chicago Avenue, Naperville, IL 60540. Phone: +16308486001. Website: https://client.schwab.com/public/branchlocator/branchdetails.aspx?branchid=1127.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/charles-schwab-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/charles-schwab-naperville.json",
+   "address": {
+    "streetAddress": "19 West Chicago Avenue",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60540",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60540",
+   "geo": {
+    "lat": 41.7716827,
+    "lon": -88.1486446
+   },
+   "phone": "+16308486001",
+   "website": "https://client.schwab.com/public/branchlocator/branchdetails.aspx?branchid=1127",
+   "opening_hours": "Mo-Fr 08:30-17:00; Sa, Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/201452154",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "chicagoland-1031-exchange-schaumburg",
+   "name": "Chicagoland 1031 Exchange",
+   "summary": "Chicagoland 1031 Exchange is a financial advisor in Schaumburg, IL at 1827 Walden Office Square #500, Schaumburg, IL 60173. Phone: +12242455281. Website: https://chicagoland1031exchange.com/.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chicagoland-1031-exchange-schaumburg/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chicagoland-1031-exchange-schaumburg.json",
+   "address": {
+    "streetAddress": "1827 Walden Office Square #500",
+    "addressLocality": "Schaumburg",
+    "addressRegion": "IL",
+    "postalCode": "60173",
+    "addressCountry": "US"
+   },
+   "city": "Schaumburg",
+   "state": "IL",
+   "zip": "60173",
+   "geo": {
+    "lat": 42.0626864,
+    "lon": -88.0344783
+   },
+   "phone": "+12242455281",
+   "website": "https://chicagoland1031exchange.com/",
+   "opening_hours": "Mo-Fr 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11192930161",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "edward-jones-naperville",
+   "name": "Edward Jones",
+   "summary": "Edward Jones is a financial advisor in Naperville, IL at 796 Royal Saint George Drive #105, Naperville, IL 60563. Phone: +16303692051. Website: https://www.edwardjones.com/us-en/financial-advisor/josh-mcbroom.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edward-jones-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edward-jones-naperville.json",
+   "address": {
+    "streetAddress": "796 Royal Saint George Drive #105",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60563",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60563",
+   "geo": {
+    "lat": 41.7844516,
+    "lon": -88.1635471
+   },
+   "phone": "+16303692051",
+   "website": "https://www.edwardjones.com/us-en/financial-advisor/josh-mcbroom",
+   "opening_hours": "Mo-Th 08:00-16:30; Fr 12:00-24:00; Sa, Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9044512060",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "edward-jones-naperville-w975861156",
+   "name": "Edward Jones",
+   "summary": "Edward Jones is a financial advisor in Naperville, IL at 2048 Aurora Avenue #116, Naperville, IL 60540. Phone: +16306370673. Website: https://www.edwardjones.com/us-en/financial-advisor/mike-pine.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edward-jones-naperville-w975861156/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edward-jones-naperville-w975861156.json",
+   "address": {
+    "streetAddress": "2048 Aurora Avenue #116",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60540",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60540",
+   "geo": {
+    "lat": 41.7640009,
+    "lon": -88.1881798
+   },
+   "phone": "+16306370673",
+   "website": "https://www.edwardjones.com/us-en/financial-advisor/mike-pine",
+   "opening_hours": "Mo-Th 07:30-17:00; Fr 07:30-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/975861156",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
    "sponsored": false,
    "slug": "fidelity-investments-edina",
    "name": "Fidelity Investments",
@@ -131,7 +306,182 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 4,
+   "position": 9,
+   "sponsored": false,
+   "slug": "fortitude-capital-management-glen-ellyn",
+   "name": "Fortitude Capital Management",
+   "summary": "Fortitude Capital Management is a financial advisor in Glen Ellyn, IL at 800 Roosevelt Road ##B413, Glen Ellyn, IL 60137. Phone: +16305452800. Website: https://fortitudecapitalmgmt.com/.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fortitude-capital-management-glen-ellyn/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fortitude-capital-management-glen-ellyn.json",
+   "address": {
+    "streetAddress": "800 Roosevelt Road ##B413",
+    "addressLocality": "Glen Ellyn",
+    "addressRegion": "IL",
+    "postalCode": "60137",
+    "addressCountry": "US"
+   },
+   "city": "Glen Ellyn",
+   "state": "IL",
+   "zip": "60137",
+   "geo": {
+    "lat": 41.8615802,
+    "lon": -88.0554691
+   },
+   "phone": "+16305452800",
+   "website": "https://fortitudecapitalmgmt.com/",
+   "opening_hours": "Mo-Fr 09:00-17:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11458804899",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "j-p-cannata-and-associates-roselle",
+   "name": "J.P. Cannata & Associates",
+   "summary": "J.P. Cannata & Associates is a financial advisor in Roselle, IL at 25 East Main Street #202, Roselle, IL 60172. Phone: +18473180700. Website: https://jpcannata.com/.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/j-p-cannata-and-associates-roselle/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/j-p-cannata-and-associates-roselle.json",
+   "address": {
+    "streetAddress": "25 East Main Street #202",
+    "addressLocality": "Roselle",
+    "addressRegion": "IL",
+    "postalCode": "60172",
+    "addressCountry": "US"
+   },
+   "city": "Roselle",
+   "state": "IL",
+   "zip": "60172",
+   "geo": {
+    "lat": 41.9834908,
+    "lon": -88.0791372
+   },
+   "phone": "+18473180700",
+   "website": "https://jpcannata.com/",
+   "opening_hours": "Mo-Fr 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7401678941",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 11,
+   "sponsored": false,
+   "slug": "sunny-financial-strategies-schaumburg",
+   "name": "Sunny Financial Strategies",
+   "summary": "Sunny Financial Strategies is a financial advisor in Schaumburg, IL at 475 North Martingale Road #1250, Schaumburg, IL 60173. Phone: +18474149116. Website: https://sunnyfinancial.com/.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sunny-financial-strategies-schaumburg/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sunny-financial-strategies-schaumburg.json",
+   "address": {
+    "streetAddress": "475 North Martingale Road #1250",
+    "addressLocality": "Schaumburg",
+    "addressRegion": "IL",
+    "postalCode": "60173",
+    "addressCountry": "US"
+   },
+   "city": "Schaumburg",
+   "state": "IL",
+   "zip": "60173",
+   "geo": {
+    "lat": 42.0366158,
+    "lon": -88.0364984
+   },
+   "phone": "+18474149116",
+   "website": "https://sunnyfinancial.com/",
+   "opening_hours": "Mo-Th 09:00-20:00; Fr 09:00-17:00; Sa 10:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11303916951",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 12,
+   "sponsored": false,
+   "slug": "the-401k-man-com-chicago",
+   "name": "The 401K man.com",
+   "summary": "The 401K man.com is a financial advisor in Chicago, IL at 107 West Van Buren Street, Chicago, IL 60605. Phone: +18777750812. Website: https://www.the401kman.com/.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-401k-man-com-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-401k-man-com-chicago.json",
+   "address": {
+    "streetAddress": "107 West Van Buren Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60605",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60605",
+   "geo": {
+    "lat": 41.8765942,
+    "lon": -87.6311696
+   },
+   "phone": "+18777750812",
+   "website": "https://www.the401kman.com/",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6548296980",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
+   "sponsored": false,
+   "slug": "walled-lake-planning-and-wealth-management-highland-park",
+   "name": "Walled Lake Planning & Wealth Management",
+   "summary": "Walled Lake Planning & Wealth Management is a financial advisor in Highland Park, IL at 600 Elm Place, Highland Park, IL 60035. Phone: +18476162590. Website: https://wlpwm.com/.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/walled-lake-planning-and-wealth-management-highland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/walled-lake-planning-and-wealth-management-highland-park.json",
+   "address": {
+    "streetAddress": "600 Elm Place",
+    "addressLocality": "Highland Park",
+    "addressRegion": "IL",
+    "postalCode": "60035",
+    "addressCountry": "US"
+   },
+   "city": "Highland Park",
+   "state": "IL",
+   "zip": "60035",
+   "geo": {
+    "lat": 42.1872964,
+    "lon": -87.8019443
+   },
+   "phone": "+18476162590",
+   "website": "https://wlpwm.com/",
+   "opening_hours": "Mo-Fr 08:30-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11972595019",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 14,
    "sponsored": false,
    "slug": "ameriprise-financial-golden-valley",
    "name": "Ameriprise Financial",
@@ -165,7 +515,41 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 5,
+   "position": 15,
+   "sponsored": false,
+   "slug": "ameriprise-financial-warrenville-n8940134218",
+   "name": "Ameriprise Financial",
+   "summary": "Ameriprise Financial is a financial advisor in Warrenville, IL at 28377 Davis Parkway #601, Warrenville, IL 60555. Phone: +16302254650. Website: https://www.ameripriseadvisors.com/team/ascent-financial-partners/.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ameriprise-financial-warrenville-n8940134218/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ameriprise-financial-warrenville-n8940134218.json",
+   "address": {
+    "streetAddress": "28377 Davis Parkway #601",
+    "addressLocality": "Warrenville",
+    "addressRegion": "IL",
+    "postalCode": "60555",
+    "addressCountry": "US"
+   },
+   "city": "Warrenville",
+   "state": "IL",
+   "zip": "60555",
+   "geo": {
+    "lat": 41.800815,
+    "lon": -88.177036
+   },
+   "phone": "+16302254650",
+   "website": "https://www.ameripriseadvisors.com/team/ascent-financial-partners/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8940134218",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 16,
    "sponsored": false,
    "slug": "diversified-wealth-management-llc-saint-louis-park",
    "name": "Diversified Wealth Management LLC",
@@ -199,7 +583,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 6,
+   "position": 17,
    "sponsored": false,
    "slug": "edward-jones-roseville",
    "name": "Edward Jones",
@@ -233,7 +617,41 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 7,
+   "position": 18,
+   "sponsored": false,
+   "slug": "edward-jones-western-springs-n9603258149",
+   "name": "Edward Jones",
+   "summary": "Edward Jones is a financial advisor in Western Springs, IL at 702 Hillgrove Avenue, Western Springs, IL 60558. Phone: +17085054097. Website: https://www.edwardjones.com/us-en/financial-advisor/todd-nyberg.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edward-jones-western-springs-n9603258149/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edward-jones-western-springs-n9603258149.json",
+   "address": {
+    "streetAddress": "702 Hillgrove Avenue",
+    "addressLocality": "Western Springs",
+    "addressRegion": "IL",
+    "postalCode": "60558",
+    "addressCountry": "US"
+   },
+   "city": "Western Springs",
+   "state": "IL",
+   "zip": "60558",
+   "geo": {
+    "lat": 41.8102477,
+    "lon": -87.8977002
+   },
+   "phone": "+17085054097",
+   "website": "https://www.edwardjones.com/us-en/financial-advisor/todd-nyberg",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9603258149",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 19,
    "sponsored": false,
    "slug": "karp-financial-advisors-inc-saint-paul",
    "name": "Karp Financial Advisors Inc",
@@ -267,7 +685,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 8,
+   "position": 20,
    "sponsored": false,
    "slug": "kusske-financial-burnsville",
    "name": "Kusske Financial",
@@ -301,7 +719,41 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 9,
+   "position": 21,
+   "sponsored": false,
+   "slug": "mowery-and-schoenfeld-wealth-management-lake-forest",
+   "name": "Mowery & Schoenfeld Wealth Management",
+   "summary": "Mowery & Schoenfeld Wealth Management is a financial advisor in Lake Forest, IL at 550 Oakwood Avenue, Lake Forest, IL 60045. Phone: +18476151555. Website: https://www.msllcwealth.com/.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mowery-and-schoenfeld-wealth-management-lake-forest/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mowery-and-schoenfeld-wealth-management-lake-forest.json",
+   "address": {
+    "streetAddress": "550 Oakwood Avenue",
+    "addressLocality": "Lake Forest",
+    "addressRegion": "IL",
+    "postalCode": "60045",
+    "addressCountry": "US"
+   },
+   "city": "Lake Forest",
+   "state": "IL",
+   "zip": "60045",
+   "geo": {
+    "lat": 42.2498021,
+    "lon": -87.8419661
+   },
+   "phone": "+18476151555",
+   "website": "https://www.msllcwealth.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1509807539",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 22,
    "sponsored": false,
    "slug": "north-star-resource-group-minneapolis",
    "name": "North Star Resource Group",
@@ -335,7 +787,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 10,
+   "position": 23,
    "sponsored": false,
    "slug": "secured-retirement-saint-louis-park",
    "name": "Secured Retirement",
@@ -369,7 +821,138 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 11,
+   "position": 24,
+   "sponsored": false,
+   "slug": "millington-financial-advisors-naperville",
+   "name": "Millington Financial Advisors",
+   "summary": "Millington Financial Advisors is a financial advisor in Naperville, IL at 222 South Mill Street, Naperville, IL. Phone: +16309227900. Website: https://www.millingtonfa.com/.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/millington-financial-advisors-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/millington-financial-advisors-naperville.json",
+   "address": {
+    "streetAddress": "222 South Mill Street",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7725289,
+    "lon": -88.154496
+   },
+   "phone": "+16309227900",
+   "website": "https://www.millingtonfa.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 15.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9217000172",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 25,
+   "sponsored": false,
+   "slug": "charles-schwab-lake-zurich",
+   "name": "Charles Schwab",
+   "summary": "Charles Schwab is a financial advisor in Lake Zurich, IL at 430 Rand Road #140, Lake Zurich, IL 60047. Phone: +18477198260.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/charles-schwab-lake-zurich/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/charles-schwab-lake-zurich.json",
+   "address": {
+    "streetAddress": "430 Rand Road #140",
+    "addressLocality": "Lake Zurich",
+    "addressRegion": "IL",
+    "postalCode": "60047",
+    "addressCountry": "US"
+   },
+   "city": "Lake Zurich",
+   "state": "IL",
+   "zip": "60047",
+   "geo": {
+    "lat": 42.1912367,
+    "lon": -88.1071738
+   },
+   "phone": "+18477198260",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12569824297",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 26,
+   "sponsored": false,
+   "slug": "edward-jones-homer-glen",
+   "name": "Edward Jones",
+   "summary": "Edward Jones is a financial advisor in Homer Glen, IL at 13201 West 143rd Street, Homer Glen, IL 60491. Website: https://www.edwardjones.com/.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edward-jones-homer-glen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edward-jones-homer-glen.json",
+   "address": {
+    "streetAddress": "13201 West 143rd Street",
+    "addressLocality": "Homer Glen",
+    "addressRegion": "IL",
+    "postalCode": "60491",
+    "addressCountry": "US"
+   },
+   "city": "Homer Glen",
+   "state": "IL",
+   "zip": "60491",
+   "geo": {
+    "lat": 41.6285716,
+    "lon": -87.9411264
+   },
+   "website": "https://www.edwardjones.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11126901191",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 27,
+   "sponsored": false,
+   "slug": "edward-jones-park-ridge-n13712910682",
+   "name": "Edward Jones",
+   "summary": "Edward Jones is a financial advisor in Park Ridge, IL at 131 North Northwest Highway, Park Ridge, IL 60068. Website: https://www.edwardjones.com/us-en/financial-advisor/jeffrey-larsen.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edward-jones-park-ridge-n13712910682/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edward-jones-park-ridge-n13712910682.json",
+   "address": {
+    "streetAddress": "131 North Northwest Highway",
+    "addressLocality": "Park Ridge",
+    "addressRegion": "IL",
+    "postalCode": "60068",
+    "addressCountry": "US"
+   },
+   "city": "Park Ridge",
+   "state": "IL",
+   "zip": "60068",
+   "geo": {
+    "lat": 42.0127806,
+    "lon": -87.8317059
+   },
+   "website": "https://www.edwardjones.com/us-en/financial-advisor/jeffrey-larsen",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13712910682",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 28,
    "sponsored": false,
    "slug": "edward-jones-saint-louis-park",
    "name": "Edward Jones",
@@ -402,7 +985,73 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 12,
+   "position": 29,
+   "sponsored": false,
+   "slug": "edward-jones-western-springs",
+   "name": "Edward Jones",
+   "summary": "Edward Jones is a financial advisor in Western Springs, IL at 822 Hillgrove Avenue, Western Springs, IL 60558. Phone: +17082462802.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edward-jones-western-springs/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edward-jones-western-springs.json",
+   "address": {
+    "streetAddress": "822 Hillgrove Avenue",
+    "addressLocality": "Western Springs",
+    "addressRegion": "IL",
+    "postalCode": "60558",
+    "addressCountry": "US"
+   },
+   "city": "Western Springs",
+   "state": "IL",
+   "zip": "60558",
+   "geo": {
+    "lat": 41.8098115,
+    "lon": -87.8997518
+   },
+   "phone": "+17082462802",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9603226071",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 30,
+   "sponsored": false,
+   "slug": "fidelity-investments-naperville",
+   "name": "Fidelity Investments",
+   "summary": "Fidelity Investments is a financial advisor in Naperville, IL at 1823 Freedom Drive, Naperville, IL 60563. Website: https://www.fidelity.com/branches/investor-center-naperville-illinois-60563.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fidelity-investments-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fidelity-investments-naperville.json",
+   "address": {
+    "streetAddress": "1823 Freedom Drive",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60563",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60563",
+   "geo": {
+    "lat": 41.8039976,
+    "lon": -88.1275959
+   },
+   "website": "https://www.fidelity.com/branches/investor-center-naperville-illinois-60563",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/387423777",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 31,
    "sponsored": false,
    "slug": "o-brien-staley-partners-edina",
    "name": "O’Brien-Staley Partners",
@@ -435,7 +1084,40 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 13,
+   "position": 32,
+   "sponsored": false,
+   "slug": "pmg-wealth-management-hawthorn-woods",
+   "name": "PMG Wealth Management",
+   "summary": "PMG Wealth Management is a financial advisor in Hawthorn Woods, IL at 60 Landover Parkway #D, Hawthorn Woods, IL 60047. Website: https://pmgwealth.com/.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pmg-wealth-management-hawthorn-woods/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pmg-wealth-management-hawthorn-woods.json",
+   "address": {
+    "streetAddress": "60 Landover Parkway #D",
+    "addressLocality": "Hawthorn Woods",
+    "addressRegion": "IL",
+    "postalCode": "60047",
+    "addressCountry": "US"
+   },
+   "city": "Hawthorn Woods",
+   "state": "IL",
+   "zip": "60047",
+   "geo": {
+    "lat": 42.2225496,
+    "lon": -88.0669292
+   },
+   "website": "https://pmgwealth.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7835973616",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 33,
    "sponsored": false,
    "slug": "private-capital-management-inc-saint-paul",
    "name": "Private Capital Management, Inc.",
@@ -468,7 +1150,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 14,
+   "position": 34,
    "sponsored": false,
    "slug": "stairway-partners-minneapolis",
    "name": "Stairway Partners",
@@ -501,7 +1183,73 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 15,
+   "position": 35,
+   "sponsored": false,
+   "slug": "the-princeton-group-arlington-heights",
+   "name": "The Princeton Group",
+   "summary": "The Princeton Group is a financial advisor in Arlington Heights, IL at 150 West Campbell Street, Arlington Heights, IL 60005. Website: https://www.theprincetongrp.com/.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-princeton-group-arlington-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-princeton-group-arlington-heights.json",
+   "address": {
+    "streetAddress": "150 West Campbell Street",
+    "addressLocality": "Arlington Heights",
+    "addressRegion": "IL",
+    "postalCode": "60005",
+    "addressCountry": "US"
+   },
+   "city": "Arlington Heights",
+   "state": "IL",
+   "zip": "60005",
+   "geo": {
+    "lat": 42.0829626,
+    "lon": -87.9850574
+   },
+   "website": "https://www.theprincetongrp.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12999743115",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 36,
+   "sponsored": false,
+   "slug": "thrivent-wauconda",
+   "name": "Thrivent",
+   "summary": "Thrivent is a financial advisor in Wauconda, IL at 110B North Main Street #E, Wauconda, IL 60084. Website: https://connect.thrivent.com/jaime-davison.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/thrivent-wauconda/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/thrivent-wauconda.json",
+   "address": {
+    "streetAddress": "110B North Main Street #E",
+    "addressLocality": "Wauconda",
+    "addressRegion": "IL",
+    "postalCode": "60084",
+    "addressCountry": "US"
+   },
+   "city": "Wauconda",
+   "state": "IL",
+   "zip": "60084",
+   "geo": {
+    "lat": 42.2605945,
+    "lon": -88.1412777
+   },
+   "website": "https://connect.thrivent.com/jaime-davison",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9712795488",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 37,
    "sponsored": false,
    "slug": "edward-jones-new-brighton",
    "name": "Edward Jones",
@@ -532,7 +1280,40 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 16,
+   "position": 38,
+   "sponsored": false,
+   "slug": "fidelity-investments-highland-park",
+   "name": "Fidelity Investments",
+   "summary": "Fidelity Investments is a financial advisor in Highland Park, IL at 1 Skokie Valley Road, Highland Park, IL 60035.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fidelity-investments-highland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fidelity-investments-highland-park.json",
+   "address": {
+    "streetAddress": "1 Skokie Valley Road",
+    "addressLocality": "Highland Park",
+    "addressRegion": "IL",
+    "postalCode": "60035",
+    "addressCountry": "US"
+   },
+   "city": "Highland Park",
+   "state": "IL",
+   "zip": "60035",
+   "geo": {
+    "lat": 42.1529649,
+    "lon": -87.8014979
+   },
+   "opening_hours": "Mo-Fr 08:30-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/115225017",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 39,
    "sponsored": false,
    "slug": "edward-jones-edina",
    "name": "Edward Jones",
@@ -562,7 +1343,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 17,
+   "position": 40,
    "sponsored": false,
    "slug": "alerus-eden-prairie",
    "name": "Alerus",
@@ -594,7 +1375,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 18,
+   "position": 41,
    "sponsored": false,
    "slug": "cetera-advisors-chanhassen",
    "name": "Cetera Advisors",
@@ -626,7 +1407,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 19,
+   "position": 42,
    "sponsored": false,
    "slug": "charles-schwab-eden-prairie",
    "name": "Charles Schwab",
@@ -658,7 +1439,71 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 20,
+   "position": 43,
+   "sponsored": false,
+   "slug": "charles-schwab-orland-park",
+   "name": "Charles Schwab",
+   "summary": "Charles Schwab is a financial advisor in Orland Park, IL at 14225 South 95th Avenue #422, Orland Park, IL 60462.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/charles-schwab-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/charles-schwab-orland-park.json",
+   "address": {
+    "streetAddress": "14225 South 95th Avenue #422",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60462",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60462",
+   "geo": {
+    "lat": 41.6315018,
+    "lon": -87.8506562
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12363237781",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 44,
+   "sponsored": false,
+   "slug": "charles-schwab-winnetka",
+   "name": "Charles Schwab",
+   "summary": "Charles Schwab is a financial advisor in Winnetka, IL at 598 Green Bay Road, Winnetka, IL 60093.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/charles-schwab-winnetka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/charles-schwab-winnetka.json",
+   "address": {
+    "streetAddress": "598 Green Bay Road",
+    "addressLocality": "Winnetka",
+    "addressRegion": "IL",
+    "postalCode": "60093",
+    "addressCountry": "US"
+   },
+   "city": "Winnetka",
+   "state": "IL",
+   "zip": "60093",
+   "geo": {
+    "lat": 42.1075175,
+    "lon": -87.7358449
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12599343551",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 45,
    "sponsored": false,
    "slug": "edward-jones-chaska",
    "name": "Edward Jones",
@@ -690,7 +1535,103 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 21,
+   "position": 46,
+   "sponsored": false,
+   "slug": "edward-jones-chicago",
+   "name": "Edward Jones",
+   "summary": "Edward Jones is a financial advisor in Chicago, IL at 1390 East Hyde Park Boulevard, Chicago, IL 60615.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edward-jones-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edward-jones-chicago.json",
+   "address": {
+    "streetAddress": "1390 East Hyde Park Boulevard",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60615",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60615",
+   "geo": {
+    "lat": 41.8025735,
+    "lon": -87.5920569
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11681936890",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 47,
+   "sponsored": false,
+   "slug": "edward-jones-chicago-n12749008918",
+   "name": "Edward Jones",
+   "summary": "Edward Jones is a financial advisor in Chicago, IL at 306 South Jefferson Street, Chicago, IL 60661.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edward-jones-chicago-n12749008918/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edward-jones-chicago-n12749008918.json",
+   "address": {
+    "streetAddress": "306 South Jefferson Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60661",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60661",
+   "geo": {
+    "lat": 41.8776718,
+    "lon": -87.6427114
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12749008918",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 48,
+   "sponsored": false,
+   "slug": "edward-jones-chicago-w1426741321",
+   "name": "Edward Jones",
+   "summary": "Edward Jones is a financial advisor in Chicago, IL at 5405 West Devon Avenue, Chicago, IL 60646.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edward-jones-chicago-w1426741321/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edward-jones-chicago-w1426741321.json",
+   "address": {
+    "streetAddress": "5405 West Devon Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60646",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60646",
+   "geo": {
+    "lat": 41.9971109,
+    "lon": -87.7641574
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1426741321",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 49,
    "sponsored": false,
    "slug": "edward-jones-coon-rapids",
    "name": "Edward Jones",
@@ -722,7 +1663,135 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 22,
+   "position": 50,
+   "sponsored": false,
+   "slug": "edward-jones-homer-glen-n11158136535",
+   "name": "Edward Jones",
+   "summary": "Edward Jones is a financial advisor in Homer Glen, IL at 15915 Crystal Creek Drive, Homer Glen, IL 60491.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edward-jones-homer-glen-n11158136535/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edward-jones-homer-glen-n11158136535.json",
+   "address": {
+    "streetAddress": "15915 Crystal Creek Drive",
+    "addressLocality": "Homer Glen",
+    "addressRegion": "IL",
+    "postalCode": "60491",
+    "addressCountry": "US"
+   },
+   "city": "Homer Glen",
+   "state": "IL",
+   "zip": "60491",
+   "geo": {
+    "lat": 41.5996678,
+    "lon": -87.9164358
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11158136535",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 51,
+   "sponsored": false,
+   "slug": "edward-jones-niles",
+   "name": "Edward Jones",
+   "summary": "Edward Jones is a financial advisor in Niles, IL at 8204 Oakton Street, Niles, IL 60714.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edward-jones-niles/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edward-jones-niles.json",
+   "address": {
+    "streetAddress": "8204 Oakton Street",
+    "addressLocality": "Niles",
+    "addressRegion": "IL",
+    "postalCode": "60714",
+    "addressCountry": "US"
+   },
+   "city": "Niles",
+   "state": "IL",
+   "zip": "60714",
+   "geo": {
+    "lat": 42.0260283,
+    "lon": -87.8300624
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6433474931",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 52,
+   "sponsored": false,
+   "slug": "edward-jones-niles-n10943454854",
+   "name": "Edward Jones",
+   "summary": "Edward Jones is a financial advisor in Niles, IL at 7333 North Harlem Avenue, Niles, IL 60714.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edward-jones-niles-n10943454854/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edward-jones-niles-n10943454854.json",
+   "address": {
+    "streetAddress": "7333 North Harlem Avenue",
+    "addressLocality": "Niles",
+    "addressRegion": "IL",
+    "postalCode": "60714",
+    "addressCountry": "US"
+   },
+   "city": "Niles",
+   "state": "IL",
+   "zip": "60714",
+   "geo": {
+    "lat": 42.0144697,
+    "lon": -87.806165
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10943454854",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 53,
+   "sponsored": false,
+   "slug": "edward-jones-park-ridge",
+   "name": "Edward Jones",
+   "summary": "Edward Jones is a financial advisor in Park Ridge, IL at 310 Higgins Road, Park Ridge, IL 60068.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edward-jones-park-ridge/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edward-jones-park-ridge.json",
+   "address": {
+    "streetAddress": "310 Higgins Road",
+    "addressLocality": "Park Ridge",
+    "addressRegion": "IL",
+    "postalCode": "60068",
+    "addressCountry": "US"
+   },
+   "city": "Park Ridge",
+   "state": "IL",
+   "zip": "60068",
+   "geo": {
+    "lat": 41.9851868,
+    "lon": -87.8271737
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8095763827",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 54,
    "sponsored": false,
    "slug": "edward-jones-saint-paul-n1313774018",
    "name": "Edward Jones",
@@ -754,7 +1823,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 23,
+   "position": 55,
    "sponsored": false,
    "slug": "edward-jones-saint-paul-n8920889296",
    "name": "Edward Jones",
@@ -786,7 +1855,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 24,
+   "position": 56,
    "sponsored": false,
    "slug": "edward-jones-shakopee",
    "name": "Edward Jones",
@@ -818,7 +1887,231 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 25,
+   "position": 57,
+   "sponsored": false,
+   "slug": "edward-jones-skokie",
+   "name": "Edward Jones",
+   "summary": "Edward Jones is a financial advisor in Skokie, IL at 7937 Lincoln Avenue, Skokie, IL 60077.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edward-jones-skokie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edward-jones-skokie.json",
+   "address": {
+    "streetAddress": "7937 Lincoln Avenue",
+    "addressLocality": "Skokie",
+    "addressRegion": "IL",
+    "postalCode": "60077",
+    "addressCountry": "US"
+   },
+   "city": "Skokie",
+   "state": "IL",
+   "zip": "60077",
+   "geo": {
+    "lat": 42.0256918,
+    "lon": -87.7549093
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6573741093",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 58,
+   "sponsored": false,
+   "slug": "edward-jones-wauconda",
+   "name": "Edward Jones",
+   "summary": "Edward Jones is a financial advisor in Wauconda, IL at 121 North Main Street, Wauconda, IL 60084.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edward-jones-wauconda/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edward-jones-wauconda.json",
+   "address": {
+    "streetAddress": "121 North Main Street",
+    "addressLocality": "Wauconda",
+    "addressRegion": "IL",
+    "postalCode": "60084",
+    "addressCountry": "US"
+   },
+   "city": "Wauconda",
+   "state": "IL",
+   "zip": "60084",
+   "geo": {
+    "lat": 42.2604358,
+    "lon": -88.1421485
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/445243993",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 59,
+   "sponsored": false,
+   "slug": "fidelity-investments-evanston",
+   "name": "Fidelity Investments",
+   "summary": "Fidelity Investments is a financial advisor in Evanston, IL at 808 Church Street, Evanston, IL 60201.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fidelity-investments-evanston/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fidelity-investments-evanston.json",
+   "address": {
+    "streetAddress": "808 Church Street",
+    "addressLocality": "Evanston",
+    "addressRegion": "IL",
+    "postalCode": "60201",
+    "addressCountry": "US"
+   },
+   "city": "Evanston",
+   "state": "IL",
+   "zip": "60201",
+   "geo": {
+    "lat": 42.0482964,
+    "lon": -87.6825755
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2295226718",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 60,
+   "sponsored": false,
+   "slug": "fidelity-investments-orland-park",
+   "name": "Fidelity Investments",
+   "summary": "Fidelity Investments is a financial advisor in Orland Park, IL at 15105 South La Grange Road, Orland Park, IL 60462.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fidelity-investments-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fidelity-investments-orland-park.json",
+   "address": {
+    "streetAddress": "15105 South La Grange Road",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60462",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60462",
+   "geo": {
+    "lat": 41.6156249,
+    "lon": -87.8528436
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12360330548",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 61,
+   "sponsored": false,
+   "slug": "fidelity-investments-schaumburg",
+   "name": "Fidelity Investments",
+   "summary": "Fidelity Investments is a financial advisor in Schaumburg, IL at 1572 East Golf Road, Schaumburg, IL 60173.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fidelity-investments-schaumburg/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fidelity-investments-schaumburg.json",
+   "address": {
+    "streetAddress": "1572 East Golf Road",
+    "addressLocality": "Schaumburg",
+    "addressRegion": "IL",
+    "postalCode": "60173",
+    "addressCountry": "US"
+   },
+   "city": "Schaumburg",
+   "state": "IL",
+   "zip": "60173",
+   "geo": {
+    "lat": 42.0519862,
+    "lon": -88.0309421
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11589877974",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 62,
+   "sponsored": false,
+   "slug": "merrill-lynch-wealth-management-chicago",
+   "name": "Merrill Lynch Wealth Management",
+   "summary": "Merrill Lynch Wealth Management is a financial advisor in Chicago, IL at 1750-1754 North Clybourn Avenue, Chicago, IL 60642.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/merrill-lynch-wealth-management-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/merrill-lynch-wealth-management-chicago.json",
+   "address": {
+    "streetAddress": "1750-1754 North Clybourn Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60642",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60642",
+   "geo": {
+    "lat": 41.9127624,
+    "lon": -87.6525429
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/210318663",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 63,
+   "sponsored": false,
+   "slug": "the-hobson-financial-group-whiting",
+   "name": "The Hobson Financial Group",
+   "summary": "The Hobson Financial Group is a financial advisor in Whiting, IN at 1306 119th Street, Whiting, IN 46394.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-hobson-financial-group-whiting/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-hobson-financial-group-whiting.json",
+   "address": {
+    "streetAddress": "1306 119th Street",
+    "addressLocality": "Whiting",
+    "addressRegion": "IN",
+    "postalCode": "46394",
+    "addressCountry": "US"
+   },
+   "city": "Whiting",
+   "state": "IN",
+   "zip": "46394",
+   "geo": {
+    "lat": 41.6790847,
+    "lon": -87.4975628
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1232071688",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 64,
    "sponsored": false,
    "slug": "thrivent-shakopee",
    "name": "Thrivent",
@@ -850,7 +2143,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 26,
+   "position": 65,
    "sponsored": false,
    "slug": "wealth-guidance-chanhassen",
    "name": "Wealth Guidance",
@@ -882,7 +2175,37 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 27,
+   "position": 66,
+   "sponsored": false,
+   "slug": "edward-jones-elmhurst",
+   "name": "Edward Jones",
+   "summary": "Edward Jones is a financial advisor in Elmhurst, IL at 275 North York Street #101, Elmhurst, IL.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edward-jones-elmhurst/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edward-jones-elmhurst.json",
+   "address": {
+    "streetAddress": "275 North York Street #101",
+    "addressLocality": "Elmhurst",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Elmhurst",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9056992,
+    "lon": -87.9396643
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13910529962",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 67,
    "sponsored": false,
    "slug": "ameriprise-financial-new-brighton",
    "name": "Ameriprise Financial",
@@ -911,7 +2234,297 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 28,
+   "position": 68,
+   "sponsored": false,
+   "slug": "charles-schwab-chicago",
+   "name": "Charles Schwab",
+   "summary": "Charles Schwab is a financial advisor in Chicago, IL.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/charles-schwab-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/charles-schwab-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8795123,
+    "lon": -87.6372593
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10945008438",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 69,
+   "sponsored": false,
+   "slug": "charles-schwab-chicago-n13574784327",
+   "name": "Charles Schwab",
+   "summary": "Charles Schwab is a financial advisor in Chicago, IL.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/charles-schwab-chicago-n13574784327/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/charles-schwab-chicago-n13574784327.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9112689,
+    "lon": -87.6493085
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13574784327",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 70,
+   "sponsored": false,
+   "slug": "charles-schwab-schaumburg",
+   "name": "Charles Schwab",
+   "summary": "Charles Schwab is a financial advisor in Schaumburg, IL.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/charles-schwab-schaumburg/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/charles-schwab-schaumburg.json",
+   "address": {
+    "addressLocality": "Schaumburg",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Schaumburg",
+   "state": "IL",
+   "geo": {
+    "lat": 42.0499618,
+    "lon": -88.0445316
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13033832481",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 71,
+   "sponsored": false,
+   "slug": "charles-schwab-south-barrington",
+   "name": "Charles Schwab",
+   "summary": "Charles Schwab is a financial advisor in South Barrington, IL.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/charles-schwab-south-barrington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/charles-schwab-south-barrington.json",
+   "address": {
+    "addressLocality": "South Barrington",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "South Barrington",
+   "state": "IL",
+   "geo": {
+    "lat": 42.0767008,
+    "lon": -88.1891572
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11403480460",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 72,
+   "sponsored": false,
+   "slug": "edward-jones-arlington-heights",
+   "name": "Edward Jones",
+   "summary": "Edward Jones is a financial advisor in Arlington Heights, IL.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edward-jones-arlington-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edward-jones-arlington-heights.json",
+   "address": {
+    "addressLocality": "Arlington Heights",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Arlington Heights",
+   "state": "IL",
+   "geo": {
+    "lat": 42.0817446,
+    "lon": -87.9833194
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13004844977",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 73,
+   "sponsored": false,
+   "slug": "edward-jones-brookfield",
+   "name": "Edward Jones",
+   "summary": "Edward Jones is a financial advisor in Brookfield, IL.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edward-jones-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edward-jones-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8285142,
+    "lon": -87.8506874
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9793717295",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 74,
+   "sponsored": false,
+   "slug": "edward-jones-elk-grove-village",
+   "name": "Edward Jones",
+   "summary": "Edward Jones is a financial advisor in Elk Grove Village, IL.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edward-jones-elk-grove-village/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edward-jones-elk-grove-village.json",
+   "address": {
+    "addressLocality": "Elk Grove Village",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Elk Grove Village",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9998421,
+    "lon": -88.043267
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13998997487",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 75,
+   "sponsored": false,
+   "slug": "edward-jones-la-grange",
+   "name": "Edward Jones",
+   "summary": "Edward Jones is a financial advisor in La Grange, IL.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edward-jones-la-grange/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edward-jones-la-grange.json",
+   "address": {
+    "addressLocality": "La Grange",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "La Grange",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8134672,
+    "lon": -87.8791193
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8944618107",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 76,
+   "sponsored": false,
+   "slug": "edward-jones-la-grange-park",
+   "name": "Edward Jones",
+   "summary": "Edward Jones is a financial advisor in La Grange Park, IL.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edward-jones-la-grange-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edward-jones-la-grange-park.json",
+   "address": {
+    "addressLocality": "La Grange Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "La Grange Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8227961,
+    "lon": -87.8698232
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9731074108",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 77,
+   "sponsored": false,
+   "slug": "edward-jones-morton-grove",
+   "name": "Edward Jones",
+   "summary": "Edward Jones is a financial advisor in Morton Grove, IL.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edward-jones-morton-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edward-jones-morton-grove.json",
+   "address": {
+    "addressLocality": "Morton Grove",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Morton Grove",
+   "state": "IL",
+   "geo": {
+    "lat": 42.040609,
+    "lon": -87.7743044
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6334526127",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 78,
    "sponsored": false,
    "slug": "edward-jones-saint-paul",
    "name": "Edward Jones",
@@ -940,7 +2553,65 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 29,
+   "position": 79,
+   "sponsored": false,
+   "slug": "herr-capital-management-countryside",
+   "name": "Herr Capital Management",
+   "summary": "Herr Capital Management is a financial advisor in Countryside, IL.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/herr-capital-management-countryside/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/herr-capital-management-countryside.json",
+   "address": {
+    "addressLocality": "Countryside",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Countryside",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7929046,
+    "lon": -87.8698943
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9948866680",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 80,
+   "sponsored": false,
+   "slug": "linda-sokol-francis-brookfield",
+   "name": "Linda Sokol Francis",
+   "summary": "Linda Sokol Francis is a financial advisor in Brookfield, IL.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/linda-sokol-francis-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/linda-sokol-francis-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8282285,
+    "lon": -87.8520913
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9793717170",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 81,
    "sponsored": false,
    "slug": "lottsa-financial-services-inc-minneapolis",
    "name": "Lottsa Financial Services, Inc.",
@@ -967,6 +2638,284 @@
    "source": "OpenStreetMap",
    "source_url": "https://www.openstreetmap.org/node/12920085949",
    "last_checked": "2026-10-17"
+  },
+  {
+   "position": 82,
+   "sponsored": false,
+   "slug": "schrank-and-associates-inc-orland-hills",
+   "name": "Schrank & Associates, Inc.",
+   "summary": "Schrank & Associates, Inc. is a financial advisor in Orland Hills, IL.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/schrank-and-associates-inc-orland-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/schrank-and-associates-inc-orland-hills.json",
+   "address": {
+    "addressLocality": "Orland Hills",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Orland Hills",
+   "state": "IL",
+   "geo": {
+    "lat": 41.6012087,
+    "lon": -87.8353982
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9440267767",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 83,
+   "sponsored": false,
+   "slug": "td-ameritrade-tinley-park",
+   "name": "TD Ameritrade",
+   "summary": "TD Ameritrade is a financial advisor in Tinley Park, IL.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/td-ameritrade-tinley-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/td-ameritrade-tinley-park.json",
+   "address": {
+    "addressLocality": "Tinley Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Tinley Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.5785634,
+    "lon": -87.849482
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9477248015",
+   "last_checked": "2026-10-17"
   }
- ]
+ ],
+ "market": {
+  "keyword": "financial advisor",
+  "slug": "financial-advisor",
+  "base_keyword": "financial advisor",
+  "scope": "national",
+  "city": null,
+  "state": null,
+  "category": "Professional & financial services",
+  "industry": "Finance & Insurance",
+  "us_monthly_searches": {
+   "value": 246000,
+   "method": "cited",
+   "source": "r_keysearch-co-top-keywords-financial-advisor-keywords",
+   "as_of": "2026",
+   "source_phrase": "financial advisor",
+   "note": "keywordseverywhere global 301,000"
+  },
+  "local_monthly_searches": null,
+  "cpc_usd": {
+   "industry_benchmark": "Finance & Insurance",
+   "low_usd": 3.39,
+   "median_usd": 3.39,
+   "high_usd": 3.46,
+   "method": "published benchmarks: low/high = range of the industry and sub-industry median CPCs listed in 'figures'; median = most specific benchmark",
+   "figures": [
+    {
+     "usd": 3.39,
+     "label": "Finance & Insurance median CPC 2026",
+     "source": "wordstream_2026"
+    },
+    {
+     "usd": 3.46,
+     "label": "Finance & Insurance median CPC 2025",
+     "source": "wordstream_2025"
+    }
+   ],
+   "source": "wordstream_2026",
+   "as_of": "2026",
+   "basis_for_value": {
+    "usd": 3.39,
+    "method": "benchmark median CPC",
+    "source": "wordstream_2026"
+   }
+  },
+  "ctr_pct": {
+   "value": 8.33,
+   "label": "Finance & Insurance average search-ad CTR 2025",
+   "source": "wordstream_2025",
+   "as_of": "2025-03"
+  },
+  "competition": {
+   "level": "low",
+   "method": "proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research)",
+   "source": "wordstream_2026",
+   "as_of": "2026"
+  },
+  "trend": null,
+  "seasonality": {
+   "value": null,
+   "note": "No seasonality data in the research sources for this keyword."
+  },
+  "ai_query": {
+   "text": "No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.",
+   "figures": [
+    {
+     "value": "45%",
+     "label": "US adults using AI for local recommendations",
+     "source": "brightlocal_lcrs_2026"
+    },
+    {
+     "value": "75%",
+     "label": "sessions with keyword-style prompts",
+     "source": "sagapixel_sel"
+    },
+    {
+     "value": "59%",
+     "label": "local-intent prompts that triggered web search",
+     "source": "nectiv"
+    }
+   ],
+   "as_of": "2026"
+  },
+  "registry_competitors": {
+   "value": 83,
+   "slugs": [
+    "alerus-eden-prairie",
+    "allodium-investment-consultants-llc-minneapolis",
+    "ameriprise-financial-golden-valley",
+    "ameriprise-financial-new-brighton",
+    "ameriprise-financial-warrenville",
+    "ameriprise-financial-warrenville-n8940134218",
+    "brighton-jones-edina",
+    "cetera-advisors-chanhassen",
+    "charles-schwab-chicago",
+    "charles-schwab-chicago-n13574784327"
+   ],
+   "method_id": "competitors",
+   "source": "registry",
+   "as_of": "2026-10-18",
+   "urls": [
+    "https://dingalinged-cpu.github.io/registry/c/alerus-eden-prairie/",
+    "https://dingalinged-cpu.github.io/registry/c/allodium-investment-consultants-llc-minneapolis/",
+    "https://dingalinged-cpu.github.io/registry/c/ameriprise-financial-golden-valley/",
+    "https://dingalinged-cpu.github.io/registry/c/ameriprise-financial-new-brighton/",
+    "https://dingalinged-cpu.github.io/registry/c/ameriprise-financial-warrenville/",
+    "https://dingalinged-cpu.github.io/registry/c/ameriprise-financial-warrenville-n8940134218/",
+    "https://dingalinged-cpu.github.io/registry/c/brighton-jones-edina/",
+    "https://dingalinged-cpu.github.io/registry/c/cetera-advisors-chanhassen/",
+    "https://dingalinged-cpu.github.io/registry/c/charles-schwab-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/charles-schwab-chicago-n13574784327/"
+   ],
+   "method": "count of registry listings tagged with the keyword (city/national) or with the base service in the same state (state keywords)"
+  },
+  "agent_demand": null,
+  "agent_demand_note": "Not yet measured. Will carry AI-agent query counts from the registry's agent analytics (contract: meta.agent_demand_contract in the market index).",
+  "equivalent_google_ads_cost_month": {
+   "value_usd": 69000,
+   "method": "estimate",
+   "method_id": "google_ads_equiv",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote."
+  },
+  "search_value_index": {
+   "value_usd": 830000,
+   "method": "estimate",
+   "method_id": "value_index",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: search value index = monthly searches x CPC basis; an advertiser-value ranking signal, not revenue; rounded to 2 significant figures."
+  },
+  "auction": {
+   "featured_spot_min_usd": 250,
+   "spots_2_to_4_min_usd": 25,
+   "tier": "high",
+   "pricing_rule": "tier minimum (premium $500, high $250, mid $100, standard $50) for national keywords; city = max($10, 20% of tier); state = max($10, 35% of tier); spots 2-4 open at 10% of the featured minimum",
+   "model": "Monthly auction in the last 7 days of each month: days 1-5 bid for the Featured #1 spot, days 6-7 for spots 2-4; winners display all next month; all paid spots labeled Sponsored.",
+   "next_auctions": [
+    {
+     "display_month": "2026-11",
+     "featured_spot_bidding": [
+      "2026-10-25",
+      "2026-10-29"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-10-30",
+      "2026-10-31"
+     ]
+    },
+    {
+     "display_month": "2026-12",
+     "featured_spot_bidding": [
+      "2026-11-24",
+      "2026-11-28"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-11-29",
+      "2026-11-30"
+     ]
+    }
+   ],
+   "source": "registry_auction",
+   "as_of": "2026-10-18"
+  },
+  "sources": {
+   "brightlocal_lcrs_2026": {
+    "name": "BrightLocal Local Consumer Review Survey 2026 (n=1,002 US adults)",
+    "url": "https://www.brightlocal.com/research/lcrs-ai-trust/",
+    "as_of": "2026"
+   },
+   "nectiv": {
+    "name": "Nectiv study of 8,500+ ChatGPT prompts",
+    "url": "https://nectivdigital.com/blog/new-data-study-what-queries-is-chatgpt-using-behind-the-scenes",
+    "as_of": "2025"
+   },
+   "r_keysearch-co-top-keywords-financial-advisor-keywords": {
+    "name": "Cited US monthly search volume (via research source)",
+    "url": "https://www.keysearch.co/top-keywords/financial-advisor-keywords",
+    "as_of": "2026"
+   },
+   "registry": {
+    "name": "This registry's own listings (OpenStreetMap-seeded, ODbL)",
+    "url": "https://dingalinged-cpu.github.io/registry/api/companies.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_auction": {
+    "name": "Registry keyword auction catalog and rules",
+    "url": "https://dingalinged-cpu.github.io/registry/api/keyword-prices.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_estimate": {
+    "name": "Registry estimate (CC-BY-4.0); method given on each value",
+    "url": "https://dingalinged-cpu.github.io/registry/market/",
+    "as_of": "2026-10-18"
+   },
+   "sagapixel_sel": {
+    "name": "Sagapixel ChatGPT local-services sessions, via Search Engine Land",
+    "url": "https://searchengineland.com/chatgpt-users-keywords-for-local-services-data-467715",
+    "as_of": "2026-01"
+   },
+   "wordstream_2025": {
+    "name": "WordStream Google Ads Benchmarks 2025 (16,446 US campaigns, Apr 2024-Mar 2025; median CPC and CTR by industry)",
+    "url": "https://www.wordstream.com/blog/2025-google-ads-benchmarks",
+    "as_of": "2025-03"
+   },
+   "wordstream_2026": {
+    "name": "LocaliQ/WordStream Search Advertising Benchmarks 2026 (US median CPC by industry)",
+    "url": "https://www.localiq.com/blog/search-advertising-benchmarks",
+    "as_of": "2026"
+   }
+  },
+  "license": {
+   "registry_estimates": "CC-BY-4.0",
+   "url": "https://creativecommons.org/licenses/by/4.0/",
+   "cited_figures": "attribute to the publishers in sources"
+  },
+  "as_of": "2026-10-18",
+  "api": "https://dingalinged-cpu.github.io/registry/api/market/financial-advisor.json",
+  "rate_card": "https://dingalinged-cpu.github.io/registry/view/market.html#financial-advisor"
+ }
 }

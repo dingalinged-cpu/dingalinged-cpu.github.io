@@ -1,0 +1,56 @@
+{
+ "slug": "the-dog-district-darien",
+ "name": "The Dog District",
+ "categories": [
+  "dog boarding"
+ ],
+ "keywords": [
+  "dog boarding",
+  "dog boarding darien il"
+ ],
+ "services": [
+  {
+   "name": "dog boarding",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1100 North Frontage Road",
+  "addressLocality": "Darien",
+  "addressRegion": "IL",
+  "postalCode": "60561",
+  "addressCountry": "US"
+ },
+ "city": "Darien",
+ "state": "IL",
+ "zip": "60561",
+ "geo": {
+  "lat": 41.7349261,
+  "lon": -87.9710578
+ },
+ "phone": "+16305416660",
+ "website": "https://www.dogdistrictdarien.com/",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/566815536",
+ "osm": {
+  "type": "way",
+  "id": 566815536,
+  "tags_used": {
+   "amenity": "animal_boarding"
+  }
+ },
+ "municipality": "Darien",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/the-dog-district-darien/",
+ "summary": "The Dog District is a dog boarding facility in Darien, IL at 1100 North Frontage Road, Darien, IL 60561. Phone: +16305416660. Website: https://www.dogdistrictdarien.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,23 @@
+Blast Fitness is a gym in Downers Grove, IL.
+
+# Blast Fitness
+
+- Category: gym
+- Services: gym
+- Address: Downers Grove, IL
+- City: Downers Grove
+- State: IL
+- ZIP: n/a
+- Coordinates: 41.7515013, -88.0198362
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/blast-fitness-downers-grove/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/blast-fitness-downers-grove.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/543806931 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

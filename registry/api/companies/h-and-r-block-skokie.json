@@ -1,0 +1,62 @@
+{
+ "slug": "h-and-r-block-skokie",
+ "name": "H&R Block",
+ "categories": [
+  "tax preparation"
+ ],
+ "keywords": [
+  "tax preparation",
+  "tax preparer",
+  "tax preparation skokie il",
+  "tax preparer skokie il"
+ ],
+ "services": [
+  {
+   "name": "tax preparation",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "tax preparer",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "3451 Dempster Street",
+  "addressLocality": "Skokie",
+  "addressRegion": "IL",
+  "postalCode": "60076",
+  "addressCountry": "US"
+ },
+ "city": "Skokie",
+ "state": "IL",
+ "zip": "60076",
+ "geo": {
+  "lat": 42.040518,
+  "lon": -87.7152335
+ },
+ "brand": "H&R Block",
+ "wikidata": "Q5627799",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/7599482862",
+ "osm": {
+  "type": "node",
+  "id": 7599482862,
+  "tags_used": {
+   "office": "tax_advisor"
+  }
+ },
+ "municipality": "Skokie",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/h-and-r-block-skokie/",
+ "summary": "H&R Block is a tax preparation service in Skokie, IL at 3451 Dempster Street, Skokie, IL 60076.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

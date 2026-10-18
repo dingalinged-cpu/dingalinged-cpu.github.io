@@ -1,0 +1,56 @@
+{
+ "slug": "richton-square-school-richton-park",
+ "name": "Richton Square School",
+ "categories": [
+  "preschool"
+ ],
+ "keywords": [
+  "preschool",
+  "preschool richton park il"
+ ],
+ "services": [
+  {
+   "name": "preschool",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "22700 Richton Square Road",
+  "addressLocality": "Richton Park",
+  "addressRegion": "IL",
+  "postalCode": "60471",
+  "addressCountry": "US"
+ },
+ "city": "Richton Park",
+ "state": "IL",
+ "zip": "60471",
+ "geo": {
+  "lat": 41.4764726,
+  "lon": -87.710185
+ },
+ "phone": "+17082832706",
+ "website": "https://richton.sd162.org/",
+ "schema_type": "Preschool",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/890968466",
+ "osm": {
+  "type": "way",
+  "id": 890968466,
+  "tags_used": {
+   "amenity": "kindergarten"
+  }
+ },
+ "municipality": "Richton Park",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/richton-square-school-richton-park/",
+ "summary": "Richton Square School is a preschool in Richton Park, IL at 22700 Richton Square Road, Richton Park, IL 60471. Phone: +17082832706. Website: https://richton.sd162.org/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

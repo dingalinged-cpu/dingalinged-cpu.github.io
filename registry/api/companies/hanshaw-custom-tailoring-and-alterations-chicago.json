@@ -1,0 +1,55 @@
+{
+ "slug": "hanshaw-custom-tailoring-and-alterations-chicago",
+ "name": "Hanshaw Custom Tailoring & Alterations",
+ "categories": [
+  "tailor"
+ ],
+ "keywords": [
+  "tailor",
+  "tailor chicago il"
+ ],
+ "services": [
+  {
+   "name": "tailor",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "3748 North Broadway",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60613",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60613",
+ "geo": {
+  "lat": 41.9504099,
+  "lon": -87.6492718
+ },
+ "phone": "+17735499131",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/11205367032",
+ "osm": {
+  "type": "node",
+  "id": 11205367032,
+  "tags_used": {
+   "shop": "tailor"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/hanshaw-custom-tailoring-and-alterations-chicago/",
+ "summary": "Hanshaw Custom Tailoring & Alterations is a tailor in Chicago, IL at 3748 North Broadway, Chicago, IL 60613. Phone: +17735499131.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

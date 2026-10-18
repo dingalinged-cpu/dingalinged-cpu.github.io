@@ -1,0 +1,54 @@
+{
+ "slug": "pellys-liquors-chicago",
+ "name": "Pelly's Liquors",
+ "categories": [
+  "liquor store"
+ ],
+ "keywords": [
+  "liquor store",
+  "liquor store chicago il"
+ ],
+ "services": [
+  {
+   "name": "liquor store",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "3421 North Lincoln Avenue",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60657",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60657",
+ "geo": {
+  "lat": 41.944035,
+  "lon": -87.6715329
+ },
+ "schema_type": "LiquorStore",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/8704308412",
+ "osm": {
+  "type": "node",
+  "id": 8704308412,
+  "tags_used": {
+   "shop": "alcohol"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/pellys-liquors-chicago/",
+ "summary": "Pelly's Liquors is a liquor store in Chicago, IL at 3421 North Lincoln Avenue, Chicago, IL 60657.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

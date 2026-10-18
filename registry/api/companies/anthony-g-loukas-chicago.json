@@ -1,0 +1,61 @@
+{
+ "slug": "anthony-g-loukas-chicago",
+ "name": "Anthony G. Loukas",
+ "categories": [
+  "real estate agent"
+ ],
+ "keywords": [
+  "real estate agent",
+  "realtor",
+  "real estate agent chicago il",
+  "realtor chicago il"
+ ],
+ "services": [
+  {
+   "name": "real estate agent",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "realtor",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "3916 North Sheridan Road",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60613",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60613",
+ "geo": {
+  "lat": 41.9531589,
+  "lon": -87.654674
+ },
+ "phone": "+13129381500",
+ "schema_type": "RealEstateAgent",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/11234357885",
+ "osm": {
+  "type": "node",
+  "id": 11234357885,
+  "tags_used": {
+   "office": "estate_agent"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/anthony-g-loukas-chicago/",
+ "summary": "Anthony G. Loukas is a real estate agency in Chicago, IL at 3916 North Sheridan Road, Chicago, IL 60613. Phone: +13129381500.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

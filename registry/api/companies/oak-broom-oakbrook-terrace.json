@@ -1,0 +1,60 @@
+{
+ "slug": "oak-broom-oakbrook-terrace",
+ "name": "Oak Broom",
+ "categories": [
+  "hair salon"
+ ],
+ "keywords": [
+  "hair salon",
+  "haircut",
+  "hair salon oakbrook terrace il",
+  "haircut oakbrook terrace il"
+ ],
+ "services": [
+  {
+   "name": "hair salon",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "haircut",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "17W408 22nd Street",
+  "addressLocality": "Oakbrook Terrace",
+  "addressRegion": "IL",
+  "postalCode": "60181",
+  "addressCountry": "US"
+ },
+ "city": "Oakbrook Terrace",
+ "state": "IL",
+ "zip": "60181",
+ "geo": {
+  "lat": 41.8470259,
+  "lon": -87.9682371
+ },
+ "schema_type": "HairSalon",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/2672307127",
+ "osm": {
+  "type": "node",
+  "id": 2672307127,
+  "tags_used": {
+   "shop": "hairdresser"
+  }
+ },
+ "municipality": "Oakbrook Terrace",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/oak-broom-oakbrook-terrace/",
+ "summary": "Oak Broom is a hair salon in Oakbrook Terrace, IL at 17W408 22nd Street, Oakbrook Terrace, IL 60181.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

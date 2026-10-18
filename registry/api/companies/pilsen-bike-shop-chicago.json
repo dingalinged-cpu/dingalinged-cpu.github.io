@@ -1,0 +1,54 @@
+{
+ "slug": "pilsen-bike-shop-chicago",
+ "name": "Pilsen Bike Shop",
+ "categories": [
+  "bike shop"
+ ],
+ "keywords": [
+  "bike shop",
+  "bike shop chicago il"
+ ],
+ "services": [
+  {
+   "name": "bike shop",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "3541 South Archer Avenue",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60609",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60609",
+ "geo": {
+  "lat": 41.8295681,
+  "lon": -87.6787211
+ },
+ "schema_type": "BikeStore",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/7895372533",
+ "osm": {
+  "type": "node",
+  "id": 7895372533,
+  "tags_used": {
+   "shop": "bicycle"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/pilsen-bike-shop-chicago/",
+ "summary": "Pilsen Bike Shop is a bike shop in Chicago, IL at 3541 South Archer Avenue, Chicago, IL 60609.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

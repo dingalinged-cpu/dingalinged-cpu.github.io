@@ -1,0 +1,680 @@
+{
+ "place": "Frankfort, IL",
+ "slug": "frankfort-il",
+ "count": 19,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "barber shop frankfort il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/barber-shop-frankfort-il.json"
+  },
+  {
+   "keyword": "car wash frankfort il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-frankfort-il.json"
+  },
+  {
+   "keyword": "dance studio frankfort il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dance-studio-frankfort-il.json"
+  },
+  {
+   "keyword": "family doctor frankfort il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/family-doctor-frankfort-il.json"
+  },
+  {
+   "keyword": "gym frankfort il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-frankfort-il.json"
+  },
+  {
+   "keyword": "hair salon frankfort il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-frankfort-il.json"
+  },
+  {
+   "keyword": "haircut frankfort il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-frankfort-il.json"
+  },
+  {
+   "keyword": "heating and air frankfort il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/heating-and-air-frankfort-il.json"
+  },
+  {
+   "keyword": "hvac repair frankfort il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hvac-repair-frankfort-il.json"
+  },
+  {
+   "keyword": "insurance agency frankfort il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-frankfort-il.json"
+  },
+  {
+   "keyword": "insurance agent frankfort il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-frankfort-il.json"
+  },
+  {
+   "keyword": "insurance agents frankfort il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-frankfort-il.json"
+  },
+  {
+   "keyword": "landscaping frankfort il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/landscaping-frankfort-il.json"
+  },
+  {
+   "keyword": "locksmith frankfort il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/locksmith-frankfort-il.json"
+  },
+  {
+   "keyword": "massage frankfort il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/massage-frankfort-il.json"
+  },
+  {
+   "keyword": "physical therapy frankfort il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/physical-therapy-frankfort-il.json"
+  },
+  {
+   "keyword": "primary care physician frankfort il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/primary-care-physician-frankfort-il.json"
+  },
+  {
+   "keyword": "therapist frankfort il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/therapist-frankfort-il.json"
+  },
+  {
+   "keyword": "thrift store frankfort il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/thrift-store-frankfort-il.json"
+  },
+  {
+   "keyword": "used cars for sale frankfort il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/used-cars-for-sale-frankfort-il.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "action-behavior-centers-aba-therapy-for-autism-frankfort",
+   "name": "Action Behavior Centers - ABA Therapy for Autism",
+   "summary": "Action Behavior Centers - ABA Therapy for Autism is a therapy practice in Frankfort, IL at 10043 Lincoln Highway, Frankfort, IL 60423. Phone: +18153748383. Website: https://www.actionbehavior.com/locations/frankfort-il/.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/action-behavior-centers-aba-therapy-for-autism-frankfort/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/action-behavior-centers-aba-therapy-for-autism-frankfort.json",
+   "address": {
+    "streetAddress": "10043 Lincoln Highway",
+    "addressLocality": "Frankfort",
+    "addressRegion": "IL",
+    "postalCode": "60423",
+    "addressCountry": "US"
+   },
+   "city": "Frankfort",
+   "state": "IL",
+   "zip": "60423",
+   "geo": {
+    "lat": 41.5055673,
+    "lon": -87.8606366
+   },
+   "phone": "+18153748383",
+   "website": "https://www.actionbehavior.com/locations/frankfort-il/",
+   "opening_hours": "Mo-Fr 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11190654823",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "bills-lawn-maintenance-and-landscaping-frankfort",
+   "name": "Bill's Lawn Maintenance and Landscaping",
+   "summary": "Bill's Lawn Maintenance and Landscaping is a landscaping company in Frankfort, IL at 10815 West Stuenkel Road, Frankfort, IL 60423. Phone: +18152055541. Website: https://www.billslawn.com/.",
+   "categories": [
+    "landscaping"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bills-lawn-maintenance-and-landscaping-frankfort/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bills-lawn-maintenance-and-landscaping-frankfort.json",
+   "address": {
+    "streetAddress": "10815 West Stuenkel Road",
+    "addressLocality": "Frankfort",
+    "addressRegion": "IL",
+    "postalCode": "60423",
+    "addressCountry": "US"
+   },
+   "city": "Frankfort",
+   "state": "IL",
+   "zip": "60423",
+   "geo": {
+    "lat": 41.453733,
+    "lon": -87.8752571
+   },
+   "phone": "+18152055541",
+   "website": "https://www.billslawn.com/",
+   "opening_hours": "Mo-Fr 08:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12030732640",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "has-services-frankfort",
+   "name": "HAS Services",
+   "summary": "HAS Services is a HVAC contractor in Frankfort, IL at 9306 West Dralle Road, Frankfort, IL 60423. Phone: +17084658040. Website: https://www.hasservs.com/.",
+   "categories": [
+    "hvac repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/has-services-frankfort/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/has-services-frankfort.json",
+   "address": {
+    "streetAddress": "9306 West Dralle Road",
+    "addressLocality": "Frankfort",
+    "addressRegion": "IL",
+    "postalCode": "60423",
+    "addressCountry": "US"
+   },
+   "city": "Frankfort",
+   "state": "IL",
+   "zip": "60423",
+   "geo": {
+    "lat": 41.4420485,
+    "lon": -87.8363229
+   },
+   "phone": "+17084658040",
+   "website": "https://www.hasservs.com/",
+   "opening_hours": "Mo-Su 08:00-22:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7026760694",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "planet-color-hair-salon-frankfort",
+   "name": "Planet Color Hair Salon",
+   "summary": "Planet Color Hair Salon is a hair salon in Frankfort, IL at 10179 West Lincoln Hwy, Frankfort, IL 60423. Phone: +17084798966. Website: https://planetcolorsalonandsuites.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/planet-color-hair-salon-frankfort/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/planet-color-hair-salon-frankfort.json",
+   "address": {
+    "streetAddress": "10179 West Lincoln Hwy",
+    "addressLocality": "Frankfort",
+    "addressRegion": "IL",
+    "postalCode": "60423",
+    "addressCountry": "US"
+   },
+   "city": "Frankfort",
+   "state": "IL",
+   "zip": "60423",
+   "geo": {
+    "lat": 41.5055824,
+    "lon": -87.8641852
+   },
+   "phone": "+17084798966",
+   "website": "https://planetcolorsalonandsuites.com/",
+   "opening_hours": "Tu-Fr 09:00-21:00; Sa 09:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12659467301",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "planet-fitness-frankfort",
+   "name": "Planet Fitness",
+   "summary": "Planet Fitness is a gym in Frankfort, IL at 20825 South La Grange Road, Frankfort, IL 60423. Phone: +18156688796. Website: https://www.planetfitness.com/gyms/frankfort-il.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/planet-fitness-frankfort/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/planet-fitness-frankfort.json",
+   "address": {
+    "streetAddress": "20825 South La Grange Road",
+    "addressLocality": "Frankfort",
+    "addressRegion": "IL",
+    "postalCode": "60423",
+    "addressCountry": "US"
+   },
+   "city": "Frankfort",
+   "state": "IL",
+   "zip": "60423",
+   "geo": {
+    "lat": 41.5112614,
+    "lon": -87.8472879
+   },
+   "phone": "+18156688796",
+   "website": "https://www.planetfitness.com/gyms/frankfort-il",
+   "opening_hours": "Mo-Th 00:00-24:00; Fr 12:00-22:00; Sa 07:00-19:00; Su 07:00-00:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12659431901",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "armor-security-frankfort",
+   "name": "Armor Security",
+   "summary": "Armor Security is a locksmith in Frankfort, IL. Phone: +18154690606. Website: https://armorlocksmiths.com/.",
+   "categories": [
+    "locksmith"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/armor-security-frankfort/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/armor-security-frankfort.json",
+   "address": {
+    "addressLocality": "Frankfort",
+    "addressRegion": "IL",
+    "postalCode": "60423",
+    "addressCountry": "US"
+   },
+   "city": "Frankfort",
+   "state": "IL",
+   "zip": "60423",
+   "geo": {
+    "lat": 41.4822394,
+    "lon": -87.8138345
+   },
+   "phone": "+18154690606",
+   "website": "https://armorlocksmiths.com/",
+   "opening_hours": "Mo-Su 09:00-17:00, Sa 09:00-12:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 17.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12260939000",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "air-source-1-heating-and-air-conditioning-frankfort",
+   "name": "Air Source 1 Heating & Air Conditioning",
+   "summary": "Air Source 1 Heating & Air Conditioning is a HVAC contractor in Frankfort, IL at 7649 Jamison Drive, Frankfort, IL 60423. Phone: +17089908965. Website: https://as1air.com/.",
+   "categories": [
+    "hvac repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/air-source-1-heating-and-air-conditioning-frankfort/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/air-source-1-heating-and-air-conditioning-frankfort.json",
+   "address": {
+    "streetAddress": "7649 Jamison Drive",
+    "addressLocality": "Frankfort",
+    "addressRegion": "IL",
+    "postalCode": "60423",
+    "addressCountry": "US"
+   },
+   "city": "Frankfort",
+   "state": "IL",
+   "zip": "60423",
+   "geo": {
+    "lat": 41.5190116,
+    "lon": -87.8020132
+   },
+   "phone": "+17089908965",
+   "website": "https://as1air.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4586515441",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "method-athletics-frankfort",
+   "name": "Method Athletics",
+   "summary": "Method Athletics is a physical therapy clinic in Frankfort, IL at 706 Center Road, Frankfort, IL 60423. Phone: +18152779049. Website: https://methodathletics.com/.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/method-athletics-frankfort/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/method-athletics-frankfort.json",
+   "address": {
+    "streetAddress": "706 Center Road",
+    "addressLocality": "Frankfort",
+    "addressRegion": "IL",
+    "postalCode": "60423",
+    "addressCountry": "US"
+   },
+   "city": "Frankfort",
+   "state": "IL",
+   "zip": "60423",
+   "geo": {
+    "lat": 41.4860011,
+    "lon": -87.8495674
+   },
+   "phone": "+18152779049",
+   "website": "https://methodathletics.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6917344095",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "riverside-healthcare-frankfort-campus-frankfort",
+   "name": "Riverside Healthcare Frankfort Campus",
+   "summary": "Riverside Healthcare Frankfort Campus is a family medicine practice in Frankfort, IL at 23120 South La Grange Road, Frankfort, IL 60423. Phone: +18154645440. Website: https://www.riversidehealthcare.org/location/riverside-healthcare-frankfort-campus.",
+   "categories": [
+    "family doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/riverside-healthcare-frankfort-campus-frankfort/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/riverside-healthcare-frankfort-campus-frankfort.json",
+   "address": {
+    "streetAddress": "23120 South La Grange Road",
+    "addressLocality": "Frankfort",
+    "addressRegion": "IL",
+    "postalCode": "60423",
+    "addressCountry": "US"
+   },
+   "city": "Frankfort",
+   "state": "IL",
+   "zip": "60423",
+   "geo": {
+    "lat": 41.4689982,
+    "lon": -87.8842969
+   },
+   "phone": "+18154645440",
+   "website": "https://www.riversidehealthcare.org/location/riverside-healthcare-frankfort-campus",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1475402694",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "hair-cuttery-frankfort",
+   "name": "Hair Cuttery",
+   "summary": "Hair Cuttery is a hair salon in Frankfort, IL at 11063 Lincoln Highway, Frankfort, IL 60423. Phone: +18154641565.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hair-cuttery-frankfort/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hair-cuttery-frankfort.json",
+   "address": {
+    "streetAddress": "11063 Lincoln Highway",
+    "addressLocality": "Frankfort",
+    "addressRegion": "IL",
+    "postalCode": "60423",
+    "addressCountry": "US"
+   },
+   "city": "Frankfort",
+   "state": "IL",
+   "zip": "60423",
+   "geo": {
+    "lat": 41.5023442,
+    "lon": -87.8855705
+   },
+   "phone": "+18154641565",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6894090712",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "massage-envy-frankfort",
+   "name": "Massage Envy",
+   "summary": "Massage Envy is a massage studio in Frankfort, IL at 11061 Lincoln Highway, Frankfort, IL 60423. Phone: +18152775151.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/massage-envy-frankfort/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/massage-envy-frankfort.json",
+   "address": {
+    "streetAddress": "11061 Lincoln Highway",
+    "addressLocality": "Frankfort",
+    "addressRegion": "IL",
+    "postalCode": "60423",
+    "addressCountry": "US"
+   },
+   "city": "Frankfort",
+   "state": "IL",
+   "zip": "60423",
+   "geo": {
+    "lat": 41.5023452,
+    "lon": -87.8854534
+   },
+   "phone": "+18152775151",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6894090713",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "speedy-wash-frankfort-w1348997487",
+   "name": "Speedy Wash",
+   "summary": "Speedy Wash is a car wash in Frankfort, IL at 22310 South La Grange Road, Frankfort, IL 60423. Website: https://www.speedway.com/locations/IL/Frankfort/22310-South-La-Grange-Road.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/speedy-wash-frankfort-w1348997487/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/speedy-wash-frankfort-w1348997487.json",
+   "address": {
+    "streetAddress": "22310 South La Grange Road",
+    "addressLocality": "Frankfort",
+    "addressRegion": "IL",
+    "postalCode": "60423",
+    "addressCountry": "US"
+   },
+   "city": "Frankfort",
+   "state": "IL",
+   "zip": "60423",
+   "geo": {
+    "lat": 41.4833031,
+    "lon": -87.8750393
+   },
+   "website": "https://www.speedway.com/locations/IL/Frankfort/22310-South-La-Grange-Road",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1348997487",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "terry-gross-state-farm-insurance-agent-frankfort",
+   "name": "Terry Gross - State Farm Insurance Agent",
+   "summary": "Terry Gross - State Farm Insurance Agent is an insurance agent in Frankfort, IL at 10850 West Laraway Road #4W, Frankfort, IL 60423. Phone: +18154692525.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/terry-gross-state-farm-insurance-agent-frankfort/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/terry-gross-state-farm-insurance-agent-frankfort.json",
+   "address": {
+    "streetAddress": "10850 West Laraway Road #4W",
+    "addressLocality": "Frankfort",
+    "addressRegion": "IL",
+    "postalCode": "60423",
+    "addressCountry": "US"
+   },
+   "city": "Frankfort",
+   "state": "IL",
+   "zip": "60423",
+   "geo": {
+    "lat": 41.4845814,
+    "lon": -87.8801444
+   },
+   "phone": "+18154692525",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13130323904",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "ultimate-image-frankfort",
+   "name": "Ultimate Image",
+   "summary": "Ultimate Image is a barber shop in Frankfort, IL at 10850 West Laraway Road #5W, Frankfort, IL 60423. Phone: +18154647205.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ultimate-image-frankfort/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ultimate-image-frankfort.json",
+   "address": {
+    "streetAddress": "10850 West Laraway Road #5W",
+    "addressLocality": "Frankfort",
+    "addressRegion": "IL",
+    "postalCode": "60423",
+    "addressCountry": "US"
+   },
+   "city": "Frankfort",
+   "state": "IL",
+   "zip": "60423",
+   "geo": {
+    "lat": 41.4845755,
+    "lon": -87.8802498
+   },
+   "phone": "+18154647205",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13130323903",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "speedy-wash-frankfort",
+   "name": "Speedy Wash",
+   "summary": "Speedy Wash is a car wash in Frankfort, IL at 11151 Lincoln Highway, Frankfort, IL 60423.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/speedy-wash-frankfort/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/speedy-wash-frankfort.json",
+   "address": {
+    "streetAddress": "11151 Lincoln Highway",
+    "addressLocality": "Frankfort",
+    "addressRegion": "IL",
+    "postalCode": "60423",
+    "addressCountry": "US"
+   },
+   "city": "Frankfort",
+   "state": "IL",
+   "zip": "60423",
+   "geo": {
+    "lat": 41.5026244,
+    "lon": -87.8875993
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/984553910",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "bp-frankfort",
+   "name": "BP",
+   "summary": "BP is a car wash in Frankfort, IL.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bp-frankfort/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bp-frankfort.json",
+   "address": {
+    "addressLocality": "Frankfort",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Frankfort",
+   "state": "IL",
+   "geo": {
+    "lat": 41.5057719,
+    "lon": -87.8485744
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/438025891",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "goodwill-frankfort",
+   "name": "Goodwill",
+   "summary": "Goodwill is a thrift store in Frankfort, IL.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/goodwill-frankfort/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/goodwill-frankfort.json",
+   "address": {
+    "addressLocality": "Frankfort",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Frankfort",
+   "state": "IL",
+   "geo": {
+    "lat": 41.5278359,
+    "lon": -87.8477487
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/131644114",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "silver-auto-frankfort",
+   "name": "Silver Auto",
+   "summary": "Silver Auto is an used car dealer in Frankfort, IL.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/silver-auto-frankfort/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/silver-auto-frankfort.json",
+   "address": {
+    "addressLocality": "Frankfort",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Frankfort",
+   "state": "IL",
+   "geo": {
+    "lat": 41.4792792,
+    "lon": -87.8440322
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1053358250",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "the-dance-company-frankfort",
+   "name": "The Dance Company",
+   "summary": "The Dance Company is a dance studio in Frankfort, IL.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-dance-company-frankfort/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-dance-company-frankfort.json",
+   "address": {
+    "addressLocality": "Frankfort",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Frankfort",
+   "state": "IL",
+   "geo": {
+    "lat": 41.5039638,
+    "lon": -87.8530125
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8633474272",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

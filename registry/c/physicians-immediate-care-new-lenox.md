@@ -1,0 +1,23 @@
+Physicians Immediate Care is a pediatrician in New Lenox, IL at 621 East Lincoln Highway, New Lenox, IL 60451. Phone: +18159075955. Website: https://physiciansimmediatecare.com/clinic/new-lenox/.
+
+# Physicians Immediate Care
+
+- Category: pediatrician
+- Services: pediatrician, family doctor, primary care physician
+- Address: 621 East Lincoln Highway, New Lenox, IL 60451
+- City: New Lenox
+- State: IL
+- ZIP: 60451
+- Coordinates: 41.5129078, -87.9519655
+- Phone: +18159075955
+- Website: https://physiciansimmediatecare.com/clinic/new-lenox/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/physicians-immediate-care-new-lenox/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/physicians-immediate-care-new-lenox.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/188699544 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

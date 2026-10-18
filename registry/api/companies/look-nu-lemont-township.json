@@ -1,0 +1,54 @@
+{
+ "slug": "look-nu-lemont-township",
+ "name": "Look NU",
+ "categories": [
+  "car wash"
+ ],
+ "keywords": [
+  "car wash",
+  "car wash lemont township il"
+ ],
+ "services": [
+  {
+   "name": "car wash",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1388 State Street",
+  "addressLocality": "Lemont Township",
+  "addressRegion": "IL",
+  "postalCode": "60439",
+  "addressCountry": "US"
+ },
+ "city": "Lemont Township",
+ "state": "IL",
+ "zip": "60439",
+ "geo": {
+  "lat": 41.6460921,
+  "lon": -88.0000455
+ },
+ "schema_type": "AutoWash",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/317291251",
+ "osm": {
+  "type": "way",
+  "id": 317291251,
+  "tags_used": {
+   "amenity": "car_wash"
+  }
+ },
+ "municipality": "Lemont Township",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/look-nu-lemont-township/",
+ "summary": "Look NU is a car wash in Lemont Township, IL at 1388 State Street, Lemont Township, IL 60439.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

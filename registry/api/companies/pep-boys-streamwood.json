@@ -1,0 +1,59 @@
+{
+ "slug": "pep-boys-streamwood",
+ "name": "Pep Boys",
+ "categories": [
+  "auto repair"
+ ],
+ "keywords": [
+  "auto repair",
+  "mechanic",
+  "auto repair streamwood il",
+  "mechanic streamwood il"
+ ],
+ "services": [
+  {
+   "name": "auto repair",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "mechanic",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Streamwood",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Streamwood",
+ "state": "IL",
+ "geo": {
+  "lat": 42.0356431,
+  "lon": -88.1455699
+ },
+ "brand": "Pep Boys",
+ "wikidata": "Q3375007",
+ "schema_type": "AutoRepair",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/582382171",
+ "osm": {
+  "type": "way",
+  "id": 582382171,
+  "tags_used": {
+   "shop": "car_repair"
+  }
+ },
+ "municipality": "Streamwood",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/pep-boys-streamwood/",
+ "summary": "Pep Boys is an auto repair shop in Streamwood, IL.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

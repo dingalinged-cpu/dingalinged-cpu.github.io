@@ -1,0 +1,52 @@
+{
+ "slug": "chiro-one-orland-hills",
+ "name": "Chiro One",
+ "categories": [
+  "chiropractor"
+ ],
+ "keywords": [
+  "chiropractor",
+  "chiropractor orland hills il"
+ ],
+ "services": [
+  {
+   "name": "chiropractor",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Orland Hills",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Orland Hills",
+ "state": "IL",
+ "geo": {
+  "lat": 41.6008318,
+  "lon": -87.8413396
+ },
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/9441052900",
+ "osm": {
+  "type": "node",
+  "id": 9441052900,
+  "tags_used": {
+   "healthcare": "alternative",
+   "healthcare:speciality": "chiropractic"
+  }
+ },
+ "municipality": "Orland Hills",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/chiro-one-orland-hills/",
+ "summary": "Chiro One is a chiropractor in Orland Hills, IL.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

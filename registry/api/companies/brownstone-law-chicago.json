@@ -1,0 +1,65 @@
+{
+ "slug": "brownstone-law-chicago",
+ "name": "Brownstone Law",
+ "categories": [
+  "lawyer"
+ ],
+ "keywords": [
+  "lawyer",
+  "attorney",
+  "lawyer chicago il",
+  "attorney chicago il"
+ ],
+ "services": [
+  {
+   "name": "lawyer",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "attorney",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "201 West Lake Street ##307",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60606",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60606",
+ "geo": {
+  "lat": 41.8855044,
+  "lon": -87.6341216
+ },
+ "phone": "+13122487101",
+ "website": "https://brownstonelaw.com/appellate-lawyer/illinois/",
+ "social": [
+  "https://linkedin.com/company/brownstone-lawchicago/"
+ ],
+ "schema_type": "LegalService",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/147398353",
+ "osm": {
+  "type": "way",
+  "id": 147398353,
+  "tags_used": {
+   "office": "lawyer"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/brownstone-law-chicago/",
+ "summary": "Brownstone Law is a lawyer in Chicago, IL at 201 West Lake Street ##307, Chicago, IL 60606. Phone: +13122487101. Website: https://brownstonelaw.com/appellate-lawyer/illinois/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

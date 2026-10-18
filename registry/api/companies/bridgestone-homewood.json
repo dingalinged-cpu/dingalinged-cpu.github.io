@@ -1,0 +1,56 @@
+{
+ "slug": "bridgestone-homewood",
+ "name": "Bridgestone",
+ "categories": [
+  "tire shop"
+ ],
+ "keywords": [
+  "tire shop",
+  "tire shop homewood il"
+ ],
+ "services": [
+  {
+   "name": "tire shop",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "17935 Halsted Street",
+  "addressLocality": "Homewood",
+  "addressRegion": "IL",
+  "postalCode": "60430",
+  "addressCountry": "US"
+ },
+ "city": "Homewood",
+ "state": "IL",
+ "zip": "60430",
+ "geo": {
+  "lat": 41.5640612,
+  "lon": -87.6357773
+ },
+ "brand": "Bridgestone",
+ "wikidata": "Q179433",
+ "schema_type": "TireShop",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/7716150302",
+ "osm": {
+  "type": "node",
+  "id": 7716150302,
+  "tags_used": {
+   "shop": "tyres"
+  }
+ },
+ "municipality": "Homewood",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/bridgestone-homewood/",
+ "summary": "Bridgestone is a tire shop in Homewood, IL at 17935 Halsted Street, Homewood, IL 60430.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

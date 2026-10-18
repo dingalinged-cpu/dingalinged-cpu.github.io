@@ -1,0 +1,23 @@
+CubeSmart is a self-storage facility in Bellwood, IL at 2801 Harrison Street, Bellwood, IL 60104.
+
+# CubeSmart
+
+- Category: storage units
+- Services: storage units
+- Address: 2801 Harrison Street, Bellwood, IL 60104
+- City: Bellwood
+- State: IL
+- ZIP: 60104
+- Coordinates: 41.8717958, -87.8673209
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/cubesmart-bellwood/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/cubesmart-bellwood.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1320817932 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,0 +1,56 @@
+{
+ "slug": "edward-fox-photography-and-video-chicago",
+ "name": "Edward Fox Photography and Video",
+ "categories": [
+  "photographer"
+ ],
+ "keywords": [
+  "photographer",
+  "photographer chicago il"
+ ],
+ "services": [
+  {
+   "name": "photographer",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "6133 North Northwest Highway #A",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60631",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60631",
+ "geo": {
+  "lat": 41.9931951,
+  "lon": -87.8001758
+ },
+ "phone": "+17737360200",
+ "website": "https://edwardfox.com/",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/8608105224",
+ "osm": {
+  "type": "node",
+  "id": 8608105224,
+  "tags_used": {
+   "craft": "photographer"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/edward-fox-photography-and-video-chicago/",
+ "summary": "Edward Fox Photography and Video is a photographer in Chicago, IL at 6133 North Northwest Highway #A, Chicago, IL 60631. Phone: +17737360200. Website: https://edwardfox.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

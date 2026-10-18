@@ -1,0 +1,23 @@
+CubeSmart is a self-storage facility in Wheeling, IL at 1042 South Milwaukee Avenue, Wheeling, IL 60090. Website: https://www.cubesmart.com/illinois-self-storage/wheeling-self-storage/119.html.
+
+# CubeSmart
+
+- Category: storage units
+- Services: storage units
+- Address: 1042 South Milwaukee Avenue, Wheeling, IL 60090
+- City: Wheeling
+- State: IL
+- ZIP: 60090
+- Coordinates: 42.1198399, -87.8970119
+- Phone: n/a
+- Website: https://www.cubesmart.com/illinois-self-storage/wheeling-self-storage/119.html
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/cubesmart-wheeling/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/cubesmart-wheeling.json
+- Source: OpenStreetMap https://www.openstreetmap.org/relation/20428535 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

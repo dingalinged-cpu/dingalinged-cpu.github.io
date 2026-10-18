@@ -1,0 +1,23 @@
+Durango Bakery is a bakery in Chicago, IL at 3554 West Lawrence Avenue, Chicago, IL 60625. Phone: +17735395171.
+
+# Durango Bakery
+
+- Category: bakery
+- Services: bakery
+- Address: 3554 West Lawrence Avenue, Chicago, IL 60625
+- City: Chicago
+- State: IL
+- ZIP: 60625
+- Coordinates: 41.9685169, -87.7179819
+- Phone: +17735395171
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/durango-bakery-chicago/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/durango-bakery-chicago.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6284859021 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

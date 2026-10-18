@@ -1,0 +1,873 @@
+{
+ "place": "La Grange Park, IL",
+ "slug": "la-grange-park-il",
+ "count": 28,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "attorney la grange park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/attorney-la-grange-park-il.json"
+  },
+  {
+   "keyword": "audiologist la grange park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/audiologist-la-grange-park-il.json"
+  },
+  {
+   "keyword": "auto repair la grange park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-la-grange-park-il.json"
+  },
+  {
+   "keyword": "bike shop la grange park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/bike-shop-la-grange-park-il.json"
+  },
+  {
+   "keyword": "dentist la grange park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-la-grange-park-il.json"
+  },
+  {
+   "keyword": "dog groomer la grange park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dog-groomer-la-grange-park-il.json"
+  },
+  {
+   "keyword": "eye doctor la grange park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/eye-doctor-la-grange-park-il.json"
+  },
+  {
+   "keyword": "financial advisor la grange park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/financial-advisor-la-grange-park-il.json"
+  },
+  {
+   "keyword": "florist la grange park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/florist-la-grange-park-il.json"
+  },
+  {
+   "keyword": "gym la grange park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-la-grange-park-il.json"
+  },
+  {
+   "keyword": "hair salon la grange park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-la-grange-park-il.json"
+  },
+  {
+   "keyword": "haircut la grange park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-la-grange-park-il.json"
+  },
+  {
+   "keyword": "heating and air la grange park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/heating-and-air-la-grange-park-il.json"
+  },
+  {
+   "keyword": "hvac repair la grange park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hvac-repair-la-grange-park-il.json"
+  },
+  {
+   "keyword": "insurance agency la grange park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-la-grange-park-il.json"
+  },
+  {
+   "keyword": "insurance agent la grange park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-la-grange-park-il.json"
+  },
+  {
+   "keyword": "insurance agents la grange park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-la-grange-park-il.json"
+  },
+  {
+   "keyword": "lawyer la grange park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/lawyer-la-grange-park-il.json"
+  },
+  {
+   "keyword": "liquor store la grange park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/liquor-store-la-grange-park-il.json"
+  },
+  {
+   "keyword": "mechanic la grange park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-la-grange-park-il.json"
+  },
+  {
+   "keyword": "physical therapy la grange park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/physical-therapy-la-grange-park-il.json"
+  },
+  {
+   "keyword": "preschool la grange park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/preschool-la-grange-park-il.json"
+  },
+  {
+   "keyword": "tailor la grange park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tailor-la-grange-park-il.json"
+  },
+  {
+   "keyword": "vet la grange park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/vet-la-grange-park-il.json"
+  },
+  {
+   "keyword": "window replacement la grange park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/window-replacement-la-grange-park-il.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "generations-family-dentistry-la-grange-park",
+   "name": "Generations Family Dentistry",
+   "summary": "Generations Family Dentistry is a dentist in La Grange Park, IL. Website: https://www.gfdentist.com/index.html.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/generations-family-dentistry-la-grange-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/generations-family-dentistry-la-grange-park.json",
+   "address": {
+    "addressLocality": "La Grange Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "La Grange Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8344055,
+    "lon": -87.8631866
+   },
+   "website": "https://www.gfdentist.com/index.html",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9731074017",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "ogden-family-dentistry-la-grange-park",
+   "name": "Ogden Family Dentistry",
+   "summary": "Ogden Family Dentistry is a dentist in La Grange Park, IL. Website: https://www.ogdenfamilydentistry.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ogden-family-dentistry-la-grange-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ogden-family-dentistry-la-grange-park.json",
+   "address": {
+    "addressLocality": "La Grange Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "La Grange Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8344148,
+    "lon": -87.8629192
+   },
+   "website": "https://www.ogdenfamilydentistry.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9731074018",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "strive-4-fitness-la-grange-park",
+   "name": "Strive 4 Fitness",
+   "summary": "Strive 4 Fitness is a gym in La Grange Park, IL. Website: https://strive4fitness.us/.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/strive-4-fitness-la-grange-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/strive-4-fitness-la-grange-park.json",
+   "address": {
+    "addressLocality": "La Grange Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "La Grange Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8341526,
+    "lon": -87.8664918
+   },
+   "website": "https://strive4fitness.us/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9731074030",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "1st-family-dental-la-grange-park",
+   "name": "1st Family Dental",
+   "summary": "1st Family Dental is a dentist in La Grange Park, IL.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/1st-family-dental-la-grange-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/1st-family-dental-la-grange-park.json",
+   "address": {
+    "addressLocality": "La Grange Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "La Grange Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8348659,
+    "lon": -87.8625594
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9731074011",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "a-square-deal-glass-co-la-grange-park",
+   "name": "A Square Deal Glass Co.",
+   "summary": "A Square Deal Glass Co. is a window installer in La Grange Park, IL.",
+   "categories": [
+    "window replacement"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/a-square-deal-glass-co-la-grange-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/a-square-deal-glass-co-la-grange-park.json",
+   "address": {
+    "addressLocality": "La Grange Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "La Grange Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8363779,
+    "lon": -87.8522368
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1059066642",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "adorable-pet-styling-la-grange-park",
+   "name": "Adorable Pet Styling",
+   "summary": "Adorable Pet Styling is a dog groomer in La Grange Park, IL.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/adorable-pet-styling-la-grange-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/adorable-pet-styling-la-grange-park.json",
+   "address": {
+    "addressLocality": "La Grange Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "La Grange Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8358425,
+    "lon": -87.8521721
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9731074643",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "andys-hair-design-la-grange-park",
+   "name": "Andy's Hair Design",
+   "summary": "Andy's Hair Design is a hair salon in La Grange Park, IL.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/andys-hair-design-la-grange-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/andys-hair-design-la-grange-park.json",
+   "address": {
+    "addressLocality": "La Grange Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "La Grange Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8350059,
+    "lon": -87.8527841
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9731074655",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "arbor-animal-hospital-la-grange-park",
+   "name": "Arbor Animal Hospital",
+   "summary": "Arbor Animal Hospital is a veterinarian in La Grange Park, IL.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/arbor-animal-hospital-la-grange-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/arbor-animal-hospital-la-grange-park.json",
+   "address": {
+    "addressLocality": "La Grange Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "La Grange Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8340765,
+    "lon": -87.8734506
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/996473289",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "athletico-physical-therapy-la-grange-park",
+   "name": "Athletico Physical Therapy",
+   "summary": "Athletico Physical Therapy is a physical therapy clinic in La Grange Park, IL.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/athletico-physical-therapy-la-grange-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/athletico-physical-therapy-la-grange-park.json",
+   "address": {
+    "addressLocality": "La Grange Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "La Grange Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8227091,
+    "lon": -87.8698166
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9731074109",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "barnsdale-road-kindergarten-la-grange-park",
+   "name": "Barnsdale Road Kindergarten",
+   "summary": "Barnsdale Road Kindergarten is a preschool in La Grange Park, IL.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/barnsdale-road-kindergarten-la-grange-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/barnsdale-road-kindergarten-la-grange-park.json",
+   "address": {
+    "addressLocality": "La Grange Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "La Grange Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8319077,
+    "lon": -87.8660882
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13246924505",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "cork-keg-and-spirits-la-grange-park",
+   "name": "Cork Keg & Spirits",
+   "summary": "Cork Keg & Spirits is a liquor store in La Grange Park, IL.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cork-keg-and-spirits-la-grange-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cork-keg-and-spirits-la-grange-park.json",
+   "address": {
+    "addressLocality": "La Grange Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "La Grange Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8344127,
+    "lon": -87.8637498
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9731074021",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "ddami-salon-la-grange-park",
+   "name": "D'Dami Salon",
+   "summary": "D'Dami Salon is a hair salon in La Grange Park, IL.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ddami-salon-la-grange-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ddami-salon-la-grange-park.json",
+   "address": {
+    "addressLocality": "La Grange Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "La Grange Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8228579,
+    "lon": -87.8698255
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9731074107",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "dinas-great-cuts-la-grange-park",
+   "name": "Dina's Great Cuts",
+   "summary": "Dina's Great Cuts is a hair salon in La Grange Park, IL.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dinas-great-cuts-la-grange-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dinas-great-cuts-la-grange-park.json",
+   "address": {
+    "addressLocality": "La Grange Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "La Grange Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8341611,
+    "lon": -87.8662784
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9731074028",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "edward-jones-la-grange-park",
+   "name": "Edward Jones",
+   "summary": "Edward Jones is a financial advisor in La Grange Park, IL.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edward-jones-la-grange-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edward-jones-la-grange-park.json",
+   "address": {
+    "addressLocality": "La Grange Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "La Grange Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8227961,
+    "lon": -87.8698232
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9731074108",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "expert-tailoring-by-pete-la-grange-park",
+   "name": "Expert Tailoring by Pete",
+   "summary": "Expert Tailoring by Pete is a tailor in La Grange Park, IL.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/expert-tailoring-by-pete-la-grange-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/expert-tailoring-by-pete-la-grange-park.json",
+   "address": {
+    "addressLocality": "La Grange Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "La Grange Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8347717,
+    "lon": -87.8633855
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9731074023",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "jiffy-lube-la-grange-park",
+   "name": "Jiffy Lube",
+   "summary": "Jiffy Lube is an auto repair shop in La Grange Park, IL.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jiffy-lube-la-grange-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jiffy-lube-la-grange-park.json",
+   "address": {
+    "addressLocality": "La Grange Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "La Grange Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.834992,
+    "lon": -87.8741806
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/996473293",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "londos-eye-center-la-grange-park",
+   "name": "Londos Eye Center",
+   "summary": "Londos Eye Center is an eye care practice in La Grange Park, IL.",
+   "categories": [
+    "eye doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/londos-eye-center-la-grange-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/londos-eye-center-la-grange-park.json",
+   "address": {
+    "addressLocality": "La Grange Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "La Grange Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8347699,
+    "lon": -87.862551
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9731074012",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "montessori-childrens-place-la-grange-park",
+   "name": "Montessori Children's Place",
+   "summary": "Montessori Children's Place is a preschool in La Grange Park, IL.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/montessori-childrens-place-la-grange-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/montessori-childrens-place-la-grange-park.json",
+   "address": {
+    "addressLocality": "La Grange Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "La Grange Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8359171,
+    "lon": -87.8521757
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9731074644",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "murphys-transmission-and-complete-auto-repair-la-grange-park",
+   "name": "Murphy's Transmission & Complete Auto Repair",
+   "summary": "Murphy's Transmission & Complete Auto Repair is an auto repair shop in La Grange Park, IL.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/murphys-transmission-and-complete-auto-repair-la-grange-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/murphys-transmission-and-complete-auto-repair-la-grange-park.json",
+   "address": {
+    "addressLocality": "La Grange Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "La Grange Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8349071,
+    "lon": -87.8619513
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/967841479",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "phillips-la-grange-park",
+   "name": "Phillip's",
+   "summary": "Phillip's is a florist in La Grange Park, IL.",
+   "categories": [
+    "florist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/phillips-la-grange-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/phillips-la-grange-park.json",
+   "address": {
+    "addressLocality": "La Grange Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "La Grange Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8241438,
+    "lon": -87.8710129
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9731074103",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "purco-heating-and-air-conditioning-la-grange-park",
+   "name": "Purco Heating & Air Conditioning",
+   "summary": "Purco Heating & Air Conditioning is a HVAC contractor in La Grange Park, IL.",
+   "categories": [
+    "hvac repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/purco-heating-and-air-conditioning-la-grange-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/purco-heating-and-air-conditioning-la-grange-park.json",
+   "address": {
+    "addressLocality": "La Grange Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "La Grange Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8347664,
+    "lon": -87.8629277
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9731074013",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "state-farm-jim-donahue-la-grange-park",
+   "name": "State Farm - Jim Donahue",
+   "summary": "State Farm - Jim Donahue is an insurance agent in La Grange Park, IL.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/state-farm-jim-donahue-la-grange-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/state-farm-jim-donahue-la-grange-park.json",
+   "address": {
+    "addressLocality": "La Grange Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "La Grange Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.834769,
+    "lon": -87.8635393
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9731074022",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "susan-rogan-hearing-la-grange-park",
+   "name": "Susan Rogan Hearing",
+   "summary": "Susan Rogan Hearing is an audiologist in La Grange Park, IL.",
+   "categories": [
+    "audiologist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/susan-rogan-hearing-la-grange-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/susan-rogan-hearing-la-grange-park.json",
+   "address": {
+    "addressLocality": "La Grange Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "La Grange Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8230162,
+    "lon": -87.8699802
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9731074106",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "symmetry-hair-salon-la-grange-park",
+   "name": "Symmetry Hair Salon",
+   "summary": "Symmetry Hair Salon is a hair salon in La Grange Park, IL.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/symmetry-hair-salon-la-grange-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/symmetry-hair-salon-la-grange-park.json",
+   "address": {
+    "addressLocality": "La Grange Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "La Grange Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8344161,
+    "lon": -87.8635524
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9731074020",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "the-wheel-thing-la-grange-park",
+   "name": "The Wheel Thing",
+   "summary": "The Wheel Thing is a bike shop in La Grange Park, IL.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-wheel-thing-la-grange-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-wheel-thing-la-grange-park.json",
+   "address": {
+    "addressLocality": "La Grange Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "La Grange Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8229057,
+    "lon": -87.8698255
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5726074384",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "vaupell-auto-repair-la-grange-park",
+   "name": "Vaupell Auto Repair",
+   "summary": "Vaupell Auto Repair is an auto repair shop in La Grange Park, IL.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/vaupell-auto-repair-la-grange-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/vaupell-auto-repair-la-grange-park.json",
+   "address": {
+    "addressLocality": "La Grange Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "La Grange Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8343133,
+    "lon": -87.8618888
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/967841477",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "webster-dental-care-la-grange-park",
+   "name": "Webster Dental Care",
+   "summary": "Webster Dental Care is a dentist in La Grange Park, IL.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/webster-dental-care-la-grange-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/webster-dental-care-la-grange-park.json",
+   "address": {
+    "addressLocality": "La Grange Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "La Grange Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.824719,
+    "lon": -87.8715958
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9731074102",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "weiss-ortiz-la-grange-park",
+   "name": "Weiss Ortiz",
+   "summary": "Weiss Ortiz is a lawyer in La Grange Park, IL.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/weiss-ortiz-la-grange-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/weiss-ortiz-la-grange-park.json",
+   "address": {
+    "addressLocality": "La Grange Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "La Grange Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8347646,
+    "lon": -87.8632925
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9731074016",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

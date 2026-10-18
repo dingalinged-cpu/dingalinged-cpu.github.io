@@ -7,11 +7,11 @@ h1{font-size:26px;margin:.2em 0}h2{font-size:19px;margin-top:1.6em;border-bottom
 input{width:100%;padding:10px;font-size:16px;border:1px solid #ccc;border-radius:8px;box-sizing:border-box}
 table{width:100%;border-collapse:collapse;font-size:14px}td,th{text-align:left;padding:6px;border-bottom:1px solid #eee}
 .muted{color:#666;font-size:14px}a{color:#0b57d0}</style></head><body>
-<h1>Company Registry</h1><p class="muted">Human-readable view. The public registry is built for AI agents; this page reads the same data. <a href="../llms.txt">Agent entry (llms.txt)</a></p>
+<h1>Company Registry</h1><p class="muted"><a href="market.html">Advertiser rate card (search volume, CPC, starting bids)</a></p><p class="muted">Human-readable view. The public registry is built for AI agents; this page reads the same data. <a href="../llms.txt">Agent entry (llms.txt)</a></p>
 <div class="card"><b>Next auction:</b> <span id="auc"></span><br><span class="muted">Days 1-5: bids for the Featured #1 spot. Days 6-7: bids for spots 2-4. Winners show all next month.</span></div>
 <h2>Search a keyword</h2><input id="q" list="kws" placeholder="e.g. dentist minneapolis mn"><datalist id="kws"></datalist><div id="res"></div>
 <h2>Companies (<span id="n"></span>)</h2><div id="cos"></div>
-<h2>Keyword prices</h2><input id="pq" placeholder="Filter 22k keywords"><table><thead><tr><th>Keyword</th><th>#1 min</th><th>2-4 min</th></tr></thead><tbody id="pr"></tbody></table>
+<h2>Keyword prices</h2><input id="pq" placeholder="Filter keywords"><table><thead><tr><th>Keyword</th><th>#1 min</th><th>2-4 min</th></tr></thead><tbody id="pr"></tbody></table>
 <script>
 const J=u=>fetch(u).then(r=>r.json()),slug=s=>s.toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');
 (function(){const d=new Date(),y=d.getFullYear(),m=d.getMonth(),last=new Date(y,m+1,0).getDate(),s=new Date(y,m,last-6),f=o=>o.toLocaleDateString(undefined,{month:'short',day:'numeric'});

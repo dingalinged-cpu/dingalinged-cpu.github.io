@@ -1,0 +1,58 @@
+{
+ "slug": "skale-dental-professionals-northbrook",
+ "name": "Skale Dental Professionals",
+ "categories": [
+  "dentist"
+ ],
+ "keywords": [
+  "dentist",
+  "dentist northbrook il"
+ ],
+ "services": [
+  {
+   "name": "dentist",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1300 Meadow Rd, Suite 200",
+  "addressLocality": "Northbrook",
+  "addressRegion": "IL",
+  "postalCode": "60062",
+  "addressCountry": "US"
+ },
+ "city": "Northbrook",
+ "state": "IL",
+ "zip": "60062",
+ "geo": {
+  "lat": 42.1294157,
+  "lon": -87.8283051
+ },
+ "website": "https://www.drskale.com/",
+ "opening_hours": "Mo,We 09:00-17:00; Tu 09:00-18:00; Th 08:00-14:00; Fr 08:00-13:00",
+ "schema_type": "Dentist",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/12545851864",
+ "osm": {
+  "type": "node",
+  "id": 12545851864,
+  "tags_used": {
+   "amenity": "dentist",
+   "healthcare": "dentist",
+   "healthcare:speciality": "general"
+  }
+ },
+ "municipality": "Northbrook",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/skale-dental-professionals-northbrook/",
+ "summary": "Skale Dental Professionals is a dentist in Northbrook, IL at 1300 Meadow Rd, Suite 200, Northbrook, IL 60062. Website: https://www.drskale.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

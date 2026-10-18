@@ -1,0 +1,58 @@
+Keyword market for Norridge, IL: 31 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Chicago-Naperville-Elgin, IL-IN metro (US volume x population share).
+
+# Top keywords in Norridge, IL
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are in the JSON and dataset. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json
+
+## By monthly searches
+1. car wash norridge il | searches/mo 51,000 (est) | CPC $4.35 | value $220,000 | Google Ads equiv $12,000/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/car-wash-norridge-il/
+2. dentist norridge il | searches/mo 51,000 (est) | CPC $4.70 | value $240,000 | Google Ads equiv $13,000/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/dentist-norridge-il/
+3. gym norridge il | searches/mo 51,000 (est) | CPC $1.67 | value $85,000 | Google Ads equiv $6,100/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/gym-norridge-il/
+4. oil change norridge il | searches/mo 51,000 (est) | CPC $4.35 | value $220,000 | Google Ads equiv $12,000/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/oil-change-norridge-il/
+5. hair salon norridge il | searches/mo 41,000 (est) | CPC $0.55 | value $23,000 | Google Ads equiv $1,300/mo | our featured min $50/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/hair-salon-norridge-il/
+6. mechanic norridge il | searches/mo 19,000 (est) | CPC $4.35 | value $83,000 | Google Ads equiv $4,600/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/mechanic-norridge-il/
+7. tire shop norridge il | searches/mo 15,000 (est) | CPC $4.35 | value $65,000 | Google Ads equiv $3,600/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/tire-shop-norridge-il/
+8. vet norridge il | searches/mo 15,000 (est) | CPC $4.06 | value $61,000 | Google Ads equiv $4,000/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/vet-norridge-il/
+9. haircut norridge il | searches/mo 10,000 (est) | CPC $4.62 | value $46,000 | Google Ads equiv $2,600/mo | our featured min $50/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/haircut-norridge-il/
+10. auto repair norridge il | searches/mo 8,300 (est) | CPC $4.35 | value $36,000 | Google Ads equiv $2,000/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/auto-repair-norridge-il/
+11. real estate agent norridge il | searches/mo 5,500 (est) | CPC $3.61 | value $20,000 | Google Ads equiv $1,700/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/real-estate-agent-norridge-il/
+12. insurance agency norridge il | searches/mo 2,500 (est) | CPC $3.39 | value $8,500 | Google Ads equiv $710/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/insurance-agency-norridge-il/
+13. realtor norridge il | searches/mo 2,500 (est) | CPC $3.70 | value $9,200 | Google Ads equiv $780/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/realtor-norridge-il/
+14. tax preparation norridge il | searches/mo 2,000 (est) | CPC $3.25 | value $6,500 | Google Ads equiv $540/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/tax-preparation-norridge-il/
+15. tax preparer norridge il | searches/mo 1,700 (est) | CPC $5.87 | value $10,000 | Google Ads equiv $560/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/tax-preparer-norridge-il/
+
+## By CPC
+1. storage units norridge il | searches/mo 6,100 (est) | CPC $8.33 | value $51,000 | Google Ads equiv $3,200/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/storage-units-norridge-il/
+2. bakery norridge il | searches/mo 6,100 (est) | CPC $7.17 | value $44,000 | Google Ads equiv $3,400/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/bakery-norridge-il/
+3. tax preparer norridge il | searches/mo 1,700 (est) | CPC $5.87 | value $10,000 | Google Ads equiv $560/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/tax-preparer-norridge-il/
+4. daycare norridge il | searches/mo 6,100 (est) | CPC $4.81 | value $29,000 | Google Ads equiv $1,700/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/daycare-norridge-il/
+5. dentist norridge il | searches/mo 51,000 (est) | CPC $4.70 | value $240,000 | Google Ads equiv $13,000/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/dentist-norridge-il/
+6. haircut norridge il | searches/mo 10,000 (est) | CPC $4.62 | value $46,000 | Google Ads equiv $2,600/mo | our featured min $50/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/haircut-norridge-il/
+7. tanning salon norridge il | searches/mo 830 (est) | CPC $4.62 | value $3,800 | Google Ads equiv $220/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/tanning-salon-norridge-il/
+8. auto repair norridge il | searches/mo 8,300 (est) | CPC $4.35 | value $36,000 | Google Ads equiv $2,000/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/auto-repair-norridge-il/
+9. car wash norridge il | searches/mo 51,000 (est) | CPC $4.35 | value $220,000 | Google Ads equiv $12,000/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/car-wash-norridge-il/
+10. mechanic norridge il | searches/mo 19,000 (est) | CPC $4.35 | value $83,000 | Google Ads equiv $4,600/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/mechanic-norridge-il/
+11. oil change norridge il | searches/mo 51,000 (est) | CPC $4.35 | value $220,000 | Google Ads equiv $12,000/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/oil-change-norridge-il/
+12. tire shop norridge il | searches/mo 15,000 (est) | CPC $4.35 | value $65,000 | Google Ads equiv $3,600/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/tire-shop-norridge-il/
+13. furniture store norridge il | searches/mo 3,900 (est) | CPC $4.14 | value $16,000 | Google Ads equiv $1,400/mo | our featured min $10/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/furniture-store-norridge-il/
+14. gift shop norridge il | searches/mo 500 (est) | CPC $4.14 | value $2,100 | Google Ads equiv $180/mo | our featured min $10/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/gift-shop-norridge-il/
+15. jewelry store norridge il | searches/mo 3,900 (est) | CPC $4.14 | value $16,000 | Google Ads equiv $1,400/mo | our featured min $10/mo | registry competitors 5 | https://dingalinged-cpu.github.io/registry/k/jewelry-store-norridge-il/
+
+## By value (searches x CPC)
+1. dentist norridge il | searches/mo 51,000 (est) | CPC $4.70 | value $240,000 | Google Ads equiv $13,000/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/dentist-norridge-il/
+2. car wash norridge il | searches/mo 51,000 (est) | CPC $4.35 | value $220,000 | Google Ads equiv $12,000/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/car-wash-norridge-il/
+3. oil change norridge il | searches/mo 51,000 (est) | CPC $4.35 | value $220,000 | Google Ads equiv $12,000/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/oil-change-norridge-il/
+4. gym norridge il | searches/mo 51,000 (est) | CPC $1.67 | value $85,000 | Google Ads equiv $6,100/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/gym-norridge-il/
+5. mechanic norridge il | searches/mo 19,000 (est) | CPC $4.35 | value $83,000 | Google Ads equiv $4,600/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/mechanic-norridge-il/
+6. tire shop norridge il | searches/mo 15,000 (est) | CPC $4.35 | value $65,000 | Google Ads equiv $3,600/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/tire-shop-norridge-il/
+7. vet norridge il | searches/mo 15,000 (est) | CPC $4.06 | value $61,000 | Google Ads equiv $4,000/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/vet-norridge-il/
+8. haircut norridge il | searches/mo 10,000 (est) | CPC $4.62 | value $46,000 | Google Ads equiv $2,600/mo | our featured min $50/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/haircut-norridge-il/
+9. auto repair norridge il | searches/mo 8,300 (est) | CPC $4.35 | value $36,000 | Google Ads equiv $2,000/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/auto-repair-norridge-il/
+10. hair salon norridge il | searches/mo 41,000 (est) | CPC $0.55 | value $23,000 | Google Ads equiv $1,300/mo | our featured min $50/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/hair-salon-norridge-il/
+11. real estate agent norridge il | searches/mo 5,500 (est) | CPC $3.61 | value $20,000 | Google Ads equiv $1,700/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/real-estate-agent-norridge-il/
+12. tax preparer norridge il | searches/mo 1,700 (est) | CPC $5.87 | value $10,000 | Google Ads equiv $560/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/tax-preparer-norridge-il/
+13. realtor norridge il | searches/mo 2,500 (est) | CPC $3.70 | value $9,200 | Google Ads equiv $780/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/realtor-norridge-il/
+14. insurance agency norridge il | searches/mo 2,500 (est) | CPC $3.39 | value $8,500 | Google Ads equiv $710/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/insurance-agency-norridge-il/
+15. tax preparation norridge il | searches/mo 2,000 (est) | CPC $3.25 | value $6,500 | Google Ads equiv $540/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/tax-preparation-norridge-il/
+
+All market data: https://dingalinged-cpu.github.io/registry/market/ | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html

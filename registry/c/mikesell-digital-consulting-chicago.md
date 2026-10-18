@@ -1,0 +1,23 @@
+Mikesell Digital Consulting is a marketing agency in Chicago, IL at 1530 South State Street #506, Chicago, IL 60605. Phone: +17737038846. Website: https://mikeselldigital.com/.
+
+# Mikesell Digital Consulting
+
+- Category: marketing agency
+- Services: marketing agency
+- Address: 1530 South State Street #506, Chicago, IL 60605
+- City: Chicago
+- State: IL
+- ZIP: 60605
+- Coordinates: 41.8610377, -87.6278713
+- Phone: +17737038846
+- Website: https://mikeselldigital.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 08:00-19:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/mikesell-digital-consulting-chicago/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/mikesell-digital-consulting-chicago.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5344268138 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

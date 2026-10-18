@@ -1,0 +1,23 @@
+Charles Schwab is a financial advisor in Winnetka, IL at 598 Green Bay Road, Winnetka, IL 60093.
+
+# Charles Schwab
+
+- Category: financial advisor
+- Services: financial advisor
+- Address: 598 Green Bay Road, Winnetka, IL 60093
+- City: Winnetka
+- State: IL
+- ZIP: 60093
+- Coordinates: 42.1075175, -87.7358449
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/charles-schwab-winnetka/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/charles-schwab-winnetka.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12599343551 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

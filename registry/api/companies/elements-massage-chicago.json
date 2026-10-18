@@ -1,0 +1,58 @@
+{
+ "slug": "elements-massage-chicago",
+ "name": "Elements Massage",
+ "categories": [
+  "massage"
+ ],
+ "keywords": [
+  "massage",
+  "massage chicago il"
+ ],
+ "services": [
+  {
+   "name": "massage",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1160 South Michigan Avenue",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60605",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60605",
+ "geo": {
+  "lat": 41.8676471,
+  "lon": -87.6243735
+ },
+ "phone": "+13124362408",
+ "website": "https://elementsmassage.com/south-loop",
+ "brand": "Elements Massage",
+ "wikidata": "Q113642393",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/13293612478",
+ "osm": {
+  "type": "node",
+  "id": 13293612478,
+  "tags_used": {
+   "shop": "massage"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/elements-massage-chicago/",
+ "summary": "Elements Massage is a massage studio in Chicago, IL at 1160 South Michigan Avenue, Chicago, IL 60605. Phone: +13124362408. Website: https://elementsmassage.com/south-loop.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

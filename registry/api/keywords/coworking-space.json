@@ -12,9 +12,9 @@
   "affordable coworking space the United States",
   "emergency coworking space the United States"
  ],
- "answer": "The top unpaid coworking space listing for the United States is Local Collective, LLC (a coworking space in Saint Paul, MN at 523 Jackson Street, Saint Paul, MN 55101. Phone: +14697315458. Website: https://localcollectivehq.com/). 14 coworking space businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "answer": "The top unpaid coworking space listing for the United States is Enclave Coworking (a coworking space in Highland Park, IL at 1849 Green Bay Road #109, Highland Park, IL 60035. Phone: +16302964575. Website: https://enclavecoworking.com/locations/highland-park). 37 coworking space businesses are listed for the United States as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
  "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
- "updated": "2026-10-17",
+ "updated": "2026-10-18",
  "sponsored_slots": {
   "featured_1": "available",
   "spots_2_4_sold": 0
@@ -27,6 +27,41 @@
  "results": [
   {
    "position": 1,
+   "sponsored": false,
+   "slug": "enclave-coworking-highland-park",
+   "name": "Enclave Coworking",
+   "summary": "Enclave Coworking is a coworking space in Highland Park, IL at 1849 Green Bay Road #109, Highland Park, IL 60035. Phone: +16302964575. Website: https://enclavecoworking.com/locations/highland-park.",
+   "categories": [
+    "coworking space"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/enclave-coworking-highland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/enclave-coworking-highland-park.json",
+   "address": {
+    "streetAddress": "1849 Green Bay Road #109",
+    "addressLocality": "Highland Park",
+    "addressRegion": "IL",
+    "postalCode": "60035",
+    "addressCountry": "US"
+   },
+   "city": "Highland Park",
+   "state": "IL",
+   "zip": "60035",
+   "geo": {
+    "lat": 42.1856271,
+    "lon": -87.8023099
+   },
+   "phone": "+16302964575",
+   "website": "https://enclavecoworking.com/locations/highland-park",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13946292831",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
    "sponsored": false,
    "slug": "local-collective-llc-saint-paul",
    "name": "Local Collective, LLC",
@@ -61,7 +96,42 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 2,
+   "position": 3,
+   "sponsored": false,
+   "slug": "mhub-chicago",
+   "name": "mHUB",
+   "summary": "mHUB is a coworking space in Chicago, IL at 1623 West Fulton Street, Chicago, IL 60612. Phone: +13122488701. Website: https://www.mhubchicago.com/.",
+   "categories": [
+    "coworking space"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mhub-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mhub-chicago.json",
+   "address": {
+    "streetAddress": "1623 West Fulton Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60612",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60612",
+   "geo": {
+    "lat": 41.8865377,
+    "lon": -87.6675585
+   },
+   "phone": "+13122488701",
+   "website": "https://www.mhubchicago.com/",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/209829920",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
    "sponsored": false,
    "slug": "work-it-coworking-saint-paul",
    "name": "Work It Coworking",
@@ -96,7 +166,143 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 3,
+   "position": 5,
+   "sponsored": false,
+   "slug": "4343-ascending-house-matteson",
+   "name": "4343 Ascending House",
+   "summary": "4343 Ascending House is a coworking space in Matteson, IL at 4343 Lincoln Highway, Matteson, IL 60443. Phone: +17089224604. Website: https://gsu.ecommercemgmt.com/why-join-4343-ascending-house/.",
+   "categories": [
+    "coworking space"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/4343-ascending-house-matteson/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/4343-ascending-house-matteson.json",
+   "address": {
+    "streetAddress": "4343 Lincoln Highway",
+    "addressLocality": "Matteson",
+    "addressRegion": "IL",
+    "postalCode": "60443",
+    "addressCountry": "US"
+   },
+   "city": "Matteson",
+   "state": "IL",
+   "zip": "60443",
+   "geo": {
+    "lat": 41.5055798,
+    "lon": -87.7219643
+   },
+   "phone": "+17089224604",
+   "website": "https://gsu.ecommercemgmt.com/why-join-4343-ascending-house/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8796103358",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "focus-hub-brookfield",
+   "name": "Focus Hub",
+   "summary": "Focus Hub is a coworking space in Brookfield, IL at 8904 Ogden Avenue, Brookfield, IL 60513. Phone: +17082610933. Website: https://thefocushubb.com/.",
+   "categories": [
+    "coworking space"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/focus-hub-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/focus-hub-brookfield.json",
+   "address": {
+    "streetAddress": "8904 Ogden Avenue",
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "postalCode": "60513",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "zip": "60513",
+   "geo": {
+    "lat": 41.8167744,
+    "lon": -87.8442599
+   },
+   "phone": "+17082610933",
+   "website": "https://thefocushubb.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10733645342",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "guild-row-chicago",
+   "name": "Guild Row",
+   "summary": "Guild Row is a coworking space in Chicago, IL at 3130 North Rockwell Street, Chicago, IL 60618. Phone: +17736831736. Website: https://www.guildrow.co/.",
+   "categories": [
+    "coworking space"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/guild-row-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/guild-row-chicago.json",
+   "address": {
+    "streetAddress": "3130 North Rockwell Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60618",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60618",
+   "geo": {
+    "lat": 41.938683,
+    "lon": -87.6931472
+   },
+   "phone": "+17736831736",
+   "website": "https://www.guildrow.co/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8796076024",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "hatch-41-chicago",
+   "name": "Hatch 41",
+   "summary": "Hatch 41 is a coworking space in Chicago, IL at 4131 South State Street, Chicago, IL 60609. Phone: +17739189639. Website: https://www.hatch41.com/.",
+   "categories": [
+    "coworking space"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hatch-41-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hatch-41-chicago.json",
+   "address": {
+    "streetAddress": "4131 South State Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60609",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60609",
+   "geo": {
+    "lat": 41.818778,
+    "lon": -87.6259808
+   },
+   "phone": "+17739189639",
+   "website": "https://www.hatch41.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9077795602",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
    "sponsored": false,
    "slug": "impact-hub-minneapolis",
    "name": "Impact Hub",
@@ -130,7 +336,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 4,
+   "position": 10,
    "sponsored": false,
    "slug": "lakes-and-plains-llc-saint-paul",
    "name": "Lakes & Plains, LLC",
@@ -164,7 +370,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 5,
+   "position": 11,
    "sponsored": false,
    "slug": "modernwell-minneapolis",
    "name": "ModernWell",
@@ -198,7 +404,207 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 6,
+   "position": 12,
+   "sponsored": false,
+   "slug": "mycorneroffice-lincoln-square-chicago",
+   "name": "MyCornerOffice - Lincoln Square",
+   "summary": "MyCornerOffice - Lincoln Square is a coworking space in Chicago, IL at 4631 North Lincoln Avenue, Chicago, IL 60625. Phone: +17739618669. Website: https://www.facebook.com/mycornerofficelincolnsquare.",
+   "categories": [
+    "coworking space"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mycorneroffice-lincoln-square-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mycorneroffice-lincoln-square-chicago.json",
+   "address": {
+    "streetAddress": "4631 North Lincoln Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60625",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60625",
+   "geo": {
+    "lat": 41.9658652,
+    "lon": -87.6865686
+   },
+   "phone": "+17739618669",
+   "website": "https://www.facebook.com/mycornerofficelincolnsquare",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12232127890",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
+   "sponsored": false,
+   "slug": "platform-coworking-chicago",
+   "name": "Platform Coworking",
+   "summary": "Platform Coworking is a coworking space in Chicago, IL at 1212 North Ashland Avenue #2nd Floor, Chicago, IL 60622. Phone: +17738502797. Website: https://platformcoworking.com/.",
+   "categories": [
+    "coworking space"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/platform-coworking-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/platform-coworking-chicago.json",
+   "address": {
+    "streetAddress": "1212 North Ashland Avenue #2nd Floor",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60622",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60622",
+   "geo": {
+    "lat": 41.9039975,
+    "lon": -87.667946
+   },
+   "phone": "+17738502797",
+   "website": "https://platformcoworking.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3652929704",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 14,
+   "sponsored": false,
+   "slug": "second-shift-chicago",
+   "name": "Second Shift",
+   "summary": "Second Shift is a coworking space in Chicago, IL at 3432 West Diversey Avenue #2nd Floor, Chicago, IL 60618. Phone: +17736986142. Website: https://www.secondshiftchicago.com/.",
+   "categories": [
+    "coworking space"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/second-shift-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/second-shift-chicago.json",
+   "address": {
+    "streetAddress": "3432 West Diversey Avenue #2nd Floor",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60618",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60618",
+   "geo": {
+    "lat": 41.9320932,
+    "lon": -87.7135834
+   },
+   "phone": "+17736986142",
+   "website": "https://www.secondshiftchicago.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6173309676",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 15,
+   "sponsored": false,
+   "slug": "spaces-chicago",
+   "name": "Spaces",
+   "summary": "Spaces is a coworking space in Chicago, IL at 332 South Michigan Avenue #900, Chicago, IL. Website: https://www.spacesworks.com/.",
+   "categories": [
+    "coworking space"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/spaces-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/spaces-chicago.json",
+   "address": {
+    "streetAddress": "332 South Michigan Avenue #900",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8774911,
+    "lon": -87.6246718
+   },
+   "website": "https://www.spacesworks.com/",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 13.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13512860201",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 16,
+   "sponsored": false,
+   "slug": "1921-chicago",
+   "name": "1921",
+   "summary": "1921 is a coworking space in Chicago, IL at 11001 South Michigan Avenue, Chicago, IL 60628. Website: https://www.1921coworking.com/.",
+   "categories": [
+    "coworking space"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/1921-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/1921-chicago.json",
+   "address": {
+    "streetAddress": "11001 South Michigan Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60628",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60628",
+   "geo": {
+    "lat": 41.6941799,
+    "lon": -87.6205943
+   },
+   "website": "https://www.1921coworking.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8487419339",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 17,
+   "sponsored": false,
+   "slug": "englewood-accelerator-chicago",
+   "name": "Englewood Accelerator",
+   "summary": "Englewood Accelerator is a coworking space in Chicago, IL at 815 West 63rd Street #4th Floor, Chicago, IL 60621. Website: https://englewoodaccelerator.com/.",
+   "categories": [
+    "coworking space"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/englewood-accelerator-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/englewood-accelerator-chicago.json",
+   "address": {
+    "streetAddress": "815 West 63rd Street #4th Floor",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60621",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60621",
+   "geo": {
+    "lat": 41.7795277,
+    "lon": -87.6456041
+   },
+   "website": "https://englewoodaccelerator.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6174999046",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 18,
    "sponsored": false,
    "slug": "hub44-minneapolis",
    "name": "HUB44",
@@ -231,7 +637,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 7,
+   "position": 19,
    "sponsored": false,
    "slug": "industrious-minneapolis",
    "name": "Industrious",
@@ -264,7 +670,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 8,
+   "position": 20,
    "sponsored": false,
    "slug": "new-rules-minneapolis",
    "name": "New Rules",
@@ -297,7 +703,40 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 9,
+   "position": 21,
+   "sponsored": false,
+   "slug": "space-by-doejo-chicago",
+   "name": "SPACE by doejo",
+   "summary": "SPACE by doejo is a coworking space in Chicago, IL at 444 North Wabash Avenue, Chicago, IL 60611. Phone: +13124871648.",
+   "categories": [
+    "coworking space"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/space-by-doejo-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/space-by-doejo-chicago.json",
+   "address": {
+    "streetAddress": "444 North Wabash Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60611",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60611",
+   "geo": {
+    "lat": 41.8906332,
+    "lon": -87.6269064
+   },
+   "phone": "+13124871648",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10059112441",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 22,
    "sponsored": false,
    "slug": "the-coven-saint-paul",
    "name": "The Coven",
@@ -330,7 +769,73 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 10,
+   "position": 23,
+   "sponsored": false,
+   "slug": "the-garage-evanston",
+   "name": "The Garage",
+   "summary": "The Garage is a coworking space in Evanston, IL at 2311 Campus Drive, Evanston, IL 60208. Website: https://thegarage.northwestern.edu/.",
+   "categories": [
+    "coworking space"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-garage-evanston/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-garage-evanston.json",
+   "address": {
+    "streetAddress": "2311 Campus Drive",
+    "addressLocality": "Evanston",
+    "addressRegion": "IL",
+    "postalCode": "60208",
+    "addressCountry": "US"
+   },
+   "city": "Evanston",
+   "state": "IL",
+   "zip": "60208",
+   "geo": {
+    "lat": 42.0596879,
+    "lon": -87.6736082
+   },
+   "website": "https://thegarage.northwestern.edu/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2295262310",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 24,
+   "sponsored": false,
+   "slug": "the-honeycomb-network-chicago",
+   "name": "The Honeycomb Network",
+   "summary": "The Honeycomb Network is a coworking space in Chicago, IL at 2659 West Division Street, Chicago, IL 60622. Website: https://www.thehoneycombnetwork.com/.",
+   "categories": [
+    "coworking space"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-honeycomb-network-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-honeycomb-network-chicago.json",
+   "address": {
+    "streetAddress": "2659 West Division Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60622",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60622",
+   "geo": {
+    "lat": 41.9027851,
+    "lon": -87.6942665
+   },
+   "website": "https://www.thehoneycombnetwork.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7560912128",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 25,
    "sponsored": false,
    "slug": "the-wilderness-minneapolis",
    "name": "The Wilderness",
@@ -363,7 +868,40 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 11,
+   "position": 26,
+   "sponsored": false,
+   "slug": "university-cowork-chicago",
+   "name": "University CoWork",
+   "summary": "University CoWork is a coworking space in Chicago, IL at 6127 South University Avenue, Chicago, IL 60637. Website: https://www.universitycowork.com/.",
+   "categories": [
+    "coworking space"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/university-cowork-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/university-cowork-chicago.json",
+   "address": {
+    "streetAddress": "6127 South University Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60637",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60637",
+   "geo": {
+    "lat": 41.783311,
+    "lon": -87.5976357
+   },
+   "website": "https://www.universitycowork.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6545346454",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 27,
    "sponsored": false,
    "slug": "coco-coworking-minneapolis",
    "name": "Coco Coworking",
@@ -394,7 +932,38 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 12,
+   "position": 28,
+   "sponsored": false,
+   "slug": "creative-coworking-chicago",
+   "name": "Creative Coworking",
+   "summary": "Creative Coworking is a coworking space in Chicago, IL at 1407 West Chicago Avenue, Chicago, IL. Website: https://www.creativecoworking.com/.",
+   "categories": [
+    "coworking space"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/creative-coworking-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/creative-coworking-chicago.json",
+   "address": {
+    "streetAddress": "1407 West Chicago Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8959672,
+    "lon": -87.6627607
+   },
+   "website": "https://www.creativecoworking.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12473747084",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 29,
    "sponsored": false,
    "slug": "the-work-lounge-rogers",
    "name": "The Work Lounge",
@@ -425,7 +994,169 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 13,
+   "position": 30,
+   "sponsored": false,
+   "slug": "818-coworking-evanston",
+   "name": "818 Coworking",
+   "summary": "818 Coworking is a coworking space in Evanston, IL at 818 Lake Street, Evanston, IL 60201.",
+   "categories": [
+    "coworking space"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/818-coworking-evanston/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/818-coworking-evanston.json",
+   "address": {
+    "streetAddress": "818 Lake Street",
+    "addressLocality": "Evanston",
+    "addressRegion": "IL",
+    "postalCode": "60201",
+    "addressCountry": "US"
+   },
+   "city": "Evanston",
+   "state": "IL",
+   "zip": "60201",
+   "geo": {
+    "lat": 42.0439209,
+    "lon": -87.6828992
+   },
+   "opening_hours": "Mo-Fr 08:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2295219913",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 31,
+   "sponsored": false,
+   "slug": "wework-chicago",
+   "name": "WeWork",
+   "summary": "WeWork is a coworking space in Chicago, IL at 330 North Wabash Avenue #23rd Floor, Chicago, IL 60611.",
+   "categories": [
+    "coworking space"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wework-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wework-chicago.json",
+   "address": {
+    "streetAddress": "330 North Wabash Avenue #23rd Floor",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60611",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60611",
+   "geo": {
+    "lat": 41.8884208,
+    "lon": -87.6276099
+   },
+   "opening_hours": "Mo-Fr 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10115398842",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 32,
+   "sponsored": false,
+   "slug": "platform-chicago",
+   "name": "Platform",
+   "summary": "Platform is a coworking space in Chicago, IL at 1212 North Milwaukee Avenue #2nd Floor, Chicago, IL 60622.",
+   "categories": [
+    "coworking space"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/platform-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/platform-chicago.json",
+   "address": {
+    "streetAddress": "1212 North Milwaukee Avenue #2nd Floor",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60622",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60622",
+   "geo": {
+    "lat": 41.9035692,
+    "lon": -87.6688464
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6340919273",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 33,
+   "sponsored": false,
+   "slug": "spaces-chicago-w210680507",
+   "name": "Spaces",
+   "summary": "Spaces is a coworking space in Chicago, IL at 620 North LaSalle Drive, Chicago, IL 60654.",
+   "categories": [
+    "coworking space"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/spaces-chicago-w210680507/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/spaces-chicago-w210680507.json",
+   "address": {
+    "streetAddress": "620 North LaSalle Drive",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60654",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60654",
+   "geo": {
+    "lat": 41.8929684,
+    "lon": -87.6330233
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/210680507",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 34,
+   "sponsored": false,
+   "slug": "technexus-chicago",
+   "name": "TechNexus",
+   "summary": "TechNexus is a coworking space in Chicago, IL at 20 North Wacker Drive #12th Floor, Chicago, IL 60606.",
+   "categories": [
+    "coworking space"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/technexus-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/technexus-chicago.json",
+   "address": {
+    "streetAddress": "20 North Wacker Drive #12th Floor",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60606",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60606",
+   "geo": {
+    "lat": 41.8821113,
+    "lon": -87.6372914
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10076264438",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 35,
    "sponsored": false,
    "slug": "kontor-cowork-eden-prairie",
    "name": "Kontor Cowork",
@@ -454,7 +1185,36 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 14,
+   "position": 36,
+   "sponsored": false,
+   "slug": "liquid-spaces-lyons",
+   "name": "Liquid Spaces",
+   "summary": "Liquid Spaces is a coworking space in Lyons, IL.",
+   "categories": [
+    "coworking space"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/liquid-spaces-lyons/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/liquid-spaces-lyons.json",
+   "address": {
+    "addressLocality": "Lyons",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Lyons",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8178708,
+    "lon": -87.8241231
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9809916428",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 37,
    "sponsored": false,
    "slug": "scout-workshop-minneapolis",
    "name": "Scout Workshop",
@@ -482,5 +1242,224 @@
    "source_url": "https://www.openstreetmap.org/node/11374270585",
    "last_checked": "2026-10-17"
   }
- ]
+ ],
+ "market": {
+  "keyword": "coworking space",
+  "slug": "coworking-space",
+  "base_keyword": "coworking space",
+  "scope": "national",
+  "city": null,
+  "state": null,
+  "category": "real_estate",
+  "industry": "Real Estate",
+  "us_monthly_searches": {
+   "value": 22000,
+   "range": [
+    15000,
+    27000
+   ],
+   "method": "estimate",
+   "estimate_method": "median of 12 cited US volumes for 'med'-demand keywords in category 'real_estate' (b2b_professional research); rounded to 2 significant figures; range = 25th-75th percentile",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "confidence": "low"
+  },
+  "local_monthly_searches": null,
+  "cpc_usd": {
+   "industry_benchmark": "Real Estate",
+   "low_usd": 2.53,
+   "median_usd": 3.22,
+   "high_usd": 3.22,
+   "method": "published benchmarks: low/high = range of the industry and sub-industry median CPCs listed in 'figures'; median = most specific benchmark",
+   "figures": [
+    {
+     "usd": 3.22,
+     "label": "Real Estate median CPC 2026",
+     "source": "wordstream_2026"
+    },
+    {
+     "usd": 2.53,
+     "label": "Real Estate median CPC 2025",
+     "source": "wordstream_2025"
+    }
+   ],
+   "source": "wordstream_2026",
+   "as_of": "2026",
+   "basis_for_value": {
+    "usd": 3.22,
+    "method": "benchmark median CPC",
+    "source": "wordstream_2026"
+   }
+  },
+  "ctr_pct": {
+   "value": 8.43,
+   "label": "Real Estate average search-ad CTR 2025",
+   "source": "wordstream_2025",
+   "as_of": "2025-03"
+  },
+  "competition": {
+   "level": "low",
+   "method": "proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research)",
+   "source": "wordstream_2026",
+   "as_of": "2026"
+  },
+  "trend": null,
+  "seasonality": {
+   "value": null,
+   "note": "No seasonality data in the research sources for this keyword."
+  },
+  "ai_query": {
+   "text": "No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.",
+   "figures": [
+    {
+     "value": "45%",
+     "label": "US adults using AI for local recommendations",
+     "source": "brightlocal_lcrs_2026"
+    },
+    {
+     "value": "75%",
+     "label": "sessions with keyword-style prompts",
+     "source": "sagapixel_sel"
+    },
+    {
+     "value": "59%",
+     "label": "local-intent prompts that triggered web search",
+     "source": "nectiv"
+    }
+   ],
+   "as_of": "2026"
+  },
+  "registry_competitors": {
+   "value": 37,
+   "slugs": [
+    "1921-chicago",
+    "4343-ascending-house-matteson",
+    "818-coworking-evanston",
+    "coco-coworking-minneapolis",
+    "creative-coworking-chicago",
+    "enclave-coworking-highland-park",
+    "englewood-accelerator-chicago",
+    "focus-hub-brookfield",
+    "guild-row-chicago",
+    "hatch-41-chicago"
+   ],
+   "method_id": "competitors",
+   "source": "registry",
+   "as_of": "2026-10-18",
+   "urls": [
+    "https://dingalinged-cpu.github.io/registry/c/1921-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/4343-ascending-house-matteson/",
+    "https://dingalinged-cpu.github.io/registry/c/818-coworking-evanston/",
+    "https://dingalinged-cpu.github.io/registry/c/coco-coworking-minneapolis/",
+    "https://dingalinged-cpu.github.io/registry/c/creative-coworking-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/enclave-coworking-highland-park/",
+    "https://dingalinged-cpu.github.io/registry/c/englewood-accelerator-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/focus-hub-brookfield/",
+    "https://dingalinged-cpu.github.io/registry/c/guild-row-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/hatch-41-chicago/"
+   ],
+   "method": "count of registry listings tagged with the keyword (city/national) or with the base service in the same state (state keywords)"
+  },
+  "agent_demand": null,
+  "agent_demand_note": "Not yet measured. Will carry AI-agent query counts from the registry's agent analytics (contract: meta.agent_demand_contract in the market index).",
+  "equivalent_google_ads_cost_month": {
+   "value_usd": 6000,
+   "method": "estimate",
+   "method_id": "google_ads_equiv",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote."
+  },
+  "search_value_index": {
+   "value_usd": 71000,
+   "method": "estimate",
+   "method_id": "value_index",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: search value index = monthly searches x CPC basis; an advertiser-value ranking signal, not revenue; rounded to 2 significant figures."
+  },
+  "auction": {
+   "featured_spot_min_usd": 250,
+   "spots_2_to_4_min_usd": 25,
+   "tier": "high",
+   "pricing_rule": "tier minimum (premium $500, high $250, mid $100, standard $50) for national keywords; city = max($10, 20% of tier); state = max($10, 35% of tier); spots 2-4 open at 10% of the featured minimum",
+   "model": "Monthly auction in the last 7 days of each month: days 1-5 bid for the Featured #1 spot, days 6-7 for spots 2-4; winners display all next month; all paid spots labeled Sponsored.",
+   "next_auctions": [
+    {
+     "display_month": "2026-11",
+     "featured_spot_bidding": [
+      "2026-10-25",
+      "2026-10-29"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-10-30",
+      "2026-10-31"
+     ]
+    },
+    {
+     "display_month": "2026-12",
+     "featured_spot_bidding": [
+      "2026-11-24",
+      "2026-11-28"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-11-29",
+      "2026-11-30"
+     ]
+    }
+   ],
+   "source": "registry_auction",
+   "as_of": "2026-10-18"
+  },
+  "sources": {
+   "brightlocal_lcrs_2026": {
+    "name": "BrightLocal Local Consumer Review Survey 2026 (n=1,002 US adults)",
+    "url": "https://www.brightlocal.com/research/lcrs-ai-trust/",
+    "as_of": "2026"
+   },
+   "nectiv": {
+    "name": "Nectiv study of 8,500+ ChatGPT prompts",
+    "url": "https://nectivdigital.com/blog/new-data-study-what-queries-is-chatgpt-using-behind-the-scenes",
+    "as_of": "2025"
+   },
+   "registry": {
+    "name": "This registry's own listings (OpenStreetMap-seeded, ODbL)",
+    "url": "https://dingalinged-cpu.github.io/registry/api/companies.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_auction": {
+    "name": "Registry keyword auction catalog and rules",
+    "url": "https://dingalinged-cpu.github.io/registry/api/keyword-prices.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_estimate": {
+    "name": "Registry estimate (CC-BY-4.0); method given on each value",
+    "url": "https://dingalinged-cpu.github.io/registry/market/",
+    "as_of": "2026-10-18"
+   },
+   "sagapixel_sel": {
+    "name": "Sagapixel ChatGPT local-services sessions, via Search Engine Land",
+    "url": "https://searchengineland.com/chatgpt-users-keywords-for-local-services-data-467715",
+    "as_of": "2026-01"
+   },
+   "wordstream_2025": {
+    "name": "WordStream Google Ads Benchmarks 2025 (16,446 US campaigns, Apr 2024-Mar 2025; median CPC and CTR by industry)",
+    "url": "https://www.wordstream.com/blog/2025-google-ads-benchmarks",
+    "as_of": "2025-03"
+   },
+   "wordstream_2026": {
+    "name": "LocaliQ/WordStream Search Advertising Benchmarks 2026 (US median CPC by industry)",
+    "url": "https://www.localiq.com/blog/search-advertising-benchmarks",
+    "as_of": "2026"
+   }
+  },
+  "license": {
+   "registry_estimates": "CC-BY-4.0",
+   "url": "https://creativecommons.org/licenses/by/4.0/",
+   "cited_figures": "attribute to the publishers in sources"
+  },
+  "as_of": "2026-10-18",
+  "api": "https://dingalinged-cpu.github.io/registry/api/market/coworking-space.json",
+  "rate_card": "https://dingalinged-cpu.github.io/registry/view/market.html#coworking-space"
+ }
 }

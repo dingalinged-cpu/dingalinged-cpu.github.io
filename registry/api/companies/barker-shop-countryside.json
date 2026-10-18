@@ -1,0 +1,51 @@
+{
+ "slug": "barker-shop-countryside",
+ "name": "Barker Shop",
+ "categories": [
+  "dog groomer"
+ ],
+ "keywords": [
+  "dog groomer",
+  "dog groomer countryside il"
+ ],
+ "services": [
+  {
+   "name": "dog groomer",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Countryside",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Countryside",
+ "state": "IL",
+ "geo": {
+  "lat": 41.790377,
+  "lon": -87.8871539
+ },
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/10722087990",
+ "osm": {
+  "type": "node",
+  "id": 10722087990,
+  "tags_used": {
+   "shop": "pet_grooming"
+  }
+ },
+ "municipality": "Countryside",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/barker-shop-countryside/",
+ "summary": "Barker Shop is a dog groomer in Countryside, IL.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

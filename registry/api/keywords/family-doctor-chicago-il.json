@@ -1,0 +1,842 @@
+{
+ "keyword": "family doctor chicago il",
+ "slug": "family-doctor-chicago-il",
+ "place": "Chicago, IL",
+ "service": "family doctor",
+ "query": "Who are the best family doctor providers in Chicago, IL?",
+ "matches": [
+  "family doctor in Chicago, IL",
+  "family doctor near me (Chicago, IL)",
+  "best family doctor Chicago, IL",
+  "top rated family doctor Chicago, IL",
+  "affordable family doctor Chicago, IL",
+  "emergency family doctor Chicago, IL"
+ ],
+ "answer": "The top unpaid family doctor listing for Chicago, IL is Howard Brown Health (a family medicine practice in Chicago, IL at 1525 East 55th Street, Chicago, IL 60637. Phone: +17733881600. Website: https://howardbrown.org/clinic_location/55th-street/). 17 family doctor businesses are listed for Chicago, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-18",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "howard-brown-health-chicago",
+   "name": "Howard Brown Health",
+   "summary": "Howard Brown Health is a family medicine practice in Chicago, IL at 1525 East 55th Street, Chicago, IL 60637. Phone: +17733881600. Website: https://howardbrown.org/clinic_location/55th-street/.",
+   "categories": [
+    "family doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/howard-brown-health-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/howard-brown-health-chicago.json",
+   "address": {
+    "streetAddress": "1525 East 55th Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60637",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60637",
+   "geo": {
+    "lat": 41.7949314,
+    "lon": -87.588053
+   },
+   "phone": "+17733881600",
+   "website": "https://howardbrown.org/clinic_location/55th-street/",
+   "opening_hours": "Mo 09:00-17:00, Tu 10:00-20:00, We 09:00-17:00, Th 09:00-20:00, Fr 09:00-17:00, Sa 14:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6960829677",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "howard-brown-health-halsted-chicago",
+   "name": "Howard Brown Health - Halsted",
+   "summary": "Howard Brown Health - Halsted is a family medicine practice in Chicago, IL at 3501 North Halsted Street, Chicago, IL 60657. Phone: +17733881600. Website: https://howardbrown.org/clinic_location/halsted/.",
+   "categories": [
+    "family doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/howard-brown-health-halsted-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/howard-brown-health-halsted-chicago.json",
+   "address": {
+    "streetAddress": "3501 North Halsted Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60657",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60657",
+   "geo": {
+    "lat": 41.945827,
+    "lon": -87.6491513
+   },
+   "phone": "+17733881600",
+   "website": "https://howardbrown.org/clinic_location/halsted/",
+   "opening_hours": "Mo,We,Th 09:00-19:00; Tu 10:00-19:00; Fr,Sa 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1344741004",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "howard-brown-health-63rd-street-chicago",
+   "name": "Howard Brown Health 63rd Street",
+   "summary": "Howard Brown Health 63rd Street is a family medicine practice in Chicago, IL at 641 West 63rd Street, Chicago, IL 60621. Phone: +17733881600. Website: https://howardbrown.org/clinic_location/63rd-street/.",
+   "categories": [
+    "family doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/howard-brown-health-63rd-street-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/howard-brown-health-63rd-street-chicago.json",
+   "address": {
+    "streetAddress": "641 West 63rd Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60621",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60621",
+   "geo": {
+    "lat": 41.779483,
+    "lon": -87.6412817
+   },
+   "phone": "+17733881600",
+   "website": "https://howardbrown.org/clinic_location/63rd-street/",
+   "opening_hours": "Mo 09:00-17:00, Tu 10:00-17:00, We-Th 09:00-19:00, Fr 09:00-05:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6960857329",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "howard-brown-health-at-la-casa-norte-chicago",
+   "name": "Howard Brown Health at La Casa Norte",
+   "summary": "Howard Brown Health at La Casa Norte is a family medicine practice in Chicago, IL at 3533 West North Avenue, Chicago, IL 60647. Phone: +17733881600. Website: https://howardbrown.org/clinic_location/la-casa-norte/.",
+   "categories": [
+    "family doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/howard-brown-health-at-la-casa-norte-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/howard-brown-health-at-la-casa-norte-chicago.json",
+   "address": {
+    "streetAddress": "3533 West North Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60647",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60647",
+   "geo": {
+    "lat": 41.9097132,
+    "lon": -87.7156223
+   },
+   "phone": "+17733881600",
+   "website": "https://howardbrown.org/clinic_location/la-casa-norte/",
+   "opening_hours": "Mo 09:00-17:00, Tu 10:00-17:00, We 09:00-17:00, Th 11:00-19:00, Fr 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/relation/19385672",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "howard-brown-health-at-thresholds-south-chicago",
+   "name": "Howard Brown Health at Thresholds South",
+   "summary": "Howard Brown Health at Thresholds South is a family medicine practice in Chicago, IL at 734 West 47th Street, Chicago, IL 60609. Phone: +17733881600. Website: https://howardbrown.org/clinic_location/thresholds-south/.",
+   "categories": [
+    "family doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/howard-brown-health-at-thresholds-south-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/howard-brown-health-at-thresholds-south-chicago.json",
+   "address": {
+    "streetAddress": "734 West 47th Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60609",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60609",
+   "geo": {
+    "lat": 41.8091048,
+    "lon": -87.6445964
+   },
+   "phone": "+17733881600",
+   "website": "https://howardbrown.org/clinic_location/thresholds-south/",
+   "opening_hours": "Mo 09:00-16:30, Tu 10:00-18:30, We-Fr 09:00-16:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/210165273",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "howard-brown-health-clark-chicago",
+   "name": "Howard Brown Health Clark",
+   "summary": "Howard Brown Health Clark is a family medicine practice in Chicago, IL at 6500 North Clark Street, Chicago, IL 60626. Phone: +17733881600. Website: https://howardbrown.org/clinic_location/clark-street/.",
+   "categories": [
+    "family doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/howard-brown-health-clark-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/howard-brown-health-clark-chicago.json",
+   "address": {
+    "streetAddress": "6500 North Clark Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60626",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60626",
+   "geo": {
+    "lat": 41.9999868,
+    "lon": -87.6716637
+   },
+   "phone": "+17733881600",
+   "website": "https://howardbrown.org/clinic_location/clark-street/",
+   "opening_hours": "Mo 09:00-18:00, Tu 10:00-19:00, We-Th 09:00-19:00, Fr 09:00-17:00, Sa 09:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/209953259",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "howard-brown-health-sheridan-chicago",
+   "name": "Howard Brown Health Sheridan",
+   "summary": "Howard Brown Health Sheridan is a family medicine practice in Chicago, IL at 4025 North Sheridan Road, Chicago, IL 60613. Phone: +17733881600. Website: https://howardbrown.org/clinic_location/sheridan/.",
+   "categories": [
+    "family doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/howard-brown-health-sheridan-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/howard-brown-health-sheridan-chicago.json",
+   "address": {
+    "streetAddress": "4025 North Sheridan Road",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60613",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60613",
+   "geo": {
+    "lat": 41.9552048,
+    "lon": -87.6541584
+   },
+   "phone": "+17733881600",
+   "website": "https://howardbrown.org/clinic_location/sheridan/",
+   "opening_hours": "Mo-Th 09:00-19:00, Fr 09:00-17:00, Sa 09:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/210330532",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "mile-square-health-center-chicago",
+   "name": "Mile Square Health Center",
+   "summary": "Mile Square Health Center is a family medicine practice in Chicago, IL at 641 West 63rd Street, Chicago, IL 60621. Phone: +13129962000. Website: https://hospital.uillinois.edu/patients-and-visitors/mile-square-federally-qualified-health-center/locations/englewood.",
+   "categories": [
+    "family doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mile-square-health-center-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mile-square-health-center-chicago.json",
+   "address": {
+    "streetAddress": "641 West 63rd Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60621",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60621",
+   "geo": {
+    "lat": 41.779475,
+    "lon": -87.6416089
+   },
+   "phone": "+13129962000",
+   "website": "https://hospital.uillinois.edu/patients-and-visitors/mile-square-federally-qualified-health-center/locations/englewood",
+   "opening_hours": "Mo-Fr 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6960857330",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "uchicago-medicine-kenwood-chicago",
+   "name": "UChicago Medicine Kenwood",
+   "summary": "UChicago Medicine Kenwood is a family medicine practice in Chicago, IL at 4646 South Drexel Boulevard, Chicago, IL 60653. Phone: +17737026840. Website: https://www.uchicagomedicine.org/find-a-location/uchicago-medicine-kenwood.",
+   "categories": [
+    "family doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/uchicago-medicine-kenwood-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/uchicago-medicine-kenwood-chicago.json",
+   "address": {
+    "streetAddress": "4646 South Drexel Boulevard",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60653",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60653",
+   "geo": {
+    "lat": 41.8099381,
+    "lon": -87.6047927
+   },
+   "phone": "+17737026840",
+   "website": "https://www.uchicagomedicine.org/find-a-location/uchicago-medicine-kenwood",
+   "opening_hours": "Mo-Fr 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12832194108",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "one-medical-chicago",
+   "name": "One Medical",
+   "summary": "One Medical is a family medicine practice in Chicago, IL at 1931 North Halsted Street, Chicago, IL 60614. Phone: +18886636331. Website: https://www.onemedical.com/locations/chi/lincolnpark/.",
+   "categories": [
+    "family doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/one-medical-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/one-medical-chicago.json",
+   "address": {
+    "streetAddress": "1931 North Halsted Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60614",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60614",
+   "geo": {
+    "lat": 41.9170651,
+    "lon": -87.6482992
+   },
+   "phone": "+18886636331",
+   "website": "https://www.onemedical.com/locations/chi/lincolnpark/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11242673815",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 11,
+   "sponsored": false,
+   "slug": "rush-adult-and-pediatric-primary-care-chicago",
+   "name": "RUSH Adult and Pediatric Primary Care",
+   "summary": "RUSH Adult and Pediatric Primary Care is a pediatrician in Chicago, IL at 1645 West Jackson Boulevard, Chicago, IL 60612. Phone: +13129423034. Website: https://www.rush.edu/locations/rush-adult-and-pediatric-primary-care.",
+   "categories": [
+    "pediatrician"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rush-adult-and-pediatric-primary-care-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rush-adult-and-pediatric-primary-care-chicago.json",
+   "address": {
+    "streetAddress": "1645 West Jackson Boulevard",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60612",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60612",
+   "geo": {
+    "lat": 41.8773606,
+    "lon": -87.6682989
+   },
+   "phone": "+13129423034",
+   "website": "https://www.rush.edu/locations/rush-adult-and-pediatric-primary-care",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11352719095",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 12,
+   "sponsored": false,
+   "slug": "vivent-health-tpan-chicago",
+   "name": "Vivent Health + TPAN",
+   "summary": "Vivent Health + TPAN is a family medicine practice in Chicago, IL at 5537 North Broadway, Chicago, IL 60640. Phone: +17739899400. Website: https://viventhealth.org/chicago/.",
+   "categories": [
+    "family doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/vivent-health-tpan-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/vivent-health-tpan-chicago.json",
+   "address": {
+    "streetAddress": "5537 North Broadway",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60640",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60640",
+   "geo": {
+    "lat": 41.9828289,
+    "lon": -87.6598017
+   },
+   "phone": "+17739899400",
+   "website": "https://viventhealth.org/chicago/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6961223313",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
+   "sponsored": false,
+   "slug": "john-sengstacke-health-center-chicago",
+   "name": "John Sengstacke Health Center",
+   "summary": "John Sengstacke Health Center is a family medicine practice in Chicago, IL at 500 East 51st Street, Chicago, IL 60615. Website: https://www.cookcountyhhs.org/health-centers/john-sengstacke-health-center/.",
+   "categories": [
+    "family doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/john-sengstacke-health-center-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/john-sengstacke-health-center-chicago.json",
+   "address": {
+    "streetAddress": "500 East 51st Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60615",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60615",
+   "geo": {
+    "lat": 41.8024002,
+    "lon": -87.613778
+   },
+   "website": "https://www.cookcountyhhs.org/health-centers/john-sengstacke-health-center/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6328368698",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 14,
+   "sponsored": false,
+   "slug": "the-clark-chicago",
+   "name": "The Clark",
+   "summary": "The Clark is a family medicine practice in Chicago, IL at 5346 North Clark Street, Chicago, IL 60640. Website: https://theclarkmed.com/.",
+   "categories": [
+    "family doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-clark-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-clark-chicago.json",
+   "address": {
+    "streetAddress": "5346 North Clark Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60640",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60640",
+   "geo": {
+    "lat": 41.9793968,
+    "lon": -87.6684476
+   },
+   "website": "https://theclarkmed.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9219709803",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 15,
+   "sponsored": false,
+   "slug": "englewood-health-center-chicago",
+   "name": "Englewood Health Center",
+   "summary": "Englewood Health Center is a family medicine practice in Chicago, IL at 641 West 63rd Street, Chicago, IL 60621.",
+   "categories": [
+    "family doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/englewood-health-center-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/englewood-health-center-chicago.json",
+   "address": {
+    "streetAddress": "641 West 63rd Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60621",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60621",
+   "geo": {
+    "lat": 41.7794653,
+    "lon": -87.6414373
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/210521756",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 16,
+   "sponsored": false,
+   "slug": "innovative-primary-care-chicago",
+   "name": "Innovative Primary Care",
+   "summary": "Innovative Primary Care is a family medicine practice in Chicago, IL.",
+   "categories": [
+    "family doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/innovative-primary-care-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/innovative-primary-care-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9246034,
+    "lon": -87.6972535
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12046139949",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 17,
+   "sponsored": false,
+   "slug": "innovative-primary-care-chicago-n12150189309",
+   "name": "Innovative Primary Care",
+   "summary": "Innovative Primary Care is a family medicine practice in Chicago, IL.",
+   "categories": [
+    "family doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/innovative-primary-care-chicago-n12150189309/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/innovative-primary-care-chicago-n12150189309.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9045471,
+    "lon": -87.6677908
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12150189309",
+   "last_checked": "2026-10-17"
+  }
+ ],
+ "market": {
+  "keyword": "family doctor chicago il",
+  "slug": "family-doctor-chicago-il",
+  "base_keyword": "family doctor",
+  "scope": "city",
+  "city": "chicago",
+  "state": "il",
+  "category": "Health & medical",
+  "industry": "Physicians & Surgeons",
+  "us_monthly_searches": {
+   "value": 33100,
+   "method": "cited",
+   "source": "r_savogroup-com-seo-services-medical-practices",
+   "as_of": "2026-07",
+   "source_phrase": "family doctor near me",
+   "note": "US monthly searches, Semrush US Jul 2026"
+  },
+  "local_monthly_searches": {
+   "value": 910,
+   "method": "estimate",
+   "method_id": "local_metro",
+   "geography": "Chicago-Naperville-Elgin, IL-IN metro",
+   "population": 9434123,
+   "source": "registry_estimate",
+   "volume_source": "r_savogroup-com-seo-services-medical-practices",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: US monthly volume x metro population share (Census V2025 metro pop / US pop 341,784,857); rounded to 2 significant figures. Counts all searches for the service in the metro, not only searches that type this city name."
+  },
+  "cpc_usd": {
+   "industry_benchmark": "Physicians & Surgeons",
+   "low_usd": 4.76,
+   "median_usd": 4.76,
+   "high_usd": 5.0,
+   "method": "published benchmarks: low/high = range of the industry and sub-industry median CPCs listed in 'figures'; median = most specific benchmark",
+   "figures": [
+    {
+     "usd": 4.76,
+     "label": "Physicians & Surgeons median CPC 2026",
+     "source": "wordstream_2026"
+    },
+    {
+     "usd": 5.0,
+     "label": "Physicians & Surgeons median CPC 2025",
+     "source": "wordstream_2025"
+    }
+   ],
+   "source": "wordstream_2026",
+   "as_of": "2026",
+   "basis_for_value": {
+    "usd": 4.76,
+    "method": "benchmark median CPC",
+    "source": "wordstream_2026"
+   }
+  },
+  "ctr_pct": {
+   "value": 6.73,
+   "label": "Physicians & Surgeons average search-ad CTR 2025",
+   "source": "wordstream_2025",
+   "as_of": "2025-03"
+  },
+  "competition": {
+   "level": "medium",
+   "method": "proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research)",
+   "source": "wordstream_2026",
+   "as_of": "2026"
+  },
+  "trend": null,
+  "seasonality": {
+   "value": null,
+   "note": "No seasonality data in the research sources for this keyword."
+  },
+  "ai_query": {
+   "text": "No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.",
+   "figures": [
+    {
+     "value": "45%",
+     "label": "US adults using AI for local recommendations",
+     "source": "brightlocal_lcrs_2026"
+    },
+    {
+     "value": "75%",
+     "label": "sessions with keyword-style prompts",
+     "source": "sagapixel_sel"
+    },
+    {
+     "value": "59%",
+     "label": "local-intent prompts that triggered web search",
+     "source": "nectiv"
+    },
+    {
+     "value": "21%",
+     "label": "AI-first discovery journeys in healthcare (excerpt only)",
+     "source": "soci_2026"
+    }
+   ],
+   "as_of": "2026"
+  },
+  "registry_competitors": {
+   "value": 17,
+   "slugs": [
+    "englewood-health-center-chicago",
+    "howard-brown-health-63rd-street-chicago",
+    "howard-brown-health-at-la-casa-norte-chicago",
+    "howard-brown-health-at-thresholds-south-chicago",
+    "howard-brown-health-chicago",
+    "howard-brown-health-clark-chicago",
+    "howard-brown-health-halsted-chicago",
+    "howard-brown-health-sheridan-chicago",
+    "innovative-primary-care-chicago",
+    "innovative-primary-care-chicago-n12150189309"
+   ],
+   "method_id": "competitors",
+   "source": "registry",
+   "as_of": "2026-10-18",
+   "urls": [
+    "https://dingalinged-cpu.github.io/registry/c/englewood-health-center-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/howard-brown-health-63rd-street-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/howard-brown-health-at-la-casa-norte-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/howard-brown-health-at-thresholds-south-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/howard-brown-health-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/howard-brown-health-clark-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/howard-brown-health-halsted-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/howard-brown-health-sheridan-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/innovative-primary-care-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/innovative-primary-care-chicago-n12150189309/"
+   ],
+   "method": "count of registry listings tagged with the keyword (city/national) or with the base service in the same state (state keywords)"
+  },
+  "agent_demand": null,
+  "agent_demand_note": "Not yet measured. Will carry AI-agent query counts from the registry's agent analytics (contract: meta.agent_demand_contract in the market index).",
+  "equivalent_google_ads_cost_month": {
+   "value_usd": 290,
+   "method": "estimate",
+   "method_id": "google_ads_equiv",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote."
+  },
+  "search_value_index": {
+   "value_usd": 4300,
+   "method": "estimate",
+   "method_id": "value_index",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: search value index = monthly searches x CPC basis; an advertiser-value ranking signal, not revenue; rounded to 2 significant figures."
+  },
+  "auction": {
+   "featured_spot_min_usd": 50,
+   "spots_2_to_4_min_usd": 5,
+   "tier": "high",
+   "pricing_rule": "tier minimum (premium $500, high $250, mid $100, standard $50) for national keywords; city = max($10, 20% of tier); state = max($10, 35% of tier); spots 2-4 open at 10% of the featured minimum",
+   "model": "Monthly auction in the last 7 days of each month: days 1-5 bid for the Featured #1 spot, days 6-7 for spots 2-4; winners display all next month; all paid spots labeled Sponsored.",
+   "next_auctions": [
+    {
+     "display_month": "2026-11",
+     "featured_spot_bidding": [
+      "2026-10-25",
+      "2026-10-29"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-10-30",
+      "2026-10-31"
+     ]
+    },
+    {
+     "display_month": "2026-12",
+     "featured_spot_bidding": [
+      "2026-11-24",
+      "2026-11-28"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-11-29",
+      "2026-11-30"
+     ]
+    }
+   ],
+   "source": "registry_auction",
+   "as_of": "2026-10-18"
+  },
+  "sources": {
+   "brightlocal_lcrs_2026": {
+    "name": "BrightLocal Local Consumer Review Survey 2026 (n=1,002 US adults)",
+    "url": "https://www.brightlocal.com/research/lcrs-ai-trust/",
+    "as_of": "2026"
+   },
+   "nectiv": {
+    "name": "Nectiv study of 8,500+ ChatGPT prompts",
+    "url": "https://nectivdigital.com/blog/new-data-study-what-queries-is-chatgpt-using-behind-the-scenes",
+    "as_of": "2025"
+   },
+   "r_savogroup-com-seo-services-medical-practices": {
+    "name": "Semrush US Jul 2026 (via research source)",
+    "url": "https://savogroup.com/seo-services/medical-practices/",
+    "as_of": "2026-07"
+   },
+   "registry": {
+    "name": "This registry's own listings (OpenStreetMap-seeded, ODbL)",
+    "url": "https://dingalinged-cpu.github.io/registry/api/companies.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_auction": {
+    "name": "Registry keyword auction catalog and rules",
+    "url": "https://dingalinged-cpu.github.io/registry/api/keyword-prices.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_estimate": {
+    "name": "Registry estimate (CC-BY-4.0); method given on each value",
+    "url": "https://dingalinged-cpu.github.io/registry/market/",
+    "as_of": "2026-10-18"
+   },
+   "sagapixel_sel": {
+    "name": "Sagapixel ChatGPT local-services sessions, via Search Engine Land",
+    "url": "https://searchengineland.com/chatgpt-users-keywords-for-local-services-data-467715",
+    "as_of": "2026-01"
+   },
+   "soci_2026": {
+    "name": "SOCi Local Discovery Index 2026 (excerpt only, via pantora.ai)",
+    "url": "https://www.pantora.ai/blog/consumers-use-ai-to-find-local-businesses",
+    "as_of": "2026"
+   },
+   "wordstream_2025": {
+    "name": "WordStream Google Ads Benchmarks 2025 (16,446 US campaigns, Apr 2024-Mar 2025; median CPC and CTR by industry)",
+    "url": "https://www.wordstream.com/blog/2025-google-ads-benchmarks",
+    "as_of": "2025-03"
+   },
+   "wordstream_2026": {
+    "name": "LocaliQ/WordStream Search Advertising Benchmarks 2026 (US median CPC by industry)",
+    "url": "https://www.localiq.com/blog/search-advertising-benchmarks",
+    "as_of": "2026"
+   }
+  },
+  "license": {
+   "registry_estimates": "CC-BY-4.0",
+   "url": "https://creativecommons.org/licenses/by/4.0/",
+   "cited_figures": "attribute to the publishers in sources"
+  },
+  "as_of": "2026-10-18",
+  "api": "https://dingalinged-cpu.github.io/registry/api/market/family-doctor.json",
+  "rate_card": "https://dingalinged-cpu.github.io/registry/view/market.html#family-doctor-chicago-il"
+ }
+}

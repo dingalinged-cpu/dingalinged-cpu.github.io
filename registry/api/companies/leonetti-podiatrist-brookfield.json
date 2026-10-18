@@ -1,0 +1,51 @@
+{
+ "slug": "leonetti-podiatrist-brookfield",
+ "name": "Leonetti Podiatrist",
+ "categories": [
+  "podiatrist"
+ ],
+ "keywords": [
+  "podiatrist",
+  "podiatrist brookfield il"
+ ],
+ "services": [
+  {
+   "name": "podiatrist",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Brookfield",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Brookfield",
+ "state": "IL",
+ "geo": {
+  "lat": 41.8350878,
+  "lon": -87.8490245
+ },
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/9731074674",
+ "osm": {
+  "type": "node",
+  "id": 9731074674,
+  "tags_used": {
+   "healthcare": "podiatrist"
+  }
+ },
+ "municipality": "Brookfield",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/leonetti-podiatrist-brookfield/",
+ "summary": "Leonetti Podiatrist is a podiatrist in Brookfield, IL.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

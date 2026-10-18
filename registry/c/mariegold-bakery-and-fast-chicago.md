@@ -1,0 +1,23 @@
+Mariegold Bakery and Fast is a bakery in Chicago, IL at 5752 North California Avenue, Chicago, IL 60659. Phone: +17735611978.
+
+# Mariegold Bakery and Fast
+
+- Category: bakery
+- Services: bakery
+- Address: 5752 North California Avenue, Chicago, IL 60659
+- City: Chicago
+- State: IL
+- ZIP: 60659
+- Coordinates: 41.9864592, -87.6996257
+- Phone: +17735611978
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/mariegold-bakery-and-fast-chicago/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/mariegold-bakery-and-fast-chicago.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6321504485 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

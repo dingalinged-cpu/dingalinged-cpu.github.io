@@ -1,0 +1,23 @@
+Ambitions ABA is a therapy practice in Lincolnwood, IL at 6633 North Lincoln Avenue, Lincolnwood, IL 60712. Phone: +18479204441. Website: https://www.ambitionsaba.com/.
+
+# Ambitions ABA
+
+- Category: therapist
+- Services: therapist
+- Address: 6633 North Lincoln Avenue, Lincolnwood, IL 60712
+- City: Lincolnwood
+- State: IL
+- ZIP: 60712
+- Coordinates: 42.0018058, -87.7251591
+- Phone: +18479204441
+- Website: https://www.ambitionsaba.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo - Fr 08:00-20:00; Sa - Su 12:00-16:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/ambitions-aba-lincolnwood/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/ambitions-aba-lincolnwood.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1345164568 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

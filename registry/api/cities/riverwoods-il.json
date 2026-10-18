@@ -1,0 +1,451 @@
+{
+ "place": "Riverwoods, IL",
+ "slug": "riverwoods-il",
+ "count": 13,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "auto repair riverwoods il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-riverwoods-il.json"
+  },
+  {
+   "keyword": "car wash riverwoods il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-riverwoods-il.json"
+  },
+  {
+   "keyword": "florist riverwoods il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/florist-riverwoods-il.json"
+  },
+  {
+   "keyword": "furniture store riverwoods il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/furniture-store-riverwoods-il.json"
+  },
+  {
+   "keyword": "gift shop riverwoods il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gift-shop-riverwoods-il.json"
+  },
+  {
+   "keyword": "gym riverwoods il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-riverwoods-il.json"
+  },
+  {
+   "keyword": "insurance agency riverwoods il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-riverwoods-il.json"
+  },
+  {
+   "keyword": "insurance agent riverwoods il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-riverwoods-il.json"
+  },
+  {
+   "keyword": "insurance agents riverwoods il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-riverwoods-il.json"
+  },
+  {
+   "keyword": "mechanic riverwoods il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-riverwoods-il.json"
+  },
+  {
+   "keyword": "preschool riverwoods il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/preschool-riverwoods-il.json"
+  },
+  {
+   "keyword": "printing services riverwoods il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/printing-services-riverwoods-il.json"
+  },
+  {
+   "keyword": "storage units riverwoods il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/storage-units-riverwoods-il.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "extra-space-storage-wheeling",
+   "name": "Extra Space Storage",
+   "summary": "Extra Space Storage is a self-storage facility in Wheeling, IL at 991 North Milwaukee Avenue, Wheeling, IL 60090. Phone: +18472797830. Website: https://www.extraspace.com/storage/facilities/us/illinois/deerfield/501795/.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/extra-space-storage-wheeling/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/extra-space-storage-wheeling.json",
+   "address": {
+    "streetAddress": "991 North Milwaukee Avenue",
+    "addressLocality": "Wheeling",
+    "addressRegion": "IL",
+    "postalCode": "60090",
+    "addressCountry": "US"
+   },
+   "city": "Wheeling",
+   "state": "IL",
+   "zip": "60090",
+   "geo": {
+    "lat": 42.1616391,
+    "lon": -87.9188548
+   },
+   "phone": "+18472797830",
+   "website": "https://www.extraspace.com/storage/facilities/us/illinois/deerfield/501795/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1223501272",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "riverwoods-montessori-school-riverwoods",
+   "name": "Riverwoods Montessori School",
+   "summary": "Riverwoods Montessori School is a preschool in Riverwoods, IL at 3140 Riverwoods Road, Riverwoods, IL 60015. Phone: +18479457582. Website: https://montessori-schools.com/.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/riverwoods-montessori-school-riverwoods/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/riverwoods-montessori-school-riverwoods.json",
+   "address": {
+    "streetAddress": "3140 Riverwoods Road",
+    "addressLocality": "Riverwoods",
+    "addressRegion": "IL",
+    "postalCode": "60015",
+    "addressCountry": "US"
+   },
+   "city": "Riverwoods",
+   "state": "IL",
+   "zip": "60015",
+   "geo": {
+    "lat": 42.1791347,
+    "lon": -87.9023879
+   },
+   "phone": "+18479457582",
+   "website": "https://montessori-schools.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11474742626",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "anytime-fitness-riverwoods",
+   "name": "Anytime Fitness",
+   "summary": "Anytime Fitness is a gym in Riverwoods, IL at 1127 North Milwaukee Avenue, Riverwoods, IL 60015. Website: https://www.anytimefitness.com/locations/riverwoods-illinois-4241/.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/anytime-fitness-riverwoods/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/anytime-fitness-riverwoods.json",
+   "address": {
+    "streetAddress": "1127 North Milwaukee Avenue",
+    "addressLocality": "Riverwoods",
+    "addressRegion": "IL",
+    "postalCode": "60015",
+    "addressCountry": "US"
+   },
+   "city": "Riverwoods",
+   "state": "IL",
+   "zip": "60015",
+   "geo": {
+    "lat": 42.1688391,
+    "lon": -87.9205009
+   },
+   "website": "https://www.anytimefitness.com/locations/riverwoods-illinois-4241/",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13719640173",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "cubesmart-riverwoods",
+   "name": "CubeSmart",
+   "summary": "CubeSmart is a self-storage facility in Riverwoods, IL at 3725 Deerfield Road, Riverwoods, IL 60015. Website: https://www.cubesmart.com/illinois-self-storage/riverwoods-self-storage/3492.html.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cubesmart-riverwoods/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cubesmart-riverwoods.json",
+   "address": {
+    "streetAddress": "3725 Deerfield Road",
+    "addressLocality": "Riverwoods",
+    "addressRegion": "IL",
+    "postalCode": "60015",
+    "addressCountry": "US"
+   },
+   "city": "Riverwoods",
+   "state": "IL",
+   "zip": "60015",
+   "geo": {
+    "lat": 42.1671406,
+    "lon": -87.9195529
+   },
+   "website": "https://www.cubesmart.com/illinois-self-storage/riverwoods-self-storage/3492.html",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/966267515",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "edible-arrangements-riverwoods",
+   "name": "Edible Arrangements",
+   "summary": "Edible Arrangements is a gift shop in Riverwoods, IL at 2045 North Milwaukee Avenue, Riverwoods, IL 60015. Website: https://www.ediblearrangements.com/stores/2045-milwaukee-ave-deerfield-il-60015.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edible-arrangements-riverwoods/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edible-arrangements-riverwoods.json",
+   "address": {
+    "streetAddress": "2045 North Milwaukee Avenue",
+    "addressLocality": "Riverwoods",
+    "addressRegion": "IL",
+    "postalCode": "60015",
+    "addressCountry": "US"
+   },
+   "city": "Riverwoods",
+   "state": "IL",
+   "zip": "60015",
+   "geo": {
+    "lat": 42.1701734,
+    "lon": -87.9217818
+   },
+   "website": "https://www.ediblearrangements.com/stores/2045-milwaukee-ave-deerfield-il-60015",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13818720937",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "orangetheory-fitness-riverwoods",
+   "name": "Orangetheory Fitness",
+   "summary": "Orangetheory Fitness is a gym in Riverwoods, IL at 2037 North Milwaukee Avenue, Riverwoods, IL 60015. Website: https://www.orangetheory.com/en-us/locations/riverwoods-illinois-0653.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/orangetheory-fitness-riverwoods/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/orangetheory-fitness-riverwoods.json",
+   "address": {
+    "streetAddress": "2037 North Milwaukee Avenue",
+    "addressLocality": "Riverwoods",
+    "addressRegion": "IL",
+    "postalCode": "60015",
+    "addressCountry": "US"
+   },
+   "city": "Riverwoods",
+   "state": "IL",
+   "zip": "60015",
+   "geo": {
+    "lat": 42.1701197,
+    "lon": -87.9217587
+   },
+   "website": "https://www.orangetheory.com/en-us/locations/riverwoods-illinois-0653",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13818720935",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "the-ups-store-riverwoods",
+   "name": "The UPS Store",
+   "summary": "The UPS Store is a printing service in Riverwoods, IL at 203 North Milwaukee Avenue, Riverwoods, IL 60015. Website: https://locations.theupsstore.com/il/riverwoods/2033-n-milwaukee-ave.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-ups-store-riverwoods/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-ups-store-riverwoods.json",
+   "address": {
+    "streetAddress": "203 North Milwaukee Avenue",
+    "addressLocality": "Riverwoods",
+    "addressRegion": "IL",
+    "postalCode": "60015",
+    "addressCountry": "US"
+   },
+   "city": "Riverwoods",
+   "state": "IL",
+   "zip": "60015",
+   "geo": {
+    "lat": 42.1700362,
+    "lon": -87.9217416
+   },
+   "website": "https://locations.theupsstore.com/il/riverwoods/2033-n-milwaukee-ave",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13818720938",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "the-federal-life-companies-riverwoods",
+   "name": "The Federal Life Companies",
+   "summary": "The Federal Life Companies is an insurance agent in Riverwoods, IL at 3756 Deerfield Road, Riverwoods, IL 60015.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-federal-life-companies-riverwoods/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-federal-life-companies-riverwoods.json",
+   "address": {
+    "streetAddress": "3756 Deerfield Road",
+    "addressLocality": "Riverwoods",
+    "addressRegion": "IL",
+    "postalCode": "60015",
+    "addressCountry": "US"
+   },
+   "city": "Riverwoods",
+   "state": "IL",
+   "zip": "60015",
+   "geo": {
+    "lat": 42.1683097,
+    "lon": -87.9181118
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/966267514",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "flower-21-riverwoods",
+   "name": "Flower 21",
+   "summary": "Flower 21 is a florist in Riverwoods, IL.",
+   "categories": [
+    "florist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/flower-21-riverwoods/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/flower-21-riverwoods.json",
+   "address": {
+    "addressLocality": "Riverwoods",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Riverwoods",
+   "state": "IL",
+   "geo": {
+    "lat": 42.1689231,
+    "lon": -87.9213734
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8939616460",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "furniture-show-riverwoods",
+   "name": "Furniture Show",
+   "summary": "Furniture Show is a furniture store in Riverwoods, IL.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/furniture-show-riverwoods/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/furniture-show-riverwoods.json",
+   "address": {
+    "addressLocality": "Riverwoods",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Riverwoods",
+   "state": "IL",
+   "geo": {
+    "lat": 42.1689012,
+    "lon": -87.9205527
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8939616457",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "hand-wash-riverwoods",
+   "name": "Hand Wash",
+   "summary": "Hand Wash is a car wash in Riverwoods, IL.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hand-wash-riverwoods/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hand-wash-riverwoods.json",
+   "address": {
+    "addressLocality": "Riverwoods",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Riverwoods",
+   "state": "IL",
+   "geo": {
+    "lat": 42.1666551,
+    "lon": -87.8824576
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13667237196",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "rays-auto-riverwoods",
+   "name": "Ray's Auto",
+   "summary": "Ray's Auto is an auto repair shop in Riverwoods, IL.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rays-auto-riverwoods/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rays-auto-riverwoods.json",
+   "address": {
+    "addressLocality": "Riverwoods",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Riverwoods",
+   "state": "IL",
+   "geo": {
+    "lat": 42.1667641,
+    "lon": -87.8824384
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13667348827",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "state-farm-riverwoods",
+   "name": "State Farm",
+   "summary": "State Farm is an insurance agent in Riverwoods, IL.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/state-farm-riverwoods/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/state-farm-riverwoods.json",
+   "address": {
+    "addressLocality": "Riverwoods",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Riverwoods",
+   "state": "IL",
+   "geo": {
+    "lat": 42.1685006,
+    "lon": -87.9205044
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8939616455",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

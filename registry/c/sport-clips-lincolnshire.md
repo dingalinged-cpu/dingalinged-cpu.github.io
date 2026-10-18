@@ -1,0 +1,23 @@
+Sport Clips is a hair salon in Lincolnshire, IL.
+
+# Sport Clips
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: Lincolnshire, IL
+- City: Lincolnshire
+- State: IL
+- ZIP: n/a
+- Coordinates: 42.1844988, -87.9281136
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/sport-clips-lincolnshire/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/sport-clips-lincolnshire.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5761004621 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

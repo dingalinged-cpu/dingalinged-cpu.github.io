@@ -12,9 +12,9 @@
   "affordable chiropractor the United States",
   "emergency chiropractor the United States"
  ],
- "answer": "The top unpaid chiropractor listing for the United States is 50th & France Chiropractic & Wellness (a chiropractor in Edina, MN at 3948 West 50th Street #Suite 203, Edina, MN 55424. Phone: +19529204528. Website: https://edinachiropractic.com/). 89 chiropractor businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "answer": "The top unpaid chiropractor listing for the United States is 50th & France Chiropractic & Wellness (a chiropractor in Edina, MN at 3948 West 50th Street #Suite 203, Edina, MN 55424. Phone: +19529204528. Website: https://edinachiropractic.com/). 153 chiropractor businesses are listed for the United States as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
  "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
- "updated": "2026-10-17",
+ "updated": "2026-10-18",
  "sponsored_slots": {
   "featured_1": "available",
   "spots_2_4_sold": 0
@@ -63,6 +63,181 @@
   {
    "position": 2,
    "sponsored": false,
+   "slug": "active-health-spine-and-sport-morton-grove",
+   "name": "Active Health Spine & Sport",
+   "summary": "Active Health Spine & Sport is a chiropractor in Morton Grove, IL at 5814 Dempster Street, Morton Grove, IL 60053. Phone: +18478864419. Website: https://www.activehealthchicago.com/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/active-health-spine-and-sport-morton-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/active-health-spine-and-sport-morton-grove.json",
+   "address": {
+    "streetAddress": "5814 Dempster Street",
+    "addressLocality": "Morton Grove",
+    "addressRegion": "IL",
+    "postalCode": "60053",
+    "addressCountry": "US"
+   },
+   "city": "Morton Grove",
+   "state": "IL",
+   "zip": "60053",
+   "geo": {
+    "lat": 42.0411527,
+    "lon": -87.7722518
+   },
+   "phone": "+18478864419",
+   "website": "https://www.activehealthchicago.com/",
+   "opening_hours": "Mo 08:00-11:00,13:00-17:30; Tu 14:00-17:30; We-Th 13:00-18:00; Fr 11:30-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13734887935",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "active-health-spine-and-sport-northbrook",
+   "name": "Active Health Spine and Sport",
+   "summary": "Active Health Spine and Sport is a chiropractor in Northbrook, IL at 450 Skokie Boulevard #200, Northbrook, IL 60062. Phone: +18478864419. Website: https://www.activehealthchicago.com/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/active-health-spine-and-sport-northbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/active-health-spine-and-sport-northbrook.json",
+   "address": {
+    "streetAddress": "450 Skokie Boulevard #200",
+    "addressLocality": "Northbrook",
+    "addressRegion": "IL",
+    "postalCode": "60062",
+    "addressCountry": "US"
+   },
+   "city": "Northbrook",
+   "state": "IL",
+   "zip": "60062",
+   "geo": {
+    "lat": 42.1419761,
+    "lon": -87.7975932
+   },
+   "phone": "+18478864419",
+   "website": "https://www.activehealthchicago.com/",
+   "opening_hours": "Tu,Fr 09:00-14:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13734834977",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "adisi-health-center-hinsdale",
+   "name": "Adisi Health Center",
+   "summary": "Adisi Health Center is a chiropractor in Hinsdale, IL at 534 West Chestnut Street #240, Hinsdale, IL 60521. Phone: +16308871900. Website: https://adisihealth.com/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/adisi-health-center-hinsdale/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/adisi-health-center-hinsdale.json",
+   "address": {
+    "streetAddress": "534 West Chestnut Street #240",
+    "addressLocality": "Hinsdale",
+    "addressRegion": "IL",
+    "postalCode": "60521",
+    "addressCountry": "US"
+   },
+   "city": "Hinsdale",
+   "state": "IL",
+   "zip": "60521",
+   "geo": {
+    "lat": 41.8011739,
+    "lon": -87.9384321
+   },
+   "phone": "+16308871900",
+   "website": "https://adisihealth.com/",
+   "opening_hours": "Mo-Th 10:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13649938839",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "advanced-health-naperville",
+   "name": "Advanced Health",
+   "summary": "Advanced Health is a chiropractor in Naperville, IL at 1767 West Ogden Avenue #143, Naperville, IL 60540. Phone: +16303558988. Website: https://advancedhealthnaperville.com/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/advanced-health-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/advanced-health-naperville.json",
+   "address": {
+    "streetAddress": "1767 West Ogden Avenue #143",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60540",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60540",
+   "geo": {
+    "lat": 41.7622643,
+    "lon": -88.1880752
+   },
+   "phone": "+16303558988",
+   "website": "https://advancedhealthnaperville.com/",
+   "opening_hours": "Mo 09:00-18:00; Tu 10:00-17:00; We 09:00-19:00; Th 10:00-13:00, 14:00-17:00; Fr 09:00-12:00, 14:00-17:00; Sa 08:30-12:00; Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/984933124",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "arc-chiropractic-buffalo-grove",
+   "name": "ARC Chiropractic",
+   "summary": "ARC Chiropractic is a chiropractor in Buffalo Grove, IL at 1176 McHenry Road, Buffalo Grove, IL 60089. Phone: +18474693272. Website: https://www.zocdoc.com/professional/john-cress-dc-327467?LocIdent=lo_JLouWcXqPUinbyG_kmxgYh.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/arc-chiropractic-buffalo-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/arc-chiropractic-buffalo-grove.json",
+   "address": {
+    "streetAddress": "1176 McHenry Road",
+    "addressLocality": "Buffalo Grove",
+    "addressRegion": "IL",
+    "postalCode": "60089",
+    "addressCountry": "US"
+   },
+   "city": "Buffalo Grove",
+   "state": "IL",
+   "zip": "60089",
+   "geo": {
+    "lat": 42.1732693,
+    "lon": -87.9835556
+   },
+   "phone": "+18474693272",
+   "website": "https://www.zocdoc.com/professional/john-cress-dc-327467?LocIdent=lo_JLouWcXqPUinbyG_kmxgYh",
+   "opening_hours": "Mo-Fr 7:00-19:00; Sa 7:00-15:00; Su 8:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11385513617",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
    "slug": "arne-wellness-center-minnetonka",
    "name": "Arne Wellness Center",
    "summary": "Arne Wellness Center is a chiropractor in Minnetonka, MN at 13911 Ridgedale Drive #100A, Minnetonka, MN 55305. Phone: +19526973100. Website: https://www.arnewellness.com/.",
@@ -96,7 +271,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 3,
+   "position": 8,
    "sponsored": false,
    "slug": "back-to-wellness-chiropractic-and-nutrition-saint-paul",
    "name": "Back to Wellness Chiropractic & Nutrition",
@@ -131,7 +306,42 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 4,
+   "position": 9,
+   "sponsored": false,
+   "slug": "bear-chiropractic-and-rehab-llc-bolingbrook",
+   "name": "Bear Chiropractic and Rehab LLC",
+   "summary": "Bear Chiropractic and Rehab LLC is a chiropractor in Bolingbrook, IL at 425 Quadrangle Drive #120, Bolingbrook, IL 60440. Phone: +16308634203. Website: https://www.bearchirorehab.com/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bear-chiropractic-and-rehab-llc-bolingbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bear-chiropractic-and-rehab-llc-bolingbrook.json",
+   "address": {
+    "streetAddress": "425 Quadrangle Drive #120",
+    "addressLocality": "Bolingbrook",
+    "addressRegion": "IL",
+    "postalCode": "60440",
+    "addressCountry": "US"
+   },
+   "city": "Bolingbrook",
+   "state": "IL",
+   "zip": "60440",
+   "geo": {
+    "lat": 41.6875361,
+    "lon": -88.0758278
+   },
+   "phone": "+16308634203",
+   "website": "https://www.bearchirorehab.com/",
+   "opening_hours": "Mo-Fr 09:00-19:00, Sa 09:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7150287719",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
    "sponsored": false,
    "slug": "cathedral-hill-chiropractic-saint-paul",
    "name": "Cathedral Hill Chiropractic",
@@ -166,7 +376,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 5,
+   "position": 11,
    "sponsored": false,
    "slug": "chanhassen-chiropractic-chanhassen",
    "name": "Chanhassen Chiropractic",
@@ -201,7 +411,42 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 6,
+   "position": 12,
+   "sponsored": false,
+   "slug": "chiropractic-healing-center-dr-wood-weller-oak-park",
+   "name": "Chiropractic Healing Center Dr. Wood Weller",
+   "summary": "Chiropractic Healing Center Dr. Wood Weller is a chiropractor in Oak Park, IL at 715 Lake Street ##271, Oak Park, IL 60301. Phone: +17088482730. Website: https://www.chiropractichealingcenter.com/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chiropractic-healing-center-dr-wood-weller-oak-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chiropractic-healing-center-dr-wood-weller-oak-park.json",
+   "address": {
+    "streetAddress": "715 Lake Street ##271",
+    "addressLocality": "Oak Park",
+    "addressRegion": "IL",
+    "postalCode": "60301",
+    "addressCountry": "US"
+   },
+   "city": "Oak Park",
+   "state": "IL",
+   "zip": "60301",
+   "geo": {
+    "lat": 41.888318,
+    "lon": -87.7935536
+   },
+   "phone": "+17088482730",
+   "website": "https://www.chiropractichealingcenter.com/",
+   "opening_hours": "Mo,Tu 08:00-20:00; We 08:00-18:00; Th 08:00-16:00; Fr 13:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6117962467",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
    "sponsored": false,
    "slug": "chiroway-chiropractic-eagan",
    "name": "ChiroWay Chiropractic",
@@ -236,7 +481,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 7,
+   "position": 14,
    "sponsored": false,
    "slug": "complete-chiropractic-health-saint-paul",
    "name": "Complete Chiropractic Health",
@@ -271,7 +516,112 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 8,
+   "position": 15,
+   "sponsored": false,
+   "slug": "dr-calvin-george-dc-addison",
+   "name": "Dr. Calvin George, DC",
+   "summary": "Dr. Calvin George, DC is a chiropractor in Addison, IL at 190 N Swift Rd Ste S, Addison, IL 60101. Phone: +16305990950. Website: https://drgeorge-chiropractic.com/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dr-calvin-george-dc-addison/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dr-calvin-george-dc-addison.json",
+   "address": {
+    "streetAddress": "190 N Swift Rd Ste S",
+    "addressLocality": "Addison",
+    "addressRegion": "IL",
+    "postalCode": "60101",
+    "addressCountry": "US"
+   },
+   "city": "Addison",
+   "state": "IL",
+   "zip": "60101",
+   "geo": {
+    "lat": 41.9320976,
+    "lon": -88.0435723
+   },
+   "phone": "+16305990950",
+   "website": "https://drgeorge-chiropractic.com/",
+   "opening_hours": "Mo-Fr 9:00AM to 5:00PM,Saturday: 8:30AM to 12:00PM",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4314516775",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 16,
+   "sponsored": false,
+   "slug": "elm-chiropractic-elmhurst",
+   "name": "Elm Chiropractic",
+   "summary": "Elm Chiropractic is a chiropractor in Elmhurst, IL at 475 South Spring Road, Elmhurst, IL 60126. Phone: +16305304744. Website: https://elmchiro.com/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/elm-chiropractic-elmhurst/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/elm-chiropractic-elmhurst.json",
+   "address": {
+    "streetAddress": "475 South Spring Road",
+    "addressLocality": "Elmhurst",
+    "addressRegion": "IL",
+    "postalCode": "60126",
+    "addressCountry": "US"
+   },
+   "city": "Elmhurst",
+   "state": "IL",
+   "zip": "60126",
+   "geo": {
+    "lat": 41.8866174,
+    "lon": -87.9493812
+   },
+   "phone": "+16305304744",
+   "website": "https://elmchiro.com/",
+   "opening_hours": "Mo 09:00-19:00; Tu-Th 10:00-20:00; Fr-Sa 10:00-14:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5887350673",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 17,
+   "sponsored": false,
+   "slug": "helping-hands-massage-and-chiropractic-northbrook",
+   "name": "Helping Hands Massage and Chiropractic",
+   "summary": "Helping Hands Massage and Chiropractic is a chiropractor in Northbrook, IL at 300 Skokie Boulevard, Northbrook, IL 60062. Phone: +18473222807. Website: https://www.helpinghandsmassageandchiropractic.com/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/helping-hands-massage-and-chiropractic-northbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/helping-hands-massage-and-chiropractic-northbrook.json",
+   "address": {
+    "streetAddress": "300 Skokie Boulevard",
+    "addressLocality": "Northbrook",
+    "addressRegion": "IL",
+    "postalCode": "60062",
+    "addressCountry": "US"
+   },
+   "city": "Northbrook",
+   "state": "IL",
+   "zip": "60062",
+   "geo": {
+    "lat": 42.1466927,
+    "lon": -87.7983468
+   },
+   "phone": "+18473222807",
+   "website": "https://www.helpinghandsmassageandchiropractic.com/",
+   "opening_hours": "Mo-Fr 09:00-18:00; Sa, Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4984718540",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 18,
    "sponsored": false,
    "slug": "johnson-chiropractic-clinic-maple-grove",
    "name": "Johnson Chiropractic Clinic",
@@ -306,7 +656,77 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 9,
+   "position": 19,
+   "sponsored": false,
+   "slug": "kennedy-family-chiropractic-naperville",
+   "name": "Kennedy Family Chiropractic",
+   "summary": "Kennedy Family Chiropractic is a chiropractor in Naperville, IL at 1220 West Ogden Avenue #D, Naperville, IL 60563. Phone: +16303849305. Website: https://www.kennedyfamilychiro.com/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kennedy-family-chiropractic-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kennedy-family-chiropractic-naperville.json",
+   "address": {
+    "streetAddress": "1220 West Ogden Avenue #D",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60563",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60563",
+   "geo": {
+    "lat": 41.781266,
+    "lon": -88.1753898
+   },
+   "phone": "+16303849305",
+   "website": "https://www.kennedyfamilychiro.com/",
+   "opening_hours": "Mo-Th 08:30-14:00, Fr 08:15-14:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8519287311",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 20,
+   "sponsored": false,
+   "slug": "lakeview-chiropractic-chicago",
+   "name": "Lakeview Chiropractic",
+   "summary": "Lakeview Chiropractic is a chiropractor in Chicago, IL at 3832 North Broadway, Chicago, IL 60613. Phone: +17732962225. Website: https://lakeviewchiropractic.com/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lakeview-chiropractic-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lakeview-chiropractic-chicago.json",
+   "address": {
+    "streetAddress": "3832 North Broadway",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60613",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60613",
+   "geo": {
+    "lat": 41.9522732,
+    "lon": -87.6498017
+   },
+   "phone": "+17732962225",
+   "website": "https://lakeviewchiropractic.com/",
+   "opening_hours": "Mo 09:45-13:00,15:00-19:00; Tu-Th 09:00-13:00,15:00-19:00; Fr 09:00-13:00,15:00-18:30; Sa 09:00-13:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10091338623",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 21,
    "sponsored": false,
    "slug": "lyn-lake-chiropractic-minneapolis",
    "name": "Lyn Lake Chiropractic",
@@ -341,7 +761,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 10,
+   "position": 22,
    "sponsored": false,
    "slug": "mighty-oak-chiropractic-saint-paul",
    "name": "Mighty Oak Chiropractic",
@@ -376,7 +796,77 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 11,
+   "position": 23,
+   "sponsored": false,
+   "slug": "mitchell-chiropractic-naperville",
+   "name": "Mitchell Chiropractic",
+   "summary": "Mitchell Chiropractic is a chiropractor in Naperville, IL at 1220 West Ogden Avenue #D, Naperville, IL 60563. Phone: +16309613500. Website: https://www.bmitchellchiro.com/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mitchell-chiropractic-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mitchell-chiropractic-naperville.json",
+   "address": {
+    "streetAddress": "1220 West Ogden Avenue #D",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60563",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60563",
+   "geo": {
+    "lat": 41.781246,
+    "lon": -88.1753777
+   },
+   "phone": "+16309613500",
+   "website": "https://www.bmitchellchiro.com/",
+   "opening_hours": "Mo, We, Fr 08:00-12:00, 14:00-19:00; Tu, Th 09:00-12:00, 14:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8848676523",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 24,
+   "sponsored": false,
+   "slug": "pure-health-and-wellness-chiropractor-naperville",
+   "name": "Pure Health and Wellness Chiropractor",
+   "summary": "Pure Health and Wellness Chiropractor is a chiropractor in Naperville, IL at 213 West Jefferson Avenue, Naperville, IL 60540. Phone: +16304350100. Website: https://www.purehw.com/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pure-health-and-wellness-chiropractor-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pure-health-and-wellness-chiropractor-naperville.json",
+   "address": {
+    "streetAddress": "213 West Jefferson Avenue",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60540",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60540",
+   "geo": {
+    "lat": 41.7732355,
+    "lon": -88.1517499
+   },
+   "phone": "+16304350100",
+   "website": "https://www.purehw.com/",
+   "opening_hours": "Mo, We, Fr 08:30-18:30; Tu, Th 08:30-17:00; Sa 08:00-12:00; Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/239347110",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 25,
    "sponsored": false,
    "slug": "robbinsdale-chirocenter-robbinsdale",
    "name": "Robbinsdale ChiroCenter",
@@ -411,7 +901,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 12,
+   "position": 26,
    "sponsored": false,
    "slug": "skon-chiropractic-clinic-saint-paul",
    "name": "Skon Chiropractic Clinic",
@@ -446,7 +936,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 13,
+   "position": 27,
    "sponsored": false,
    "slug": "south-st-paul-family-chiropractic-south-saint-paul-n5901565966",
    "name": "South St.Paul Family Chiropractic",
@@ -481,7 +971,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 14,
+   "position": 28,
    "sponsored": false,
    "slug": "the-adjustment-club-maple-grove",
    "name": "The Adjustment Club",
@@ -516,7 +1006,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 15,
+   "position": 29,
    "sponsored": false,
    "slug": "the-back-and-neck-chiropractic-relief-center-roseville",
    "name": "The Back & Neck Chiropractic Relief Center",
@@ -551,7 +1041,42 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 16,
+   "position": 30,
+   "sponsored": false,
+   "slug": "the-joint-chiropractic-chicago",
+   "name": "The Joint Chiropractic",
+   "summary": "The Joint Chiropractic is a chiropractor in Chicago, IL at 2711 North Elston Avenue, Chicago, IL 60647. Phone: +13129671824. Website: https://www.thejoint.com/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-joint-chiropractic-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-joint-chiropractic-chicago.json",
+   "address": {
+    "streetAddress": "2711 North Elston Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60647",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60647",
+   "geo": {
+    "lat": 41.9311415,
+    "lon": -87.685125
+   },
+   "phone": "+13129671824",
+   "website": "https://www.thejoint.com/",
+   "opening_hours": "Mo-Fr 09:00-17:00; Sa-Su 10:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9595771095",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 31,
    "sponsored": false,
    "slug": "total-health-and-healing-center-coon-rapids",
    "name": "Total Health and Healing Center",
@@ -586,7 +1111,42 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 17,
+   "position": 32,
+   "sponsored": false,
+   "slug": "true-precision-rehab-chicago",
+   "name": "True Precision Rehab",
+   "summary": "True Precision Rehab is a chiropractor in Chicago, IL at 2130 West Belmont Avenue, Chicago, IL 60618. Phone: +17739852818. Website: https://www.trueprecisionrehabchicago.com/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/true-precision-rehab-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/true-precision-rehab-chicago.json",
+   "address": {
+    "streetAddress": "2130 West Belmont Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60618",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60618",
+   "geo": {
+    "lat": 41.9396537,
+    "lon": -87.6820125
+   },
+   "phone": "+17739852818",
+   "website": "https://www.trueprecisionrehabchicago.com/",
+   "opening_hours": "Mo-Fr 09:00-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13308094244",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 33,
    "sponsored": false,
    "slug": "valentini-chiropractic-clinic-new-hope",
    "name": "Valentini Chiropractic Clinic",
@@ -621,7 +1181,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 18,
+   "position": 34,
    "sponsored": false,
    "slug": "yggdrasil-naturopathic-medicine-minnetonka",
    "name": "Yggdrasil Naturopathic Medicine",
@@ -656,7 +1216,40 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 19,
+   "position": 35,
+   "sponsored": false,
+   "slug": "evolution-spine-and-sport-evanston",
+   "name": "Evolution Spine & Sport",
+   "summary": "Evolution Spine & Sport is a chiropractor in Evanston, IL at 922 Noyes Street, Evanston, IL. Phone: +12243072201. Website: https://evolutionspineandsport.com/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/evolution-spine-and-sport-evanston/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/evolution-spine-and-sport-evanston.json",
+   "address": {
+    "streetAddress": "922 Noyes Street",
+    "addressLocality": "Evanston",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Evanston",
+   "state": "IL",
+   "geo": {
+    "lat": 42.058327,
+    "lon": -87.6841175
+   },
+   "phone": "+12243072201",
+   "website": "https://evolutionspineandsport.com/",
+   "opening_hours": "Mo-Tu 09:00-19:00; We-Th 08:00-17:00; Fr 08:00-14:00; Sa 09:00-13:00; Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12527315880",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 36,
    "sponsored": false,
    "slug": "art-district-chiropractic-minneapolis",
    "name": "Art District Chiropractic",
@@ -690,7 +1283,75 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 20,
+   "position": 37,
+   "sponsored": false,
+   "slug": "back-in-balance-chiropractic-and-acupuncture-centers-western-springs",
+   "name": "Back In Balance Chiropractic & Acupuncture Centers",
+   "summary": "Back In Balance Chiropractic & Acupuncture Centers is a chiropractor in Western Springs, IL at 518 Hillgrove Avenue #275, Western Springs, IL 60558. Phone: +17085888270. Website: https://www.bibchiropractic.com/western-springs/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/back-in-balance-chiropractic-and-acupuncture-centers-western-springs/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/back-in-balance-chiropractic-and-acupuncture-centers-western-springs.json",
+   "address": {
+    "streetAddress": "518 Hillgrove Avenue #275",
+    "addressLocality": "Western Springs",
+    "addressRegion": "IL",
+    "postalCode": "60558",
+    "addressCountry": "US"
+   },
+   "city": "Western Springs",
+   "state": "IL",
+   "zip": "60558",
+   "geo": {
+    "lat": 41.8106611,
+    "lon": -87.8960288
+   },
+   "phone": "+17085888270",
+   "website": "https://www.bibchiropractic.com/western-springs/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9603287967",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 38,
+   "sponsored": false,
+   "slug": "back-to-natural-health-chicago",
+   "name": "Back To Natural Health",
+   "summary": "Back To Natural Health is a chiropractor in Chicago, IL at West Diversey Parkway, Chicago, IL 60614. Phone: +17733252225. Website: https://backtonaturalhealth.com/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/back-to-natural-health-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/back-to-natural-health-chicago.json",
+   "address": {
+    "streetAddress": "West Diversey Parkway",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60614",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60614",
+   "geo": {
+    "lat": 41.9321642,
+    "lon": -87.6765739
+   },
+   "phone": "+17733252225",
+   "website": "https://backtonaturalhealth.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9859720196",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 39,
    "sponsored": false,
    "slug": "bryn-mawr-chiropractic-minneapolis",
    "name": "Bryn Mawr Chiropractic",
@@ -724,7 +1385,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 21,
+   "position": 40,
    "sponsored": false,
    "slug": "canterbury-chiropractic-shakopee",
    "name": "Canterbury Chiropractic",
@@ -758,7 +1419,41 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 22,
+   "position": 41,
+   "sponsored": false,
+   "slug": "chirocare-clinic-wellness-center-westmont",
+   "name": "ChiroCare Clinic Wellness Center",
+   "summary": "ChiroCare Clinic Wellness Center is a chiropractor in Westmont, IL at 693 N Cass Ave., Westmont, IL 60559. Phone: +16306016932. Website: https://chirocarewellnessclinic.com/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chirocare-clinic-wellness-center-westmont/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chirocare-clinic-wellness-center-westmont.json",
+   "address": {
+    "streetAddress": "693 N Cass Ave.",
+    "addressLocality": "Westmont",
+    "addressRegion": "IL",
+    "postalCode": "60559",
+    "addressCountry": "US"
+   },
+   "city": "Westmont",
+   "state": "IL",
+   "zip": "60559",
+   "geo": {
+    "lat": 41.8126659,
+    "lon": -87.9753457
+   },
+   "phone": "+16306016932",
+   "website": "https://chirocarewellnessclinic.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13157007989",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 42,
    "sponsored": false,
    "slug": "chirocenter-chiropractic-minneapolis",
    "name": "ChiroCenter Chiropractic",
@@ -792,7 +1487,143 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 23,
+   "position": 43,
+   "sponsored": false,
+   "slug": "dr-kent-christianson-chiropractic-naperville",
+   "name": "Dr. Kent Christianson Chiropractic",
+   "summary": "Dr. Kent Christianson Chiropractic is a chiropractor in Naperville, IL at 229 West Ogden Avenue, Naperville, IL 60563. Phone: +16305480700. Website: https://www.drkent.com/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dr-kent-christianson-chiropractic-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dr-kent-christianson-chiropractic-naperville.json",
+   "address": {
+    "streetAddress": "229 West Ogden Avenue",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60563",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60563",
+   "geo": {
+    "lat": 41.7860441,
+    "lon": -88.1505666
+   },
+   "phone": "+16305480700",
+   "website": "https://www.drkent.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8498743237",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 44,
+   "sponsored": false,
+   "slug": "dr-william-bojak-chiropractic-naperville",
+   "name": "Dr. William Bojak Chiropractic",
+   "summary": "Dr. William Bojak Chiropractic is a chiropractor in Naperville, IL at 229 West Ogden Avenue, Naperville, IL 60563. Phone: +16303556362. Website: https://www.actchiro.com/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dr-william-bojak-chiropractic-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dr-william-bojak-chiropractic-naperville.json",
+   "address": {
+    "streetAddress": "229 West Ogden Avenue",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60563",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60563",
+   "geo": {
+    "lat": 41.7860796,
+    "lon": -88.1506444
+   },
+   "phone": "+16303556362",
+   "website": "https://www.actchiro.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8498743238",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 45,
+   "sponsored": false,
+   "slug": "elmhurst-chiropractic-elmhurst",
+   "name": "Elmhurst Chiropractic",
+   "summary": "Elmhurst Chiropractic is a chiropractor in Elmhurst, IL at 450 North York Street, Elmhurst, IL 60126. Phone: +16308341114. Website: https://elmhurstchiropractic.net/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/elmhurst-chiropractic-elmhurst/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/elmhurst-chiropractic-elmhurst.json",
+   "address": {
+    "streetAddress": "450 North York Street",
+    "addressLocality": "Elmhurst",
+    "addressRegion": "IL",
+    "postalCode": "60126",
+    "addressCountry": "US"
+   },
+   "city": "Elmhurst",
+   "state": "IL",
+   "zip": "60126",
+   "geo": {
+    "lat": 41.9121254,
+    "lon": -87.9399723
+   },
+   "phone": "+16308341114",
+   "website": "https://elmhurstchiropractic.net/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4603283248",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 46,
+   "sponsored": false,
+   "slug": "evolve-chiropractic-naperville",
+   "name": "Evolve Chiropractic",
+   "summary": "Evolve Chiropractic is a chiropractor in Naperville, IL at 1811 Freedom Drive #117, Naperville, IL 60563. Phone: +13314724577. Website: https://myevolvechiropractor.com/locations/chiropractor-in-naperville-il/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/evolve-chiropractic-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/evolve-chiropractic-naperville.json",
+   "address": {
+    "streetAddress": "1811 Freedom Drive #117",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60563",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60563",
+   "geo": {
+    "lat": 41.8037707,
+    "lon": -88.127589
+   },
+   "phone": "+13314724577",
+   "website": "https://myevolvechiropractor.com/locations/chiropractor-in-naperville-il/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1229586151",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 47,
    "sponsored": false,
    "slug": "got-your-back-chiropractic-saint-paul",
    "name": "Got Your Back Chiropractic",
@@ -826,7 +1657,75 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 24,
+   "position": 48,
+   "sponsored": false,
+   "slug": "haug-chiropractic-naperville",
+   "name": "Haug Chiropractic",
+   "summary": "Haug Chiropractic is a chiropractor in Naperville, IL at 300 East Ogden Avenue, Naperville, IL 60563. Phone: +16309484222. Website: https://www.haugchiropractic.com/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/haug-chiropractic-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/haug-chiropractic-naperville.json",
+   "address": {
+    "streetAddress": "300 East Ogden Avenue",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60563",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60563",
+   "geo": {
+    "lat": 41.7855361,
+    "lon": -88.1426601
+   },
+   "phone": "+16309484222",
+   "website": "https://www.haugchiropractic.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/984774134",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 49,
+   "sponsored": false,
+   "slug": "health-doctors-limited-warrenville",
+   "name": "Health Doctors Limited",
+   "summary": "Health Doctors Limited is a chiropractor in Warrenville, IL at 28379 Davis Parkway #803, Warrenville, IL 60555. Phone: +16303932225. Website: https://www.thehealthdocs.com/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/health-doctors-limited-warrenville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/health-doctors-limited-warrenville.json",
+   "address": {
+    "streetAddress": "28379 Davis Parkway #803",
+    "addressLocality": "Warrenville",
+    "addressRegion": "IL",
+    "postalCode": "60555",
+    "addressCountry": "US"
+   },
+   "city": "Warrenville",
+   "state": "IL",
+   "zip": "60555",
+   "geo": {
+    "lat": 41.8014439,
+    "lon": -88.1773739
+   },
+   "phone": "+16303932225",
+   "website": "https://www.thehealthdocs.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8940134206",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 50,
    "sponsored": false,
    "slug": "healthsource-chiropractic-oakdale",
    "name": "HealthSource Chiropractic",
@@ -860,7 +1759,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 25,
+   "position": 51,
    "sponsored": false,
    "slug": "h-lsa-institute-saint-louis-park",
    "name": "Hälsa Institute",
@@ -894,7 +1793,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 26,
+   "position": 52,
    "sponsored": false,
    "slug": "institute-for-orthopedics-and-chiropractic-saint-paul",
    "name": "Institute for Orthopedics & Chiropractic",
@@ -928,7 +1827,41 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 27,
+   "position": 53,
+   "sponsored": false,
+   "slug": "integrated-physical-medicine-of-new-lenox-new-lenox",
+   "name": "Integrated Physical Medicine of New Lenox",
+   "summary": "Integrated Physical Medicine of New Lenox is a chiropractor in New Lenox, IL at 2499 Joliet Highway, New Lenox, IL 60451. Phone: +18157178355. Website: https://www.ipmhealthcare.com/new-lenox.html.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/integrated-physical-medicine-of-new-lenox-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/integrated-physical-medicine-of-new-lenox-new-lenox.json",
+   "address": {
+    "streetAddress": "2499 Joliet Highway",
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "postalCode": "60451",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "zip": "60451",
+   "geo": {
+    "lat": 41.5071158,
+    "lon": -87.9167804
+   },
+   "phone": "+18157178355",
+   "website": "https://www.ipmhealthcare.com/new-lenox.html",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9195135856",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 54,
    "sponsored": false,
    "slug": "minneapolis-chiropractic-center-minneapolis",
    "name": "Minneapolis Chiropractic Center",
@@ -962,7 +1895,109 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 28,
+   "position": 55,
+   "sponsored": false,
+   "slug": "optimal-health-chiropractic-chicago",
+   "name": "Optimal Health Chiropractic",
+   "summary": "Optimal Health Chiropractic is a chiropractor in Chicago, IL at 905 West Irving Park Road, Chicago, IL 60613. Phone: +17738680644. Website: https://www.optimalchiroltd.com/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/optimal-health-chiropractic-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/optimal-health-chiropractic-chicago.json",
+   "address": {
+    "streetAddress": "905 West Irving Park Road",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60613",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60613",
+   "geo": {
+    "lat": 41.9544037,
+    "lon": -87.6524989
+   },
+   "phone": "+17738680644",
+   "website": "https://www.optimalchiroltd.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10309700849",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 56,
+   "sponsored": false,
+   "slug": "orland-park-chiropractic-orland-park",
+   "name": "Orland Park Chiropractic",
+   "summary": "Orland Park Chiropractic is a chiropractor in Orland Park, IL at 10751 W 143rd St, Orland Park, IL 60462. Phone: +17084608688. Website: https://www.orlandparkchiropractic.com/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/orland-park-chiropractic-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/orland-park-chiropractic-orland-park.json",
+   "address": {
+    "streetAddress": "10751 W 143rd St",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60462",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60462",
+   "geo": {
+    "lat": 41.6294556,
+    "lon": -87.8820011
+   },
+   "phone": "+17084608688",
+   "website": "https://www.orlandparkchiropractic.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13367321289",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 57,
+   "sponsored": false,
+   "slug": "park-ridge-chiropractic-park-ridge",
+   "name": "Park Ridge Chiropractic",
+   "summary": "Park Ridge Chiropractic is a chiropractor in Park Ridge, IL at 32 Main Street, Park Ridge, IL 60068. Phone: +18473181144. Website: https://www.parkridge-chiropractic.com/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/park-ridge-chiropractic-park-ridge/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/park-ridge-chiropractic-park-ridge.json",
+   "address": {
+    "streetAddress": "32 Main Street",
+    "addressLocality": "Park Ridge",
+    "addressRegion": "IL",
+    "postalCode": "60068",
+    "addressCountry": "US"
+   },
+   "city": "Park Ridge",
+   "state": "IL",
+   "zip": "60068",
+   "geo": {
+    "lat": 42.010145,
+    "lon": -87.8327608
+   },
+   "phone": "+18473181144",
+   "website": "https://www.parkridge-chiropractic.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1046404695",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 58,
    "sponsored": false,
    "slug": "real-health-chiropractic-clinic-eden-prairie",
    "name": "Real Health Chiropractic Clinic",
@@ -996,7 +2031,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 29,
+   "position": 59,
    "sponsored": false,
    "slug": "reset-chiropractic-and-holistic-health-saint-louis-park",
    "name": "RESET Chiropractic and Holistic Health",
@@ -1030,7 +2065,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 30,
+   "position": 60,
    "sponsored": false,
    "slug": "roots-chiropractic-saint-louis-park",
    "name": "Roots Chiropractic",
@@ -1064,7 +2099,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 31,
+   "position": 61,
    "sponsored": false,
    "slug": "soul-chiropractic-and-acupuncture-white-bear-lake",
    "name": "Soul Chiropractic & Acupuncture",
@@ -1098,7 +2133,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 32,
+   "position": 62,
    "sponsored": false,
    "slug": "spine-and-sports-chiropractic-roseville",
    "name": "Spine & Sports Chiropractic",
@@ -1132,7 +2167,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 33,
+   "position": 63,
    "sponsored": false,
    "slug": "spine-care-pa-saint-louis-park",
    "name": "Spine Care, PA",
@@ -1166,7 +2201,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 34,
+   "position": 64,
    "sponsored": false,
    "slug": "st-bonifacius-chiropractic-saint-bonifacius",
    "name": "St. Bonifacius Chiropractic",
@@ -1200,7 +2235,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 35,
+   "position": 65,
    "sponsored": false,
    "slug": "summit-hill-chiropractic-and-physical-therapy-saint-paul",
    "name": "Summit Hill Chiropractic & Physical Therapy",
@@ -1234,7 +2269,75 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 36,
+   "position": 66,
+   "sponsored": false,
+   "slug": "the-center-for-physical-health-schaumburg",
+   "name": "The Center For Physical Health",
+   "summary": "The Center For Physical Health is a chiropractor in Schaumburg, IL at 2201 W Schaumburg Rd, Schaumburg, IL 60194. Phone: +18473018585. Website: https://drcliffordkearnsblog.com/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-center-for-physical-health-schaumburg/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-center-for-physical-health-schaumburg.json",
+   "address": {
+    "streetAddress": "2201 W Schaumburg Rd",
+    "addressLocality": "Schaumburg",
+    "addressRegion": "IL",
+    "postalCode": "60194",
+    "addressCountry": "US"
+   },
+   "city": "Schaumburg",
+   "state": "IL",
+   "zip": "60194",
+   "geo": {
+    "lat": 42.0248791,
+    "lon": -88.1349084
+   },
+   "phone": "+18473018585",
+   "website": "https://drcliffordkearnsblog.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9859534454",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 67,
+   "sponsored": false,
+   "slug": "the-chiropractic-place-naperville",
+   "name": "The Chiropractic Place",
+   "summary": "The Chiropractic Place is a chiropractor in Naperville, IL at 1935 95th Street #115, Naperville, IL 60564. Phone: +16307180848. Website: https://thechiropracticplace.org/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-chiropractic-place-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-chiropractic-place-naperville.json",
+   "address": {
+    "streetAddress": "1935 95th Street #115",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60564",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60564",
+   "geo": {
+    "lat": 41.7104421,
+    "lon": -88.18533
+   },
+   "phone": "+16307180848",
+   "website": "https://thechiropracticplace.org/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8905992112",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 68,
    "sponsored": false,
    "slug": "uptown-chiropractic-minneapolis",
    "name": "Uptown Chiropractic",
@@ -1268,7 +2371,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 37,
+   "position": 69,
    "sponsored": false,
    "slug": "vyan-chiropractic-clinic-p-a-minneapolis",
    "name": "Vyan Chiropractic Clinic, P.A.",
@@ -1302,7 +2405,41 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 38,
+   "position": 70,
+   "sponsored": false,
+   "slug": "wellness-first-warrenville",
+   "name": "Wellness First",
+   "summary": "Wellness First is a chiropractor in Warrenville, IL at 28377 Davis Parkway #605, Warrenville, IL 60555. Phone: +16309229811. Website: https://www.wellness-first.com/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wellness-first-warrenville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wellness-first-warrenville.json",
+   "address": {
+    "streetAddress": "28377 Davis Parkway #605",
+    "addressLocality": "Warrenville",
+    "addressRegion": "IL",
+    "postalCode": "60555",
+    "addressCountry": "US"
+   },
+   "city": "Warrenville",
+   "state": "IL",
+   "zip": "60555",
+   "geo": {
+    "lat": 41.8006301,
+    "lon": -88.17704
+   },
+   "phone": "+16309229811",
+   "website": "https://www.wellness-first.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8940134216",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 71,
    "sponsored": false,
    "slug": "zager-family-chiropractic-shakopee",
    "name": "Zager Family Chiropractic",
@@ -1336,7 +2473,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 39,
+   "position": 72,
    "sponsored": false,
    "slug": "mccombs-burnsville",
    "name": "McCombs",
@@ -1368,7 +2505,107 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 40,
+   "position": 73,
+   "sponsored": false,
+   "slug": "woodridge-chiropractic-woodridge",
+   "name": "Woodridge Chiropractic",
+   "summary": "Woodridge Chiropractic is a chiropractor in Woodridge, IL at 7048 Woodward Avenue, Woodridge, IL. Phone: +16309631212. Website: https://www.woodridgechiropractic.net/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/woodridge-chiropractic-woodridge/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/woodridge-chiropractic-woodridge.json",
+   "address": {
+    "streetAddress": "7048 Woodward Avenue",
+    "addressLocality": "Woodridge",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Woodridge",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7586338,
+    "lon": -88.0318151
+   },
+   "phone": "+16309631212",
+   "website": "https://www.woodridgechiropractic.net/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 15.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9046353085",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 74,
+   "sponsored": false,
+   "slug": "aligned-modern-health-chicago",
+   "name": "Aligned Modern Health",
+   "summary": "Aligned Modern Health is a chiropractor in Chicago, IL at 5348 North Clark Street, Chicago, IL 60640. Phone: +17735656511.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/aligned-modern-health-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/aligned-modern-health-chicago.json",
+   "address": {
+    "streetAddress": "5348 North Clark Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60640",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60640",
+   "geo": {
+    "lat": 41.9794754,
+    "lon": -87.6684405
+   },
+   "phone": "+17735656511",
+   "opening_hours": "Mo-Th 7:30-20:00; Fr-Sa 7:30-15:00; Su 8:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9219709802",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 75,
+   "sponsored": false,
+   "slug": "chiro-one-bloomingdale",
+   "name": "Chiro One",
+   "summary": "Chiro One is a chiropractor in Bloomingdale, IL at 366 West Army Trail Road #Suite 330B, Bloomingdale, IL 60108. Website: https://www.chiroone.com/locations/bloomingdale-illinois/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chiro-one-bloomingdale/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chiro-one-bloomingdale.json",
+   "address": {
+    "streetAddress": "366 West Army Trail Road #Suite 330B",
+    "addressLocality": "Bloomingdale",
+    "addressRegion": "IL",
+    "postalCode": "60108",
+    "addressCountry": "US"
+   },
+   "city": "Bloomingdale",
+   "state": "IL",
+   "zip": "60108",
+   "geo": {
+    "lat": 41.9373664,
+    "lon": -88.1125993
+   },
+   "website": "https://www.chiroone.com/locations/bloomingdale-illinois/",
+   "opening_hours": "Mo-Th 07:30-10:30, 16:00-18:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12414281328",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 76,
    "sponsored": false,
    "slug": "life-in-light-chiropractic-minneapolis",
    "name": "Life in Light Chiropractic",
@@ -1402,7 +2639,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 41,
+   "position": 77,
    "sponsored": false,
    "slug": "the-joint-chiropractic-minneapolis",
    "name": "The Joint Chiropractic",
@@ -1436,7 +2673,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 42,
+   "position": 78,
    "sponsored": false,
    "slug": "old-st-anthony-chiropractic-and-rehabilitation-minneapolis",
    "name": "Old St. Anthony Chiropractic and Rehabilitation",
@@ -1468,7 +2705,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 43,
+   "position": 79,
    "sponsored": false,
    "slug": "discovery-chiropractic-saint-paul",
    "name": "Discovery Chiropractic",
@@ -1499,7 +2736,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 44,
+   "position": 80,
    "sponsored": false,
    "slug": "arvidson-grand-ave-chiropractic-clinic-saint-paul",
    "name": "Arvidson Grand Ave Chiropractic Clinic",
@@ -1532,7 +2769,40 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 45,
+   "position": 81,
+   "sponsored": false,
+   "slug": "blum-chiropractic-schaumburg",
+   "name": "Blum Chiropractic",
+   "summary": "Blum Chiropractic is a chiropractor in Schaumburg, IL at 877 South Roselle Road, Schaumburg, IL 60193. Phone: +16303514700.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/blum-chiropractic-schaumburg/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/blum-chiropractic-schaumburg.json",
+   "address": {
+    "streetAddress": "877 South Roselle Road",
+    "addressLocality": "Schaumburg",
+    "addressRegion": "IL",
+    "postalCode": "60193",
+    "addressCountry": "US"
+   },
+   "city": "Schaumburg",
+   "state": "IL",
+   "zip": "60193",
+   "geo": {
+    "lat": 42.0111285,
+    "lon": -88.0788085
+   },
+   "phone": "+16303514700",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2918429694",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 82,
    "sponsored": false,
    "slug": "core-health-chiropractic-minneapolis",
    "name": "Core Health Chiropractic",
@@ -1565,7 +2835,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 46,
+   "position": 83,
    "sponsored": false,
    "slug": "edina-family-chiropractic-edina",
    "name": "Edina Family Chiropractic",
@@ -1596,7 +2866,40 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 47,
+   "position": 84,
+   "sponsored": false,
+   "slug": "endeavor-health-orthopaedic-and-spine-center-chicago-in-bucktown-chicago",
+   "name": "Endeavor Health Orthopaedic & Spine Center - Chicago in Bucktown",
+   "summary": "Endeavor Health Orthopaedic & Spine Center - Chicago in Bucktown is an orthodontist in Chicago, IL at 1942 West Fullerton Avenue, Chicago, IL 60647. Website: https://www.endeavorhealth.org/locations/orthopaedic-immediate-care-chicago-bucktown.",
+   "categories": [
+    "orthodontist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/endeavor-health-orthopaedic-and-spine-center-chicago-in-bucktown-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/endeavor-health-orthopaedic-and-spine-center-chicago-in-bucktown-chicago.json",
+   "address": {
+    "streetAddress": "1942 West Fullerton Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60647",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60647",
+   "geo": {
+    "lat": 41.9255901,
+    "lon": -87.6774357
+   },
+   "website": "https://www.endeavorhealth.org/locations/orthopaedic-immediate-care-chicago-bucktown",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7149517609",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 85,
    "sponsored": false,
    "slug": "family-first-chiropractic-white-bear-lake",
    "name": "Family First Chiropractic",
@@ -1629,7 +2932,40 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 48,
+   "position": 86,
+   "sponsored": false,
+   "slug": "healthsmart-northbrook",
+   "name": "Healthsmart",
+   "summary": "Healthsmart is a chiropractor in Northbrook, IL at 2565 Shermer Road, Northbrook, IL 60062. Website: https://www.nuccacare.com/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/healthsmart-northbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/healthsmart-northbrook.json",
+   "address": {
+    "streetAddress": "2565 Shermer Road",
+    "addressLocality": "Northbrook",
+    "addressRegion": "IL",
+    "postalCode": "60062",
+    "addressCountry": "US"
+   },
+   "city": "Northbrook",
+   "state": "IL",
+   "zip": "60062",
+   "geo": {
+    "lat": 42.1065667,
+    "lon": -87.8289408
+   },
+   "website": "https://www.nuccacare.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7838125244",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 87,
    "sponsored": false,
    "slug": "holtz-family-chiropractic-shakopee",
    "name": "Holtz Family Chiropractic",
@@ -1662,7 +2998,106 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 49,
+   "position": 88,
+   "sponsored": false,
+   "slug": "international-sports-and-health-clinic-chicago",
+   "name": "International Sports & Health Clinic",
+   "summary": "International Sports & Health Clinic is a chiropractor in Chicago, IL at 3738 North Broadway, Chicago, IL 60613. Phone: +17738838640.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/international-sports-and-health-clinic-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/international-sports-and-health-clinic-chicago.json",
+   "address": {
+    "streetAddress": "3738 North Broadway",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60613",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60613",
+   "geo": {
+    "lat": 41.9502116,
+    "lon": -87.6491495
+   },
+   "phone": "+17738838640",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11205367036",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 89,
+   "sponsored": false,
+   "slug": "natural-health-chiropractic-and-wellness-naperville",
+   "name": "Natural Health Chiropractic & Wellness",
+   "summary": "Natural Health Chiropractic & Wellness is a chiropractor in Naperville, IL at 1458 East Chicago Avenue, Naperville, IL 60540. Website: https://www.nhchirowellness.com/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/natural-health-chiropractic-and-wellness-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/natural-health-chiropractic-and-wellness-naperville.json",
+   "address": {
+    "streetAddress": "1458 East Chicago Avenue",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60540",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60540",
+   "geo": {
+    "lat": 41.7781193,
+    "lon": -88.1109965
+   },
+   "website": "https://www.nhchirowellness.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1421473670",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 90,
+   "sponsored": false,
+   "slug": "norwood-chiropractic-chicago",
+   "name": "Norwood Chiropractic",
+   "summary": "Norwood Chiropractic is a chiropractor in Chicago, IL at 6130 North Northwest Highway, Chicago, IL 60631. Phone: +17737745535.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/norwood-chiropractic-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/norwood-chiropractic-chicago.json",
+   "address": {
+    "streetAddress": "6130 North Northwest Highway",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60631",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60631",
+   "geo": {
+    "lat": 41.992816,
+    "lon": -87.8001159
+   },
+   "phone": "+17737745535",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8608070406",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 91,
    "sponsored": false,
    "slug": "chiro-health-clinic-va-saint-paul",
    "name": "Chiro Health Clinic VA",
@@ -1693,7 +3128,37 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 50,
+   "position": 92,
+   "sponsored": false,
+   "slug": "chiro-one-burr-ridge",
+   "name": "Chiro One",
+   "summary": "Chiro One is a chiropractor in Burr Ridge, IL. Website: https://www.chiroone.com/locations/burr-ridge-illinois/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chiro-one-burr-ridge/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chiro-one-burr-ridge.json",
+   "address": {
+    "addressLocality": "Burr Ridge",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Burr Ridge",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7507614,
+    "lon": -87.9115505
+   },
+   "website": "https://www.chiroone.com/locations/burr-ridge-illinois/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10837806897",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 93,
    "sponsored": false,
    "slug": "go-health-chiropractic-robbinsdale",
    "name": "GO Health Chiropractic",
@@ -1723,7 +3188,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 51,
+   "position": 94,
    "sponsored": false,
    "slug": "project-chair-minneapolis",
    "name": "Project Chair",
@@ -1753,7 +3218,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 52,
+   "position": 95,
    "sponsored": false,
    "slug": "take-care-chiropractic-and-wellness-minneapolis",
    "name": "Take Care Chiropractic & Wellness",
@@ -1783,7 +3248,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 53,
+   "position": 96,
    "sponsored": false,
    "slug": "tozer-chiropractic-brooklyn-park",
    "name": "Tozer Chiropractic",
@@ -1813,7 +3278,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 54,
+   "position": 97,
    "sponsored": false,
    "slug": "abundant-life-chiropractic-chanhassen",
    "name": "Abundant Life Chiropractic",
@@ -1845,7 +3310,39 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 55,
+   "position": 98,
+   "sponsored": false,
+   "slug": "aligned-modern-health-vernon-hills",
+   "name": "Aligned Modern Health",
+   "summary": "Aligned Modern Health is a chiropractor in Vernon Hills, IL at 925 North Milwaukee Avenue #300, Vernon Hills, IL 60061.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/aligned-modern-health-vernon-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/aligned-modern-health-vernon-hills.json",
+   "address": {
+    "streetAddress": "925 North Milwaukee Avenue #300",
+    "addressLocality": "Vernon Hills",
+    "addressRegion": "IL",
+    "postalCode": "60061",
+    "addressCountry": "US"
+   },
+   "city": "Vernon Hills",
+   "state": "IL",
+   "zip": "60061",
+   "geo": {
+    "lat": 42.2432437,
+    "lon": -87.944462
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/687473872",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 99,
    "sponsored": false,
    "slug": "avalon-chiropractic-saint-louis-park",
    "name": "Avalon Chiropractic",
@@ -1877,7 +3374,103 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 56,
+   "position": 100,
+   "sponsored": false,
+   "slug": "body-works-health-and-wellness-chicago",
+   "name": "Body Works Health & Wellness",
+   "summary": "Body Works Health & Wellness is a chiropractor in Chicago, IL at 825 West Monroe Street, Chicago, IL 60607.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/body-works-health-and-wellness-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/body-works-health-and-wellness-chicago.json",
+   "address": {
+    "streetAddress": "825 West Monroe Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60607",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60607",
+   "geo": {
+    "lat": 41.8803478,
+    "lon": -87.6482664
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12083386911",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 101,
+   "sponsored": false,
+   "slug": "chinatown-chiropractic-chicago",
+   "name": "Chinatown Chiropractic",
+   "summary": "Chinatown Chiropractic is a chiropractor in Chicago, IL at 2322 South Wentworth Avenue, Chicago, IL 60616.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chinatown-chiropractic-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chinatown-chiropractic-chicago.json",
+   "address": {
+    "streetAddress": "2322 South Wentworth Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60616",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60616",
+   "geo": {
+    "lat": 41.8502513,
+    "lon": -87.6320833
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6654380712",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 102,
+   "sponsored": false,
+   "slug": "chiro-one-wellness-center-chicago",
+   "name": "Chiro One Wellness Center",
+   "summary": "Chiro One Wellness Center is a chiropractor in Chicago, IL at 2909 West Addison Street, Chicago, IL 60618.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chiro-one-wellness-center-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chiro-one-wellness-center-chicago.json",
+   "address": {
+    "streetAddress": "2909 West Addison Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60618",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60618",
+   "geo": {
+    "lat": 41.9461322,
+    "lon": -87.7007221
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8923339305",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 103,
    "sponsored": false,
    "slug": "clear-health-chiropractic-saint-louis-park",
    "name": "Clear Health Chiropractic",
@@ -1909,7 +3502,135 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 57,
+   "position": 104,
+   "sponsored": false,
+   "slug": "division-chiropractic-chicago",
+   "name": "Division Chiropractic",
+   "summary": "Division Chiropractic is a chiropractor in Chicago, IL at 1630 West Division Street, Chicago, IL 60622.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/division-chiropractic-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/division-chiropractic-chicago.json",
+   "address": {
+    "streetAddress": "1630 West Division Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60622",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60622",
+   "geo": {
+    "lat": 41.9036029,
+    "lon": -87.6688121
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/209853800",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 105,
+   "sponsored": false,
+   "slug": "edgebrook-chiropraractic-health-center-chicago",
+   "name": "Edgebrook Chiropraractic Health Center",
+   "summary": "Edgebrook Chiropraractic Health Center is a chiropractor in Chicago, IL at 6139 West Touhy Avenue, Chicago, IL 60646.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edgebrook-chiropraractic-health-center-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edgebrook-chiropraractic-health-center-chicago.json",
+   "address": {
+    "streetAddress": "6139 West Touhy Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60646",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60646",
+   "geo": {
+    "lat": 42.0116895,
+    "lon": -87.7808191
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/163246022",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 106,
+   "sponsored": false,
+   "slug": "family-wellness-center-homer-glen",
+   "name": "Family Wellness Center",
+   "summary": "Family Wellness Center is a chiropractor in Homer Glen, IL at 12448 West 143rd Street, Homer Glen, IL 60491.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/family-wellness-center-homer-glen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/family-wellness-center-homer-glen.json",
+   "address": {
+    "streetAddress": "12448 West 143rd Street",
+    "addressLocality": "Homer Glen",
+    "addressRegion": "IL",
+    "postalCode": "60491",
+    "addressCountry": "US"
+   },
+   "city": "Homer Glen",
+   "state": "IL",
+   "zip": "60491",
+   "geo": {
+    "lat": 41.629655,
+    "lon": -87.9233741
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1199692288",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 107,
+   "sponsored": false,
+   "slug": "gladstone-chiropractic-chicago",
+   "name": "Gladstone Chiropractic",
+   "summary": "Gladstone Chiropractic is a chiropractor in Chicago, IL at 5316 North Milwaukee Avenue, Chicago, IL 60630.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gladstone-chiropractic-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gladstone-chiropractic-chicago.json",
+   "address": {
+    "streetAddress": "5316 North Milwaukee Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60630",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60630",
+   "geo": {
+    "lat": 41.9763527,
+    "lon": -87.7697321
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4263626458",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 108,
    "sponsored": false,
    "slug": "healthsource-americas-chiropractor-eden-prairie",
    "name": "HealthSource America's Chiropractor",
@@ -1941,7 +3662,39 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 58,
+   "position": 109,
+   "sponsored": false,
+   "slug": "jacobs-chiropractic-clinic-des-plaines",
+   "name": "Jacobs Chiropractic Clinic",
+   "summary": "Jacobs Chiropractic Clinic is a chiropractor in Des Plaines, IL at 658 West Algonquin Road, Des Plaines, IL 60016.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jacobs-chiropractic-clinic-des-plaines/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jacobs-chiropractic-clinic-des-plaines.json",
+   "address": {
+    "streetAddress": "658 West Algonquin Road",
+    "addressLocality": "Des Plaines",
+    "addressRegion": "IL",
+    "postalCode": "60016",
+    "addressCountry": "US"
+   },
+   "city": "Des Plaines",
+   "state": "IL",
+   "zip": "60016",
+   "geo": {
+    "lat": 42.0304222,
+    "lon": -87.9377498
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8691876723",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 110,
    "sponsored": false,
    "slug": "river-parkway-chiropractic-richfield",
    "name": "River Parkway Chiropractic",
@@ -1973,7 +3726,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 59,
+   "position": 111,
    "sponsored": false,
    "slug": "the-joint-chiropractic-eagan",
    "name": "The Joint Chiropractic",
@@ -2005,7 +3758,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 60,
+   "position": 112,
    "sponsored": false,
    "slug": "anchor-chiropractic-rogers",
    "name": "Anchor Chiropractic",
@@ -2035,7 +3788,37 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 61,
+   "position": 113,
+   "sponsored": false,
+   "slug": "equilibrium-chiropractic-chicago",
+   "name": "Equilibrium Chiropractic",
+   "summary": "Equilibrium Chiropractic is a chiropractor in Chicago, IL at 1509 South State Street, Chicago, IL.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/equilibrium-chiropractic-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/equilibrium-chiropractic-chicago.json",
+   "address": {
+    "streetAddress": "1509 South State Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8616216,
+    "lon": -87.6270223
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11759268419",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 114,
    "sponsored": false,
    "slug": "langford-chiropractic-clinic-saint-paul",
    "name": "Langford Chiropractic Clinic",
@@ -2065,7 +3848,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 62,
+   "position": 115,
    "sponsored": false,
    "slug": "limitless-chiropractic-inver-grove-heights",
    "name": "Limitless Chiropractic",
@@ -2095,7 +3878,37 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 63,
+   "position": 116,
+   "sponsored": false,
+   "slug": "realignmed-chicago",
+   "name": "ReAlignMed",
+   "summary": "ReAlignMed is a chiropractor in Chicago, IL at 916 West Belmont Avenue, Chicago, IL.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/realignmed-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/realignmed-chicago.json",
+   "address": {
+    "streetAddress": "916 West Belmont Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9400837,
+    "lon": -87.6522487
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11305067104",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 117,
    "sponsored": false,
    "slug": "the-joint-chiropractic-roseville",
    "name": "The Joint Chiropractic",
@@ -2125,7 +3938,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 64,
+   "position": 118,
    "sponsored": false,
    "slug": "touch-of-health-hopkins",
    "name": "Touch of Health",
@@ -2155,7 +3968,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 65,
+   "position": 119,
    "sponsored": false,
    "slug": "active-family-chiropractic-plymouth",
    "name": "Active Family Chiropractic",
@@ -2184,7 +3997,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 66,
+   "position": 120,
    "sponsored": false,
    "slug": "apex-chiropractic-new-hope",
    "name": "Apex Chiropractic",
@@ -2213,7 +4026,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 67,
+   "position": 121,
    "sponsored": false,
    "slug": "beseman-chiropractic-saint-paul",
    "name": "Beseman Chiropractic",
@@ -2242,7 +4055,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 68,
+   "position": 122,
    "sponsored": false,
    "slug": "bodymind-chiropractic-saint-paul",
    "name": "Bodymind Chiropractic",
@@ -2271,7 +4084,36 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 69,
+   "position": 123,
+   "sponsored": false,
+   "slug": "breton-chiropractic-mount-prospect",
+   "name": "Breton Chiropractic",
+   "summary": "Breton Chiropractic is a chiropractor in Mount Prospect, IL.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/breton-chiropractic-mount-prospect/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/breton-chiropractic-mount-prospect.json",
+   "address": {
+    "addressLocality": "Mount Prospect",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Mount Prospect",
+   "state": "IL",
+   "geo": {
+    "lat": 42.0640745,
+    "lon": -87.9357078
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6292602805",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 124,
    "sponsored": false,
    "slug": "cascade-chiropractic-saint-paul",
    "name": "Cascade Chiropractic",
@@ -2300,7 +4142,94 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 70,
+   "position": 125,
+   "sponsored": false,
+   "slug": "cecil-chiropractic-countryside",
+   "name": "Cecil Chiropractic",
+   "summary": "Cecil Chiropractic is a chiropractor in Countryside, IL.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cecil-chiropractic-countryside/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cecil-chiropractic-countryside.json",
+   "address": {
+    "addressLocality": "Countryside",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Countryside",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7899787,
+    "lon": -87.880142
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10005177437",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 126,
+   "sponsored": false,
+   "slug": "chiro-one-orland-hills",
+   "name": "Chiro One",
+   "summary": "Chiro One is a chiropractor in Orland Hills, IL.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chiro-one-orland-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chiro-one-orland-hills.json",
+   "address": {
+    "addressLocality": "Orland Hills",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Orland Hills",
+   "state": "IL",
+   "geo": {
+    "lat": 41.6008318,
+    "lon": -87.8413396
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9441052900",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 127,
+   "sponsored": false,
+   "slug": "chiro-one-wellness-center-chicago-n12434611018",
+   "name": "Chiro One Wellness Center",
+   "summary": "Chiro One Wellness Center is a chiropractor in Chicago, IL.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chiro-one-wellness-center-chicago-n12434611018/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chiro-one-wellness-center-chicago-n12434611018.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7997377,
+    "lon": -87.5851646
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12434611018",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 128,
    "sponsored": false,
    "slug": "chirocenter-golden-valley",
    "name": "ChiroCenter",
@@ -2329,7 +4258,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 71,
+   "position": 129,
    "sponsored": false,
    "slug": "community-health-chiropractor-clinic-pa-saint-paul",
    "name": "Community Health Chiropractor Clinic PA",
@@ -2358,7 +4287,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 72,
+   "position": 130,
    "sponsored": false,
    "slug": "cultural-chiropractic-north-minneapolis",
    "name": "Cultural Chiropractic North",
@@ -2387,7 +4316,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 73,
+   "position": 131,
    "sponsored": false,
    "slug": "dmr-clinic-rogers-rogers",
    "name": "DMR Clinic Rogers",
@@ -2416,7 +4345,36 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 74,
+   "position": 132,
+   "sponsored": false,
+   "slug": "dr-lori-portnoy-chicago",
+   "name": "Dr. Lori Portnoy",
+   "summary": "Dr. Lori Portnoy is a chiropractor in Chicago, IL.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dr-lori-portnoy-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dr-lori-portnoy-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9182845,
+    "lon": -87.6531237
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13675183324",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 133,
    "sponsored": false,
    "slug": "east-side-medical-building-llc-saint-paul",
    "name": "East Side Medical Building, LLC",
@@ -2445,7 +4403,36 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 75,
+   "position": 134,
+   "sponsored": false,
+   "slug": "family-chiropractic-schaumburg",
+   "name": "Family Chiropractic",
+   "summary": "Family Chiropractic is a chiropractor in Schaumburg, IL.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/family-chiropractic-schaumburg/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/family-chiropractic-schaumburg.json",
+   "address": {
+    "addressLocality": "Schaumburg",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Schaumburg",
+   "state": "IL",
+   "geo": {
+    "lat": 42.0241986,
+    "lon": -88.0452087
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3685755206",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 135,
    "sponsored": false,
    "slug": "harmony-health-eagan",
    "name": "Harmony Health",
@@ -2474,7 +4461,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 76,
+   "position": 136,
    "sponsored": false,
    "slug": "health-and-wellness-chiropractic-clinic-pa-saint-paul",
    "name": "Health & Wellness Chiropractic Clinic, PA",
@@ -2503,7 +4490,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 77,
+   "position": 137,
    "sponsored": false,
    "slug": "healthsource-albertville",
    "name": "Healthsource",
@@ -2532,7 +4519,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 78,
+   "position": 138,
    "sponsored": false,
    "slug": "healthsource-chiropractic-rogers",
    "name": "HealthSource Chiropractic",
@@ -2561,7 +4548,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 79,
+   "position": 139,
    "sponsored": false,
    "slug": "kent-chiropractic-saint-paul",
    "name": "Kent Chiropractic",
@@ -2590,7 +4577,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 80,
+   "position": 140,
    "sponsored": false,
    "slug": "lakes-holistic-care-minneapolis",
    "name": "Lakes Holistic Care",
@@ -2619,7 +4606,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 81,
+   "position": 141,
    "sponsored": false,
    "slug": "maverick-chiropractic-wayzata",
    "name": "Maverick Chiropractic",
@@ -2648,7 +4635,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 82,
+   "position": 142,
    "sponsored": false,
    "slug": "minneapolis-and-st-paul-chiropractic-minneapolis",
    "name": "Minneapolis & St Paul Chiropractic",
@@ -2677,7 +4664,36 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 83,
+   "position": 143,
+   "sponsored": false,
+   "slug": "orman-chiropractic-morton-grove",
+   "name": "Orman Chiropractic",
+   "summary": "Orman Chiropractic is a chiropractor in Morton Grove, IL.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/orman-chiropractic-morton-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/orman-chiropractic-morton-grove.json",
+   "address": {
+    "addressLocality": "Morton Grove",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Morton Grove",
+   "state": "IL",
+   "geo": {
+    "lat": 42.0407464,
+    "lon": -87.7844381
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6257166260",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 144,
    "sponsored": false,
    "slug": "park-east-chiropractic-brooklyn-park",
    "name": "Park East Chiropractic",
@@ -2706,7 +4722,36 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 84,
+   "position": 145,
+   "sponsored": false,
+   "slug": "petrak-westchester",
+   "name": "Petrak",
+   "summary": "Petrak is a chiropractor in Westchester, IL.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petrak-westchester/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petrak-westchester.json",
+   "address": {
+    "addressLocality": "Westchester",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Westchester",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8345001,
+    "lon": -87.8975444
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9520717898",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 146,
    "sponsored": false,
    "slug": "premier-health-minneapolis",
    "name": "Premier Health",
@@ -2735,7 +4780,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 85,
+   "position": 147,
    "sponsored": false,
    "slug": "robbins-urban-wellness-retreat-minneapolis",
    "name": "Robbins Urban Wellness Retreat",
@@ -2764,7 +4809,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 86,
+   "position": 148,
    "sponsored": false,
    "slug": "south-st-paul-family-chiropractic-south-saint-paul",
    "name": "South St. Paul Family Chiropractic",
@@ -2793,7 +4838,36 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 87,
+   "position": 149,
+   "sponsored": false,
+   "slug": "stretch-zone-willowbrook",
+   "name": "Stretch Zone",
+   "summary": "Stretch Zone is a chiropractor in Willowbrook, IL.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/stretch-zone-willowbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/stretch-zone-willowbrook.json",
+   "address": {
+    "addressLocality": "Willowbrook",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Willowbrook",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7532164,
+    "lon": -87.9436206
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10837806872",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 150,
    "sponsored": false,
    "slug": "the-joint-chiropractic-maple-grove",
    "name": "The Joint Chiropractic",
@@ -2822,7 +4896,36 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 88,
+   "position": 151,
+   "sponsored": false,
+   "slug": "the-wellness-path-chiropractic-center-la-grange",
+   "name": "The Wellness Path - Chiropractic Center",
+   "summary": "The Wellness Path - Chiropractic Center is a chiropractor in La Grange, IL.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-wellness-path-chiropractic-center-la-grange/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-wellness-path-chiropractic-center-la-grange.json",
+   "address": {
+    "addressLocality": "La Grange",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "La Grange",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8148015,
+    "lon": -87.8742142
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8944618067",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 152,
    "sponsored": false,
    "slug": "truecare-chiropractic-eagan",
    "name": "TrueCare Chiropractic",
@@ -2851,7 +4954,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 89,
+   "position": 153,
    "sponsored": false,
    "slug": "white-bear-chiropractic-white-bear-lake",
    "name": "White Bear Chiropractic",
@@ -2879,5 +4982,235 @@
    "source_url": "https://www.openstreetmap.org/node/12597140453",
    "last_checked": "2026-10-17"
   }
- ]
+ ],
+ "market": {
+  "keyword": "chiropractor",
+  "slug": "chiropractor",
+  "base_keyword": "chiropractor",
+  "scope": "national",
+  "city": null,
+  "state": null,
+  "category": "Health & medical",
+  "industry": "Physicians & Surgeons",
+  "us_monthly_searches": {
+   "value": 246000,
+   "method": "cited",
+   "source": "r_savogroup-com-seo-services-chiropractors",
+   "as_of": "2026-07",
+   "source_phrase": "chiropractor near me",
+   "note": "US monthly searches, Semrush US Jul 2026"
+  },
+  "local_monthly_searches": null,
+  "cpc_usd": {
+   "industry_benchmark": "Physicians & Surgeons",
+   "low_usd": 4.76,
+   "median_usd": 4.76,
+   "high_usd": 5.0,
+   "method": "published benchmarks: low/high = range of the industry and sub-industry median CPCs listed in 'figures'; median = most specific benchmark",
+   "figures": [
+    {
+     "usd": 4.76,
+     "label": "Physicians & Surgeons median CPC 2026",
+     "source": "wordstream_2026"
+    },
+    {
+     "usd": 5.0,
+     "label": "Physicians & Surgeons median CPC 2025",
+     "source": "wordstream_2025"
+    }
+   ],
+   "source": "wordstream_2026",
+   "as_of": "2026",
+   "basis_for_value": {
+    "usd": 4.76,
+    "method": "benchmark median CPC",
+    "source": "wordstream_2026"
+   }
+  },
+  "ctr_pct": {
+   "value": 6.73,
+   "label": "Physicians & Surgeons average search-ad CTR 2025",
+   "source": "wordstream_2025",
+   "as_of": "2025-03"
+  },
+  "competition": {
+   "level": "medium",
+   "method": "proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research)",
+   "source": "wordstream_2026",
+   "as_of": "2026"
+  },
+  "trend": null,
+  "seasonality": {
+   "value": null,
+   "note": "No seasonality data in the research sources for this keyword."
+  },
+  "ai_query": {
+   "text": "No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.",
+   "figures": [
+    {
+     "value": "45%",
+     "label": "US adults using AI for local recommendations",
+     "source": "brightlocal_lcrs_2026"
+    },
+    {
+     "value": "75%",
+     "label": "sessions with keyword-style prompts",
+     "source": "sagapixel_sel"
+    },
+    {
+     "value": "59%",
+     "label": "local-intent prompts that triggered web search",
+     "source": "nectiv"
+    },
+    {
+     "value": "21%",
+     "label": "AI-first discovery journeys in healthcare (excerpt only)",
+     "source": "soci_2026"
+    }
+   ],
+   "as_of": "2026"
+  },
+  "registry_competitors": {
+   "value": 153,
+   "slugs": [
+    "50th-and-france-chiropractic-and-wellness-edina",
+    "abundant-life-chiropractic-chanhassen",
+    "active-family-chiropractic-plymouth",
+    "active-health-spine-and-sport-morton-grove",
+    "active-health-spine-and-sport-northbrook",
+    "adisi-health-center-hinsdale",
+    "advanced-health-naperville",
+    "aligned-modern-health-chicago",
+    "aligned-modern-health-vernon-hills",
+    "anchor-chiropractic-rogers"
+   ],
+   "method_id": "competitors",
+   "source": "registry",
+   "as_of": "2026-10-18",
+   "urls": [
+    "https://dingalinged-cpu.github.io/registry/c/50th-and-france-chiropractic-and-wellness-edina/",
+    "https://dingalinged-cpu.github.io/registry/c/abundant-life-chiropractic-chanhassen/",
+    "https://dingalinged-cpu.github.io/registry/c/active-family-chiropractic-plymouth/",
+    "https://dingalinged-cpu.github.io/registry/c/active-health-spine-and-sport-morton-grove/",
+    "https://dingalinged-cpu.github.io/registry/c/active-health-spine-and-sport-northbrook/",
+    "https://dingalinged-cpu.github.io/registry/c/adisi-health-center-hinsdale/",
+    "https://dingalinged-cpu.github.io/registry/c/advanced-health-naperville/",
+    "https://dingalinged-cpu.github.io/registry/c/aligned-modern-health-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/aligned-modern-health-vernon-hills/",
+    "https://dingalinged-cpu.github.io/registry/c/anchor-chiropractic-rogers/"
+   ],
+   "method": "count of registry listings tagged with the keyword (city/national) or with the base service in the same state (state keywords)"
+  },
+  "agent_demand": null,
+  "agent_demand_note": "Not yet measured. Will carry AI-agent query counts from the registry's agent analytics (contract: meta.agent_demand_contract in the market index).",
+  "equivalent_google_ads_cost_month": {
+   "value_usd": 79000,
+   "method": "estimate",
+   "method_id": "google_ads_equiv",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote."
+  },
+  "search_value_index": {
+   "value_usd": 1200000,
+   "method": "estimate",
+   "method_id": "value_index",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: search value index = monthly searches x CPC basis; an advertiser-value ranking signal, not revenue; rounded to 2 significant figures."
+  },
+  "auction": {
+   "featured_spot_min_usd": 250,
+   "spots_2_to_4_min_usd": 25,
+   "tier": "high",
+   "pricing_rule": "tier minimum (premium $500, high $250, mid $100, standard $50) for national keywords; city = max($10, 20% of tier); state = max($10, 35% of tier); spots 2-4 open at 10% of the featured minimum",
+   "model": "Monthly auction in the last 7 days of each month: days 1-5 bid for the Featured #1 spot, days 6-7 for spots 2-4; winners display all next month; all paid spots labeled Sponsored.",
+   "next_auctions": [
+    {
+     "display_month": "2026-11",
+     "featured_spot_bidding": [
+      "2026-10-25",
+      "2026-10-29"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-10-30",
+      "2026-10-31"
+     ]
+    },
+    {
+     "display_month": "2026-12",
+     "featured_spot_bidding": [
+      "2026-11-24",
+      "2026-11-28"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-11-29",
+      "2026-11-30"
+     ]
+    }
+   ],
+   "source": "registry_auction",
+   "as_of": "2026-10-18"
+  },
+  "sources": {
+   "brightlocal_lcrs_2026": {
+    "name": "BrightLocal Local Consumer Review Survey 2026 (n=1,002 US adults)",
+    "url": "https://www.brightlocal.com/research/lcrs-ai-trust/",
+    "as_of": "2026"
+   },
+   "nectiv": {
+    "name": "Nectiv study of 8,500+ ChatGPT prompts",
+    "url": "https://nectivdigital.com/blog/new-data-study-what-queries-is-chatgpt-using-behind-the-scenes",
+    "as_of": "2025"
+   },
+   "r_savogroup-com-seo-services-chiropractors": {
+    "name": "Semrush US Jul 2026 (via research source)",
+    "url": "https://savogroup.com/seo-services/chiropractors/",
+    "as_of": "2026-07"
+   },
+   "registry": {
+    "name": "This registry's own listings (OpenStreetMap-seeded, ODbL)",
+    "url": "https://dingalinged-cpu.github.io/registry/api/companies.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_auction": {
+    "name": "Registry keyword auction catalog and rules",
+    "url": "https://dingalinged-cpu.github.io/registry/api/keyword-prices.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_estimate": {
+    "name": "Registry estimate (CC-BY-4.0); method given on each value",
+    "url": "https://dingalinged-cpu.github.io/registry/market/",
+    "as_of": "2026-10-18"
+   },
+   "sagapixel_sel": {
+    "name": "Sagapixel ChatGPT local-services sessions, via Search Engine Land",
+    "url": "https://searchengineland.com/chatgpt-users-keywords-for-local-services-data-467715",
+    "as_of": "2026-01"
+   },
+   "soci_2026": {
+    "name": "SOCi Local Discovery Index 2026 (excerpt only, via pantora.ai)",
+    "url": "https://www.pantora.ai/blog/consumers-use-ai-to-find-local-businesses",
+    "as_of": "2026"
+   },
+   "wordstream_2025": {
+    "name": "WordStream Google Ads Benchmarks 2025 (16,446 US campaigns, Apr 2024-Mar 2025; median CPC and CTR by industry)",
+    "url": "https://www.wordstream.com/blog/2025-google-ads-benchmarks",
+    "as_of": "2025-03"
+   },
+   "wordstream_2026": {
+    "name": "LocaliQ/WordStream Search Advertising Benchmarks 2026 (US median CPC by industry)",
+    "url": "https://www.localiq.com/blog/search-advertising-benchmarks",
+    "as_of": "2026"
+   }
+  },
+  "license": {
+   "registry_estimates": "CC-BY-4.0",
+   "url": "https://creativecommons.org/licenses/by/4.0/",
+   "cited_figures": "attribute to the publishers in sources"
+  },
+  "as_of": "2026-10-18",
+  "api": "https://dingalinged-cpu.github.io/registry/api/market/chiropractor.json",
+  "rate_card": "https://dingalinged-cpu.github.io/registry/view/market.html#chiropractor"
+ }
 }

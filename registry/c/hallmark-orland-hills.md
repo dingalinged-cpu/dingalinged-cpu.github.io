@@ -1,0 +1,23 @@
+Hallmark is a gift shop in Orland Hills, IL.
+
+# Hallmark
+
+- Category: gift shop
+- Services: gift shop
+- Address: Orland Hills, IL
+- City: Orland Hills
+- State: IL
+- ZIP: n/a
+- Coordinates: 41.6002318, -87.846522
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/hallmark-orland-hills/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/hallmark-orland-hills.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9233266073 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

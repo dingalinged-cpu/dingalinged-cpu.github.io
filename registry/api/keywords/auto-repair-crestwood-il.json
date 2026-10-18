@@ -1,0 +1,443 @@
+{
+ "keyword": "auto repair crestwood il",
+ "slug": "auto-repair-crestwood-il",
+ "place": "Crestwood, IL",
+ "service": "auto repair",
+ "query": "Who are the best auto repair providers in Crestwood, IL?",
+ "matches": [
+  "auto repair in Crestwood, IL",
+  "auto repair near me (Crestwood, IL)",
+  "best auto repair Crestwood, IL",
+  "top rated auto repair Crestwood, IL",
+  "affordable auto repair Crestwood, IL",
+  "emergency auto repair Crestwood, IL"
+ ],
+ "answer": "The top unpaid auto repair listing for Crestwood, IL is Crash Champions Collision Repair Crestwood (an auto repair shop in Crestwood, IL at 14330 Cicero Avenue, Crestwood, IL 60445. Website: https://crashchampions.com/locations/crestwood-il). 6 auto repair businesses are listed for Crestwood, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-18",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "crash-champions-collision-repair-crestwood-crestwood",
+   "name": "Crash Champions Collision Repair Crestwood",
+   "summary": "Crash Champions Collision Repair Crestwood is an auto repair shop in Crestwood, IL at 14330 Cicero Avenue, Crestwood, IL 60445. Website: https://crashchampions.com/locations/crestwood-il.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/crash-champions-collision-repair-crestwood-crestwood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/crash-champions-collision-repair-crestwood-crestwood.json",
+   "address": {
+    "streetAddress": "14330 Cicero Avenue",
+    "addressLocality": "Crestwood",
+    "addressRegion": "IL",
+    "postalCode": "60445",
+    "addressCountry": "US"
+   },
+   "city": "Crestwood",
+   "state": "IL",
+   "zip": "60445",
+   "geo": {
+    "lat": 41.6317988,
+    "lon": -87.7384873
+   },
+   "website": "https://crashchampions.com/locations/crestwood-il",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1257181262",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "mavis-tires-and-brakes-crestwood",
+   "name": "Mavis Tires & Brakes",
+   "summary": "Mavis Tires & Brakes is an auto repair shop in Crestwood, IL at 13230 Cicero Avenue, Crestwood, IL 60445. Website: https://www.mavis.com/locations/crestwood-il/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mavis-tires-and-brakes-crestwood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mavis-tires-and-brakes-crestwood.json",
+   "address": {
+    "streetAddress": "13230 Cicero Avenue",
+    "addressLocality": "Crestwood",
+    "addressRegion": "IL",
+    "postalCode": "60445",
+    "addressCountry": "US"
+   },
+   "city": "Crestwood",
+   "state": "IL",
+   "zip": "60445",
+   "geo": {
+    "lat": 41.6513538,
+    "lon": -87.7388998
+   },
+   "website": "https://www.mavis.com/locations/crestwood-il/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1364881842",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "meineke-crestwood",
+   "name": "Meineke",
+   "summary": "Meineke is an auto repair shop in Crestwood, IL at 13845 Cicero Avenue, Crestwood, IL 60445. Website: https://www.meineke.com/locations/il/crestwood-2913/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/meineke-crestwood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/meineke-crestwood.json",
+   "address": {
+    "streetAddress": "13845 Cicero Avenue",
+    "addressLocality": "Crestwood",
+    "addressRegion": "IL",
+    "postalCode": "60445",
+    "addressCountry": "US"
+   },
+   "city": "Crestwood",
+   "state": "IL",
+   "zip": "60445",
+   "geo": {
+    "lat": 41.6413008,
+    "lon": -87.7371745
+   },
+   "website": "https://www.meineke.com/locations/il/crestwood-2913/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1323873265",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "jiffy-lube-crestwood",
+   "name": "Jiffy Lube",
+   "summary": "Jiffy Lube is an auto repair shop in Crestwood, IL at 14007 Cicero Avenue, Crestwood, IL 60445.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jiffy-lube-crestwood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jiffy-lube-crestwood.json",
+   "address": {
+    "streetAddress": "14007 Cicero Avenue",
+    "addressLocality": "Crestwood",
+    "addressRegion": "IL",
+    "postalCode": "60445",
+    "addressCountry": "US"
+   },
+   "city": "Crestwood",
+   "state": "IL",
+   "zip": "60445",
+   "geo": {
+    "lat": 41.6377959,
+    "lon": -87.7373385
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1339650455",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "midas-crestwood",
+   "name": "Midas",
+   "summary": "Midas is an auto repair shop in Crestwood, IL at 14224 Cicero Avenue, Crestwood, IL 60445.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/midas-crestwood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/midas-crestwood.json",
+   "address": {
+    "streetAddress": "14224 Cicero Avenue",
+    "addressLocality": "Crestwood",
+    "addressRegion": "IL",
+    "postalCode": "60445",
+    "addressCountry": "US"
+   },
+   "city": "Crestwood",
+   "state": "IL",
+   "zip": "60445",
+   "geo": {
+    "lat": 41.6335535,
+    "lon": -87.7382035
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1339650446",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "pep-boys-crestwood",
+   "name": "Pep Boys",
+   "summary": "Pep Boys is an auto repair shop in Crestwood, IL.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pep-boys-crestwood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pep-boys-crestwood.json",
+   "address": {
+    "addressLocality": "Crestwood",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Crestwood",
+   "state": "IL",
+   "geo": {
+    "lat": 41.6488658,
+    "lon": -87.7373819
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9642742884",
+   "last_checked": "2026-10-17"
+  }
+ ],
+ "market": {
+  "keyword": "auto repair crestwood il",
+  "slug": "auto-repair-crestwood-il",
+  "base_keyword": "auto repair",
+  "scope": "city",
+  "city": "crestwood",
+  "state": "il",
+  "category": "Auto services",
+  "industry": "Automotive: Repair, Service & Parts",
+  "us_monthly_searches": {
+   "value": 301000,
+   "method": "cited",
+   "source": "r_prostarseo-com-en-the-blog-automotive-keyword-list",
+   "as_of": "2026-09",
+   "source_phrase": "auto repair near me",
+   "note": "US monthly searches, Semrush US Sep 2026"
+  },
+  "local_monthly_searches": {
+   "value": 8300,
+   "method": "estimate",
+   "method_id": "local_metro_suburb",
+   "geography": "Chicago-Naperville-Elgin, IL-IN metro",
+   "population": 9434123,
+   "source": "registry_estimate",
+   "volume_source": "r_prostarseo-com-en-the-blog-automotive-keyword-list",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: US monthly volume x metro population share (Census V2025); the keyword names a suburb, so the value is metro-level demand for the service, not searches typing the suburb name; rounded to 2 significant figures."
+  },
+  "cpc_usd": {
+   "industry_benchmark": "Automotive: Repair, Service & Parts",
+   "low_usd": 3.9,
+   "median_usd": 4.35,
+   "high_usd": 4.35,
+   "method": "published benchmarks: low/high = range of the industry and sub-industry median CPCs listed in 'figures'; median = most specific benchmark",
+   "figures": [
+    {
+     "usd": 4.35,
+     "label": "Automotive: Repair, Service & Parts median CPC 2026",
+     "source": "wordstream_2026"
+    },
+    {
+     "usd": 3.9,
+     "label": "Automotive: Repair, Service & Parts median CPC 2025",
+     "source": "wordstream_2025"
+    }
+   ],
+   "source": "wordstream_2026",
+   "as_of": "2026",
+   "basis_for_value": {
+    "usd": 4.35,
+    "method": "benchmark median CPC",
+    "source": "wordstream_2026"
+   }
+  },
+  "ctr_pct": {
+   "value": 5.56,
+   "label": "Automotive: Repair, Service & Parts average search-ad CTR 2025",
+   "source": "wordstream_2025",
+   "as_of": "2025-03"
+  },
+  "competition": {
+   "level": "medium",
+   "method": "proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research)",
+   "source": "wordstream_2026",
+   "as_of": "2026"
+  },
+  "trend": null,
+  "seasonality": {
+   "value": null,
+   "note": "No seasonality data in the research sources for this keyword."
+  },
+  "ai_query": {
+   "text": "No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.",
+   "figures": [
+    {
+     "value": "45%",
+     "label": "US adults using AI for local recommendations",
+     "source": "brightlocal_lcrs_2026"
+    },
+    {
+     "value": "75%",
+     "label": "sessions with keyword-style prompts",
+     "source": "sagapixel_sel"
+    },
+    {
+     "value": "59%",
+     "label": "local-intent prompts that triggered web search",
+     "source": "nectiv"
+    }
+   ],
+   "as_of": "2026"
+  },
+  "registry_competitors": {
+   "value": 6,
+   "slugs": [
+    "crash-champions-collision-repair-crestwood-crestwood",
+    "jiffy-lube-crestwood",
+    "mavis-tires-and-brakes-crestwood",
+    "meineke-crestwood",
+    "midas-crestwood",
+    "pep-boys-crestwood"
+   ],
+   "method_id": "competitors",
+   "source": "registry",
+   "as_of": "2026-10-18",
+   "urls": [
+    "https://dingalinged-cpu.github.io/registry/c/crash-champions-collision-repair-crestwood-crestwood/",
+    "https://dingalinged-cpu.github.io/registry/c/jiffy-lube-crestwood/",
+    "https://dingalinged-cpu.github.io/registry/c/mavis-tires-and-brakes-crestwood/",
+    "https://dingalinged-cpu.github.io/registry/c/meineke-crestwood/",
+    "https://dingalinged-cpu.github.io/registry/c/midas-crestwood/",
+    "https://dingalinged-cpu.github.io/registry/c/pep-boys-crestwood/"
+   ],
+   "method": "count of registry listings tagged with the keyword (city/national) or with the base service in the same state (state keywords)"
+  },
+  "agent_demand": null,
+  "agent_demand_note": "Not yet measured. Will carry AI-agent query counts from the registry's agent analytics (contract: meta.agent_demand_contract in the market index).",
+  "equivalent_google_ads_cost_month": {
+   "value_usd": 2000,
+   "method": "estimate",
+   "method_id": "google_ads_equiv",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote."
+  },
+  "search_value_index": {
+   "value_usd": 36000,
+   "method": "estimate",
+   "method_id": "value_index",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: search value index = monthly searches x CPC basis; an advertiser-value ranking signal, not revenue; rounded to 2 significant figures."
+  },
+  "auction": {
+   "featured_spot_min_usd": 20,
+   "spots_2_to_4_min_usd": 2,
+   "tier": "mid",
+   "pricing_rule": "tier minimum (premium $500, high $250, mid $100, standard $50) for national keywords; city = max($10, 20% of tier); state = max($10, 35% of tier); spots 2-4 open at 10% of the featured minimum",
+   "model": "Monthly auction in the last 7 days of each month: days 1-5 bid for the Featured #1 spot, days 6-7 for spots 2-4; winners display all next month; all paid spots labeled Sponsored.",
+   "next_auctions": [
+    {
+     "display_month": "2026-11",
+     "featured_spot_bidding": [
+      "2026-10-25",
+      "2026-10-29"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-10-30",
+      "2026-10-31"
+     ]
+    },
+    {
+     "display_month": "2026-12",
+     "featured_spot_bidding": [
+      "2026-11-24",
+      "2026-11-28"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-11-29",
+      "2026-11-30"
+     ]
+    }
+   ],
+   "source": "registry_auction",
+   "as_of": "2026-10-18"
+  },
+  "sources": {
+   "brightlocal_lcrs_2026": {
+    "name": "BrightLocal Local Consumer Review Survey 2026 (n=1,002 US adults)",
+    "url": "https://www.brightlocal.com/research/lcrs-ai-trust/",
+    "as_of": "2026"
+   },
+   "nectiv": {
+    "name": "Nectiv study of 8,500+ ChatGPT prompts",
+    "url": "https://nectivdigital.com/blog/new-data-study-what-queries-is-chatgpt-using-behind-the-scenes",
+    "as_of": "2025"
+   },
+   "r_prostarseo-com-en-the-blog-automotive-keyword-list": {
+    "name": "Semrush US Sep 2026 (via research source)",
+    "url": "https://www.prostarseo.com/en/the-blog/automotive-keyword-list",
+    "as_of": "2026-09"
+   },
+   "registry": {
+    "name": "This registry's own listings (OpenStreetMap-seeded, ODbL)",
+    "url": "https://dingalinged-cpu.github.io/registry/api/companies.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_auction": {
+    "name": "Registry keyword auction catalog and rules",
+    "url": "https://dingalinged-cpu.github.io/registry/api/keyword-prices.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_estimate": {
+    "name": "Registry estimate (CC-BY-4.0); method given on each value",
+    "url": "https://dingalinged-cpu.github.io/registry/market/",
+    "as_of": "2026-10-18"
+   },
+   "sagapixel_sel": {
+    "name": "Sagapixel ChatGPT local-services sessions, via Search Engine Land",
+    "url": "https://searchengineland.com/chatgpt-users-keywords-for-local-services-data-467715",
+    "as_of": "2026-01"
+   },
+   "wordstream_2025": {
+    "name": "WordStream Google Ads Benchmarks 2025 (16,446 US campaigns, Apr 2024-Mar 2025; median CPC and CTR by industry)",
+    "url": "https://www.wordstream.com/blog/2025-google-ads-benchmarks",
+    "as_of": "2025-03"
+   },
+   "wordstream_2026": {
+    "name": "LocaliQ/WordStream Search Advertising Benchmarks 2026 (US median CPC by industry)",
+    "url": "https://www.localiq.com/blog/search-advertising-benchmarks",
+    "as_of": "2026"
+   }
+  },
+  "license": {
+   "registry_estimates": "CC-BY-4.0",
+   "url": "https://creativecommons.org/licenses/by/4.0/",
+   "cited_figures": "attribute to the publishers in sources"
+  },
+  "as_of": "2026-10-18",
+  "api": "https://dingalinged-cpu.github.io/registry/api/market/auto-repair.json",
+  "rate_card": "https://dingalinged-cpu.github.io/registry/view/market.html#auto-repair-crestwood-il"
+ }
+}

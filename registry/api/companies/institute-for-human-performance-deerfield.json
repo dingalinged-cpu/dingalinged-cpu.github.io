@@ -1,0 +1,58 @@
+{
+ "slug": "institute-for-human-performance-deerfield",
+ "name": "Institute for Human Performance",
+ "categories": [
+  "gym"
+ ],
+ "keywords": [
+  "gym",
+  "gym deerfield il"
+ ],
+ "services": [
+  {
+   "name": "gym",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "151 South Pfingsten Road #C",
+  "addressLocality": "Deerfield",
+  "addressRegion": "IL",
+  "postalCode": "60015",
+  "addressCountry": "US"
+ },
+ "city": "Deerfield",
+ "state": "IL",
+ "zip": "60015",
+ "geo": {
+  "lat": 42.1501371,
+  "lon": -87.8457394
+ },
+ "phone": "+18475621005",
+ "website": "https://ihp-deerfield.com/",
+ "email": "ihp158@sbcglobal.net",
+ "opening_hours": "Mo-Fr 05:30-21:00; Sa 07:00-17:00; Su 08:00-13:00",
+ "schema_type": "ExerciseGym",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/9668172458",
+ "osm": {
+  "type": "node",
+  "id": 9668172458,
+  "tags_used": {
+   "leisure": "fitness_centre"
+  }
+ },
+ "municipality": "Deerfield",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/institute-for-human-performance-deerfield/",
+ "summary": "Institute for Human Performance is a gym in Deerfield, IL at 151 South Pfingsten Road #C, Deerfield, IL 60015. Phone: +18475621005. Website: https://ihp-deerfield.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

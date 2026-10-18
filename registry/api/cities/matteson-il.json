@@ -1,0 +1,764 @@
+{
+ "place": "Matteson, IL",
+ "slug": "matteson-il",
+ "count": 22,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "auto repair matteson il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-matteson-il.json"
+  },
+  {
+   "keyword": "business consultant matteson il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/business-consultant-matteson-il.json"
+  },
+  {
+   "keyword": "car wash matteson il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-matteson-il.json"
+  },
+  {
+   "keyword": "coworking space matteson il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/coworking-space-matteson-il.json"
+  },
+  {
+   "keyword": "dentist matteson il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-matteson-il.json"
+  },
+  {
+   "keyword": "funeral home matteson il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/funeral-home-matteson-il.json"
+  },
+  {
+   "keyword": "gym matteson il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-matteson-il.json"
+  },
+  {
+   "keyword": "hair salon matteson il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-matteson-il.json"
+  },
+  {
+   "keyword": "haircut matteson il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-matteson-il.json"
+  },
+  {
+   "keyword": "it support matteson il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/it-support-matteson-il.json"
+  },
+  {
+   "keyword": "liquor store matteson il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/liquor-store-matteson-il.json"
+  },
+  {
+   "keyword": "mattress store matteson il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mattress-store-matteson-il.json"
+  },
+  {
+   "keyword": "mechanic matteson il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-matteson-il.json"
+  },
+  {
+   "keyword": "pet store matteson il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/pet-store-matteson-il.json"
+  },
+  {
+   "keyword": "physical therapy matteson il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/physical-therapy-matteson-il.json"
+  },
+  {
+   "keyword": "storage units matteson il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/storage-units-matteson-il.json"
+  },
+  {
+   "keyword": "tax preparation matteson il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tax-preparation-matteson-il.json"
+  },
+  {
+   "keyword": "tax preparer matteson il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tax-preparer-matteson-il.json"
+  },
+  {
+   "keyword": "tire shop matteson il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tire-shop-matteson-il.json"
+  },
+  {
+   "keyword": "used cars for sale matteson il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/used-cars-for-sale-matteson-il.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "petsmart-matteson",
+   "name": "PetSmart",
+   "summary": "PetSmart is a pet store in Matteson, IL at 4824 Lincoln Highway, Matteson, IL 60443. Phone: +17083003108. Website: https://www.petsmart.com/stores/us/il/matteson-store2332.html.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petsmart-matteson/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petsmart-matteson.json",
+   "address": {
+    "streetAddress": "4824 Lincoln Highway",
+    "addressLocality": "Matteson",
+    "addressRegion": "IL",
+    "postalCode": "60443",
+    "addressCountry": "US"
+   },
+   "city": "Matteson",
+   "state": "IL",
+   "zip": "60443",
+   "geo": {
+    "lat": 41.5082059,
+    "lon": -87.7347752
+   },
+   "phone": "+17083003108",
+   "website": "https://www.petsmart.com/stores/us/il/matteson-store2332.html",
+   "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7845233869",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "progressive-dental-and-associates-matteson",
+   "name": "Progressive Dental & Associates",
+   "summary": "Progressive Dental & Associates is a dentist in Matteson, IL at 20402 Crawford Avenue, Matteson, IL 60443. Phone: +17087474294. Website: https://www.progressivedentalsmiles.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/progressive-dental-and-associates-matteson/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/progressive-dental-and-associates-matteson.json",
+   "address": {
+    "streetAddress": "20402 Crawford Avenue",
+    "addressLocality": "Matteson",
+    "addressRegion": "IL",
+    "postalCode": "60443",
+    "addressCountry": "US"
+   },
+   "city": "Matteson",
+   "state": "IL",
+   "zip": "60443",
+   "geo": {
+    "lat": 41.5185981,
+    "lon": -87.713602
+   },
+   "phone": "+17087474294",
+   "website": "https://www.progressivedentalsmiles.com/",
+   "opening_hours": "Mo,We,Th 08:00-17:00; Tu,Fr 08:00-14:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9737492752",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "4343-ascending-house-matteson",
+   "name": "4343 Ascending House",
+   "summary": "4343 Ascending House is a coworking space in Matteson, IL at 4343 Lincoln Highway, Matteson, IL 60443. Phone: +17089224604. Website: https://gsu.ecommercemgmt.com/why-join-4343-ascending-house/.",
+   "categories": [
+    "coworking space"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/4343-ascending-house-matteson/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/4343-ascending-house-matteson.json",
+   "address": {
+    "streetAddress": "4343 Lincoln Highway",
+    "addressLocality": "Matteson",
+    "addressRegion": "IL",
+    "postalCode": "60443",
+    "addressCountry": "US"
+   },
+   "city": "Matteson",
+   "state": "IL",
+   "zip": "60443",
+   "geo": {
+    "lat": 41.5055798,
+    "lon": -87.7219643
+   },
+   "phone": "+17089224604",
+   "website": "https://gsu.ecommercemgmt.com/why-join-4343-ascending-house/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8796103358",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "bnm-professional-consulting-services-inc-matteson",
+   "name": "BNM Professional Consulting Services Inc.",
+   "summary": "BNM Professional Consulting Services Inc. is a business consultant in Matteson, IL at 4747 Lincoln Mall Drive #302, Matteson, IL 60443. Phone: +17086790680. Website: https://www.bnmproconsult.com/.",
+   "categories": [
+    "business consultant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bnm-professional-consulting-services-inc-matteson/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bnm-professional-consulting-services-inc-matteson.json",
+   "address": {
+    "streetAddress": "4747 Lincoln Mall Drive #302",
+    "addressLocality": "Matteson",
+    "addressRegion": "IL",
+    "postalCode": "60443",
+    "addressCountry": "US"
+   },
+   "city": "Matteson",
+   "state": "IL",
+   "zip": "60443",
+   "geo": {
+    "lat": 41.5052444,
+    "lon": -87.7317155
+   },
+   "phone": "+17086790680",
+   "website": "https://www.bnmproconsult.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4616100938",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "mattress-firm-matteson",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Matteson, IL at 4800 211th Street, Matteson, IL 60443. Phone: +17086790783. Website: https://www.mattressfirm.com/en-us/stores/il/matteson/119224/.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-matteson/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-matteson.json",
+   "address": {
+    "streetAddress": "4800 211th Street",
+    "addressLocality": "Matteson",
+    "addressRegion": "IL",
+    "postalCode": "60443",
+    "addressCountry": "US"
+   },
+   "city": "Matteson",
+   "state": "IL",
+   "zip": "60443",
+   "geo": {
+    "lat": 41.5065604,
+    "lon": -87.7336865
+   },
+   "phone": "+17086790783",
+   "website": "https://www.mattressfirm.com/en-us/stores/il/matteson/119224/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7845233863",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "athletico-physical-therapy-matteson",
+   "name": "Athletico Physical Therapy",
+   "summary": "Athletico Physical Therapy is a physical therapy clinic in Matteson, IL at 4249 Lincoln Highway, Matteson, IL 60443. Website: https://www.athletico.com/locations/matteson/.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/athletico-physical-therapy-matteson/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/athletico-physical-therapy-matteson.json",
+   "address": {
+    "streetAddress": "4249 Lincoln Highway",
+    "addressLocality": "Matteson",
+    "addressRegion": "IL",
+    "postalCode": "60443",
+    "addressCountry": "US"
+   },
+   "city": "Matteson",
+   "state": "IL",
+   "zip": "60443",
+   "geo": {
+    "lat": 41.5056469,
+    "lon": -87.7188051
+   },
+   "website": "https://www.athletico.com/locations/matteson/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13799358518",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "extra-space-storage-matteson",
+   "name": "Extra Space Storage",
+   "summary": "Extra Space Storage is a self-storage facility in Matteson, IL at 21700 Cicero Avenue, Matteson, IL 60443. Website: https://www.extraspace.com/storage/facilities/us/illinois/matteson/3457/.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/extra-space-storage-matteson/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/extra-space-storage-matteson.json",
+   "address": {
+    "streetAddress": "21700 Cicero Avenue",
+    "addressLocality": "Matteson",
+    "addressRegion": "IL",
+    "postalCode": "60443",
+    "addressCountry": "US"
+   },
+   "city": "Matteson",
+   "state": "IL",
+   "zip": "60443",
+   "geo": {
+    "lat": 41.4936136,
+    "lon": -87.7333719
+   },
+   "website": "https://www.extraspace.com/storage/facilities/us/illinois/matteson/3457/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10172390964",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "h-and-r-block-matteson",
+   "name": "H&R Block",
+   "summary": "H&R Block is a tax preparation service in Matteson, IL at 4163 Lincoln Highway, Matteson, IL 60443. Website: https://www.hrblock.com/tax-office-near-me/illinois/matteson/12670/.",
+   "categories": [
+    "tax preparation"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/h-and-r-block-matteson/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/h-and-r-block-matteson.json",
+   "address": {
+    "streetAddress": "4163 Lincoln Highway",
+    "addressLocality": "Matteson",
+    "addressRegion": "IL",
+    "postalCode": "60443",
+    "addressCountry": "US"
+   },
+   "city": "Matteson",
+   "state": "IL",
+   "zip": "60443",
+   "geo": {
+    "lat": 41.5038727,
+    "lon": -87.7168668
+   },
+   "website": "https://www.hrblock.com/tax-office-near-me/illinois/matteson/12670/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7845233849",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "jackson-hewitt-matteson",
+   "name": "Jackson Hewitt",
+   "summary": "Jackson Hewitt is a tax preparation service in Matteson, IL at 4065 Lincoln Highway, Matteson, IL 60443. Website: https://office.jacksonhewitt.com/tax-preparation-services-locations/en/il/matteson/4065-west-211th-st/11971.",
+   "categories": [
+    "tax preparation"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jackson-hewitt-matteson/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jackson-hewitt-matteson.json",
+   "address": {
+    "streetAddress": "4065 Lincoln Highway",
+    "addressLocality": "Matteson",
+    "addressRegion": "IL",
+    "postalCode": "60443",
+    "addressCountry": "US"
+   },
+   "city": "Matteson",
+   "state": "IL",
+   "zip": "60443",
+   "geo": {
+    "lat": 41.505802,
+    "lon": -87.7158564
+   },
+   "website": "https://office.jacksonhewitt.com/tax-preparation-services-locations/en/il/matteson/4065-west-211th-st/11971",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13799358514",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "mavis-tires-and-brakes-matteson",
+   "name": "Mavis Tires & Brakes",
+   "summary": "Mavis Tires & Brakes is an auto repair shop in Matteson, IL at 20728 Cicero Avenue, Matteson, IL 60443. Website: https://www.mavis.com/locations/matteson-il/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mavis-tires-and-brakes-matteson/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mavis-tires-and-brakes-matteson.json",
+   "address": {
+    "streetAddress": "20728 Cicero Avenue",
+    "addressLocality": "Matteson",
+    "addressRegion": "IL",
+    "postalCode": "60443",
+    "addressCountry": "US"
+   },
+   "city": "Matteson",
+   "state": "IL",
+   "zip": "60443",
+   "geo": {
+    "lat": 41.5119834,
+    "lon": -87.7332277
+   },
+   "website": "https://www.mavis.com/locations/matteson-il/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/245920168",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "pep-boys-matteson",
+   "name": "Pep Boys",
+   "summary": "Pep Boys is an auto repair shop in Matteson, IL at 21610 Cicero Avenue, Matteson, IL 60443. Website: https://pepboys.com/stores/il/matteson/21610-cicero-ave?storeCode=0835.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pep-boys-matteson/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pep-boys-matteson.json",
+   "address": {
+    "streetAddress": "21610 Cicero Avenue",
+    "addressLocality": "Matteson",
+    "addressRegion": "IL",
+    "postalCode": "60443",
+    "addressCountry": "US"
+   },
+   "city": "Matteson",
+   "state": "IL",
+   "zip": "60443",
+   "geo": {
+    "lat": 41.4975101,
+    "lon": -87.7355399
+   },
+   "website": "https://pepboys.com/stores/il/matteson/21610-cicero-ave?storeCode=0835",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7845239211",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "vasa-fitness-matteson",
+   "name": "VASA Fitness",
+   "summary": "VASA Fitness is a gym in Matteson, IL at 4011 Lincoln Highway, Matteson, IL 60443. Website: https://vasafitness.com/locations/il/matteson/.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/vasa-fitness-matteson/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/vasa-fitness-matteson.json",
+   "address": {
+    "streetAddress": "4011 Lincoln Highway",
+    "addressLocality": "Matteson",
+    "addressRegion": "IL",
+    "postalCode": "60443",
+    "addressCountry": "US"
+   },
+   "city": "Matteson",
+   "state": "IL",
+   "zip": "60443",
+   "geo": {
+    "lat": 41.5036506,
+    "lon": -87.7144276
+   },
+   "website": "https://vasafitness.com/locations/il/matteson/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13799358516",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "fullers-car-wash-matteson",
+   "name": "Fullers Car Wash",
+   "summary": "Fullers Car Wash is a car wash in Matteson, IL at 4020 Lincoln Highway, Matteson, IL 60443.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fullers-car-wash-matteson/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fullers-car-wash-matteson.json",
+   "address": {
+    "streetAddress": "4020 Lincoln Highway",
+    "addressLocality": "Matteson",
+    "addressRegion": "IL",
+    "postalCode": "60443",
+    "addressCountry": "US"
+   },
+   "city": "Matteson",
+   "state": "IL",
+   "zip": "60443",
+   "geo": {
+    "lat": 41.5065084,
+    "lon": -87.7135924
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1331682038",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "hirsch-west-end-chapel-matteson",
+   "name": "Hirsch West End Chapel",
+   "summary": "Hirsch West End Chapel is a funeral home in Matteson, IL at 3501 Lincoln Highway, Matteson, IL 60443.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hirsch-west-end-chapel-matteson/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hirsch-west-end-chapel-matteson.json",
+   "address": {
+    "streetAddress": "3501 Lincoln Highway",
+    "addressLocality": "Matteson",
+    "addressRegion": "IL",
+    "postalCode": "60443",
+    "addressCountry": "US"
+   },
+   "city": "Matteson",
+   "state": "IL",
+   "zip": "60443",
+   "geo": {
+    "lat": 41.5058684,
+    "lon": -87.7011063
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/482799977",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "la-fitness-matteson",
+   "name": "LA Fitness",
+   "summary": "LA Fitness is a gym in Matteson, IL at 4701 Lincoln Mall Drive, Matteson, IL 60443.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/la-fitness-matteson/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/la-fitness-matteson.json",
+   "address": {
+    "streetAddress": "4701 Lincoln Mall Drive",
+    "addressLocality": "Matteson",
+    "addressRegion": "IL",
+    "postalCode": "60443",
+    "addressCountry": "US"
+   },
+   "city": "Matteson",
+   "state": "IL",
+   "zip": "60443",
+   "geo": {
+    "lat": 41.5010265,
+    "lon": -87.7315922
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/482799967",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "la-fitness-matteson-w755231869",
+   "name": "LA Fitness",
+   "summary": "LA Fitness is a gym in Matteson, IL at 4340 Lincoln Highway, Matteson, IL 60443.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/la-fitness-matteson-w755231869/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/la-fitness-matteson-w755231869.json",
+   "address": {
+    "streetAddress": "4340 Lincoln Highway",
+    "addressLocality": "Matteson",
+    "addressRegion": "IL",
+    "postalCode": "60443",
+    "addressCountry": "US"
+   },
+   "city": "Matteson",
+   "state": "IL",
+   "zip": "60443",
+   "geo": {
+    "lat": 41.5080747,
+    "lon": -87.7200501
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/755231869",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "matteson-liquors-matteson",
+   "name": "Matteson Liquors",
+   "summary": "Matteson Liquors is a liquor store in Matteson, IL at 4239 Lincoln Highway, Matteson, IL 60443.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/matteson-liquors-matteson/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/matteson-liquors-matteson.json",
+   "address": {
+    "streetAddress": "4239 Lincoln Highway",
+    "addressLocality": "Matteson",
+    "addressRegion": "IL",
+    "postalCode": "60443",
+    "addressCountry": "US"
+   },
+   "city": "Matteson",
+   "state": "IL",
+   "zip": "60443",
+   "geo": {
+    "lat": 41.5056715,
+    "lon": -87.7182835
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1020141764",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "menas-hair-design-matteson",
+   "name": "Mena's Hair Design",
+   "summary": "Mena's Hair Design is a hair salon in Matteson, IL at 4721 Lincoln Mall Drive, Matteson, IL 60443.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/menas-hair-design-matteson/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/menas-hair-design-matteson.json",
+   "address": {
+    "streetAddress": "4721 Lincoln Mall Drive",
+    "addressLocality": "Matteson",
+    "addressRegion": "IL",
+    "postalCode": "60443",
+    "addressCountry": "US"
+   },
+   "city": "Matteson",
+   "state": "IL",
+   "zip": "60443",
+   "geo": {
+    "lat": 41.5026938,
+    "lon": -87.7318174
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/482799971",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "software-tech-enterprises-matteson",
+   "name": "Software Tech Enterprises",
+   "summary": "Software Tech Enterprises is an IT support company in Matteson, IL at 4801 Southwick Drive, Matteson, IL 60443.",
+   "categories": [
+    "it support"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/software-tech-enterprises-matteson/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/software-tech-enterprises-matteson.json",
+   "address": {
+    "streetAddress": "4801 Southwick Drive",
+    "addressLocality": "Matteson",
+    "addressRegion": "IL",
+    "postalCode": "60443",
+    "addressCountry": "US"
+   },
+   "city": "Matteson",
+   "state": "IL",
+   "zip": "60443",
+   "geo": {
+    "lat": 41.5016619,
+    "lon": -87.7337843
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/482799970",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "discount-tire-matteson",
+   "name": "Discount Tire",
+   "summary": "Discount Tire is a tire shop in Matteson, IL.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/discount-tire-matteson/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/discount-tire-matteson.json",
+   "address": {
+    "addressLocality": "Matteson",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Matteson",
+   "state": "IL",
+   "geo": {
+    "lat": 41.5114104,
+    "lon": -87.7330886
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/245920174",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "jiffy-lube-matteson",
+   "name": "Jiffy Lube",
+   "summary": "Jiffy Lube is an auto repair shop in Matteson, IL.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jiffy-lube-matteson/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jiffy-lube-matteson.json",
+   "address": {
+    "addressLocality": "Matteson",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Matteson",
+   "state": "IL",
+   "geo": {
+    "lat": 41.5150245,
+    "lon": -87.73339
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1331682043",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "manheim-chicago-auto-auction-matteson",
+   "name": "Manheim Chicago Auto Auction",
+   "summary": "Manheim Chicago Auto Auction is an used car dealer in Matteson, IL.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/manheim-chicago-auto-auction-matteson/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/manheim-chicago-auto-auction-matteson.json",
+   "address": {
+    "addressLocality": "Matteson",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Matteson",
+   "state": "IL",
+   "geo": {
+    "lat": 41.5184169,
+    "lon": -87.7784278
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4366704165",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

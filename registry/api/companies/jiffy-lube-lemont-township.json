@@ -1,0 +1,64 @@
+{
+ "slug": "jiffy-lube-lemont-township",
+ "name": "Jiffy Lube",
+ "categories": [
+  "auto repair"
+ ],
+ "keywords": [
+  "auto repair",
+  "mechanic",
+  "auto repair lemont township il",
+  "mechanic lemont township il"
+ ],
+ "services": [
+  {
+   "name": "auto repair",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "mechanic",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "15667 127th Street",
+  "addressLocality": "Lemont Township",
+  "addressRegion": "IL",
+  "postalCode": "60439",
+  "addressCountry": "US"
+ },
+ "city": "Lemont Township",
+ "state": "IL",
+ "zip": "60439",
+ "geo": {
+  "lat": 41.6569734,
+  "lon": -88.0020845
+ },
+ "phone": "+16302439384",
+ "website": "https://www.jiffylube.com/",
+ "brand": "Jiffy Lube",
+ "wikidata": "Q6192247",
+ "schema_type": "AutoRepair",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/315081829",
+ "osm": {
+  "type": "way",
+  "id": 315081829,
+  "tags_used": {
+   "shop": "car_repair"
+  }
+ },
+ "municipality": "Lemont Township",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/jiffy-lube-lemont-township/",
+ "summary": "Jiffy Lube is an auto repair shop in Lemont Township, IL at 15667 127th Street, Lemont Township, IL 60439. Phone: +16302439384. Website: https://www.jiffylube.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

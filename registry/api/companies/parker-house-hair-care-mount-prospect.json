@@ -1,0 +1,61 @@
+{
+ "slug": "parker-house-hair-care-mount-prospect",
+ "name": "Parker House Hair Care",
+ "categories": [
+  "hair salon"
+ ],
+ "keywords": [
+  "hair salon",
+  "haircut",
+  "hair salon mount prospect il",
+  "haircut mount prospect il"
+ ],
+ "services": [
+  {
+   "name": "hair salon",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "haircut",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "11 East Prospect Avenue",
+  "addressLocality": "Mount Prospect",
+  "addressRegion": "IL",
+  "postalCode": "60056",
+  "addressCountry": "US"
+ },
+ "city": "Mount Prospect",
+ "state": "IL",
+ "zip": "60056",
+ "geo": {
+  "lat": 42.0625899,
+  "lon": -87.9361665
+ },
+ "phone": "+18473920955",
+ "schema_type": "HairSalon",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/13892487353",
+ "osm": {
+  "type": "node",
+  "id": 13892487353,
+  "tags_used": {
+   "shop": "hairdresser"
+  }
+ },
+ "municipality": "Mount Prospect",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/parker-house-hair-care-mount-prospect/",
+ "summary": "Parker House Hair Care is a hair salon in Mount Prospect, IL at 11 East Prospect Avenue, Mount Prospect, IL 60056. Phone: +18473920955.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

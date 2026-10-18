@@ -1,0 +1,52 @@
+{
+ "slug": "walter-e-smithe-furniture-and-design-vernon-hills",
+ "name": "Walter E. Smithe Furniture & Design",
+ "categories": [
+  "furniture store"
+ ],
+ "keywords": [
+  "furniture store",
+  "furniture store vernon hills il"
+ ],
+ "services": [
+  {
+   "name": "furniture store",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Vernon Hills",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Vernon Hills",
+ "state": "IL",
+ "geo": {
+  "lat": 42.2213776,
+  "lon": -87.9391665
+ },
+ "wikidata": "Q7964731",
+ "schema_type": "FurnitureStore",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/317467540",
+ "osm": {
+  "type": "way",
+  "id": 317467540,
+  "tags_used": {
+   "shop": "furniture"
+  }
+ },
+ "municipality": "Vernon Hills",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/walter-e-smithe-furniture-and-design-vernon-hills/",
+ "summary": "Walter E. Smithe Furniture & Design is a furniture store in Vernon Hills, IL.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

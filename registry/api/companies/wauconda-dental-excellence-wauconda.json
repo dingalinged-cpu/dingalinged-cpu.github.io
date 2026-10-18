@@ -1,0 +1,59 @@
+{
+ "slug": "wauconda-dental-excellence-wauconda",
+ "name": "Wauconda Dental Excellence",
+ "categories": [
+  "dentist"
+ ],
+ "keywords": [
+  "dentist",
+  "dentist wauconda il"
+ ],
+ "services": [
+  {
+   "name": "dentist",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "521 West Liberty Street",
+  "addressLocality": "Wauconda",
+  "addressRegion": "IL",
+  "postalCode": "60084",
+  "addressCountry": "US"
+ },
+ "city": "Wauconda",
+ "state": "IL",
+ "zip": "60084",
+ "geo": {
+  "lat": 42.2585093,
+  "lon": -88.1522406
+ },
+ "phone": "+18475263660",
+ "website": "https://waucondadentalexcellence.com/",
+ "email": "mjrdds@yahoo.com",
+ "opening_hours": "Mo-Th 09:00-18:00",
+ "schema_type": "Dentist",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/9576034239",
+ "osm": {
+  "type": "node",
+  "id": 9576034239,
+  "tags_used": {
+   "amenity": "dentist",
+   "healthcare": "dentist"
+  }
+ },
+ "municipality": "Wauconda",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/wauconda-dental-excellence-wauconda/",
+ "summary": "Wauconda Dental Excellence is a dentist in Wauconda, IL at 521 West Liberty Street, Wauconda, IL 60084. Phone: +18475263660. Website: https://waucondadentalexcellence.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

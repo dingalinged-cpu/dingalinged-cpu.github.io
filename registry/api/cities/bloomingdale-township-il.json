@@ -1,0 +1,45 @@
+{
+ "place": "Bloomingdale Township, IL",
+ "slug": "bloomingdale-township-il",
+ "count": 1,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "tattoo shop bloomingdale township il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tattoo-shop-bloomingdale-township-il.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "wolf-sparrow-tattoo-company-bloomingdale-township",
+   "name": "Wolf Sparrow Tattoo Company",
+   "summary": "Wolf Sparrow Tattoo Company is a tattoo shop in Bloomingdale Township, IL.",
+   "categories": [
+    "tattoo shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wolf-sparrow-tattoo-company-bloomingdale-township/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wolf-sparrow-tattoo-company-bloomingdale-township.json",
+   "address": {
+    "addressLocality": "Bloomingdale Township",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Bloomingdale Township",
+   "state": "IL",
+   "geo": {
+    "lat": 41.969526,
+    "lon": -88.1148333
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6977349737",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

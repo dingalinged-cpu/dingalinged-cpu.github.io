@@ -1,0 +1,62 @@
+{
+ "slug": "d-m-j-automotive-la-grange",
+ "name": "D.M.J. Automotive",
+ "categories": [
+  "auto repair"
+ ],
+ "keywords": [
+  "auto repair",
+  "mechanic",
+  "auto repair la grange il",
+  "mechanic la grange il"
+ ],
+ "services": [
+  {
+   "name": "auto repair",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "mechanic",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "603 South La Grange Road",
+  "addressLocality": "La Grange",
+  "addressRegion": "IL",
+  "postalCode": "60525",
+  "addressCountry": "US"
+ },
+ "city": "La Grange",
+ "state": "IL",
+ "zip": "60525",
+ "geo": {
+  "lat": 41.8029582,
+  "lon": -87.8687576
+ },
+ "phone": "+17083525767",
+ "website": "https://dmjautomotive.com/",
+ "schema_type": "AutoRepair",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/944349241",
+ "osm": {
+  "type": "way",
+  "id": 944349241,
+  "tags_used": {
+   "shop": "car_repair"
+  }
+ },
+ "municipality": "La Grange",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/d-m-j-automotive-la-grange/",
+ "summary": "D.M.J. Automotive is an auto repair shop in La Grange, IL at 603 South La Grange Road, La Grange, IL 60525. Phone: +17083525767. Website: https://dmjautomotive.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

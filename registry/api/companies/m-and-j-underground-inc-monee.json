@@ -1,0 +1,69 @@
+{
+ "slug": "m-and-j-underground-inc-monee",
+ "name": "M & J Underground, Inc.",
+ "categories": [
+  "plumber"
+ ],
+ "keywords": [
+  "plumber",
+  "plumbers",
+  "plumbing services",
+  "plumber monee il",
+  "plumbers monee il",
+  "plumbing services monee il"
+ ],
+ "services": [
+  {
+   "name": "plumber",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "plumbers",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "plumbing services",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "26603 South Governors Highway",
+  "addressLocality": "Monee",
+  "addressRegion": "IL",
+  "postalCode": "60449",
+  "addressCountry": "US"
+ },
+ "city": "Monee",
+ "state": "IL",
+ "zip": "60449",
+ "geo": {
+  "lat": 41.4067954,
+  "lon": -87.7498198
+ },
+ "phone": "+17085346434",
+ "website": "https://mjunderground.com/",
+ "opening_hours": "Mo-Fr 07:00-16:00",
+ "schema_type": "Plumber",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/9956737055",
+ "osm": {
+  "type": "node",
+  "id": 9956737055,
+  "tags_used": {
+   "craft": "plumber"
+  }
+ },
+ "municipality": "Monee",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/m-and-j-underground-inc-monee/",
+ "summary": "M & J Underground, Inc. is a plumber in Monee, IL at 26603 South Governors Highway, Monee, IL 60449. Phone: +17085346434. Website: https://mjunderground.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

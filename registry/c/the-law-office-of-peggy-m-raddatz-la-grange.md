@@ -1,0 +1,23 @@
+The Law Office Of Peggy M Raddatz is a lawyer in La Grange, IL at 512 West Burlington Avenue #1, La Grange, IL 60525. Phone: +17083520089.
+
+# The Law Office Of Peggy M Raddatz
+
+- Category: lawyer
+- Services: lawyer, attorney
+- Address: 512 West Burlington Avenue #1, La Grange, IL 60525
+- City: La Grange
+- State: IL
+- ZIP: 60525
+- Coordinates: 41.8141479, -87.8764428
+- Phone: +17083520089
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 09:00-17:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/the-law-office-of-peggy-m-raddatz-la-grange/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-law-office-of-peggy-m-raddatz-la-grange.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11034011914 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

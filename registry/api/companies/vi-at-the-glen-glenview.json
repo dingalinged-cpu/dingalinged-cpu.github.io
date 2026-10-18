@@ -1,0 +1,53 @@
+{
+ "slug": "vi-at-the-glen-glenview",
+ "name": "Vi at The Glen",
+ "categories": [
+  "assisted living"
+ ],
+ "keywords": [
+  "assisted living",
+  "assisted living glenview il"
+ ],
+ "services": [
+  {
+   "name": "assisted living",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Glenview",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Glenview",
+ "state": "IL",
+ "geo": {
+  "lat": 42.0811389,
+  "lon": -87.8167842
+ },
+ "brand": "Vi Senior Living",
+ "wikidata": "Q7924330",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/1080783255",
+ "osm": {
+  "type": "way",
+  "id": 1080783255,
+  "tags_used": {
+   "amenity": "social_facility"
+  }
+ },
+ "municipality": "Glenview",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/vi-at-the-glen-glenview/",
+ "summary": "Vi at The Glen is an assisted living facility in Glenview, IL.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,57 @@
+{
+ "slug": "rent-a-center-chicago-heights",
+ "name": "Rent-A-Center",
+ "categories": [
+  "furniture store"
+ ],
+ "keywords": [
+  "furniture store",
+  "furniture store chicago heights il"
+ ],
+ "services": [
+  {
+   "name": "furniture store",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "97 West Joe Orr Road",
+  "addressLocality": "Chicago Heights",
+  "addressRegion": "IL",
+  "postalCode": "60411",
+  "addressCountry": "US"
+ },
+ "city": "Chicago Heights",
+ "state": "IL",
+ "zip": "60411",
+ "geo": {
+  "lat": 41.5215391,
+  "lon": -87.6464321
+ },
+ "website": "https://locations.rentacenter.com/illinois/chicago-heights/97-w-joe-orr-rd/",
+ "brand": "Rent-A-Center",
+ "wikidata": "Q7313497",
+ "schema_type": "FurnitureStore",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/7484417999",
+ "osm": {
+  "type": "node",
+  "id": 7484417999,
+  "tags_used": {
+   "shop": "furniture"
+  }
+ },
+ "municipality": "Chicago Heights",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/rent-a-center-chicago-heights/",
+ "summary": "Rent-A-Center is a furniture store in Chicago Heights, IL at 97 West Joe Orr Road, Chicago Heights, IL 60411. Website: https://locations.rentacenter.com/illinois/chicago-heights/97-w-joe-orr-rd/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

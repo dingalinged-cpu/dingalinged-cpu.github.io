@@ -1,0 +1,54 @@
+{
+ "slug": "family-wellness-center-homer-glen",
+ "name": "Family Wellness Center",
+ "categories": [
+  "chiropractor"
+ ],
+ "keywords": [
+  "chiropractor",
+  "chiropractor homer glen il"
+ ],
+ "services": [
+  {
+   "name": "chiropractor",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "12448 West 143rd Street",
+  "addressLocality": "Homer Glen",
+  "addressRegion": "IL",
+  "postalCode": "60491",
+  "addressCountry": "US"
+ },
+ "city": "Homer Glen",
+ "state": "IL",
+ "zip": "60491",
+ "geo": {
+  "lat": 41.629655,
+  "lon": -87.9233741
+ },
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/1199692288",
+ "osm": {
+  "type": "way",
+  "id": 1199692288,
+  "tags_used": {
+   "healthcare": "alternative",
+   "healthcare:speciality": "chiropractic"
+  }
+ },
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/family-wellness-center-homer-glen/",
+ "summary": "Family Wellness Center is a chiropractor in Homer Glen, IL at 12448 West 143rd Street, Homer Glen, IL 60491.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,58 @@
+{
+ "slug": "advanced-dentistry-at-morton-grove-morton-grove",
+ "name": "Advanced Dentistry at Morton Grove",
+ "categories": [
+  "dentist"
+ ],
+ "keywords": [
+  "dentist",
+  "dentist morton grove il"
+ ],
+ "services": [
+  {
+   "name": "dentist",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "5821 West Dempster Street",
+  "addressLocality": "Morton Grove",
+  "addressRegion": "IL",
+  "postalCode": "60053",
+  "addressCountry": "US"
+ },
+ "city": "Morton Grove",
+ "state": "IL",
+ "zip": "60053",
+ "geo": {
+  "lat": 42.0407567,
+  "lon": -87.7725252
+ },
+ "phone": "+18475811942",
+ "website": "https://www.myadvanceddentistry.com/",
+ "opening_hours": "Mo, We 10:00-19:00; Tu, Th 09:00-18:00; Sa 08:00-15:00",
+ "schema_type": "Dentist",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/7196903123",
+ "osm": {
+  "type": "node",
+  "id": 7196903123,
+  "tags_used": {
+   "amenity": "dentist",
+   "healthcare": "dentist"
+  }
+ },
+ "municipality": "Morton Grove",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/advanced-dentistry-at-morton-grove-morton-grove/",
+ "summary": "Advanced Dentistry at Morton Grove is a dentist in Morton Grove, IL at 5821 West Dempster Street, Morton Grove, IL 60053. Phone: +18475811942. Website: https://www.myadvanceddentistry.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

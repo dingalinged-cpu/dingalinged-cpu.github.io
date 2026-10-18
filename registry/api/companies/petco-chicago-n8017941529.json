@@ -1,0 +1,59 @@
+{
+ "slug": "petco-chicago-n8017941529",
+ "name": "Petco",
+ "categories": [
+  "pet store"
+ ],
+ "keywords": [
+  "pet store",
+  "pet store chicago il"
+ ],
+ "services": [
+  {
+   "name": "pet store",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "4039 West Diversey Avenue",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60647",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60647",
+ "geo": {
+  "lat": 41.9311425,
+  "lon": -87.7286948
+ },
+ "phone": "+17736870488",
+ "website": "https://stores.petco.com/il/chicago/pet-supplies-chicago-il-1991.html",
+ "opening_hours": "Mo-We 09:00-21:00; Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 10:00-19:00",
+ "brand": "Petco",
+ "wikidata": "Q7171798",
+ "schema_type": "PetStore",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/8017941529",
+ "osm": {
+  "type": "node",
+  "id": 8017941529,
+  "tags_used": {
+   "shop": "pet"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/petco-chicago-n8017941529/",
+ "summary": "Petco is a pet store in Chicago, IL at 4039 West Diversey Avenue, Chicago, IL 60647. Phone: +17736870488. Website: https://stores.petco.com/il/chicago/pet-supplies-chicago-il-1991.html.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

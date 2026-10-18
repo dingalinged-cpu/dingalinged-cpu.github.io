@@ -1,0 +1,1838 @@
+{
+ "place": "Wheaton, IL",
+ "slug": "wheaton-il",
+ "count": 58,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "attorney wheaton il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/attorney-wheaton-il.json"
+  },
+  {
+   "keyword": "auto repair wheaton il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-wheaton-il.json"
+  },
+  {
+   "keyword": "barber shop wheaton il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/barber-shop-wheaton-il.json"
+  },
+  {
+   "keyword": "bike shop wheaton il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/bike-shop-wheaton-il.json"
+  },
+  {
+   "keyword": "car wash wheaton il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-wheaton-il.json"
+  },
+  {
+   "keyword": "concrete contractor wheaton il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/concrete-contractor-wheaton-il.json"
+  },
+  {
+   "keyword": "dentist wheaton il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-wheaton-il.json"
+  },
+  {
+   "keyword": "event venues wheaton il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/event-venues-wheaton-il.json"
+  },
+  {
+   "keyword": "eye doctor wheaton il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/eye-doctor-wheaton-il.json"
+  },
+  {
+   "keyword": "florist wheaton il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/florist-wheaton-il.json"
+  },
+  {
+   "keyword": "gym wheaton il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-wheaton-il.json"
+  },
+  {
+   "keyword": "hair salon wheaton il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-wheaton-il.json"
+  },
+  {
+   "keyword": "haircut wheaton il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-wheaton-il.json"
+  },
+  {
+   "keyword": "insurance agency wheaton il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-wheaton-il.json"
+  },
+  {
+   "keyword": "insurance agent wheaton il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-wheaton-il.json"
+  },
+  {
+   "keyword": "insurance agents wheaton il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-wheaton-il.json"
+  },
+  {
+   "keyword": "jewelry store wheaton il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/jewelry-store-wheaton-il.json"
+  },
+  {
+   "keyword": "lawyer wheaton il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/lawyer-wheaton-il.json"
+  },
+  {
+   "keyword": "massage wheaton il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/massage-wheaton-il.json"
+  },
+  {
+   "keyword": "mattress store wheaton il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mattress-store-wheaton-il.json"
+  },
+  {
+   "keyword": "mechanic wheaton il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-wheaton-il.json"
+  },
+  {
+   "keyword": "music lessons wheaton il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/music-lessons-wheaton-il.json"
+  },
+  {
+   "keyword": "nail salon wheaton il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/nail-salon-wheaton-il.json"
+  },
+  {
+   "keyword": "pet store wheaton il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/pet-store-wheaton-il.json"
+  },
+  {
+   "keyword": "physical therapy wheaton il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/physical-therapy-wheaton-il.json"
+  },
+  {
+   "keyword": "preschool wheaton il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/preschool-wheaton-il.json"
+  },
+  {
+   "keyword": "printing services wheaton il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/printing-services-wheaton-il.json"
+  },
+  {
+   "keyword": "real estate agent wheaton il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/real-estate-agent-wheaton-il.json"
+  },
+  {
+   "keyword": "realtor wheaton il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/realtor-wheaton-il.json"
+  },
+  {
+   "keyword": "tanning salon wheaton il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tanning-salon-wheaton-il.json"
+  },
+  {
+   "keyword": "thrift store wheaton il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/thrift-store-wheaton-il.json"
+  },
+  {
+   "keyword": "vet wheaton il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/vet-wheaton-il.json"
+  },
+  {
+   "keyword": "window repair wheaton il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/window-repair-wheaton-il.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "danada-dental-wheaton",
+   "name": "Danada Dental",
+   "summary": "Danada Dental is a dentist in Wheaton, IL at 10 Danada Square West, Wheaton, IL 60187. Phone: +16306657474. Website: https://www.danadadental.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/danada-dental-wheaton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/danada-dental-wheaton.json",
+   "address": {
+    "streetAddress": "10 Danada Square West",
+    "addressLocality": "Wheaton",
+    "addressRegion": "IL",
+    "postalCode": "60187",
+    "addressCountry": "US"
+   },
+   "city": "Wheaton",
+   "state": "IL",
+   "zip": "60187",
+   "geo": {
+    "lat": 41.8314732,
+    "lon": -88.1044607
+   },
+   "phone": "+16306657474",
+   "website": "https://www.danadadental.com/",
+   "opening_hours": "Mo, We 11:00-18:00; Tu 08:00-18:00; Th 09:00-18:00; Sa 08:00-13:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4833586782",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "gt-massage-and-skin-care-wheaton",
+   "name": "GT Massage & Skin Care",
+   "summary": "GT Massage & Skin Care is a massage studio in Wheaton, IL at 300 East Roosevelt Road #110, Wheaton, IL 60187. Phone: +16302922061. Website: https://gtmassageandskincare.com/.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gt-massage-and-skin-care-wheaton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gt-massage-and-skin-care-wheaton.json",
+   "address": {
+    "streetAddress": "300 East Roosevelt Road #110",
+    "addressLocality": "Wheaton",
+    "addressRegion": "IL",
+    "postalCode": "60187",
+    "addressCountry": "US"
+   },
+   "city": "Wheaton",
+   "state": "IL",
+   "zip": "60187",
+   "geo": {
+    "lat": 41.8585257,
+    "lon": -88.1018828
+   },
+   "phone": "+16302922061",
+   "website": "https://gtmassageandskincare.com/",
+   "opening_hours": "Mo-Th 11:30-20:00; Fr 09:00-17:00; Sa 08:00-15:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13462350232",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "keller-legal-services-wheaton",
+   "name": "Keller Legal Services",
+   "summary": "Keller Legal Services is a lawyer in Wheaton, IL at 620 W. Roosevelt Road #A2, Wheaton, IL 60187. Phone: +16308683093. Website: https://kellerlegalservices.com/.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/keller-legal-services-wheaton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/keller-legal-services-wheaton.json",
+   "address": {
+    "streetAddress": "620 W. Roosevelt Road #A2",
+    "addressLocality": "Wheaton",
+    "addressRegion": "IL",
+    "postalCode": "60187",
+    "addressCountry": "US"
+   },
+   "city": "Wheaton",
+   "state": "IL",
+   "zip": "60187",
+   "geo": {
+    "lat": 41.8583034,
+    "lon": -88.1159637
+   },
+   "phone": "+16308683093",
+   "website": "https://kellerlegalservices.com/",
+   "opening_hours": "Mo-Fr 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7101263583",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "petco-wheaton",
+   "name": "Petco",
+   "summary": "Petco is a pet store in Wheaton, IL at 23 Danada Square East, Wheaton, IL 60189. Phone: +16306537301. Website: https://stores.petco.com/il/wheaton/pet-supplies-wheaton-il-649.html.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petco-wheaton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petco-wheaton.json",
+   "address": {
+    "streetAddress": "23 Danada Square East",
+    "addressLocality": "Wheaton",
+    "addressRegion": "IL",
+    "postalCode": "60189",
+    "addressCountry": "US"
+   },
+   "city": "Wheaton",
+   "state": "IL",
+   "zip": "60189",
+   "geo": {
+    "lat": 41.831702,
+    "lon": -88.1025407
+   },
+   "phone": "+16306537301",
+   "website": "https://stores.petco.com/il/wheaton/pet-supplies-wheaton-il-649.html",
+   "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4833586756",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "petsmart-wheaton",
+   "name": "PetSmart",
+   "summary": "PetSmart is a pet store in Wheaton, IL at 63 Rice Lake Square, Wheaton, IL 60189. Phone: +16304627345. Website: https://www.petsmart.com/stores/us/il/wheaton-store1376.html.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petsmart-wheaton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petsmart-wheaton.json",
+   "address": {
+    "streetAddress": "63 Rice Lake Square",
+    "addressLocality": "Wheaton",
+    "addressRegion": "IL",
+    "postalCode": "60189",
+    "addressCountry": "US"
+   },
+   "city": "Wheaton",
+   "state": "IL",
+   "zip": "60189",
+   "geo": {
+    "lat": 41.8302501,
+    "lon": -88.1003314
+   },
+   "phone": "+16304627345",
+   "website": "https://www.petsmart.com/stores/us/il/wheaton-store1376.html",
+   "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/128629716",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "theisen-and-roche-ltd-wheaton",
+   "name": "Theisen & Roche, Ltd.",
+   "summary": "Theisen & Roche, Ltd. is a lawyer in Wheaton, IL at 2100 Manchester Road #201, Wheaton, IL 60187. Phone: +16308719003. Website: https://www.trlawyer.com/.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/theisen-and-roche-ltd-wheaton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/theisen-and-roche-ltd-wheaton.json",
+   "address": {
+    "streetAddress": "2100 Manchester Road #201",
+    "addressLocality": "Wheaton",
+    "addressRegion": "IL",
+    "postalCode": "60187",
+    "addressCountry": "US"
+   },
+   "city": "Wheaton",
+   "state": "IL",
+   "zip": "60187",
+   "geo": {
+    "lat": 41.8637598,
+    "lon": -88.1383153
+   },
+   "phone": "+16308719003",
+   "website": "https://www.trlawyer.com/",
+   "opening_hours": "Mo-Fr 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5159477731",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "tommy-s-express-car-wash-wheaton",
+   "name": "Tommy’s Express Car Wash",
+   "summary": "Tommy’s Express Car Wash is a car wash in Wheaton, IL at 2101 North Gary Avenue, Wheaton, IL 60187. Phone: +16302737081. Website: https://tommys-express.com/locations/il125/.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tommy-s-express-car-wash-wheaton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tommy-s-express-car-wash-wheaton.json",
+   "address": {
+    "streetAddress": "2101 North Gary Avenue",
+    "addressLocality": "Wheaton",
+    "addressRegion": "IL",
+    "postalCode": "60187",
+    "addressCountry": "US"
+   },
+   "city": "Wheaton",
+   "state": "IL",
+   "zip": "60187",
+   "geo": {
+    "lat": 41.8870119,
+    "lon": -88.1207718
+   },
+   "phone": "+16302737081",
+   "website": "https://tommys-express.com/locations/il125/",
+   "opening_hours": "Mo-Su 07:00-21:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1466113223",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "danada-house-wheaton",
+   "name": "Danada House",
+   "summary": "Danada House is an event venue in Wheaton, IL at 3S501 Naperville Road, Wheaton, IL 60187. Phone: +16306685392. Website: https://danadahouse.org/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/danada-house-wheaton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/danada-house-wheaton.json",
+   "address": {
+    "streetAddress": "3S501 Naperville Road",
+    "addressLocality": "Wheaton",
+    "addressRegion": "IL",
+    "postalCode": "60187",
+    "addressCountry": "US"
+   },
+   "city": "Wheaton",
+   "state": "IL",
+   "zip": "60187",
+   "geo": {
+    "lat": 41.8202723,
+    "lon": -88.1081089
+   },
+   "phone": "+16306685392",
+   "website": "https://danadahouse.org/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/491453217",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "marquiz-salons-and-spa-wheaton",
+   "name": "Marquiz Salons & Spa",
+   "summary": "Marquiz Salons & Spa is a hair salon in Wheaton, IL at 222 West Front Street, Wheaton, IL 60187. Phone: +16306535256. Website: https://www.marquizsalon.net/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/marquiz-salons-and-spa-wheaton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/marquiz-salons-and-spa-wheaton.json",
+   "address": {
+    "streetAddress": "222 West Front Street",
+    "addressLocality": "Wheaton",
+    "addressRegion": "IL",
+    "postalCode": "60187",
+    "addressCountry": "US"
+   },
+   "city": "Wheaton",
+   "state": "IL",
+   "zip": "60187",
+   "geo": {
+    "lat": 41.8646289,
+    "lon": -88.1094625
+   },
+   "phone": "+16306535256",
+   "website": "https://www.marquizsalon.net/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12701487685",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "mattress-firm-wheaton",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Wheaton, IL at 22 Danada Square West, Wheaton, IL 60189. Phone: +16306684955. Website: https://www.mattressfirm.com/en-us/stores/il/wheaton/119168/.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-wheaton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-wheaton.json",
+   "address": {
+    "streetAddress": "22 Danada Square West",
+    "addressLocality": "Wheaton",
+    "addressRegion": "IL",
+    "postalCode": "60189",
+    "addressCountry": "US"
+   },
+   "city": "Wheaton",
+   "state": "IL",
+   "zip": "60189",
+   "geo": {
+    "lat": 41.8296078,
+    "lon": -88.1007918
+   },
+   "phone": "+16306684955",
+   "website": "https://www.mattressfirm.com/en-us/stores/il/wheaton/119168/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9276601530",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "perkins-and-zayed-pc-wheaton",
+   "name": "Perkins & Zayed PC",
+   "summary": "Perkins & Zayed PC is a real estate agency in Wheaton, IL at 1745 South Naperville Road #200, Wheaton, IL 60189. Phone: +16306652300. Website: https://www.trust-lawgroup.com/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/perkins-and-zayed-pc-wheaton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/perkins-and-zayed-pc-wheaton.json",
+   "address": {
+    "streetAddress": "1745 South Naperville Road #200",
+    "addressLocality": "Wheaton",
+    "addressRegion": "IL",
+    "postalCode": "60189",
+    "addressCountry": "US"
+   },
+   "city": "Wheaton",
+   "state": "IL",
+   "zip": "60189",
+   "geo": {
+    "lat": 41.8399389,
+    "lon": -88.1012514
+   },
+   "phone": "+16306652300",
+   "website": "https://www.trust-lawgroup.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5135017453",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "restoration-dental-group-wheaton",
+   "name": "Restoration Dental Group",
+   "summary": "Restoration Dental Group is a dentist in Wheaton, IL at 1501 East Roosevelt Road, Wheaton, IL 60187. Phone: +16305809880. Website: https://www.restorationdentalgroup.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/restoration-dental-group-wheaton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/restoration-dental-group-wheaton.json",
+   "address": {
+    "streetAddress": "1501 East Roosevelt Road",
+    "addressLocality": "Wheaton",
+    "addressRegion": "IL",
+    "postalCode": "60187",
+    "addressCountry": "US"
+   },
+   "city": "Wheaton",
+   "state": "IL",
+   "zip": "60187",
+   "geo": {
+    "lat": 41.859419,
+    "lon": -88.0855643
+   },
+   "phone": "+16305809880",
+   "website": "https://www.restorationdentalgroup.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1334542623",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "suburban-music-wheaton",
+   "name": "Suburban Music",
+   "summary": "Suburban Music is a music school in Wheaton, IL at 210 West Front Street, Wheaton, IL 60187. Phone: +16306824291. Website: https://www.suburbanmusicwheaton.com/.",
+   "categories": [
+    "music lessons"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/suburban-music-wheaton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/suburban-music-wheaton.json",
+   "address": {
+    "streetAddress": "210 West Front Street",
+    "addressLocality": "Wheaton",
+    "addressRegion": "IL",
+    "postalCode": "60187",
+    "addressCountry": "US"
+   },
+   "city": "Wheaton",
+   "state": "IL",
+   "zip": "60187",
+   "geo": {
+    "lat": 41.8646968,
+    "lon": -88.1087089
+   },
+   "phone": "+16306824291",
+   "website": "https://www.suburbanmusicwheaton.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12701487689",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "wheaton-dental-clinic-wheaton",
+   "name": "Wheaton Dental Clinic",
+   "summary": "Wheaton Dental Clinic is a dentist in Wheaton, IL at 202 West Willow Avenue ##103, Wheaton, IL 60187. Phone: +16306824743. Website: https://wheatondentalclinic.net/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wheaton-dental-clinic-wheaton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wheaton-dental-clinic-wheaton.json",
+   "address": {
+    "streetAddress": "202 West Willow Avenue ##103",
+    "addressLocality": "Wheaton",
+    "addressRegion": "IL",
+    "postalCode": "60187",
+    "addressCountry": "US"
+   },
+   "city": "Wheaton",
+   "state": "IL",
+   "zip": "60187",
+   "geo": {
+    "lat": 41.8630354,
+    "lon": -88.1084828
+   },
+   "phone": "+16306824743",
+   "website": "https://wheatondentalclinic.net/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9852878741",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "attorney-shawna-mason-wheaton",
+   "name": "Attorney Shawna Mason",
+   "summary": "Attorney Shawna Mason is a lawyer in Wheaton, IL at 1008 East Geneva Road, Wheaton, IL 60187. Phone: +16307521410.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/attorney-shawna-mason-wheaton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/attorney-shawna-mason-wheaton.json",
+   "address": {
+    "streetAddress": "1008 East Geneva Road",
+    "addressLocality": "Wheaton",
+    "addressRegion": "IL",
+    "postalCode": "60187",
+    "addressCountry": "US"
+   },
+   "city": "Wheaton",
+   "state": "IL",
+   "zip": "60187",
+   "geo": {
+    "lat": 41.8881396,
+    "lon": -88.0914512
+   },
+   "phone": "+16307521410",
+   "opening_hours": "Mo-Fr 10:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13454401626",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "all-flowers-by-marissaa-wheaton",
+   "name": "All Flowers By Marissaa",
+   "summary": "All Flowers By Marissaa is a florist in Wheaton, IL at 26w225 Geneva Road, Wheaton, IL 60187. Website: https://allflowersbymarisa.com/.",
+   "categories": [
+    "florist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/all-flowers-by-marissaa-wheaton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/all-flowers-by-marissaa-wheaton.json",
+   "address": {
+    "streetAddress": "26w225 Geneva Road",
+    "addressLocality": "Wheaton",
+    "addressRegion": "IL",
+    "postalCode": "60187",
+    "addressCountry": "US"
+   },
+   "city": "Wheaton",
+   "state": "IL",
+   "zip": "60187",
+   "geo": {
+    "lat": 41.8873621,
+    "lon": -88.1369915
+   },
+   "website": "https://allflowersbymarisa.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2798968574",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "allstate-wheaton",
+   "name": "Allstate",
+   "summary": "Allstate is an insurance agent in Wheaton, IL at 324 West Liberty Drive, Wheaton, IL 60187. Phone: +16305809653.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/allstate-wheaton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/allstate-wheaton.json",
+   "address": {
+    "streetAddress": "324 West Liberty Drive",
+    "addressLocality": "Wheaton",
+    "addressRegion": "IL",
+    "postalCode": "60187",
+    "addressCountry": "US"
+   },
+   "city": "Wheaton",
+   "state": "IL",
+   "zip": "60187",
+   "geo": {
+    "lat": 41.8637106,
+    "lon": -88.1111604
+   },
+   "phone": "+16305809653",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12701487641",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "aslan-stoneworks-wheaton",
+   "name": "Aslan Stoneworks",
+   "summary": "Aslan Stoneworks is a concrete contractor in Wheaton, IL at 318 West Liberty Drive, Wheaton, IL 60187. Phone: +16306652010.",
+   "categories": [
+    "concrete contractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/aslan-stoneworks-wheaton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/aslan-stoneworks-wheaton.json",
+   "address": {
+    "streetAddress": "318 West Liberty Drive",
+    "addressLocality": "Wheaton",
+    "addressRegion": "IL",
+    "postalCode": "60187",
+    "addressCountry": "US"
+   },
+   "city": "Wheaton",
+   "state": "IL",
+   "zip": "60187",
+   "geo": {
+    "lat": 41.8637053,
+    "lon": -88.1109517
+   },
+   "phone": "+16306652010",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12701487643",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "cute-nails-wheaton",
+   "name": "Cute Nails",
+   "summary": "Cute Nails is a nail salon in Wheaton, IL at 322 West Liberty Drive, Wheaton, IL 60187. Phone: +16304800497.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cute-nails-wheaton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cute-nails-wheaton.json",
+   "address": {
+    "streetAddress": "322 West Liberty Drive",
+    "addressLocality": "Wheaton",
+    "addressRegion": "IL",
+    "postalCode": "60187",
+    "addressCountry": "US"
+   },
+   "city": "Wheaton",
+   "state": "IL",
+   "zip": "60187",
+   "geo": {
+    "lat": 41.8637167,
+    "lon": -88.1110525
+   },
+   "phone": "+16304800497",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12701487642",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "danada-veterinary-hospital-wheaton",
+   "name": "Danada Veterinary Hospital",
+   "summary": "Danada Veterinary Hospital is a veterinarian in Wheaton, IL at 10 West Loop Road, Wheaton, IL 60189. Website: https://www.danadavet.com/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/danada-veterinary-hospital-wheaton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/danada-veterinary-hospital-wheaton.json",
+   "address": {
+    "streetAddress": "10 West Loop Road",
+    "addressLocality": "Wheaton",
+    "addressRegion": "IL",
+    "postalCode": "60189",
+    "addressCountry": "US"
+   },
+   "city": "Wheaton",
+   "state": "IL",
+   "zip": "60189",
+   "geo": {
+    "lat": 41.8324304,
+    "lon": -88.1053483
+   },
+   "website": "https://www.danadavet.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1925358088",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "dupage-county-fairgrounds-wheaton",
+   "name": "DuPage County Fairgrounds",
+   "summary": "DuPage County Fairgrounds is an event venue in Wheaton, IL at Manchester Road, Wheaton, IL 60187. Website: https://dupagecountyfair.org/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dupage-county-fairgrounds-wheaton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dupage-county-fairgrounds-wheaton.json",
+   "address": {
+    "streetAddress": "Manchester Road",
+    "addressLocality": "Wheaton",
+    "addressRegion": "IL",
+    "postalCode": "60187",
+    "addressCountry": "US"
+   },
+   "city": "Wheaton",
+   "state": "IL",
+   "zip": "60187",
+   "geo": {
+    "lat": 41.8680081,
+    "lon": -88.1345323
+   },
+   "website": "https://dupagecountyfair.org/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/14018864301",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "orangetheory-fitness-wheaton",
+   "name": "Orangetheory Fitness",
+   "summary": "Orangetheory Fitness is a gym in Wheaton, IL at 223 Rice Lake Square, Wheaton, IL 60189. Phone: +16309146767.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/orangetheory-fitness-wheaton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/orangetheory-fitness-wheaton.json",
+   "address": {
+    "streetAddress": "223 Rice Lake Square",
+    "addressLocality": "Wheaton",
+    "addressRegion": "IL",
+    "postalCode": "60189",
+    "addressCountry": "US"
+   },
+   "city": "Wheaton",
+   "state": "IL",
+   "zip": "60189",
+   "geo": {
+    "lat": 41.8315862,
+    "lon": -88.098758
+   },
+   "phone": "+16309146767",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11102028085",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "valvoline-express-care-wheaton",
+   "name": "Valvoline Express Care",
+   "summary": "Valvoline Express Care is an auto repair shop in Wheaton, IL at 1927 East Roosevelt Road, Wheaton, IL. Phone: +16306536553.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/valvoline-express-care-wheaton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/valvoline-express-care-wheaton.json",
+   "address": {
+    "streetAddress": "1927 East Roosevelt Road",
+    "addressLocality": "Wheaton",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Wheaton",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8594647,
+    "lon": -88.0794884
+   },
+   "phone": "+16306536553",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/850669423",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "the-gentlemen-s-barber-wheaton",
+   "name": "The Gentlemen’s Barber",
+   "summary": "The Gentlemen’s Barber is a barber shop in Wheaton, IL at 128 West Willow Avenue, Wheaton, IL 60187.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-gentlemen-s-barber-wheaton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-gentlemen-s-barber-wheaton.json",
+   "address": {
+    "streetAddress": "128 West Willow Avenue",
+    "addressLocality": "Wheaton",
+    "addressRegion": "IL",
+    "postalCode": "60187",
+    "addressCountry": "US"
+   },
+   "city": "Wheaton",
+   "state": "IL",
+   "zip": "60187",
+   "geo": {
+    "lat": 41.8630533,
+    "lon": -88.1078504
+   },
+   "opening_hours": "Tu-Fr 09:00-17:00; Sa 09:00-13:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13305589513",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "jefferson-early-childhood-center-wheaton",
+   "name": "Jefferson Early Childhood Center",
+   "summary": "Jefferson Early Childhood Center is a preschool in Wheaton, IL. Website: https://www.cusd200.org/jefferson.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jefferson-early-childhood-center-wheaton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jefferson-early-childhood-center-wheaton.json",
+   "address": {
+    "addressLocality": "Wheaton",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Wheaton",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8640367,
+    "lon": -88.1365768
+   },
+   "website": "https://www.cusd200.org/jefferson",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/642327459",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "acostas-consignment-wheaton",
+   "name": "Acosta's Consignment",
+   "summary": "Acosta's Consignment is a thrift store in Wheaton, IL at 901 East Roosevelt Road, Wheaton, IL 60187.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/acostas-consignment-wheaton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/acostas-consignment-wheaton.json",
+   "address": {
+    "streetAddress": "901 East Roosevelt Road",
+    "addressLocality": "Wheaton",
+    "addressRegion": "IL",
+    "postalCode": "60187",
+    "addressCountry": "US"
+   },
+   "city": "Wheaton",
+   "state": "IL",
+   "zip": "60187",
+   "geo": {
+    "lat": 41.8592059,
+    "lon": -88.0937435
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4984117565",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "altobello-fine-jewelers-wheaton",
+   "name": "Altobello Fine Jewelers",
+   "summary": "Altobello Fine Jewelers is a jewelry store in Wheaton, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/altobello-fine-jewelers-wheaton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/altobello-fine-jewelers-wheaton.json",
+   "address": {
+    "addressLocality": "Wheaton",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Wheaton",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8343093,
+    "lon": -88.1014843
+   },
+   "opening_hours": "Mo,Su off; Tu-Fr 10:00-17:00; Sa 10:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11188243168",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "hotworx-wheaton",
+   "name": "Hotworx",
+   "summary": "Hotworx is a gym in Wheaton, IL.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hotworx-wheaton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hotworx-wheaton.json",
+   "address": {
+    "addressLocality": "Wheaton",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Wheaton",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8351835,
+    "lon": -88.1009748
+   },
+   "opening_hours": "Mo-Th 11:00-20:00; Fr 09:00-18:00; Sa 11:00-16:00; Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11188243183",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "west-willow-family-dental-of-wheaton-wheaton",
+   "name": "West Willow Family Dental of Wheaton",
+   "summary": "West Willow Family Dental of Wheaton is a dentist in Wheaton, IL at 300 South West Street, Wheaton, IL 60187.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/west-willow-family-dental-of-wheaton-wheaton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/west-willow-family-dental-of-wheaton-wheaton.json",
+   "address": {
+    "streetAddress": "300 South West Street",
+    "addressLocality": "Wheaton",
+    "addressRegion": "IL",
+    "postalCode": "60187",
+    "addressCountry": "US"
+   },
+   "city": "Wheaton",
+   "state": "IL",
+   "zip": "60187",
+   "geo": {
+    "lat": 41.8631078,
+    "lon": -88.1117787
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13021365015",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "merlin-mufflers-wheaton",
+   "name": "Merlin Mufflers",
+   "summary": "Merlin Mufflers is an auto repair shop in Wheaton, IL at North Main Street, Wheaton, IL.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/merlin-mufflers-wheaton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/merlin-mufflers-wheaton.json",
+   "address": {
+    "streetAddress": "North Main Street",
+    "addressLocality": "Wheaton",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Wheaton",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8813379,
+    "lon": -88.1072209
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/633133373",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "209-wheaton",
+   "name": "209",
+   "summary": "209 is a hair salon in Wheaton, IL.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/209-wheaton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/209-wheaton.json",
+   "address": {
+    "addressLocality": "Wheaton",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Wheaton",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8651013,
+    "lon": -88.1071665
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/302695978",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "athletico-physical-therapy-wheaton",
+   "name": "Athletico Physical Therapy",
+   "summary": "Athletico Physical Therapy is a physical therapy clinic in Wheaton, IL.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/athletico-physical-therapy-wheaton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/athletico-physical-therapy-wheaton.json",
+   "address": {
+    "addressLocality": "Wheaton",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Wheaton",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8315521,
+    "lon": -88.1043931
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11101998121",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "barber-shop-wheaton",
+   "name": "Barber Shop",
+   "summary": "Barber Shop is a hair salon in Wheaton, IL.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/barber-shop-wheaton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/barber-shop-wheaton.json",
+   "address": {
+    "addressLocality": "Wheaton",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Wheaton",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8319637,
+    "lon": -88.1028039
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11102053617",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "bp-wheaton",
+   "name": "BP",
+   "summary": "BP is a car wash in Wheaton, IL.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bp-wheaton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bp-wheaton.json",
+   "address": {
+    "addressLocality": "Wheaton",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Wheaton",
+   "state": "IL",
+   "geo": {
+    "lat": 41.829788,
+    "lon": -88.0971242
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1063076181",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "carlsons-glass-wheaton",
+   "name": "Carlson's Glass",
+   "summary": "Carlson's Glass is a window repair service in Wheaton, IL.",
+   "categories": [
+    "window repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/carlsons-glass-wheaton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/carlsons-glass-wheaton.json",
+   "address": {
+    "addressLocality": "Wheaton",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Wheaton",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8645963,
+    "lon": -88.1107073
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/302533428",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "celine-nail-spa-wheaton",
+   "name": "Celine Nail Spa",
+   "summary": "Celine Nail Spa is a nail salon in Wheaton, IL.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/celine-nail-spa-wheaton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/celine-nail-spa-wheaton.json",
+   "address": {
+    "addressLocality": "Wheaton",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Wheaton",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8316286,
+    "lon": -88.0978298
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11102023008",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "classy-nails-and-spa-wheaton",
+   "name": "Classy Nails & Spa",
+   "summary": "Classy Nails & Spa is a nail salon in Wheaton, IL.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/classy-nails-and-spa-wheaton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/classy-nails-and-spa-wheaton.json",
+   "address": {
+    "addressLocality": "Wheaton",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Wheaton",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8313524,
+    "lon": -88.1015176
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11102101914",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "cyclebar-wheaton",
+   "name": "Cyclebar",
+   "summary": "Cyclebar is a bike shop in Wheaton, IL.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cyclebar-wheaton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cyclebar-wheaton.json",
+   "address": {
+    "addressLocality": "Wheaton",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Wheaton",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8314078,
+    "lon": -88.1016523
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11102101913",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "dental-care-of-wheaton-wheaton",
+   "name": "Dental Care of Wheaton",
+   "summary": "Dental Care of Wheaton is a dentist in Wheaton, IL.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dental-care-of-wheaton-wheaton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dental-care-of-wheaton-wheaton.json",
+   "address": {
+    "addressLocality": "Wheaton",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Wheaton",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8313089,
+    "lon": -88.1013688
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11102101915",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "fedex-office-wheaton",
+   "name": "FedEx Office",
+   "summary": "FedEx Office is a printing service in Wheaton, IL.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fedex-office-wheaton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fedex-office-wheaton.json",
+   "address": {
+    "addressLocality": "Wheaton",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Wheaton",
+   "state": "IL",
+   "geo": {
+    "lat": 41.829408,
+    "lon": -88.1068435
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4833586761",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "firestone-wheaton",
+   "name": "Firestone",
+   "summary": "Firestone is an auto repair shop in Wheaton, IL.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/firestone-wheaton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/firestone-wheaton.json",
+   "address": {
+    "addressLocality": "Wheaton",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Wheaton",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8294579,
+    "lon": -88.1092248
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1286969661",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "great-clips-wheaton",
+   "name": "Great Clips",
+   "summary": "Great Clips is a hair salon in Wheaton, IL.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/great-clips-wheaton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/great-clips-wheaton.json",
+   "address": {
+    "addressLocality": "Wheaton",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Wheaton",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8294536,
+    "lon": -88.101931
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13753993501",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "kindercare-wheaton",
+   "name": "Kindercare",
+   "summary": "Kindercare is a preschool in Wheaton, IL.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kindercare-wheaton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kindercare-wheaton.json",
+   "address": {
+    "addressLocality": "Wheaton",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Wheaton",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8322706,
+    "lon": -88.0995104
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/128687355",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "l-a-tan-wheaton",
+   "name": "L.A. Tan",
+   "summary": "L.A. Tan is a tanning salon in Wheaton, IL.",
+   "categories": [
+    "tanning salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/l-a-tan-wheaton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/l-a-tan-wheaton.json",
+   "address": {
+    "addressLocality": "Wheaton",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Wheaton",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8333247,
+    "lon": -88.1001407
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11188243170",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "massage-envy-wheaton",
+   "name": "Massage Envy",
+   "summary": "Massage Envy is a massage studio in Wheaton, IL.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/massage-envy-wheaton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/massage-envy-wheaton.json",
+   "address": {
+    "addressLocality": "Wheaton",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Wheaton",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8314663,
+    "lon": -88.0988276
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6814778017",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "midwest-cyclery-wheaton",
+   "name": "Midwest Cyclery",
+   "summary": "Midwest Cyclery is a bike shop in Wheaton, IL.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/midwest-cyclery-wheaton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/midwest-cyclery-wheaton.json",
+   "address": {
+    "addressLocality": "Wheaton",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Wheaton",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8651046,
+    "lon": -88.105778
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3559188038",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "mobil-wheaton",
+   "name": "Mobil",
+   "summary": "Mobil is a car wash in Wheaton, IL.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mobil-wheaton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mobil-wheaton.json",
+   "address": {
+    "addressLocality": "Wheaton",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Wheaton",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8583416,
+    "lon": -88.0907123
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9380966145",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "natural-pet-market-wheaton",
+   "name": "Natural Pet Market",
+   "summary": "Natural Pet Market is a pet store in Wheaton, IL.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/natural-pet-market-wheaton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/natural-pet-market-wheaton.json",
+   "address": {
+    "addressLocality": "Wheaton",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Wheaton",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8316294,
+    "lon": -88.0979649
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11102023009",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "planet-fitness-wheaton",
+   "name": "Planet Fitness",
+   "summary": "Planet Fitness is a gym in Wheaton, IL.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/planet-fitness-wheaton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/planet-fitness-wheaton.json",
+   "address": {
+    "addressLocality": "Wheaton",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Wheaton",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8372855,
+    "lon": -88.1008044
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11102252006",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "prose-nails-wheaton",
+   "name": "Prose Nails",
+   "summary": "Prose Nails is a nail salon in Wheaton, IL.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/prose-nails-wheaton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/prose-nails-wheaton.json",
+   "address": {
+    "addressLocality": "Wheaton",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Wheaton",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8319531,
+    "lon": -88.1041186
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11102051032",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "shining-smiles-wheaton",
+   "name": "Shining Smiles",
+   "summary": "Shining Smiles is a dentist in Wheaton, IL.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/shining-smiles-wheaton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/shining-smiles-wheaton.json",
+   "address": {
+    "addressLocality": "Wheaton",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Wheaton",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8316301,
+    "lon": -88.0987305
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11102028086",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "spokes-wheaton",
+   "name": "Spokes",
+   "summary": "Spokes is a bike shop in Wheaton, IL.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/spokes-wheaton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/spokes-wheaton.json",
+   "address": {
+    "addressLocality": "Wheaton",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Wheaton",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8316914,
+    "lon": -88.0985802
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11102023011",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "sport-clips-wheaton",
+   "name": "Sport Clips",
+   "summary": "Sport Clips is a hair salon in Wheaton, IL.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sport-clips-wheaton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sport-clips-wheaton.json",
+   "address": {
+    "addressLocality": "Wheaton",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Wheaton",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8582044,
+    "lon": -88.139079
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2789705556",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "sport-clips-wheaton-n11188198671",
+   "name": "Sport Clips",
+   "summary": "Sport Clips is a hair salon in Wheaton, IL.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sport-clips-wheaton-n11188198671/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sport-clips-wheaton-n11188198671.json",
+   "address": {
+    "addressLocality": "Wheaton",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Wheaton",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8301186,
+    "lon": -88.0943012
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11188198671",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "stones-jewerly-wheaton",
+   "name": "Stones Jewerly",
+   "summary": "Stones Jewerly is a jewelry store in Wheaton, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/stones-jewerly-wheaton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/stones-jewerly-wheaton.json",
+   "address": {
+    "addressLocality": "Wheaton",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Wheaton",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8651089,
+    "lon": -88.1070566
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/302695977",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "wheaton-cat-clinic-wheaton",
+   "name": "Wheaton Cat Clinic",
+   "summary": "Wheaton Cat Clinic is a veterinarian in Wheaton, IL.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wheaton-cat-clinic-wheaton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wheaton-cat-clinic-wheaton.json",
+   "address": {
+    "addressLocality": "Wheaton",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Wheaton",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8686141,
+    "lon": -88.0913972
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/305286043",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "wheaton-eye-clinic-wheaton",
+   "name": "Wheaton Eye Clinic",
+   "summary": "Wheaton Eye Clinic is an eye care practice in Wheaton, IL.",
+   "categories": [
+    "eye doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wheaton-eye-clinic-wheaton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wheaton-eye-clinic-wheaton.json",
+   "address": {
+    "addressLocality": "Wheaton",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Wheaton",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8850402,
+    "lon": -88.1062689
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/633133379",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "yoga-by-degrees-wheaton",
+   "name": "Yoga By Degrees",
+   "summary": "Yoga By Degrees is a gym in Wheaton, IL.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/yoga-by-degrees-wheaton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/yoga-by-degrees-wheaton.json",
+   "address": {
+    "addressLocality": "Wheaton",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Wheaton",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8316946,
+    "lon": -88.0983434
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6814777996",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "slug": "bears-fit-vernon-hills",
+ "name": "Bears Fit",
+ "categories": [
+  "gym"
+ ],
+ "keywords": [
+  "gym",
+  "gym vernon hills il"
+ ],
+ "services": [
+  {
+   "name": "gym",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "155 Townline Road",
+  "addressLocality": "Vernon Hills",
+  "addressRegion": "IL",
+  "postalCode": "60061",
+  "addressCountry": "US"
+ },
+ "city": "Vernon Hills",
+ "state": "IL",
+ "zip": "60061",
+ "geo": {
+  "lat": 42.238932,
+  "lon": -87.9606415
+ },
+ "website": "https://bearsfit.com/",
+ "schema_type": "ExerciseGym",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/313512183",
+ "osm": {
+  "type": "way",
+  "id": 313512183,
+  "tags_used": {
+   "leisure": "fitness_centre",
+   "sport": "athletics"
+  }
+ },
+ "municipality": "Vernon Hills",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/bears-fit-vernon-hills/",
+ "summary": "Bears Fit is a gym in Vernon Hills, IL at 155 Townline Road, Vernon Hills, IL 60061. Website: https://bearsfit.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,23 @@
+Discount Tire is a tire shop in Orland Park, IL.
+
+# Discount Tire
+
+- Category: tire shop
+- Services: tire shop
+- Address: Orland Park, IL
+- City: Orland Park
+- State: IL
+- ZIP: n/a
+- Coordinates: 41.6019166, -87.8495572
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/discount-tire-orland-park/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/discount-tire-orland-park.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/470090080 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

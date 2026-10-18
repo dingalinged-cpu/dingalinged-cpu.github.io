@@ -1,0 +1,57 @@
+{
+ "slug": "ravinia-festival-highland-park",
+ "name": "Ravinia Festival",
+ "categories": [
+  "event venues"
+ ],
+ "keywords": [
+  "event venues",
+  "event venues highland park il"
+ ],
+ "services": [
+  {
+   "name": "event venues",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "418 Sheridan Road",
+  "addressLocality": "Highland Park",
+  "addressRegion": "IL",
+  "postalCode": "60035",
+  "addressCountry": "US"
+ },
+ "city": "Highland Park",
+ "state": "IL",
+ "zip": "60035",
+ "geo": {
+  "lat": 42.1573592,
+  "lon": -87.7763234
+ },
+ "website": "https://www.ravinia.org/",
+ "wikidata": "Q4402561",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/relation/7419783",
+ "osm": {
+  "type": "relation",
+  "id": 7419783,
+  "tags_used": {
+   "amenity": "events_venue",
+   "leisure": "park"
+  }
+ },
+ "municipality": "Highland Park",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/ravinia-festival-highland-park/",
+ "summary": "Ravinia Festival is an event venue in Highland Park, IL at 418 Sheridan Road, Highland Park, IL 60035. Website: https://www.ravinia.org/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

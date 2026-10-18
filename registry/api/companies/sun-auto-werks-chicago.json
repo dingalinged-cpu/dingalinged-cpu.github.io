@@ -1,0 +1,61 @@
+{
+ "slug": "sun-auto-werks-chicago",
+ "name": "Sun Auto Werks",
+ "categories": [
+  "auto repair"
+ ],
+ "keywords": [
+  "auto repair",
+  "mechanic",
+  "auto repair chicago il",
+  "mechanic chicago il"
+ ],
+ "services": [
+  {
+   "name": "auto repair",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "mechanic",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "4430 West Lawrence Avenue",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60630",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60630",
+ "geo": {
+  "lat": 41.9684079,
+  "lon": -87.7389067
+ },
+ "phone": "+17732059990",
+ "schema_type": "AutoRepair",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/11702293734",
+ "osm": {
+  "type": "node",
+  "id": 11702293734,
+  "tags_used": {
+   "shop": "car_repair"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/sun-auto-werks-chicago/",
+ "summary": "Sun Auto Werks is an auto repair shop in Chicago, IL at 4430 West Lawrence Avenue, Chicago, IL 60630. Phone: +17732059990.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,81 @@
+{
+ "title": "Keyword market data: St. John, IN",
+ "description": "Top St. John, IN service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
+ "updated": "2026-10-18",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are in the JSON and dataset. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "place": "St. John, IN",
+ "geography": "Chicago-Naperville-Elgin, IL-IN metro",
+ "keywords": 2,
+ "lists": {
+  "by_volume": [
+   {
+    "keyword": "gym st. john in",
+    "slug": "gym-st-john-in",
+    "url": "https://dingalinged-cpu.github.io/registry/k/gym-st-john-in/",
+    "us_monthly_searches": 1830000,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 51000,
+    "cpc_basis_usd": 1.67,
+    "cpc_median_usd": 6.17,
+    "search_value_index_usd": 85000,
+    "equivalent_google_ads_cost_month_usd": 6100,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_volume"
+   }
+  ],
+  "by_cpc": [
+   {
+    "keyword": "preschool st. john in",
+    "slug": "preschool-st-john-in",
+    "url": "https://dingalinged-cpu.github.io/registry/k/preschool-st-john-in/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "local_monthly_searches_est": 6100,
+    "cpc_basis_usd": 4.81,
+    "cpc_median_usd": 4.81,
+    "search_value_index_usd": 29000,
+    "equivalent_google_ads_cost_month_usd": 1700,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "gym st. john in",
+    "slug": "gym-st-john-in",
+    "url": "https://dingalinged-cpu.github.io/registry/k/gym-st-john-in/",
+    "us_monthly_searches": 1830000,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 51000,
+    "cpc_basis_usd": 1.67,
+    "cpc_median_usd": 6.17,
+    "search_value_index_usd": 85000,
+    "equivalent_google_ads_cost_month_usd": 6100,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   }
+  ],
+  "by_value": [
+   {
+    "keyword": "gym st. john in",
+    "slug": "gym-st-john-in",
+    "url": "https://dingalinged-cpu.github.io/registry/k/gym-st-john-in/",
+    "us_monthly_searches": 1830000,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 51000,
+    "cpc_basis_usd": 1.67,
+    "cpc_median_usd": 6.17,
+    "search_value_index_usd": 85000,
+    "equivalent_google_ads_cost_month_usd": 6100,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_value"
+   }
+  ]
+ },
+ "license": {
+  "registry_estimates": "CC-BY-4.0",
+  "url": "https://creativecommons.org/licenses/by/4.0/"
+ }
+}

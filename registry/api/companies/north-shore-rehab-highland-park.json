@@ -1,0 +1,51 @@
+{
+ "slug": "north-shore-rehab-highland-park",
+ "name": "North Shore Rehab",
+ "categories": [
+  "physical therapy"
+ ],
+ "keywords": [
+  "physical therapy",
+  "physical therapy highland park il"
+ ],
+ "services": [
+  {
+   "name": "physical therapy",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Highland Park",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Highland Park",
+ "state": "IL",
+ "geo": {
+  "lat": 42.1844164,
+  "lon": -87.7991263
+ },
+ "schema_type": "Physiotherapy",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/11874917953",
+ "osm": {
+  "type": "node",
+  "id": 11874917953,
+  "tags_used": {
+   "healthcare": "physiotherapist"
+  }
+ },
+ "municipality": "Highland Park",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/north-shore-rehab-highland-park/",
+ "summary": "North Shore Rehab is a physical therapy clinic in Highland Park, IL.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

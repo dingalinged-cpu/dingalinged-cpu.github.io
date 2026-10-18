@@ -1,0 +1,23 @@
+Lawrence Funeral Home is a funeral home in Chicago, IL at 4800 North Austin Avenue, Chicago, IL 60630.
+
+# Lawrence Funeral Home
+
+- Category: funeral home
+- Services: funeral home
+- Address: 4800 North Austin Avenue, Chicago, IL 60630
+- City: Chicago
+- State: IL
+- ZIP: 60630
+- Coordinates: 41.9678531, -87.7779031
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/lawrence-funeral-home-chicago/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/lawrence-funeral-home-chicago.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/163177516 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

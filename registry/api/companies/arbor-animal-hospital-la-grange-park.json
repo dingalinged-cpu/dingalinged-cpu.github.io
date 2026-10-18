@@ -1,0 +1,51 @@
+{
+ "slug": "arbor-animal-hospital-la-grange-park",
+ "name": "Arbor Animal Hospital",
+ "categories": [
+  "vet"
+ ],
+ "keywords": [
+  "vet",
+  "vet la grange park il"
+ ],
+ "services": [
+  {
+   "name": "vet",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "La Grange Park",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "La Grange Park",
+ "state": "IL",
+ "geo": {
+  "lat": 41.8340765,
+  "lon": -87.8734506
+ },
+ "schema_type": "VeterinaryCare",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/996473289",
+ "osm": {
+  "type": "way",
+  "id": 996473289,
+  "tags_used": {
+   "amenity": "veterinary"
+  }
+ },
+ "municipality": "La Grange Park",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/arbor-animal-hospital-la-grange-park/",
+ "summary": "Arbor Animal Hospital is a veterinarian in La Grange Park, IL.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

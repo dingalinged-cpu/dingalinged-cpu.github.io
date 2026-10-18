@@ -1,0 +1,53 @@
+{
+ "slug": "fitness-19-northbrook",
+ "name": "Fitness 19",
+ "categories": [
+  "gym"
+ ],
+ "keywords": [
+  "gym",
+  "gym northbrook il"
+ ],
+ "services": [
+  {
+   "name": "gym",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Northbrook",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Northbrook",
+ "state": "IL",
+ "geo": {
+  "lat": 42.1370292,
+  "lon": -87.8836274
+ },
+ "brand": "Fitness 19",
+ "wikidata": "Q121787953",
+ "schema_type": "ExerciseGym",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/1008219254",
+ "osm": {
+  "type": "node",
+  "id": 1008219254,
+  "tags_used": {
+   "leisure": "fitness_centre"
+  }
+ },
+ "municipality": "Northbrook",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/fitness-19-northbrook/",
+ "summary": "Fitness 19 is a gym in Northbrook, IL.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

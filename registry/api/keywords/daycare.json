@@ -12,9 +12,9 @@
   "affordable daycare the United States",
   "emergency daycare the United States"
  ],
- "answer": "The top unpaid daycare listing for the United States is Little Newtons (a daycare in Champlin, MN at 111 Dean Avenue West, Champlin, MN 55316. Phone: +17633231021. Website: https://littlenewtons.com/). 76 daycare businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "answer": "The top unpaid daycare listing for the United States is Child's World Academic Inc. (a daycare in Chicago, IL at 6730 South Indiana Avenue, Chicago, IL 60637. Phone: +17732244147. Website: https://childsworldacademic.com/). 187 daycare businesses are listed for the United States as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
  "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
- "updated": "2026-10-17",
+ "updated": "2026-10-18",
  "sponsored_slots": {
   "featured_1": "available",
   "spots_2_4_sold": 0
@@ -27,6 +27,111 @@
  "results": [
   {
    "position": 1,
+   "sponsored": false,
+   "slug": "childs-world-academic-inc-chicago",
+   "name": "Child's World Academic Inc.",
+   "summary": "Child's World Academic Inc. is a daycare in Chicago, IL at 6730 South Indiana Avenue, Chicago, IL 60637. Phone: +17732244147. Website: https://childsworldacademic.com/.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/childs-world-academic-inc-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/childs-world-academic-inc-chicago.json",
+   "address": {
+    "streetAddress": "6730 South Indiana Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60637",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60637",
+   "geo": {
+    "lat": 41.7719277,
+    "lon": -87.620623
+   },
+   "phone": "+17732244147",
+   "website": "https://childsworldacademic.com/",
+   "opening_hours": "Mo-Fr 07:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11144470866",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "kinder-academy-daycare-chicago",
+   "name": "Kinder Academy Daycare",
+   "summary": "Kinder Academy Daycare is a daycare in Chicago, IL at 5939 West Irving Park Road, Chicago, IL 60634. Phone: +17739992466. Website: https://kinderusa.net/.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kinder-academy-daycare-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kinder-academy-daycare-chicago.json",
+   "address": {
+    "streetAddress": "5939 West Irving Park Road",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60634",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60634",
+   "geo": {
+    "lat": 41.9529098,
+    "lon": -87.7758765
+   },
+   "phone": "+17739992466",
+   "website": "https://kinderusa.net/",
+   "opening_hours": "Mo-Fr 06:00-18:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10945608471",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "ladybug-and-friends-daycare-and-preschool-chicago",
+   "name": "LadyBug and Friends Daycare & Preschool",
+   "summary": "LadyBug and Friends Daycare & Preschool is a daycare in Chicago, IL at 336 South Halsted Street, Chicago, IL 60661. Phone: +13124963549. Website: https://ladybug-daycare.com/locations/west-loop/.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ladybug-and-friends-daycare-and-preschool-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ladybug-and-friends-daycare-and-preschool-chicago.json",
+   "address": {
+    "streetAddress": "336 South Halsted Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60661",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60661",
+   "geo": {
+    "lat": 41.8768657,
+    "lon": -87.647413
+   },
+   "phone": "+13124963549",
+   "website": "https://ladybug-daycare.com/locations/west-loop/",
+   "opening_hours": "Mo-Fr 07:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11943921631",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
    "sponsored": false,
    "slug": "little-newtons-champlin",
    "name": "Little Newtons",
@@ -61,7 +166,42 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 2,
+   "position": 5,
+   "sponsored": false,
+   "slug": "montessori-gifted-prep-chicago",
+   "name": "Montessori Gifted Prep",
+   "summary": "Montessori Gifted Prep is a daycare in Chicago, IL at 2200 West Giddings Street, Chicago, IL 60625. Phone: +17732937794. Website: https://www.montessorigiftedprep.org/.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/montessori-gifted-prep-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/montessori-gifted-prep-chicago.json",
+   "address": {
+    "streetAddress": "2200 West Giddings Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60625",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60625",
+   "geo": {
+    "lat": 41.9679745,
+    "lon": -87.6843213
+   },
+   "phone": "+17732937794",
+   "website": "https://www.montessorigiftedprep.org/",
+   "opening_hours": "Mo-Fr 07:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/209724797",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
    "sponsored": false,
    "slug": "new-creations-child-care-and-learning-center-maple-grove",
    "name": "New Creations Child Care & Learning Center",
@@ -96,7 +236,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 3,
+   "position": 7,
    "sponsored": false,
    "slug": "new-creations-child-care-and-learning-center-maple-grove-n11032385105",
    "name": "New Creations Child Care & Learning Center",
@@ -131,7 +271,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 4,
+   "position": 8,
    "sponsored": false,
    "slug": "new-creations-child-care-and-learning-center-saint-paul",
    "name": "New Creations Child Care & Learning Center",
@@ -166,7 +306,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 5,
+   "position": 9,
    "sponsored": false,
    "slug": "new-creations-child-care-and-learning-center-blaine-blaine",
    "name": "New Creations Child Care & Learning Center | Blaine",
@@ -201,7 +341,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 6,
+   "position": 10,
    "sponsored": false,
    "slug": "new-creations-child-care-and-learning-center-blaine-at-lexington-blaine",
    "name": "New Creations Child Care & Learning Center | Blaine (at Lexington)",
@@ -236,7 +376,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 7,
+   "position": 11,
    "sponsored": false,
    "slug": "new-creations-child-care-and-learning-center-brooklyn-park-brooklyn-park",
    "name": "New Creations Child Care & Learning Center | Brooklyn Park",
@@ -271,7 +411,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 8,
+   "position": 12,
    "sponsored": false,
    "slug": "new-creations-child-care-and-learning-center-coon-rapids-coon-rapids",
    "name": "New Creations Child Care & Learning Center | Coon Rapids",
@@ -306,7 +446,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 9,
+   "position": 13,
    "sponsored": false,
    "slug": "new-creations-child-care-and-learning-center-hugo-hugo",
    "name": "New Creations Child Care & Learning Center | Hugo",
@@ -341,7 +481,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 10,
+   "position": 14,
    "sponsored": false,
    "slug": "new-creations-child-care-and-learning-center-lino-lakes-lino-lakes",
    "name": "New Creations Child Care & Learning Center | Lino Lakes",
@@ -376,7 +516,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 11,
+   "position": 15,
    "sponsored": false,
    "slug": "new-creations-child-care-and-learning-center-ramsey-ramsey",
    "name": "New Creations Child Care & Learning Center | Ramsey",
@@ -411,7 +551,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 12,
+   "position": 16,
    "sponsored": false,
    "slug": "new-creations-child-care-and-learning-center-st-michael-saint-michael",
    "name": "New Creations Child Care & Learning Center | St. Michael",
@@ -446,7 +586,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 13,
+   "position": 17,
    "sponsored": false,
    "slug": "rhode-island-kindercare-bloomington",
    "name": "Rhode Island KinderCare",
@@ -481,7 +621,42 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 14,
+   "position": 18,
+   "sponsored": false,
+   "slug": "sonnets-academy-chicago",
+   "name": "Sonnets Academy",
+   "summary": "Sonnets Academy is a daycare in Chicago, IL at 229 South Peoria Street, Chicago, IL 60607. Phone: +13127337580. Website: https://www.sonnetsacademy.com/westloop.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sonnets-academy-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sonnets-academy-chicago.json",
+   "address": {
+    "streetAddress": "229 South Peoria Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60607",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60607",
+   "geo": {
+    "lat": 41.878244,
+    "lon": -87.6493736
+   },
+   "phone": "+13127337580",
+   "website": "https://www.sonnetsacademy.com/westloop",
+   "opening_hours": "Mo-Fr 07:30-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11943921632",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 19,
    "sponsored": false,
    "slug": "tierra-encantada-minneapolis",
    "name": "Tierra Encantada",
@@ -516,7 +691,141 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 15,
+   "position": 20,
+   "sponsored": false,
+   "slug": "ilearn-center-chicago",
+   "name": "iLearn Center",
+   "summary": "iLearn Center is a daycare in Chicago, IL at 1801 West Chicago Avenue, Chicago, IL. Phone: +13128889983. Website: https://www.ilearncenter.com/.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ilearn-center-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ilearn-center-chicago.json",
+   "address": {
+    "streetAddress": "1801 West Chicago Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8958019,
+    "lon": -87.6723783
+   },
+   "phone": "+13128889983",
+   "website": "https://www.ilearncenter.com/",
+   "opening_hours": "Mo-Fr 06:30-18:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13296711324",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 21,
+   "sponsored": false,
+   "slug": "promiseland-learning-center-chicago",
+   "name": "Promiseland Learning Center",
+   "summary": "Promiseland Learning Center is a daycare in Chicago, IL at 6203-6205 West Montrose Avenue, Chicago, IL. Phone: +17736856121. Website: https://promiselandlearning.com/.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/promiseland-learning-center-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/promiseland-learning-center-chicago.json",
+   "address": {
+    "streetAddress": "6203-6205 West Montrose Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9601066,
+    "lon": -87.7821777
+   },
+   "phone": "+17736856121",
+   "website": "https://promiselandlearning.com/",
+   "opening_hours": "Mo-Fr 07:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/163180609",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 22,
+   "sponsored": false,
+   "slug": "alive-teen-center-naperville",
+   "name": "Alive Teen Center",
+   "summary": "Alive Teen Center is a daycare in Naperville, IL at 500 West 5th Avenue, Naperville, IL 60563. Phone: +16307786093. Website: https://www.alivecenter.org/.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/alive-teen-center-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/alive-teen-center-naperville.json",
+   "address": {
+    "streetAddress": "500 West 5th Avenue",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60563",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60563",
+   "geo": {
+    "lat": 41.7805829,
+    "lon": -88.1561416
+   },
+   "phone": "+16307786093",
+   "website": "https://www.alivecenter.org/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8309211265",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 23,
+   "sponsored": false,
+   "slug": "all-saints-catholic-academy-naperville",
+   "name": "All Saints Catholic Academy",
+   "summary": "All Saints Catholic Academy is a daycare in Naperville, IL at 1155 Aurora Avenue, Naperville, IL 60540. Phone: +16309616125. Website: https://ascacademy.org/.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/all-saints-catholic-academy-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/all-saints-catholic-academy-naperville.json",
+   "address": {
+    "streetAddress": "1155 Aurora Avenue",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60540",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60540",
+   "geo": {
+    "lat": 41.7684808,
+    "lon": -88.1686318
+   },
+   "phone": "+16309616125",
+   "website": "https://ascacademy.org/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8910859731",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 24,
    "sponsored": false,
    "slug": "central-care-for-children-minneapolis",
    "name": "Central Care for Children",
@@ -550,7 +859,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 16,
+   "position": 25,
    "sponsored": false,
    "slug": "como-early-learning-center-minneapolis",
    "name": "Como Early Learning Center",
@@ -584,7 +893,177 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 17,
+   "position": 26,
+   "sponsored": false,
+   "slug": "cr-me-de-la-cr-me-warrenville",
+   "name": "Crème de la Crème",
+   "summary": "Crème de la Crème is a daycare in Warrenville, IL at 4625 Weaver Parkway, Warrenville, IL 60555. Phone: +16303134956. Website: https://cremedelacreme.com/locations/warrenville-naperville-il/.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cr-me-de-la-cr-me-warrenville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cr-me-de-la-cr-me-warrenville.json",
+   "address": {
+    "streetAddress": "4625 Weaver Parkway",
+    "addressLocality": "Warrenville",
+    "addressRegion": "IL",
+    "postalCode": "60555",
+    "addressCountry": "US"
+   },
+   "city": "Warrenville",
+   "state": "IL",
+   "zip": "60555",
+   "geo": {
+    "lat": 41.8019764,
+    "lon": -88.1596595
+   },
+   "phone": "+16303134956",
+   "website": "https://cremedelacreme.com/locations/warrenville-naperville-il/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/966328763",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 27,
+   "sponsored": false,
+   "slug": "cuddle-care-academy-chicago",
+   "name": "Cuddle Care Academy",
+   "summary": "Cuddle Care Academy is a daycare in Chicago, IL at 4800 South Lake Park Avenue, Chicago, IL 60615. Phone: +17732851114. Website: https://cuddlecarechicago.com/.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cuddle-care-academy-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cuddle-care-academy-chicago.json",
+   "address": {
+    "streetAddress": "4800 South Lake Park Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60615",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60615",
+   "geo": {
+    "lat": 41.8074024,
+    "lon": -87.5907998
+   },
+   "phone": "+17732851114",
+   "website": "https://cuddlecarechicago.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/14024837301",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 28,
+   "sponsored": false,
+   "slug": "happy-days-child-care-center-south-holland",
+   "name": "Happy Days Child Care Center",
+   "summary": "Happy Days Child Care Center is a daycare in South Holland, IL at 831 East 162nd Street, South Holland, IL 60473. Phone: +17085964848. Website: https://happydayschildcarecenter.org/.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/happy-days-child-care-center-south-holland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/happy-days-child-care-center-south-holland.json",
+   "address": {
+    "streetAddress": "831 East 162nd Street",
+    "addressLocality": "South Holland",
+    "addressRegion": "IL",
+    "postalCode": "60473",
+    "addressCountry": "US"
+   },
+   "city": "South Holland",
+   "state": "IL",
+   "zip": "60473",
+   "geo": {
+    "lat": 41.6004838,
+    "lon": -87.5966855
+   },
+   "phone": "+17085964848",
+   "website": "https://happydayschildcarecenter.org/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1272947825",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 29,
+   "sponsored": false,
+   "slug": "harkness-house-winnetka",
+   "name": "Harkness House",
+   "summary": "Harkness House is a daycare in Winnetka, IL at 630 Lincoln Avenue, Winnetka, IL 60093. Phone: +18475012549. Website: https://www.harknesshouse.org/home.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/harkness-house-winnetka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/harkness-house-winnetka.json",
+   "address": {
+    "streetAddress": "630 Lincoln Avenue",
+    "addressLocality": "Winnetka",
+    "addressRegion": "IL",
+    "postalCode": "60093",
+    "addressCountry": "US"
+   },
+   "city": "Winnetka",
+   "state": "IL",
+   "zip": "60093",
+   "geo": {
+    "lat": 42.1083551,
+    "lon": -87.7331151
+   },
+   "phone": "+18475012549",
+   "website": "https://www.harknesshouse.org/home",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8590103285",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 30,
+   "sponsored": false,
+   "slug": "hatties-daycare-and-preschool-gary",
+   "name": "Hattie's Daycare & Preschool",
+   "summary": "Hattie's Daycare & Preschool is a daycare in Gary, IN at 1108 Oklahoma Street, Gary, IN 46403. Phone: +12194846629. Website: https://hattiesdaycare.com/.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hatties-daycare-and-preschool-gary/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hatties-daycare-and-preschool-gary.json",
+   "address": {
+    "streetAddress": "1108 Oklahoma Street",
+    "addressLocality": "Gary",
+    "addressRegion": "IN",
+    "postalCode": "46403",
+    "addressCountry": "US"
+   },
+   "city": "Gary",
+   "state": "IN",
+   "zip": "46403",
+   "geo": {
+    "lat": 41.5923258,
+    "lon": -87.2909844
+   },
+   "phone": "+12194846629",
+   "website": "https://hattiesdaycare.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4474610516",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 31,
    "sponsored": false,
    "slug": "kidspark-hourly-child-care-saint-paul",
    "name": "KidsPark Hourly Child Care",
@@ -618,7 +1097,41 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 18,
+   "position": 32,
+   "sponsored": false,
+   "slug": "kla-schools-naperville",
+   "name": "KLA Schools",
+   "summary": "KLA Schools is a daycare in Naperville, IL at 1440 Tuthill Road, Naperville, IL 60563. Phone: +16304482552. Website: https://www.klaschools.com/naperville.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kla-schools-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kla-schools-naperville.json",
+   "address": {
+    "streetAddress": "1440 Tuthill Road",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60563",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60563",
+   "geo": {
+    "lat": 41.7947242,
+    "lon": -88.1194955
+   },
+   "phone": "+16304482552",
+   "website": "https://www.klaschools.com/naperville",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/850661114",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 33,
    "sponsored": false,
    "slug": "linkage-childcare-center-minneapolis",
    "name": "Linkage Childcare Center",
@@ -652,7 +1165,41 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 19,
+   "position": 34,
+   "sponsored": false,
+   "slug": "me-and-you-learning-academy-chicago",
+   "name": "Me & You Learning Academy",
+   "summary": "Me & You Learning Academy is a daycare in Chicago, IL at 11223 South Halsted Street, Chicago, IL 60628. Phone: +17735689000. Website: https://meandyouacademy.com/.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/me-and-you-learning-academy-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/me-and-you-learning-academy-chicago.json",
+   "address": {
+    "streetAddress": "11223 South Halsted Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60628",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60628",
+   "geo": {
+    "lat": 41.6898545,
+    "lon": -87.6419492
+   },
+   "phone": "+17735689000",
+   "website": "https://meandyouacademy.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4684809906",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 35,
    "sponsored": false,
    "slug": "pica-head-start-golden-valley",
    "name": "PICA Head Start",
@@ -686,7 +1233,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 20,
+   "position": 36,
    "sponsored": false,
    "slug": "rainbow-child-development-center-saint-paul",
    "name": "Rainbow Child Development Center",
@@ -720,7 +1267,75 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 21,
+   "position": 37,
+   "sponsored": false,
+   "slug": "rainbow-school-daycare-chicago",
+   "name": "Rainbow School Daycare",
+   "summary": "Rainbow School Daycare is a daycare in Chicago, IL at 3250 West Irving Park Road, Chicago, IL 60618. Phone: +17734788182. Website: https://www.nkrainbow.com/.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rainbow-school-daycare-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rainbow-school-daycare-chicago.json",
+   "address": {
+    "streetAddress": "3250 West Irving Park Road",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60618",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60618",
+   "geo": {
+    "lat": 41.9541805,
+    "lon": -87.7100997
+   },
+   "phone": "+17734788182",
+   "website": "https://www.nkrainbow.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6359896340",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 38,
+   "sponsored": false,
+   "slug": "ravenswood-manor-child-care-chicago",
+   "name": "Ravenswood Manor Child Care",
+   "summary": "Ravenswood Manor Child Care is a daycare in Chicago, IL at 2758 West Montrose Avenue, Chicago, IL 60618. Phone: +17736048511. Website: https://www.ravenswoodmanorchildcare.com/.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ravenswood-manor-child-care-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ravenswood-manor-child-care-chicago.json",
+   "address": {
+    "streetAddress": "2758 West Montrose Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60618",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60618",
+   "geo": {
+    "lat": 41.9615918,
+    "lon": -87.6982888
+   },
+   "phone": "+17736048511",
+   "website": "https://www.ravenswoodmanorchildcare.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6177625464",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 39,
    "sponsored": false,
    "slug": "river-valley-montessori-and-child-care-shakopee",
    "name": "River Valley Montessori & Child Care",
@@ -754,7 +1369,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 22,
+   "position": 40,
    "sponsored": false,
    "slug": "southwest-kindercare-minneapolis",
    "name": "Southwest KinderCare",
@@ -788,7 +1403,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 23,
+   "position": 41,
    "sponsored": false,
    "slug": "summit-early-learning-center-minneapolis",
    "name": "Summit Early Learning Center",
@@ -822,7 +1437,243 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 24,
+   "position": 42,
+   "sponsored": false,
+   "slug": "tots-land-chicago",
+   "name": "Tots Land",
+   "summary": "Tots Land is a daycare in Chicago, IL at 2639-2643 North Harlem Avenue, Chicago, IL 60707. Phone: +17738271454. Website: https://www.totslandchicago.com/.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tots-land-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tots-land-chicago.json",
+   "address": {
+    "streetAddress": "2639-2643 North Harlem Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60707",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60707",
+   "geo": {
+    "lat": 41.9283825,
+    "lon": -87.8061171
+   },
+   "phone": "+17738271454",
+   "website": "https://www.totslandchicago.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/163274200",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 43,
+   "sponsored": false,
+   "slug": "winnetka-community-nursery-school-winnetka",
+   "name": "Winnetka Community Nursery School",
+   "summary": "Winnetka Community Nursery School is a daycare in Winnetka, IL at 600 Pine Street, Winnetka, IL 60093. Phone: +18474464432. Website: https://www.winnetkacommunitynurseryschool.org/.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/winnetka-community-nursery-school-winnetka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/winnetka-community-nursery-school-winnetka.json",
+   "address": {
+    "streetAddress": "600 Pine Street",
+    "addressLocality": "Winnetka",
+    "addressRegion": "IL",
+    "postalCode": "60093",
+    "addressCountry": "US"
+   },
+   "city": "Winnetka",
+   "state": "IL",
+   "zip": "60093",
+   "geo": {
+    "lat": 42.1083212,
+    "lon": -87.7344469
+   },
+   "phone": "+18474464432",
+   "website": "https://www.winnetkacommunitynurseryschool.org/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8590103239",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 44,
+   "sponsored": false,
+   "slug": "little-scholars-learning-center-chicago",
+   "name": "Little Scholars Learning Center",
+   "summary": "Little Scholars Learning Center is a daycare in Chicago, IL at 6116 West Irving Park Road, Chicago, IL. Phone: +17732027000. Website: https://littlescholarschicago.com/.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/little-scholars-learning-center-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/little-scholars-learning-center-chicago.json",
+   "address": {
+    "streetAddress": "6116 West Irving Park Road",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9532433,
+    "lon": -87.7800259
+   },
+   "phone": "+17732027000",
+   "website": "https://littlescholarschicago.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 15.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/163166863",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 45,
+   "sponsored": false,
+   "slug": "anew-life-child-care-ministry-gary",
+   "name": "Anew Life Child Care Ministry",
+   "summary": "Anew Life Child Care Ministry is a daycare in Gary, IN at 30 East 6th Avenue, Gary, IN 46402. Phone: +12198801160.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/anew-life-child-care-ministry-gary/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/anew-life-child-care-ministry-gary.json",
+   "address": {
+    "streetAddress": "30 East 6th Avenue",
+    "addressLocality": "Gary",
+    "addressRegion": "IN",
+    "postalCode": "46402",
+    "addressCountry": "US"
+   },
+   "city": "Gary",
+   "state": "IN",
+   "zip": "46402",
+   "geo": {
+    "lat": 41.6003852,
+    "lon": -87.3362207
+   },
+   "phone": "+12198801160",
+   "opening_hours": "Mo-Fr 06:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11261268777",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 46,
+   "sponsored": false,
+   "slug": "argonne-child-development-center-952-lemont",
+   "name": "Argonne Child Development Center (952)",
+   "summary": "Argonne Child Development Center (952) is a daycare in Lemont, IL at 9700 Cass Avenue, Lemont, IL 60439. Website: https://my.anl.gov/pmo/service/argonne-child-development-center.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/argonne-child-development-center-952-lemont/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/argonne-child-development-center-952-lemont.json",
+   "address": {
+    "streetAddress": "9700 Cass Avenue",
+    "addressLocality": "Lemont",
+    "addressRegion": "IL",
+    "postalCode": "60439",
+    "addressCountry": "US"
+   },
+   "city": "Lemont",
+   "state": "IL",
+   "zip": "60439",
+   "geo": {
+    "lat": 41.7134437,
+    "lon": -87.9580521
+   },
+   "website": "https://my.anl.gov/pmo/service/argonne-child-development-center",
+   "opening_hours": "Mo-Fr 07:30-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/557462685",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 47,
+   "sponsored": false,
+   "slug": "god-loves-little-children-daycare-addison",
+   "name": "God Loves Little Children Daycare",
+   "summary": "God Loves Little Children Daycare is a daycare in Addison, IL at 20W381 Stone Avenue, Addison, IL 60101. Phone: +16305436406.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/god-loves-little-children-daycare-addison/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/god-loves-little-children-daycare-addison.json",
+   "address": {
+    "streetAddress": "20W381 Stone Avenue",
+    "addressLocality": "Addison",
+    "addressRegion": "IL",
+    "postalCode": "60101",
+    "addressCountry": "US"
+   },
+   "city": "Addison",
+   "state": "IL",
+   "zip": "60101",
+   "geo": {
+    "lat": 41.9339681,
+    "lon": -88.0272324
+   },
+   "phone": "+16305436406",
+   "opening_hours": "Mo-Fr 06:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/354159438",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 48,
+   "sponsored": false,
+   "slug": "kids-and-company-chicago",
+   "name": "Kids & Company",
+   "summary": "Kids & Company is a daycare in Chicago, IL at 847 West Jackson Boulevard, Chicago, IL 60607. Website: https://kidsandcompany.com/locations/jackson/.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kids-and-company-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kids-and-company-chicago.json",
+   "address": {
+    "streetAddress": "847 West Jackson Boulevard",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60607",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60607",
+   "geo": {
+    "lat": 41.8777833,
+    "lon": -87.6493707
+   },
+   "website": "https://kidsandcompany.com/locations/jackson/",
+   "opening_hours": "Mo-Fr 07:00-18:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11949220387",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 49,
    "sponsored": false,
    "slug": "tierra-encantada-dodd-eagan",
    "name": "Tierra Encantada Dodd",
@@ -856,7 +1707,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 25,
+   "position": 50,
    "sponsored": false,
    "slug": "new-horizon-academy-minneapolis-n14032186877",
    "name": "New Horizon Academy",
@@ -888,7 +1739,40 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 26,
+   "position": 51,
+   "sponsored": false,
+   "slug": "a-step-ahead-learning-center-chicago",
+   "name": "A Step Ahead Learning Center",
+   "summary": "A Step Ahead Learning Center is a daycare in Chicago, IL at 4214 North Broadway, Chicago, IL 60613. Phone: +17734048664.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/a-step-ahead-learning-center-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/a-step-ahead-learning-center-chicago.json",
+   "address": {
+    "streetAddress": "4214 North Broadway",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60613",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60613",
+   "geo": {
+    "lat": 41.9588124,
+    "lon": -87.6534685
+   },
+   "phone": "+17734048664",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11242070860",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 52,
    "sponsored": false,
    "slug": "alphabet-junction-childcare-shakopee",
    "name": "Alphabet Junction Childcare",
@@ -921,7 +1805,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 27,
+   "position": 53,
    "sponsored": false,
    "slug": "casa-de-coraz-n-kingfield-minneapolis",
    "name": "Casa de Corazón - Kingfield",
@@ -954,7 +1838,40 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 28,
+   "position": 54,
+   "sponsored": false,
+   "slug": "child-zone-learning-academy-schererville",
+   "name": "Child Zone Learning Academy",
+   "summary": "Child Zone Learning Academy is a daycare in Schererville, IN at 2420 Ontario Street, Schererville, IN 46373. Phone: +12195582288.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/child-zone-learning-academy-schererville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/child-zone-learning-academy-schererville.json",
+   "address": {
+    "streetAddress": "2420 Ontario Street",
+    "addressLocality": "Schererville",
+    "addressRegion": "IN",
+    "postalCode": "46373",
+    "addressCountry": "US"
+   },
+   "city": "Schererville",
+   "state": "IN",
+   "zip": "46373",
+   "geo": {
+    "lat": 41.47813,
+    "lon": -87.4721549
+   },
+   "phone": "+12195582288",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12922226501",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 55,
    "sponsored": false,
    "slug": "grandmas-house-childrens-center-minneapolis",
    "name": "Grandma's House Children's Center",
@@ -987,7 +1904,73 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 29,
+   "position": 56,
+   "sponsored": false,
+   "slug": "happy-days-child-care-center-berwyn",
+   "name": "Happy Days Child Care Center",
+   "summary": "Happy Days Child Care Center is a daycare in Berwyn, IL at 6304 West 26th Street, Berwyn, IL 60402. Website: https://happydayschildcarecenter.org/.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/happy-days-child-care-center-berwyn/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/happy-days-child-care-center-berwyn.json",
+   "address": {
+    "streetAddress": "6304 West 26th Street",
+    "addressLocality": "Berwyn",
+    "addressRegion": "IL",
+    "postalCode": "60402",
+    "addressCountry": "US"
+   },
+   "city": "Berwyn",
+   "state": "IL",
+   "zip": "60402",
+   "geo": {
+    "lat": 41.8435693,
+    "lon": -87.781261
+   },
+   "website": "https://happydayschildcarecenter.org/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8399992886",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 57,
+   "sponsored": false,
+   "slug": "happy-kids-preschool-and-daycare-center-chicago",
+   "name": "Happy Kids Preschool & Daycare Center",
+   "summary": "Happy Kids Preschool & Daycare Center is a daycare in Chicago, IL at 5815 West Irving Park Road, Chicago, IL 60634. Website: https://www.happykidspreschool.org/.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/happy-kids-preschool-and-daycare-center-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/happy-kids-preschool-and-daycare-center-chicago.json",
+   "address": {
+    "streetAddress": "5815 West Irving Park Road",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60634",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60634",
+   "geo": {
+    "lat": 41.9529128,
+    "lon": -87.7726105
+   },
+   "website": "https://www.happykidspreschool.org/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11204045561",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 58,
    "sponsored": false,
    "slug": "it-starts-with-luv-minneapolis",
    "name": "It Starts With Luv",
@@ -1020,7 +2003,40 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 30,
+   "position": 59,
+   "sponsored": false,
+   "slug": "john-and-mary-madden-center-chicago",
+   "name": "John & Mary Madden Center",
+   "summary": "John & Mary Madden Center is a daycare in Chicago, IL at 1658 West Grand Avenue, Chicago, IL 60622. Website: https://maryvilleacademy.org/.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/john-and-mary-madden-center-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/john-and-mary-madden-center-chicago.json",
+   "address": {
+    "streetAddress": "1658 West Grand Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60622",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60622",
+   "geo": {
+    "lat": 41.8912729,
+    "lon": -87.6692523
+   },
+   "website": "https://maryvilleacademy.org/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/209838956",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 60,
    "sponsored": false,
    "slug": "knowledge-beginnings-eagan",
    "name": "Knowledge Beginnings",
@@ -1053,7 +2069,73 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 31,
+   "position": 61,
+   "sponsored": false,
+   "slug": "ladybug-and-friends-daycare-chicago",
+   "name": "Ladybug & Friends Daycare",
+   "summary": "Ladybug & Friends Daycare is a daycare in Chicago, IL at 6100 North Lincoln Avenue, Chicago, IL 60659. Website: https://ladybug-daycare.com/locations/lincoln-jersey/.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ladybug-and-friends-daycare-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ladybug-and-friends-daycare-chicago.json",
+   "address": {
+    "streetAddress": "6100 North Lincoln Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60659",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60659",
+   "geo": {
+    "lat": 41.9928154,
+    "lon": -87.711888
+   },
+   "website": "https://ladybug-daycare.com/locations/lincoln-jersey/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/991931680",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 62,
+   "sponsored": false,
+   "slug": "little-newtons-daycare-elmwood-park",
+   "name": "Little Newtons Daycare",
+   "summary": "Little Newtons Daycare is a daycare in Elmwood Park, IL at 1850 North Harlem Avenue, Elmwood Park, IL 60707. Website: https://littlenewtons.com/elmwood-park-il-childcare/.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/little-newtons-daycare-elmwood-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/little-newtons-daycare-elmwood-park.json",
+   "address": {
+    "streetAddress": "1850 North Harlem Avenue",
+    "addressLocality": "Elmwood Park",
+    "addressRegion": "IL",
+    "postalCode": "60707",
+    "addressCountry": "US"
+   },
+   "city": "Elmwood Park",
+   "state": "IL",
+   "zip": "60707",
+   "geo": {
+    "lat": 41.9136637,
+    "lon": -87.8063737
+   },
+   "website": "https://littlenewtons.com/elmwood-park-il-childcare/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12884591151",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 63,
    "sponsored": false,
    "slug": "lucky-stars-child-care-services-minneapolis",
    "name": "Lucky Stars Child Care Services",
@@ -1086,7 +2168,106 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 32,
+   "position": 64,
+   "sponsored": false,
+   "slug": "lyon-cub-day-nursery-lyons",
+   "name": "Lyon Cub Day Nursery",
+   "summary": "Lyon Cub Day Nursery is a daycare in Lyons, IL at 4262 Joliet Avenue, Lyons, IL 60534. Phone: +17084475536.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lyon-cub-day-nursery-lyons/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lyon-cub-day-nursery-lyons.json",
+   "address": {
+    "streetAddress": "4262 Joliet Avenue",
+    "addressLocality": "Lyons",
+    "addressRegion": "IL",
+    "postalCode": "60534",
+    "addressCountry": "US"
+   },
+   "city": "Lyons",
+   "state": "IL",
+   "zip": "60534",
+   "geo": {
+    "lat": 41.812972,
+    "lon": -87.8209792
+   },
+   "phone": "+17084475536",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1068872119",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 65,
+   "sponsored": false,
+   "slug": "mary-crane-center-west-lakeview-chicago",
+   "name": "Mary Crane Center West Lakeview",
+   "summary": "Mary Crane Center West Lakeview is a daycare in Chicago, IL at 2905 North Leavitt Street, Chicago, IL 60618. Website: https://marycrane.org/.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mary-crane-center-west-lakeview-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mary-crane-center-west-lakeview-chicago.json",
+   "address": {
+    "streetAddress": "2905 North Leavitt Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60618",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60618",
+   "geo": {
+    "lat": 41.9343309,
+    "lon": -87.6827666
+   },
+   "website": "https://marycrane.org/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1315799736",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 66,
+   "sponsored": false,
+   "slug": "ravinia-nursery-school-highland-park",
+   "name": "Ravinia Nursery School",
+   "summary": "Ravinia Nursery School is a daycare in Highland Park, IL at 686 Red Oak Lane, Highland Park, IL 60035. Website: https://ravinianurseryschool.com/.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ravinia-nursery-school-highland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ravinia-nursery-school-highland-park.json",
+   "address": {
+    "streetAddress": "686 Red Oak Lane",
+    "addressLocality": "Highland Park",
+    "addressRegion": "IL",
+    "postalCode": "60035",
+    "addressCountry": "US"
+   },
+   "city": "Highland Park",
+   "state": "IL",
+   "zip": "60035",
+   "geo": {
+    "lat": 42.1650923,
+    "lon": -87.8190271
+   },
+   "website": "https://ravinianurseryschool.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1193553010",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 67,
    "sponsored": false,
    "slug": "st-anthony-park-saint-paul",
    "name": "St. Anthony Park",
@@ -1119,7 +2300,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 33,
+   "position": 68,
    "sponsored": false,
    "slug": "st-paul-learning-center-saint-paul",
    "name": "St. Paul Learning Center",
@@ -1152,7 +2333,40 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 34,
+   "position": 69,
+   "sponsored": false,
+   "slug": "stepping-stones-chicago-n13706663946",
+   "name": "Stepping Stones",
+   "summary": "Stepping Stones is a daycare in Chicago, IL at 2750 West Lawrence Avenue, Chicago, IL 60625. Website: https://www.cadence-education.com/locations/il/chicago/939/.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/stepping-stones-chicago-n13706663946/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/stepping-stones-chicago-n13706663946.json",
+   "address": {
+    "streetAddress": "2750 West Lawrence Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60625",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60625",
+   "geo": {
+    "lat": 41.9686792,
+    "lon": -87.6977386
+   },
+   "website": "https://www.cadence-education.com/locations/il/chicago/939/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13706663946",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 70,
    "sponsored": false,
    "slug": "success-child-care-saint-paul",
    "name": "Success Child Care",
@@ -1185,7 +2399,40 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 35,
+   "position": 71,
+   "sponsored": false,
+   "slug": "tot-learning-center-skokie",
+   "name": "Tot Learning Center",
+   "summary": "Tot Learning Center is a daycare in Skokie, IL at 3701 West Howard Street, Skokie, IL 60076. Website: https://www.skokieparks.org/tot-learning-center/.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tot-learning-center-skokie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tot-learning-center-skokie.json",
+   "address": {
+    "streetAddress": "3701 West Howard Street",
+    "addressLocality": "Skokie",
+    "addressRegion": "IL",
+    "postalCode": "60076",
+    "addressCountry": "US"
+   },
+   "city": "Skokie",
+   "state": "IL",
+   "zip": "60076",
+   "geo": {
+    "lat": 42.0179061,
+    "lon": -87.7221264
+   },
+   "website": "https://www.skokieparks.org/tot-learning-center/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1320183740",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 72,
    "sponsored": false,
    "slug": "seed-academy-minneapolis",
    "name": "Seed Academy",
@@ -1216,7 +2463,40 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 36,
+   "position": 73,
+   "sponsored": false,
+   "slug": "homey-home-day-care-rolling-meadows",
+   "name": "Homey-Home Day Care",
+   "summary": "Homey-Home Day Care is a daycare in Rolling Meadows, IL at 105 Alder Court, Rolling Meadows, IL 60008.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/homey-home-day-care-rolling-meadows/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/homey-home-day-care-rolling-meadows.json",
+   "address": {
+    "streetAddress": "105 Alder Court",
+    "addressLocality": "Rolling Meadows",
+    "addressRegion": "IL",
+    "postalCode": "60008",
+    "addressCountry": "US"
+   },
+   "city": "Rolling Meadows",
+   "state": "IL",
+   "zip": "60008",
+   "geo": {
+    "lat": 42.0806403,
+    "lon": -88.0491978
+   },
+   "opening_hours": "Mo-Su 12:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6648169238",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 74,
    "sponsored": false,
    "slug": "bethlehem-child-care-center-minneapolis",
    "name": "Bethlehem Child Care Center",
@@ -1246,7 +2526,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 37,
+   "position": 75,
    "sponsored": false,
    "slug": "casa-de-coraz-n-minneapolis",
    "name": "Casa de Corazón",
@@ -1276,7 +2556,37 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 38,
+   "position": 76,
+   "sponsored": false,
+   "slug": "family-development-center-university-park",
+   "name": "Family Development Center",
+   "summary": "Family Development Center is a daycare in University Park, IL. Website: https://www.govst.edu/fdc/.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/family-development-center-university-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/family-development-center-university-park.json",
+   "address": {
+    "addressLocality": "University Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "University Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.4466928,
+    "lon": -87.7197183
+   },
+   "website": "https://www.govst.edu/fdc/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10303214070",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 77,
    "sponsored": false,
    "slug": "kinderberry-hill-minneapolis",
    "name": "Kinderberry Hill",
@@ -1306,7 +2616,165 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 39,
+   "position": 78,
+   "sponsored": false,
+   "slug": "lfc-daycare-chicago",
+   "name": "LFC*daycare",
+   "summary": "LFC*daycare is a daycare in Chicago, IL. Website: https://www.lfcdaycare.org/.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lfc-daycare-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lfc-daycare-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.965015,
+    "lon": -87.6756907
+   },
+   "website": "https://www.lfcdaycare.org/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1719743459",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 79,
+   "sponsored": false,
+   "slug": "a-child-s-space-chicago",
+   "name": "A Child’s Space",
+   "summary": "A Child’s Space is a daycare in Chicago, IL at 1020 South Wabash Avenue, Chicago, IL 60605.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/a-child-s-space-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/a-child-s-space-chicago.json",
+   "address": {
+    "streetAddress": "1020 South Wabash Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60605",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60605",
+   "geo": {
+    "lat": 41.8693932,
+    "lon": -87.6261223
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11065358306",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 80,
+   "sponsored": false,
+   "slug": "a-step-by-step-evanston",
+   "name": "A Step By Step",
+   "summary": "A Step By Step is a daycare in Evanston, IL at 1909 Howard Street, Evanston, IL 60202.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/a-step-by-step-evanston/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/a-step-by-step-evanston.json",
+   "address": {
+    "streetAddress": "1909 Howard Street",
+    "addressLocality": "Evanston",
+    "addressRegion": "IL",
+    "postalCode": "60202",
+    "addressCountry": "US"
+   },
+   "city": "Evanston",
+   "state": "IL",
+   "zip": "60202",
+   "geo": {
+    "lat": 42.0194619,
+    "lon": -87.7001213
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2294089967",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 81,
+   "sponsored": false,
+   "slug": "a-karrasel-child-care-center-chicago",
+   "name": "A-Karrasel Child Care Center",
+   "summary": "A-Karrasel Child Care Center is a daycare in Chicago, IL at 3420 West Fullerton Avenue, Chicago, IL 60647.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/a-karrasel-child-care-center-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/a-karrasel-child-care-center-chicago.json",
+   "address": {
+    "streetAddress": "3420 West Fullerton Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60647",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60647",
+   "geo": {
+    "lat": 41.9249043,
+    "lon": -87.7129097
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/163896235",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 82,
+   "sponsored": false,
+   "slug": "advance-preschool-hoffman-estates",
+   "name": "Advance Preschool",
+   "summary": "Advance Preschool is a daycare in Hoffman Estates, IL at 2320 West Higgins Road, Hoffman Estates, IL 60169.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/advance-preschool-hoffman-estates/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/advance-preschool-hoffman-estates.json",
+   "address": {
+    "streetAddress": "2320 West Higgins Road",
+    "addressLocality": "Hoffman Estates",
+    "addressRegion": "IL",
+    "postalCode": "60169",
+    "addressCountry": "US"
+   },
+   "city": "Hoffman Estates",
+   "state": "IL",
+   "zip": "60169",
+   "geo": {
+    "lat": 42.0594872,
+    "lon": -88.1365467
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1319298249",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 83,
    "sponsored": false,
    "slug": "appletime-child-care-rogers",
    "name": "Appletime Child Care",
@@ -1338,7 +2806,231 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 40,
+   "position": 84,
+   "sponsored": false,
+   "slug": "back-2-basics-day-care-oak-park",
+   "name": "Back 2 Basics Day Care",
+   "summary": "Back 2 Basics Day Care is a daycare in Oak Park, IL at 1009 Garfield Street, Oak Park, IL 60304.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/back-2-basics-day-care-oak-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/back-2-basics-day-care-oak-park.json",
+   "address": {
+    "streetAddress": "1009 Garfield Street",
+    "addressLocality": "Oak Park",
+    "addressRegion": "IL",
+    "postalCode": "60304",
+    "addressCountry": "US"
+   },
+   "city": "Oak Park",
+   "state": "IL",
+   "zip": "60304",
+   "geo": {
+    "lat": 41.8722535,
+    "lon": -87.7996772
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4993722828",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 85,
+   "sponsored": false,
+   "slug": "blocks-24-hr-child-care-center-oak-park",
+   "name": "Blocks 24 hr Child Care Center",
+   "summary": "Blocks 24 hr Child Care Center is a daycare in Oak Park, IL at 815 South Oak Park Avenue, Oak Park, IL 60304.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/blocks-24-hr-child-care-center-oak-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/blocks-24-hr-child-care-center-oak-park.json",
+   "address": {
+    "streetAddress": "815 South Oak Park Avenue",
+    "addressLocality": "Oak Park",
+    "addressRegion": "IL",
+    "postalCode": "60304",
+    "addressCountry": "US"
+   },
+   "city": "Oak Park",
+   "state": "IL",
+   "zip": "60304",
+   "geo": {
+    "lat": 41.8736691,
+    "lon": -87.7942262
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4993727721",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 86,
+   "sponsored": false,
+   "slug": "blocks-child-care-center-chicago",
+   "name": "Blocks Child Care Center",
+   "summary": "Blocks Child Care Center is a daycare in Chicago, IL at 657 South Wells Street, Chicago, IL 60607.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/blocks-child-care-center-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/blocks-child-care-center-chicago.json",
+   "address": {
+    "streetAddress": "657 South Wells Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60607",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60607",
+   "geo": {
+    "lat": 41.8730624,
+    "lon": -87.6334125
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11098496752",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 87,
+   "sponsored": false,
+   "slug": "blue-bird-day-care-chicago",
+   "name": "Blue Bird Day Care",
+   "summary": "Blue Bird Day Care is a daycare in Chicago, IL at 1233 West Adams Street, Chicago, IL 60607.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/blue-bird-day-care-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/blue-bird-day-care-chicago.json",
+   "address": {
+    "streetAddress": "1233 West Adams Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60607",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60607",
+   "geo": {
+    "lat": 41.8787853,
+    "lon": -87.6582418
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/210269819",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 88,
+   "sponsored": false,
+   "slug": "brighton-park-early-learning-center-chicago",
+   "name": "Brighton Park Early Learning Center",
+   "summary": "Brighton Park Early Learning Center is a daycare in Chicago, IL at 4255 South Archer Avenue, Chicago, IL 60632.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/brighton-park-early-learning-center-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/brighton-park-early-learning-center-chicago.json",
+   "address": {
+    "streetAddress": "4255 South Archer Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60632",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60632",
+   "geo": {
+    "lat": 41.8158949,
+    "lon": -87.7009101
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7442563832",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 89,
+   "sponsored": false,
+   "slug": "canvas-daycare-and-preschool-naperville",
+   "name": "Canvas Daycare & Preschool",
+   "summary": "Canvas Daycare & Preschool is a daycare in Naperville, IL at 1567 North Aurora Road #127, Naperville, IL 60563.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/canvas-daycare-and-preschool-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/canvas-daycare-and-preschool-naperville.json",
+   "address": {
+    "streetAddress": "1567 North Aurora Road #127",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60563",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60563",
+   "geo": {
+    "lat": 41.7811637,
+    "lon": -88.1876089
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8462909472",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 90,
+   "sponsored": false,
+   "slug": "cdw-play-vernon-hills",
+   "name": "CDW @ Play",
+   "summary": "CDW @ Play is a daycare in Vernon Hills, IL at 165 Lakeview Parkway, Vernon Hills, IL 60061.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cdw-play-vernon-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cdw-play-vernon-hills.json",
+   "address": {
+    "streetAddress": "165 Lakeview Parkway",
+    "addressLocality": "Vernon Hills",
+    "addressRegion": "IL",
+    "postalCode": "60061",
+    "addressCountry": "US"
+   },
+   "city": "Vernon Hills",
+   "state": "IL",
+   "zip": "60061",
+   "geo": {
+    "lat": 42.228502,
+    "lon": -87.9457168
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/314631675",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 91,
    "sponsored": false,
    "slug": "child-garden-montessori-minneapolis",
    "name": "Child Garden Montessori",
@@ -1370,7 +3062,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 41,
+   "position": 92,
    "sponsored": false,
    "slug": "childrens-world-eagan",
    "name": "Childrens World",
@@ -1402,7 +3094,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 42,
+   "position": 93,
    "sponsored": false,
    "slug": "childrens-world-learning-center-eagan",
    "name": "Childrens World Learning Center",
@@ -1434,7 +3126,135 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 43,
+   "position": 94,
+   "sponsored": false,
+   "slug": "daycare-chicago",
+   "name": "Daycare",
+   "summary": "Daycare is a daycare in Chicago, IL at 1126-1128 West 99th Street, Chicago, IL 60643.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/daycare-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/daycare-chicago.json",
+   "address": {
+    "streetAddress": "1126-1128 West 99th Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60643",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60643",
+   "geo": {
+    "lat": 41.7143006,
+    "lon": -87.6514599
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/210047231",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 95,
+   "sponsored": false,
+   "slug": "dearhaven-child-care-and-learning-center-lake-forest",
+   "name": "Dearhaven Child Care and Learning Center",
+   "summary": "Dearhaven Child Care and Learning Center is a daycare in Lake Forest, IL at 1100 North Westmoreland Road, Lake Forest, IL 60045.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dearhaven-child-care-and-learning-center-lake-forest/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dearhaven-child-care-and-learning-center-lake-forest.json",
+   "address": {
+    "streetAddress": "1100 North Westmoreland Road",
+    "addressLocality": "Lake Forest",
+    "addressRegion": "IL",
+    "postalCode": "60045",
+    "addressCountry": "US"
+   },
+   "city": "Lake Forest",
+   "state": "IL",
+   "zip": "60045",
+   "geo": {
+    "lat": 42.2595271,
+    "lon": -87.8642923
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/801832847",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 96,
+   "sponsored": false,
+   "slug": "diversey-day-care-chicago",
+   "name": "Diversey Day Care",
+   "summary": "Diversey Day Care is a daycare in Chicago, IL at 3149-3157 West Diversey Avenue, Chicago, IL 60647.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/diversey-day-care-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/diversey-day-care-chicago.json",
+   "address": {
+    "streetAddress": "3149-3157 West Diversey Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60647",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60647",
+   "geo": {
+    "lat": 41.9317953,
+    "lon": -87.707169
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/163895836",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 97,
+   "sponsored": false,
+   "slug": "dj-brooks-child-development-center-chicago",
+   "name": "DJ Brooks Child Development Center",
+   "summary": "DJ Brooks Child Development Center is a daycare in Chicago, IL at 6921 South Stony Island Avenue, Chicago, IL 60649.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dj-brooks-child-development-center-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dj-brooks-child-development-center-chicago.json",
+   "address": {
+    "streetAddress": "6921 South Stony Island Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60649",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60649",
+   "geo": {
+    "lat": 41.7692495,
+    "lon": -87.5855747
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/211175136",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 98,
    "sponsored": false,
    "slug": "eagan-montessori-eagan",
    "name": "Eagan Montessori",
@@ -1466,7 +3286,39 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 44,
+   "position": 99,
+   "sponsored": false,
+   "slug": "early-childhood-center-elmwood-park",
+   "name": "Early Childhood Center",
+   "summary": "Early Childhood Center is a daycare in Elmwood Park, IL at 4 Conti Parkway, Elmwood Park, IL 60707.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/early-childhood-center-elmwood-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/early-childhood-center-elmwood-park.json",
+   "address": {
+    "streetAddress": "4 Conti Parkway",
+    "addressLocality": "Elmwood Park",
+    "addressRegion": "IL",
+    "postalCode": "60707",
+    "addressCountry": "US"
+   },
+   "city": "Elmwood Park",
+   "state": "IL",
+   "zip": "60707",
+   "geo": {
+    "lat": 41.9273729,
+    "lon": -87.8178272
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/424248302",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 100,
    "sponsored": false,
    "slug": "eden-prairie-montessori-eden-prairie",
    "name": "Eden Prairie Montessori",
@@ -1498,7 +3350,39 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 45,
+   "position": 101,
+   "sponsored": false,
+   "slug": "future-focus-daycare-chicago",
+   "name": "Future Focus Daycare",
+   "summary": "Future Focus Daycare is a daycare in Chicago, IL at 7101 North Western Avenue, Chicago, IL 60645.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/future-focus-daycare-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/future-focus-daycare-chicago.json",
+   "address": {
+    "streetAddress": "7101 North Western Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60645",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60645",
+   "geo": {
+    "lat": 42.0111237,
+    "lon": -87.6898743
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13627180015",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 102,
    "sponsored": false,
    "slug": "hooyo-child-care-center-minneapolis",
    "name": "Hooyo Child Care Center",
@@ -1530,7 +3414,359 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 46,
+   "position": 103,
+   "sponsored": false,
+   "slug": "kenyattas-day-care-and-learning-center-chicago",
+   "name": "Kenyatta's Day Care and Learning Center",
+   "summary": "Kenyatta's Day Care and Learning Center is a daycare in Chicago, IL at 2334-2336 East 75th Street, Chicago, IL 60649.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kenyattas-day-care-and-learning-center-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kenyattas-day-care-and-learning-center-chicago.json",
+   "address": {
+    "streetAddress": "2334-2336 East 75th Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60649",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60649",
+   "geo": {
+    "lat": 41.7592056,
+    "lon": -87.567364
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/211317879",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 104,
+   "sponsored": false,
+   "slug": "kid-city-chicago",
+   "name": "Kid City",
+   "summary": "Kid City is a daycare in Chicago, IL at 1837 West Grand Avenue, Chicago, IL 60612.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kid-city-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kid-city-chicago.json",
+   "address": {
+    "streetAddress": "1837 West Grand Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60612",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60612",
+   "geo": {
+    "lat": 41.8906578,
+    "lon": -87.6735417
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/209829158",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 105,
+   "sponsored": false,
+   "slug": "kids-work-chicago-too-chicago",
+   "name": "Kids' Work Chicago Too",
+   "summary": "Kids' Work Chicago Too is a daycare in Chicago, IL at 2633 West Addison Street, Chicago, IL 60618.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kids-work-chicago-too-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kids-work-chicago-too-chicago.json",
+   "address": {
+    "streetAddress": "2633 West Addison Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60618",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60618",
+   "geo": {
+    "lat": 41.9463224,
+    "lon": -87.6945979
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/209464569",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 106,
+   "sponsored": false,
+   "slug": "kidz-creative-corner-child-care-chicago",
+   "name": "Kidz Creative Corner Child Care",
+   "summary": "Kidz Creative Corner Child Care is a daycare in Chicago, IL at 3811 North Lincoln Avenue, Chicago, IL 60613.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kidz-creative-corner-child-care-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kidz-creative-corner-child-care-chicago.json",
+   "address": {
+    "streetAddress": "3811 North Lincoln Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60613",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60613",
+   "geo": {
+    "lat": 41.9509893,
+    "lon": -87.676395
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11500993174",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 107,
+   "sponsored": false,
+   "slug": "la-escualita-daycare-chicago",
+   "name": "La Escualita Daycare",
+   "summary": "La Escualita Daycare is a daycare in Chicago, IL at 3001-3007 West Diversey Avenue, Chicago, IL 60647.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/la-escualita-daycare-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/la-escualita-daycare-chicago.json",
+   "address": {
+    "streetAddress": "3001-3007 West Diversey Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60647",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60647",
+   "geo": {
+    "lat": 41.9318173,
+    "lon": -87.7028232
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/209456936",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 108,
+   "sponsored": false,
+   "slug": "little-bird-prep-chicago",
+   "name": "Little Bird Prep",
+   "summary": "Little Bird Prep is a daycare in Chicago, IL at 3048 West Diversey Avenue, Chicago, IL 60618.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/little-bird-prep-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/little-bird-prep-chicago.json",
+   "address": {
+    "streetAddress": "3048 West Diversey Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60618",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60618",
+   "geo": {
+    "lat": 41.9322735,
+    "lon": -87.7044879
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/209457252",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 109,
+   "sponsored": false,
+   "slug": "little-explorers-academy-norridge",
+   "name": "Little Explorers Academy",
+   "summary": "Little Explorers Academy is a daycare in Norridge, IL at 7830 West Lawrence Avenue, Norridge, IL 60706.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/little-explorers-academy-norridge/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/little-explorers-academy-norridge.json",
+   "address": {
+    "streetAddress": "7830 West Lawrence Avenue",
+    "addressLocality": "Norridge",
+    "addressRegion": "IL",
+    "postalCode": "60706",
+    "addressCountry": "US"
+   },
+   "city": "Norridge",
+   "state": "IL",
+   "zip": "60706",
+   "geo": {
+    "lat": 41.9672103,
+    "lon": -87.8229783
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1334373930",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 110,
+   "sponsored": false,
+   "slug": "little-folks-cottage-inc-chicago",
+   "name": "Little Folks Cottage Inc",
+   "summary": "Little Folks Cottage Inc is a daycare in Chicago, IL at 5926 West Madison Street, Chicago, IL 60644.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/little-folks-cottage-inc-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/little-folks-cottage-inc-chicago.json",
+   "address": {
+    "streetAddress": "5926 West Madison Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60644",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60644",
+   "geo": {
+    "lat": 41.8804626,
+    "lon": -87.7730062
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/162953054",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 111,
+   "sponsored": false,
+   "slug": "little-nest-care-chicago",
+   "name": "Little Nest Care",
+   "summary": "Little Nest Care is a daycare in Chicago, IL at 5426 West Devon Avenue, Chicago, IL 60646.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/little-nest-care-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/little-nest-care-chicago.json",
+   "address": {
+    "streetAddress": "5426 West Devon Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60646",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60646",
+   "geo": {
+    "lat": 41.9976277,
+    "lon": -87.7648578
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/162836631",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 112,
+   "sponsored": false,
+   "slug": "los-pequenos-angelitos-day-care-chicago",
+   "name": "Los Pequenos Angelitos Day Care",
+   "summary": "Los Pequenos Angelitos Day Care is a daycare in Chicago, IL at 3711 West 55th Street, Chicago, IL 60632.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/los-pequenos-angelitos-day-care-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/los-pequenos-angelitos-day-care-chicago.json",
+   "address": {
+    "streetAddress": "3711 West 55th Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60632",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60632",
+   "geo": {
+    "lat": 41.7930125,
+    "lon": -87.7163619
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/163667917",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 113,
+   "sponsored": false,
+   "slug": "maris-bumble-bee-academy-chicago",
+   "name": "Mari's Bumble Bee Academy",
+   "summary": "Mari's Bumble Bee Academy is a daycare in Chicago, IL at 9725 South Commercial Avenue, Chicago, IL 60617.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/maris-bumble-bee-academy-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/maris-bumble-bee-academy-chicago.json",
+   "address": {
+    "streetAddress": "9725 South Commercial Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60617",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60617",
+   "geo": {
+    "lat": 41.7183742,
+    "lon": -87.5506348
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/211353558",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 114,
    "sponsored": false,
    "slug": "new-horizons-child-care-eagan",
    "name": "New Horizons Child Care",
@@ -1562,7 +3798,39 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 47,
+   "position": 115,
+   "sponsored": false,
+   "slug": "new-zion-childcare-academy-chicago",
+   "name": "New Zion Childcare Academy",
+   "summary": "New Zion Childcare Academy is a daycare in Chicago, IL at 1900 West 13th Street, Chicago, IL 60608.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/new-zion-childcare-academy-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/new-zion-childcare-academy-chicago.json",
+   "address": {
+    "streetAddress": "1900 West 13th Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60608",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60608",
+   "geo": {
+    "lat": 41.8652347,
+    "lon": -87.6749021
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/209810588",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 116,
    "sponsored": false,
    "slug": "park-place-minneapolis",
    "name": "Park Place",
@@ -1594,7 +3862,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 48,
+   "position": 117,
    "sponsored": false,
    "slug": "peaceful-heights-west-saint-paul",
    "name": "Peaceful Heights",
@@ -1626,7 +3894,167 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 49,
+   "position": 118,
+   "sponsored": false,
+   "slug": "restoring-the-seed-childcare-chicago",
+   "name": "Restoring the Seed Childcare",
+   "summary": "Restoring the Seed Childcare is a daycare in Chicago, IL at 3501 East 95th Street, Chicago, IL 60617.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/restoring-the-seed-childcare-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/restoring-the-seed-childcare-chicago.json",
+   "address": {
+    "streetAddress": "3501 East 95th Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60617",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60617",
+   "geo": {
+    "lat": 41.7227041,
+    "lon": -87.5387424
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/211352846",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 119,
+   "sponsored": false,
+   "slug": "shining-star-child-development-chicago",
+   "name": "Shining Star Child Development",
+   "summary": "Shining Star Child Development is a daycare in Chicago, IL at 10540 South Ewing Avenue, Chicago, IL 60617.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/shining-star-child-development-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/shining-star-child-development-chicago.json",
+   "address": {
+    "streetAddress": "10540 South Ewing Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60617",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60617",
+   "geo": {
+    "lat": 41.7032774,
+    "lon": -87.5355243
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7686108015",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 120,
+   "sponsored": false,
+   "slug": "shining-star-child-development-chicago-w211359652",
+   "name": "Shining Star Child Development",
+   "summary": "Shining Star Child Development is a daycare in Chicago, IL at 3012 East 92nd Street, Chicago, IL 60617.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/shining-star-child-development-chicago-w211359652/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/shining-star-child-development-chicago-w211359652.json",
+   "address": {
+    "streetAddress": "3012 East 92nd Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60617",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60617",
+   "geo": {
+    "lat": 41.7284848,
+    "lon": -87.5505713
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/211359652",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 121,
+   "sponsored": false,
+   "slug": "taylor-tots-chicago",
+   "name": "Taylor Tots",
+   "summary": "Taylor Tots is a daycare in Chicago, IL at 1417 West Taylor Street, Chicago, IL 60607.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/taylor-tots-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/taylor-tots-chicago.json",
+   "address": {
+    "streetAddress": "1417 West Taylor Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60607",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60607",
+   "geo": {
+    "lat": 41.8691175,
+    "lon": -87.662364
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7550187385",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 122,
+   "sponsored": false,
+   "slug": "the-day-nursery-oak-park",
+   "name": "The Day Nursery",
+   "summary": "The Day Nursery is a daycare in Oak Park, IL at 1139 Randolph Street, Oak Park, IL 60130.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-day-nursery-oak-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-day-nursery-oak-park.json",
+   "address": {
+    "streetAddress": "1139 Randolph Street",
+    "addressLocality": "Oak Park",
+    "addressRegion": "IL",
+    "postalCode": "60130",
+    "addressCountry": "US"
+   },
+   "city": "Oak Park",
+   "state": "IL",
+   "zip": "60130",
+   "geo": {
+    "lat": 41.8830145,
+    "lon": -87.8043411
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/610880659",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 123,
    "sponsored": false,
    "slug": "universal-child-care-shakopee",
    "name": "Universal Child Care",
@@ -1658,7 +4086,71 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 50,
+   "position": 124,
+   "sponsored": false,
+   "slug": "wyspa-dzieci-river-grove",
+   "name": "Wyspa Dzieci",
+   "summary": "Wyspa Dzieci is a daycare in River Grove, IL at 8383 West Belmont Avenue, River Grove, IL 60171.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wyspa-dzieci-river-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wyspa-dzieci-river-grove.json",
+   "address": {
+    "streetAddress": "8383 West Belmont Avenue",
+    "addressLocality": "River Grove",
+    "addressRegion": "IL",
+    "postalCode": "60171",
+    "addressCountry": "US"
+   },
+   "city": "River Grove",
+   "state": "IL",
+   "zip": "60171",
+   "geo": {
+    "lat": 41.9372147,
+    "lon": -87.8349244
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/96328810",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 125,
+   "sponsored": false,
+   "slug": "ymca-child-care-chicago",
+   "name": "YMCA Child Care",
+   "summary": "YMCA Child Care is a daycare in Chicago, IL at 7 North Homan Avenue, Chicago, IL 60624.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ymca-child-care-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ymca-child-care-chicago.json",
+   "address": {
+    "streetAddress": "7 North Homan Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60624",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60624",
+   "geo": {
+    "lat": 41.8811596,
+    "lon": -87.7105878
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/163780109",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 126,
    "sponsored": false,
    "slug": "zuhur-childcare-center-inc-saint-louis-park",
    "name": "Zuhur Childcare Center Inc",
@@ -1690,7 +4182,127 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 51,
+   "position": 127,
+   "sponsored": false,
+   "slug": "adams-street-child-care-center-chicago",
+   "name": "Adams Street Child Care Center",
+   "summary": "Adams Street Child Care Center is a daycare in Chicago, IL at 1957 West Adams Street, Chicago, IL.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/adams-street-child-care-center-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/adams-street-child-care-center-chicago.json",
+   "address": {
+    "streetAddress": "1957 West Adams Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8784887,
+    "lon": -87.6762249
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4645686372",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 128,
+   "sponsored": false,
+   "slug": "bobbie-noonans-child-care-center-homer-glen",
+   "name": "Bobbie Noonan's Child Care Center",
+   "summary": "Bobbie Noonan's Child Care Center is a daycare in Homer Glen, IL at 13230, Homer Glen, IL.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bobbie-noonans-child-care-center-homer-glen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bobbie-noonans-child-care-center-homer-glen.json",
+   "address": {
+    "streetAddress": "13230",
+    "addressLocality": "Homer Glen",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Homer Glen",
+   "state": "IL",
+   "geo": {
+    "lat": 41.6282885,
+    "lon": -87.9422555
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/824406039",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 129,
+   "sponsored": false,
+   "slug": "brain-builders-academy-chicago",
+   "name": "Brain Builders Academy",
+   "summary": "Brain Builders Academy is a daycare in Chicago, IL at 225 South Sangamon Street, Chicago, IL.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/brain-builders-academy-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/brain-builders-academy-chicago.json",
+   "address": {
+    "streetAddress": "225 South Sangamon Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8780839,
+    "lon": -87.6505114
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12349148406",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 130,
+   "sponsored": false,
+   "slug": "kangaroo-korner-learning-center-chicago",
+   "name": "Kangaroo Korner Learning Center",
+   "summary": "Kangaroo Korner Learning Center is a daycare in Chicago, IL at 2401 North Saint Louis Avenue, Chicago, IL.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kangaroo-korner-learning-center-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kangaroo-korner-learning-center-chicago.json",
+   "address": {
+    "streetAddress": "2401 North Saint Louis Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.924856,
+    "lon": -87.7142023
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/163891703",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 131,
    "sponsored": false,
    "slug": "kindercare-inver-grove-heights",
    "name": "Kindercare",
@@ -1720,7 +4332,213 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 52,
+   "position": 132,
+   "sponsored": false,
+   "slug": "little-einsteins-chicago",
+   "name": "Little Einsteins",
+   "summary": "Little Einsteins is a daycare in Chicago, IL at 3640-3644 West Wrightwood Avenue, Chicago, IL.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/little-einsteins-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/little-einsteins-chicago.json",
+   "address": {
+    "streetAddress": "3640-3644 West Wrightwood Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9284118,
+    "lon": -87.7188236
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/163896955",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 133,
+   "sponsored": false,
+   "slug": "millie-s-house-chicago",
+   "name": "Millie’s House",
+   "summary": "Millie’s House is a daycare in Chicago, IL at 3030 North Kedzie Avenue, Chicago, IL.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/millie-s-house-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/millie-s-house-chicago.json",
+   "address": {
+    "streetAddress": "3030 North Kedzie Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9365902,
+    "lon": -87.7077944
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11807488202",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 134,
+   "sponsored": false,
+   "slug": "our-lady-of-lourdes-child-development-center-chicago",
+   "name": "Our Lady of Lourdes Child Development Center",
+   "summary": "Our Lady of Lourdes Child Development Center is a daycare in Chicago, IL at 1445-1449 South Keeler Avenue, Chicago, IL.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/our-lady-of-lourdes-child-development-center-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/our-lady-of-lourdes-child-development-center-chicago.json",
+   "address": {
+    "streetAddress": "1445-1449 South Keeler Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8609066,
+    "lon": -87.7295541
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/162304333",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 135,
+   "sponsored": false,
+   "slug": "abc-toon-town-day-care-oak-park",
+   "name": "ABC Toon Town Day Care",
+   "summary": "ABC Toon Town Day Care is a daycare in Oak Park, IL.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/abc-toon-town-day-care-oak-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/abc-toon-town-day-care-oak-park.json",
+   "address": {
+    "addressLocality": "Oak Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Oak Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.872901,
+    "lon": -87.7790896
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/371535106",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 136,
+   "sponsored": false,
+   "slug": "alphabet-learning-center-brookfield",
+   "name": "Alphabet Learning Center",
+   "summary": "Alphabet Learning Center is a daycare in Brookfield, IL.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/alphabet-learning-center-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/alphabet-learning-center-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8230055,
+    "lon": -87.8453924
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9735798721",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 137,
+   "sponsored": false,
+   "slug": "angel-land-nursery-school-chicago",
+   "name": "Angel Land Nursery School",
+   "summary": "Angel Land Nursery School is a daycare in Chicago, IL.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/angel-land-nursery-school-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/angel-land-nursery-school-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.758217,
+    "lon": -87.6147649
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/354232556",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 138,
+   "sponsored": false,
+   "slug": "auburn-park-day-care-center-chicago",
+   "name": "Auburn Park Day Care Center",
+   "summary": "Auburn Park Day Care Center is a daycare in Chicago, IL.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/auburn-park-day-care-center-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/auburn-park-day-care-center-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.750507,
+    "lon": -87.6432002
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/354228254",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 139,
    "sponsored": false,
    "slug": "bilingual-child-care-and-education-center-inc-mahtomedi",
    "name": "Bilingual Child Care & Education Center, Inc.",
@@ -1749,7 +4567,94 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 53,
+   "position": 140,
+   "sponsored": false,
+   "slug": "chesterfield-tom-thumb-day-care-center-and-kindergarten-school-chicago",
+   "name": "Chesterfield Tom Thumb Day Care Center and Kindergarten School",
+   "summary": "Chesterfield Tom Thumb Day Care Center and Kindergarten School is a daycare in Chicago, IL.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chesterfield-tom-thumb-day-care-center-and-kindergarten-school-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chesterfield-tom-thumb-day-care-center-and-kindergarten-school-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7269788,
+    "lon": -87.6050475
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/354233343",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 141,
+   "sponsored": false,
+   "slug": "choo-choo-chicago-chicago",
+   "name": "Choo Choo Chicago",
+   "summary": "Choo Choo Chicago is a daycare in Chicago, IL.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/choo-choo-chicago-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/choo-choo-chicago-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9360385,
+    "lon": -87.647322
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13009765994",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 142,
+   "sponsored": false,
+   "slug": "creative-kids-daycare-center-chicago",
+   "name": "Creative Kids Daycare Center",
+   "summary": "Creative Kids Daycare Center is a daycare in Chicago, IL.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/creative-kids-daycare-center-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/creative-kids-daycare-center-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7932963,
+    "lon": -87.7086331
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10984950307",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 143,
    "sponsored": false,
    "slug": "creme-de-la-creme-maple-grove",
    "name": "Creme De La Creme",
@@ -1778,7 +4683,65 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 54,
+   "position": 144,
+   "sponsored": false,
+   "slug": "crickets-child-and-infant-daycare-center-chicago",
+   "name": "Crickets Child and Infant Daycare Center",
+   "summary": "Crickets Child and Infant Daycare Center is a daycare in Chicago, IL.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/crickets-child-and-infant-daycare-center-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/crickets-child-and-infant-daycare-center-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7508665,
+    "lon": -87.6195265
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/354236983",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 145,
+   "sponsored": false,
+   "slug": "crown-daycare-center-chicago",
+   "name": "Crown Daycare Center",
+   "summary": "Crown Daycare Center is a daycare in Chicago, IL.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/crown-daycare-center-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/crown-daycare-center-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9620384,
+    "lon": -87.654549
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10801204181",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 146,
    "sponsored": false,
    "slug": "early-childhood-development-center-saint-paul",
    "name": "Early Childhood Development Center",
@@ -1807,7 +4770,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 55,
+   "position": 147,
    "sponsored": false,
    "slug": "edina-daycare-edina",
    "name": "Edina Daycare",
@@ -1836,7 +4799,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 56,
+   "position": 148,
    "sponsored": false,
    "slug": "foundation-hill-montessori-and-childcare-plymouth",
    "name": "Foundation Hill Montessori and Childcare",
@@ -1865,7 +4828,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 57,
+   "position": 149,
    "sponsored": false,
    "slug": "growing-genration-cdc-hugo",
    "name": "Growing Genration CDC",
@@ -1894,7 +4857,65 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 58,
+   "position": 150,
+   "sponsored": false,
+   "slug": "highland-day-care-center-chicago",
+   "name": "Highland Day Care Center",
+   "summary": "Highland Day Care Center is a daycare in Chicago, IL.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/highland-day-care-center-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/highland-day-care-center-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7547608,
+    "lon": -87.6637834
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/354246965",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 151,
+   "sponsored": false,
+   "slug": "highland-educational-day-care-center-chicago",
+   "name": "Highland Educational Day Care Center",
+   "summary": "Highland Educational Day Care Center is a daycare in Chicago, IL.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/highland-educational-day-care-center-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/highland-educational-day-care-center-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.748869,
+    "lon": -87.6637405
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/354246739",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 152,
    "sponsored": false,
    "slug": "hour-kids-walk-in-childcare-eagan",
    "name": "Hour Kids Walk-In Childcare",
@@ -1923,7 +4944,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 59,
+   "position": 153,
    "sponsored": false,
    "slug": "intown-childcare-minneapolis",
    "name": "Intown Childcare",
@@ -1952,7 +4973,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 60,
+   "position": 154,
    "sponsored": false,
    "slug": "iona-child-care-center-brooklyn-park",
    "name": "Iona Child Care Center",
@@ -1981,7 +5002,65 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 61,
+   "position": 155,
+   "sponsored": false,
+   "slug": "kiddie-academy-of-hawthorn-woods-ela-township",
+   "name": "Kiddie Academy of Hawthorn Woods",
+   "summary": "Kiddie Academy of Hawthorn Woods is a daycare in Ela Township, IL.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kiddie-academy-of-hawthorn-woods-ela-township/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kiddie-academy-of-hawthorn-woods-ela-township.json",
+   "address": {
+    "addressLocality": "Ela Township",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Ela Township",
+   "state": "IL",
+   "geo": {
+    "lat": 42.1983739,
+    "lon": -88.0572294
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/890038130",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 156,
+   "sponsored": false,
+   "slug": "kids-and-company-chicago-n12874110755",
+   "name": "Kids & Company",
+   "summary": "Kids & Company is a daycare in Chicago, IL.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kids-and-company-chicago-n12874110755/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kids-and-company-chicago-n12874110755.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8746383,
+    "lon": -87.6303673
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12874110755",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 157,
    "sponsored": false,
    "slug": "kinderberry-hill-eden-prairie",
    "name": "Kinderberry Hill",
@@ -2010,7 +5089,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 62,
+   "position": 158,
    "sponsored": false,
    "slug": "kindercare-arden-hills",
    "name": "KinderCare",
@@ -2039,7 +5118,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 63,
+   "position": 159,
    "sponsored": false,
    "slug": "kindercare-coon-rapids",
    "name": "KinderCare",
@@ -2068,7 +5147,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 64,
+   "position": 160,
    "sponsored": false,
    "slug": "kindercare-north-oaks",
    "name": "KinderCare",
@@ -2097,7 +5176,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 65,
+   "position": 161,
    "sponsored": false,
    "slug": "lil-explorers-childcare-andover",
    "name": "Lil Explorers Childcare",
@@ -2126,7 +5205,65 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 66,
+   "position": 162,
+   "sponsored": false,
+   "slug": "little-angels-chicago",
+   "name": "Little Angels",
+   "summary": "Little Angels is a daycare in Chicago, IL.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/little-angels-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/little-angels-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9970939,
+    "lon": -87.7196581
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6287498132",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 163,
+   "sponsored": false,
+   "slug": "little-beginnings-day-care-oak-park",
+   "name": "Little Beginnings Day Care",
+   "summary": "Little Beginnings Day Care is a daycare in Oak Park, IL.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/little-beginnings-day-care-oak-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/little-beginnings-day-care-oak-park.json",
+   "address": {
+    "addressLocality": "Oak Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Oak Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8795448,
+    "lon": -87.7964756
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4993722835",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 164,
    "sponsored": false,
    "slug": "nest-learning-academy-rockford",
    "name": "Nest Learning Academy",
@@ -2155,7 +5292,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 67,
+   "position": 165,
    "sponsored": false,
    "slug": "nest-nursery-rockford",
    "name": "Nest Nursery",
@@ -2184,7 +5321,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 68,
+   "position": 166,
    "sponsored": false,
    "slug": "new-horizon-academy-edina",
    "name": "New Horizon Academy",
@@ -2213,7 +5350,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 69,
+   "position": 167,
    "sponsored": false,
    "slug": "nokomis-child-care-center-minneapolis",
    "name": "Nokomis Child Care Center",
@@ -2242,7 +5379,65 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 70,
+   "position": 168,
+   "sponsored": false,
+   "slug": "once-upon-a-child-crest-hill",
+   "name": "Once Upon A Child",
+   "summary": "Once Upon A Child is a daycare in Crest Hill, IL.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/once-upon-a-child-crest-hill/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/once-upon-a-child-crest-hill.json",
+   "address": {
+    "addressLocality": "Crest Hill",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Crest Hill",
+   "state": "IL",
+   "geo": {
+    "lat": 41.5608327,
+    "lon": -88.1341357
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/96767847",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 169,
+   "sponsored": false,
+   "slug": "park-west-cooperative-nursery-school-chicago",
+   "name": "Park West Cooperative Nursery School",
+   "summary": "Park West Cooperative Nursery School is a daycare in Chicago, IL.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/park-west-cooperative-nursery-school-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/park-west-cooperative-nursery-school-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9250325,
+    "lon": -87.6458875
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/354248009",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 170,
    "sponsored": false,
    "slug": "pathways-to-play-south-saint-paul",
    "name": "Pathways to Play",
@@ -2271,7 +5466,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 71,
+   "position": 171,
    "sponsored": false,
    "slug": "radiant-montessori-school-maple-grove",
    "name": "Radiant Montessori School",
@@ -2300,7 +5495,123 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 72,
+   "position": 172,
+   "sponsored": false,
+   "slug": "rainforest-pre-school-and-infant-center-chicago",
+   "name": "Rainforest Pre-School & Infant Center",
+   "summary": "Rainforest Pre-School & Infant Center is a daycare in Chicago, IL.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rainforest-pre-school-and-infant-center-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rainforest-pre-school-and-infant-center-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9319713,
+    "lon": -87.6925521
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3863353380",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 173,
+   "sponsored": false,
+   "slug": "southtown-day-care-center-chicago",
+   "name": "Southtown Day Care Center",
+   "summary": "Southtown Day Care Center is a daycare in Chicago, IL.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/southtown-day-care-center-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/southtown-day-care-center-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7689226,
+    "lon": -87.6522724
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/354272150",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 174,
+   "sponsored": false,
+   "slug": "stepping-stones-chicago",
+   "name": "Stepping Stones",
+   "summary": "Stepping Stones is a daycare in Chicago, IL.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/stepping-stones-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/stepping-stones-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.92802,
+    "lon": -87.7160379
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3863080086",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 175,
+   "sponsored": false,
+   "slug": "sunflower-early-learning-academy-chicago",
+   "name": "Sunflower Early Learning Academy",
+   "summary": "Sunflower Early Learning Academy is a daycare in Chicago, IL.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sunflower-early-learning-academy-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sunflower-early-learning-academy-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9974816,
+    "lon": -87.7640715
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9402002259",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 176,
    "sponsored": false,
    "slug": "sunshine-station-child-care-rockford",
    "name": "Sunshine Station Child Care",
@@ -2329,7 +5640,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 73,
+   "position": 177,
    "sponsored": false,
    "slug": "sunshine-tree-child-development-minneapolis",
    "name": "Sunshine Tree Child Development",
@@ -2358,7 +5669,36 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 74,
+   "position": 178,
+   "sponsored": false,
+   "slug": "the-children-village-chicago",
+   "name": "The Children Village",
+   "summary": "The Children Village is a daycare in Chicago, IL.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-children-village-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-children-village-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7305838,
+    "lon": -87.6043648
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/354233504",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 179,
    "sponsored": false,
    "slug": "the-family-partnership-minneapolis",
    "name": "The Family Partnership",
@@ -2387,7 +5727,152 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 75,
+   "position": 180,
+   "sponsored": false,
+   "slug": "the-learning-experience-wheeling",
+   "name": "The Learning Experience",
+   "summary": "The Learning Experience is a daycare in Wheeling, IL.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-learning-experience-wheeling/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-learning-experience-wheeling.json",
+   "address": {
+    "addressLocality": "Wheeling",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Wheeling",
+   "state": "IL",
+   "geo": {
+    "lat": 42.1381919,
+    "lon": -87.9252699
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/878752252",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 181,
+   "sponsored": false,
+   "slug": "the-nook-chicago",
+   "name": "The Nook",
+   "summary": "The Nook is a daycare in Chicago, IL.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-nook-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-nook-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9102233,
+    "lon": -87.6866117
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12844749049",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 182,
+   "sponsored": false,
+   "slug": "the-nook-childcare-chicago",
+   "name": "The Nook Childcare",
+   "summary": "The Nook Childcare is a daycare in Chicago, IL.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-nook-childcare-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-nook-childcare-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8823868,
+    "lon": -87.6768374
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13316720682",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 183,
+   "sponsored": false,
+   "slug": "topsy-turby-nursery-and-kindergarten-chicago",
+   "name": "Topsy Turby Nursery and Kindergarten",
+   "summary": "Topsy Turby Nursery and Kindergarten is a daycare in Chicago, IL.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/topsy-turby-nursery-and-kindergarten-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/topsy-turby-nursery-and-kindergarten-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7583776,
+    "lon": -87.6069283
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/354273156",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 184,
+   "sponsored": false,
+   "slug": "triple-r-child-care-mokena",
+   "name": "Triple R Child Care",
+   "summary": "Triple R Child Care is a daycare in Mokena, IL.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/triple-r-child-care-mokena/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/triple-r-child-care-mokena.json",
+   "address": {
+    "addressLocality": "Mokena",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Mokena",
+   "state": "IL",
+   "geo": {
+    "lat": 41.5289874,
+    "lon": -87.8486683
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/436907364",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 185,
    "sponsored": false,
    "slug": "university-of-mn-child-development-laboratory-school-minneapolis",
    "name": "University of MN Child Development Laboratory School",
@@ -2416,7 +5901,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 76,
+   "position": 186,
    "sponsored": false,
    "slug": "ymca-child-care-minneapolis",
    "name": "YMCA Child Care",
@@ -2443,6 +5928,254 @@
    "source": "OpenStreetMap",
    "source_url": "https://www.openstreetmap.org/way/1298682887",
    "last_checked": "2026-10-17"
+  },
+  {
+   "position": 187,
+   "sponsored": false,
+   "slug": "zion-hill-day-care-center-school-chicago",
+   "name": "Zion Hill Day Care Center School",
+   "summary": "Zion Hill Day Care Center School is a daycare in Chicago, IL.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/zion-hill-day-care-center-school-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/zion-hill-day-care-center-school-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7524179,
+    "lon": -87.6608833
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/354271320",
+   "last_checked": "2026-10-17"
   }
- ]
+ ],
+ "market": {
+  "keyword": "daycare",
+  "slug": "daycare",
+  "base_keyword": "daycare",
+  "scope": "national",
+  "city": null,
+  "state": null,
+  "category": "Education & childcare",
+  "industry": "Education & Instruction",
+  "us_monthly_searches": {
+   "value": 220000,
+   "range": [
+    150000,
+    370000
+   ],
+   "method": "estimate",
+   "estimate_method": "median of 58 cited US volumes for 'high'-demand keywords in the local_services research; rounded to 2 significant figures; range = 25th-75th percentile",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "confidence": "low"
+  },
+  "local_monthly_searches": null,
+  "cpc_usd": {
+   "industry_benchmark": "Education & Instruction",
+   "low_usd": 4.81,
+   "median_usd": 4.81,
+   "high_usd": 6.23,
+   "method": "published benchmarks: low/high = range of the industry and sub-industry median CPCs listed in 'figures'; median = most specific benchmark",
+   "figures": [
+    {
+     "usd": 4.81,
+     "label": "Education & Instruction median CPC 2026",
+     "source": "wordstream_2026"
+    },
+    {
+     "usd": 6.23,
+     "label": "Education & Instruction median CPC 2025",
+     "source": "wordstream_2025"
+    }
+   ],
+   "source": "wordstream_2026",
+   "as_of": "2026",
+   "basis_for_value": {
+    "usd": 4.81,
+    "method": "benchmark median CPC",
+    "source": "wordstream_2026"
+   }
+  },
+  "ctr_pct": {
+   "value": 5.74,
+   "label": "Education & Instruction average search-ad CTR 2025",
+   "source": "wordstream_2025",
+   "as_of": "2025-03"
+  },
+  "competition": {
+   "level": "medium",
+   "method": "proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research)",
+   "source": "wordstream_2026",
+   "as_of": "2026"
+  },
+  "trend": null,
+  "seasonality": {
+   "value": null,
+   "note": "No seasonality data in the research sources for this keyword."
+  },
+  "ai_query": {
+   "text": "No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.",
+   "figures": [
+    {
+     "value": "45%",
+     "label": "US adults using AI for local recommendations",
+     "source": "brightlocal_lcrs_2026"
+    },
+    {
+     "value": "75%",
+     "label": "sessions with keyword-style prompts",
+     "source": "sagapixel_sel"
+    },
+    {
+     "value": "59%",
+     "label": "local-intent prompts that triggered web search",
+     "source": "nectiv"
+    }
+   ],
+   "as_of": "2026"
+  },
+  "registry_competitors": {
+   "value": 187,
+   "slugs": [
+    "a-child-s-space-chicago",
+    "a-karrasel-child-care-center-chicago",
+    "a-step-ahead-learning-center-chicago",
+    "a-step-by-step-evanston",
+    "abc-toon-town-day-care-oak-park",
+    "adams-street-child-care-center-chicago",
+    "advance-preschool-hoffman-estates",
+    "alive-teen-center-naperville",
+    "all-saints-catholic-academy-naperville",
+    "alphabet-junction-childcare-shakopee"
+   ],
+   "method_id": "competitors",
+   "source": "registry",
+   "as_of": "2026-10-18",
+   "urls": [
+    "https://dingalinged-cpu.github.io/registry/c/a-child-s-space-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/a-karrasel-child-care-center-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/a-step-ahead-learning-center-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/a-step-by-step-evanston/",
+    "https://dingalinged-cpu.github.io/registry/c/abc-toon-town-day-care-oak-park/",
+    "https://dingalinged-cpu.github.io/registry/c/adams-street-child-care-center-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/advance-preschool-hoffman-estates/",
+    "https://dingalinged-cpu.github.io/registry/c/alive-teen-center-naperville/",
+    "https://dingalinged-cpu.github.io/registry/c/all-saints-catholic-academy-naperville/",
+    "https://dingalinged-cpu.github.io/registry/c/alphabet-junction-childcare-shakopee/"
+   ],
+   "method": "count of registry listings tagged with the keyword (city/national) or with the base service in the same state (state keywords)"
+  },
+  "agent_demand": null,
+  "agent_demand_note": "Not yet measured. Will carry AI-agent query counts from the registry's agent analytics (contract: meta.agent_demand_contract in the market index).",
+  "equivalent_google_ads_cost_month": {
+   "value_usd": 61000,
+   "method": "estimate",
+   "method_id": "google_ads_equiv",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote."
+  },
+  "search_value_index": {
+   "value_usd": 1100000,
+   "method": "estimate",
+   "method_id": "value_index",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: search value index = monthly searches x CPC basis; an advertiser-value ranking signal, not revenue; rounded to 2 significant figures."
+  },
+  "auction": {
+   "featured_spot_min_usd": 100,
+   "spots_2_to_4_min_usd": 10,
+   "tier": "mid",
+   "pricing_rule": "tier minimum (premium $500, high $250, mid $100, standard $50) for national keywords; city = max($10, 20% of tier); state = max($10, 35% of tier); spots 2-4 open at 10% of the featured minimum",
+   "model": "Monthly auction in the last 7 days of each month: days 1-5 bid for the Featured #1 spot, days 6-7 for spots 2-4; winners display all next month; all paid spots labeled Sponsored.",
+   "next_auctions": [
+    {
+     "display_month": "2026-11",
+     "featured_spot_bidding": [
+      "2026-10-25",
+      "2026-10-29"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-10-30",
+      "2026-10-31"
+     ]
+    },
+    {
+     "display_month": "2026-12",
+     "featured_spot_bidding": [
+      "2026-11-24",
+      "2026-11-28"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-11-29",
+      "2026-11-30"
+     ]
+    }
+   ],
+   "source": "registry_auction",
+   "as_of": "2026-10-18"
+  },
+  "sources": {
+   "brightlocal_lcrs_2026": {
+    "name": "BrightLocal Local Consumer Review Survey 2026 (n=1,002 US adults)",
+    "url": "https://www.brightlocal.com/research/lcrs-ai-trust/",
+    "as_of": "2026"
+   },
+   "nectiv": {
+    "name": "Nectiv study of 8,500+ ChatGPT prompts",
+    "url": "https://nectivdigital.com/blog/new-data-study-what-queries-is-chatgpt-using-behind-the-scenes",
+    "as_of": "2025"
+   },
+   "registry": {
+    "name": "This registry's own listings (OpenStreetMap-seeded, ODbL)",
+    "url": "https://dingalinged-cpu.github.io/registry/api/companies.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_auction": {
+    "name": "Registry keyword auction catalog and rules",
+    "url": "https://dingalinged-cpu.github.io/registry/api/keyword-prices.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_estimate": {
+    "name": "Registry estimate (CC-BY-4.0); method given on each value",
+    "url": "https://dingalinged-cpu.github.io/registry/market/",
+    "as_of": "2026-10-18"
+   },
+   "sagapixel_sel": {
+    "name": "Sagapixel ChatGPT local-services sessions, via Search Engine Land",
+    "url": "https://searchengineland.com/chatgpt-users-keywords-for-local-services-data-467715",
+    "as_of": "2026-01"
+   },
+   "wordstream_2025": {
+    "name": "WordStream Google Ads Benchmarks 2025 (16,446 US campaigns, Apr 2024-Mar 2025; median CPC and CTR by industry)",
+    "url": "https://www.wordstream.com/blog/2025-google-ads-benchmarks",
+    "as_of": "2025-03"
+   },
+   "wordstream_2026": {
+    "name": "LocaliQ/WordStream Search Advertising Benchmarks 2026 (US median CPC by industry)",
+    "url": "https://www.localiq.com/blog/search-advertising-benchmarks",
+    "as_of": "2026"
+   }
+  },
+  "license": {
+   "registry_estimates": "CC-BY-4.0",
+   "url": "https://creativecommons.org/licenses/by/4.0/",
+   "cited_figures": "attribute to the publishers in sources"
+  },
+  "as_of": "2026-10-18",
+  "api": "https://dingalinged-cpu.github.io/registry/api/market/daycare.json",
+  "rate_card": "https://dingalinged-cpu.github.io/registry/view/market.html#daycare"
+ }
 }

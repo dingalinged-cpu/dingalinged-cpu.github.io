@@ -1,0 +1,62 @@
+{
+ "slug": "sport-clips-south-barrington",
+ "name": "Sport Clips",
+ "categories": [
+  "hair salon"
+ ],
+ "keywords": [
+  "hair salon",
+  "haircut",
+  "hair salon south barrington il",
+  "haircut south barrington il"
+ ],
+ "services": [
+  {
+   "name": "hair salon",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "haircut",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "100 West Higgins Road #M-25",
+  "addressLocality": "South Barrington",
+  "addressRegion": "IL",
+  "postalCode": "60010",
+  "addressCountry": "US"
+ },
+ "city": "South Barrington",
+ "state": "IL",
+ "zip": "60010",
+ "geo": {
+  "lat": 42.074479,
+  "lon": -88.1846993
+ },
+ "brand": "Sport Clips",
+ "wikidata": "Q7579310",
+ "schema_type": "HairSalon",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/11403480450",
+ "osm": {
+  "type": "node",
+  "id": 11403480450,
+  "tags_used": {
+   "shop": "hairdresser"
+  }
+ },
+ "municipality": "South Barrington",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/sport-clips-south-barrington/",
+ "summary": "Sport Clips is a hair salon in South Barrington, IL at 100 West Higgins Road #M-25, South Barrington, IL 60010.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

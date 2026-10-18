@@ -1,0 +1,56 @@
+{
+ "slug": "brioche-dor-e-chicago-n2360651566",
+ "name": "Brioche Dorée",
+ "categories": [
+  "bakery"
+ ],
+ "keywords": [
+  "bakery",
+  "bakery chicago il"
+ ],
+ "services": [
+  {
+   "name": "bakery",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "geo": {
+  "lat": 41.9752625,
+  "lon": -87.9033436
+ },
+ "phone": "+17736866149",
+ "opening_hours": "Mo-Su 05:00-20:30",
+ "brand": "Brioche Dorée",
+ "wikidata": "Q2925606",
+ "schema_type": "Bakery",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/2360651566",
+ "osm": {
+  "type": "node",
+  "id": 2360651566,
+  "tags_used": {
+   "shop": "bakery",
+   "amenity": "cafe"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/brioche-dor-e-chicago-n2360651566/",
+ "summary": "Brioche Dorée is a bakery in Chicago, IL. Phone: +17736866149.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,68 @@
+{
+ "slug": "robert-james-insurance-services-western-springs",
+ "name": "Robert James Insurance Services",
+ "categories": [
+  "insurance agent"
+ ],
+ "keywords": [
+  "insurance agent",
+  "insurance agency",
+  "insurance agents",
+  "insurance agent western springs il",
+  "insurance agency western springs il",
+  "insurance agents western springs il"
+ ],
+ "services": [
+  {
+   "name": "insurance agent",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "insurance agency",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "insurance agents",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "4367 Lawn Avenue",
+  "addressLocality": "Western Springs",
+  "addressRegion": "IL",
+  "postalCode": "60558",
+  "addressCountry": "US"
+ },
+ "city": "Western Springs",
+ "state": "IL",
+ "zip": "60558",
+ "geo": {
+  "lat": 41.8099205,
+  "lon": -87.8998403
+ },
+ "phone": "+17082471525",
+ "website": "https://www.robertjamesinsurance.com/",
+ "schema_type": "InsuranceAgency",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/9603258033",
+ "osm": {
+  "type": "node",
+  "id": 9603258033,
+  "tags_used": {
+   "office": "insurance"
+  }
+ },
+ "municipality": "Western Springs",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/robert-james-insurance-services-western-springs/",
+ "summary": "Robert James Insurance Services is an insurance agent in Western Springs, IL at 4367 Lawn Avenue, Western Springs, IL 60558. Phone: +17082471525. Website: https://www.robertjamesinsurance.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

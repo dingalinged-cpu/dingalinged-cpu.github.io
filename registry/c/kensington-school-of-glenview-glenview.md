@@ -1,0 +1,23 @@
+Kensington School of Glenview is a preschool in Glenview, IL at 2160 Chestnut Avenue, Glenview, IL 60026.
+
+# Kensington School of Glenview
+
+- Category: preschool
+- Services: preschool
+- Address: 2160 Chestnut Avenue, Glenview, IL 60026
+- City: Glenview
+- State: IL
+- ZIP: 60026
+- Coordinates: 42.0880044, -87.8127073
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/kensington-school-of-glenview-glenview/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/kensington-school-of-glenview-glenview.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/798183368 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

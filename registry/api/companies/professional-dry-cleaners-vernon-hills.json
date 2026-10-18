@@ -1,0 +1,56 @@
+{
+ "slug": "professional-dry-cleaners-vernon-hills",
+ "name": "Professional Dry Cleaners",
+ "categories": [
+  "dry cleaners"
+ ],
+ "keywords": [
+  "dry cleaners",
+  "dry cleaners vernon hills il"
+ ],
+ "services": [
+  {
+   "name": "dry cleaners",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "283 Evergreen Drive",
+  "addressLocality": "Vernon Hills",
+  "addressRegion": "IL",
+  "postalCode": "60061",
+  "addressCountry": "US"
+ },
+ "city": "Vernon Hills",
+ "state": "IL",
+ "zip": "60061",
+ "geo": {
+  "lat": 42.2222376,
+  "lon": -87.9704191
+ },
+ "phone": "+18478161177",
+ "opening_hours": "Mo-Fr 07:00-19:00; Sa 08:00-18:00",
+ "schema_type": "DryCleaningOrLaundry",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/5214520976",
+ "osm": {
+  "type": "node",
+  "id": 5214520976,
+  "tags_used": {
+   "shop": "dry_cleaning"
+  }
+ },
+ "municipality": "Vernon Hills",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/professional-dry-cleaners-vernon-hills/",
+ "summary": "Professional Dry Cleaners is a dry cleaner in Vernon Hills, IL at 283 Evergreen Drive, Vernon Hills, IL 60061. Phone: +18478161177.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

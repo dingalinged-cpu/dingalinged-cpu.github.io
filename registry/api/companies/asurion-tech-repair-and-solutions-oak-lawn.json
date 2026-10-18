@@ -1,0 +1,69 @@
+{
+ "slug": "asurion-tech-repair-and-solutions-oak-lawn",
+ "name": "Asurion Tech Repair & Solutions",
+ "categories": [
+  "phone repair"
+ ],
+ "keywords": [
+  "phone repair",
+  "computer repair",
+  "appliance repair",
+  "phone repair oak lawn il",
+  "computer repair oak lawn il",
+  "appliance repair oak lawn il"
+ ],
+ "services": [
+  {
+   "name": "phone repair",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "computer repair",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "appliance repair",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "5126 West 95th Street",
+  "addressLocality": "Oak Lawn",
+  "addressRegion": "IL",
+  "postalCode": "60453",
+  "addressCountry": "US"
+ },
+ "city": "Oak Lawn",
+ "state": "IL",
+ "zip": "60453",
+ "geo": {
+  "lat": 41.7203545,
+  "lon": -87.7490382
+ },
+ "opening_hours": "Mo-Sa 10:00-19:00; Su 12:00-17:00",
+ "brand": "Asurion Tech Repair & Solutions",
+ "wikidata": "Q4811938",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/10740590458",
+ "osm": {
+  "type": "node",
+  "id": 10740590458,
+  "tags_used": {
+   "craft": "electronics_repair"
+  }
+ },
+ "municipality": "Oak Lawn",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/asurion-tech-repair-and-solutions-oak-lawn/",
+ "summary": "Asurion Tech Repair & Solutions is a phone repair shop in Oak Lawn, IL at 5126 West 95th Street, Oak Lawn, IL 60453.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

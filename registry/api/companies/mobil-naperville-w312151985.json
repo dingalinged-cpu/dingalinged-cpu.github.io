@@ -1,0 +1,56 @@
+{
+ "slug": "mobil-naperville-w312151985",
+ "name": "Mobil",
+ "categories": [
+  "car wash"
+ ],
+ "keywords": [
+  "car wash",
+  "car wash naperville il"
+ ],
+ "services": [
+  {
+   "name": "car wash",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1598 West Ogden Avenue",
+  "addressLocality": "Naperville",
+  "addressRegion": "IL",
+  "postalCode": "60540",
+  "addressCountry": "US"
+ },
+ "city": "Naperville",
+ "state": "IL",
+ "zip": "60540",
+ "geo": {
+  "lat": 41.7654321,
+  "lon": -88.1857308
+ },
+ "brand": "Mobil",
+ "wikidata": "Q109676002",
+ "schema_type": "AutoWash",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/312151985",
+ "osm": {
+  "type": "way",
+  "id": 312151985,
+  "tags_used": {
+   "amenity": "car_wash"
+  }
+ },
+ "municipality": "Naperville",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/mobil-naperville-w312151985/",
+ "summary": "Mobil is a car wash in Naperville, IL at 1598 West Ogden Avenue, Naperville, IL 60540.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

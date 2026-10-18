@@ -12,9 +12,9 @@
   "affordable bike shop the United States",
   "emergency bike shop the United States"
  ],
- "answer": "The top unpaid bike shop listing for the United States is Angry Catfish Bicycle Shop (a bike shop in Minneapolis, MN at 2900 East 42nd Street, Minneapolis, MN 55406. Phone: +16127221538. Website: https://www.angrycatfishbicycle.com/). 57 bike shop businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "answer": "The top unpaid bike shop listing for the United States is 2 Bici (a bike shop in Willow Springs, IL at 8695 South Archer Avenue #23-24, Willow Springs, IL 60480. Phone: +17083305234. Website: https://2bici.com/). 173 bike shop businesses are listed for the United States as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
  "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
- "updated": "2026-10-17",
+ "updated": "2026-10-18",
  "sponsored_slots": {
   "featured_1": "available",
   "spots_2_4_sold": 0
@@ -27,6 +27,41 @@
  "results": [
   {
    "position": 1,
+   "sponsored": false,
+   "slug": "2-bici-willow-springs",
+   "name": "2 Bici",
+   "summary": "2 Bici is a bike shop in Willow Springs, IL at 8695 South Archer Avenue #23-24, Willow Springs, IL 60480. Phone: +17083305234. Website: https://2bici.com/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/2-bici-willow-springs/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/2-bici-willow-springs.json",
+   "address": {
+    "streetAddress": "8695 South Archer Avenue #23-24",
+    "addressLocality": "Willow Springs",
+    "addressRegion": "IL",
+    "postalCode": "60480",
+    "addressCountry": "US"
+   },
+   "city": "Willow Springs",
+   "state": "IL",
+   "zip": "60480",
+   "geo": {
+    "lat": 41.7323662,
+    "lon": -87.8758106
+   },
+   "phone": "+17083305234",
+   "website": "https://2bici.com/",
+   "opening_hours": "Mo-Fr 11:00-19:00; Sa 10:00-17:00; Su 10:00-16:00; We off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2487776745",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
    "sponsored": false,
    "slug": "angry-catfish-bicycle-shop-minneapolis",
    "name": "Angry Catfish Bicycle Shop",
@@ -61,7 +96,42 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 2,
+   "position": 3,
+   "sponsored": false,
+   "slug": "barnards-schwinn-oak-park",
+   "name": "Barnard's Schwinn",
+   "summary": "Barnard's Schwinn is a bike shop in Oak Park, IL at 6109 West North Avenue, Oak Park, IL 60302. Phone: +17085242825. Website: https://barnardsschwinn.com/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/barnards-schwinn-oak-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/barnards-schwinn-oak-park.json",
+   "address": {
+    "streetAddress": "6109 West North Avenue",
+    "addressLocality": "Oak Park",
+    "addressRegion": "IL",
+    "postalCode": "60302",
+    "addressCountry": "US"
+   },
+   "city": "Oak Park",
+   "state": "IL",
+   "zip": "60302",
+   "geo": {
+    "lat": 41.9089458,
+    "lon": -87.7788379
+   },
+   "phone": "+17085242825",
+   "website": "https://barnardsschwinn.com/",
+   "opening_hours": "Mo-Sa 10:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/477360174",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
    "sponsored": false,
    "slug": "behind-bars-bicycle-shop-minneapolis",
    "name": "Behind Bars Bicycle Shop",
@@ -96,7 +166,42 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 3,
+   "position": 5,
+   "sponsored": false,
+   "slug": "bff-bikes-chicago-n12004405010",
+   "name": "BFF Bikes",
+   "summary": "BFF Bikes is a bike shop in Chicago, IL at 2056 North Damen Avenue, Chicago, IL 60647. Phone: +17736665153. Website: https://www.bffbikes.com/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bff-bikes-chicago-n12004405010/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bff-bikes-chicago-n12004405010.json",
+   "address": {
+    "streetAddress": "2056 North Damen Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60647",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60647",
+   "geo": {
+    "lat": 41.9193847,
+    "lon": -87.6778373
+   },
+   "phone": "+17736665153",
+   "website": "https://www.bffbikes.com/",
+   "opening_hours": "Mo 10:00-18:00; We-Th 10:00-19:00; Fr-Sa 10:00-18:00; Su 11:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12004405010",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
    "sponsored": false,
    "slug": "bicycle-chain-roseville",
    "name": "Bicycle Chain",
@@ -131,7 +236,112 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 4,
+   "position": 7,
+   "sponsored": false,
+   "slug": "blackstone-bicycle-works-chicago",
+   "name": "Blackstone Bicycle Works",
+   "summary": "Blackstone Bicycle Works is a bike shop in Chicago, IL at 6100 South Blackstone Avenue, Chicago, IL 60637. Phone: +17732415458. Website: https://www.experimentalstation.org/blackstone.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/blackstone-bicycle-works-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/blackstone-bicycle-works-chicago.json",
+   "address": {
+    "streetAddress": "6100 South Blackstone Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60637",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60637",
+   "geo": {
+    "lat": 41.784035,
+    "lon": -87.5904521
+   },
+   "phone": "+17732415458",
+   "website": "https://www.experimentalstation.org/blackstone",
+   "opening_hours": "We 16:00-18:00; Sa 10:00-12:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2488919385",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "bobbys-bike-hike-chicago",
+   "name": "Bobby's Bike Hike",
+   "summary": "Bobby's Bike Hike is a bike shop in Chicago, IL at 540 North Lake Shore Drive, Chicago, IL 60611. Phone: +13122459300. Website: https://www.bobbysbikehike.com/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bobbys-bike-hike-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bobbys-bike-hike-chicago.json",
+   "address": {
+    "streetAddress": "540 North Lake Shore Drive",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60611",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60611",
+   "geo": {
+    "lat": 41.8923205,
+    "lon": -87.6153035
+   },
+   "phone": "+13122459300",
+   "website": "https://www.bobbysbikehike.com/",
+   "opening_hours": "Jun-Aug 08:30-18:30; Sep-Oct 09:00-18:00 \"please call\"; Nov-Feb 09:00-17:00 \"please call\"; Mar-May 09:00-18:00 \"please call\"",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9910668467",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "boulevard-bikes-chicago",
+   "name": "Boulevard Bikes",
+   "summary": "Boulevard Bikes is a bike shop in Chicago, IL at 2769 North Milwaukee Avenue, Chicago, IL 60647. Phone: +17732359109. Website: https://boulevardbikeshop.com/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/boulevard-bikes-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/boulevard-bikes-chicago.json",
+   "address": {
+    "streetAddress": "2769 North Milwaukee Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60647",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60647",
+   "geo": {
+    "lat": 41.9315646,
+    "lon": -87.7112402
+   },
+   "phone": "+17732359109",
+   "website": "https://boulevardbikeshop.com/",
+   "opening_hours": "Mo-We 10:00-19:00; Th 10:00-20:00; Fr-Sa 10:00-18:00; Su 12:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5759671812",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
    "sponsored": false,
    "slug": "capd-bike-shop-saint-paul",
    "name": "CapD Bike Shop",
@@ -166,7 +376,147 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 5,
+   "position": 11,
+   "sponsored": false,
+   "slug": "comrade-cycles-chicago",
+   "name": "Comrade Cycles",
+   "summary": "Comrade Cycles is a bike shop in Chicago, IL at 1908 West Chicago Avenue, Chicago, IL 60622. Phone: +17732922522. Website: https://comradecycles.com/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/comrade-cycles-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/comrade-cycles-chicago.json",
+   "address": {
+    "streetAddress": "1908 West Chicago Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60622",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60622",
+   "geo": {
+    "lat": 41.8960854,
+    "lon": -87.6750792
+   },
+   "phone": "+17732922522",
+   "website": "https://comradecycles.com/",
+   "opening_hours": "Mo-Fr 11:00-18:00; Sa 10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6093333624",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 12,
+   "sponsored": false,
+   "slug": "cosmic-bikes-chicago",
+   "name": "Cosmic Bikes",
+   "summary": "Cosmic Bikes is a bike shop in Chicago, IL at 4641 North Milwaukee Avenue, Chicago, IL 60630. Phone: +17739304076. Website: https://www.cosmicbikes.com/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cosmic-bikes-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cosmic-bikes-chicago.json",
+   "address": {
+    "streetAddress": "4641 North Milwaukee Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60630",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60630",
+   "geo": {
+    "lat": 41.9651384,
+    "lon": -87.7581614
+   },
+   "phone": "+17739304076",
+   "website": "https://www.cosmicbikes.com/",
+   "opening_hours": "Mo-Th,Sa 12:00-18:00; Fr off; Su 10:00-14:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4846529846",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
+   "sponsored": false,
+   "slug": "deerfield-cyclery-deerfield",
+   "name": "Deerfield Cyclery",
+   "summary": "Deerfield Cyclery is a bike shop in Deerfield, IL at 705 Waukegan Road, Deerfield, IL 60015. Phone: +18479450700. Website: https://www.deerfieldcyclery.com/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/deerfield-cyclery-deerfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/deerfield-cyclery-deerfield.json",
+   "address": {
+    "streetAddress": "705 Waukegan Road",
+    "addressLocality": "Deerfield",
+    "addressRegion": "IL",
+    "postalCode": "60015",
+    "addressCountry": "US"
+   },
+   "city": "Deerfield",
+   "state": "IL",
+   "zip": "60015",
+   "geo": {
+    "lat": 42.1656621,
+    "lon": -87.84477
+   },
+   "phone": "+18479450700",
+   "website": "https://www.deerfieldcyclery.com/",
+   "opening_hours": "Mo,We,Fr 09:00-17:30; Th 09:00-20:00; Sa 09:00-17:00; Su 10:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2499068736",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 14,
+   "sponsored": false,
+   "slug": "earth-rider-cycling-chicago",
+   "name": "Earth Rider Cycling",
+   "summary": "Earth Rider Cycling is a bike shop in Chicago, IL at 1873 North Milwaukee Avenue, Chicago, IL 60647. Phone: +17733601816. Website: https://www.earthridercycling.com/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/earth-rider-cycling-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/earth-rider-cycling-chicago.json",
+   "address": {
+    "streetAddress": "1873 North Milwaukee Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60647",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60647",
+   "geo": {
+    "lat": 41.9155795,
+    "lon": -87.68527
+   },
+   "phone": "+17733601816",
+   "website": "https://www.earthridercycling.com/",
+   "opening_hours": "We 10:00-20:00; Th-Su 10:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9968036658",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 15,
    "sponsored": false,
    "slug": "eriks-bike-board-ski-lynlake-minneapolis",
    "name": "Erik's - Bike Board Ski Lynlake",
@@ -201,7 +551,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 6,
+   "position": 16,
    "sponsored": false,
    "slug": "eriks-bike-board-ski-coon-rapids",
    "name": "ERIK'S Bike Board Ski",
@@ -236,7 +586,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 7,
+   "position": 17,
    "sponsored": false,
    "slug": "eriks-bike-shop-saint-paul",
    "name": "Erik's Bike Shop",
@@ -271,7 +621,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 8,
+   "position": 18,
    "sponsored": false,
    "slug": "eriks-bikes-saint-louis-park",
    "name": "Erik's Bikes",
@@ -306,7 +656,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 9,
+   "position": 19,
    "sponsored": false,
    "slug": "express-bike-shop-saint-paul",
    "name": "Express Bike Shop",
@@ -341,7 +691,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 10,
+   "position": 20,
    "sponsored": false,
    "slug": "flanders-bros-cycle-minneapolis",
    "name": "Flanders Bros Cycle",
@@ -376,7 +726,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 11,
+   "position": 21,
    "sponsored": false,
    "slug": "freewheel-bike-bloomington",
    "name": "Freewheel Bike",
@@ -411,7 +761,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 12,
+   "position": 22,
    "sponsored": false,
    "slug": "freewheel-bike-eagan",
    "name": "Freewheel Bike",
@@ -446,7 +796,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 13,
+   "position": 23,
    "sponsored": false,
    "slug": "freewheel-bike-minneapolis",
    "name": "Freewheel Bike",
@@ -481,7 +831,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 14,
+   "position": 24,
    "sponsored": false,
    "slug": "freewheel-bike-saint-paul",
    "name": "Freewheel Bike",
@@ -516,7 +866,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 15,
+   "position": 25,
    "sponsored": false,
    "slug": "full-cycle-minneapolis",
    "name": "Full Cycle",
@@ -551,7 +901,42 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 16,
+   "position": 26,
+   "sponsored": false,
+   "slug": "glenview-cycle-glenview",
+   "name": "Glenview Cycle",
+   "summary": "Glenview Cycle is a bike shop in Glenview, IL at 1011 Harlem Avenue, Glenview, IL 60025. Phone: +18479985900. Website: https://glenviewcycle.com/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/glenview-cycle-glenview/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/glenview-cycle-glenview.json",
+   "address": {
+    "streetAddress": "1011 Harlem Avenue",
+    "addressLocality": "Glenview",
+    "addressRegion": "IL",
+    "postalCode": "60025",
+    "addressCountry": "US"
+   },
+   "city": "Glenview",
+   "state": "IL",
+   "zip": "60025",
+   "geo": {
+    "lat": 42.0731595,
+    "lon": -87.8053598
+   },
+   "phone": "+18479985900",
+   "website": "https://glenviewcycle.com/",
+   "opening_hours": "Mo-Tu,Th-Fr 11:00-17:00; Sa 10:00-17:00; Su 11:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8174117001",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 27,
    "sponsored": false,
    "slug": "grand-performance-saint-paul",
    "name": "Grand Performance",
@@ -586,7 +971,147 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 17,
+   "position": 28,
+   "sponsored": false,
+   "slug": "green-bay-cycles-winnetka",
+   "name": "Green Bay Cycles",
+   "summary": "Green Bay Cycles is a bike shop in Winnetka, IL at 999 Green Bay Road #1, Winnetka, IL 60093. Phone: +18474467433. Website: https://www.greenbaycycles.com/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/green-bay-cycles-winnetka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/green-bay-cycles-winnetka.json",
+   "address": {
+    "streetAddress": "999 Green Bay Road #1",
+    "addressLocality": "Winnetka",
+    "addressRegion": "IL",
+    "postalCode": "60093",
+    "addressCountry": "US"
+   },
+   "city": "Winnetka",
+   "state": "IL",
+   "zip": "60093",
+   "geo": {
+    "lat": 42.1188632,
+    "lon": -87.7451054
+   },
+   "phone": "+18474467433",
+   "website": "https://www.greenbaycycles.com/",
+   "opening_hours": "Tu-Fr 10:00-18:30; Sa 9:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1485111651",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 29,
+   "sponsored": false,
+   "slug": "heritage-general-store-chicago",
+   "name": "Heritage General Store",
+   "summary": "Heritage General Store is a bike shop in Chicago, IL at 2959 North Lincoln Avenue, Chicago, IL 60657. Phone: +17732453005. Website: https://www.heritagebicycles.com/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/heritage-general-store-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/heritage-general-store-chicago.json",
+   "address": {
+    "streetAddress": "2959 North Lincoln Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60657",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60657",
+   "geo": {
+    "lat": 41.9356951,
+    "lon": -87.6628628
+   },
+   "phone": "+17732453005",
+   "website": "https://www.heritagebicycles.com/",
+   "opening_hours": "08:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2365199606",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 30,
+   "sponsored": false,
+   "slug": "j-and-r-cycle-and-ski-villa-park",
+   "name": "J & R Cycle & Ski",
+   "summary": "J & R Cycle & Ski is a bike shop in Villa Park, IL at 240 West Saint Charles Road, Villa Park, IL 60181. Phone: +16306201606. Website: https://www.jandrcycleandski.com/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/j-and-r-cycle-and-ski-villa-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/j-and-r-cycle-and-ski-villa-park.json",
+   "address": {
+    "streetAddress": "240 West Saint Charles Road",
+    "addressLocality": "Villa Park",
+    "addressRegion": "IL",
+    "postalCode": "60181",
+    "addressCountry": "US"
+   },
+   "city": "Villa Park",
+   "state": "IL",
+   "zip": "60181",
+   "geo": {
+    "lat": 41.8900301,
+    "lon": -87.9859307
+   },
+   "phone": "+16306201606",
+   "website": "https://www.jandrcycleandski.com/",
+   "opening_hours": "Mo-Tu, Th-Sa 10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1353787867",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 31,
+   "sponsored": false,
+   "slug": "kozys-cyclery-chicago-n7943259927",
+   "name": "Kozy's Cyclery",
+   "summary": "Kozy's Cyclery is a bike shop in Chicago, IL at 3712 North Halsted Street, Chicago, IL 60613. Phone: +17732812263. Website: https://www.kozy.com/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kozys-cyclery-chicago-n7943259927/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kozys-cyclery-chicago-n7943259927.json",
+   "address": {
+    "streetAddress": "3712 North Halsted Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60613",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60613",
+   "geo": {
+    "lat": 41.9497137,
+    "lon": -87.6497407
+   },
+   "phone": "+17732812263",
+   "website": "https://www.kozy.com/",
+   "opening_hours": "Mo-Fr 11:00-19:00; Sa, Su 11:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7943259927",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 32,
    "sponsored": false,
    "slug": "lowertown-bike-shop-lower-town-bike-shop-coffee-station-saint-paul",
    "name": "Lowertown Bike Shop;Lower Town Bike Shop Coffee Station",
@@ -621,7 +1146,42 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 18,
+   "position": 33,
+   "sponsored": false,
+   "slug": "macks-bike-and-goods-evanston",
+   "name": "Mack's Bike & Goods",
+   "summary": "Mack's Bike & Goods is a bike shop in Evanston, IL at 2948 Central Street, Evanston, IL 60201. Phone: +18478778877. Website: https://www.macksbikeandgoods.com/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/macks-bike-and-goods-evanston/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/macks-bike-and-goods-evanston.json",
+   "address": {
+    "streetAddress": "2948 Central Street",
+    "addressLocality": "Evanston",
+    "addressRegion": "IL",
+    "postalCode": "60201",
+    "addressCountry": "US"
+   },
+   "city": "Evanston",
+   "state": "IL",
+   "zip": "60201",
+   "geo": {
+    "lat": 42.0642706,
+    "lon": -87.7168549
+   },
+   "phone": "+18478778877",
+   "website": "https://www.macksbikeandgoods.com/",
+   "opening_hours": "Tuesday - Friday 10am - 5pm, Saturday 9am - 5pm",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2295250209",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 34,
    "sponsored": false,
    "slug": "maple-grove-cycling-maple-grove",
    "name": "Maple Grove Cycling",
@@ -656,7 +1216,42 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 19,
+   "position": 35,
+   "sponsored": false,
+   "slug": "mikes-bike-shop-palatine",
+   "name": "Mikes Bike Shop",
+   "summary": "Mikes Bike Shop is a bike shop in Palatine, IL at 155 East Northwest Highway, Palatine, IL 60067. Phone: +18473580948. Website: https://mikesbikeshoppalatine.com/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mikes-bike-shop-palatine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mikes-bike-shop-palatine.json",
+   "address": {
+    "streetAddress": "155 East Northwest Highway",
+    "addressLocality": "Palatine",
+    "addressRegion": "IL",
+    "postalCode": "60067",
+    "addressCountry": "US"
+   },
+   "city": "Palatine",
+   "state": "IL",
+   "zip": "60067",
+   "geo": {
+    "lat": 42.1137177,
+    "lon": -88.0335184
+   },
+   "phone": "+18473580948",
+   "website": "https://mikesbikeshoppalatine.com/",
+   "opening_hours": "Mo-Sa 10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4206043280",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 36,
    "sponsored": false,
    "slug": "mr-michael-recycles-bicycles-saint-paul",
    "name": "Mr. Michael Recycles Bicycles",
@@ -691,7 +1286,42 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 20,
+   "position": 37,
+   "sponsored": false,
+   "slug": "nearly-new-bikes-chicago",
+   "name": "Nearly New Bikes",
+   "summary": "Nearly New Bikes is a bike shop in Chicago, IL at 4075 North Broadway, Chicago, IL 60613. Phone: +17735250692. Website: https://nearlynewbikes.com/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/nearly-new-bikes-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/nearly-new-bikes-chicago.json",
+   "address": {
+    "streetAddress": "4075 North Broadway",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60613",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60613",
+   "geo": {
+    "lat": 41.9565248,
+    "lon": -87.6516349
+   },
+   "phone": "+17735250692",
+   "website": "https://nearlynewbikes.com/",
+   "opening_hours": "Mo-Sa 12:00-20:00; Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/390477692",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 38,
    "sponsored": false,
    "slug": "nokomis-cycle-minneapolis",
    "name": "Nokomis Cycle",
@@ -726,7 +1356,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 21,
+   "position": 39,
    "sponsored": false,
    "slug": "now-bikes-and-fitness-saint-paul",
    "name": "Now Bikes & Fitness",
@@ -761,7 +1391,42 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 22,
+   "position": 40,
+   "sponsored": false,
+   "slug": "orland-park-cyclery-orland-park",
+   "name": "Orland Park Cyclery",
+   "summary": "Orland Park Cyclery is a bike shop in Orland Park, IL at 14445 John Humphrey Drive, Orland Park, IL 60462. Phone: +17084602999. Website: https://orlandparkcyclery.com/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/orland-park-cyclery-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/orland-park-cyclery-orland-park.json",
+   "address": {
+    "streetAddress": "14445 John Humphrey Drive",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60462",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60462",
+   "geo": {
+    "lat": 41.62766,
+    "lon": -87.849259
+   },
+   "phone": "+17084602999",
+   "website": "https://orlandparkcyclery.com/",
+   "opening_hours": "Mo,We,Fr 11:00-18:00; Tu,Th 11:00-19:00; Sa 11:00-17:00; Su 12:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/453173100",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 41,
    "sponsored": false,
    "slug": "pauls-bicycle-shop-shakopee",
    "name": "Paul's Bicycle Shop",
@@ -796,7 +1461,77 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 23,
+   "position": 42,
+   "sponsored": false,
+   "slug": "pedal-to-the-people-chicago",
+   "name": "Pedal to the People",
+   "summary": "Pedal to the People is a bike shop in Chicago, IL at 2030 West Hubbard Street, Chicago, IL 60612. Phone: +17733550882. Website: https://www.pedaltothepeople.com/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pedal-to-the-people-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pedal-to-the-people-chicago.json",
+   "address": {
+    "streetAddress": "2030 West Hubbard Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60612",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60612",
+   "geo": {
+    "lat": 41.8899373,
+    "lon": -87.6776675
+   },
+   "phone": "+17733550882",
+   "website": "https://www.pedaltothepeople.com/",
+   "opening_hours": "Mo-Fr 10:00-18:00; Sa-Su 12:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12978351501",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 43,
+   "sponsored": false,
+   "slug": "peregrine-bicycle-studio-chicago",
+   "name": "Peregrine Bicycle Studio",
+   "summary": "Peregrine Bicycle Studio is a bike shop in Chicago, IL at 621 West Fulton Street, Chicago, IL 60661. Phone: +13128775349. Website: https://peregrinebicyclestudio.com/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/peregrine-bicycle-studio-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/peregrine-bicycle-studio-chicago.json",
+   "address": {
+    "streetAddress": "621 West Fulton Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60661",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60661",
+   "geo": {
+    "lat": 41.8866609,
+    "lon": -87.6437633
+   },
+   "phone": "+13128775349",
+   "website": "https://peregrinebicyclestudio.com/",
+   "opening_hours": "Tu-Fr 11:00-19:00; Sa 10:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13055170346",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 44,
    "sponsored": false,
    "slug": "perennial-cycle-minneapolis",
    "name": "Perennial Cycle",
@@ -831,7 +1566,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 24,
+   "position": 45,
    "sponsored": false,
    "slug": "recovery-bike-shop-minneapolis",
    "name": "Recovery Bike Shop",
@@ -866,7 +1601,217 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 25,
+   "position": 46,
+   "sponsored": false,
+   "slug": "roscoe-village-bikes-chicago",
+   "name": "Roscoe Village Bikes",
+   "summary": "Roscoe Village Bikes is a bike shop in Chicago, IL at 2016 West Roscoe Street, Chicago, IL 60618. Phone: +17734777550. Website: https://roscoevillagebikes.com/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/roscoe-village-bikes-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/roscoe-village-bikes-chicago.json",
+   "address": {
+    "streetAddress": "2016 West Roscoe Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60618",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60618",
+   "geo": {
+    "lat": 41.943344,
+    "lon": -87.6792443
+   },
+   "phone": "+17734777550",
+   "website": "https://roscoevillagebikes.com/",
+   "opening_hours": "Mo-Tu,Th-Sa 11:00-18:00; We,Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7633162573",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 47,
+   "sponsored": false,
+   "slug": "rudys-cycle-and-fitness-chicago",
+   "name": "Rudy's Cycle and Fitness",
+   "summary": "Rudy's Cycle and Fitness is a bike shop in Chicago, IL at 5711 West Irving Park Road, Chicago, IL 60634. Phone: +17737364395. Website: https://www.rudysbikes.com/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rudys-cycle-and-fitness-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rudys-cycle-and-fitness-chicago.json",
+   "address": {
+    "streetAddress": "5711 West Irving Park Road",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60634",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60634",
+   "geo": {
+    "lat": 41.9529513,
+    "lon": -87.7699814
+   },
+   "phone": "+17737364395",
+   "website": "https://www.rudysbikes.com/",
+   "opening_hours": "Mo,Tu,Th,Fr 11:00-18:00; Sa 10:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5287162921",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 48,
+   "sponsored": false,
+   "slug": "small-shop-cycles-and-service-chicago",
+   "name": "Small Shop Cycles & Service",
+   "summary": "Small Shop Cycles & Service is a bike shop in Chicago, IL at 4250 South Cottage Grove Avenue, Chicago, IL 60653. Phone: +17736888449. Website: https://smallshopchicago.com/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/small-shop-cycles-and-service-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/small-shop-cycles-and-service-chicago.json",
+   "address": {
+    "streetAddress": "4250 South Cottage Grove Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60653",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60653",
+   "geo": {
+    "lat": 41.8171207,
+    "lon": -87.6069214
+   },
+   "phone": "+17736888449",
+   "website": "https://smallshopchicago.com/",
+   "opening_hours": "Tu-Sa 13:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11123597867",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 49,
+   "sponsored": false,
+   "slug": "specialized-chicago",
+   "name": "Specialized",
+   "summary": "Specialized is a bike shop in Chicago, IL at 925 West Lake Street, Chicago, IL 60607. Phone: +13122542852. Website: https://specializedchicago.com/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/specialized-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/specialized-chicago.json",
+   "address": {
+    "streetAddress": "925 West Lake Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60607",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60607",
+   "geo": {
+    "lat": 41.8854559,
+    "lon": -87.6507522
+   },
+   "phone": "+13122542852",
+   "website": "https://specializedchicago.com/",
+   "opening_hours": "Mo-Fr 11:00-18:00; Sa 10:00-17:00; Su 11:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10579844641",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 50,
+   "sponsored": false,
+   "slug": "tamago-chicago",
+   "name": "Tamago",
+   "summary": "Tamago is a bike shop in Chicago, IL at 1451 East 57th Street, Chicago, IL 60637. Phone: +17738881225. Website: https://www.tamago.cc/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tamago-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tamago-chicago.json",
+   "address": {
+    "streetAddress": "1451 East 57th Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60637",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60637",
+   "geo": {
+    "lat": 41.7914011,
+    "lon": -87.5896331
+   },
+   "phone": "+17738881225",
+   "website": "https://www.tamago.cc/",
+   "opening_hours": "\"By Appointment Only\"",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5809229703",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 51,
+   "sponsored": false,
+   "slug": "the-pony-shop-evanston",
+   "name": "The Pony Shop",
+   "summary": "The Pony Shop is a bike shop in Evanston, IL at 1224 Chicago Avenue, Evanston, IL 60202. Phone: +18478645775. Website: https://www.ponyshop.com/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-pony-shop-evanston/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-pony-shop-evanston.json",
+   "address": {
+    "streetAddress": "1224 Chicago Avenue",
+    "addressLocality": "Evanston",
+    "addressRegion": "IL",
+    "postalCode": "60202",
+    "addressCountry": "US"
+   },
+   "city": "Evanston",
+   "state": "IL",
+   "zip": "60202",
+   "geo": {
+    "lat": 42.0403935,
+    "lon": -87.6807159
+   },
+   "phone": "+18478645775",
+   "website": "https://www.ponyshop.com/",
+   "opening_hours": "Mo-Th 11:00-20:00; Fr 11:00-18:00; Sa-Su 10:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2212088884",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 52,
    "sponsored": false,
    "slug": "tonka-cycle-and-ski-hopkins",
    "name": "Tonka Cycle & Ski",
@@ -901,7 +1846,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 26,
+   "position": 53,
    "sponsored": false,
    "slug": "trailhead-cycling-champlin",
    "name": "Trailhead Cycling",
@@ -936,7 +1881,42 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 27,
+   "position": 54,
+   "sponsored": false,
+   "slug": "trek-schererville",
+   "name": "Trek",
+   "summary": "Trek is a bike shop in Schererville, IN at 651 East US-30, Schererville, IN 46375. Phone: +12193222453. Website: https://www.trekbikes.com/us/en_US/retail/schererville/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/trek-schererville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/trek-schererville.json",
+   "address": {
+    "streetAddress": "651 East US-30",
+    "addressLocality": "Schererville",
+    "addressRegion": "IN",
+    "postalCode": "46375",
+    "addressCountry": "US"
+   },
+   "city": "Schererville",
+   "state": "IN",
+   "zip": "46375",
+   "geo": {
+    "lat": 41.4814683,
+    "lon": -87.4353797
+   },
+   "phone": "+12193222453",
+   "website": "https://www.trekbikes.com/us/en_US/retail/schererville/",
+   "opening_hours": "Su 12:00-17:00; Mo-Sa 10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11032031847",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 55,
    "sponsored": false,
    "slug": "u-of-m-bike-center-minneapolis",
    "name": "U of M Bike Center",
@@ -971,7 +1951,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 28,
+   "position": 56,
    "sponsored": false,
    "slug": "venture-bikes-and-coffee-minneapolis",
    "name": "Venture Bikes and Coffee",
@@ -1006,7 +1986,108 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 29,
+   "position": 57,
+   "sponsored": false,
+   "slug": "village-cycle-center-chicago",
+   "name": "Village Cycle Center",
+   "summary": "Village Cycle Center is a bike shop in Chicago, IL at 1337 North Wells Street, Chicago, IL 60610. Phone: +13127512488. Website: https://www.villagecycle.com/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/village-cycle-center-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/village-cycle-center-chicago.json",
+   "address": {
+    "streetAddress": "1337 North Wells Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60610",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60610",
+   "geo": {
+    "lat": 41.9068144,
+    "lon": -87.6341329
+   },
+   "phone": "+13127512488",
+   "website": "https://www.villagecycle.com/",
+   "opening_hours": "Mo-Fr 10:00-20:00; Sa, Su 10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/210679564",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 58,
+   "sponsored": false,
+   "slug": "kozys-cyclery-chicago",
+   "name": "Kozy's Cyclery",
+   "summary": "Kozy's Cyclery is a bike shop in Chicago, IL at 3255 North Milwaukee Avenue, Chicago, IL. Phone: +17732820202. Website: https://www.kozy.com/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kozys-cyclery-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kozys-cyclery-chicago.json",
+   "address": {
+    "streetAddress": "3255 North Milwaukee Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9402709,
+    "lon": -87.7254756
+   },
+   "phone": "+17732820202",
+   "website": "https://www.kozy.com/",
+   "opening_hours": "Mo-Fr 11:00-19:00; Sa 10:00-17:00; Su 12:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3572449293",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 59,
+   "sponsored": false,
+   "slug": "kozys-cyclery-chicago-n12096153399",
+   "name": "Kozy's Cyclery",
+   "summary": "Kozy's Cyclery is a bike shop in Chicago, IL at 219 West Erie Street, Chicago, IL. Phone: +13122661700. Website: https://kozy.com/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kozys-cyclery-chicago-n12096153399/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kozys-cyclery-chicago-n12096153399.json",
+   "address": {
+    "streetAddress": "219 West Erie Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8938145,
+    "lon": -87.6348711
+   },
+   "phone": "+13122661700",
+   "website": "https://kozy.com/",
+   "opening_hours": "Mo-Fr 11:00-19:00; Sa 10:00-17:00; Su 11:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12096153399",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 60,
    "sponsored": false,
    "slug": "tangletown-bike-shop-minneapolis",
    "name": "Tangletown Bike Shop",
@@ -1039,7 +2120,449 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 30,
+   "position": 61,
+   "sponsored": false,
+   "slug": "als-cycle-shop-skokie",
+   "name": "Al's Cycle Shop",
+   "summary": "Al's Cycle Shop is a bike shop in Skokie, IL at 8118 Lincoln Avenue, Skokie, IL 60077. Phone: +18476730135. Website: https://alscycleshop.com/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/als-cycle-shop-skokie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/als-cycle-shop-skokie.json",
+   "address": {
+    "streetAddress": "8118 Lincoln Avenue",
+    "addressLocality": "Skokie",
+    "addressRegion": "IL",
+    "postalCode": "60077",
+    "addressCountry": "US"
+   },
+   "city": "Skokie",
+   "state": "IL",
+   "zip": "60077",
+   "geo": {
+    "lat": 42.0287308,
+    "lon": -87.7552447
+   },
+   "phone": "+18476730135",
+   "website": "https://alscycleshop.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/241096867",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 62,
+   "sponsored": false,
+   "slug": "armitage-bike-shop-chicago",
+   "name": "Armitage Bike Shop",
+   "summary": "Armitage Bike Shop is a bike shop in Chicago, IL at 3601 West Armitage Avenue, Chicago, IL 60647. Phone: +17737725433. Website: https://www.bike4lifechicago.org/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/armitage-bike-shop-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/armitage-bike-shop-chicago.json",
+   "address": {
+    "streetAddress": "3601 West Armitage Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60647",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60647",
+   "geo": {
+    "lat": 41.9171521,
+    "lon": -87.7169142
+   },
+   "phone": "+17737725433",
+   "website": "https://www.bike4lifechicago.org/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1779962304",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 63,
+   "sponsored": false,
+   "slug": "arts-cycling-and-fitness-berwyn",
+   "name": "Art's Cycling & Fitness",
+   "summary": "Art's Cycling & Fitness is a bike shop in Berwyn, IL at 6212 West Cermak Road, Berwyn, IL 60402. Phone: +17087880943. Website: https://artscycling.com/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/arts-cycling-and-fitness-berwyn/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/arts-cycling-and-fitness-berwyn.json",
+   "address": {
+    "streetAddress": "6212 West Cermak Road",
+    "addressLocality": "Berwyn",
+    "addressRegion": "IL",
+    "postalCode": "60402",
+    "addressCountry": "US"
+   },
+   "city": "Berwyn",
+   "state": "IL",
+   "zip": "60402",
+   "geo": {
+    "lat": 41.8510428,
+    "lon": -87.7793149
+   },
+   "phone": "+17087880943",
+   "website": "https://artscycling.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2487953979",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 64,
+   "sponsored": false,
+   "slug": "beverly-bike-and-ski-chicago",
+   "name": "Beverly Bike & Ski",
+   "summary": "Beverly Bike & Ski is a bike shop in Chicago, IL at 9121 South Western Avenue, Chicago, IL 60643. Phone: +17732385704. Website: https://www.beverlyallseasons.com/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/beverly-bike-and-ski-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/beverly-bike-and-ski-chicago.json",
+   "address": {
+    "streetAddress": "9121 South Western Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60643",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60643",
+   "geo": {
+    "lat": 41.7275625,
+    "lon": -87.6819566
+   },
+   "phone": "+17732385704",
+   "website": "https://www.beverlyallseasons.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/209626076",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 65,
+   "sponsored": false,
+   "slug": "bff-bikes-chicago",
+   "name": "BFF Bikes",
+   "summary": "BFF Bikes is a bike shop in Chicago, IL at 2113 West Armitage Avenue, Chicago, IL 60647. Phone: +17736665153. Website: https://www.bffbikes.com/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bff-bikes-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bff-bikes-chicago.json",
+   "address": {
+    "streetAddress": "2113 West Armitage Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60647",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60647",
+   "geo": {
+    "lat": 41.9175736,
+    "lon": -87.6806903
+   },
+   "phone": "+17736665153",
+   "website": "https://www.bffbikes.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6800393917",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 66,
+   "sponsored": false,
+   "slug": "bicycles-etc-lisle",
+   "name": "Bicycles Etc.",
+   "summary": "Bicycles Etc. is a bike shop in Lisle, IL at 6460 College Road, Lisle, IL 60532. Phone: +16303692453. Website: https://www.bicyclesetc-il.com/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bicycles-etc-lisle/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bicycles-etc-lisle.json",
+   "address": {
+    "streetAddress": "6460 College Road",
+    "addressLocality": "Lisle",
+    "addressRegion": "IL",
+    "postalCode": "60532",
+    "addressCountry": "US"
+   },
+   "city": "Lisle",
+   "state": "IL",
+   "zip": "60532",
+   "geo": {
+    "lat": 41.7681849,
+    "lon": -88.0995852
+   },
+   "phone": "+16303692453",
+   "website": "https://www.bicyclesetc-il.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2488199601",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 67,
+   "sponsored": false,
+   "slug": "bikefix-oak-park",
+   "name": "Bikefix",
+   "summary": "Bikefix is a bike shop in Oak Park, IL at 310 Lake Street #A, Oak Park, IL 60302. Phone: +17084458760. Website: https://bikefixinc.com/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bikefix-oak-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bikefix-oak-park.json",
+   "address": {
+    "streetAddress": "310 Lake Street #A",
+    "addressLocality": "Oak Park",
+    "addressRegion": "IL",
+    "postalCode": "60302",
+    "addressCountry": "US"
+   },
+   "city": "Oak Park",
+   "state": "IL",
+   "zip": "60302",
+   "geo": {
+    "lat": 41.8884092,
+    "lon": -87.7837623
+   },
+   "phone": "+17084458760",
+   "website": "https://bikefixinc.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2488865374",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 68,
+   "sponsored": false,
+   "slug": "blue-city-cycles-chicago",
+   "name": "Blue City Cycles",
+   "summary": "Blue City Cycles is a bike shop in Chicago, IL at 3201 South Halsted Street, Chicago, IL 60608. Phone: +13122253780. Website: https://bluecitycycles.com/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/blue-city-cycles-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/blue-city-cycles-chicago.json",
+   "address": {
+    "streetAddress": "3201 South Halsted Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60608",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60608",
+   "geo": {
+    "lat": 41.836121,
+    "lon": -87.6460814
+   },
+   "phone": "+13122253780",
+   "website": "https://bluecitycycles.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2489084831",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 69,
+   "sponsored": false,
+   "slug": "bobs-bike-shop-park-ridge",
+   "name": "Bob's Bike Shop",
+   "summary": "Bob's Bike Shop is a bike shop in Park Ridge, IL at 141 Vine Avenue, Park Ridge, IL 60068. Phone: +18478254438. Website: https://www.bobsbikepr.com/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bobs-bike-shop-park-ridge/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bobs-bike-shop-park-ridge.json",
+   "address": {
+    "streetAddress": "141 Vine Avenue",
+    "addressLocality": "Park Ridge",
+    "addressRegion": "IL",
+    "postalCode": "60068",
+    "addressCountry": "US"
+   },
+   "city": "Park Ridge",
+   "state": "IL",
+   "zip": "60068",
+   "geo": {
+    "lat": 42.0089773,
+    "lon": -87.8302876
+   },
+   "phone": "+18478254438",
+   "website": "https://www.bobsbikepr.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2491037444",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 70,
+   "sponsored": false,
+   "slug": "bucephalus-bikes-evanston",
+   "name": "Bucephalus Bikes",
+   "summary": "Bucephalus Bikes is a bike shop in Evanston, IL at 1424 Lake Street, Evanston, IL 60201. Phone: +18478640924. Website: https://bucephalusbikes.com/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bucephalus-bikes-evanston/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bucephalus-bikes-evanston.json",
+   "address": {
+    "streetAddress": "1424 Lake Street",
+    "addressLocality": "Evanston",
+    "addressRegion": "IL",
+    "postalCode": "60201",
+    "addressCountry": "US"
+   },
+   "city": "Evanston",
+   "state": "IL",
+   "zip": "60201",
+   "geo": {
+    "lat": 42.0440286,
+    "lon": -87.6933718
+   },
+   "phone": "+18478640924",
+   "website": "https://bucephalusbikes.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2295219193",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 71,
+   "sponsored": false,
+   "slug": "crank-revolution-bike-shop-hoffman-estates",
+   "name": "Crank Revolution Bike Shop",
+   "summary": "Crank Revolution Bike Shop is a bike shop in Hoffman Estates, IL at 1744 Algonquin Rd, Hoffman Estates, IL 60192. Phone: +18477905115. Website: https://www.crankrevolution.com/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/crank-revolution-bike-shop-hoffman-estates/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/crank-revolution-bike-shop-hoffman-estates.json",
+   "address": {
+    "streetAddress": "1744 Algonquin Rd",
+    "addressLocality": "Hoffman Estates",
+    "addressRegion": "IL",
+    "postalCode": "60192",
+    "addressCountry": "US"
+   },
+   "city": "Hoffman Estates",
+   "state": "IL",
+   "zip": "60192",
+   "geo": {
+    "lat": 42.092891,
+    "lon": -88.1233275
+   },
+   "phone": "+18477905115",
+   "website": "https://www.crankrevolution.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12521819452",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 72,
+   "sponsored": false,
+   "slug": "eriks-skokie",
+   "name": "Erik's",
+   "summary": "Erik's is a bike shop in Skokie, IL at 3801 Oakton Street, Skokie, IL 60076. Phone: +18473245134. Website: https://www.eriksbikeshop.com/store/skokie-il-60076/Skok.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/eriks-skokie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/eriks-skokie.json",
+   "address": {
+    "streetAddress": "3801 Oakton Street",
+    "addressLocality": "Skokie",
+    "addressRegion": "IL",
+    "postalCode": "60076",
+    "addressCountry": "US"
+   },
+   "city": "Skokie",
+   "state": "IL",
+   "zip": "60076",
+   "geo": {
+    "lat": 42.0260537,
+    "lon": -87.724036
+   },
+   "phone": "+18473245134",
+   "website": "https://www.eriksbikeshop.com/store/skokie-il-60076/Skok",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1357054847",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 73,
+   "sponsored": false,
+   "slug": "four-star-family-cyclery-chicago",
+   "name": "Four Star Family Cyclery",
+   "summary": "Four Star Family Cyclery is a bike shop in Chicago, IL at 3101 West Diversey Avenue, Chicago, IL 60647. Phone: +12243585455. Website: https://www.fourstarfamilycyclery.com/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/four-star-family-cyclery-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/four-star-family-cyclery-chicago.json",
+   "address": {
+    "streetAddress": "3101 West Diversey Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60647",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60647",
+   "geo": {
+    "lat": 41.9319256,
+    "lon": -87.7051487
+   },
+   "phone": "+12243585455",
+   "website": "https://www.fourstarfamilycyclery.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7970927485",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 74,
    "sponsored": false,
    "slug": "freewheel-bike-richfield",
    "name": "Freewheel Bike",
@@ -1073,7 +2596,73 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 31,
+   "position": 75,
+   "sponsored": false,
+   "slug": "igor-does-my-bike-chicago",
+   "name": "Igor Does My Bike",
+   "summary": "Igor Does My Bike is a bike shop in Chicago, IL. Phone: +17739682453. Website: https://www.igordoesmybike.com/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/igor-does-my-bike-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/igor-does-my-bike-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.981585,
+    "lon": -87.6602583
+   },
+   "phone": "+17739682453",
+   "website": "https://www.igordoesmybike.com/",
+   "opening_hours": "Tu-Fr 11:00-18:00; Sa-Su 11:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12239804354",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 76,
+   "sponsored": false,
+   "slug": "j-c-lind-bike-co-chicago",
+   "name": "J. C. Lind Bike Co.",
+   "summary": "J. C. Lind Bike Co. is a bike shop in Chicago, IL at 1311 North Wells Street, Chicago, IL 60610. Phone: +13126431670. Website: https://www.jclindbikes.com/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/j-c-lind-bike-co-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/j-c-lind-bike-co-chicago.json",
+   "address": {
+    "streetAddress": "1311 North Wells Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60610",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60610",
+   "geo": {
+    "lat": 41.906099,
+    "lon": -87.6343264
+   },
+   "phone": "+13126431670",
+   "website": "https://www.jclindbikes.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2292882733",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 77,
    "sponsored": false,
    "slug": "lamere-cycles-saint-louis-park",
    "name": "LaMere Cycles",
@@ -1107,7 +2696,41 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 32,
+   "position": 78,
+   "sponsored": false,
+   "slug": "lickbike-com-oak-park",
+   "name": "Lickbike.com",
+   "summary": "Lickbike.com is a bike shop in Oak Park, IL at 310 Lake Street #B, Oak Park, IL 60302. Phone: +17083832130. Website: https://www.lickbike.com/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lickbike-com-oak-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lickbike-com-oak-park.json",
+   "address": {
+    "streetAddress": "310 Lake Street #B",
+    "addressLocality": "Oak Park",
+    "addressRegion": "IL",
+    "postalCode": "60302",
+    "addressCountry": "US"
+   },
+   "city": "Oak Park",
+   "state": "IL",
+   "zip": "60302",
+   "geo": {
+    "lat": 41.8884077,
+    "lon": -87.7836525
+   },
+   "phone": "+17083832130",
+   "website": "https://www.lickbike.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2488865375",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 79,
    "sponsored": false,
    "slug": "now-bikes-and-fitness-arden-hills",
    "name": "Now Bikes & Fitness",
@@ -1141,7 +2764,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 33,
+   "position": 80,
    "sponsored": false,
    "slug": "powerbikes-com-saint-louis-park",
    "name": "Powerbikes.com",
@@ -1175,7 +2798,41 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 34,
+   "position": 81,
+   "sponsored": false,
+   "slug": "samcycle-electric-bikes-palatine",
+   "name": "Samcycle Electric Bikes",
+   "summary": "Samcycle Electric Bikes is a bike shop in Palatine, IL at 144 West Northwest Highway, Palatine, IL 60067. Phone: +18474857014. Website: https://samcycle.online/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/samcycle-electric-bikes-palatine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/samcycle-electric-bikes-palatine.json",
+   "address": {
+    "streetAddress": "144 West Northwest Highway",
+    "addressLocality": "Palatine",
+    "addressRegion": "IL",
+    "postalCode": "60067",
+    "addressCountry": "US"
+   },
+   "city": "Palatine",
+   "state": "IL",
+   "zip": "60067",
+   "geo": {
+    "lat": 42.1234956,
+    "lon": -88.047736
+   },
+   "phone": "+18474857014",
+   "website": "https://samcycle.online/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12527579262",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 82,
    "sponsored": false,
    "slug": "spokes-saint-bonifacius",
    "name": "Spokes",
@@ -1209,7 +2866,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 35,
+   "position": 83,
    "sponsored": false,
    "slug": "the-cargo-bike-shop-saint-paul",
    "name": "The Cargo Bike Shop",
@@ -1243,7 +2900,107 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 36,
+   "position": 84,
+   "sponsored": false,
+   "slug": "wheel-and-sprocket-evanston",
+   "name": "Wheel & Sprocket",
+   "summary": "Wheel & Sprocket is a bike shop in Evanston, IL at 1027 Davis Street, Evanston, IL 60201. Phone: +18478647660. Website: https://www.wheelandsprocket.com/about/evanston-pg330.htm.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wheel-and-sprocket-evanston/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wheel-and-sprocket-evanston.json",
+   "address": {
+    "streetAddress": "1027 Davis Street",
+    "addressLocality": "Evanston",
+    "addressRegion": "IL",
+    "postalCode": "60201",
+    "addressCountry": "US"
+   },
+   "city": "Evanston",
+   "state": "IL",
+   "zip": "60201",
+   "geo": {
+    "lat": 42.0473234,
+    "lon": -87.6862772
+   },
+   "phone": "+18478647660",
+   "website": "https://www.wheelandsprocket.com/about/evanston-pg330.htm",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/168370540",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 85,
+   "sponsored": false,
+   "slug": "mox-multisport-chicago",
+   "name": "Mox Multisport",
+   "summary": "Mox Multisport is a bike shop in Chicago, IL at 648 West Randolph Street, Chicago, IL. Phone: +13124669111. Website: https://www.moxmultisport.com/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mox-multisport-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mox-multisport-chicago.json",
+   "address": {
+    "streetAddress": "648 West Randolph Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8846759,
+    "lon": -87.6447217
+   },
+   "phone": "+13124669111",
+   "website": "https://www.moxmultisport.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 15.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13103819428",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 86,
+   "sponsored": false,
+   "slug": "broadway-bikes-chicago",
+   "name": "Broadway Bikes",
+   "summary": "Broadway Bikes is a bike shop in Chicago, IL at 4653 North Broadway, Chicago, IL 60640. Phone: +17737285212.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/broadway-bikes-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/broadway-bikes-chicago.json",
+   "address": {
+    "streetAddress": "4653 North Broadway",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60640",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60640",
+   "geo": {
+    "lat": 41.9668568,
+    "lon": -87.6581342
+   },
+   "phone": "+17737285212",
+   "opening_hours": "Tu,Th,F,Sa 11AM-6PM; M,W,Su Closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/348168844",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 87,
    "sponsored": false,
    "slug": "camden-cycles-minneapolis",
    "name": "Camden Cycles",
@@ -1277,7 +3034,41 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 37,
+   "position": 88,
+   "sponsored": false,
+   "slug": "cycle-bike-shop-chicago",
+   "name": "Cycle Bike Shop",
+   "summary": "Cycle Bike Shop is a bike shop in Chicago, IL at 2130 South Halsted Street, Chicago, IL 60608. Phone: +13129871080.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cycle-bike-shop-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cycle-bike-shop-chicago.json",
+   "address": {
+    "streetAddress": "2130 South Halsted Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60608",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60608",
+   "geo": {
+    "lat": 41.8532094,
+    "lon": -87.6466928
+   },
+   "phone": "+13129871080",
+   "opening_hours": "Mo-Sa 10:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13042524867",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 89,
    "sponsored": false,
    "slug": "eriks-bike-shop-eagan",
    "name": "Erik's Bike Shop",
@@ -1311,7 +3102,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 38,
+   "position": 90,
    "sponsored": false,
    "slug": "grease-pit-bike-shop-minneapolis",
    "name": "Grease Pit Bike Shop",
@@ -1345,7 +3136,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 39,
+   "position": 91,
    "sponsored": false,
    "slug": "jonny-rock-bikes-bloomington",
    "name": "Jonny Rock Bikes",
@@ -1379,7 +3170,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 40,
+   "position": 92,
    "sponsored": false,
    "slug": "linden-hills-bike-shop-minneapolis",
    "name": "Linden Hills Bike Shop",
@@ -1413,7 +3204,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 41,
+   "position": 93,
    "sponsored": false,
    "slug": "oneten-cycles-mendota-heights",
    "name": "OneTen Cycles",
@@ -1447,7 +3238,273 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 42,
+   "position": 94,
+   "sponsored": false,
+   "slug": "village-cyclesport-barrington",
+   "name": "Village CycleSport",
+   "summary": "Village CycleSport is a bike shop in Barrington, IL at 203 West Northwest Highway, Barrington, IL 60010. Website: https://www.villagecyclesport.com/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/village-cyclesport-barrington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/village-cyclesport-barrington.json",
+   "address": {
+    "streetAddress": "203 West Northwest Highway",
+    "addressLocality": "Barrington",
+    "addressRegion": "IL",
+    "postalCode": "60010",
+    "addressCountry": "US"
+   },
+   "city": "Barrington",
+   "state": "IL",
+   "zip": "60010",
+   "geo": {
+    "lat": 42.1611284,
+    "lon": -88.1386737
+   },
+   "website": "https://www.villagecyclesport.com/",
+   "opening_hours": "Mo-Th 11:00-19:00; Fr 11:00-18:00; Sa 10:00-17:00; Su 11:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2179067380",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 95,
+   "sponsored": false,
+   "slug": "village-cyclesport-prospect-heights",
+   "name": "Village CycleSport",
+   "summary": "Village CycleSport is a bike shop in Prospect Heights, IL at 1326 N. Rand Rd., Prospect Heights, IL 60004. Website: https://www.villagecyclesport.com/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/village-cyclesport-prospect-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/village-cyclesport-prospect-heights.json",
+   "address": {
+    "streetAddress": "1326 N. Rand Rd.",
+    "addressLocality": "Prospect Heights",
+    "addressRegion": "IL",
+    "postalCode": "60004",
+    "addressCountry": "US"
+   },
+   "city": "Prospect Heights",
+   "state": "IL",
+   "zip": "60004",
+   "geo": {
+    "lat": 42.1004759,
+    "lon": -87.96259
+   },
+   "website": "https://www.villagecyclesport.com/",
+   "opening_hours": "Mo-Fr 10:00-20:00; Sa 10:00-17:00; Su 11:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2179060518",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 96,
+   "sponsored": false,
+   "slug": "bicycle-clinic-chicago",
+   "name": "Bicycle Clinic",
+   "summary": "Bicycle Clinic is a bike shop in Chicago, IL at 2221 East 71st Street, Chicago, IL 60649. Phone: +17739552028.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bicycle-clinic-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bicycle-clinic-chicago.json",
+   "address": {
+    "streetAddress": "2221 East 71st Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60649",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60649",
+   "geo": {
+    "lat": 41.7660344,
+    "lon": -87.5707035
+   },
+   "phone": "+17739552028",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2488846127",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 97,
+   "sponsored": false,
+   "slug": "bike-doctors-hazel-crest",
+   "name": "Bike Doctors",
+   "summary": "Bike Doctors is a bike shop in Hazel Crest, IL at 17306 Kedzie Avenue, Hazel Crest, IL 60429. Phone: +17083352755.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bike-doctors-hazel-crest/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bike-doctors-hazel-crest.json",
+   "address": {
+    "streetAddress": "17306 Kedzie Avenue",
+    "addressLocality": "Hazel Crest",
+    "addressRegion": "IL",
+    "postalCode": "60429",
+    "addressCountry": "US"
+   },
+   "city": "Hazel Crest",
+   "state": "IL",
+   "zip": "60429",
+   "geo": {
+    "lat": 41.5745931,
+    "lon": -87.695076
+   },
+   "phone": "+17083352755",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2488855154",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 98,
+   "sponsored": false,
+   "slug": "chicagoland-bicycle-chicago",
+   "name": "Chicagoland Bicycle",
+   "summary": "Chicagoland Bicycle is a bike shop in Chicago, IL at 10355 South Kedzie Avenue, Chicago, IL 60655. Website: https://www.chicagolandbicycles.com/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chicagoland-bicycle-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chicagoland-bicycle-chicago.json",
+   "address": {
+    "streetAddress": "10355 South Kedzie Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60655",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60655",
+   "geo": {
+    "lat": 41.70452,
+    "lon": -87.7009254
+   },
+   "website": "https://www.chicagolandbicycles.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/165052990",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 99,
+   "sponsored": false,
+   "slug": "ciclo-urbano-chicago",
+   "name": "Ciclo Urbano",
+   "summary": "Ciclo Urbano is a bike shop in Chicago, IL at 2459 West Division Street, Chicago, IL 60622. Website: https://ciclourbanochicago.com/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ciclo-urbano-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ciclo-urbano-chicago.json",
+   "address": {
+    "streetAddress": "2459 West Division Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60622",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60622",
+   "geo": {
+    "lat": 41.9028324,
+    "lon": -87.6893216
+   },
+   "website": "https://ciclourbanochicago.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1585399965",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 100,
+   "sponsored": false,
+   "slug": "cog-cycles-chicago",
+   "name": "Cog Cycles",
+   "summary": "Cog Cycles is a bike shop in Chicago, IL at 3217 West Bryn Mawr Avenue, Chicago, IL 60625. Website: https://www.cogcycleschicago.com/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cog-cycles-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cog-cycles-chicago.json",
+   "address": {
+    "streetAddress": "3217 West Bryn Mawr Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60625",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60625",
+   "geo": {
+    "lat": 41.9829017,
+    "lon": -87.7096085
+   },
+   "website": "https://www.cogcycleschicago.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9262640499",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 101,
+   "sponsored": false,
+   "slug": "compleat-cyclist-dolton",
+   "name": "Compleat Cyclist",
+   "summary": "Compleat Cyclist is a bike shop in Dolton, IL at 703 East Sibley Boulevard, Dolton, IL 60419. Website: https://www.compleatcyclist.com/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/compleat-cyclist-dolton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/compleat-cyclist-dolton.json",
+   "address": {
+    "streetAddress": "703 East Sibley Boulevard",
+    "addressLocality": "Dolton",
+    "addressRegion": "IL",
+    "postalCode": "60419",
+    "addressCountry": "US"
+   },
+   "city": "Dolton",
+   "state": "IL",
+   "zip": "60419",
+   "geo": {
+    "lat": 41.6222843,
+    "lon": -87.6023632
+   },
+   "website": "https://www.compleatcyclist.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1305984757",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 102,
    "sponsored": false,
    "slug": "eriks-bike-board-ski-maple-grove",
    "name": "Erik's Bike Board Ski",
@@ -1478,7 +3535,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 43,
+   "position": 103,
    "sponsored": false,
    "slug": "gateway-cycle-oakdale",
    "name": "Gateway Cycle",
@@ -1511,7 +3568,172 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 44,
+   "position": 104,
+   "sponsored": false,
+   "slug": "gears2you-brookfield",
+   "name": "Gears2You",
+   "summary": "Gears2You is a bike shop in Brookfield, IL at 9219 Broadway Avenue, Brookfield, IL 60513. Website: https://www.gears2you.com/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gears2you-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gears2you-brookfield.json",
+   "address": {
+    "streetAddress": "9219 Broadway Avenue",
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "postalCode": "60513",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "zip": "60513",
+   "geo": {
+    "lat": 41.8267637,
+    "lon": -87.8521962
+   },
+   "website": "https://www.gears2you.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12633701672",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 105,
+   "sponsored": false,
+   "slug": "gears2you-riverside",
+   "name": "Gears2You",
+   "summary": "Gears2You is a bike shop in Riverside, IL at 90 Bloomingbank Road, Riverside, IL 60546. Website: https://www.gears2you.com/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gears2you-riverside/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gears2you-riverside.json",
+   "address": {
+    "streetAddress": "90 Bloomingbank Road",
+    "addressLocality": "Riverside",
+    "addressRegion": "IL",
+    "postalCode": "60546",
+    "addressCountry": "US"
+   },
+   "city": "Riverside",
+   "state": "IL",
+   "zip": "60546",
+   "geo": {
+    "lat": 41.8272161,
+    "lon": -87.8198852
+   },
+   "website": "https://www.gears2you.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12633701673",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 106,
+   "sponsored": false,
+   "slug": "goodspeed-cycles-homewood",
+   "name": "GoodSpeed Cycles",
+   "summary": "GoodSpeed Cycles is a bike shop in Homewood, IL at 2125 183rd Street, Homewood, IL 60430. Website: https://www.goodspeedcycles.com/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/goodspeed-cycles-homewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/goodspeed-cycles-homewood.json",
+   "address": {
+    "streetAddress": "2125 183rd Street",
+    "addressLocality": "Homewood",
+    "addressRegion": "IL",
+    "postalCode": "60430",
+    "addressCountry": "US"
+   },
+   "city": "Homewood",
+   "state": "IL",
+   "zip": "60430",
+   "geo": {
+    "lat": 41.557088,
+    "lon": -87.6687092
+   },
+   "website": "https://www.goodspeedcycles.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13252667071",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 107,
+   "sponsored": false,
+   "slug": "johnny-sprockets-chicago",
+   "name": "Johnny Sprockets",
+   "summary": "Johnny Sprockets is a bike shop in Chicago, IL at 3140 North Broadway, Chicago, IL 60657. Website: https://www.johnnysprockets.com/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/johnny-sprockets-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/johnny-sprockets-chicago.json",
+   "address": {
+    "streetAddress": "3140 North Broadway",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60657",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60657",
+   "geo": {
+    "lat": 41.9388826,
+    "lon": -87.644646
+   },
+   "website": "https://www.johnnysprockets.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2204092589",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 108,
+   "sponsored": false,
+   "slug": "never-ending-cycles-streamwood",
+   "name": "Never Ending Cycles",
+   "summary": "Never Ending Cycles is a bike shop in Streamwood, IL at 1060 East Schaumburg Road, Streamwood, IL 60107. Website: https://www.neverendingcyclesshop.com/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/never-ending-cycles-streamwood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/never-ending-cycles-streamwood.json",
+   "address": {
+    "streetAddress": "1060 East Schaumburg Road",
+    "addressLocality": "Streamwood",
+    "addressRegion": "IL",
+    "postalCode": "60107",
+    "addressCountry": "US"
+   },
+   "city": "Streamwood",
+   "state": "IL",
+   "zip": "60107",
+   "geo": {
+    "lat": 42.0309657,
+    "lon": -88.1545742
+   },
+   "website": "https://www.neverendingcyclesshop.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7727136515",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 109,
    "sponsored": false,
    "slug": "pioneer-cycle-blaine",
    "name": "Pioneer Cycle",
@@ -1544,7 +3766,301 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 45,
+   "position": 110,
+   "sponsored": false,
+   "slug": "vern-and-sonny-s-chicago",
+   "name": "Vern and Sonny’s",
+   "summary": "Vern and Sonny’s is a bike shop in Chicago, IL at 3031 West Armitage Avenue, Chicago, IL 60647. Website: https://vernandsonny.com/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/vern-and-sonny-s-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/vern-and-sonny-s-chicago.json",
+   "address": {
+    "streetAddress": "3031 West Armitage Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60647",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60647",
+   "geo": {
+    "lat": 41.917305,
+    "lon": -87.703584
+   },
+   "website": "https://vernandsonny.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2400021095",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 111,
+   "sponsored": false,
+   "slug": "wheel-and-sprocket-oak-park",
+   "name": "Wheel & Sprocket",
+   "summary": "Wheel & Sprocket is a bike shop in Oak Park, IL at 1118 Westgate Street, Oak Park, IL 60301. Website: https://wheelandsprocket.com/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wheel-and-sprocket-oak-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wheel-and-sprocket-oak-park.json",
+   "address": {
+    "streetAddress": "1118 Westgate Street",
+    "addressLocality": "Oak Park",
+    "addressRegion": "IL",
+    "postalCode": "60301",
+    "addressCountry": "US"
+   },
+   "city": "Oak Park",
+   "state": "IL",
+   "zip": "60301",
+   "geo": {
+    "lat": 41.8881058,
+    "lon": -87.8031218
+   },
+   "website": "https://wheelandsprocket.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/477411496",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 112,
+   "sponsored": false,
+   "slug": "wilmette-bicycle-and-sport-shop-wilmette",
+   "name": "Wilmette Bicycle & Sport Shop",
+   "summary": "Wilmette Bicycle & Sport Shop is a bike shop in Wilmette, IL at 605 Green Bay Road, Wilmette, IL 60091. Website: https://www.wilmettesportshop.com/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wilmette-bicycle-and-sport-shop-wilmette/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wilmette-bicycle-and-sport-shop-wilmette.json",
+   "address": {
+    "streetAddress": "605 Green Bay Road",
+    "addressLocality": "Wilmette",
+    "addressRegion": "IL",
+    "postalCode": "60091",
+    "addressCountry": "US"
+   },
+   "city": "Wilmette",
+   "state": "IL",
+   "zip": "60091",
+   "geo": {
+    "lat": 42.0754271,
+    "lon": -87.7084818
+   },
+   "website": "https://www.wilmettesportshop.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/423711256",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 113,
+   "sponsored": false,
+   "slug": "ymen-bike-box-chicago",
+   "name": "YMEN Bike Box",
+   "summary": "YMEN Bike Box is a bike shop in Chicago, IL at 1300 South Pulaski Road, Chicago, IL 60624. Website: https://www.ymenchicago.com/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ymen-bike-box-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ymen-bike-box-chicago.json",
+   "address": {
+    "streetAddress": "1300 South Pulaski Road",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60624",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60624",
+   "geo": {
+    "lat": 41.8641751,
+    "lon": -87.7254482
+   },
+   "website": "https://www.ymenchicago.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1011932743",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 114,
+   "sponsored": false,
+   "slug": "international-bike-shop-chicago",
+   "name": "International Bike Shop",
+   "summary": "International Bike Shop is a bike shop in Chicago, IL at 3821 West North Avenue, Chicago, IL 60647.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/international-bike-shop-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/international-bike-shop-chicago.json",
+   "address": {
+    "streetAddress": "3821 West North Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60647",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60647",
+   "geo": {
+    "lat": 41.9097514,
+    "lon": -87.7225466
+   },
+   "opening_hours": "Mo-Fr 12:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7895372532",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 115,
+   "sponsored": false,
+   "slug": "specialized-chicago-n12156678415",
+   "name": "Specialized",
+   "summary": "Specialized is a bike shop in Chicago, IL at 2104 North Halsted Street, Chicago, IL 60614.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/specialized-chicago-n12156678415/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/specialized-chicago-n12156678415.json",
+   "address": {
+    "streetAddress": "2104 North Halsted Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60614",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60614",
+   "geo": {
+    "lat": 41.9202163,
+    "lon": -87.6487381
+   },
+   "opening_hours": "Mo-Su 10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12156678415",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 116,
+   "sponsored": false,
+   "slug": "terrys-bike-shop-countryside",
+   "name": "Terry's Bike Shop",
+   "summary": "Terry's Bike Shop is a bike shop in Countryside, IL at 9828 West 55th Street, Countryside, IL 60525.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/terrys-bike-shop-countryside/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/terrys-bike-shop-countryside.json",
+   "address": {
+    "streetAddress": "9828 West 55th Street",
+    "addressLocality": "Countryside",
+    "addressRegion": "IL",
+    "postalCode": "60525",
+    "addressCountry": "US"
+   },
+   "city": "Countryside",
+   "state": "IL",
+   "zip": "60525",
+   "geo": {
+    "lat": 41.7908795,
+    "lon": -87.8658662
+   },
+   "opening_hours": "Mo-Fr 08:00-18:00; Sa 10:00-17:00; Su 10:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1055483177",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 117,
+   "sponsored": false,
+   "slug": "trek-chicago",
+   "name": "Trek",
+   "summary": "Trek is a bike shop in Chicago, IL at 1647 North Milwaukee Avenue, Chicago, IL 60647.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/trek-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/trek-chicago.json",
+   "address": {
+    "streetAddress": "1647 North Milwaukee Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60647",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60647",
+   "geo": {
+    "lat": 41.9115952,
+    "lon": -87.6790597
+   },
+   "opening_hours": "Mo-Fr 11:00-20:00; Sa 10:00-18:00; Su 11:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5623136881",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 118,
+   "sponsored": false,
+   "slug": "ds-bicycles-chicago",
+   "name": "DS Bicycles",
+   "summary": "DS Bicycles is a bike shop in Chicago, IL. Phone: +13129985211.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ds-bicycles-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ds-bicycles-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9577967,
+    "lon": -87.7248091
+   },
+   "phone": "+13129985211",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11926913670",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 119,
    "sponsored": false,
    "slug": "bicycle-bills-west-saint-paul",
    "name": "Bicycle Bill's",
@@ -1576,7 +4092,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 46,
+   "position": 120,
    "sponsored": false,
    "slug": "bike-king-inver-grove-heights",
    "name": "Bike King",
@@ -1608,7 +4124,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 47,
+   "position": 121,
    "sponsored": false,
    "slug": "cars-bike-shop-mounds-view",
    "name": "Cars Bike Shop",
@@ -1640,7 +4156,103 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 48,
+   "position": 122,
+   "sponsored": false,
+   "slug": "edgebrook-cycle-chicago",
+   "name": "Edgebrook Cycle",
+   "summary": "Edgebrook Cycle is a bike shop in Chicago, IL at 6450 North Central Avenue, Chicago, IL 60646.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edgebrook-cycle-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edgebrook-cycle-chicago.json",
+   "address": {
+    "streetAddress": "6450 North Central Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60646",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60646",
+   "geo": {
+    "lat": 41.9988654,
+    "lon": -87.7634036
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/269691663",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 123,
+   "sponsored": false,
+   "slug": "element-multisport-chicago",
+   "name": "Element Multisport",
+   "summary": "Element Multisport is a bike shop in Chicago, IL at 2754 North Clybourn Avenue #B-5, Chicago, IL 60614.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/element-multisport-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/element-multisport-chicago.json",
+   "address": {
+    "streetAddress": "2754 North Clybourn Avenue #B-5",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60614",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60614",
+   "geo": {
+    "lat": 41.9314193,
+    "lon": -87.6774434
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1319742219",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 124,
+   "sponsored": false,
+   "slug": "element-multisport-oak-park",
+   "name": "Element Multisport",
+   "summary": "Element Multisport is a bike shop in Oak Park, IL at 1101 Chicago Avenue, Oak Park, IL 60302.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/element-multisport-oak-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/element-multisport-oak-park.json",
+   "address": {
+    "streetAddress": "1101 Chicago Avenue",
+    "addressLocality": "Oak Park",
+    "addressRegion": "IL",
+    "postalCode": "60302",
+    "addressCountry": "US"
+   },
+   "city": "Oak Park",
+   "state": "IL",
+   "zip": "60302",
+   "geo": {
+    "lat": 41.8940871,
+    "lon": -87.8030338
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2500269462",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 125,
    "sponsored": false,
    "slug": "eriks-bike-shop-roseville",
    "name": "Erik's Bike Shop",
@@ -1672,7 +4284,327 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 49,
+   "position": 126,
+   "sponsored": false,
+   "slug": "garys-cycle-shop-chicago",
+   "name": "Gary's Cycle Shop",
+   "summary": "Gary's Cycle Shop is a bike shop in Chicago, IL at 6317 North Clark Street, Chicago, IL 60660.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/garys-cycle-shop-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/garys-cycle-shop-chicago.json",
+   "address": {
+    "streetAddress": "6317 North Clark Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60660",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60660",
+   "geo": {
+    "lat": 41.996984,
+    "lon": -87.6699548
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/209952810",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 127,
+   "sponsored": false,
+   "slug": "george-garner-cyclery-lake-zurich",
+   "name": "George Garner Cyclery",
+   "summary": "George Garner Cyclery is a bike shop in Lake Zurich, IL at Ela Road, Lake Zurich, IL 60047.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/george-garner-cyclery-lake-zurich/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/george-garner-cyclery-lake-zurich.json",
+   "address": {
+    "streetAddress": "Ela Road",
+    "addressLocality": "Lake Zurich",
+    "addressRegion": "IL",
+    "postalCode": "60047",
+    "addressCountry": "US"
+   },
+   "city": "Lake Zurich",
+   "state": "IL",
+   "zip": "60047",
+   "geo": {
+    "lat": 42.1884795,
+    "lon": -88.102059
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/447981825",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 128,
+   "sponsored": false,
+   "slug": "george-garner-cyclery-northbrook",
+   "name": "George Garner Cyclery",
+   "summary": "George Garner Cyclery is a bike shop in Northbrook, IL at 1111 Waukegan Road, Northbrook, IL 60062.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/george-garner-cyclery-northbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/george-garner-cyclery-northbrook.json",
+   "address": {
+    "streetAddress": "1111 Waukegan Road",
+    "addressLocality": "Northbrook",
+    "addressRegion": "IL",
+    "postalCode": "60062",
+    "addressCountry": "US"
+   },
+   "city": "Northbrook",
+   "state": "IL",
+   "zip": "60062",
+   "geo": {
+    "lat": 42.1325674,
+    "lon": -87.8202078
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/242556159",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 129,
+   "sponsored": false,
+   "slug": "johns-hardware-and-bicycle-shop-chicago",
+   "name": "John's Hardware & Bicycle Shop",
+   "summary": "John's Hardware & Bicycle Shop is a bike shop in Chicago, IL at 7350 South Halsted Street, Chicago, IL 60621.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/johns-hardware-and-bicycle-shop-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/johns-hardware-and-bicycle-shop-chicago.json",
+   "address": {
+    "streetAddress": "7350 South Halsted Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60621",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60621",
+   "geo": {
+    "lat": 41.7601032,
+    "lon": -87.6444728
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7895372534",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 130,
+   "sponsored": false,
+   "slug": "johnny-sprockets-chicago-n13670093524",
+   "name": "Johnny Sprockets",
+   "summary": "Johnny Sprockets is a bike shop in Chicago, IL at 5434 North Clark Street, Chicago, IL 60640.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/johnny-sprockets-chicago-n13670093524/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/johnny-sprockets-chicago-n13670093524.json",
+   "address": {
+    "streetAddress": "5434 North Clark Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60640",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60640",
+   "geo": {
+    "lat": 41.9808816,
+    "lon": -87.6685291
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13670093524",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 131,
+   "sponsored": false,
+   "slug": "mcdonalds-cycle-center-chicago",
+   "name": "McDonald's Cycle Center",
+   "summary": "McDonald's Cycle Center is a bike shop in Chicago, IL at 239 East Randolph Street, Chicago, IL 60601.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mcdonalds-cycle-center-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mcdonalds-cycle-center-chicago.json",
+   "address": {
+    "streetAddress": "239 East Randolph Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60601",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60601",
+   "geo": {
+    "lat": 41.883945,
+    "lon": -87.6211147
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/234847842",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 132,
+   "sponsored": false,
+   "slug": "oscar-wastyn-cycles-chicago",
+   "name": "Oscar Wastyn Cycles",
+   "summary": "Oscar Wastyn Cycles is a bike shop in Chicago, IL at 2412 North Talman Avenue, Chicago, IL 60647.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/oscar-wastyn-cycles-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/oscar-wastyn-cycles-chicago.json",
+   "address": {
+    "streetAddress": "2412 North Talman Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60647",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60647",
+   "geo": {
+    "lat": 41.9251688,
+    "lon": -87.6941025
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/relation/2814726",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 133,
+   "sponsored": false,
+   "slug": "park-schwinn-cyclery-evergreen-park",
+   "name": "Park Schwinn Cyclery",
+   "summary": "Park Schwinn Cyclery is a bike shop in Evergreen Park, IL at 3333 West 95th Street, Evergreen Park, IL 60805.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/park-schwinn-cyclery-evergreen-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/park-schwinn-cyclery-evergreen-park.json",
+   "address": {
+    "streetAddress": "3333 West 95th Street",
+    "addressLocality": "Evergreen Park",
+    "addressRegion": "IL",
+    "postalCode": "60805",
+    "addressCountry": "US"
+   },
+   "city": "Evergreen Park",
+   "state": "IL",
+   "zip": "60805",
+   "geo": {
+    "lat": 41.7204678,
+    "lon": -87.7056793
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7786776300",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 134,
+   "sponsored": false,
+   "slug": "pilsen-bike-shop-chicago",
+   "name": "Pilsen Bike Shop",
+   "summary": "Pilsen Bike Shop is a bike shop in Chicago, IL at 3541 South Archer Avenue, Chicago, IL 60609.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pilsen-bike-shop-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pilsen-bike-shop-chicago.json",
+   "address": {
+    "streetAddress": "3541 South Archer Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60609",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60609",
+   "geo": {
+    "lat": 41.8295681,
+    "lon": -87.6787211
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7895372533",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 135,
+   "sponsored": false,
+   "slug": "prairie-path-cycles-winfield",
+   "name": "Prairie Path Cycles",
+   "summary": "Prairie Path Cycles is a bike shop in Winfield, IL at 27W181 Geneva #Road, Winfield, IL 60190.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/prairie-path-cycles-winfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/prairie-path-cycles-winfield.json",
+   "address": {
+    "streetAddress": "27W181 Geneva #Road",
+    "addressLocality": "Winfield",
+    "addressRegion": "IL",
+    "postalCode": "60190",
+    "addressCountry": "US"
+   },
+   "city": "Winfield",
+   "state": "IL",
+   "zip": "60190",
+   "geo": {
+    "lat": 41.8867398,
+    "lon": -88.1511747
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1790782092",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 136,
    "sponsored": false,
    "slug": "ramsey-bicycle-ramsey",
    "name": "Ramsey Bicycle",
@@ -1704,7 +4636,563 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 50,
+   "position": 137,
+   "sponsored": false,
+   "slug": "richards-bicycles-palos-heights",
+   "name": "Richard's Bicycles",
+   "summary": "Richard's Bicycles is a bike shop in Palos Heights, IL at 11933 Harlem Avenue, Palos Heights, IL 60463.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/richards-bicycles-palos-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/richards-bicycles-palos-heights.json",
+   "address": {
+    "streetAddress": "11933 Harlem Avenue",
+    "addressLocality": "Palos Heights",
+    "addressRegion": "IL",
+    "postalCode": "60463",
+    "addressCountry": "US"
+   },
+   "city": "Palos Heights",
+   "state": "IL",
+   "zip": "60463",
+   "geo": {
+    "lat": 41.6743903,
+    "lon": -87.7964042
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/242559322",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 138,
+   "sponsored": false,
+   "slug": "roberts-cycle-chicago",
+   "name": "Robert's Cycle",
+   "summary": "Robert's Cycle is a bike shop in Chicago, IL at 7054 North Clark Street, Chicago, IL 60626.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/roberts-cycle-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/roberts-cycle-chicago.json",
+   "address": {
+    "streetAddress": "7054 North Clark Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60626",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60626",
+   "geo": {
+    "lat": 42.0105046,
+    "lon": -87.6744677
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9345278791",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 139,
+   "sponsored": false,
+   "slug": "sanchez-bike-repair-chicago",
+   "name": "Sanchez Bike Repair",
+   "summary": "Sanchez Bike Repair is a bike shop in Chicago, IL at 3654 West 26th Street, Chicago, IL 60623.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sanchez-bike-repair-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sanchez-bike-repair-chicago.json",
+   "address": {
+    "streetAddress": "3654 West 26th Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60623",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60623",
+   "geo": {
+    "lat": 41.844503,
+    "lon": -87.7164983
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7895372531",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 140,
+   "sponsored": false,
+   "slug": "stellar-cycleworks-chicago",
+   "name": "Stellar Cycleworks",
+   "summary": "Stellar Cycleworks is a bike shop in Chicago, IL.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/stellar-cycleworks-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/stellar-cycleworks-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9105231,
+    "lon": -87.6832194
+   },
+   "opening_hours": "Mo,We-Fr 10:00-17:00; Sa 11:00-17:00; Tu 10:00-16:45",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10863671452",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 141,
+   "sponsored": false,
+   "slug": "the-bike-lane-chicago",
+   "name": "The Bike Lane",
+   "summary": "The Bike Lane is a bike shop in Chicago, IL at 2130 North Milwaukee Avenue, Chicago, IL 60647.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-bike-lane-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-bike-lane-chicago.json",
+   "address": {
+    "streetAddress": "2130 North Milwaukee Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60647",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60647",
+   "geo": {
+    "lat": 41.9197528,
+    "lon": -87.6926749
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/209404205",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 142,
+   "sponsored": false,
+   "slug": "the-recyclery-collective-chicago",
+   "name": "The Recyclery Collective",
+   "summary": "The Recyclery Collective is a bike shop in Chicago, IL at 7628 North Paulina Street, Chicago, IL 60626.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-recyclery-collective-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-recyclery-collective-chicago.json",
+   "address": {
+    "streetAddress": "7628 North Paulina Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60626",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60626",
+   "geo": {
+    "lat": 42.0203219,
+    "lon": -87.6733688
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/209959035",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 143,
+   "sponsored": false,
+   "slug": "trek-downers-grove",
+   "name": "Trek",
+   "summary": "Trek is a bike shop in Downers Grove, IL at 639 Ogden Avenue, Downers Grove, IL 60515.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/trek-downers-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/trek-downers-grove.json",
+   "address": {
+    "streetAddress": "639 Ogden Avenue",
+    "addressLocality": "Downers Grove",
+    "addressRegion": "IL",
+    "postalCode": "60515",
+    "addressCountry": "US"
+   },
+   "city": "Downers Grove",
+   "state": "IL",
+   "zip": "60515",
+   "geo": {
+    "lat": 41.8090474,
+    "lon": -88.0020177
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10295587353",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 144,
+   "sponsored": false,
+   "slug": "trek-highland-park",
+   "name": "Trek",
+   "summary": "Trek is a bike shop in Highland Park, IL at 1925 Skokie Valley Road, Highland Park, IL 60035.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/trek-highland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/trek-highland-park.json",
+   "address": {
+    "streetAddress": "1925 Skokie Valley Road",
+    "addressLocality": "Highland Park",
+    "addressRegion": "IL",
+    "postalCode": "60035",
+    "addressCountry": "US"
+   },
+   "city": "Highland Park",
+   "state": "IL",
+   "zip": "60035",
+   "geo": {
+    "lat": 42.1870848,
+    "lon": -87.8229368
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5752457992",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 145,
+   "sponsored": false,
+   "slug": "turin-bicycle-chicago",
+   "name": "Turin Bicycle",
+   "summary": "Turin Bicycle is a bike shop in Chicago, IL.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/turin-bicycle-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/turin-bicycle-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9673233,
+    "lon": -87.6793313
+   },
+   "opening_hours": "Mo-Fr 12:00-19:00; Sa 10:00-18:00; Su 12:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2396624493",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 146,
+   "sponsored": false,
+   "slug": "west-town-bikes-chicago",
+   "name": "West Town Bikes",
+   "summary": "West Town Bikes is a bike shop in Chicago, IL at 1147 North Campbell Avenue, Chicago, IL 60622.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/west-town-bikes-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/west-town-bikes-chicago.json",
+   "address": {
+    "streetAddress": "1147 North Campbell Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60622",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60622",
+   "geo": {
+    "lat": 41.9026772,
+    "lon": -87.6893228
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2404356794",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 147,
+   "sponsored": false,
+   "slug": "wheel-and-sprocket-park-ridge",
+   "name": "Wheel & Sprocket",
+   "summary": "Wheel & Sprocket is a bike shop in Park Ridge, IL at 672 North Northwest Highway, Park Ridge, IL 60068.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wheel-and-sprocket-park-ridge/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wheel-and-sprocket-park-ridge.json",
+   "address": {
+    "streetAddress": "672 North Northwest Highway",
+    "addressLocality": "Park Ridge",
+    "addressRegion": "IL",
+    "postalCode": "60068",
+    "addressCountry": "US"
+   },
+   "city": "Park Ridge",
+   "state": "IL",
+   "zip": "60068",
+   "geo": {
+    "lat": 42.0189329,
+    "lon": -87.8437824
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12784676394",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 148,
+   "sponsored": false,
+   "slug": "working-bikes-cooperative-chicago",
+   "name": "Working Bikes Cooperative",
+   "summary": "Working Bikes Cooperative is a bike shop in Chicago, IL at 2434 South Western Avenue, Chicago, IL 60608.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/working-bikes-cooperative-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/working-bikes-cooperative-chicago.json",
+   "address": {
+    "streetAddress": "2434 South Western Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60608",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60608",
+   "geo": {
+    "lat": 41.8472263,
+    "lon": -87.6859674
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/165243070",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 149,
+   "sponsored": false,
+   "slug": "carmens-bicycles-chicago",
+   "name": "Carmen's Bicycles",
+   "summary": "Carmen's Bicycles is a bike shop in Chicago, IL at 6519 West Archer Avenue, Chicago, IL.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/carmens-bicycles-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/carmens-bicycles-chicago.json",
+   "address": {
+    "streetAddress": "6519 West Archer Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.792034,
+    "lon": -87.7850761
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/162855828",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 150,
+   "sponsored": false,
+   "slug": "irvs-bike-shop-chicago",
+   "name": "Irv's Bike Shop",
+   "summary": "Irv's Bike Shop is a bike shop in Chicago, IL at 1725 South Racine Avenue, Chicago, IL.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/irvs-bike-shop-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/irvs-bike-shop-chicago.json",
+   "address": {
+    "streetAddress": "1725 South Racine Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8581082,
+    "lon": -87.656188
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/31917332",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 151,
+   "sponsored": false,
+   "slug": "3rd-coast-cycles-chicago",
+   "name": "3rd Coast Cycles",
+   "summary": "3rd Coast Cycles is a bike shop in Chicago, IL.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/3rd-coast-cycles-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/3rd-coast-cycles-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.884897,
+    "lon": -87.6132699
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11860347070",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 152,
+   "sponsored": false,
+   "slug": "big-city-bikes-chicago",
+   "name": "Big City Bikes",
+   "summary": "Big City Bikes is a bike shop in Chicago, IL.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/big-city-bikes-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/big-city-bikes-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9259242,
+    "lon": -87.6678849
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12513186763",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 153,
+   "sponsored": false,
+   "slug": "bike-rentals-chicago",
+   "name": "Bike Rentals",
+   "summary": "Bike Rentals is a bike shop in Chicago, IL.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bike-rentals-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bike-rentals-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9664488,
+    "lon": -87.6403825
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/133995045",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 154,
+   "sponsored": false,
+   "slug": "bike-rentals-chicago-w210392326",
+   "name": "Bike Rentals",
+   "summary": "Bike Rentals is a bike shop in Chicago, IL.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bike-rentals-chicago-w210392326/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bike-rentals-chicago-w210392326.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9769677,
+    "lon": -87.6475574
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/210392326",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 155,
    "sponsored": false,
    "slug": "boco-bikes-chanhassen",
    "name": "Boco Bikes",
@@ -1733,7 +5221,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 51,
+   "position": 156,
    "sponsored": false,
    "slug": "bokoo-bikes-minnetonka",
    "name": "Bokoo Bikes",
@@ -1762,7 +5250,65 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 52,
+   "position": 157,
+   "sponsored": false,
+   "slug": "cyclebar-wheaton",
+   "name": "Cyclebar",
+   "summary": "Cyclebar is a bike shop in Wheaton, IL.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cyclebar-wheaton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cyclebar-wheaton.json",
+   "address": {
+    "addressLocality": "Wheaton",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Wheaton",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8314078,
+    "lon": -88.1016523
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11102101913",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 158,
+   "sponsored": false,
+   "slug": "dans-bike-shop-berwyn",
+   "name": "Dan's Bike Shop",
+   "summary": "Dan's Bike Shop is a bike shop in Berwyn, IL.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dans-bike-shop-berwyn/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dans-bike-shop-berwyn.json",
+   "address": {
+    "addressLocality": "Berwyn",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Berwyn",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8650028,
+    "lon": -87.7921828
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2499067539",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 159,
    "sponsored": false,
    "slug": "eriks-bike-vadnais-heights",
    "name": "Erik's Bike",
@@ -1791,7 +5337,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 53,
+   "position": 160,
    "sponsored": false,
    "slug": "eriks-bikes-eden-prairie",
    "name": "Erik's Bikes",
@@ -1820,7 +5366,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 54,
+   "position": 161,
    "sponsored": false,
    "slug": "freewheel-eden-prairie",
    "name": "Freewheel",
@@ -1849,7 +5395,36 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 55,
+   "position": 162,
+   "sponsored": false,
+   "slug": "golas-and-sons-bike-shop-chicago",
+   "name": "Golas & Sons Bike Shop",
+   "summary": "Golas & Sons Bike Shop is a bike shop in Chicago, IL.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/golas-and-sons-bike-shop-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/golas-and-sons-bike-shop-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8704165,
+    "lon": -87.6247419
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3744841480",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 163,
    "sponsored": false,
    "slug": "jerrys-bike-shop-coon-rapids",
    "name": "Jerry's Bike Shop",
@@ -1878,7 +5453,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 56,
+   "position": 164,
    "sponsored": false,
    "slug": "jonny-rock-bikes-hopkins",
    "name": "Jonny Rock Bikes",
@@ -1907,7 +5482,152 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 57,
+   "position": 165,
+   "sponsored": false,
+   "slug": "lakeshore-bike-chicago",
+   "name": "Lakeshore Bike",
+   "summary": "Lakeshore Bike is a bike shop in Chicago, IL.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lakeshore-bike-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lakeshore-bike-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9505914,
+    "lon": -87.6432517
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1449926034",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 166,
+   "sponsored": false,
+   "slug": "m-and-m-cyclery-buffalo-grove",
+   "name": "M & M Cyclery",
+   "summary": "M & M Cyclery is a bike shop in Buffalo Grove, IL.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/m-and-m-cyclery-buffalo-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/m-and-m-cyclery-buffalo-grove.json",
+   "address": {
+    "addressLocality": "Buffalo Grove",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Buffalo Grove",
+   "state": "IL",
+   "geo": {
+    "lat": 42.1968186,
+    "lon": -87.9649937
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/674297058",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 167,
+   "sponsored": false,
+   "slug": "midwest-cyclery-wheaton",
+   "name": "Midwest Cyclery",
+   "summary": "Midwest Cyclery is a bike shop in Wheaton, IL.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/midwest-cyclery-wheaton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/midwest-cyclery-wheaton.json",
+   "address": {
+    "addressLocality": "Wheaton",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Wheaton",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8651046,
+    "lon": -88.105778
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3559188038",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 168,
+   "sponsored": false,
+   "slug": "roll-chicago",
+   "name": "Roll",
+   "summary": "Roll is a bike shop in Chicago, IL.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/roll-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/roll-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9206599,
+    "lon": -87.6628438
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3883921389",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 169,
+   "sponsored": false,
+   "slug": "spokes-wheaton",
+   "name": "Spokes",
+   "summary": "Spokes is a bike shop in Wheaton, IL.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/spokes-wheaton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/spokes-wheaton.json",
+   "address": {
+    "addressLocality": "Wheaton",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Wheaton",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8316914,
+    "lon": -88.0985802
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11102023011",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 170,
    "sponsored": false,
    "slug": "strauss-skates-and-bicycles-maplewood",
    "name": "Strauss Skates and Bicycles",
@@ -1934,6 +5654,312 @@
    "source": "OpenStreetMap",
    "source_url": "https://www.openstreetmap.org/node/11472429269",
    "last_checked": "2026-10-17"
+  },
+  {
+   "position": 171,
+   "sponsored": false,
+   "slug": "the-wheel-thing-la-grange-park",
+   "name": "The Wheel Thing",
+   "summary": "The Wheel Thing is a bike shop in La Grange Park, IL.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-wheel-thing-la-grange-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-wheel-thing-la-grange-park.json",
+   "address": {
+    "addressLocality": "La Grange Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "La Grange Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8229057,
+    "lon": -87.8698255
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5726074384",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 172,
+   "sponsored": false,
+   "slug": "yojimbos-garage-chicago",
+   "name": "Yojimbo's Garage",
+   "summary": "Yojimbo's Garage is a bike shop in Chicago, IL.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/yojimbos-garage-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/yojimbos-garage-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9058613,
+    "lon": -87.6426888
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1434352189",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 173,
+   "sponsored": false,
+   "slug": "your-community-bike-shop-chicago",
+   "name": "Your Community Bike Shop",
+   "summary": "Your Community Bike Shop is a bike shop in Chicago, IL.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/your-community-bike-shop-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/your-community-bike-shop-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9833117,
+    "lon": -87.6896878
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8987995665",
+   "last_checked": "2026-10-17"
   }
- ]
+ ],
+ "market": {
+  "keyword": "bike shop",
+  "slug": "bike-shop",
+  "base_keyword": "bike shop",
+  "scope": "national",
+  "city": null,
+  "state": null,
+  "category": "ecommerce_retail",
+  "industry": "Shopping, Collectibles & Gifts",
+  "us_monthly_searches": {
+   "value": 140000,
+   "range": [
+    79000,
+    300000
+   ],
+   "method": "estimate",
+   "estimate_method": "median of 80 cited US volumes for 'high'-demand keywords in the b2b_professional research; rounded to 2 significant figures; range = 25th-75th percentile",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "confidence": "low"
+  },
+  "local_monthly_searches": null,
+  "cpc_usd": {
+   "industry_benchmark": "Shopping, Collectibles & Gifts",
+   "low_usd": 3.49,
+   "median_usd": 4.14,
+   "high_usd": 4.14,
+   "method": "published benchmarks: low/high = range of the industry and sub-industry median CPCs listed in 'figures'; median = most specific benchmark",
+   "figures": [
+    {
+     "usd": 4.14,
+     "label": "Shopping, Collectibles & Gifts median CPC 2026",
+     "source": "wordstream_2026"
+    },
+    {
+     "usd": 3.49,
+     "label": "Shopping, Collectibles & Gifts median CPC 2025",
+     "source": "wordstream_2025"
+    }
+   ],
+   "source": "wordstream_2026",
+   "as_of": "2026",
+   "basis_for_value": {
+    "usd": 4.14,
+    "method": "benchmark median CPC",
+    "source": "wordstream_2026"
+   }
+  },
+  "ctr_pct": {
+   "value": 8.92,
+   "label": "Shopping, Collectibles & Gifts average search-ad CTR 2025",
+   "source": "wordstream_2025",
+   "as_of": "2025-03"
+  },
+  "competition": {
+   "level": "medium",
+   "method": "proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research)",
+   "source": "wordstream_2026",
+   "as_of": "2026"
+  },
+  "trend": null,
+  "seasonality": {
+   "value": null,
+   "note": "No seasonality data in the research sources for this keyword."
+  },
+  "ai_query": {
+   "text": "No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.",
+   "figures": [
+    {
+     "value": "45%",
+     "label": "US adults using AI for local recommendations",
+     "source": "brightlocal_lcrs_2026"
+    },
+    {
+     "value": "75%",
+     "label": "sessions with keyword-style prompts",
+     "source": "sagapixel_sel"
+    },
+    {
+     "value": "59%",
+     "label": "local-intent prompts that triggered web search",
+     "source": "nectiv"
+    }
+   ],
+   "as_of": "2026"
+  },
+  "registry_competitors": {
+   "value": 173,
+   "slugs": [
+    "2-bici-willow-springs",
+    "3rd-coast-cycles-chicago",
+    "als-cycle-shop-skokie",
+    "angry-catfish-bicycle-shop-minneapolis",
+    "armitage-bike-shop-chicago",
+    "arts-cycling-and-fitness-berwyn",
+    "barnards-schwinn-oak-park",
+    "behind-bars-bicycle-shop-minneapolis",
+    "beverly-bike-and-ski-chicago",
+    "bff-bikes-chicago"
+   ],
+   "method_id": "competitors",
+   "source": "registry",
+   "as_of": "2026-10-18",
+   "urls": [
+    "https://dingalinged-cpu.github.io/registry/c/2-bici-willow-springs/",
+    "https://dingalinged-cpu.github.io/registry/c/3rd-coast-cycles-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/als-cycle-shop-skokie/",
+    "https://dingalinged-cpu.github.io/registry/c/angry-catfish-bicycle-shop-minneapolis/",
+    "https://dingalinged-cpu.github.io/registry/c/armitage-bike-shop-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/arts-cycling-and-fitness-berwyn/",
+    "https://dingalinged-cpu.github.io/registry/c/barnards-schwinn-oak-park/",
+    "https://dingalinged-cpu.github.io/registry/c/behind-bars-bicycle-shop-minneapolis/",
+    "https://dingalinged-cpu.github.io/registry/c/beverly-bike-and-ski-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/bff-bikes-chicago/"
+   ],
+   "method": "count of registry listings tagged with the keyword (city/national) or with the base service in the same state (state keywords)"
+  },
+  "agent_demand": null,
+  "agent_demand_note": "Not yet measured. Will carry AI-agent query counts from the registry's agent analytics (contract: meta.agent_demand_contract in the market index).",
+  "equivalent_google_ads_cost_month": {
+   "value_usd": 52000,
+   "method": "estimate",
+   "method_id": "google_ads_equiv",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote."
+  },
+  "search_value_index": {
+   "value_usd": 580000,
+   "method": "estimate",
+   "method_id": "value_index",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: search value index = monthly searches x CPC basis; an advertiser-value ranking signal, not revenue; rounded to 2 significant figures."
+  },
+  "auction": {
+   "featured_spot_min_usd": 50,
+   "spots_2_to_4_min_usd": 5,
+   "tier": "standard",
+   "pricing_rule": "tier minimum (premium $500, high $250, mid $100, standard $50) for national keywords; city = max($10, 20% of tier); state = max($10, 35% of tier); spots 2-4 open at 10% of the featured minimum",
+   "model": "Monthly auction in the last 7 days of each month: days 1-5 bid for the Featured #1 spot, days 6-7 for spots 2-4; winners display all next month; all paid spots labeled Sponsored.",
+   "next_auctions": [
+    {
+     "display_month": "2026-11",
+     "featured_spot_bidding": [
+      "2026-10-25",
+      "2026-10-29"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-10-30",
+      "2026-10-31"
+     ]
+    },
+    {
+     "display_month": "2026-12",
+     "featured_spot_bidding": [
+      "2026-11-24",
+      "2026-11-28"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-11-29",
+      "2026-11-30"
+     ]
+    }
+   ],
+   "source": "registry_auction",
+   "as_of": "2026-10-18"
+  },
+  "sources": {
+   "brightlocal_lcrs_2026": {
+    "name": "BrightLocal Local Consumer Review Survey 2026 (n=1,002 US adults)",
+    "url": "https://www.brightlocal.com/research/lcrs-ai-trust/",
+    "as_of": "2026"
+   },
+   "nectiv": {
+    "name": "Nectiv study of 8,500+ ChatGPT prompts",
+    "url": "https://nectivdigital.com/blog/new-data-study-what-queries-is-chatgpt-using-behind-the-scenes",
+    "as_of": "2025"
+   },
+   "registry": {
+    "name": "This registry's own listings (OpenStreetMap-seeded, ODbL)",
+    "url": "https://dingalinged-cpu.github.io/registry/api/companies.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_auction": {
+    "name": "Registry keyword auction catalog and rules",
+    "url": "https://dingalinged-cpu.github.io/registry/api/keyword-prices.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_estimate": {
+    "name": "Registry estimate (CC-BY-4.0); method given on each value",
+    "url": "https://dingalinged-cpu.github.io/registry/market/",
+    "as_of": "2026-10-18"
+   },
+   "sagapixel_sel": {
+    "name": "Sagapixel ChatGPT local-services sessions, via Search Engine Land",
+    "url": "https://searchengineland.com/chatgpt-users-keywords-for-local-services-data-467715",
+    "as_of": "2026-01"
+   },
+   "wordstream_2025": {
+    "name": "WordStream Google Ads Benchmarks 2025 (16,446 US campaigns, Apr 2024-Mar 2025; median CPC and CTR by industry)",
+    "url": "https://www.wordstream.com/blog/2025-google-ads-benchmarks",
+    "as_of": "2025-03"
+   },
+   "wordstream_2026": {
+    "name": "LocaliQ/WordStream Search Advertising Benchmarks 2026 (US median CPC by industry)",
+    "url": "https://www.localiq.com/blog/search-advertising-benchmarks",
+    "as_of": "2026"
+   }
+  },
+  "license": {
+   "registry_estimates": "CC-BY-4.0",
+   "url": "https://creativecommons.org/licenses/by/4.0/",
+   "cited_figures": "attribute to the publishers in sources"
+  },
+  "as_of": "2026-10-18",
+  "api": "https://dingalinged-cpu.github.io/registry/api/market/bike-shop.json",
+  "rate_card": "https://dingalinged-cpu.github.io/registry/view/market.html#bike-shop"
+ }
 }

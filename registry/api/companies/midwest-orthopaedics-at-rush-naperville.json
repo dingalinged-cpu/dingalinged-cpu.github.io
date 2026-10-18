@@ -1,0 +1,56 @@
+{
+ "slug": "midwest-orthopaedics-at-rush-naperville",
+ "name": "Midwest Orthopaedics at Rush",
+ "categories": [
+  "orthopedic surgeon"
+ ],
+ "keywords": [
+  "orthopedic surgeon",
+  "orthopedic surgeon naperville il"
+ ],
+ "services": [
+  {
+   "name": "orthopedic surgeon",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "55 Shuman Boulevard",
+  "addressLocality": "Naperville",
+  "addressRegion": "IL",
+  "postalCode": "60563",
+  "addressCountry": "US"
+ },
+ "city": "Naperville",
+ "state": "IL",
+ "zip": "60563",
+ "geo": {
+  "lat": 41.8051192,
+  "lon": -88.1439845
+ },
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/12458475686",
+ "osm": {
+  "type": "node",
+  "id": 12458475686,
+  "tags_used": {
+   "amenity": "doctors",
+   "healthcare": "doctor",
+   "healthcare:speciality": "orthopaedics"
+  }
+ },
+ "municipality": "Naperville",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/midwest-orthopaedics-at-rush-naperville/",
+ "summary": "Midwest Orthopaedics at Rush is an orthopedic surgeon in Naperville, IL at 55 Shuman Boulevard, Naperville, IL 60563.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

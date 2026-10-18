@@ -1,0 +1,52 @@
+{
+ "slug": "market-square-dental-center-schaumburg",
+ "name": "Market Square Dental Center",
+ "categories": [
+  "dentist"
+ ],
+ "keywords": [
+  "dentist",
+  "dentist schaumburg il"
+ ],
+ "services": [
+  {
+   "name": "dentist",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Schaumburg",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Schaumburg",
+ "state": "IL",
+ "geo": {
+  "lat": 42.0296097,
+  "lon": -88.0609937
+ },
+ "schema_type": "Dentist",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/2320852858",
+ "osm": {
+  "type": "node",
+  "id": 2320852858,
+  "tags_used": {
+   "amenity": "dentist",
+   "healthcare": "dentist"
+  }
+ },
+ "municipality": "Schaumburg",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/market-square-dental-center-schaumburg/",
+ "summary": "Market Square Dental Center is a dentist in Schaumburg, IL.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

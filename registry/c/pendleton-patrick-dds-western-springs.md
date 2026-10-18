@@ -1,0 +1,23 @@
+Pendleton Patrick DDS is a dentist in Western Springs, IL at 604 Hillgrove Avenue, Western Springs, IL 60558.
+
+# Pendleton Patrick DDS
+
+- Category: dentist
+- Services: dentist
+- Address: 604 Hillgrove Avenue, Western Springs, IL 60558
+- City: Western Springs
+- State: IL
+- ZIP: 60558
+- Coordinates: 41.810474, -87.896755
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/pendleton-patrick-dds-western-springs/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/pendleton-patrick-dds-western-springs.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9603287966 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

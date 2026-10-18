@@ -1,0 +1,69 @@
+{
+ "slug": "country-financial-wauconda",
+ "name": "Country Financial",
+ "categories": [
+  "insurance agent"
+ ],
+ "keywords": [
+  "insurance agent",
+  "insurance agency",
+  "insurance agents",
+  "insurance agent wauconda il",
+  "insurance agency wauconda il",
+  "insurance agents wauconda il"
+ ],
+ "services": [
+  {
+   "name": "insurance agent",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "insurance agency",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "insurance agents",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "118 North Main Street #3",
+  "addressLocality": "Wauconda",
+  "addressRegion": "IL",
+  "postalCode": "60084",
+  "addressCountry": "US"
+ },
+ "city": "Wauconda",
+ "state": "IL",
+ "zip": "60084",
+ "geo": {
+  "lat": 42.2598364,
+  "lon": -88.1405318
+ },
+ "opening_hours": "Mo-Fr 09:00-17:00; \"by appointment\"",
+ "brand": "Country Financial",
+ "wikidata": "Q5177282",
+ "schema_type": "InsuranceAgency",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/9821590713",
+ "osm": {
+  "type": "node",
+  "id": 9821590713,
+  "tags_used": {
+   "office": "insurance"
+  }
+ },
+ "municipality": "Wauconda",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/country-financial-wauconda/",
+ "summary": "Country Financial is an insurance agent in Wauconda, IL at 118 North Main Street #3, Wauconda, IL 60084.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

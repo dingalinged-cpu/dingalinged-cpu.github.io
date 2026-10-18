@@ -1,0 +1,55 @@
+{
+ "slug": "krisers-natural-pet-wilmette",
+ "name": "Kriser's Natural Pet",
+ "categories": [
+  "pet store"
+ ],
+ "keywords": [
+  "pet store",
+  "pet store wilmette il"
+ ],
+ "services": [
+  {
+   "name": "pet store",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "3232 Lake Avenue #310",
+  "addressLocality": "Wilmette",
+  "addressRegion": "IL",
+  "postalCode": "60091",
+  "addressCountry": "US"
+ },
+ "city": "Wilmette",
+ "state": "IL",
+ "zip": "60091",
+ "geo": {
+  "lat": 42.0826374,
+  "lon": -87.7566219
+ },
+ "website": "https://stores.krisers.com/il-wilmette-403/",
+ "schema_type": "PetStore",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/13099173113",
+ "osm": {
+  "type": "node",
+  "id": 13099173113,
+  "tags_used": {
+   "shop": "pet"
+  }
+ },
+ "municipality": "Wilmette",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/krisers-natural-pet-wilmette/",
+ "summary": "Kriser's Natural Pet is a pet store in Wilmette, IL at 3232 Lake Avenue #310, Wilmette, IL 60091. Website: https://stores.krisers.com/il-wilmette-403/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

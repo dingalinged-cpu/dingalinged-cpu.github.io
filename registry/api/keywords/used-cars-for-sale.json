@@ -12,9 +12,9 @@
   "affordable used cars for sale the United States",
   "emergency used cars for sale the United States"
  ],
- "answer": "The top unpaid used cars for sale listing for the United States is Ado's Motors (an used car dealer in Saint Paul, MN at 834 7th Street West, Saint Paul, MN 55102. Phone: +16124453093. Website: https://adosmotorsmn.com/). 34 used cars for sale businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "answer": "The top unpaid used cars for sale listing for the United States is Ado's Motors (an used car dealer in Saint Paul, MN at 834 7th Street West, Saint Paul, MN 55102. Phone: +16124453093. Website: https://adosmotorsmn.com/). 81 used cars for sale businesses are listed for the United States as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
  "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
- "updated": "2026-10-17",
+ "updated": "2026-10-18",
  "sponsored_slots": {
   "featured_1": "available",
   "spots_2_4_sold": 0
@@ -63,6 +63,76 @@
   {
    "position": 2,
    "sponsored": false,
+   "slug": "alpha-motors-chicago",
+   "name": "Alpha Motors",
+   "summary": "Alpha Motors is an used car dealer in Chicago, IL at 2622 North Cicero Avenue, Chicago, IL 60639. Phone: +17739067883. Website: https://www.alphamotorschicago.com/.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/alpha-motors-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/alpha-motors-chicago.json",
+   "address": {
+    "streetAddress": "2622 North Cicero Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60639",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60639",
+   "geo": {
+    "lat": 41.9286586,
+    "lon": -87.7469974
+   },
+   "phone": "+17739067883",
+   "website": "https://www.alphamotorschicago.com/",
+   "opening_hours": "Mo-Sa 10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/162434171",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "continental-toyota-hodgkins",
+   "name": "Continental Toyota",
+   "summary": "Continental Toyota is an used car dealer in Hodgkins, IL at 6701 South La Grange Road, Hodgkins, IL 60525. Phone: +17087164497. Website: https://www.continentaltoyota.com/.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/continental-toyota-hodgkins/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/continental-toyota-hodgkins.json",
+   "address": {
+    "streetAddress": "6701 South La Grange Road",
+    "addressLocality": "Hodgkins",
+    "addressRegion": "IL",
+    "postalCode": "60525",
+    "addressCountry": "US"
+   },
+   "city": "Hodgkins",
+   "state": "IL",
+   "zip": "60525",
+   "geo": {
+    "lat": 41.767491,
+    "lon": -87.8662346
+   },
+   "phone": "+17087164497",
+   "website": "https://www.continentaltoyota.com/",
+   "opening_hours": "Mo-Tu 07:00-17:00; We 07:00-18:00; Th-Sa 07:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1040880508",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
    "slug": "metro-motorcars-inc-hopkins",
    "name": "Metro Motorcars Inc.",
    "summary": "Metro Motorcars Inc. is an used car dealer in Hopkins, MN at 8660 Excelsior Boulevard, Hopkins, MN 55343. Phone: +19529352275. Website: https://www.metromotorcarsmn.com/.",
@@ -96,7 +166,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 3,
+   "position": 5,
    "sponsored": false,
    "slug": "mgm-auto-sales-shakopee",
    "name": "MGM Auto Sales",
@@ -131,7 +201,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 4,
+   "position": 6,
    "sponsored": false,
    "slug": "morries-mazda-inver-grove-heights",
    "name": "Morries Mazda",
@@ -166,7 +236,77 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 5,
+   "position": 7,
+   "sponsored": false,
+   "slug": "rocket-auto-sales-chicago",
+   "name": "Rocket Auto Sales",
+   "summary": "Rocket Auto Sales is an used car dealer in Chicago, IL at 5552 South Archer Avenue, Chicago, IL 60638. Phone: +17732325536. Website: https://www.rocketautosale.com/.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rocket-auto-sales-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rocket-auto-sales-chicago.json",
+   "address": {
+    "streetAddress": "5552 South Archer Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60638",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60638",
+   "geo": {
+    "lat": 41.7981467,
+    "lon": -87.7486751
+   },
+   "phone": "+17732325536",
+   "website": "https://www.rocketautosale.com/",
+   "opening_hours": "Mo-Th 10:00-18:00; Fr-Sa 10:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/162170013",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "tesla-of-naperville-lisle",
+   "name": "Tesla of Naperville",
+   "summary": "Tesla of Naperville is an used car dealer in Lisle, IL at 3200 East Ogden Avenue, Lisle, IL 60532. Phone: +16303282251. Website: https://www.tesla.com/findus/location/service/naperville.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tesla-of-naperville-lisle/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tesla-of-naperville-lisle.json",
+   "address": {
+    "streetAddress": "3200 East Ogden Avenue",
+    "addressLocality": "Lisle",
+    "addressRegion": "IL",
+    "postalCode": "60532",
+    "addressCountry": "US"
+   },
+   "city": "Lisle",
+   "state": "IL",
+   "zip": "60532",
+   "geo": {
+    "lat": 41.7971608,
+    "lon": -88.1150997
+   },
+   "phone": "+16303282251",
+   "website": "https://www.tesla.com/findus/location/service/naperville",
+   "opening_hours": "Mo-Sa 10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/440039026",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
    "sponsored": false,
    "slug": "import-auto-sales-golden-valley",
    "name": "Import Auto Sales",
@@ -200,7 +340,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 6,
+   "position": 10,
    "sponsored": false,
    "slug": "luther-westside-saint-louis-park",
    "name": "Luther Westside",
@@ -234,7 +374,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 7,
+   "position": 11,
    "sponsored": false,
    "slug": "midway-ford-roseville",
    "name": "Midway Ford",
@@ -266,7 +406,75 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 8,
+   "position": 12,
+   "sponsored": false,
+   "slug": "orland-toyota-tinley-park",
+   "name": "Orland Toyota",
+   "summary": "Orland Toyota is an used car dealer in Tinley Park, IL at 8505 West 159th Street, Tinley Park, IL 60487. Phone: +17084282720. Website: https://www.orlandtoyota.com/.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/orland-toyota-tinley-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/orland-toyota-tinley-park.json",
+   "address": {
+    "streetAddress": "8505 West 159th Street",
+    "addressLocality": "Tinley Park",
+    "addressRegion": "IL",
+    "postalCode": "60487",
+    "addressCountry": "US"
+   },
+   "city": "Tinley Park",
+   "state": "IL",
+   "zip": "60487",
+   "geo": {
+    "lat": 41.6011289,
+    "lon": -87.8259617
+   },
+   "phone": "+17084282720",
+   "website": "https://www.orlandtoyota.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1128330436",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
+   "sponsored": false,
+   "slug": "perillo-bmw-chicago",
+   "name": "Perillo BMW",
+   "summary": "Perillo BMW is an used car dealer in Chicago, IL at 1035 North Clark Street, Chicago, IL 60610. Phone: +13129810000. Website: https://www.perillobmw.com/.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/perillo-bmw-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/perillo-bmw-chicago.json",
+   "address": {
+    "streetAddress": "1035 North Clark Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60610",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60610",
+   "geo": {
+    "lat": 41.9014549,
+    "lon": -87.630953
+   },
+   "phone": "+13129810000",
+   "website": "https://www.perillobmw.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/210679204",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 14,
    "sponsored": false,
    "slug": "poquet-auto-sales-inc-golden-valley",
    "name": "Poquet Auto Sales, Inc.",
@@ -300,7 +508,41 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 9,
+   "position": 15,
+   "sponsored": false,
+   "slug": "rizza-cadillac-tinley-park",
+   "name": "Rizza Cadillac",
+   "summary": "Rizza Cadillac is an used car dealer in Tinley Park, IL at 8545 West 159th Street, Tinley Park, IL 60487. Phone: +17088407542. Website: https://www.rizzacadillac.com/.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rizza-cadillac-tinley-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rizza-cadillac-tinley-park.json",
+   "address": {
+    "streetAddress": "8545 West 159th Street",
+    "addressLocality": "Tinley Park",
+    "addressRegion": "IL",
+    "postalCode": "60487",
+    "addressCountry": "US"
+   },
+   "city": "Tinley Park",
+   "state": "IL",
+   "zip": "60487",
+   "geo": {
+    "lat": 41.6012223,
+    "lon": -87.825178
+   },
+   "phone": "+17088407542",
+   "website": "https://www.rizzacadillac.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1128330437",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 16,
    "sponsored": false,
    "slug": "superior-ford-plymouth",
    "name": "Superior Ford",
@@ -334,7 +576,41 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 10,
+   "position": 17,
+   "sponsored": false,
+   "slug": "ziegler-nissan-of-orland-park-orland-park",
+   "name": "Ziegler Nissan of Orland Park",
+   "summary": "Ziegler Nissan of Orland Park is an used car dealer in Orland Park, IL at 8550 West 159th Street, Orland Park, IL 60462. Phone: +17084031300. Website: https://www.zeiglernissanoforlandpark.com/.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ziegler-nissan-of-orland-park-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ziegler-nissan-of-orland-park-orland-park.json",
+   "address": {
+    "streetAddress": "8550 West 159th Street",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60462",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60462",
+   "geo": {
+    "lat": 41.6026165,
+    "lon": -87.8277815
+   },
+   "phone": "+17084031300",
+   "website": "https://www.zeiglernissanoforlandpark.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1128330430",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 18,
    "sponsored": false,
    "slug": "beths-auto-sales-minneapolis",
    "name": "Beth's Auto Sales",
@@ -368,7 +644,141 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 11,
+   "position": 19,
+   "sponsored": false,
+   "slug": "quick-sales-corporation-chicago",
+   "name": "Quick Sales Corporation",
+   "summary": "Quick Sales Corporation is an used car dealer in Chicago, IL at 5800 West Fullerton Avenue, Chicago, IL 60639. Phone: +18476089800.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/quick-sales-corporation-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/quick-sales-corporation-chicago.json",
+   "address": {
+    "streetAddress": "5800 West Fullerton Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60639",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60639",
+   "geo": {
+    "lat": 41.9242384,
+    "lon": -87.7711708
+   },
+   "phone": "+18476089800",
+   "opening_hours": "Mo,Tu,Th,Fr 11:00-19:00; Sa 10:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13587088029",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 20,
+   "sponsored": false,
+   "slug": "tasca-chevrolet-wheeling",
+   "name": "Tasca Chevrolet",
+   "summary": "Tasca Chevrolet is an used car dealer in Wheeling, IL at 700 West Dundee Road, Wheeling, IL 60090. Website: https://www.tascachevroletwheeling.com/.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tasca-chevrolet-wheeling/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tasca-chevrolet-wheeling.json",
+   "address": {
+    "streetAddress": "700 West Dundee Road",
+    "addressLocality": "Wheeling",
+    "addressRegion": "IL",
+    "postalCode": "60090",
+    "addressCountry": "US"
+   },
+   "city": "Wheeling",
+   "state": "IL",
+   "zip": "60090",
+   "geo": {
+    "lat": 42.1399076,
+    "lon": -87.9334215
+   },
+   "website": "https://www.tascachevroletwheeling.com/",
+   "opening_hours": "Mo-Fr 07:00-20:00; Sa 08:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/344305073",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 21,
+   "sponsored": false,
+   "slug": "5-stars-auto-service-and-sales-chicago",
+   "name": "5 Stars Auto Service And Sales",
+   "summary": "5 Stars Auto Service And Sales is an used car dealer in Chicago, IL at 7446 North Clark Street, Chicago, IL 60626. Website: https://www.5starsautochicago.com/.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/5-stars-auto-service-and-sales-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/5-stars-auto-service-and-sales-chicago.json",
+   "address": {
+    "streetAddress": "7446 North Clark Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60626",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60626",
+   "geo": {
+    "lat": 42.017263,
+    "lon": -87.6757637
+   },
+   "website": "https://www.5starsautochicago.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/209958831",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 22,
+   "sponsored": false,
+   "slug": "arrow-truck-sales-bolingbrook",
+   "name": "Arrow Truck Sales",
+   "summary": "Arrow Truck Sales is an used car dealer in Bolingbrook, IL at 245 West South Frontage Road, Bolingbrook, IL 60440. Website: https://www.arrowtruck.com/location/chicago-il.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/arrow-truck-sales-bolingbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/arrow-truck-sales-bolingbrook.json",
+   "address": {
+    "streetAddress": "245 West South Frontage Road",
+    "addressLocality": "Bolingbrook",
+    "addressRegion": "IL",
+    "postalCode": "60440",
+    "addressCountry": "US"
+   },
+   "city": "Bolingbrook",
+   "state": "IL",
+   "zip": "60440",
+   "geo": {
+    "lat": 41.6796605,
+    "lon": -88.0762354
+   },
+   "website": "https://www.arrowtruck.com/location/chicago-il",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/439960548",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 23,
    "sponsored": false,
    "slug": "auto-center-bargain-lot-wayzata",
    "name": "Auto Center Bargain Lot",
@@ -401,7 +811,238 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 12,
+   "position": 24,
+   "sponsored": false,
+   "slug": "car-credit-7600-chicago",
+   "name": "Car Credit 7600",
+   "summary": "Car Credit 7600 is an used car dealer in Chicago, IL at 7630 South Western Avenue, Chicago, IL 60620. Website: https://www.carcredit7600.com/.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/car-credit-7600-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/car-credit-7600-chicago.json",
+   "address": {
+    "streetAddress": "7630 South Western Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60620",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60620",
+   "geo": {
+    "lat": 41.7547354,
+    "lon": -87.6834458
+   },
+   "website": "https://www.carcredit7600.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/209636572",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 25,
+   "sponsored": false,
+   "slug": "carfect-chicago",
+   "name": "Carfect",
+   "summary": "Carfect is an used car dealer in Chicago, IL at 4530 South Archer Avenue, Chicago, IL 60632. Website: https://carfect.com/chicago-used-car-dealers/.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/carfect-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/carfect-chicago.json",
+   "address": {
+    "streetAddress": "4530 South Archer Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60632",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60632",
+   "geo": {
+    "lat": 41.811207,
+    "lon": -87.7094573
+   },
+   "website": "https://carfect.com/chicago-used-car-dealers/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/163676327",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 26,
+   "sponsored": false,
+   "slug": "carmax-glencoe",
+   "name": "CarMax",
+   "summary": "CarMax is an used car dealer in Glencoe, IL at 2000 Frontage Road, Glencoe, IL 60022. Website: https://www.carmax.com/stores/7208.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/carmax-glencoe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/carmax-glencoe.json",
+   "address": {
+    "streetAddress": "2000 Frontage Road",
+    "addressLocality": "Glencoe",
+    "addressRegion": "IL",
+    "postalCode": "60022",
+    "addressCountry": "US"
+   },
+   "city": "Glencoe",
+   "state": "IL",
+   "zip": "60022",
+   "geo": {
+    "lat": 42.1181454,
+    "lon": -87.7800889
+   },
+   "website": "https://www.carmax.com/stores/7208",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1305267408",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 27,
+   "sponsored": false,
+   "slug": "carmax-hillside",
+   "name": "CarMax",
+   "summary": "CarMax is an used car dealer in Hillside, IL at 101 North Wolf Road, Hillside, IL 60162. Website: https://www.carmax.com/stores/7146.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/carmax-hillside/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/carmax-hillside.json",
+   "address": {
+    "streetAddress": "101 North Wolf Road",
+    "addressLocality": "Hillside",
+    "addressRegion": "IL",
+    "postalCode": "60162",
+    "addressCountry": "US"
+   },
+   "city": "Hillside",
+   "state": "IL",
+   "zip": "60162",
+   "geo": {
+    "lat": 41.8710035,
+    "lon": -87.8985238
+   },
+   "website": "https://www.carmax.com/stores/7146",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/195027213",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 28,
+   "sponsored": false,
+   "slug": "carmax-merrillville",
+   "name": "CarMax",
+   "summary": "CarMax is an used car dealer in Merrillville, IN at 1370 East 79th Avenue, Merrillville, IN 46410. Website: https://www.carmax.com/stores/7180.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/carmax-merrillville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/carmax-merrillville.json",
+   "address": {
+    "streetAddress": "1370 East 79th Avenue",
+    "addressLocality": "Merrillville",
+    "addressRegion": "IN",
+    "postalCode": "46410",
+    "addressCountry": "US"
+   },
+   "city": "Merrillville",
+   "state": "IN",
+   "zip": "46410",
+   "geo": {
+    "lat": 41.4726314,
+    "lon": -87.3207867
+   },
+   "website": "https://www.carmax.com/stores/7180",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/821965915",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 29,
+   "sponsored": false,
+   "slug": "carmax-oak-lawn",
+   "name": "CarMax",
+   "summary": "CarMax is an used car dealer in Oak Lawn, IL at 6540 West 95th Street, Oak Lawn, IL 60453. Website: https://www.carmax.com/stores/7199.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/carmax-oak-lawn/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/carmax-oak-lawn.json",
+   "address": {
+    "streetAddress": "6540 West 95th Street",
+    "addressLocality": "Oak Lawn",
+    "addressRegion": "IL",
+    "postalCode": "60453",
+    "addressCountry": "US"
+   },
+   "city": "Oak Lawn",
+   "state": "IL",
+   "zip": "60453",
+   "geo": {
+    "lat": 41.7198796,
+    "lon": -87.7833659
+   },
+   "website": "https://www.carmax.com/stores/7199",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1271829618",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 30,
+   "sponsored": false,
+   "slug": "carmax-schaumburg",
+   "name": "CarMax",
+   "summary": "CarMax is an used car dealer in Schaumburg, IL at 250 East Golf Road, Schaumburg, IL 60173. Website: https://www.carmax.com/stores/7128.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/carmax-schaumburg/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/carmax-schaumburg.json",
+   "address": {
+    "streetAddress": "250 East Golf Road",
+    "addressLocality": "Schaumburg",
+    "addressRegion": "IL",
+    "postalCode": "60173",
+    "addressCountry": "US"
+   },
+   "city": "Schaumburg",
+   "state": "IL",
+   "zip": "60173",
+   "geo": {
+    "lat": 42.0519403,
+    "lon": -88.0725046
+   },
+   "website": "https://www.carmax.com/stores/7128",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/239143074",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 31,
    "sponsored": false,
    "slug": "east-side-auto-saint-paul-park",
    "name": "East Side Auto",
@@ -434,7 +1075,172 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 13,
+   "position": 32,
+   "sponsored": false,
+   "slug": "ettleson-hyundai-countryside",
+   "name": "Ettleson Hyundai",
+   "summary": "Ettleson Hyundai is an used car dealer in Countryside, IL at 5631 South La Grange Road, Countryside, IL 60525. Website: https://www.ettlesonhyundai.com/.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ettleson-hyundai-countryside/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ettleson-hyundai-countryside.json",
+   "address": {
+    "streetAddress": "5631 South La Grange Road",
+    "addressLocality": "Countryside",
+    "addressRegion": "IL",
+    "postalCode": "60525",
+    "addressCountry": "US"
+   },
+   "city": "Countryside",
+   "state": "IL",
+   "zip": "60525",
+   "geo": {
+    "lat": 41.7873377,
+    "lon": -87.8675255
+   },
+   "website": "https://www.ettlesonhyundai.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/740757552",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 33,
+   "sponsored": false,
+   "slug": "jz-auto-sales-summit",
+   "name": "JZ Auto Sales",
+   "summary": "JZ Auto Sales is an used car dealer in Summit, IL at 6158 South Harlem Avenue, Summit, IL 60501. Website: https://www.jzautosale.net/.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jz-auto-sales-summit/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jz-auto-sales-summit.json",
+   "address": {
+    "streetAddress": "6158 South Harlem Avenue",
+    "addressLocality": "Summit",
+    "addressRegion": "IL",
+    "postalCode": "60501",
+    "addressCountry": "US"
+   },
+   "city": "Summit",
+   "state": "IL",
+   "zip": "60501",
+   "geo": {
+    "lat": 41.7792826,
+    "lon": -87.8014661
+   },
+   "website": "https://www.jzautosale.net/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1230282890",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 34,
+   "sponsored": false,
+   "slug": "kunes-lakes-chevorlet-lake-bluff",
+   "name": "Kunes Lakes Chevorlet",
+   "summary": "Kunes Lakes Chevorlet is an used car dealer in Lake Bluff, IL at 1 Sherwood Terrace, Lake Bluff, IL 60044. Phone: +18478101975.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kunes-lakes-chevorlet-lake-bluff/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kunes-lakes-chevorlet-lake-bluff.json",
+   "address": {
+    "streetAddress": "1 Sherwood Terrace",
+    "addressLocality": "Lake Bluff",
+    "addressRegion": "IL",
+    "postalCode": "60044",
+    "addressCountry": "US"
+   },
+   "city": "Lake Bluff",
+   "state": "IL",
+   "zip": "60044",
+   "geo": {
+    "lat": 42.2692093,
+    "lon": -87.8661923
+   },
+   "phone": "+18478101975",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/372791844",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 35,
+   "sponsored": false,
+   "slug": "mercedes-benz-of-orland-park-orland-park",
+   "name": "Mercedes-Benz of Orland Park",
+   "summary": "Mercedes-Benz of Orland Park is an used car dealer in Orland Park, IL at 8430 West 159th Street, Orland Park, IL 60462. Website: https://www.mercedesbenzorlandpark.com/.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mercedes-benz-of-orland-park-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mercedes-benz-of-orland-park-orland-park.json",
+   "address": {
+    "streetAddress": "8430 West 159th Street",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60462",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60462",
+   "geo": {
+    "lat": 41.6026218,
+    "lon": -87.8251035
+   },
+   "website": "https://www.mercedesbenzorlandpark.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1128330431",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 36,
+   "sponsored": false,
+   "slug": "mullers-woodfield-acura-hoffman-estates",
+   "name": "Muller's Woodfield Acura",
+   "summary": "Muller's Woodfield Acura is an used car dealer in Hoffman Estates, IL at 1099 West Higgins Road, Hoffman Estates, IL 60169. Phone: +18473544213.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mullers-woodfield-acura-hoffman-estates/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mullers-woodfield-acura-hoffman-estates.json",
+   "address": {
+    "streetAddress": "1099 West Higgins Road",
+    "addressLocality": "Hoffman Estates",
+    "addressRegion": "IL",
+    "postalCode": "60169",
+    "addressCountry": "US"
+   },
+   "city": "Hoffman Estates",
+   "state": "IL",
+   "zip": "60169",
+   "geo": {
+    "lat": 42.0506604,
+    "lon": -88.1070978
+   },
+   "phone": "+18473544213",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/239695311",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 37,
    "sponsored": false,
    "slug": "twin-city-auto-exchange-minneapolis",
    "name": "Twin City Auto Exchange",
@@ -467,7 +1273,38 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 14,
+   "position": 38,
+   "sponsored": false,
+   "slug": "jerry-haggerty-chevrolet-glen-ellyn",
+   "name": "Jerry Haggerty Chevrolet",
+   "summary": "Jerry Haggerty Chevrolet is an used car dealer in Glen Ellyn, IL at 300 West Roosevelt Road, Glen Ellyn, IL. Phone: +16305184219.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jerry-haggerty-chevrolet-glen-ellyn/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jerry-haggerty-chevrolet-glen-ellyn.json",
+   "address": {
+    "streetAddress": "300 West Roosevelt Road",
+    "addressLocality": "Glen Ellyn",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Glen Ellyn",
+   "state": "IL",
+   "geo": {
+    "lat": 41.859774,
+    "lon": -88.0780137
+   },
+   "phone": "+16305184219",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/850669425",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 39,
    "sponsored": false,
    "slug": "luther-used-car-company-brooklyn-park",
    "name": "Luther Used Car Company",
@@ -498,7 +1335,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 15,
+   "position": 40,
    "sponsored": false,
    "slug": "bedrock-motors-rogers",
    "name": "Bedrock Motors",
@@ -531,7 +1368,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 16,
+   "position": 41,
    "sponsored": false,
    "slug": "carmax-brooklyn-park",
    "name": "CarMax",
@@ -561,7 +1398,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 17,
+   "position": 42,
    "sponsored": false,
    "slug": "carmax-maplewood",
    "name": "Carmax",
@@ -591,7 +1428,37 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 18,
+   "position": 43,
+   "sponsored": false,
+   "slug": "carmax-tinley-park",
+   "name": "CarMax",
+   "summary": "CarMax is an used car dealer in Tinley Park, IL. Website: https://www.carmax.com/stores/7123.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/carmax-tinley-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/carmax-tinley-park.json",
+   "address": {
+    "addressLocality": "Tinley Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Tinley Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.548604,
+    "lon": -87.7860477
+   },
+   "website": "https://www.carmax.com/stores/7123",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/437711457",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 44,
    "sponsored": false,
    "slug": "drive-appeal-new-hope",
    "name": "Drive Appeal",
@@ -621,7 +1488,39 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 19,
+   "position": 45,
+   "sponsored": false,
+   "slug": "berwyn-kia-berwyn",
+   "name": "Berwyn Kia",
+   "summary": "Berwyn Kia is an used car dealer in Berwyn, IL at 7050 Ogden Avenue, Berwyn, IL 60402.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/berwyn-kia-berwyn/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/berwyn-kia-berwyn.json",
+   "address": {
+    "streetAddress": "7050 Ogden Avenue",
+    "addressLocality": "Berwyn",
+    "addressRegion": "IL",
+    "postalCode": "60402",
+    "addressCountry": "US"
+   },
+   "city": "Berwyn",
+   "state": "IL",
+   "zip": "60402",
+   "geo": {
+    "lat": 41.8244317,
+    "lon": -87.7995304
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/700154426",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 46,
    "sponsored": false,
    "slug": "carver-auto-sales-saint-paul",
    "name": "Carver Auto Sales",
@@ -653,7 +1552,103 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 20,
+   "position": 47,
+   "sponsored": false,
+   "slug": "drivetime-midlothian",
+   "name": "DriveTime",
+   "summary": "DriveTime is an used car dealer in Midlothian, IL at 14500 South Cicero Avenue, Midlothian, IL 60445.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/drivetime-midlothian/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/drivetime-midlothian.json",
+   "address": {
+    "streetAddress": "14500 South Cicero Avenue",
+    "addressLocality": "Midlothian",
+    "addressRegion": "IL",
+    "postalCode": "60445",
+    "addressCountry": "US"
+   },
+   "city": "Midlothian",
+   "state": "IL",
+   "zip": "60445",
+   "geo": {
+    "lat": 41.6284422,
+    "lon": -87.7380704
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1135280830",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 48,
+   "sponsored": false,
+   "slug": "drivetime-used-cars-lombard",
+   "name": "DriveTime Used Cars",
+   "summary": "DriveTime Used Cars is an used car dealer in Lombard, IL at 500 East Roosevelt Road, Lombard, IL 60148.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/drivetime-used-cars-lombard/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/drivetime-used-cars-lombard.json",
+   "address": {
+    "streetAddress": "500 East Roosevelt Road",
+    "addressLocality": "Lombard",
+    "addressRegion": "IL",
+    "postalCode": "60148",
+    "addressCountry": "US"
+   },
+   "city": "Lombard",
+   "state": "IL",
+   "zip": "60148",
+   "geo": {
+    "lat": 41.8610222,
+    "lon": -88.0042123
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/198548498",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 49,
+   "sponsored": false,
+   "slug": "fletcher-jones-audi-chicago",
+   "name": "Fletcher Jones Audi",
+   "summary": "Fletcher Jones Audi is an used car dealer in Chicago, IL at 1523 West North Avenue, Chicago, IL 60642.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fletcher-jones-audi-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fletcher-jones-audi-chicago.json",
+   "address": {
+    "streetAddress": "1523 West North Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60642",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60642",
+   "geo": {
+    "lat": 41.9104083,
+    "lon": -87.6659389
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/337682191",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 50,
    "sponsored": false,
    "slug": "freeway-motors-rogers",
    "name": "Freeway Motors",
@@ -685,7 +1680,39 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 21,
+   "position": 51,
+   "sponsored": false,
+   "slug": "hertz-car-sales-des-plaines",
+   "name": "Hertz Car Sales",
+   "summary": "Hertz Car Sales is an used car dealer in Des Plaines, IL at 2174 Mannheim Road, Des Plaines, IL 60018.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hertz-car-sales-des-plaines/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hertz-car-sales-des-plaines.json",
+   "address": {
+    "streetAddress": "2174 Mannheim Road",
+    "addressLocality": "Des Plaines",
+    "addressRegion": "IL",
+    "postalCode": "60018",
+    "addressCountry": "US"
+   },
+   "city": "Des Plaines",
+   "state": "IL",
+   "zip": "60018",
+   "geo": {
+    "lat": 42.0124555,
+    "lon": -87.8885396
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12973194980",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 52,
    "sponsored": false,
    "slug": "lupient-nissan-brooklyn-park",
    "name": "Lupient Nissan",
@@ -717,7 +1744,39 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 22,
+   "position": 53,
+   "sponsored": false,
+   "slug": "mexico-motorsports-inc-melrose-park",
+   "name": "Mexico Motorsports, Inc.",
+   "summary": "Mexico Motorsports, Inc. is an used car dealer in Melrose Park, IL at 4701 West Lake Street, Melrose Park, IL 60160.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mexico-motorsports-inc-melrose-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mexico-motorsports-inc-melrose-park.json",
+   "address": {
+    "streetAddress": "4701 West Lake Street",
+    "addressLocality": "Melrose Park",
+    "addressRegion": "IL",
+    "postalCode": "60160",
+    "addressCountry": "US"
+   },
+   "city": "Melrose Park",
+   "state": "IL",
+   "zip": "60160",
+   "geo": {
+    "lat": 41.8994208,
+    "lon": -87.8914435
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/848949806",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 54,
    "sponsored": false,
    "slug": "north-suburban-auto-sales-hugo",
    "name": "North Suburban Auto Sales",
@@ -749,7 +1808,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 23,
+   "position": 55,
    "sponsored": false,
    "slug": "northern-lights-auto-sales-south-saint-paul",
    "name": "Northern Lights Auto Sales",
@@ -781,7 +1840,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 24,
+   "position": 56,
    "sponsored": false,
    "slug": "quality-auto-sales-robbinsdale",
    "name": "Quality Auto Sales",
@@ -813,7 +1872,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 25,
+   "position": 57,
    "sponsored": false,
    "slug": "ulrichs-used-cars-minneapolis",
    "name": "Ulrich's Used Cars",
@@ -845,7 +1904,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 26,
+   "position": 58,
    "sponsored": false,
    "slug": "ultimate-golf-carts-rogers",
    "name": "Ultimate Golf Carts",
@@ -877,7 +1936,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 27,
+   "position": 59,
    "sponsored": false,
    "slug": "walser-subaru-south-saint-paul",
    "name": "Walser Subaru",
@@ -909,7 +1968,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 28,
+   "position": 60,
    "sponsored": false,
    "slug": "warner-motors-llc-hopkins",
    "name": "Warner Motors LLC",
@@ -941,7 +2000,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 29,
+   "position": 61,
    "sponsored": false,
    "slug": "alex-used-cars-minneapolis",
    "name": "Alex Used Cars",
@@ -971,7 +2030,37 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 30,
+   "position": 62,
+   "sponsored": false,
+   "slug": "auto-sales-chicago",
+   "name": "Auto Sales",
+   "summary": "Auto Sales is an used car dealer in Chicago, IL at 6712-6714 North Western Avenue, Chicago, IL.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/auto-sales-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/auto-sales-chicago.json",
+   "address": {
+    "streetAddress": "6712-6714 North Western Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 42.00368,
+    "lon": -87.6905395
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/209569694",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 63,
    "sponsored": false,
    "slug": "glorias-downtown-auto-sales-saint-paul",
    "name": "Gloria's Downtown Auto Sales",
@@ -1001,7 +2090,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 31,
+   "position": 64,
    "sponsored": false,
    "slug": "ellingson-motorcars-rogers",
    "name": "Ellingson Motorcars",
@@ -1032,7 +2121,94 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 32,
+   "position": 65,
+   "sponsored": false,
+   "slug": "admiral-motors-arlington-heights",
+   "name": "Admiral Motors",
+   "summary": "Admiral Motors is an used car dealer in Arlington Heights, IL.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/admiral-motors-arlington-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/admiral-motors-arlington-heights.json",
+   "address": {
+    "addressLocality": "Arlington Heights",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Arlington Heights",
+   "state": "IL",
+   "geo": {
+    "lat": 42.086828,
+    "lon": -87.9885666
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12660987293",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 66,
+   "sponsored": false,
+   "slug": "autobank-chicago",
+   "name": "AutoBank",
+   "summary": "AutoBank is an used car dealer in Chicago, IL.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/autobank-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/autobank-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9229963,
+    "lon": -87.74666
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12964266703",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 67,
+   "sponsored": false,
+   "slug": "c-and-g-auto-sales-gary",
+   "name": "C & G Auto Sales",
+   "summary": "C & G Auto Sales is an used car dealer in Gary, IN.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/c-and-g-auto-sales-gary/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/c-and-g-auto-sales-gary.json",
+   "address": {
+    "addressLocality": "Gary",
+    "addressRegion": "IN",
+    "addressCountry": "US"
+   },
+   "city": "Gary",
+   "state": "IN",
+   "geo": {
+    "lat": 41.596545,
+    "lon": -87.2749496
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1333613606",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 68,
    "sponsored": false,
    "slug": "christy-motors-crystal",
    "name": "Christy Motors",
@@ -1061,7 +2237,210 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 33,
+   "position": 69,
+   "sponsored": false,
+   "slug": "ford-downers-grove",
+   "name": "Ford",
+   "summary": "Ford is an used car dealer in Downers Grove, IL.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ford-downers-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ford-downers-grove.json",
+   "address": {
+    "addressLocality": "Downers Grove",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Downers Grove",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8074766,
+    "lon": -88.0377419
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/292236666",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 70,
+   "sponsored": false,
+   "slug": "harlem-motor-sales-palos-hills",
+   "name": "Harlem Motor Sales",
+   "summary": "Harlem Motor Sales is an used car dealer in Palos Hills, IL.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/harlem-motor-sales-palos-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/harlem-motor-sales-palos-hills.json",
+   "address": {
+    "addressLocality": "Palos Hills",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Palos Hills",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7013594,
+    "lon": -87.7984655
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/878832585",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 71,
+   "sponsored": false,
+   "slug": "hyundai-of-palatine-palatine",
+   "name": "Hyundai of Palatine",
+   "summary": "Hyundai of Palatine is an used car dealer in Palatine, IL.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hyundai-of-palatine-palatine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hyundai-of-palatine-palatine.json",
+   "address": {
+    "addressLocality": "Palatine",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Palatine",
+   "state": "IL",
+   "geo": {
+    "lat": 42.1530663,
+    "lon": -88.0367943
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/947547809",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 72,
+   "sponsored": false,
+   "slug": "i-80-autosales-hazel-crest",
+   "name": "I 80 AutoSales",
+   "summary": "I 80 AutoSales is an used car dealer in Hazel Crest, IL.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/i-80-autosales-hazel-crest/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/i-80-autosales-hazel-crest.json",
+   "address": {
+    "addressLocality": "Hazel Crest",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Hazel Crest",
+   "state": "IL",
+   "geo": {
+    "lat": 41.5858689,
+    "lon": -87.6950859
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7518739631",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 73,
+   "sponsored": false,
+   "slug": "manheim-chicago-auto-auction-matteson",
+   "name": "Manheim Chicago Auto Auction",
+   "summary": "Manheim Chicago Auto Auction is an used car dealer in Matteson, IL.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/manheim-chicago-auto-auction-matteson/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/manheim-chicago-auto-auction-matteson.json",
+   "address": {
+    "addressLocality": "Matteson",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Matteson",
+   "state": "IL",
+   "geo": {
+    "lat": 41.5184169,
+    "lon": -87.7784278
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4366704165",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 74,
+   "sponsored": false,
+   "slug": "marino-chrysler-jeep-dodge-chicago",
+   "name": "Marino Chrysler Jeep Dodge",
+   "summary": "Marino Chrysler Jeep Dodge is an used car dealer in Chicago, IL.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/marino-chrysler-jeep-dodge-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/marino-chrysler-jeep-dodge-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.953014,
+    "lon": -87.7559215
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/762167390",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 75,
+   "sponsored": false,
+   "slug": "mike-anderson-chevrolet-chicago",
+   "name": "Mike Anderson Chevrolet",
+   "summary": "Mike Anderson Chevrolet is an used car dealer in Chicago, IL.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mike-anderson-chevrolet-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mike-anderson-chevrolet-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9529525,
+    "lon": -87.7606919
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/762166849",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 76,
    "sponsored": false,
    "slug": "ravmotors-of-crystal-crystal",
    "name": "RAVMOTORS of Crystal",
@@ -1090,7 +2469,65 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 34,
+   "position": 77,
+   "sponsored": false,
+   "slug": "schaumburg-pre-driven-used-cars-schaumburg",
+   "name": "Schaumburg Pre-Driven Used Cars",
+   "summary": "Schaumburg Pre-Driven Used Cars is an used car dealer in Schaumburg, IL.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/schaumburg-pre-driven-used-cars-schaumburg/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/schaumburg-pre-driven-used-cars-schaumburg.json",
+   "address": {
+    "addressLocality": "Schaumburg",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Schaumburg",
+   "state": "IL",
+   "geo": {
+    "lat": 42.0491846,
+    "lon": -88.0947809
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/654051951",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 78,
+   "sponsored": false,
+   "slug": "silver-auto-frankfort",
+   "name": "Silver Auto",
+   "summary": "Silver Auto is an used car dealer in Frankfort, IL.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/silver-auto-frankfort/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/silver-auto-frankfort.json",
+   "address": {
+    "addressLocality": "Frankfort",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Frankfort",
+   "state": "IL",
+   "geo": {
+    "lat": 41.4792792,
+    "lon": -87.8440322
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1053358250",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 79,
    "sponsored": false,
    "slug": "tower-auto-mart-crystal",
    "name": "Tower Auto Mart",
@@ -1117,6 +2554,283 @@
    "source": "OpenStreetMap",
    "source_url": "https://www.openstreetmap.org/way/171280475",
    "last_checked": "2026-10-17"
+  },
+  {
+   "position": 80,
+   "sponsored": false,
+   "slug": "wheels-of-chicago-chicago",
+   "name": "Wheels of Chicago",
+   "summary": "Wheels of Chicago is an used car dealer in Chicago, IL.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wheels-of-chicago-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wheels-of-chicago-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9948208,
+    "lon": -87.6894468
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12964220470",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 81,
+   "sponsored": false,
+   "slug": "wholesale-outlet-hazel-crest",
+   "name": "Wholesale Outlet",
+   "summary": "Wholesale Outlet is an used car dealer in Hazel Crest, IL.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wholesale-outlet-hazel-crest/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wholesale-outlet-hazel-crest.json",
+   "address": {
+    "addressLocality": "Hazel Crest",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Hazel Crest",
+   "state": "IL",
+   "geo": {
+    "lat": 41.5858585,
+    "lon": -87.6939396
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7518739630",
+   "last_checked": "2026-10-17"
   }
- ]
+ ],
+ "market": {
+  "keyword": "used cars for sale",
+  "slug": "used-cars-for-sale",
+  "base_keyword": "used cars for sale",
+  "scope": "national",
+  "city": null,
+  "state": null,
+  "category": "ecommerce_retail",
+  "industry": "Shopping, Collectibles & Gifts",
+  "us_monthly_searches": {
+   "value": 140000,
+   "range": [
+    79000,
+    300000
+   ],
+   "method": "estimate",
+   "estimate_method": "median of 80 cited US volumes for 'high'-demand keywords in the b2b_professional research; rounded to 2 significant figures; range = 25th-75th percentile",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "confidence": "low"
+  },
+  "local_monthly_searches": null,
+  "cpc_usd": {
+   "industry_benchmark": "Shopping, Collectibles & Gifts",
+   "low_usd": 3.49,
+   "median_usd": 4.14,
+   "high_usd": 4.14,
+   "method": "published benchmarks: low/high = range of the industry and sub-industry median CPCs listed in 'figures'; median = most specific benchmark",
+   "figures": [
+    {
+     "usd": 4.14,
+     "label": "Shopping, Collectibles & Gifts median CPC 2026",
+     "source": "wordstream_2026"
+    },
+    {
+     "usd": 3.49,
+     "label": "Shopping, Collectibles & Gifts median CPC 2025",
+     "source": "wordstream_2025"
+    }
+   ],
+   "source": "wordstream_2026",
+   "as_of": "2026",
+   "basis_for_value": {
+    "usd": 4.14,
+    "method": "benchmark median CPC",
+    "source": "wordstream_2026"
+   }
+  },
+  "ctr_pct": {
+   "value": 8.92,
+   "label": "Shopping, Collectibles & Gifts average search-ad CTR 2025",
+   "source": "wordstream_2025",
+   "as_of": "2025-03"
+  },
+  "competition": {
+   "level": "medium",
+   "method": "proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research)",
+   "source": "wordstream_2026",
+   "as_of": "2026"
+  },
+  "trend": null,
+  "seasonality": {
+   "value": null,
+   "note": "No seasonality data in the research sources for this keyword."
+  },
+  "ai_query": {
+   "text": "No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.",
+   "figures": [
+    {
+     "value": "45%",
+     "label": "US adults using AI for local recommendations",
+     "source": "brightlocal_lcrs_2026"
+    },
+    {
+     "value": "75%",
+     "label": "sessions with keyword-style prompts",
+     "source": "sagapixel_sel"
+    },
+    {
+     "value": "59%",
+     "label": "local-intent prompts that triggered web search",
+     "source": "nectiv"
+    }
+   ],
+   "as_of": "2026"
+  },
+  "registry_competitors": {
+   "value": 81,
+   "slugs": [
+    "5-stars-auto-service-and-sales-chicago",
+    "admiral-motors-arlington-heights",
+    "ados-motors-saint-paul",
+    "alex-used-cars-minneapolis",
+    "alpha-motors-chicago",
+    "arrow-truck-sales-bolingbrook",
+    "auto-center-bargain-lot-wayzata",
+    "auto-sales-chicago",
+    "autobank-chicago",
+    "bedrock-motors-rogers"
+   ],
+   "method_id": "competitors",
+   "source": "registry",
+   "as_of": "2026-10-18",
+   "urls": [
+    "https://dingalinged-cpu.github.io/registry/c/5-stars-auto-service-and-sales-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/admiral-motors-arlington-heights/",
+    "https://dingalinged-cpu.github.io/registry/c/ados-motors-saint-paul/",
+    "https://dingalinged-cpu.github.io/registry/c/alex-used-cars-minneapolis/",
+    "https://dingalinged-cpu.github.io/registry/c/alpha-motors-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/arrow-truck-sales-bolingbrook/",
+    "https://dingalinged-cpu.github.io/registry/c/auto-center-bargain-lot-wayzata/",
+    "https://dingalinged-cpu.github.io/registry/c/auto-sales-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/autobank-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/bedrock-motors-rogers/"
+   ],
+   "method": "count of registry listings tagged with the keyword (city/national) or with the base service in the same state (state keywords)"
+  },
+  "agent_demand": null,
+  "agent_demand_note": "Not yet measured. Will carry AI-agent query counts from the registry's agent analytics (contract: meta.agent_demand_contract in the market index).",
+  "equivalent_google_ads_cost_month": {
+   "value_usd": 52000,
+   "method": "estimate",
+   "method_id": "google_ads_equiv",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote."
+  },
+  "search_value_index": {
+   "value_usd": 580000,
+   "method": "estimate",
+   "method_id": "value_index",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: search value index = monthly searches x CPC basis; an advertiser-value ranking signal, not revenue; rounded to 2 significant figures."
+  },
+  "auction": {
+   "featured_spot_min_usd": 50,
+   "spots_2_to_4_min_usd": 5,
+   "tier": "standard",
+   "pricing_rule": "tier minimum (premium $500, high $250, mid $100, standard $50) for national keywords; city = max($10, 20% of tier); state = max($10, 35% of tier); spots 2-4 open at 10% of the featured minimum",
+   "model": "Monthly auction in the last 7 days of each month: days 1-5 bid for the Featured #1 spot, days 6-7 for spots 2-4; winners display all next month; all paid spots labeled Sponsored.",
+   "next_auctions": [
+    {
+     "display_month": "2026-11",
+     "featured_spot_bidding": [
+      "2026-10-25",
+      "2026-10-29"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-10-30",
+      "2026-10-31"
+     ]
+    },
+    {
+     "display_month": "2026-12",
+     "featured_spot_bidding": [
+      "2026-11-24",
+      "2026-11-28"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-11-29",
+      "2026-11-30"
+     ]
+    }
+   ],
+   "source": "registry_auction",
+   "as_of": "2026-10-18"
+  },
+  "sources": {
+   "brightlocal_lcrs_2026": {
+    "name": "BrightLocal Local Consumer Review Survey 2026 (n=1,002 US adults)",
+    "url": "https://www.brightlocal.com/research/lcrs-ai-trust/",
+    "as_of": "2026"
+   },
+   "nectiv": {
+    "name": "Nectiv study of 8,500+ ChatGPT prompts",
+    "url": "https://nectivdigital.com/blog/new-data-study-what-queries-is-chatgpt-using-behind-the-scenes",
+    "as_of": "2025"
+   },
+   "registry": {
+    "name": "This registry's own listings (OpenStreetMap-seeded, ODbL)",
+    "url": "https://dingalinged-cpu.github.io/registry/api/companies.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_auction": {
+    "name": "Registry keyword auction catalog and rules",
+    "url": "https://dingalinged-cpu.github.io/registry/api/keyword-prices.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_estimate": {
+    "name": "Registry estimate (CC-BY-4.0); method given on each value",
+    "url": "https://dingalinged-cpu.github.io/registry/market/",
+    "as_of": "2026-10-18"
+   },
+   "sagapixel_sel": {
+    "name": "Sagapixel ChatGPT local-services sessions, via Search Engine Land",
+    "url": "https://searchengineland.com/chatgpt-users-keywords-for-local-services-data-467715",
+    "as_of": "2026-01"
+   },
+   "wordstream_2025": {
+    "name": "WordStream Google Ads Benchmarks 2025 (16,446 US campaigns, Apr 2024-Mar 2025; median CPC and CTR by industry)",
+    "url": "https://www.wordstream.com/blog/2025-google-ads-benchmarks",
+    "as_of": "2025-03"
+   },
+   "wordstream_2026": {
+    "name": "LocaliQ/WordStream Search Advertising Benchmarks 2026 (US median CPC by industry)",
+    "url": "https://www.localiq.com/blog/search-advertising-benchmarks",
+    "as_of": "2026"
+   }
+  },
+  "license": {
+   "registry_estimates": "CC-BY-4.0",
+   "url": "https://creativecommons.org/licenses/by/4.0/",
+   "cited_figures": "attribute to the publishers in sources"
+  },
+  "as_of": "2026-10-18",
+  "api": "https://dingalinged-cpu.github.io/registry/api/market/used-cars-for-sale.json",
+  "rate_card": "https://dingalinged-cpu.github.io/registry/view/market.html#used-cars-for-sale"
+ }
 }

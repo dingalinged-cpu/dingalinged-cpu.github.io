@@ -1,0 +1,54 @@
+{
+ "slug": "chicago-equine-medical-center-wauconda",
+ "name": "Chicago Equine Medical Center",
+ "categories": [
+  "vet"
+ ],
+ "keywords": [
+  "vet",
+  "vet wauconda il"
+ ],
+ "services": [
+  {
+   "name": "vet",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "26996 North Darrell Road",
+  "addressLocality": "Wauconda",
+  "addressRegion": "IL",
+  "postalCode": "60084",
+  "addressCountry": "US"
+ },
+ "city": "Wauconda",
+ "state": "IL",
+ "zip": "60084",
+ "geo": {
+  "lat": 42.2567771,
+  "lon": -88.1831291
+ },
+ "website": "https://chicagoequine.com/",
+ "schema_type": "VeterinaryCare",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/373354536",
+ "osm": {
+  "type": "way",
+  "id": 373354536,
+  "tags_used": {
+   "amenity": "veterinary"
+  }
+ },
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/chicago-equine-medical-center-wauconda/",
+ "summary": "Chicago Equine Medical Center is a veterinarian in Wauconda, IL at 26996 North Darrell Road, Wauconda, IL 60084. Website: https://chicagoequine.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,55 @@
+{
+ "slug": "grand-and-western-liquors-chicago",
+ "name": "Grand & Western Liquors",
+ "categories": [
+  "liquor store"
+ ],
+ "keywords": [
+  "liquor store",
+  "liquor store chicago il"
+ ],
+ "services": [
+  {
+   "name": "liquor store",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "515 North Western Avenue",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60612",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60612",
+ "geo": {
+  "lat": 41.8913045,
+  "lon": -87.6863622
+ },
+ "website": "https://www.grandwesternliquors.com/",
+ "schema_type": "LiquorStore",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/3874388803",
+ "osm": {
+  "type": "node",
+  "id": 3874388803,
+  "tags_used": {
+   "shop": "alcohol"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/grand-and-western-liquors-chicago/",
+ "summary": "Grand & Western Liquors is a liquor store in Chicago, IL at 515 North Western Avenue, Chicago, IL 60612. Website: https://www.grandwesternliquors.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,23 @@
+Pep Boys is an auto repair shop in Crestwood, IL.
+
+# Pep Boys
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: Crestwood, IL
+- City: Crestwood
+- State: IL
+- ZIP: n/a
+- Coordinates: 41.6488658, -87.7373819
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/pep-boys-crestwood/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/pep-boys-crestwood.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9642742884 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

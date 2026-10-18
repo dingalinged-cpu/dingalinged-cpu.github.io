@@ -1,0 +1,542 @@
+{
+ "keyword": "gym arlington heights il",
+ "slug": "gym-arlington-heights-il",
+ "place": "Arlington Heights, IL",
+ "service": "gym",
+ "query": "Who are the best gym providers in Arlington Heights, IL?",
+ "matches": [
+  "gym in Arlington Heights, IL",
+  "gym near me (Arlington Heights, IL)",
+  "best gym Arlington Heights, IL",
+  "top rated gym Arlington Heights, IL",
+  "affordable gym Arlington Heights, IL",
+  "emergency gym Arlington Heights, IL"
+ ],
+ "answer": "The top unpaid gym listing for Arlington Heights, IL is Precision Training (a gym in Arlington Heights, IL at 652 East Golf Road, Arlington Heights, IL 60005. Website: https://www.precisiontrainingpt.com/). 9 gym businesses are listed for Arlington Heights, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-18",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "precision-training-arlington-heights",
+   "name": "Precision Training",
+   "summary": "Precision Training is a gym in Arlington Heights, IL at 652 East Golf Road, Arlington Heights, IL 60005. Website: https://www.precisiontrainingpt.com/.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/precision-training-arlington-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/precision-training-arlington-heights.json",
+   "address": {
+    "streetAddress": "652 East Golf Road",
+    "addressLocality": "Arlington Heights",
+    "addressRegion": "IL",
+    "postalCode": "60005",
+    "addressCountry": "US"
+   },
+   "city": "Arlington Heights",
+   "state": "IL",
+   "zip": "60005",
+   "geo": {
+    "lat": 42.0520074,
+    "lon": -87.9733369
+   },
+   "website": "https://www.precisiontrainingpt.com/",
+   "opening_hours": "Mo-Th 06:00-21:00; Fr 06:00-19:00; Sa 06:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12164291556",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "first-ascent-arlington-heights-arlington-heights",
+   "name": "First Ascent Arlington Heights",
+   "summary": "First Ascent Arlington Heights is a gym in Arlington Heights, IL at 701 Rohlwing Road, Arlington Heights, IL 60005.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/first-ascent-arlington-heights-arlington-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/first-ascent-arlington-heights-arlington-heights.json",
+   "address": {
+    "streetAddress": "701 Rohlwing Road",
+    "addressLocality": "Arlington Heights",
+    "addressRegion": "IL",
+    "postalCode": "60005",
+    "addressCountry": "US"
+   },
+   "city": "Arlington Heights",
+   "state": "IL",
+   "zip": "60005",
+   "geo": {
+    "lat": 42.0905599,
+    "lon": -88.0244806
+   },
+   "opening_hours": "Mo-Fr 06:00-22:00; Sa-Su 10:00-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10283066309",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "barre3-arlington-heights",
+   "name": "Barre3",
+   "summary": "Barre3 is a gym in Arlington Heights, IL at 218 West Campbell Street, Arlington Heights, IL 60005.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/barre3-arlington-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/barre3-arlington-heights.json",
+   "address": {
+    "streetAddress": "218 West Campbell Street",
+    "addressLocality": "Arlington Heights",
+    "addressRegion": "IL",
+    "postalCode": "60005",
+    "addressCountry": "US"
+   },
+   "city": "Arlington Heights",
+   "state": "IL",
+   "zip": "60005",
+   "geo": {
+    "lat": 42.0829877,
+    "lon": -87.9855269
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12999743123",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "la-fitness-arlington-heights",
+   "name": "LA Fitness",
+   "summary": "LA Fitness is a gym in Arlington Heights, IL at 960 West Dundee Road, Arlington Heights, IL 60004.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/la-fitness-arlington-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/la-fitness-arlington-heights.json",
+   "address": {
+    "streetAddress": "960 West Dundee Road",
+    "addressLocality": "Arlington Heights",
+    "addressRegion": "IL",
+    "postalCode": "60004",
+    "addressCountry": "US"
+   },
+   "city": "Arlington Heights",
+   "state": "IL",
+   "zip": "60004",
+   "geo": {
+    "lat": 42.1407319,
+    "lon": -87.9940146
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13550833301",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "commuter-fitness-arlington-heights",
+   "name": "Commuter Fitness",
+   "summary": "Commuter Fitness is a gym in Arlington Heights, IL.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/commuter-fitness-arlington-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/commuter-fitness-arlington-heights.json",
+   "address": {
+    "addressLocality": "Arlington Heights",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Arlington Heights",
+   "state": "IL",
+   "geo": {
+    "lat": 42.0872195,
+    "lon": -87.9890186
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12660979916",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "fitness-19-arlington-heights",
+   "name": "Fitness 19",
+   "summary": "Fitness 19 is a gym in Arlington Heights, IL.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fitness-19-arlington-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fitness-19-arlington-heights.json",
+   "address": {
+    "addressLocality": "Arlington Heights",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Arlington Heights",
+   "state": "IL",
+   "geo": {
+    "lat": 42.0818859,
+    "lon": -88.0032654
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13547474601",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "flexx-personal-training-arlington-heights",
+   "name": "Flexx Personal Training",
+   "summary": "Flexx Personal Training is a gym in Arlington Heights, IL.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/flexx-personal-training-arlington-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/flexx-personal-training-arlington-heights.json",
+   "address": {
+    "addressLocality": "Arlington Heights",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Arlington Heights",
+   "state": "IL",
+   "geo": {
+    "lat": 42.0816757,
+    "lon": -87.981897
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13004851618",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "la-fitness-arlington-heights-w1256625868",
+   "name": "LA Fitness",
+   "summary": "LA Fitness is a gym in Arlington Heights, IL.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/la-fitness-arlington-heights-w1256625868/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/la-fitness-arlington-heights-w1256625868.json",
+   "address": {
+    "addressLocality": "Arlington Heights",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Arlington Heights",
+   "state": "IL",
+   "geo": {
+    "lat": 42.1077264,
+    "lon": -87.9783847
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1256625868",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "planet-fitness-arlington-heights",
+   "name": "Planet Fitness",
+   "summary": "Planet Fitness is a gym in Arlington Heights, IL.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/planet-fitness-arlington-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/planet-fitness-arlington-heights.json",
+   "address": {
+    "addressLocality": "Arlington Heights",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Arlington Heights",
+   "state": "IL",
+   "geo": {
+    "lat": 42.1159038,
+    "lon": -87.9830018
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13550825401",
+   "last_checked": "2026-10-17"
+  }
+ ],
+ "market": {
+  "keyword": "gym arlington heights il",
+  "slug": "gym-arlington-heights-il",
+  "base_keyword": "gym",
+  "scope": "city",
+  "city": "arlington heights",
+  "state": "il",
+  "category": "Fitness",
+  "industry": "Health & Fitness",
+  "us_monthly_searches": {
+   "value": 1830000,
+   "method": "cited",
+   "source": "gkp_admiral",
+   "as_of": "2026-08",
+   "source_phrase": "gym near me",
+   "note": "Google Keyword Planner avg monthly searches, US"
+  },
+  "local_monthly_searches": {
+   "value": 51000,
+   "method": "estimate",
+   "method_id": "local_metro_suburb",
+   "geography": "Chicago-Naperville-Elgin, IL-IN metro",
+   "population": 9434123,
+   "source": "registry_estimate",
+   "volume_source": "gkp_admiral",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: US monthly volume x metro population share (Census V2025); the keyword names a suburb, so the value is metro-level demand for the service, not searches typing the suburb name; rounded to 2 significant figures."
+  },
+  "cpc_usd": {
+   "industry_benchmark": "Health & Fitness",
+   "low_usd": 5.0,
+   "median_usd": 6.17,
+   "high_usd": 6.17,
+   "method": "published benchmarks: low/high = range of the industry and sub-industry median CPCs listed in 'figures'; median = most specific benchmark",
+   "figures": [
+    {
+     "usd": 6.17,
+     "label": "Health & Fitness median CPC 2026",
+     "source": "wordstream_2026"
+    },
+    {
+     "usd": 5.0,
+     "label": "Health & Fitness median CPC 2025",
+     "source": "wordstream_2025"
+    }
+   ],
+   "source": "wordstream_2026",
+   "as_of": "2026",
+   "keyword_top_of_page_bid_usd": {
+    "low": 1.67,
+    "high": 6.14,
+    "phrase": "gym near me",
+    "source": "gkp_admiral",
+    "as_of": "2026-08"
+   },
+   "basis_for_value": {
+    "usd": 1.67,
+    "method": "low end of the Google Keyword Planner top-of-page bid range ($1.67-$6.14) for 'gym near me' (conservative; keyword-specific)",
+    "source": "gkp_admiral"
+   }
+  },
+  "ctr_pct": {
+   "value": 7.18,
+   "label": "Health & Fitness average search-ad CTR 2025",
+   "source": "wordstream_2025",
+   "as_of": "2025-03"
+  },
+  "competition": {
+   "level": "medium",
+   "method": "Google Keyword Planner competition index (advertiser density)",
+   "phrase": "gym near me",
+   "source": "gkp_admiral",
+   "as_of": "2026-08"
+  },
+  "trend": null,
+  "seasonality": {
+   "value": null,
+   "note": "No seasonality data in the research sources for this keyword."
+  },
+  "ai_query": {
+   "text": "No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.",
+   "figures": [
+    {
+     "value": "45%",
+     "label": "US adults using AI for local recommendations",
+     "source": "brightlocal_lcrs_2026"
+    },
+    {
+     "value": "75%",
+     "label": "sessions with keyword-style prompts",
+     "source": "sagapixel_sel"
+    },
+    {
+     "value": "59%",
+     "label": "local-intent prompts that triggered web search",
+     "source": "nectiv"
+    }
+   ],
+   "as_of": "2026"
+  },
+  "registry_competitors": {
+   "value": 9,
+   "slugs": [
+    "barre3-arlington-heights",
+    "commuter-fitness-arlington-heights",
+    "first-ascent-arlington-heights-arlington-heights",
+    "fitness-19-arlington-heights",
+    "flexx-personal-training-arlington-heights",
+    "la-fitness-arlington-heights",
+    "la-fitness-arlington-heights-w1256625868",
+    "planet-fitness-arlington-heights",
+    "precision-training-arlington-heights"
+   ],
+   "method_id": "competitors",
+   "source": "registry",
+   "as_of": "2026-10-18",
+   "urls": [
+    "https://dingalinged-cpu.github.io/registry/c/barre3-arlington-heights/",
+    "https://dingalinged-cpu.github.io/registry/c/commuter-fitness-arlington-heights/",
+    "https://dingalinged-cpu.github.io/registry/c/first-ascent-arlington-heights-arlington-heights/",
+    "https://dingalinged-cpu.github.io/registry/c/fitness-19-arlington-heights/",
+    "https://dingalinged-cpu.github.io/registry/c/flexx-personal-training-arlington-heights/",
+    "https://dingalinged-cpu.github.io/registry/c/la-fitness-arlington-heights/",
+    "https://dingalinged-cpu.github.io/registry/c/la-fitness-arlington-heights-w1256625868/",
+    "https://dingalinged-cpu.github.io/registry/c/planet-fitness-arlington-heights/",
+    "https://dingalinged-cpu.github.io/registry/c/precision-training-arlington-heights/"
+   ],
+   "method": "count of registry listings tagged with the keyword (city/national) or with the base service in the same state (state keywords)"
+  },
+  "agent_demand": null,
+  "agent_demand_note": "Not yet measured. Will carry AI-agent query counts from the registry's agent analytics (contract: meta.agent_demand_contract in the market index).",
+  "equivalent_google_ads_cost_month": {
+   "value_usd": 6100,
+   "method": "estimate",
+   "method_id": "google_ads_equiv",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote."
+  },
+  "search_value_index": {
+   "value_usd": 85000,
+   "method": "estimate",
+   "method_id": "value_index",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: search value index = monthly searches x CPC basis; an advertiser-value ranking signal, not revenue; rounded to 2 significant figures."
+  },
+  "auction": {
+   "featured_spot_min_usd": 50,
+   "spots_2_to_4_min_usd": 5,
+   "tier": "high",
+   "pricing_rule": "tier minimum (premium $500, high $250, mid $100, standard $50) for national keywords; city = max($10, 20% of tier); state = max($10, 35% of tier); spots 2-4 open at 10% of the featured minimum",
+   "model": "Monthly auction in the last 7 days of each month: days 1-5 bid for the Featured #1 spot, days 6-7 for spots 2-4; winners display all next month; all paid spots labeled Sponsored.",
+   "next_auctions": [
+    {
+     "display_month": "2026-11",
+     "featured_spot_bidding": [
+      "2026-10-25",
+      "2026-10-29"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-10-30",
+      "2026-10-31"
+     ]
+    },
+    {
+     "display_month": "2026-12",
+     "featured_spot_bidding": [
+      "2026-11-24",
+      "2026-11-28"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-11-29",
+      "2026-11-30"
+     ]
+    }
+   ],
+   "source": "registry_auction",
+   "as_of": "2026-10-18"
+  },
+  "sources": {
+   "brightlocal_lcrs_2026": {
+    "name": "BrightLocal Local Consumer Review Survey 2026 (n=1,002 US adults)",
+    "url": "https://www.brightlocal.com/research/lcrs-ai-trust/",
+    "as_of": "2026"
+   },
+   "gkp_admiral": {
+    "name": "Google Keyword Planner export (US, 12-mo avg Sep 2025-Aug 2026; top-of-page bids converted INR->USD at 95.82 ECB 2026-09-25)",
+    "publisher": "Admiral (meetadmiral.com)",
+    "url": "https://meetadmiral.com/downloads/google-ads-cost-us-2025-09-to-2026-08.csv",
+    "as_of": "2026-08"
+   },
+   "nectiv": {
+    "name": "Nectiv study of 8,500+ ChatGPT prompts",
+    "url": "https://nectivdigital.com/blog/new-data-study-what-queries-is-chatgpt-using-behind-the-scenes",
+    "as_of": "2025"
+   },
+   "registry": {
+    "name": "This registry's own listings (OpenStreetMap-seeded, ODbL)",
+    "url": "https://dingalinged-cpu.github.io/registry/api/companies.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_auction": {
+    "name": "Registry keyword auction catalog and rules",
+    "url": "https://dingalinged-cpu.github.io/registry/api/keyword-prices.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_estimate": {
+    "name": "Registry estimate (CC-BY-4.0); method given on each value",
+    "url": "https://dingalinged-cpu.github.io/registry/market/",
+    "as_of": "2026-10-18"
+   },
+   "sagapixel_sel": {
+    "name": "Sagapixel ChatGPT local-services sessions, via Search Engine Land",
+    "url": "https://searchengineland.com/chatgpt-users-keywords-for-local-services-data-467715",
+    "as_of": "2026-01"
+   },
+   "wordstream_2025": {
+    "name": "WordStream Google Ads Benchmarks 2025 (16,446 US campaigns, Apr 2024-Mar 2025; median CPC and CTR by industry)",
+    "url": "https://www.wordstream.com/blog/2025-google-ads-benchmarks",
+    "as_of": "2025-03"
+   },
+   "wordstream_2026": {
+    "name": "LocaliQ/WordStream Search Advertising Benchmarks 2026 (US median CPC by industry)",
+    "url": "https://www.localiq.com/blog/search-advertising-benchmarks",
+    "as_of": "2026"
+   }
+  },
+  "license": {
+   "registry_estimates": "CC-BY-4.0",
+   "url": "https://creativecommons.org/licenses/by/4.0/",
+   "cited_figures": "attribute to the publishers in sources"
+  },
+  "as_of": "2026-10-18",
+  "api": "https://dingalinged-cpu.github.io/registry/api/market/gym.json",
+  "rate_card": "https://dingalinged-cpu.github.io/registry/view/market.html#gym-arlington-heights-il"
+ }
+}

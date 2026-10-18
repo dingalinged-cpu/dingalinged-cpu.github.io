@@ -1,0 +1,56 @@
+{
+ "slug": "downers-grove-animal-hospital-downers-grove",
+ "name": "Downers Grove Animal Hospital",
+ "categories": [
+  "vet"
+ ],
+ "keywords": [
+  "vet",
+  "vet downers grove il"
+ ],
+ "services": [
+  {
+   "name": "vet",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "635 Ogden Avenue",
+  "addressLocality": "Downers Grove",
+  "addressRegion": "IL",
+  "postalCode": "60515",
+  "addressCountry": "US"
+ },
+ "city": "Downers Grove",
+ "state": "IL",
+ "zip": "60515",
+ "geo": {
+  "lat": 41.8090896,
+  "lon": -88.0015949
+ },
+ "phone": "+16309682812",
+ "website": "https://www.dganimalhospital.com/",
+ "schema_type": "VeterinaryCare",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/10295635961",
+ "osm": {
+  "type": "node",
+  "id": 10295635961,
+  "tags_used": {
+   "amenity": "veterinary"
+  }
+ },
+ "municipality": "Downers Grove",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/downers-grove-animal-hospital-downers-grove/",
+ "summary": "Downers Grove Animal Hospital is a veterinarian in Downers Grove, IL at 635 Ogden Avenue, Downers Grove, IL 60515. Phone: +16309682812. Website: https://www.dganimalhospital.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

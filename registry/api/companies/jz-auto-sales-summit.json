@@ -1,0 +1,55 @@
+{
+ "slug": "jz-auto-sales-summit",
+ "name": "JZ Auto Sales",
+ "categories": [
+  "used cars for sale"
+ ],
+ "keywords": [
+  "used cars for sale",
+  "used cars for sale summit il"
+ ],
+ "services": [
+  {
+   "name": "used cars for sale",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "6158 South Harlem Avenue",
+  "addressLocality": "Summit",
+  "addressRegion": "IL",
+  "postalCode": "60501",
+  "addressCountry": "US"
+ },
+ "city": "Summit",
+ "state": "IL",
+ "zip": "60501",
+ "geo": {
+  "lat": 41.7792826,
+  "lon": -87.8014661
+ },
+ "website": "https://www.jzautosale.net/",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/1230282890",
+ "osm": {
+  "type": "way",
+  "id": 1230282890,
+  "tags_used": {
+   "shop": "car"
+  }
+ },
+ "municipality": "Summit",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/jz-auto-sales-summit/",
+ "summary": "JZ Auto Sales is an used car dealer in Summit, IL at 6158 South Harlem Avenue, Summit, IL 60501. Website: https://www.jzautosale.net/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

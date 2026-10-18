@@ -1,0 +1,54 @@
+{
+ "slug": "brighton-park-animal-hospital-chicago",
+ "name": "Brighton Park Animal Hospital",
+ "categories": [
+  "vet"
+ ],
+ "keywords": [
+  "vet",
+  "vet chicago il"
+ ],
+ "services": [
+  {
+   "name": "vet",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "3779 South Archer Avenue",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60632",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60632",
+ "geo": {
+  "lat": 41.8245899,
+  "lon": -87.6867187
+ },
+ "schema_type": "VeterinaryCare",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/165150812",
+ "osm": {
+  "type": "way",
+  "id": 165150812,
+  "tags_used": {
+   "amenity": "veterinary"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/brighton-park-animal-hospital-chicago/",
+ "summary": "Brighton Park Animal Hospital is a veterinarian in Chicago, IL at 3779 South Archer Avenue, Chicago, IL 60632.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

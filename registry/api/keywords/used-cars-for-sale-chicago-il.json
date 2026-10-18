@@ -1,0 +1,673 @@
+{
+ "keyword": "used cars for sale chicago il",
+ "slug": "used-cars-for-sale-chicago-il",
+ "place": "Chicago, IL",
+ "service": "used cars for sale",
+ "query": "Who are the best used cars for sale providers in Chicago, IL?",
+ "matches": [
+  "used cars for sale in Chicago, IL",
+  "used cars for sale near me (Chicago, IL)",
+  "best used cars for sale Chicago, IL",
+  "top rated used cars for sale Chicago, IL",
+  "affordable used cars for sale Chicago, IL",
+  "emergency used cars for sale Chicago, IL"
+ ],
+ "answer": "The top unpaid used cars for sale listing for Chicago, IL is Alpha Motors (an used car dealer in Chicago, IL at 2622 North Cicero Avenue, Chicago, IL 60639. Phone: +17739067883. Website: https://www.alphamotorschicago.com/). 13 used cars for sale businesses are listed for Chicago, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-18",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "alpha-motors-chicago",
+   "name": "Alpha Motors",
+   "summary": "Alpha Motors is an used car dealer in Chicago, IL at 2622 North Cicero Avenue, Chicago, IL 60639. Phone: +17739067883. Website: https://www.alphamotorschicago.com/.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/alpha-motors-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/alpha-motors-chicago.json",
+   "address": {
+    "streetAddress": "2622 North Cicero Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60639",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60639",
+   "geo": {
+    "lat": 41.9286586,
+    "lon": -87.7469974
+   },
+   "phone": "+17739067883",
+   "website": "https://www.alphamotorschicago.com/",
+   "opening_hours": "Mo-Sa 10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/162434171",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "rocket-auto-sales-chicago",
+   "name": "Rocket Auto Sales",
+   "summary": "Rocket Auto Sales is an used car dealer in Chicago, IL at 5552 South Archer Avenue, Chicago, IL 60638. Phone: +17732325536. Website: https://www.rocketautosale.com/.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rocket-auto-sales-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rocket-auto-sales-chicago.json",
+   "address": {
+    "streetAddress": "5552 South Archer Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60638",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60638",
+   "geo": {
+    "lat": 41.7981467,
+    "lon": -87.7486751
+   },
+   "phone": "+17732325536",
+   "website": "https://www.rocketautosale.com/",
+   "opening_hours": "Mo-Th 10:00-18:00; Fr-Sa 10:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/162170013",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "perillo-bmw-chicago",
+   "name": "Perillo BMW",
+   "summary": "Perillo BMW is an used car dealer in Chicago, IL at 1035 North Clark Street, Chicago, IL 60610. Phone: +13129810000. Website: https://www.perillobmw.com/.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/perillo-bmw-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/perillo-bmw-chicago.json",
+   "address": {
+    "streetAddress": "1035 North Clark Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60610",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60610",
+   "geo": {
+    "lat": 41.9014549,
+    "lon": -87.630953
+   },
+   "phone": "+13129810000",
+   "website": "https://www.perillobmw.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/210679204",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "quick-sales-corporation-chicago",
+   "name": "Quick Sales Corporation",
+   "summary": "Quick Sales Corporation is an used car dealer in Chicago, IL at 5800 West Fullerton Avenue, Chicago, IL 60639. Phone: +18476089800.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/quick-sales-corporation-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/quick-sales-corporation-chicago.json",
+   "address": {
+    "streetAddress": "5800 West Fullerton Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60639",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60639",
+   "geo": {
+    "lat": 41.9242384,
+    "lon": -87.7711708
+   },
+   "phone": "+18476089800",
+   "opening_hours": "Mo,Tu,Th,Fr 11:00-19:00; Sa 10:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13587088029",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "5-stars-auto-service-and-sales-chicago",
+   "name": "5 Stars Auto Service And Sales",
+   "summary": "5 Stars Auto Service And Sales is an used car dealer in Chicago, IL at 7446 North Clark Street, Chicago, IL 60626. Website: https://www.5starsautochicago.com/.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/5-stars-auto-service-and-sales-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/5-stars-auto-service-and-sales-chicago.json",
+   "address": {
+    "streetAddress": "7446 North Clark Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60626",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60626",
+   "geo": {
+    "lat": 42.017263,
+    "lon": -87.6757637
+   },
+   "website": "https://www.5starsautochicago.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/209958831",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "car-credit-7600-chicago",
+   "name": "Car Credit 7600",
+   "summary": "Car Credit 7600 is an used car dealer in Chicago, IL at 7630 South Western Avenue, Chicago, IL 60620. Website: https://www.carcredit7600.com/.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/car-credit-7600-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/car-credit-7600-chicago.json",
+   "address": {
+    "streetAddress": "7630 South Western Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60620",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60620",
+   "geo": {
+    "lat": 41.7547354,
+    "lon": -87.6834458
+   },
+   "website": "https://www.carcredit7600.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/209636572",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "carfect-chicago",
+   "name": "Carfect",
+   "summary": "Carfect is an used car dealer in Chicago, IL at 4530 South Archer Avenue, Chicago, IL 60632. Website: https://carfect.com/chicago-used-car-dealers/.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/carfect-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/carfect-chicago.json",
+   "address": {
+    "streetAddress": "4530 South Archer Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60632",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60632",
+   "geo": {
+    "lat": 41.811207,
+    "lon": -87.7094573
+   },
+   "website": "https://carfect.com/chicago-used-car-dealers/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/163676327",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "fletcher-jones-audi-chicago",
+   "name": "Fletcher Jones Audi",
+   "summary": "Fletcher Jones Audi is an used car dealer in Chicago, IL at 1523 West North Avenue, Chicago, IL 60642.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fletcher-jones-audi-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fletcher-jones-audi-chicago.json",
+   "address": {
+    "streetAddress": "1523 West North Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60642",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60642",
+   "geo": {
+    "lat": 41.9104083,
+    "lon": -87.6659389
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/337682191",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "auto-sales-chicago",
+   "name": "Auto Sales",
+   "summary": "Auto Sales is an used car dealer in Chicago, IL at 6712-6714 North Western Avenue, Chicago, IL.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/auto-sales-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/auto-sales-chicago.json",
+   "address": {
+    "streetAddress": "6712-6714 North Western Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 42.00368,
+    "lon": -87.6905395
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/209569694",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "autobank-chicago",
+   "name": "AutoBank",
+   "summary": "AutoBank is an used car dealer in Chicago, IL.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/autobank-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/autobank-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9229963,
+    "lon": -87.74666
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12964266703",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 11,
+   "sponsored": false,
+   "slug": "marino-chrysler-jeep-dodge-chicago",
+   "name": "Marino Chrysler Jeep Dodge",
+   "summary": "Marino Chrysler Jeep Dodge is an used car dealer in Chicago, IL.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/marino-chrysler-jeep-dodge-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/marino-chrysler-jeep-dodge-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.953014,
+    "lon": -87.7559215
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/762167390",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 12,
+   "sponsored": false,
+   "slug": "mike-anderson-chevrolet-chicago",
+   "name": "Mike Anderson Chevrolet",
+   "summary": "Mike Anderson Chevrolet is an used car dealer in Chicago, IL.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mike-anderson-chevrolet-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mike-anderson-chevrolet-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9529525,
+    "lon": -87.7606919
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/762166849",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
+   "sponsored": false,
+   "slug": "wheels-of-chicago-chicago",
+   "name": "Wheels of Chicago",
+   "summary": "Wheels of Chicago is an used car dealer in Chicago, IL.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wheels-of-chicago-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wheels-of-chicago-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9948208,
+    "lon": -87.6894468
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12964220470",
+   "last_checked": "2026-10-17"
+  }
+ ],
+ "market": {
+  "keyword": "used cars for sale chicago il",
+  "slug": "used-cars-for-sale-chicago-il",
+  "base_keyword": "used cars for sale",
+  "scope": "city",
+  "city": "chicago",
+  "state": "il",
+  "category": "ecommerce_retail",
+  "industry": "Shopping, Collectibles & Gifts",
+  "us_monthly_searches": {
+   "value": 140000,
+   "range": [
+    79000,
+    300000
+   ],
+   "method": "estimate",
+   "estimate_method": "median of 80 cited US volumes for 'high'-demand keywords in the b2b_professional research; rounded to 2 significant figures; range = 25th-75th percentile",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "confidence": "low"
+  },
+  "local_monthly_searches": {
+   "value": 3900,
+   "method": "estimate",
+   "method_id": "local_metro",
+   "geography": "Chicago-Naperville-Elgin, IL-IN metro",
+   "population": 9434123,
+   "source": "registry_estimate",
+   "volume_source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: US monthly volume x metro population share (Census V2025 metro pop / US pop 341,784,857); rounded to 2 significant figures. Counts all searches for the service in the metro, not only searches that type this city name."
+  },
+  "cpc_usd": {
+   "industry_benchmark": "Shopping, Collectibles & Gifts",
+   "low_usd": 3.49,
+   "median_usd": 4.14,
+   "high_usd": 4.14,
+   "method": "published benchmarks: low/high = range of the industry and sub-industry median CPCs listed in 'figures'; median = most specific benchmark",
+   "figures": [
+    {
+     "usd": 4.14,
+     "label": "Shopping, Collectibles & Gifts median CPC 2026",
+     "source": "wordstream_2026"
+    },
+    {
+     "usd": 3.49,
+     "label": "Shopping, Collectibles & Gifts median CPC 2025",
+     "source": "wordstream_2025"
+    }
+   ],
+   "source": "wordstream_2026",
+   "as_of": "2026",
+   "basis_for_value": {
+    "usd": 4.14,
+    "method": "benchmark median CPC",
+    "source": "wordstream_2026"
+   }
+  },
+  "ctr_pct": {
+   "value": 8.92,
+   "label": "Shopping, Collectibles & Gifts average search-ad CTR 2025",
+   "source": "wordstream_2025",
+   "as_of": "2025-03"
+  },
+  "competition": {
+   "level": "medium",
+   "method": "proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research)",
+   "source": "wordstream_2026",
+   "as_of": "2026"
+  },
+  "trend": null,
+  "seasonality": {
+   "value": null,
+   "note": "No seasonality data in the research sources for this keyword."
+  },
+  "ai_query": {
+   "text": "No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.",
+   "figures": [
+    {
+     "value": "45%",
+     "label": "US adults using AI for local recommendations",
+     "source": "brightlocal_lcrs_2026"
+    },
+    {
+     "value": "75%",
+     "label": "sessions with keyword-style prompts",
+     "source": "sagapixel_sel"
+    },
+    {
+     "value": "59%",
+     "label": "local-intent prompts that triggered web search",
+     "source": "nectiv"
+    }
+   ],
+   "as_of": "2026"
+  },
+  "registry_competitors": {
+   "value": 13,
+   "slugs": [
+    "5-stars-auto-service-and-sales-chicago",
+    "alpha-motors-chicago",
+    "auto-sales-chicago",
+    "autobank-chicago",
+    "car-credit-7600-chicago",
+    "carfect-chicago",
+    "fletcher-jones-audi-chicago",
+    "marino-chrysler-jeep-dodge-chicago",
+    "mike-anderson-chevrolet-chicago",
+    "perillo-bmw-chicago"
+   ],
+   "method_id": "competitors",
+   "source": "registry",
+   "as_of": "2026-10-18",
+   "urls": [
+    "https://dingalinged-cpu.github.io/registry/c/5-stars-auto-service-and-sales-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/alpha-motors-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/auto-sales-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/autobank-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/car-credit-7600-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/carfect-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/fletcher-jones-audi-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/marino-chrysler-jeep-dodge-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/mike-anderson-chevrolet-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/perillo-bmw-chicago/"
+   ],
+   "method": "count of registry listings tagged with the keyword (city/national) or with the base service in the same state (state keywords)"
+  },
+  "agent_demand": null,
+  "agent_demand_note": "Not yet measured. Will carry AI-agent query counts from the registry's agent analytics (contract: meta.agent_demand_contract in the market index).",
+  "equivalent_google_ads_cost_month": {
+   "value_usd": 1400,
+   "method": "estimate",
+   "method_id": "google_ads_equiv",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote."
+  },
+  "search_value_index": {
+   "value_usd": 16000,
+   "method": "estimate",
+   "method_id": "value_index",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: search value index = monthly searches x CPC basis; an advertiser-value ranking signal, not revenue; rounded to 2 significant figures."
+  },
+  "auction": {
+   "featured_spot_min_usd": 10,
+   "spots_2_to_4_min_usd": 1,
+   "tier": "standard",
+   "pricing_rule": "tier minimum (premium $500, high $250, mid $100, standard $50) for national keywords; city = max($10, 20% of tier); state = max($10, 35% of tier); spots 2-4 open at 10% of the featured minimum",
+   "model": "Monthly auction in the last 7 days of each month: days 1-5 bid for the Featured #1 spot, days 6-7 for spots 2-4; winners display all next month; all paid spots labeled Sponsored.",
+   "next_auctions": [
+    {
+     "display_month": "2026-11",
+     "featured_spot_bidding": [
+      "2026-10-25",
+      "2026-10-29"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-10-30",
+      "2026-10-31"
+     ]
+    },
+    {
+     "display_month": "2026-12",
+     "featured_spot_bidding": [
+      "2026-11-24",
+      "2026-11-28"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-11-29",
+      "2026-11-30"
+     ]
+    }
+   ],
+   "source": "registry_auction",
+   "as_of": "2026-10-18"
+  },
+  "sources": {
+   "brightlocal_lcrs_2026": {
+    "name": "BrightLocal Local Consumer Review Survey 2026 (n=1,002 US adults)",
+    "url": "https://www.brightlocal.com/research/lcrs-ai-trust/",
+    "as_of": "2026"
+   },
+   "nectiv": {
+    "name": "Nectiv study of 8,500+ ChatGPT prompts",
+    "url": "https://nectivdigital.com/blog/new-data-study-what-queries-is-chatgpt-using-behind-the-scenes",
+    "as_of": "2025"
+   },
+   "registry": {
+    "name": "This registry's own listings (OpenStreetMap-seeded, ODbL)",
+    "url": "https://dingalinged-cpu.github.io/registry/api/companies.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_auction": {
+    "name": "Registry keyword auction catalog and rules",
+    "url": "https://dingalinged-cpu.github.io/registry/api/keyword-prices.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_estimate": {
+    "name": "Registry estimate (CC-BY-4.0); method given on each value",
+    "url": "https://dingalinged-cpu.github.io/registry/market/",
+    "as_of": "2026-10-18"
+   },
+   "sagapixel_sel": {
+    "name": "Sagapixel ChatGPT local-services sessions, via Search Engine Land",
+    "url": "https://searchengineland.com/chatgpt-users-keywords-for-local-services-data-467715",
+    "as_of": "2026-01"
+   },
+   "wordstream_2025": {
+    "name": "WordStream Google Ads Benchmarks 2025 (16,446 US campaigns, Apr 2024-Mar 2025; median CPC and CTR by industry)",
+    "url": "https://www.wordstream.com/blog/2025-google-ads-benchmarks",
+    "as_of": "2025-03"
+   },
+   "wordstream_2026": {
+    "name": "LocaliQ/WordStream Search Advertising Benchmarks 2026 (US median CPC by industry)",
+    "url": "https://www.localiq.com/blog/search-advertising-benchmarks",
+    "as_of": "2026"
+   }
+  },
+  "license": {
+   "registry_estimates": "CC-BY-4.0",
+   "url": "https://creativecommons.org/licenses/by/4.0/",
+   "cited_figures": "attribute to the publishers in sources"
+  },
+  "as_of": "2026-10-18",
+  "api": "https://dingalinged-cpu.github.io/registry/api/market/used-cars-for-sale.json",
+  "rate_card": "https://dingalinged-cpu.github.io/registry/view/market.html#used-cars-for-sale-chicago-il"
+ }
+}

@@ -1,0 +1,23 @@
+Jiffy Lube is an auto repair shop in Mount Prospect, IL.
+
+# Jiffy Lube
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: Mount Prospect, IL
+- City: Mount Prospect
+- State: IL
+- ZIP: n/a
+- Coordinates: 42.0820539, -87.9372832
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/jiffy-lube-mount-prospect-w535722422/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/jiffy-lube-mount-prospect-w535722422.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/535722422 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

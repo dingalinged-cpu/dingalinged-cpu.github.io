@@ -1,0 +1,55 @@
+{
+ "slug": "kozys-cyclery-chicago-n12096153399",
+ "name": "Kozy's Cyclery",
+ "categories": [
+  "bike shop"
+ ],
+ "keywords": [
+  "bike shop",
+  "bike shop chicago il"
+ ],
+ "services": [
+  {
+   "name": "bike shop",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "219 West Erie Street",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "geo": {
+  "lat": 41.8938145,
+  "lon": -87.6348711
+ },
+ "phone": "+13122661700",
+ "website": "https://kozy.com/",
+ "opening_hours": "Mo-Fr 11:00-19:00; Sa 10:00-17:00; Su 11:00-17:00",
+ "schema_type": "BikeStore",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/12096153399",
+ "osm": {
+  "type": "node",
+  "id": 12096153399,
+  "tags_used": {
+   "shop": "bicycle"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/kozys-cyclery-chicago-n12096153399/",
+ "summary": "Kozy's Cyclery is a bike shop in Chicago, IL at 219 West Erie Street, Chicago, IL. Phone: +13122661700. Website: https://kozy.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

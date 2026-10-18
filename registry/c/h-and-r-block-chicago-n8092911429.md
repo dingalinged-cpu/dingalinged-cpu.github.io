@@ -1,0 +1,23 @@
+H&R Block is a tax preparation service in Chicago, IL at 458 East 35th Street, Chicago, IL 60616.
+
+# H&R Block
+
+- Category: tax preparation
+- Services: tax preparation, tax preparer
+- Address: 458 East 35th Street, Chicago, IL 60616
+- City: Chicago
+- State: IL
+- ZIP: 60616
+- Coordinates: 41.8315985, -87.6143777
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/h-and-r-block-chicago-n8092911429/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/h-and-r-block-chicago-n8092911429.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/8092911429 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,0 +1,54 @@
+{
+ "slug": "all-american-pet-grooming-mokena",
+ "name": "All American Pet Grooming",
+ "categories": [
+  "dog groomer"
+ ],
+ "keywords": [
+  "dog groomer",
+  "dog groomer mokena il"
+ ],
+ "services": [
+  {
+   "name": "dog groomer",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "19117 Wolf Road",
+  "addressLocality": "Mokena",
+  "addressRegion": "IL",
+  "postalCode": "60448",
+  "addressCountry": "US"
+ },
+ "city": "Mokena",
+ "state": "IL",
+ "zip": "60448",
+ "geo": {
+  "lat": 41.5417719,
+  "lon": -87.8892568
+ },
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/13306276680",
+ "osm": {
+  "type": "node",
+  "id": 13306276680,
+  "tags_used": {
+   "shop": "pet_grooming"
+  }
+ },
+ "municipality": "Mokena",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/all-american-pet-grooming-mokena/",
+ "summary": "All American Pet Grooming is a dog groomer in Mokena, IL at 19117 Wolf Road, Mokena, IL 60448.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

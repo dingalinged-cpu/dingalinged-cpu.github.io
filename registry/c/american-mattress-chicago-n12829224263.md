@@ -1,0 +1,23 @@
+American Mattress is a mattress store in Chicago, IL.
+
+# American Mattress
+
+- Category: mattress store
+- Services: mattress store
+- Address: Chicago, IL
+- City: Chicago
+- State: IL
+- ZIP: n/a
+- Coordinates: 41.9532529, -87.7475245
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/american-mattress-chicago-n12829224263/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/american-mattress-chicago-n12829224263.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12829224263 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,0 +1,58 @@
+{
+ "slug": "northwest-community-healthcare-immediate-care-schaumburg",
+ "name": "Northwest Community Healthcare Immediate Care",
+ "categories": [
+  "urgent care"
+ ],
+ "keywords": [
+  "urgent care",
+  "urgent care schaumburg il"
+ ],
+ "services": [
+  {
+   "name": "urgent care",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "519 South Roselle Road",
+  "addressLocality": "Schaumburg",
+  "addressRegion": "IL",
+  "postalCode": "60193",
+  "addressCountry": "US"
+ },
+ "city": "Schaumburg",
+ "state": "IL",
+ "zip": "60193",
+ "geo": {
+  "lat": 42.0172412,
+  "lon": -88.0792316
+ },
+ "phone": "+18479850600",
+ "website": "https://www.nch.org/location-contact-info/immediate-care/nch-immediate-care-at-schaumburg",
+ "opening_hours": "Mo-Fr 07:00-22:00; Sa,Su,PH 08:00-18:00",
+ "schema_type": "MedicalClinic",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/489651581",
+ "osm": {
+  "type": "way",
+  "id": 489651581,
+  "tags_used": {
+   "amenity": "clinic",
+   "healthcare": "clinic"
+  }
+ },
+ "municipality": "Schaumburg",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/northwest-community-healthcare-immediate-care-schaumburg/",
+ "summary": "Northwest Community Healthcare Immediate Care is an urgent care clinic in Schaumburg, IL at 519 South Roselle Road, Schaumburg, IL 60193. Phone: +18479850600. Website: https://www.nch.org/location-contact-info/immediate-care/nch-immediate-care-at-schaumburg.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

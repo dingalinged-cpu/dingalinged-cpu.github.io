@@ -1,0 +1,55 @@
+{
+ "slug": "county-farm-bagels-winfield",
+ "name": "County Farm Bagels",
+ "categories": [
+  "bakery"
+ ],
+ "keywords": [
+  "bakery",
+  "bakery winfield il"
+ ],
+ "services": [
+  {
+   "name": "bakery",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "27W195 Geneva Road",
+  "addressLocality": "Winfield",
+  "addressRegion": "IL",
+  "postalCode": "60190",
+  "addressCountry": "US"
+ },
+ "city": "Winfield",
+ "state": "IL",
+ "zip": "60190",
+ "geo": {
+  "lat": 41.8866155,
+  "lon": -88.1519509
+ },
+ "opening_hours": "Mo-Su 06:00-14:00",
+ "schema_type": "Bakery",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/5150107451",
+ "osm": {
+  "type": "node",
+  "id": 5150107451,
+  "tags_used": {
+   "shop": "bakery"
+  }
+ },
+ "municipality": "Winfield",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/county-farm-bagels-winfield/",
+ "summary": "County Farm Bagels is a bakery in Winfield, IL at 27W195 Geneva Road, Winfield, IL 60190.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

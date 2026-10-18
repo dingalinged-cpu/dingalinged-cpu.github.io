@@ -1,0 +1,94 @@
+{
+ "place": "Northlake, IL",
+ "slug": "northlake-il",
+ "count": 2,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "attorney northlake il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/attorney-northlake-il.json"
+  },
+  {
+   "keyword": "auto repair northlake il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-northlake-il.json"
+  },
+  {
+   "keyword": "lawyer northlake il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/lawyer-northlake-il.json"
+  },
+  {
+   "keyword": "mechanic northlake il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-northlake-il.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "santana-law-office-p-c-northlake",
+   "name": "Santana Law Office P.C.",
+   "summary": "Santana Law Office P.C. is a lawyer in Northlake, IL at 236 East North Avenue, Northlake, IL 60164. Phone: +17088361111. Website: https://santanalawofficepc.com/.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/santana-law-office-p-c-northlake/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/santana-law-office-p-c-northlake.json",
+   "address": {
+    "streetAddress": "236 East North Avenue",
+    "addressLocality": "Northlake",
+    "addressRegion": "IL",
+    "postalCode": "60164",
+    "addressCountry": "US"
+   },
+   "city": "Northlake",
+   "state": "IL",
+   "zip": "60164",
+   "geo": {
+    "lat": 41.9077042,
+    "lon": -87.8941138
+   },
+   "phone": "+17088361111",
+   "website": "https://santanalawofficepc.com/",
+   "opening_hours": "Mo-Fr 09:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13271248695",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "meineke-northlake",
+   "name": "Meineke",
+   "summary": "Meineke is an auto repair shop in Northlake, IL at 385 East North Avenue, Northlake, IL 60164. Website: https://www.meineke.com/locations/il/northlake-2914/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/meineke-northlake/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/meineke-northlake.json",
+   "address": {
+    "streetAddress": "385 East North Avenue",
+    "addressLocality": "Northlake",
+    "addressRegion": "IL",
+    "postalCode": "60164",
+    "addressCountry": "US"
+   },
+   "city": "Northlake",
+   "state": "IL",
+   "zip": "60164",
+   "geo": {
+    "lat": 41.906918,
+    "lon": -87.8891359
+   },
+   "website": "https://www.meineke.com/locations/il/northlake-2914/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1462477119",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

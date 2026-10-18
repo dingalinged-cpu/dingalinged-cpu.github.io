@@ -1,0 +1,64 @@
+{
+ "slug": "public-hvac-solutions-orland-park",
+ "name": "Public HVAC Solutions",
+ "categories": [
+  "hvac repair"
+ ],
+ "keywords": [
+  "hvac repair",
+  "heating and air",
+  "hvac repair orland park il",
+  "heating and air orland park il"
+ ],
+ "services": [
+  {
+   "name": "hvac repair",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "heating and air",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "15348 South 70th Court",
+  "addressLocality": "Orland Park",
+  "addressRegion": "IL",
+  "postalCode": "60462",
+  "addressCountry": "US"
+ },
+ "city": "Orland Park",
+ "state": "IL",
+ "zip": "60462",
+ "geo": {
+  "lat": 41.6107025,
+  "lon": -87.7916811
+ },
+ "phone": "+17084007000",
+ "website": "https://www.publichvacsolutions.com/",
+ "email": "info@publichvacsolutions.com",
+ "opening_hours": "Mo-Fr 08:30-17:00",
+ "schema_type": "HVACBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/13351633196",
+ "osm": {
+  "type": "node",
+  "id": 13351633196,
+  "tags_used": {
+   "craft": "hvac"
+  }
+ },
+ "municipality": "Orland Park",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/public-hvac-solutions-orland-park/",
+ "summary": "Public HVAC Solutions is a HVAC contractor in Orland Park, IL at 15348 South 70th Court, Orland Park, IL 60462. Phone: +17084007000. Website: https://www.publichvacsolutions.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

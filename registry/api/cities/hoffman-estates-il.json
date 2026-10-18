@@ -1,0 +1,1301 @@
+{
+ "place": "Hoffman Estates, IL",
+ "slug": "hoffman-estates-il",
+ "count": 40,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "auto repair hoffman estates il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-hoffman-estates-il.json"
+  },
+  {
+   "keyword": "bike shop hoffman estates il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/bike-shop-hoffman-estates-il.json"
+  },
+  {
+   "keyword": "car wash hoffman estates il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-hoffman-estates-il.json"
+  },
+  {
+   "keyword": "dance studio hoffman estates il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dance-studio-hoffman-estates-il.json"
+  },
+  {
+   "keyword": "daycare hoffman estates il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/daycare-hoffman-estates-il.json"
+  },
+  {
+   "keyword": "dentist hoffman estates il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-hoffman-estates-il.json"
+  },
+  {
+   "keyword": "dog groomer hoffman estates il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dog-groomer-hoffman-estates-il.json"
+  },
+  {
+   "keyword": "event venues hoffman estates il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/event-venues-hoffman-estates-il.json"
+  },
+  {
+   "keyword": "eye doctor hoffman estates il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/eye-doctor-hoffman-estates-il.json"
+  },
+  {
+   "keyword": "florist hoffman estates il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/florist-hoffman-estates-il.json"
+  },
+  {
+   "keyword": "funeral home hoffman estates il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/funeral-home-hoffman-estates-il.json"
+  },
+  {
+   "keyword": "furniture store hoffman estates il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/furniture-store-hoffman-estates-il.json"
+  },
+  {
+   "keyword": "hair salon hoffman estates il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-hoffman-estates-il.json"
+  },
+  {
+   "keyword": "haircut hoffman estates il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-hoffman-estates-il.json"
+  },
+  {
+   "keyword": "insurance agency hoffman estates il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-hoffman-estates-il.json"
+  },
+  {
+   "keyword": "insurance agent hoffman estates il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-hoffman-estates-il.json"
+  },
+  {
+   "keyword": "insurance agents hoffman estates il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-hoffman-estates-il.json"
+  },
+  {
+   "keyword": "mattress store hoffman estates il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mattress-store-hoffman-estates-il.json"
+  },
+  {
+   "keyword": "mechanic hoffman estates il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-hoffman-estates-il.json"
+  },
+  {
+   "keyword": "nail salon hoffman estates il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/nail-salon-hoffman-estates-il.json"
+  },
+  {
+   "keyword": "orthopedic surgeon hoffman estates il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/orthopedic-surgeon-hoffman-estates-il.json"
+  },
+  {
+   "keyword": "pet store hoffman estates il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/pet-store-hoffman-estates-il.json"
+  },
+  {
+   "keyword": "physical therapy hoffman estates il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/physical-therapy-hoffman-estates-il.json"
+  },
+  {
+   "keyword": "preschool hoffman estates il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/preschool-hoffman-estates-il.json"
+  },
+  {
+   "keyword": "printing services hoffman estates il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/printing-services-hoffman-estates-il.json"
+  },
+  {
+   "keyword": "tanning salon hoffman estates il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tanning-salon-hoffman-estates-il.json"
+  },
+  {
+   "keyword": "tax preparation hoffman estates il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tax-preparation-hoffman-estates-il.json"
+  },
+  {
+   "keyword": "tax preparer hoffman estates il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tax-preparer-hoffman-estates-il.json"
+  },
+  {
+   "keyword": "thrift store hoffman estates il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/thrift-store-hoffman-estates-il.json"
+  },
+  {
+   "keyword": "used cars for sale hoffman estates il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/used-cars-for-sale-hoffman-estates-il.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "aquarium-adventure-hoffman-estates",
+   "name": "Aquarium Adventure",
+   "summary": "Aquarium Adventure is a pet store in Hoffman Estates, IL at 11 Golf Center, Hoffman Estates, IL 60195. Phone: +18474909334. Website: https://www.aquariumadventure.com/AquariumAdventureLocations.htm.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/aquarium-adventure-hoffman-estates/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/aquarium-adventure-hoffman-estates.json",
+   "address": {
+    "streetAddress": "11 Golf Center",
+    "addressLocality": "Hoffman Estates",
+    "addressRegion": "IL",
+    "postalCode": "60195",
+    "addressCountry": "US"
+   },
+   "city": "Hoffman Estates",
+   "state": "IL",
+   "zip": "60195",
+   "geo": {
+    "lat": 42.0485836,
+    "lon": -88.082507
+   },
+   "phone": "+18474909334",
+   "website": "https://www.aquariumadventure.com/AquariumAdventureLocations.htm",
+   "opening_hours": "Mo-Sa 10:00-21:00; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5867028882",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "studio-q-at-salon-lofts-hoffman-estates",
+   "name": "Studio Q at Salon Lofts",
+   "summary": "Studio Q at Salon Lofts is a hair salon in Hoffman Estates, IL at 977 North Roselle Road #15, Hoffman Estates, IL 60169. Phone: +18474952050. Website: https://salonlofts.com/studio_q_salon_nicole_q.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/studio-q-at-salon-lofts-hoffman-estates/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/studio-q-at-salon-lofts-hoffman-estates.json",
+   "address": {
+    "streetAddress": "977 North Roselle Road #15",
+    "addressLocality": "Hoffman Estates",
+    "addressRegion": "IL",
+    "postalCode": "60169",
+    "addressCountry": "US"
+   },
+   "city": "Hoffman Estates",
+   "state": "IL",
+   "zip": "60169",
+   "geo": {
+    "lat": 42.0462629,
+    "lon": -88.078318
+   },
+   "phone": "+18474952050",
+   "website": "https://salonlofts.com/studio_q_salon_nicole_q",
+   "opening_hours": "We,Th 09:00-15:00; Fr 09:00-17:00; Sa 09:00-14:00; Tu 15:00-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13713696236",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "crank-revolution-bike-shop-hoffman-estates",
+   "name": "Crank Revolution Bike Shop",
+   "summary": "Crank Revolution Bike Shop is a bike shop in Hoffman Estates, IL at 1744 Algonquin Rd, Hoffman Estates, IL 60192. Phone: +18477905115. Website: https://www.crankrevolution.com/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/crank-revolution-bike-shop-hoffman-estates/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/crank-revolution-bike-shop-hoffman-estates.json",
+   "address": {
+    "streetAddress": "1744 Algonquin Rd",
+    "addressLocality": "Hoffman Estates",
+    "addressRegion": "IL",
+    "postalCode": "60192",
+    "addressCountry": "US"
+   },
+   "city": "Hoffman Estates",
+   "state": "IL",
+   "zip": "60192",
+   "geo": {
+    "lat": 42.092891,
+    "lon": -88.1233275
+   },
+   "phone": "+18477905115",
+   "website": "https://www.crankrevolution.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12521819452",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "mullers-woodfield-acura-hoffman-estates",
+   "name": "Muller's Woodfield Acura",
+   "summary": "Muller's Woodfield Acura is an used car dealer in Hoffman Estates, IL at 1099 West Higgins Road, Hoffman Estates, IL 60169. Phone: +18473544213.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mullers-woodfield-acura-hoffman-estates/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mullers-woodfield-acura-hoffman-estates.json",
+   "address": {
+    "streetAddress": "1099 West Higgins Road",
+    "addressLocality": "Hoffman Estates",
+    "addressRegion": "IL",
+    "postalCode": "60169",
+    "addressCountry": "US"
+   },
+   "city": "Hoffman Estates",
+   "state": "IL",
+   "zip": "60169",
+   "geo": {
+    "lat": 42.0506604,
+    "lon": -88.1070978
+   },
+   "phone": "+18473544213",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/239695311",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "dream-clean-auto-wash-hoffman-estates",
+   "name": "Dream Clean Auto Wash",
+   "summary": "Dream Clean Auto Wash is a car wash in Hoffman Estates, IL at 105 East Golf Road, Hoffman Estates, IL 60169.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dream-clean-auto-wash-hoffman-estates/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dream-clean-auto-wash-hoffman-estates.json",
+   "address": {
+    "streetAddress": "105 East Golf Road",
+    "addressLocality": "Hoffman Estates",
+    "addressRegion": "IL",
+    "postalCode": "60169",
+    "addressCountry": "US"
+   },
+   "city": "Hoffman Estates",
+   "state": "IL",
+   "zip": "60169",
+   "geo": {
+    "lat": 42.0490128,
+    "lon": -88.0774757
+   },
+   "opening_hours": "Mo-Su 08:00-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/645416973",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "the-ups-store-hoffman-estates",
+   "name": "The UPS Store",
+   "summary": "The UPS Store is a printing service in Hoffman Estates, IL at 3 Golf Center, Hoffman Estates, IL 60195.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-ups-store-hoffman-estates/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-ups-store-hoffman-estates.json",
+   "address": {
+    "streetAddress": "3 Golf Center",
+    "addressLocality": "Hoffman Estates",
+    "addressRegion": "IL",
+    "postalCode": "60195",
+    "addressCountry": "US"
+   },
+   "city": "Hoffman Estates",
+   "state": "IL",
+   "zip": "60195",
+   "geo": {
+    "lat": 42.048765,
+    "lon": -88.0830218
+   },
+   "opening_hours": "Mo-Fr 08:00-18:30; Sa 10:00-16:00; Su 10:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5417281942",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "advance-preschool-hoffman-estates",
+   "name": "Advance Preschool",
+   "summary": "Advance Preschool is a daycare in Hoffman Estates, IL at 2320 West Higgins Road, Hoffman Estates, IL 60169.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/advance-preschool-hoffman-estates/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/advance-preschool-hoffman-estates.json",
+   "address": {
+    "streetAddress": "2320 West Higgins Road",
+    "addressLocality": "Hoffman Estates",
+    "addressRegion": "IL",
+    "postalCode": "60169",
+    "addressCountry": "US"
+   },
+   "city": "Hoffman Estates",
+   "state": "IL",
+   "zip": "60169",
+   "geo": {
+    "lat": 42.0594872,
+    "lon": -88.1365467
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1319298249",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "american-mattress-schaumburg",
+   "name": "American Mattress",
+   "summary": "American Mattress is a mattress store in Schaumburg, IL at 35 East Golf Road, Schaumburg, IL 60173.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/american-mattress-schaumburg/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/american-mattress-schaumburg.json",
+   "address": {
+    "streetAddress": "35 East Golf Road",
+    "addressLocality": "Schaumburg",
+    "addressRegion": "IL",
+    "postalCode": "60173",
+    "addressCountry": "US"
+   },
+   "city": "Schaumburg",
+   "state": "IL",
+   "zip": "60173",
+   "geo": {
+    "lat": 42.0489691,
+    "lon": -88.0784153
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/242545705",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "fred-astaire-franchised-dance-studios-hoffman-estates",
+   "name": "Fred Astaire Franchised Dance Studios",
+   "summary": "Fred Astaire Franchised Dance Studios is a dance studio in Hoffman Estates, IL at 2356 West Higgins Road, Hoffman Estates, IL 60169.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fred-astaire-franchised-dance-studios-hoffman-estates/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fred-astaire-franchised-dance-studios-hoffman-estates.json",
+   "address": {
+    "streetAddress": "2356 West Higgins Road",
+    "addressLocality": "Hoffman Estates",
+    "addressRegion": "IL",
+    "postalCode": "60169",
+    "addressCountry": "US"
+   },
+   "city": "Hoffman Estates",
+   "state": "IL",
+   "zip": "60169",
+   "geo": {
+    "lat": 42.0595105,
+    "lon": -88.1374931
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1319298252",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "gigis-playhouse-hoffman-estates",
+   "name": "Gigi's Playhouse",
+   "summary": "Gigi's Playhouse is a physical therapy clinic in Hoffman Estates, IL at 2348B West Higgins Road, Hoffman Estates, IL 60169.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gigis-playhouse-hoffman-estates/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gigis-playhouse-hoffman-estates.json",
+   "address": {
+    "streetAddress": "2348B West Higgins Road",
+    "addressLocality": "Hoffman Estates",
+    "addressRegion": "IL",
+    "postalCode": "60169",
+    "addressCountry": "US"
+   },
+   "city": "Hoffman Estates",
+   "state": "IL",
+   "zip": "60169",
+   "geo": {
+    "lat": 42.0592916,
+    "lon": -88.1375419
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1319298241",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "great-clips-hoffman-estates",
+   "name": "Great Clips",
+   "summary": "Great Clips is a hair salon in Hoffman Estates, IL at 1568 West Algonquin Road, Hoffman Estates, IL 60192.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/great-clips-hoffman-estates/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/great-clips-hoffman-estates.json",
+   "address": {
+    "streetAddress": "1568 West Algonquin Road",
+    "addressLocality": "Hoffman Estates",
+    "addressRegion": "IL",
+    "postalCode": "60192",
+    "addressCountry": "US"
+   },
+   "city": "Hoffman Estates",
+   "state": "IL",
+   "zip": "60192",
+   "geo": {
+    "lat": 42.09125,
+    "lon": -88.1181561
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4834888554",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "hoffman-estates-dental-professionals-hoffman-estates",
+   "name": "Hoffman Estates Dental Professionals",
+   "summary": "Hoffman Estates Dental Professionals is a dentist in Hoffman Estates, IL at 1585 Barrington Rd #Bldg 2, Hoffman Estates, IL 60169.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hoffman-estates-dental-professionals-hoffman-estates/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hoffman-estates-dental-professionals-hoffman-estates.json",
+   "address": {
+    "streetAddress": "1585 Barrington Rd #Bldg 2",
+    "addressLocality": "Hoffman Estates",
+    "addressRegion": "IL",
+    "postalCode": "60169",
+    "addressCountry": "US"
+   },
+   "city": "Hoffman Estates",
+   "state": "IL",
+   "zip": "60169",
+   "geo": {
+    "lat": 42.0540934,
+    "lon": -88.1413063
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13056416242",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "hoffman-estates-kindercare-hoffman-estates",
+   "name": "Hoffman Estates KinderCare",
+   "summary": "Hoffman Estates KinderCare is a preschool in Hoffman Estates, IL at 1351 West Palatine Road, Hoffman Estates, IL 60192.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hoffman-estates-kindercare-hoffman-estates/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hoffman-estates-kindercare-hoffman-estates.json",
+   "address": {
+    "streetAddress": "1351 West Palatine Road",
+    "addressLocality": "Hoffman Estates",
+    "addressRegion": "IL",
+    "postalCode": "60192",
+    "addressCountry": "US"
+   },
+   "city": "Hoffman Estates",
+   "state": "IL",
+   "zip": "60192",
+   "geo": {
+    "lat": 42.1093134,
+    "lon": -88.1135903
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/206454970",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "illinois-eyecare-center-hoffman-estates",
+   "name": "Illinois Eyecare Center",
+   "summary": "Illinois Eyecare Center is an eye care practice in Hoffman Estates, IL at 1115 North Roselle Road, Hoffman Estates, IL 60169.",
+   "categories": [
+    "eye doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/illinois-eyecare-center-hoffman-estates/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/illinois-eyecare-center-hoffman-estates.json",
+   "address": {
+    "streetAddress": "1115 North Roselle Road",
+    "addressLocality": "Hoffman Estates",
+    "addressRegion": "IL",
+    "postalCode": "60169",
+    "addressCountry": "US"
+   },
+   "city": "Hoffman Estates",
+   "state": "IL",
+   "zip": "60169",
+   "geo": {
+    "lat": 42.0481702,
+    "lon": -88.077933
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/239535177",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "kindercare-hoffman-estates",
+   "name": "KinderCare",
+   "summary": "KinderCare is a preschool in Hoffman Estates, IL at 1275 Jones Road, Hoffman Estates, IL 60169.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kindercare-hoffman-estates/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kindercare-hoffman-estates.json",
+   "address": {
+    "streetAddress": "1275 Jones Road",
+    "addressLocality": "Hoffman Estates",
+    "addressRegion": "IL",
+    "postalCode": "60169",
+    "addressCountry": "US"
+   },
+   "city": "Hoffman Estates",
+   "state": "IL",
+   "zip": "60169",
+   "geo": {
+    "lat": 42.0506099,
+    "lon": -88.098817
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/490733524",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "mobil-hoffman-estates",
+   "name": "Mobil",
+   "summary": "Mobil is a car wash in Hoffman Estates, IL at 615 West Higgins Road, Hoffman Estates, IL 60169.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mobil-hoffman-estates/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mobil-hoffman-estates.json",
+   "address": {
+    "streetAddress": "615 West Higgins Road",
+    "addressLocality": "Hoffman Estates",
+    "addressRegion": "IL",
+    "postalCode": "60169",
+    "addressCountry": "US"
+   },
+   "city": "Hoffman Estates",
+   "state": "IL",
+   "zip": "60169",
+   "geo": {
+    "lat": 42.0480156,
+    "lon": -88.0959804
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/239133187",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "mobil-hoffman-estates-w1118110501",
+   "name": "Mobil",
+   "summary": "Mobil is a car wash in Hoffman Estates, IL at 1700 West Algonquin Road, Hoffman Estates, IL 60192.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mobil-hoffman-estates-w1118110501/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mobil-hoffman-estates-w1118110501.json",
+   "address": {
+    "streetAddress": "1700 West Algonquin Road",
+    "addressLocality": "Hoffman Estates",
+    "addressRegion": "IL",
+    "postalCode": "60192",
+    "addressCountry": "US"
+   },
+   "city": "Hoffman Estates",
+   "state": "IL",
+   "zip": "60192",
+   "geo": {
+    "lat": 42.0920085,
+    "lon": -88.1226965
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1118110501",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "morettis-unique-events-hoffman-estates",
+   "name": "Moretti's Unique Events",
+   "summary": "Moretti's Unique Events is an event venue in Hoffman Estates, IL at 2525 West Higgins Road, Hoffman Estates, IL 60195.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/morettis-unique-events-hoffman-estates/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/morettis-unique-events-hoffman-estates.json",
+   "address": {
+    "streetAddress": "2525 West Higgins Road",
+    "addressLocality": "Hoffman Estates",
+    "addressRegion": "IL",
+    "postalCode": "60195",
+    "addressCountry": "US"
+   },
+   "city": "Hoffman Estates",
+   "state": "IL",
+   "zip": "60195",
+   "geo": {
+    "lat": 42.0577388,
+    "lon": -88.1425972
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/223782523",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "morizzo-funeral-home-hoffman-estates",
+   "name": "Morizzo Funeral Home",
+   "summary": "Morizzo Funeral Home is a funeral home in Hoffman Estates, IL at 2550 Hassell Road, Hoffman Estates, IL 60169.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/morizzo-funeral-home-hoffman-estates/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/morizzo-funeral-home-hoffman-estates.json",
+   "address": {
+    "streetAddress": "2550 Hassell Road",
+    "addressLocality": "Hoffman Estates",
+    "addressRegion": "IL",
+    "postalCode": "60169",
+    "addressCountry": "US"
+   },
+   "city": "Hoffman Estates",
+   "state": "IL",
+   "zip": "60169",
+   "geo": {
+    "lat": 42.06326,
+    "lon": -88.1432063
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/224700507",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "pawparazzi-pet-salon-hoffman-estates",
+   "name": "Pawparazzi Pet Salon",
+   "summary": "Pawparazzi Pet Salon is a dog groomer in Hoffman Estates, IL at 2332 West Higgins Road, Hoffman Estates, IL 60169.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pawparazzi-pet-salon-hoffman-estates/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pawparazzi-pet-salon-hoffman-estates.json",
+   "address": {
+    "streetAddress": "2332 West Higgins Road",
+    "addressLocality": "Hoffman Estates",
+    "addressRegion": "IL",
+    "postalCode": "60169",
+    "addressCountry": "US"
+   },
+   "city": "Hoffman Estates",
+   "state": "IL",
+   "zip": "60169",
+   "geo": {
+    "lat": 42.0596796,
+    "lon": -88.1370381
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1319298251",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "penny-mustard-hoffman-estates",
+   "name": "Penny Mustard",
+   "summary": "Penny Mustard is a furniture store in Hoffman Estates, IL at 535 West Higgins Road, Hoffman Estates, IL 60169.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/penny-mustard-hoffman-estates/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/penny-mustard-hoffman-estates.json",
+   "address": {
+    "streetAddress": "535 West Higgins Road",
+    "addressLocality": "Hoffman Estates",
+    "addressRegion": "IL",
+    "postalCode": "60169",
+    "addressCountry": "US"
+   },
+   "city": "Hoffman Estates",
+   "state": "IL",
+   "zip": "60169",
+   "geo": {
+    "lat": 42.0478124,
+    "lon": -88.0953248
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/238909308",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "petland-hoffman-estates",
+   "name": "Petland",
+   "summary": "Petland is a pet store in Hoffman Estates, IL.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petland-hoffman-estates/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petland-hoffman-estates.json",
+   "address": {
+    "addressLocality": "Hoffman Estates",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Hoffman Estates",
+   "state": "IL",
+   "geo": {
+    "lat": 42.0487069,
+    "lon": -88.0824765
+   },
+   "opening_hours": "Mo-Sa 10:00-21:00; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5047141136",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "shell-hoffman-estates",
+   "name": "Shell",
+   "summary": "Shell is a car wash in Hoffman Estates, IL at 2590 West Golf Road, Hoffman Estates, IL 60194.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/shell-hoffman-estates/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/shell-hoffman-estates.json",
+   "address": {
+    "streetAddress": "2590 West Golf Road",
+    "addressLocality": "Hoffman Estates",
+    "addressRegion": "IL",
+    "postalCode": "60194",
+    "addressCountry": "US"
+   },
+   "city": "Hoffman Estates",
+   "state": "IL",
+   "zip": "60194",
+   "geo": {
+    "lat": 42.0473427,
+    "lon": -88.1440655
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1336660690",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "stare-farm-hoffman-estates",
+   "name": "Stare Farm",
+   "summary": "Stare Farm is an insurance agent in Hoffman Estates, IL at 2338 West Higgins Road, Hoffman Estates, IL 60169.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/stare-farm-hoffman-estates/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/stare-farm-hoffman-estates.json",
+   "address": {
+    "streetAddress": "2338 West Higgins Road",
+    "addressLocality": "Hoffman Estates",
+    "addressRegion": "IL",
+    "postalCode": "60169",
+    "addressCountry": "US"
+   },
+   "city": "Hoffman Estates",
+   "state": "IL",
+   "zip": "60169",
+   "geo": {
+    "lat": 42.0593555,
+    "lon": -88.1372103
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1319298244",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "ttvm-hoffman-estates",
+   "name": "TTVM",
+   "summary": "TTVM is an auto repair shop in Hoffman Estates, IL at 1300 West Higgins Road, Hoffman Estates, IL 60195.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ttvm-hoffman-estates/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ttvm-hoffman-estates.json",
+   "address": {
+    "streetAddress": "1300 West Higgins Road",
+    "addressLocality": "Hoffman Estates",
+    "addressRegion": "IL",
+    "postalCode": "60195",
+    "addressCountry": "US"
+   },
+   "city": "Hoffman Estates",
+   "state": "IL",
+   "zip": "60195",
+   "geo": {
+    "lat": 42.0528766,
+    "lon": -88.1110089
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/489429511",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "webster-dental-care-hoffman-estates",
+   "name": "Webster Dental Care",
+   "summary": "Webster Dental Care is a dentist in Hoffman Estates, IL at 1475 Glen Lake Road, Hoffman Estates, IL 60169.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/webster-dental-care-hoffman-estates/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/webster-dental-care-hoffman-estates.json",
+   "address": {
+    "streetAddress": "1475 Glen Lake Road",
+    "addressLocality": "Hoffman Estates",
+    "addressRegion": "IL",
+    "postalCode": "60169",
+    "addressCountry": "US"
+   },
+   "city": "Hoffman Estates",
+   "state": "IL",
+   "zip": "60169",
+   "geo": {
+    "lat": 42.0534519,
+    "lon": -88.110962
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4829216423",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "acorn-auto-service-hoffman-estates",
+   "name": "Acorn Auto Service",
+   "summary": "Acorn Auto Service is an auto repair shop in Hoffman Estates, IL.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/acorn-auto-service-hoffman-estates/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/acorn-auto-service-hoffman-estates.json",
+   "address": {
+    "addressLocality": "Hoffman Estates",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Hoffman Estates",
+   "state": "IL",
+   "geo": {
+    "lat": 42.0452392,
+    "lon": -88.0778888
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/238883973",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "barrington-nails-hoffman-estates",
+   "name": "Barrington Nails",
+   "summary": "Barrington Nails is a nail salon in Hoffman Estates, IL.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/barrington-nails-hoffman-estates/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/barrington-nails-hoffman-estates.json",
+   "address": {
+    "addressLocality": "Hoffman Estates",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Hoffman Estates",
+   "state": "IL",
+   "geo": {
+    "lat": 42.0788138,
+    "lon": -88.1401475
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9130775515",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "bentleys-pet-food-hoffman-estates",
+   "name": "Bentley's Pet Food",
+   "summary": "Bentley's Pet Food is a pet store in Hoffman Estates, IL.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bentleys-pet-food-hoffman-estates/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bentleys-pet-food-hoffman-estates.json",
+   "address": {
+    "addressLocality": "Hoffman Estates",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Hoffman Estates",
+   "state": "IL",
+   "geo": {
+    "lat": 42.0451828,
+    "lon": -88.1419339
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3778909070",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "core-orthopedics-and-sports-medicine-hoffman-estates",
+   "name": "CORE Orthopedics & Sports Medicine",
+   "summary": "CORE Orthopedics & Sports Medicine is an orthopedic surgeon in Hoffman Estates, IL.",
+   "categories": [
+    "orthopedic surgeon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/core-orthopedics-and-sports-medicine-hoffman-estates/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/core-orthopedics-and-sports-medicine-hoffman-estates.json",
+   "address": {
+    "addressLocality": "Hoffman Estates",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Hoffman Estates",
+   "state": "IL",
+   "geo": {
+    "lat": 42.0755969,
+    "lon": -88.1398309
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/561782664",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "fabbrinis-flowers-hoffman-estates",
+   "name": "Fabbrini's Flowers",
+   "summary": "Fabbrini's Flowers is a florist in Hoffman Estates, IL.",
+   "categories": [
+    "florist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fabbrinis-flowers-hoffman-estates/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fabbrinis-flowers-hoffman-estates.json",
+   "address": {
+    "addressLocality": "Hoffman Estates",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Hoffman Estates",
+   "state": "IL",
+   "geo": {
+    "lat": 42.0478464,
+    "lon": -88.0824666
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5047141138",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "firestone-hoffman-estates",
+   "name": "Firestone",
+   "summary": "Firestone is an auto repair shop in Hoffman Estates, IL.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/firestone-hoffman-estates/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/firestone-hoffman-estates.json",
+   "address": {
+    "addressLocality": "Hoffman Estates",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Hoffman Estates",
+   "state": "IL",
+   "geo": {
+    "lat": 42.0470576,
+    "lon": -88.08031
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/438883877",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "firestone-hoffman-estates-w1385998759",
+   "name": "Firestone",
+   "summary": "Firestone is an auto repair shop in Hoffman Estates, IL.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/firestone-hoffman-estates-w1385998759/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/firestone-hoffman-estates-w1385998759.json",
+   "address": {
+    "addressLocality": "Hoffman Estates",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Hoffman Estates",
+   "state": "IL",
+   "geo": {
+    "lat": 42.0396182,
+    "lon": -88.144055
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1385998759",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "goodyear-hoffman-estates",
+   "name": "Goodyear",
+   "summary": "Goodyear is an auto repair shop in Hoffman Estates, IL.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/goodyear-hoffman-estates/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/goodyear-hoffman-estates.json",
+   "address": {
+    "addressLocality": "Hoffman Estates",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Hoffman Estates",
+   "state": "IL",
+   "geo": {
+    "lat": 42.0383763,
+    "lon": -88.1452449
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3455040855",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "jackson-hewitt-hoffman-estates",
+   "name": "Jackson Hewitt",
+   "summary": "Jackson Hewitt is a tax preparation service in Hoffman Estates, IL.",
+   "categories": [
+    "tax preparation"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jackson-hewitt-hoffman-estates/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jackson-hewitt-hoffman-estates.json",
+   "address": {
+    "addressLocality": "Hoffman Estates",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Hoffman Estates",
+   "state": "IL",
+   "geo": {
+    "lat": 42.0472587,
+    "lon": -88.082565
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5047141141",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "jiffy-lube-hoffman-estates",
+   "name": "Jiffy Lube",
+   "summary": "Jiffy Lube is an auto repair shop in Hoffman Estates, IL.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jiffy-lube-hoffman-estates/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jiffy-lube-hoffman-estates.json",
+   "address": {
+    "addressLocality": "Hoffman Estates",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Hoffman Estates",
+   "state": "IL",
+   "geo": {
+    "lat": 42.0446758,
+    "lon": -88.0801081
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/238883985",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "mattress-firm-hoffman-estates",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Hoffman Estates, IL.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-hoffman-estates/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-hoffman-estates.json",
+   "address": {
+    "addressLocality": "Hoffman Estates",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Hoffman Estates",
+   "state": "IL",
+   "geo": {
+    "lat": 42.048992,
+    "lon": -88.0790039
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3772038084",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "ntb-hoffman-estates",
+   "name": "NTB",
+   "summary": "NTB is an auto repair shop in Hoffman Estates, IL.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ntb-hoffman-estates/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ntb-hoffman-estates.json",
+   "address": {
+    "addressLocality": "Hoffman Estates",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Hoffman Estates",
+   "state": "IL",
+   "geo": {
+    "lat": 42.0460652,
+    "lon": -88.1395976
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/319350228",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "savers-hoffman-estates",
+   "name": "Savers",
+   "summary": "Savers is a thrift store in Hoffman Estates, IL.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/savers-hoffman-estates/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/savers-hoffman-estates.json",
+   "address": {
+    "addressLocality": "Hoffman Estates",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Hoffman Estates",
+   "state": "IL",
+   "geo": {
+    "lat": 42.0470422,
+    "lon": -88.0817725
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/438883878",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "ultimate-exposure-tanning-center-hoffman-estates",
+   "name": "Ultimate Exposure Tanning Center",
+   "summary": "Ultimate Exposure Tanning Center is a tanning salon in Hoffman Estates, IL.",
+   "categories": [
+    "tanning salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ultimate-exposure-tanning-center-hoffman-estates/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ultimate-exposure-tanning-center-hoffman-estates.json",
+   "address": {
+    "addressLocality": "Hoffman Estates",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Hoffman Estates",
+   "state": "IL",
+   "geo": {
+    "lat": 42.046558,
+    "lon": -88.0830075
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5047141149",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

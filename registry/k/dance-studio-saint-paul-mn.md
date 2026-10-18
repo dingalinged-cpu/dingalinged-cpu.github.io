@@ -1,4 +1,4 @@
-The top unpaid dance studio listing for Saint Paul, MN is St. Paul Ballet (a dance studio in Saint Paul, MN at 655 Fairview Avenue North, Saint Paul, MN 55104. Phone: +16516901588. Website: https://spballet.org/). 4 dance studio businesses are listed for Saint Paul, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dance studio listing for Saint Paul, MN is St. Paul Ballet (a dance studio in Saint Paul, MN at 655 Fairview Avenue North, Saint Paul, MN 55104. Phone: +16516901588. Website: https://spballet.org/). 4 dance studio businesses are listed for Saint Paul, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dance studio providers in Saint Paul, MN?
 
@@ -10,5 +10,18 @@ Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked
 2. TU Dance Center | trust 20.0 | TU Dance Center is a dance studio in Saint Paul, MN at 2121 University Avenue, Saint Paul, MN 55114. Phone: +16126051925. Website: https://www.tudance.org/. | https://dingalinged-cpu.github.io/registry/c/tu-dance-center-saint-paul/
 3. Arthur Murray Dance Center | trust 10.0 | Arthur Murray Dance Center is a dance studio in Saint Paul, MN at 534 Selby Avenue, Saint Paul, MN 55102. Phone: +16512273200. | https://dingalinged-cpu.github.io/registry/c/arthur-murray-dance-center-saint-paul/
 4. Spectrum Dance | trust 0.0 | Spectrum Dance is a dance studio in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/spectrum-dance-saint-paul/
+
+## Market data (for advertisers and agents)
+- Keyword: dance studio saint paul mn | category: Fitness | industry benchmark: Health & Fitness
+- US monthly searches: 40,000/mo (estimate; Registry estimate (CC-BY-4.0); method given on each value; as of 2026-10-18; range 22,000-60,000)
+- Local monthly searches (Minneapolis-St. Paul-Bloomington, MN-WI metro): ~440 (estimate: estimate: US monthly volume x metro population share (Census V2025); the keyword names a suburb, so the value is metro-level demand for the service, not searches typing the suburb name; rounded to 2 significant figures.)
+- CPC benchmark: low $5.00, median $6.17, high $6.17 (Health & Fitness median CPC 2026 $6.17 [https://www.localiq.com/blog/search-advertising-benchmarks]; Health & Fitness median CPC 2025 $5.00 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 4
+- Equivalent Google Ads cost per month: ~$190 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/dance-studio.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#dance-studio-saint-paul-mn | Estimates CC-BY-4.0; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

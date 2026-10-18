@@ -1,0 +1,59 @@
+{
+ "slug": "innovative-orthodontic-centers-naperville-naperville",
+ "name": "Innovative Orthodontic Centers Naperville",
+ "categories": [
+  "orthopedic surgeon"
+ ],
+ "keywords": [
+  "orthopedic surgeon",
+  "orthopedic surgeon naperville il"
+ ],
+ "services": [
+  {
+   "name": "orthopedic surgeon",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "55 South Main Street #271",
+  "addressLocality": "Naperville",
+  "addressRegion": "IL",
+  "postalCode": "60540",
+  "addressCountry": "US"
+ },
+ "city": "Naperville",
+ "state": "IL",
+ "zip": "60540",
+ "geo": {
+  "lat": 41.7742269,
+  "lon": -88.1501076
+ },
+ "phone": "+16308486960",
+ "website": "https://www.innovativeorthocenters.com/",
+ "opening_hours": "Mo-Tu 09:00-18:00; We 09:00-17:00; Th 08:00-17:00; Fr 08:00-16:00",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/5593747555",
+ "osm": {
+  "type": "node",
+  "id": 5593747555,
+  "tags_used": {
+   "amenity": "doctors",
+   "healthcare": "doctor",
+   "healthcare:speciality": "orthopaedics"
+  }
+ },
+ "municipality": "Naperville",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/innovative-orthodontic-centers-naperville-naperville/",
+ "summary": "Innovative Orthodontic Centers Naperville is an orthopedic surgeon in Naperville, IL at 55 South Main Street #271, Naperville, IL 60540. Phone: +16308486960. Website: https://www.innovativeorthocenters.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

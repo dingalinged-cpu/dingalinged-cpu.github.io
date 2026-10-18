@@ -1,0 +1,23 @@
+Arhaus is a furniture store in Oak Brook, IL.
+
+# Arhaus
+
+- Category: furniture store
+- Services: furniture store
+- Address: Oak Brook, IL
+- City: Oak Brook
+- State: IL
+- ZIP: n/a
+- Coordinates: 41.8401022, -87.9936129
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/arhaus-oak-brook/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/arhaus-oak-brook.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6336532327 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

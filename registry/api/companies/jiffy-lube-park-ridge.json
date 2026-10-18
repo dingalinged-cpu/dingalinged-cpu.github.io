@@ -1,0 +1,62 @@
+{
+ "slug": "jiffy-lube-park-ridge",
+ "name": "Jiffy Lube",
+ "categories": [
+  "auto repair"
+ ],
+ "keywords": [
+  "auto repair",
+  "mechanic",
+  "auto repair park ridge il",
+  "mechanic park ridge il"
+ ],
+ "services": [
+  {
+   "name": "auto repair",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "mechanic",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "700 Higgins Road",
+  "addressLocality": "Park Ridge",
+  "addressRegion": "IL",
+  "postalCode": "60068",
+  "addressCountry": "US"
+ },
+ "city": "Park Ridge",
+ "state": "IL",
+ "zip": "60068",
+ "geo": {
+  "lat": 41.9861202,
+  "lon": -87.8331576
+ },
+ "brand": "Jiffy Lube",
+ "wikidata": "Q6192247",
+ "schema_type": "AutoRepair",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/545920853",
+ "osm": {
+  "type": "way",
+  "id": 545920853,
+  "tags_used": {
+   "shop": "car_repair"
+  }
+ },
+ "municipality": "Park Ridge",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/jiffy-lube-park-ridge/",
+ "summary": "Jiffy Lube is an auto repair shop in Park Ridge, IL at 700 Higgins Road, Park Ridge, IL 60068.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

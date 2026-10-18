@@ -1,0 +1,57 @@
+{
+ "slug": "chicago-cooling-heating-and-refrigeration-chicago",
+ "name": "Chicago Cooling Heating & Refrigeration",
+ "categories": [
+  "hvac repair"
+ ],
+ "keywords": [
+  "hvac repair",
+  "heating and air",
+  "hvac repair chicago il",
+  "heating and air chicago il"
+ ],
+ "services": [
+  {
+   "name": "hvac repair",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "heating and air",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "geo": {
+  "lat": 41.9309788,
+  "lon": -87.6863156
+ },
+ "schema_type": "HVACBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/3863382633",
+ "osm": {
+  "type": "node",
+  "id": 3863382633,
+  "tags_used": {
+   "craft": "hvac"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/chicago-cooling-heating-and-refrigeration-chicago/",
+ "summary": "Chicago Cooling Heating & Refrigeration is a HVAC contractor in Chicago, IL.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

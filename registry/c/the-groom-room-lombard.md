@@ -1,0 +1,23 @@
+The Groom Room is a dog groomer in Lombard, IL at 419 West Crescent Boulevard, Lombard, IL 60148. Phone: +16304957297. Website: https://the-groom-room-il.hub.biz/.
+
+# The Groom Room
+
+- Category: dog groomer
+- Services: dog groomer
+- Address: 419 West Crescent Boulevard, Lombard, IL 60148
+- City: Lombard
+- State: IL
+- ZIP: 60148
+- Coordinates: 41.884939, -88.0281702
+- Phone: +16304957297
+- Website: https://the-groom-room-il.hub.biz/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/the-groom-room-lombard/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-groom-room-lombard.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12621622153 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

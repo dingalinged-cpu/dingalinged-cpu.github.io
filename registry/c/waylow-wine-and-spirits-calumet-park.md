@@ -1,0 +1,23 @@
+Waylow Wine & Spirits is a liquor store in Calumet Park, IL at 12310 South Halsted Street, Calumet Park, IL 60827.
+
+# Waylow Wine & Spirits
+
+- Category: liquor store
+- Services: liquor store
+- Address: 12310 South Halsted Street, Calumet Park, IL 60827
+- City: Calumet Park
+- State: IL
+- ZIP: 60827
+- Coordinates: 41.6698612, -87.6421349
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/waylow-wine-and-spirits-calumet-park/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/waylow-wine-and-spirits-calumet-park.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1490386227 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

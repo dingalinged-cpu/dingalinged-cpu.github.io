@@ -1,0 +1,55 @@
+{
+ "slug": "montclare-supportive-living-community-chicago",
+ "name": "Montclare Supportive Living Community",
+ "categories": [
+  "assisted living"
+ ],
+ "keywords": [
+  "assisted living",
+  "assisted living chicago il"
+ ],
+ "services": [
+  {
+   "name": "assisted living",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "4339 West 19th Street",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60623",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60623",
+ "geo": {
+  "lat": 41.855408,
+  "lon": -87.7334087
+ },
+ "website": "https://www.montclare-slf.com/",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/1032917800",
+ "osm": {
+  "type": "way",
+  "id": 1032917800,
+  "tags_used": {
+   "amenity": "social_facility"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/montclare-supportive-living-community-chicago/",
+ "summary": "Montclare Supportive Living Community is an assisted living facility in Chicago, IL at 4339 West 19th Street, Chicago, IL 60623. Website: https://www.montclare-slf.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

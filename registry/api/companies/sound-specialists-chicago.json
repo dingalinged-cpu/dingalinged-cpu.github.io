@@ -1,0 +1,54 @@
+{
+ "slug": "sound-specialists-chicago",
+ "name": "Sound Specialists",
+ "categories": [
+  "business consultant"
+ ],
+ "keywords": [
+  "business consultant",
+  "business consultant chicago il"
+ ],
+ "services": [
+  {
+   "name": "business consultant",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1661 North Elston Avenue",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60642",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60642",
+ "geo": {
+  "lat": 41.9123509,
+  "lon": -87.6628922
+ },
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/209866182",
+ "osm": {
+  "type": "way",
+  "id": 209866182,
+  "tags_used": {
+   "office": "consulting"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/sound-specialists-chicago/",
+ "summary": "Sound Specialists is a business consultant in Chicago, IL at 1661 North Elston Avenue, Chicago, IL 60642.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

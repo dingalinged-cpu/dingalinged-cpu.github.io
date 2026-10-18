@@ -1,0 +1,53 @@
+{
+ "slug": "g-r-zehak-dds-and-associates-berwyn",
+ "name": "G.R. Zehak, DDS & Associates",
+ "categories": [
+  "dentist"
+ ],
+ "keywords": [
+  "dentist",
+  "dentist berwyn il"
+ ],
+ "services": [
+  {
+   "name": "dentist",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Berwyn",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Berwyn",
+ "state": "IL",
+ "geo": {
+  "lat": 41.843412,
+  "lon": -87.7922049
+ },
+ "phone": "+17084840235",
+ "schema_type": "Dentist",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/8181744856",
+ "osm": {
+  "type": "node",
+  "id": 8181744856,
+  "tags_used": {
+   "amenity": "dentist",
+   "healthcare": "dentist"
+  }
+ },
+ "municipality": "Berwyn",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/g-r-zehak-dds-and-associates-berwyn/",
+ "summary": "G.R. Zehak, DDS & Associates is a dentist in Berwyn, IL. Phone: +17084840235.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

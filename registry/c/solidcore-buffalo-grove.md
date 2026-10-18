@@ -1,0 +1,23 @@
+Solidcore is a pilates studio in Buffalo Grove, IL at 1561 Deerfield Parkway, Buffalo Grove, IL 60089. Phone: +13125740975. Website: https://solidcore.co/.
+
+# Solidcore
+
+- Category: pilates
+- Services: pilates
+- Address: 1561 Deerfield Parkway, Buffalo Grove, IL 60089
+- City: Buffalo Grove
+- State: IL
+- ZIP: 60089
+- Coordinates: 42.1672533, -87.9229631
+- Phone: +13125740975
+- Website: https://solidcore.co/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/solidcore-buffalo-grove/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/solidcore-buffalo-grove.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13160923335 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

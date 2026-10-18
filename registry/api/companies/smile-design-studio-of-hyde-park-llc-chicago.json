@@ -1,0 +1,56 @@
+{
+ "slug": "smile-design-studio-of-hyde-park-llc-chicago",
+ "name": "Smile Design Studio Of Hyde Park LLC",
+ "categories": [
+  "dentist"
+ ],
+ "keywords": [
+  "dentist",
+  "dentist chicago il"
+ ],
+ "services": [
+  {
+   "name": "dentist",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1525 East 53rd Street #734",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60615",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60615",
+ "geo": {
+  "lat": 41.7992728,
+  "lon": -87.5883897
+ },
+ "schema_type": "Dentist",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/13070996628",
+ "osm": {
+  "type": "node",
+  "id": 13070996628,
+  "tags_used": {
+   "amenity": "dentist",
+   "healthcare": "dentist",
+   "healthcare:speciality": "dentist"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/smile-design-studio-of-hyde-park-llc-chicago/",
+ "summary": "Smile Design Studio Of Hyde Park LLC is a dentist in Chicago, IL at 1525 East 53rd Street #734, Chicago, IL 60615.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,58 @@
+{
+ "slug": "shortys-wood-dale",
+ "name": "Shorty's",
+ "categories": [
+  "caterers"
+ ],
+ "keywords": [
+  "caterers",
+  "caterers wood dale il"
+ ],
+ "services": [
+  {
+   "name": "caterers",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "123 Irving Park Road",
+  "addressLocality": "Wood Dale",
+  "addressRegion": "IL",
+  "postalCode": "60191",
+  "addressCountry": "US"
+ },
+ "city": "Wood Dale",
+ "state": "IL",
+ "zip": "60191",
+ "geo": {
+  "lat": 41.9638197,
+  "lon": -87.9800244
+ },
+ "phone": "+16306949293",
+ "website": "https://www.shortyswooddale.com/",
+ "opening_hours": "10:00-21:00",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/929398117",
+ "osm": {
+  "type": "way",
+  "id": 929398117,
+  "tags_used": {
+   "craft": "caterer",
+   "amenity": "fast_food"
+  }
+ },
+ "municipality": "Wood Dale",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/shortys-wood-dale/",
+ "summary": "Shorty's is a caterer in Wood Dale, IL at 123 Irving Park Road, Wood Dale, IL 60191. Phone: +16306949293. Website: https://www.shortyswooddale.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

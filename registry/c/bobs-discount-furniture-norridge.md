@@ -1,0 +1,23 @@
+Bob's Discount Furniture is a furniture store in Norridge, IL at 4215 North Harlem Avenue, Norridge, IL 60706. Website: https://www.mybobs.com/stores/illinois/norridge.
+
+# Bob's Discount Furniture
+
+- Category: furniture store
+- Services: furniture store
+- Address: 4215 North Harlem Avenue, Norridge, IL 60706
+- City: Norridge
+- State: IL
+- ZIP: 60706
+- Coordinates: 41.9575081, -87.8054358
+- Phone: n/a
+- Website: https://www.mybobs.com/stores/illinois/norridge
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/bobs-discount-furniture-norridge/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/bobs-discount-furniture-norridge.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12068703303 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

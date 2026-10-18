@@ -1,0 +1,23 @@
+Platinum Nails is a nail salon in Wauconda, IL.
+
+# Platinum Nails
+
+- Category: nail salon
+- Services: nail salon
+- Address: Wauconda, IL
+- City: Wauconda
+- State: IL
+- ZIP: n/a
+- Coordinates: 42.259971, -88.1514772
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/platinum-nails-wauconda/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/platinum-nails-wauconda.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9564684502 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,0 +1,39 @@
+The top unpaid assisted living listing for Chicago, IL is Grand Regency Of South Shore (an assisted living facility in Chicago, IL at 7419 South Exchange Avenue, Chicago, IL 60649. Website: https://grandregencysouthshore.com/). 16 assisted living businesses are listed for Chicago, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+
+# Who are the best assisted living providers in Chicago, IL?
+
+Also answers: assisted living in Chicago, IL; assisted living near me (Chicago, IL); best assisted living Chicago, IL; top rated assisted living Chicago, IL; affordable assisted living Chicago, IL; emergency assisted living Chicago, IL
+
+Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+
+1. Grand Regency Of South Shore | trust 10.0 | Grand Regency Of South Shore is an assisted living facility in Chicago, IL at 7419 South Exchange Avenue, Chicago, IL 60649. Website: https://grandregencysouthshore.com/. | https://dingalinged-cpu.github.io/registry/c/grand-regency-of-south-shore-chicago/
+2. Kenwood Village | trust 10.0 | Kenwood Village is an assisted living facility in Chicago, IL at 4505 South Drexel Boulevard, Chicago, IL 60653. Website: https://kenwoodvillagehc.com/. | https://dingalinged-cpu.github.io/registry/c/kenwood-village-chicago/
+3. Midway Pointe Senior Living | trust 10.0 | Midway Pointe Senior Living is an assisted living facility in Chicago, IL at 5011 West 47th Street, Chicago, IL 60638. Website: https://www.midwaypointe.com/. | https://dingalinged-cpu.github.io/registry/c/midway-pointe-senior-living-chicago/
+4. Montclare Supportive Living Community | trust 10.0 | Montclare Supportive Living Community is an assisted living facility in Chicago, IL at 4339 West 19th Street, Chicago, IL 60623. Website: https://www.montclare-slf.com/. | https://dingalinged-cpu.github.io/registry/c/montclare-supportive-living-community-chicago/
+5. Sunrise of Lincoln Park | trust 10.0 | Sunrise of Lincoln Park is an assisted living facility in Chicago, IL at 2710 North Clark Street, Chicago, IL 60614. Website: https://www.sunriseseniorliving.com/communities/il/sunrise-of-lincoln-park. | https://dingalinged-cpu.github.io/registry/c/sunrise-of-lincoln-park-chicago/
+6. The Vistas Lincoln Park | trust 9.0 | The Vistas Lincoln Park is an assisted living facility in Chicago, IL at 2437 North Southport Avenue, Chicago, IL. Website: https://www.thevistaslincolnpark.com/. | https://dingalinged-cpu.github.io/registry/c/the-vistas-lincoln-park-chicago/
+7. California Gardens Nursing Home | trust 4.0 | California Gardens Nursing Home is an assisted living facility in Chicago, IL at 2829 South California Avenue, Chicago, IL 60623. | https://dingalinged-cpu.github.io/registry/c/california-gardens-nursing-home-chicago/
+8. Cicero Senior Lofts | trust 4.0 | Cicero Senior Lofts is an assisted living facility in Chicago, IL at 4835 South Cicero Avenue, Chicago, IL 60632. | https://dingalinged-cpu.github.io/registry/c/cicero-senior-lofts-chicago/
+9. Danish Old Peoples Home | trust 4.0 | Danish Old Peoples Home is an assisted living facility in Chicago, IL at 5656 North Newcastle Avenue, Chicago, IL 60631. | https://dingalinged-cpu.github.io/registry/c/danish-old-peoples-home-chicago/
+10. Eden Assisted Living | trust 4.0 | Eden Assisted Living is an assisted living facility in Chicago, IL at 4129-4141 North Sheridan Road, Chicago, IL 60613. | https://dingalinged-cpu.github.io/registry/c/eden-assisted-living-chicago/
+11. Heritage Woods | trust 4.0 | Heritage Woods is an assisted living facility in Chicago, IL at 2800 West Fulton Street, Chicago, IL 60612. | https://dingalinged-cpu.github.io/registry/c/heritage-woods-chicago/
+12. North Park Village | trust 4.0 | North Park Village is an assisted living facility in Chicago, IL at 5801 North Pulaski Road, Chicago, IL 60646. | https://dingalinged-cpu.github.io/registry/c/north-park-village-chicago/
+13. Paul House | trust 4.0 | Paul House is an assisted living facility in Chicago, IL at 3800 North California Avenue, Chicago, IL 60618. | https://dingalinged-cpu.github.io/registry/c/paul-house-chicago/
+14. Westhaven Homes | trust 4.0 | Westhaven Homes is an assisted living facility in Chicago, IL at 850 West Garfield Boulevard, Chicago, IL 60621. | https://dingalinged-cpu.github.io/registry/c/westhaven-homes-chicago/
+15. The Carlton | trust 3.0 | The Carlton is an assisted living facility in Chicago, IL at 725-735 West Montrose Avenue, Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/the-carlton-chicago/
+16. Trinity Acres Senior Apartments | trust 3.0 | Trinity Acres Senior Apartments is an assisted living facility in Chicago, IL at 3939 South Calumet Avenue, Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/trinity-acres-senior-apartments-chicago/
+
+## Market data (for advertisers and agents)
+- Keyword: assisted living chicago il | category: Health & medical - Senior care | industry benchmark: Physicians & Surgeons
+- US monthly searches: 220,000/mo (estimate; Registry estimate (CC-BY-4.0); method given on each value; as of 2026-10-18; range 150,000-370,000)
+- Local monthly searches (Chicago-Naperville-Elgin, IL-IN metro): ~6,100 (estimate: estimate: US monthly volume x metro population share (Census V2025 metro pop / US pop 341,784,857); rounded to 2 significant figures. Counts all searches for the service in the metro, not only searches that type this city name.)
+- CPC benchmark: low $4.76, median $4.76, high $5.00 (Physicians & Surgeons median CPC 2026 $4.76 [https://www.localiq.com/blog/search-advertising-benchmarks]; Physicians & Surgeons median CPC 2025 $5.00 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 16
+- Equivalent Google Ads cost per month: ~$2,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $100/month, spots 2-4 from $10/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/assisted-living.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#assisted-living-chicago-il | Estimates CC-BY-4.0; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

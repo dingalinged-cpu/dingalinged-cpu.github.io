@@ -1,0 +1,52 @@
+{
+ "slug": "nail-classic-barrington",
+ "name": "Nail Classic",
+ "categories": [
+  "nail salon"
+ ],
+ "keywords": [
+  "nail salon",
+  "nail salon barrington il"
+ ],
+ "services": [
+  {
+   "name": "nail salon",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Barrington",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Barrington",
+ "state": "IL",
+ "geo": {
+  "lat": 42.1609972,
+  "lon": -88.1356255
+ },
+ "schema_type": "NailSalon",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/6808136628",
+ "osm": {
+  "type": "node",
+  "id": 6808136628,
+  "tags_used": {
+   "shop": "beauty",
+   "beauty": "nails"
+  }
+ },
+ "municipality": "Barrington",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/nail-classic-barrington/",
+ "summary": "Nail Classic is a nail salon in Barrington, IL.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,59 @@
+{
+ "slug": "anytime-fitness-bensenville",
+ "name": "Anytime Fitness",
+ "categories": [
+  "gym"
+ ],
+ "keywords": [
+  "gym",
+  "gym bensenville il"
+ ],
+ "services": [
+  {
+   "name": "gym",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1061 South York Road",
+  "addressLocality": "Bensenville",
+  "addressRegion": "IL",
+  "postalCode": "60106",
+  "addressCountry": "US"
+ },
+ "city": "Bensenville",
+ "state": "IL",
+ "zip": "60106",
+ "geo": {
+  "lat": 41.9332757,
+  "lon": -87.9381591
+ },
+ "phone": "+16303547777",
+ "website": "https://www.anytimefitness.com/gyms/4635/bensenville-il-60106/",
+ "opening_hours": "24/7",
+ "brand": "Anytime Fitness",
+ "wikidata": "Q4778364",
+ "schema_type": "ExerciseGym",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/7920398559",
+ "osm": {
+  "type": "node",
+  "id": 7920398559,
+  "tags_used": {
+   "leisure": "fitness_centre"
+  }
+ },
+ "municipality": "Bensenville",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/anytime-fitness-bensenville/",
+ "summary": "Anytime Fitness is a gym in Bensenville, IL at 1061 South York Road, Bensenville, IL 60106. Phone: +16303547777. Website: https://www.anytimefitness.com/gyms/4635/bensenville-il-60106/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

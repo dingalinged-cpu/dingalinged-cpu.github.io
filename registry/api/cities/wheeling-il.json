@@ -1,0 +1,1190 @@
+{
+ "place": "Wheeling, IL",
+ "slug": "wheeling-il",
+ "count": 36,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "acupuncture wheeling il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/acupuncture-wheeling-il.json"
+  },
+  {
+   "keyword": "auto body shop wheeling il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-body-shop-wheeling-il.json"
+  },
+  {
+   "keyword": "auto repair wheeling il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-wheeling-il.json"
+  },
+  {
+   "keyword": "car wash wheeling il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-wheeling-il.json"
+  },
+  {
+   "keyword": "daycare wheeling il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/daycare-wheeling-il.json"
+  },
+  {
+   "keyword": "dentist wheeling il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-wheeling-il.json"
+  },
+  {
+   "keyword": "dry cleaners wheeling il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dry-cleaners-wheeling-il.json"
+  },
+  {
+   "keyword": "funeral home wheeling il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/funeral-home-wheeling-il.json"
+  },
+  {
+   "keyword": "hair salon wheeling il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-wheeling-il.json"
+  },
+  {
+   "keyword": "haircut wheeling il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-wheeling-il.json"
+  },
+  {
+   "keyword": "insurance agency wheeling il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-wheeling-il.json"
+  },
+  {
+   "keyword": "insurance agent wheeling il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-wheeling-il.json"
+  },
+  {
+   "keyword": "insurance agents wheeling il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-wheeling-il.json"
+  },
+  {
+   "keyword": "liquor store wheeling il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/liquor-store-wheeling-il.json"
+  },
+  {
+   "keyword": "massage wheeling il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/massage-wheeling-il.json"
+  },
+  {
+   "keyword": "mechanic wheeling il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-wheeling-il.json"
+  },
+  {
+   "keyword": "physical therapy wheeling il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/physical-therapy-wheeling-il.json"
+  },
+  {
+   "keyword": "printing services wheeling il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/printing-services-wheeling-il.json"
+  },
+  {
+   "keyword": "real estate agent wheeling il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/real-estate-agent-wheeling-il.json"
+  },
+  {
+   "keyword": "realtor wheeling il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/realtor-wheeling-il.json"
+  },
+  {
+   "keyword": "storage units wheeling il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/storage-units-wheeling-il.json"
+  },
+  {
+   "keyword": "used cars for sale wheeling il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/used-cars-for-sale-wheeling-il.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "kolssak-funeral-home-ltd-wheeling",
+   "name": "Kolssak Funeral Home Ltd.",
+   "summary": "Kolssak Funeral Home Ltd. is a funeral home in Wheeling, IL at 189 South Milwaukee Avenue, Wheeling, IL 60090. Phone: +18475376600. Website: https://www.funerals.pro/.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kolssak-funeral-home-ltd-wheeling/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kolssak-funeral-home-ltd-wheeling.json",
+   "address": {
+    "streetAddress": "189 South Milwaukee Avenue",
+    "addressLocality": "Wheeling",
+    "addressRegion": "IL",
+    "postalCode": "60090",
+    "addressCountry": "US"
+   },
+   "city": "Wheeling",
+   "state": "IL",
+   "zip": "60090",
+   "geo": {
+    "lat": 42.1371228,
+    "lon": -87.9050393
+   },
+   "phone": "+18475376600",
+   "website": "https://www.funerals.pro/",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1222805076",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "acupuncture-center-chunam-wheeling",
+   "name": "Acupuncture Center ChunAm",
+   "summary": "Acupuncture Center ChunAm is an acupuncture clinic in Wheeling, IL at 737 West Dundee Road, Wheeling, IL 60090. Phone: +18478087575. Website: https://www.facebook.com/chunamacupuncture.",
+   "categories": [
+    "acupuncture"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/acupuncture-center-chunam-wheeling/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/acupuncture-center-chunam-wheeling.json",
+   "address": {
+    "streetAddress": "737 West Dundee Road",
+    "addressLocality": "Wheeling",
+    "addressRegion": "IL",
+    "postalCode": "60090",
+    "addressCountry": "US"
+   },
+   "city": "Wheeling",
+   "state": "IL",
+   "zip": "60090",
+   "geo": {
+    "lat": 42.1388475,
+    "lon": -87.9339524
+   },
+   "phone": "+18478087575",
+   "website": "https://www.facebook.com/chunamacupuncture",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11382585773",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "binnys-beverage-depot-wheeling",
+   "name": "Binny's Beverage Depot",
+   "summary": "Binny's Beverage Depot is a liquor store in Wheeling, IL. Phone: +18474592200. Website: https://www.binnys.com/store-locator/wheeling/.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/binnys-beverage-depot-wheeling/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/binnys-beverage-depot-wheeling.json",
+   "address": {
+    "addressLocality": "Wheeling",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Wheeling",
+   "state": "IL",
+   "geo": {
+    "lat": 42.1548132,
+    "lon": -87.9533727
+   },
+   "phone": "+18474592200",
+   "website": "https://www.binnys.com/store-locator/wheeling/",
+   "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5728537458",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "extra-space-storage-wheeling",
+   "name": "Extra Space Storage",
+   "summary": "Extra Space Storage is a self-storage facility in Wheeling, IL at 991 North Milwaukee Avenue, Wheeling, IL 60090. Phone: +18472797830. Website: https://www.extraspace.com/storage/facilities/us/illinois/deerfield/501795/.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/extra-space-storage-wheeling/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/extra-space-storage-wheeling.json",
+   "address": {
+    "streetAddress": "991 North Milwaukee Avenue",
+    "addressLocality": "Wheeling",
+    "addressRegion": "IL",
+    "postalCode": "60090",
+    "addressCountry": "US"
+   },
+   "city": "Wheeling",
+   "state": "IL",
+   "zip": "60090",
+   "geo": {
+    "lat": 42.1616391,
+    "lon": -87.9188548
+   },
+   "phone": "+18472797830",
+   "website": "https://www.extraspace.com/storage/facilities/us/illinois/deerfield/501795/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1223501272",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "gross-barry-a-wheeling",
+   "name": "Gross Barry A",
+   "summary": "Gross Barry A is an insurance agent in Wheeling, IL at 765B West Dundee Road, Wheeling, IL 60090. Phone: +18472157771. Website: https://chicago-abogado.com/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gross-barry-a-wheeling/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gross-barry-a-wheeling.json",
+   "address": {
+    "streetAddress": "765B West Dundee Road",
+    "addressLocality": "Wheeling",
+    "addressRegion": "IL",
+    "postalCode": "60090",
+    "addressCountry": "US"
+   },
+   "city": "Wheeling",
+   "state": "IL",
+   "zip": "60090",
+   "geo": {
+    "lat": 42.138951,
+    "lon": -87.9353836
+   },
+   "phone": "+18472157771",
+   "website": "https://chicago-abogado.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11382558118",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "b-and-l-liquors-wheeling",
+   "name": "B & L Liquors",
+   "summary": "B & L Liquors is a liquor store in Wheeling, IL at 767 West Dundee Road, Wheeling, IL 60090. Phone: +18472798000.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/b-and-l-liquors-wheeling/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/b-and-l-liquors-wheeling.json",
+   "address": {
+    "streetAddress": "767 West Dundee Road",
+    "addressLocality": "Wheeling",
+    "addressRegion": "IL",
+    "postalCode": "60090",
+    "addressCountry": "US"
+   },
+   "city": "Wheeling",
+   "state": "IL",
+   "zip": "60090",
+   "geo": {
+    "lat": 42.1388917,
+    "lon": -87.9356264
+   },
+   "phone": "+18472798000",
+   "opening_hours": "Tu-Th 10:00-22:00; Fr-Sa 10:00-23:00; Su-Mo 10:00-21:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11382558116",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "cleaners-wheeling",
+   "name": "Cleaners",
+   "summary": "Cleaners is a dry cleaner in Wheeling, IL at 751 West Dundee Road, Wheeling, IL 60090. Phone: +18475209555.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cleaners-wheeling/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cleaners-wheeling.json",
+   "address": {
+    "streetAddress": "751 West Dundee Road",
+    "addressLocality": "Wheeling",
+    "addressRegion": "IL",
+    "postalCode": "60090",
+    "addressCountry": "US"
+   },
+   "city": "Wheeling",
+   "state": "IL",
+   "zip": "60090",
+   "geo": {
+    "lat": 42.1388457,
+    "lon": -87.93445
+   },
+   "phone": "+18475209555",
+   "opening_hours": "Mo-Fr 7:00-18:00; Sa 8:00-16:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11382582668",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "la-international-hair-design-wheeling",
+   "name": "La International Hair Design",
+   "summary": "La International Hair Design is a hair salon in Wheeling, IL at 765 West Dundee Road, Wheeling, IL 60090. Phone: +18478088233.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/la-international-hair-design-wheeling/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/la-international-hair-design-wheeling.json",
+   "address": {
+    "streetAddress": "765 West Dundee Road",
+    "addressLocality": "Wheeling",
+    "addressRegion": "IL",
+    "postalCode": "60090",
+    "addressCountry": "US"
+   },
+   "city": "Wheeling",
+   "state": "IL",
+   "zip": "60090",
+   "geo": {
+    "lat": 42.1389523,
+    "lon": -87.9352578
+   },
+   "phone": "+18478088233",
+   "opening_hours": "Mo-Th 9:00-19:30; Fr 9:00-20:00; Sa 9:00-18:00; Su 9:30-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11382558119",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "tasca-chevrolet-wheeling",
+   "name": "Tasca Chevrolet",
+   "summary": "Tasca Chevrolet is an used car dealer in Wheeling, IL at 700 West Dundee Road, Wheeling, IL 60090. Website: https://www.tascachevroletwheeling.com/.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tasca-chevrolet-wheeling/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tasca-chevrolet-wheeling.json",
+   "address": {
+    "streetAddress": "700 West Dundee Road",
+    "addressLocality": "Wheeling",
+    "addressRegion": "IL",
+    "postalCode": "60090",
+    "addressCountry": "US"
+   },
+   "city": "Wheeling",
+   "state": "IL",
+   "zip": "60090",
+   "geo": {
+    "lat": 42.1399076,
+    "lon": -87.9334215
+   },
+   "website": "https://www.tascachevroletwheeling.com/",
+   "opening_hours": "Mo-Fr 07:00-20:00; Sa 08:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/344305073",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "birdies-5-car-wash-wheeling",
+   "name": "Birdies $5 Car Wash",
+   "summary": "Birdies $5 Car Wash is a car wash in Wheeling, IL at 966 South Milwaukee Avenue, Wheeling, IL 60090. Website: https://www.birdiescarwash.com/.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/birdies-5-car-wash-wheeling/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/birdies-5-car-wash-wheeling.json",
+   "address": {
+    "streetAddress": "966 South Milwaukee Avenue",
+    "addressLocality": "Wheeling",
+    "addressRegion": "IL",
+    "postalCode": "60090",
+    "addressCountry": "US"
+   },
+   "city": "Wheeling",
+   "state": "IL",
+   "zip": "60090",
+   "geo": {
+    "lat": 42.1249361,
+    "lon": -87.8982161
+   },
+   "website": "https://www.birdiescarwash.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1223471148",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "cubesmart-wheeling",
+   "name": "CubeSmart",
+   "summary": "CubeSmart is a self-storage facility in Wheeling, IL at 1042 South Milwaukee Avenue, Wheeling, IL 60090. Website: https://www.cubesmart.com/illinois-self-storage/wheeling-self-storage/119.html.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cubesmart-wheeling/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cubesmart-wheeling.json",
+   "address": {
+    "streetAddress": "1042 South Milwaukee Avenue",
+    "addressLocality": "Wheeling",
+    "addressRegion": "IL",
+    "postalCode": "60090",
+    "addressCountry": "US"
+   },
+   "city": "Wheeling",
+   "state": "IL",
+   "zip": "60090",
+   "geo": {
+    "lat": 42.1198399,
+    "lon": -87.8970119
+   },
+   "website": "https://www.cubesmart.com/illinois-self-storage/wheeling-self-storage/119.html",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/relation/20428535",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "cubesmart-wheeling-w376311500",
+   "name": "CubeSmart",
+   "summary": "CubeSmart is a self-storage facility in Wheeling, IL at 1004 South Milwaukee Avenue, Wheeling, IL 60090. Website: https://www.cubesmart.com/illinois-self-storage/wheeling-self-storage/118.html.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cubesmart-wheeling-w376311500/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cubesmart-wheeling-w376311500.json",
+   "address": {
+    "streetAddress": "1004 South Milwaukee Avenue",
+    "addressLocality": "Wheeling",
+    "addressRegion": "IL",
+    "postalCode": "60090",
+    "addressCountry": "US"
+   },
+   "city": "Wheeling",
+   "state": "IL",
+   "zip": "60090",
+   "geo": {
+    "lat": 42.1234884,
+    "lon": -87.8974858
+   },
+   "website": "https://www.cubesmart.com/illinois-self-storage/wheeling-self-storage/118.html",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/376311500",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "extra-space-storage-arlington-heights-n13646148974",
+   "name": "Extra Space Storage",
+   "summary": "Extra Space Storage is a self-storage facility in Arlington Heights, IL at 2500 East Hintz Road, Arlington Heights, IL 60004. Website: https://www.extraspace.com/storage/facilities/us/illinois/arlington_heights/7650/.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/extra-space-storage-arlington-heights-n13646148974/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/extra-space-storage-arlington-heights-n13646148974.json",
+   "address": {
+    "streetAddress": "2500 East Hintz Road",
+    "addressLocality": "Arlington Heights",
+    "addressRegion": "IL",
+    "postalCode": "60004",
+    "addressCountry": "US"
+   },
+   "city": "Arlington Heights",
+   "state": "IL",
+   "zip": "60004",
+   "geo": {
+    "lat": 42.1249783,
+    "lon": -87.950075
+   },
+   "website": "https://www.extraspace.com/storage/facilities/us/illinois/arlington_heights/7650/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13646148974",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "fjp-insurance-agency-inc-wheeling",
+   "name": "FJP Insurance Agency, Inc.",
+   "summary": "FJP Insurance Agency, Inc. is an insurance agent in Wheeling, IL at 47 West Dundee Road #2NE, Wheeling, IL 60090. Phone: +18472434976.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fjp-insurance-agency-inc-wheeling/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fjp-insurance-agency-inc-wheeling.json",
+   "address": {
+    "streetAddress": "47 West Dundee Road #2NE",
+    "addressLocality": "Wheeling",
+    "addressRegion": "IL",
+    "postalCode": "60090",
+    "addressCountry": "US"
+   },
+   "city": "Wheeling",
+   "state": "IL",
+   "zip": "60090",
+   "geo": {
+    "lat": 42.1391389,
+    "lon": -87.9173295
+   },
+   "phone": "+18472434976",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6775493680",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "kras-dental-wheeling",
+   "name": "Kras Dental",
+   "summary": "Kras Dental is a dentist in Wheeling, IL at 1532 East Lake Cook Road, Wheeling, IL 60090. Phone: +18475412750.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kras-dental-wheeling/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kras-dental-wheeling.json",
+   "address": {
+    "streetAddress": "1532 East Lake Cook Road",
+    "addressLocality": "Wheeling",
+    "addressRegion": "IL",
+    "postalCode": "60090",
+    "addressCountry": "US"
+   },
+   "city": "Wheeling",
+   "state": "IL",
+   "zip": "60090",
+   "geo": {
+    "lat": 42.1546035,
+    "lon": -87.9529869
+   },
+   "phone": "+18475412750",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5728537463",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "maaco-wheeling",
+   "name": "MAACO",
+   "summary": "MAACO is an auto repair shop in Wheeling, IL at 1026 South Milwaukee Avenue, Wheeling, IL 60090. Website: https://www.maaco.com/locations/il/wheeling-11205/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/maaco-wheeling/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/maaco-wheeling.json",
+   "address": {
+    "streetAddress": "1026 South Milwaukee Avenue",
+    "addressLocality": "Wheeling",
+    "addressRegion": "IL",
+    "postalCode": "60090",
+    "addressCountry": "US"
+   },
+   "city": "Wheeling",
+   "state": "IL",
+   "zip": "60090",
+   "geo": {
+    "lat": 42.1213932,
+    "lon": -87.8966437
+   },
+   "website": "https://www.maaco.com/locations/il/wheeling-11205/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/344370106",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "midas-wheeling",
+   "name": "Midas",
+   "summary": "Midas is an auto repair shop in Wheeling, IL at 1044 South Milwaukee Avenue, Wheeling, IL 60090. Website: https://www.midas.com/store/il/wheeling/1044-s-milwaukee-ave-60090?shopnum=2170.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/midas-wheeling/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/midas-wheeling.json",
+   "address": {
+    "streetAddress": "1044 South Milwaukee Avenue",
+    "addressLocality": "Wheeling",
+    "addressRegion": "IL",
+    "postalCode": "60090",
+    "addressCountry": "US"
+   },
+   "city": "Wheeling",
+   "state": "IL",
+   "zip": "60090",
+   "geo": {
+    "lat": 42.1195248,
+    "lon": -87.8958033
+   },
+   "website": "https://www.midas.com/store/il/wheeling/1044-s-milwaukee-ave-60090?shopnum=2170",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/344369823",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "northwest-insurance-network-wheeling",
+   "name": "Northwest Insurance Network",
+   "summary": "Northwest Insurance Network is an insurance agent in Wheeling, IL at 542 West Dundee Road, Wheeling, IL 60090. Phone: +18479477900.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/northwest-insurance-network-wheeling/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/northwest-insurance-network-wheeling.json",
+   "address": {
+    "streetAddress": "542 West Dundee Road",
+    "addressLocality": "Wheeling",
+    "addressRegion": "IL",
+    "postalCode": "60090",
+    "addressCountry": "US"
+   },
+   "city": "Wheeling",
+   "state": "IL",
+   "zip": "60090",
+   "geo": {
+    "lat": 42.1402881,
+    "lon": -87.9293391
+   },
+   "phone": "+18479477900",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6775496597",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "public-storage-wheeling-w1498074933",
+   "name": "Public Storage",
+   "summary": "Public Storage is a self-storage facility in Wheeling, IL at 990 South Milwaukee Avenue, Wheeling, IL 60090. Website: https://www.publicstorage.com/self-storage-il-wheeling/1277.html.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/public-storage-wheeling-w1498074933/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/public-storage-wheeling-w1498074933.json",
+   "address": {
+    "streetAddress": "990 South Milwaukee Avenue",
+    "addressLocality": "Wheeling",
+    "addressRegion": "IL",
+    "postalCode": "60090",
+    "addressCountry": "US"
+   },
+   "city": "Wheeling",
+   "state": "IL",
+   "zip": "60090",
+   "geo": {
+    "lat": 42.1244174,
+    "lon": -87.8981276
+   },
+   "website": "https://www.publicstorage.com/self-storage-il-wheeling/1277.html",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1498074933",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "dream-clean-auto-wash-wheeling",
+   "name": "Dream Clean Auto Wash",
+   "summary": "Dream Clean Auto Wash is a car wash in Wheeling, IL at 400 North Milwaukee Avenue, Wheeling, IL 60090.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dream-clean-auto-wash-wheeling/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dream-clean-auto-wash-wheeling.json",
+   "address": {
+    "streetAddress": "400 North Milwaukee Avenue",
+    "addressLocality": "Wheeling",
+    "addressRegion": "IL",
+    "postalCode": "60090",
+    "addressCountry": "US"
+   },
+   "city": "Wheeling",
+   "state": "IL",
+   "zip": "60090",
+   "geo": {
+    "lat": 42.1461163,
+    "lon": -87.9119945
+   },
+   "opening_hours": "Mo-Su 08:00-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1187933244",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "rockstyles-by-ellyse-wheeling",
+   "name": "Rockstyles By Ellyse",
+   "summary": "Rockstyles By Ellyse is a hair salon in Wheeling, IL at 749 West Dundee Road, Wheeling, IL 60090.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rockstyles-by-ellyse-wheeling/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rockstyles-by-ellyse-wheeling.json",
+   "address": {
+    "streetAddress": "749 West Dundee Road",
+    "addressLocality": "Wheeling",
+    "addressRegion": "IL",
+    "postalCode": "60090",
+    "addressCountry": "US"
+   },
+   "city": "Wheeling",
+   "state": "IL",
+   "zip": "60090",
+   "geo": {
+    "lat": 42.138847,
+    "lon": -87.9343409
+   },
+   "opening_hours": "Tu-Fr 12:00-19:00; Sa 11:30-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11382583069",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "ati-physical-therapy-wheeling",
+   "name": "ATI Physical Therapy",
+   "summary": "ATI Physical Therapy is a physical therapy clinic in Wheeling, IL at 1562 East Lake Cook Road, Wheeling, IL 60090.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ati-physical-therapy-wheeling/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ati-physical-therapy-wheeling.json",
+   "address": {
+    "streetAddress": "1562 East Lake Cook Road",
+    "addressLocality": "Wheeling",
+    "addressRegion": "IL",
+    "postalCode": "60090",
+    "addressCountry": "US"
+   },
+   "city": "Wheeling",
+   "state": "IL",
+   "zip": "60090",
+   "geo": {
+    "lat": 42.1549348,
+    "lon": -87.9537358
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5728537460",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "bp-wheeling",
+   "name": "BP",
+   "summary": "BP is a car wash in Wheeling, IL at 11 East Dundee Road, Wheeling, IL 60090.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bp-wheeling/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bp-wheeling.json",
+   "address": {
+    "streetAddress": "11 East Dundee Road",
+    "addressLocality": "Wheeling",
+    "addressRegion": "IL",
+    "postalCode": "60090",
+    "addressCountry": "US"
+   },
+   "city": "Wheeling",
+   "state": "IL",
+   "zip": "60090",
+   "geo": {
+    "lat": 42.139109,
+    "lon": -87.914749
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1225321659",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "galaxy-dental-of-wheeling-wheeling",
+   "name": "Galaxy Dental of Wheeling",
+   "summary": "Galaxy Dental of Wheeling is a dentist in Wheeling, IL at 1532 East Lake Cook Road, Wheeling, IL 60090.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/galaxy-dental-of-wheeling-wheeling/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/galaxy-dental-of-wheeling-wheeling.json",
+   "address": {
+    "streetAddress": "1532 East Lake Cook Road",
+    "addressLocality": "Wheeling",
+    "addressRegion": "IL",
+    "postalCode": "60090",
+    "addressCountry": "US"
+   },
+   "city": "Wheeling",
+   "state": "IL",
+   "zip": "60090",
+   "geo": {
+    "lat": 42.1546391,
+    "lon": -87.9528733
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13073189532",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "great-clips-wheeling",
+   "name": "Great Clips",
+   "summary": "Great Clips is a hair salon in Wheeling, IL at 263 East Dundee Road, Wheeling, IL 60090.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/great-clips-wheeling/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/great-clips-wheeling.json",
+   "address": {
+    "streetAddress": "263 East Dundee Road",
+    "addressLocality": "Wheeling",
+    "addressRegion": "IL",
+    "postalCode": "60090",
+    "addressCountry": "US"
+   },
+   "city": "Wheeling",
+   "state": "IL",
+   "zip": "60090",
+   "geo": {
+    "lat": 42.138919,
+    "lon": -87.9091613
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9459638345",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "jiffy-lube-wheeling",
+   "name": "Jiffy Lube",
+   "summary": "Jiffy Lube is an auto repair shop in Wheeling, IL at 10 East Dundee Road, Wheeling, IL 60090.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jiffy-lube-wheeling/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jiffy-lube-wheeling.json",
+   "address": {
+    "streetAddress": "10 East Dundee Road",
+    "addressLocality": "Wheeling",
+    "addressRegion": "IL",
+    "postalCode": "60090",
+    "addressCountry": "US"
+   },
+   "city": "Wheeling",
+   "state": "IL",
+   "zip": "60090",
+   "geo": {
+    "lat": 42.1398966,
+    "lon": -87.915215
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1229096200",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "massage-therapy-wheeling",
+   "name": "Massage Therapy",
+   "summary": "Massage Therapy is a massage studio in Wheeling, IL at 765C West Dundee Road, Wheeling, IL 60090.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/massage-therapy-wheeling/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/massage-therapy-wheeling.json",
+   "address": {
+    "streetAddress": "765C West Dundee Road",
+    "addressLocality": "Wheeling",
+    "addressRegion": "IL",
+    "postalCode": "60090",
+    "addressCountry": "US"
+   },
+   "city": "Wheeling",
+   "state": "IL",
+   "zip": "60090",
+   "geo": {
+    "lat": 42.1389492,
+    "lon": -87.9354396
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11382558117",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "re-max-wheeling",
+   "name": "RE/MAX",
+   "summary": "RE/MAX is a real estate agency in Wheeling, IL at 401 South Milwaukee Avenue #130, Wheeling, IL 60090.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/re-max-wheeling/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/re-max-wheeling.json",
+   "address": {
+    "streetAddress": "401 South Milwaukee Avenue #130",
+    "addressLocality": "Wheeling",
+    "addressRegion": "IL",
+    "postalCode": "60090",
+    "addressCountry": "US"
+   },
+   "city": "Wheeling",
+   "state": "IL",
+   "zip": "60090",
+   "geo": {
+    "lat": 42.133381,
+    "lon": -87.901428
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13719640150",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "the-ups-store-wheeling",
+   "name": "The UPS Store",
+   "summary": "The UPS Store is a printing service in Wheeling, IL at 82 South Milwaukee Avenue, Wheeling, IL 60090.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-ups-store-wheeling/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-ups-store-wheeling.json",
+   "address": {
+    "streetAddress": "82 South Milwaukee Avenue",
+    "addressLocality": "Wheeling",
+    "addressRegion": "IL",
+    "postalCode": "60090",
+    "addressCountry": "US"
+   },
+   "city": "Wheeling",
+   "state": "IL",
+   "zip": "60090",
+   "geo": {
+    "lat": 42.1386266,
+    "lon": -87.9078712
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9459638343",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "hair-cuttery-wheeling",
+   "name": "Hair Cuttery",
+   "summary": "Hair Cuttery is a hair salon in Wheeling, IL.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hair-cuttery-wheeling/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hair-cuttery-wheeling.json",
+   "address": {
+    "addressLocality": "Wheeling",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Wheeling",
+   "state": "IL",
+   "geo": {
+    "lat": 42.1546174,
+    "lon": -87.9530612
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5728537462",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "liquor-barn-wheeling",
+   "name": "Liquor Barn",
+   "summary": "Liquor Barn is a liquor store in Wheeling, IL.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/liquor-barn-wheeling/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/liquor-barn-wheeling.json",
+   "address": {
+    "addressLocality": "Wheeling",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Wheeling",
+   "state": "IL",
+   "geo": {
+    "lat": 42.1389703,
+    "lon": -87.9087264
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11639708069",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "public-storage-wheeling",
+   "name": "Public Storage",
+   "summary": "Public Storage is a self-storage facility in Wheeling, IL.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/public-storage-wheeling/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/public-storage-wheeling.json",
+   "address": {
+    "addressLocality": "Wheeling",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Wheeling",
+   "state": "IL",
+   "geo": {
+    "lat": 42.142062,
+    "lon": -87.9360648
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1223998106",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "public-storage-wheeling-w1223998109",
+   "name": "Public Storage",
+   "summary": "Public Storage is a self-storage facility in Wheeling, IL.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/public-storage-wheeling-w1223998109/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/public-storage-wheeling-w1223998109.json",
+   "address": {
+    "addressLocality": "Wheeling",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Wheeling",
+   "state": "IL",
+   "geo": {
+    "lat": 42.1416622,
+    "lon": -87.9352978
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1223998109",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "the-learning-experience-wheeling",
+   "name": "The Learning Experience",
+   "summary": "The Learning Experience is a daycare in Wheeling, IL.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-learning-experience-wheeling/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-learning-experience-wheeling.json",
+   "address": {
+    "addressLocality": "Wheeling",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Wheeling",
+   "state": "IL",
+   "geo": {
+    "lat": 42.1381919,
+    "lon": -87.9252699
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/878752252",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "touge-factory-wheeling",
+   "name": "Touge Factory",
+   "summary": "Touge Factory is an auto repair shop in Wheeling, IL.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/touge-factory-wheeling/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/touge-factory-wheeling.json",
+   "address": {
+    "addressLocality": "Wheeling",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Wheeling",
+   "state": "IL",
+   "geo": {
+    "lat": 42.0986969,
+    "lon": -87.9124345
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/344332054",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "wheeling-auto-center-wheeling",
+   "name": "Wheeling Auto Center",
+   "summary": "Wheeling Auto Center is an auto repair shop in Wheeling, IL.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wheeling-auto-center-wheeling/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wheeling-auto-center-wheeling.json",
+   "address": {
+    "addressLocality": "Wheeling",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Wheeling",
+   "state": "IL",
+   "geo": {
+    "lat": 42.1247949,
+    "lon": -87.9511846
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8400319760",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "slug": "dupage-county-fairgrounds-wheaton",
+ "name": "DuPage County Fairgrounds",
+ "categories": [
+  "event venues"
+ ],
+ "keywords": [
+  "event venues",
+  "event venues wheaton il"
+ ],
+ "services": [
+  {
+   "name": "event venues",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "Manchester Road",
+  "addressLocality": "Wheaton",
+  "addressRegion": "IL",
+  "postalCode": "60187",
+  "addressCountry": "US"
+ },
+ "city": "Wheaton",
+ "state": "IL",
+ "zip": "60187",
+ "geo": {
+  "lat": 41.8680081,
+  "lon": -88.1345323
+ },
+ "website": "https://dupagecountyfair.org/",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/14018864301",
+ "osm": {
+  "type": "node",
+  "id": 14018864301,
+  "tags_used": {
+   "amenity": "events_venue"
+  }
+ },
+ "municipality": "Wheaton",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/dupage-county-fairgrounds-wheaton/",
+ "summary": "DuPage County Fairgrounds is an event venue in Wheaton, IL at Manchester Road, Wheaton, IL 60187. Website: https://dupagecountyfair.org/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

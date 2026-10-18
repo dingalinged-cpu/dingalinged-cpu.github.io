@@ -1,0 +1,23 @@
+Northwestern Medicine is a family medicine practice in Deerfield, IL at Waukegan Road, Deerfield, IL 60015.
+
+# Northwestern Medicine
+
+- Category: family doctor
+- Services: family doctor, primary care physician
+- Address: Waukegan Road, Deerfield, IL 60015
+- City: Deerfield
+- State: IL
+- ZIP: 60015
+- Coordinates: 42.146802, -87.832141
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/northwestern-medicine-deerfield/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/northwestern-medicine-deerfield.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6279043449 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

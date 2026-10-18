@@ -1,0 +1,59 @@
+{
+ "slug": "best-buy-tire-and-auto-new-lenox",
+ "name": "Best Buy Tire & Auto",
+ "categories": [
+  "auto repair"
+ ],
+ "keywords": [
+  "auto repair",
+  "mechanic",
+  "auto repair new lenox il",
+  "mechanic new lenox il"
+ ],
+ "services": [
+  {
+   "name": "auto repair",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "mechanic",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "New Lenox",
+  "addressRegion": "IL",
+  "postalCode": "60451",
+  "addressCountry": "US"
+ },
+ "city": "New Lenox",
+ "state": "IL",
+ "zip": "60451",
+ "geo": {
+  "lat": 41.5121491,
+  "lon": -87.9411348
+ },
+ "phone": "+18154628473",
+ "schema_type": "AutoRepair",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/995777668",
+ "osm": {
+  "type": "way",
+  "id": 995777668,
+  "tags_used": {
+   "shop": "car_repair"
+  }
+ },
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/best-buy-tire-and-auto-new-lenox/",
+ "summary": "Best Buy Tire & Auto is an auto repair shop in New Lenox, IL. Phone: +18154628473.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

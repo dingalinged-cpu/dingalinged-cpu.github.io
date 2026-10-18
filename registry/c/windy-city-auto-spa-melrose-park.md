@@ -1,0 +1,23 @@
+Windy City Auto Spa is a car wash in Melrose Park, IL.
+
+# Windy City Auto Spa
+
+- Category: car wash
+- Services: car wash
+- Address: Melrose Park, IL
+- City: Melrose Park
+- State: IL
+- ZIP: n/a
+- Coordinates: 41.9083099, -87.8568984
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/windy-city-auto-spa-melrose-park/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/windy-city-auto-spa-melrose-park.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/4207797111 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

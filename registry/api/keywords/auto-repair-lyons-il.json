@@ -1,0 +1,494 @@
+{
+ "keyword": "auto repair lyons il",
+ "slug": "auto-repair-lyons-il",
+ "place": "Lyons, IL",
+ "service": "auto repair",
+ "query": "Who are the best auto repair providers in Lyons, IL?",
+ "matches": [
+  "auto repair in Lyons, IL",
+  "auto repair near me (Lyons, IL)",
+  "best auto repair Lyons, IL",
+  "top rated auto repair Lyons, IL",
+  "affordable auto repair Lyons, IL",
+  "emergency auto repair Lyons, IL"
+ ],
+ "answer": "The top unpaid auto repair listing for Lyons, IL is Tony's Fast Lane (an auto repair shop in Lyons, IL. Website: https://www.tonysfastlane.com/). 8 auto repair businesses are listed for Lyons, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-18",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "tonys-fast-lane-lyons",
+   "name": "Tony's Fast Lane",
+   "summary": "Tony's Fast Lane is an auto repair shop in Lyons, IL. Website: https://www.tonysfastlane.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tonys-fast-lane-lyons/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tonys-fast-lane-lyons.json",
+   "address": {
+    "addressLocality": "Lyons",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Lyons",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8098658,
+    "lon": -87.8198931
+   },
+   "website": "https://www.tonysfastlane.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1068806109",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "ggc-diagnostics-lyons",
+   "name": "GGC Diagnostics",
+   "summary": "GGC Diagnostics is an auto repair shop in Lyons, IL at 4645 Prescott Avenue, Lyons, IL 60534.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ggc-diagnostics-lyons/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ggc-diagnostics-lyons.json",
+   "address": {
+    "streetAddress": "4645 Prescott Avenue",
+    "addressLocality": "Lyons",
+    "addressRegion": "IL",
+    "postalCode": "60534",
+    "addressCountry": "US"
+   },
+   "city": "Lyons",
+   "state": "IL",
+   "zip": "60534",
+   "geo": {
+    "lat": 41.8064234,
+    "lon": -87.8186975
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1055552982",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "verns-auto-service-lyons",
+   "name": "Vern's Auto Service",
+   "summary": "Vern's Auto Service is an auto repair shop in Lyons, IL at 8644 Ogden Avenue, Lyons, IL 60534.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/verns-auto-service-lyons/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/verns-auto-service-lyons.json",
+   "address": {
+    "streetAddress": "8644 Ogden Avenue",
+    "addressLocality": "Lyons",
+    "addressRegion": "IL",
+    "postalCode": "60534",
+    "addressCountry": "US"
+   },
+   "city": "Lyons",
+   "state": "IL",
+   "zip": "60534",
+   "geo": {
+    "lat": 41.8165925,
+    "lon": -87.8376613
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1030592092",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "cheecos-rebuilders-lyons",
+   "name": "Cheeco's Rebuilders",
+   "summary": "Cheeco's Rebuilders is an auto repair shop in Lyons, IL.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cheecos-rebuilders-lyons/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cheecos-rebuilders-lyons.json",
+   "address": {
+    "addressLocality": "Lyons",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Lyons",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8063881,
+    "lon": -87.8257067
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1055552943",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "faris-auto-service-lyons",
+   "name": "Faris Auto Service",
+   "summary": "Faris Auto Service is an auto repair shop in Lyons, IL.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/faris-auto-service-lyons/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/faris-auto-service-lyons.json",
+   "address": {
+    "addressLocality": "Lyons",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Lyons",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8114543,
+    "lon": -87.8345196
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9511123816",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "gutierrez-auto-repair-lyons",
+   "name": "Gutierrez Auto Repair",
+   "summary": "Gutierrez Auto Repair is an auto repair shop in Lyons, IL.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gutierrez-auto-repair-lyons/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gutierrez-auto-repair-lyons.json",
+   "address": {
+    "addressLocality": "Lyons",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Lyons",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8196137,
+    "lon": -87.8180967
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1068695643",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "knights-body-shop-lyons",
+   "name": "Knight's Body Shop",
+   "summary": "Knight's Body Shop is an auto repair shop in Lyons, IL.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/knights-body-shop-lyons/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/knights-body-shop-lyons.json",
+   "address": {
+    "addressLocality": "Lyons",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Lyons",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8140754,
+    "lon": -87.8355829
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9511655455",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "midwest-complete-car-care-lyons",
+   "name": "Midwest Complete Car Care",
+   "summary": "Midwest Complete Car Care is an auto repair shop in Lyons, IL.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/midwest-complete-car-care-lyons/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/midwest-complete-car-care-lyons.json",
+   "address": {
+    "addressLocality": "Lyons",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Lyons",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8160541,
+    "lon": -87.8387235
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1030592096",
+   "last_checked": "2026-10-17"
+  }
+ ],
+ "market": {
+  "keyword": "auto repair lyons il",
+  "slug": "auto-repair-lyons-il",
+  "base_keyword": "auto repair",
+  "scope": "city",
+  "city": "lyons",
+  "state": "il",
+  "category": "Auto services",
+  "industry": "Automotive: Repair, Service & Parts",
+  "us_monthly_searches": {
+   "value": 301000,
+   "method": "cited",
+   "source": "r_prostarseo-com-en-the-blog-automotive-keyword-list",
+   "as_of": "2026-09",
+   "source_phrase": "auto repair near me",
+   "note": "US monthly searches, Semrush US Sep 2026"
+  },
+  "local_monthly_searches": {
+   "value": 8300,
+   "method": "estimate",
+   "method_id": "local_metro_suburb",
+   "geography": "Chicago-Naperville-Elgin, IL-IN metro",
+   "population": 9434123,
+   "source": "registry_estimate",
+   "volume_source": "r_prostarseo-com-en-the-blog-automotive-keyword-list",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: US monthly volume x metro population share (Census V2025); the keyword names a suburb, so the value is metro-level demand for the service, not searches typing the suburb name; rounded to 2 significant figures."
+  },
+  "cpc_usd": {
+   "industry_benchmark": "Automotive: Repair, Service & Parts",
+   "low_usd": 3.9,
+   "median_usd": 4.35,
+   "high_usd": 4.35,
+   "method": "published benchmarks: low/high = range of the industry and sub-industry median CPCs listed in 'figures'; median = most specific benchmark",
+   "figures": [
+    {
+     "usd": 4.35,
+     "label": "Automotive: Repair, Service & Parts median CPC 2026",
+     "source": "wordstream_2026"
+    },
+    {
+     "usd": 3.9,
+     "label": "Automotive: Repair, Service & Parts median CPC 2025",
+     "source": "wordstream_2025"
+    }
+   ],
+   "source": "wordstream_2026",
+   "as_of": "2026",
+   "basis_for_value": {
+    "usd": 4.35,
+    "method": "benchmark median CPC",
+    "source": "wordstream_2026"
+   }
+  },
+  "ctr_pct": {
+   "value": 5.56,
+   "label": "Automotive: Repair, Service & Parts average search-ad CTR 2025",
+   "source": "wordstream_2025",
+   "as_of": "2025-03"
+  },
+  "competition": {
+   "level": "medium",
+   "method": "proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research)",
+   "source": "wordstream_2026",
+   "as_of": "2026"
+  },
+  "trend": null,
+  "seasonality": {
+   "value": null,
+   "note": "No seasonality data in the research sources for this keyword."
+  },
+  "ai_query": {
+   "text": "No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.",
+   "figures": [
+    {
+     "value": "45%",
+     "label": "US adults using AI for local recommendations",
+     "source": "brightlocal_lcrs_2026"
+    },
+    {
+     "value": "75%",
+     "label": "sessions with keyword-style prompts",
+     "source": "sagapixel_sel"
+    },
+    {
+     "value": "59%",
+     "label": "local-intent prompts that triggered web search",
+     "source": "nectiv"
+    }
+   ],
+   "as_of": "2026"
+  },
+  "registry_competitors": {
+   "value": 8,
+   "slugs": [
+    "cheecos-rebuilders-lyons",
+    "faris-auto-service-lyons",
+    "ggc-diagnostics-lyons",
+    "gutierrez-auto-repair-lyons",
+    "knights-body-shop-lyons",
+    "midwest-complete-car-care-lyons",
+    "tonys-fast-lane-lyons",
+    "verns-auto-service-lyons"
+   ],
+   "method_id": "competitors",
+   "source": "registry",
+   "as_of": "2026-10-18",
+   "urls": [
+    "https://dingalinged-cpu.github.io/registry/c/cheecos-rebuilders-lyons/",
+    "https://dingalinged-cpu.github.io/registry/c/faris-auto-service-lyons/",
+    "https://dingalinged-cpu.github.io/registry/c/ggc-diagnostics-lyons/",
+    "https://dingalinged-cpu.github.io/registry/c/gutierrez-auto-repair-lyons/",
+    "https://dingalinged-cpu.github.io/registry/c/knights-body-shop-lyons/",
+    "https://dingalinged-cpu.github.io/registry/c/midwest-complete-car-care-lyons/",
+    "https://dingalinged-cpu.github.io/registry/c/tonys-fast-lane-lyons/",
+    "https://dingalinged-cpu.github.io/registry/c/verns-auto-service-lyons/"
+   ],
+   "method": "count of registry listings tagged with the keyword (city/national) or with the base service in the same state (state keywords)"
+  },
+  "agent_demand": null,
+  "agent_demand_note": "Not yet measured. Will carry AI-agent query counts from the registry's agent analytics (contract: meta.agent_demand_contract in the market index).",
+  "equivalent_google_ads_cost_month": {
+   "value_usd": 2000,
+   "method": "estimate",
+   "method_id": "google_ads_equiv",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote."
+  },
+  "search_value_index": {
+   "value_usd": 36000,
+   "method": "estimate",
+   "method_id": "value_index",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: search value index = monthly searches x CPC basis; an advertiser-value ranking signal, not revenue; rounded to 2 significant figures."
+  },
+  "auction": {
+   "featured_spot_min_usd": 20,
+   "spots_2_to_4_min_usd": 2,
+   "tier": "mid",
+   "pricing_rule": "tier minimum (premium $500, high $250, mid $100, standard $50) for national keywords; city = max($10, 20% of tier); state = max($10, 35% of tier); spots 2-4 open at 10% of the featured minimum",
+   "model": "Monthly auction in the last 7 days of each month: days 1-5 bid for the Featured #1 spot, days 6-7 for spots 2-4; winners display all next month; all paid spots labeled Sponsored.",
+   "next_auctions": [
+    {
+     "display_month": "2026-11",
+     "featured_spot_bidding": [
+      "2026-10-25",
+      "2026-10-29"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-10-30",
+      "2026-10-31"
+     ]
+    },
+    {
+     "display_month": "2026-12",
+     "featured_spot_bidding": [
+      "2026-11-24",
+      "2026-11-28"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-11-29",
+      "2026-11-30"
+     ]
+    }
+   ],
+   "source": "registry_auction",
+   "as_of": "2026-10-18"
+  },
+  "sources": {
+   "brightlocal_lcrs_2026": {
+    "name": "BrightLocal Local Consumer Review Survey 2026 (n=1,002 US adults)",
+    "url": "https://www.brightlocal.com/research/lcrs-ai-trust/",
+    "as_of": "2026"
+   },
+   "nectiv": {
+    "name": "Nectiv study of 8,500+ ChatGPT prompts",
+    "url": "https://nectivdigital.com/blog/new-data-study-what-queries-is-chatgpt-using-behind-the-scenes",
+    "as_of": "2025"
+   },
+   "r_prostarseo-com-en-the-blog-automotive-keyword-list": {
+    "name": "Semrush US Sep 2026 (via research source)",
+    "url": "https://www.prostarseo.com/en/the-blog/automotive-keyword-list",
+    "as_of": "2026-09"
+   },
+   "registry": {
+    "name": "This registry's own listings (OpenStreetMap-seeded, ODbL)",
+    "url": "https://dingalinged-cpu.github.io/registry/api/companies.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_auction": {
+    "name": "Registry keyword auction catalog and rules",
+    "url": "https://dingalinged-cpu.github.io/registry/api/keyword-prices.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_estimate": {
+    "name": "Registry estimate (CC-BY-4.0); method given on each value",
+    "url": "https://dingalinged-cpu.github.io/registry/market/",
+    "as_of": "2026-10-18"
+   },
+   "sagapixel_sel": {
+    "name": "Sagapixel ChatGPT local-services sessions, via Search Engine Land",
+    "url": "https://searchengineland.com/chatgpt-users-keywords-for-local-services-data-467715",
+    "as_of": "2026-01"
+   },
+   "wordstream_2025": {
+    "name": "WordStream Google Ads Benchmarks 2025 (16,446 US campaigns, Apr 2024-Mar 2025; median CPC and CTR by industry)",
+    "url": "https://www.wordstream.com/blog/2025-google-ads-benchmarks",
+    "as_of": "2025-03"
+   },
+   "wordstream_2026": {
+    "name": "LocaliQ/WordStream Search Advertising Benchmarks 2026 (US median CPC by industry)",
+    "url": "https://www.localiq.com/blog/search-advertising-benchmarks",
+    "as_of": "2026"
+   }
+  },
+  "license": {
+   "registry_estimates": "CC-BY-4.0",
+   "url": "https://creativecommons.org/licenses/by/4.0/",
+   "cited_figures": "attribute to the publishers in sources"
+  },
+  "as_of": "2026-10-18",
+  "api": "https://dingalinged-cpu.github.io/registry/api/market/auto-repair.json",
+  "rate_card": "https://dingalinged-cpu.github.io/registry/view/market.html#auto-repair-lyons-il"
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "slug": "floor-and-decor-countryside",
+ "name": "Floor & Decor",
+ "categories": [
+  "flooring companies"
+ ],
+ "keywords": [
+  "flooring companies",
+  "flooring companies countryside il"
+ ],
+ "services": [
+  {
+   "name": "flooring companies",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Countryside",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Countryside",
+ "state": "IL",
+ "geo": {
+  "lat": 41.7843429,
+  "lon": -87.870679
+ },
+ "brand": "Floor & Decor",
+ "wikidata": "Q56280964",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/1055483209",
+ "osm": {
+  "type": "way",
+  "id": 1055483209,
+  "tags_used": {
+   "shop": "flooring"
+  }
+ },
+ "municipality": "Countryside",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/floor-and-decor-countryside/",
+ "summary": "Floor & Decor is a flooring company in Countryside, IL.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

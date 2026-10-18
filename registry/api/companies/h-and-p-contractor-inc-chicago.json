@@ -1,0 +1,54 @@
+{
+ "slug": "h-and-p-contractor-inc-chicago",
+ "name": "H & P Contractor, Inc.",
+ "categories": [
+  "general contractor"
+ ],
+ "keywords": [
+  "general contractor",
+  "general contractor chicago il"
+ ],
+ "services": [
+  {
+   "name": "general contractor",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "2921 West Diversey Avenue",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "geo": {
+  "lat": 41.9319526,
+  "lon": -87.7009543
+ },
+ "phone": "+17736450875",
+ "website": "https://www.hp-contractor.com/",
+ "schema_type": "GeneralContractor",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/11481078442",
+ "osm": {
+  "type": "node",
+  "id": 11481078442,
+  "tags_used": {
+   "craft": "builder"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/h-and-p-contractor-inc-chicago/",
+ "summary": "H & P Contractor, Inc. is a general contractor in Chicago, IL at 2921 West Diversey Avenue, Chicago, IL. Phone: +17736450875. Website: https://www.hp-contractor.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

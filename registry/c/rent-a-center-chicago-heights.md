@@ -1,0 +1,23 @@
+Rent-A-Center is a furniture store in Chicago Heights, IL at 97 West Joe Orr Road, Chicago Heights, IL 60411. Website: https://locations.rentacenter.com/illinois/chicago-heights/97-w-joe-orr-rd/.
+
+# Rent-A-Center
+
+- Category: furniture store
+- Services: furniture store
+- Address: 97 West Joe Orr Road, Chicago Heights, IL 60411
+- City: Chicago Heights
+- State: IL
+- ZIP: 60411
+- Coordinates: 41.5215391, -87.6464321
+- Phone: n/a
+- Website: https://locations.rentacenter.com/illinois/chicago-heights/97-w-joe-orr-rd/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/rent-a-center-chicago-heights/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/rent-a-center-chicago-heights.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/7484417999 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

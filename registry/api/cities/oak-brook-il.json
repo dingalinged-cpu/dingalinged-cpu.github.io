@@ -1,0 +1,754 @@
+{
+ "place": "Oak Brook, IL",
+ "slug": "oak-brook-il",
+ "count": 25,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "attorney oak brook il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/attorney-oak-brook-il.json"
+  },
+  {
+   "keyword": "furniture store oak brook il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/furniture-store-oak-brook-il.json"
+  },
+  {
+   "keyword": "jewelry store oak brook il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/jewelry-store-oak-brook-il.json"
+  },
+  {
+   "keyword": "lawyer oak brook il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/lawyer-oak-brook-il.json"
+  },
+  {
+   "keyword": "liquor store oak brook il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/liquor-store-oak-brook-il.json"
+  },
+  {
+   "keyword": "mattress store oak brook il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mattress-store-oak-brook-il.json"
+  },
+  {
+   "keyword": "pet store oak brook il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/pet-store-oak-brook-il.json"
+  },
+  {
+   "keyword": "roofer oak brook il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/roofer-oak-brook-il.json"
+  },
+  {
+   "keyword": "roofing contractor oak brook il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/roofing-contractor-oak-brook-il.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "benchmark-exteriors-oak-brook",
+   "name": "Benchmark Exteriors",
+   "summary": "Benchmark Exteriors is a roofer in Oak Brook, IL at 1000 Jorie Boulevard #150, Oak Brook, IL 60523. Phone: +18337087663. Website: https://www.benchmarkexteriors.com/.",
+   "categories": [
+    "roofer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/benchmark-exteriors-oak-brook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/benchmark-exteriors-oak-brook.json",
+   "address": {
+    "streetAddress": "1000 Jorie Boulevard #150",
+    "addressLocality": "Oak Brook",
+    "addressRegion": "IL",
+    "postalCode": "60523",
+    "addressCountry": "US"
+   },
+   "city": "Oak Brook",
+   "state": "IL",
+   "zip": "60523",
+   "geo": {
+    "lat": 41.8440212,
+    "lon": -87.9433864
+   },
+   "phone": "+18337087663",
+   "website": "https://www.benchmarkexteriors.com/",
+   "opening_hours": "Mo-Su 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11358156453",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "binnys-beverage-depot-oak-brook",
+   "name": "Binny's Beverage Depot",
+   "summary": "Binny's Beverage Depot is a liquor store in Oak Brook, IL at 1500 16th Street, Oak Brook, IL 60523. Phone: +16308611810. Website: https://www.binnys.com/store-locator/oak-brook/.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/binnys-beverage-depot-oak-brook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/binnys-beverage-depot-oak-brook.json",
+   "address": {
+    "streetAddress": "1500 16th Street",
+    "addressLocality": "Oak Brook",
+    "addressRegion": "IL",
+    "postalCode": "60523",
+    "addressCountry": "US"
+   },
+   "city": "Oak Brook",
+   "state": "IL",
+   "zip": "60523",
+   "geo": {
+    "lat": 41.8543427,
+    "lon": -87.956592
+   },
+   "phone": "+16308611810",
+   "website": "https://www.binnys.com/store-locator/oak-brook/",
+   "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6607617375",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "gabrielle-s-davis-p-c-oak-brook",
+   "name": "Gabrielle S. Davis, P.C.",
+   "summary": "Gabrielle S. Davis, P.C. is a lawyer in Oak Brook, IL at 700 Commerce Dr, #500, Oak Brook, IL 60523. Phone: +16302885000. Website: https://gabrielledavis.com/.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gabrielle-s-davis-p-c-oak-brook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gabrielle-s-davis-p-c-oak-brook.json",
+   "address": {
+    "streetAddress": "700 Commerce Dr, #500",
+    "addressLocality": "Oak Brook",
+    "addressRegion": "IL",
+    "postalCode": "60523",
+    "addressCountry": "US"
+   },
+   "city": "Oak Brook",
+   "state": "IL",
+   "zip": "60523",
+   "geo": {
+    "lat": 41.8515344,
+    "lon": -87.9374754
+   },
+   "phone": "+16302885000",
+   "website": "https://gabrielledavis.com/",
+   "opening_hours": "Mo-Fr 08:30-18:30, Sa 08:30-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9719559358",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "shakfeh-law-llc-oak-brook",
+   "name": "Shakfeh Law LLC",
+   "summary": "Shakfeh Law LLC is a lawyer in Oak Brook, IL at 2021 Midwest Road #200, Oak Brook, IL 60523. Phone: +16305175529. Website: https://www.shakfehlaw.com/.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/shakfeh-law-llc-oak-brook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/shakfeh-law-llc-oak-brook.json",
+   "address": {
+    "streetAddress": "2021 Midwest Road #200",
+    "addressLocality": "Oak Brook",
+    "addressRegion": "IL",
+    "postalCode": "60523",
+    "addressCountry": "US"
+   },
+   "city": "Oak Brook",
+   "state": "IL",
+   "zip": "60523",
+   "geo": {
+    "lat": 41.8481095,
+    "lon": -87.9717748
+   },
+   "phone": "+16305175529",
+   "website": "https://www.shakfehlaw.com/",
+   "opening_hours": "Mo-Fr 09:00-17:00; Sa-Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5487754034",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "sever-storey-llp-oak-brook",
+   "name": "Sever Storey, LLP",
+   "summary": "Sever Storey, LLP is a lawyer in Oak Brook, IL at 18W140 Butterfield Road #1500, Oak Brook, IL 60181. Phone: +13126460840. Website: https://landownerattorneys.com/.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sever-storey-llp-oak-brook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sever-storey-llp-oak-brook.json",
+   "address": {
+    "streetAddress": "18W140 Butterfield Road #1500",
+    "addressLocality": "Oak Brook",
+    "addressRegion": "IL",
+    "postalCode": "60181",
+    "addressCountry": "US"
+   },
+   "city": "Oak Brook",
+   "state": "IL",
+   "zip": "60181",
+   "geo": {
+    "lat": 41.8467716,
+    "lon": -87.9842295
+   },
+   "phone": "+13126460840",
+   "website": "https://landownerattorneys.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4985618215",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "a-marek-oak-brook",
+   "name": "A. Marek",
+   "summary": "A. Marek is a jewelry store in Oak Brook, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/a-marek-oak-brook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/a-marek-oak-brook.json",
+   "address": {
+    "addressLocality": "Oak Brook",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Oak Brook",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8403606,
+    "lon": -87.9929609
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6336532322",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "alex-and-ani-oak-brook",
+   "name": "Alex and Ani",
+   "summary": "Alex and Ani is a jewelry store in Oak Brook, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/alex-and-ani-oak-brook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/alex-and-ani-oak-brook.json",
+   "address": {
+    "addressLocality": "Oak Brook",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Oak Brook",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8515298,
+    "lon": -87.9528498
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9380997320",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "arhaus-oak-brook",
+   "name": "Arhaus",
+   "summary": "Arhaus is a furniture store in Oak Brook, IL.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/arhaus-oak-brook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/arhaus-oak-brook.json",
+   "address": {
+    "addressLocality": "Oak Brook",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Oak Brook",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8401022,
+    "lon": -87.9936129
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6336532327",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "arhaus-oak-brook-n13685678144",
+   "name": "Arhaus",
+   "summary": "Arhaus is a furniture store in Oak Brook, IL.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/arhaus-oak-brook-n13685678144/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/arhaus-oak-brook-n13685678144.json",
+   "address": {
+    "addressLocality": "Oak Brook",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Oak Brook",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8487895,
+    "lon": -87.9533496
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13685678144",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "blue-nile-oak-brook",
+   "name": "Blue Nile",
+   "summary": "Blue Nile is a jewelry store in Oak Brook, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/blue-nile-oak-brook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/blue-nile-oak-brook.json",
+   "address": {
+    "addressLocality": "Oak Brook",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Oak Brook",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8505428,
+    "lon": -87.9535257
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9380966193",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "casper-oak-brook",
+   "name": "Casper",
+   "summary": "Casper is a mattress store in Oak Brook, IL.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/casper-oak-brook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/casper-oak-brook.json",
+   "address": {
+    "addressLocality": "Oak Brook",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Oak Brook",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8491802,
+    "lon": -87.9525279
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9380966173",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "crate-and-barrel-oak-brook",
+   "name": "Crate & Barrel",
+   "summary": "Crate & Barrel is a furniture store in Oak Brook, IL.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/crate-and-barrel-oak-brook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/crate-and-barrel-oak-brook.json",
+   "address": {
+    "addressLocality": "Oak Brook",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Oak Brook",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8501232,
+    "lon": -87.9545181
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9380966200",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "david-yurman-oak-brook",
+   "name": "David Yurman",
+   "summary": "David Yurman is a jewelry store in Oak Brook, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/david-yurman-oak-brook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/david-yurman-oak-brook.json",
+   "address": {
+    "addressLocality": "Oak Brook",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Oak Brook",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8495318,
+    "lon": -87.9520076
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9380966177",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "helzberg-diamonds-oak-brook",
+   "name": "Helzberg Diamonds",
+   "summary": "Helzberg Diamonds is a jewelry store in Oak Brook, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/helzberg-diamonds-oak-brook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/helzberg-diamonds-oak-brook.json",
+   "address": {
+    "addressLocality": "Oak Brook",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Oak Brook",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8410381,
+    "lon": -87.9935849
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3798889319",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "lovesac-oak-brook",
+   "name": "LoveSac",
+   "summary": "LoveSac is a furniture store in Oak Brook, IL.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lovesac-oak-brook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lovesac-oak-brook.json",
+   "address": {
+    "addressLocality": "Oak Brook",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Oak Brook",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8508305,
+    "lon": -87.9530214
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9380966191",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "pandora-oak-brook",
+   "name": "Pandora",
+   "summary": "Pandora is a jewelry store in Oak Brook, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pandora-oak-brook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pandora-oak-brook.json",
+   "address": {
+    "addressLocality": "Oak Brook",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Oak Brook",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8519174,
+    "lon": -87.9515784
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9380966212",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "pottery-barn-oak-brook",
+   "name": "Pottery Barn",
+   "summary": "Pottery Barn is a furniture store in Oak Brook, IL.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pottery-barn-oak-brook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pottery-barn-oak-brook.json",
+   "address": {
+    "addressLocality": "Oak Brook",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Oak Brook",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8498915,
+    "lon": -87.9545503
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9380966201",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "pottery-barn-kids-oak-brook",
+   "name": "Pottery Barn Kids",
+   "summary": "Pottery Barn Kids is a furniture store in Oak Brook, IL.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pottery-barn-kids-oak-brook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pottery-barn-kids-oak-brook.json",
+   "address": {
+    "addressLocality": "Oak Brook",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Oak Brook",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8512141,
+    "lon": -87.9534774
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9380966202",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "room-and-board-oak-brook",
+   "name": "Room & Board",
+   "summary": "Room & Board is a furniture store in Oak Brook, IL.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/room-and-board-oak-brook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/room-and-board-oak-brook.json",
+   "address": {
+    "addressLocality": "Oak Brook",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Oak Brook",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8450225,
+    "lon": -87.9794112
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1286622102",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "sleep-number-oak-brook",
+   "name": "Sleep Number",
+   "summary": "Sleep Number is a mattress store in Oak Brook, IL.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sleep-number-oak-brook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sleep-number-oak-brook.json",
+   "address": {
+    "addressLocality": "Oak Brook",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Oak Brook",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8410997,
+    "lon": -87.9934133
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6336532333",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "swarovski-oak-brook",
+   "name": "Swarovski",
+   "summary": "Swarovski is a jewelry store in Oak Brook, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/swarovski-oak-brook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/swarovski-oak-brook.json",
+   "address": {
+    "addressLocality": "Oak Brook",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Oak Brook",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8495035,
+    "lon": -87.9525991
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13685628303",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "the-wine-cellar-outlet-oak-brook",
+   "name": "The Wine Cellar Outlet",
+   "summary": "The Wine Cellar Outlet is a liquor store in Oak Brook, IL.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-wine-cellar-outlet-oak-brook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-wine-cellar-outlet-oak-brook.json",
+   "address": {
+    "addressLocality": "Oak Brook",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Oak Brook",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8405223,
+    "lon": -87.9924363
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6336532330",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "tiffany-and-company-oak-brook",
+   "name": "Tiffany & Company",
+   "summary": "Tiffany & Company is a jewelry store in Oak Brook, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tiffany-and-company-oak-brook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tiffany-and-company-oak-brook.json",
+   "address": {
+    "addressLocality": "Oak Brook",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Oak Brook",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8488685,
+    "lon": -87.9511278
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9380966167",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "west-elm-oak-brook",
+   "name": "west elm",
+   "summary": "west elm is a furniture store in Oak Brook, IL.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/west-elm-oak-brook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/west-elm-oak-brook.json",
+   "address": {
+    "addressLocality": "Oak Brook",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Oak Brook",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8515098,
+    "lon": -87.9533433
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9380966204",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "wet-nose-oak-brook",
+   "name": "Wet Nose",
+   "summary": "Wet Nose is a pet store in Oak Brook, IL.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wet-nose-oak-brook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wet-nose-oak-brook.json",
+   "address": {
+    "addressLocality": "Oak Brook",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Oak Brook",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8404233,
+    "lon": -87.994115
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6336532331",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

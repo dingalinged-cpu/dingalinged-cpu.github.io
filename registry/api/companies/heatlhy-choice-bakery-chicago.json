@@ -1,0 +1,55 @@
+{
+ "slug": "heatlhy-choice-bakery-chicago",
+ "name": "Heatlhy Choice Bakery",
+ "categories": [
+  "bakery"
+ ],
+ "keywords": [
+  "bakery",
+  "bakery chicago il"
+ ],
+ "services": [
+  {
+   "name": "bakery",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "2301 South Whipple Street",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60623",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60623",
+ "geo": {
+  "lat": 41.8498662,
+  "lon": -87.7011525
+ },
+ "phone": "+17734756546",
+ "schema_type": "Bakery",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/6294278438",
+ "osm": {
+  "type": "node",
+  "id": 6294278438,
+  "tags_used": {
+   "shop": "bakery"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/heatlhy-choice-bakery-chicago/",
+ "summary": "Heatlhy Choice Bakery is a bakery in Chicago, IL at 2301 South Whipple Street, Chicago, IL 60623. Phone: +17734756546.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,58 @@
+{
+ "slug": "deelightful-hair-salon-lyons",
+ "name": "Deelightful Hair Salon",
+ "categories": [
+  "hair salon"
+ ],
+ "keywords": [
+  "hair salon",
+  "haircut",
+  "hair salon lyons il",
+  "haircut lyons il"
+ ],
+ "services": [
+  {
+   "name": "hair salon",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "haircut",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Lyons",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Lyons",
+ "state": "IL",
+ "geo": {
+  "lat": 41.81956,
+  "lon": -87.8203691
+ },
+ "phone": "+17084427022",
+ "schema_type": "HairSalon",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/9810196283",
+ "osm": {
+  "type": "node",
+  "id": 9810196283,
+  "tags_used": {
+   "shop": "hairdresser"
+  }
+ },
+ "municipality": "Lyons",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/deelightful-hair-salon-lyons/",
+ "summary": "Deelightful Hair Salon is a hair salon in Lyons, IL. Phone: +17084427022.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

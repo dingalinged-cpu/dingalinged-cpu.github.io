@@ -1,0 +1,61 @@
+{
+ "slug": "anthony-valentino-salon-for-hair-park-ridge",
+ "name": "Anthony Valentino Salon for Hair",
+ "categories": [
+  "hair salon"
+ ],
+ "keywords": [
+  "hair salon",
+  "haircut",
+  "hair salon park ridge il",
+  "haircut park ridge il"
+ ],
+ "services": [
+  {
+   "name": "hair salon",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "haircut",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "26 Main Street",
+  "addressLocality": "Park Ridge",
+  "addressRegion": "IL",
+  "postalCode": "60068",
+  "addressCountry": "US"
+ },
+ "city": "Park Ridge",
+ "state": "IL",
+ "zip": "60068",
+ "geo": {
+  "lat": 42.010299,
+  "lon": -87.8330595
+ },
+ "website": "https://avsalonforhair.com/",
+ "schema_type": "HairSalon",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/1046404693",
+ "osm": {
+  "type": "way",
+  "id": 1046404693,
+  "tags_used": {
+   "shop": "hairdresser"
+  }
+ },
+ "municipality": "Park Ridge",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/anthony-valentino-salon-for-hair-park-ridge/",
+ "summary": "Anthony Valentino Salon for Hair is a hair salon in Park Ridge, IL at 26 Main Street, Park Ridge, IL 60068. Website: https://avsalonforhair.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,59 @@
+{
+ "slug": "brow-art-23-lombard",
+ "name": "Brow Art 23",
+ "categories": [
+  "facial"
+ ],
+ "keywords": [
+  "facial",
+  "facial lombard il"
+ ],
+ "services": [
+  {
+   "name": "facial",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "157G Yorktown Shopping Center Rd",
+  "addressLocality": "Lombard",
+  "addressRegion": "IL",
+  "postalCode": "60148",
+  "addressCountry": "US"
+ },
+ "city": "Lombard",
+ "state": "IL",
+ "zip": "60148",
+ "geo": {
+  "lat": 41.8398612,
+  "lon": -88.0061904
+ },
+ "phone": "+16309329300",
+ "website": "https://browart23.com/",
+ "brand": "Brow Art 23",
+ "wikidata": "Q115675881",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/1121097756",
+ "osm": {
+  "type": "way",
+  "id": 1121097756,
+  "tags_used": {
+   "shop": "beauty",
+   "beauty": "skin_care;eyebrow;eyelash"
+  }
+ },
+ "municipality": "Lombard",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/brow-art-23-lombard/",
+ "summary": "Brow Art 23 is a skin care studio in Lombard, IL at 157G Yorktown Shopping Center Rd, Lombard, IL 60148. Phone: +16309329300. Website: https://browart23.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

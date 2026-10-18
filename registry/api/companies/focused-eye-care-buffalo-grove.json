@@ -1,0 +1,53 @@
+{
+ "slug": "focused-eye-care-buffalo-grove",
+ "name": "Focused Eye Care",
+ "categories": [
+  "eye doctor"
+ ],
+ "keywords": [
+  "eye doctor",
+  "eye doctor buffalo grove il"
+ ],
+ "services": [
+  {
+   "name": "eye doctor",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Buffalo Grove",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Buffalo Grove",
+ "state": "IL",
+ "geo": {
+  "lat": 42.1544973,
+  "lon": -87.9621905
+ },
+ "phone": "+18472438176",
+ "website": "https://focusedeyecarebg.com/",
+ "schema_type": "Optician",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/12087731389",
+ "osm": {
+  "type": "node",
+  "id": 12087731389,
+  "tags_used": {
+   "healthcare": "optometrist"
+  }
+ },
+ "municipality": "Buffalo Grove",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/focused-eye-care-buffalo-grove/",
+ "summary": "Focused Eye Care is an eye care practice in Buffalo Grove, IL. Phone: +18472438176. Website: https://focusedeyecarebg.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

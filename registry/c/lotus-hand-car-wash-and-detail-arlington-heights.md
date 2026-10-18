@@ -1,0 +1,23 @@
+Lotus Hand Car Wash And Detail is a car wash in Arlington Heights, IL at 1915 South Arlington Heights Road, Arlington Heights, IL 60005. Phone: +12243231046.
+
+# Lotus Hand Car Wash And Detail
+
+- Category: car wash
+- Services: car wash
+- Address: 1915 South Arlington Heights Road, Arlington Heights, IL 60005
+- City: Arlington Heights
+- State: IL
+- ZIP: 60005
+- Coordinates: 42.0500717, -87.9810267
+- Phone: +12243231046
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo 09:00-18:00; Tu-Fr 09:00-17:30; Sa 10:30-17:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/lotus-hand-car-wash-and-detail-arlington-heights/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/lotus-hand-car-wash-and-detail-arlington-heights.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13545067164 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

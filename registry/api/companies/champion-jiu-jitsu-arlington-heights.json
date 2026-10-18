@@ -1,0 +1,57 @@
+{
+ "slug": "champion-jiu-jitsu-arlington-heights",
+ "name": "Champion Jiu Jitsu",
+ "categories": [
+  "martial arts"
+ ],
+ "keywords": [
+  "martial arts",
+  "martial arts arlington heights il"
+ ],
+ "services": [
+  {
+   "name": "martial arts",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "19 East Golf Road",
+  "addressLocality": "Arlington Heights",
+  "addressRegion": "IL",
+  "postalCode": "60005",
+  "addressCountry": "US"
+ },
+ "city": "Arlington Heights",
+ "state": "IL",
+ "zip": "60005",
+ "geo": {
+  "lat": 42.0509274,
+  "lon": -87.9804875
+ },
+ "phone": "+18472624014",
+ "website": "https://championjiujitsu.com/",
+ "opening_hours": "Mo-Fr 17:00-20:00; Fr 17:00-19:00; Sa,Fr 11:30-14:00",
+ "schema_type": "SportsActivityLocation",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/11269040898",
+ "osm": {
+  "type": "node",
+  "id": 11269040898,
+  "tags_used": {
+   "amenity": "dojo"
+  }
+ },
+ "municipality": "Arlington Heights",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/champion-jiu-jitsu-arlington-heights/",
+ "summary": "Champion Jiu Jitsu is a martial arts school in Arlington Heights, IL at 19 East Golf Road, Arlington Heights, IL 60005. Phone: +18472624014. Website: https://championjiujitsu.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

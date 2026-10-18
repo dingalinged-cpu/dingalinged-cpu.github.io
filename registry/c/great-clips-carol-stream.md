@@ -1,0 +1,23 @@
+Great Clips is a hair salon in Carol Stream, IL.
+
+# Great Clips
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: Carol Stream, IL
+- City: Carol Stream
+- State: IL
+- ZIP: n/a
+- Coordinates: 41.9385843, -88.1463855
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/great-clips-carol-stream/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/great-clips-carol-stream.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/8117011435 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

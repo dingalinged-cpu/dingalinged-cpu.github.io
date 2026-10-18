@@ -1,0 +1,58 @@
+Keyword market for Crystal, MN: 27 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Minneapolis-St. Paul-Bloomington, MN-WI metro (US volume x population share).
+
+# Top keywords in Crystal, MN
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are in the JSON and dataset. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json
+
+## By monthly searches
+1. massage crystal mn | searches/mo 55,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $250,000 | Google Ads equiv $15,000/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/massage-crystal-mn/
+2. car wash crystal mn | searches/mo 20,000 (est) | CPC $4.35 | value $87,000 | Google Ads equiv $4,800/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/car-wash-crystal-mn/
+3. dentist crystal mn | searches/mo 20,000 (est) | CPC $4.70 | value $94,000 | Google Ads equiv $5,100/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/dentist-crystal-mn/
+4. gym crystal mn | searches/mo 20,000 (est) | CPC $1.67 | value $33,000 | Google Ads equiv $2,400/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/gym-crystal-mn/
+5. hair salon crystal mn | searches/mo 17,000 (est) | CPC $0.55 | value $9,400 | Google Ads equiv $530/mo | our featured min $50/mo | registry competitors 5 | https://dingalinged-cpu.github.io/registry/k/hair-salon-crystal-mn/
+6. nail salon crystal mn | searches/mo 11,000 (est) | CPC $0.61 | value $6,700 | Google Ads equiv $380/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/nail-salon-crystal-mn/
+7. mechanic crystal mn | searches/mo 7,500 (est) | CPC $4.35 | value $33,000 | Google Ads equiv $1,800/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/mechanic-crystal-mn/
+8. tire shop crystal mn | searches/mo 6,100 (est) | CPC $4.35 | value $27,000 | Google Ads equiv $1,500/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/tire-shop-crystal-mn/
+9. vet crystal mn | searches/mo 6,100 (est) | CPC $4.06 | value $25,000 | Google Ads equiv $1,600/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/vet-crystal-mn/
+10. haircut crystal mn | searches/mo 4,100 (est) | CPC $4.62 | value $19,000 | Google Ads equiv $1,100/mo | our featured min $50/mo | registry competitors 5 | https://dingalinged-cpu.github.io/registry/k/haircut-crystal-mn/
+11. auto repair crystal mn | searches/mo 3,300 (est) | CPC $4.35 | value $14,000 | Google Ads equiv $800/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/auto-repair-crystal-mn/
+12. hvac repair crystal mn | searches/mo 820 (est) | CPC $17.76 | value $15,000 | Google Ads equiv $930/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/hvac-repair-crystal-mn/
+13. tax preparation crystal mn | searches/mo 820 (est) | CPC $3.25 | value $2,700 | Google Ads equiv $220/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/tax-preparation-crystal-mn/
+14. tax preparer crystal mn | searches/mo 670 (est) | CPC $5.87 | value $3,900 | Google Ads equiv $220/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/tax-preparer-crystal-mn/
+15. flooring companies crystal mn | searches/mo 200 (est) | CPC $8.33 | value $1,700 | Google Ads equiv $110/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/flooring-companies-crystal-mn/
+
+## By CPC
+1. hvac repair crystal mn | searches/mo 820 (est) | CPC $17.76 | value $15,000 | Google Ads equiv $930/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/hvac-repair-crystal-mn/
+2. flooring companies crystal mn | searches/mo 200 (est) | CPC $8.33 | value $1,700 | Google Ads equiv $110/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/flooring-companies-crystal-mn/
+3. heating and air crystal mn | searches/mo 40.00 (est) | CPC $8.33 | value $330 | Google Ads equiv $21.00/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/heating-and-air-crystal-mn/
+4. storage units crystal mn | searches/mo 2,400 (est) | CPC $8.33 | value $20,000 | Google Ads equiv $1,300/mo | our featured min $50/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/storage-units-crystal-mn/
+5. martial arts crystal mn | searches/mo 3,300 (est) | CPC $6.17 | value $20,000 | Google Ads equiv $1,500/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/martial-arts-crystal-mn/
+6. tax preparer crystal mn | searches/mo 670 (est) | CPC $5.87 | value $3,900 | Google Ads equiv $220/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/tax-preparer-crystal-mn/
+7. ob gyn crystal mn | searches/mo 2,400 (est) | CPC $4.76 | value $11,000 | Google Ads equiv $770/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/ob-gyn-crystal-mn/
+8. dentist crystal mn | searches/mo 20,000 (est) | CPC $4.70 | value $94,000 | Google Ads equiv $5,100/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/dentist-crystal-mn/
+9. haircut crystal mn | searches/mo 4,100 (est) | CPC $4.62 | value $19,000 | Google Ads equiv $1,100/mo | our featured min $50/mo | registry competitors 5 | https://dingalinged-cpu.github.io/registry/k/haircut-crystal-mn/
+10. massage crystal mn | searches/mo 55,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $250,000 | Google Ads equiv $15,000/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/massage-crystal-mn/
+11. tanning salon crystal mn | searches/mo 330 (est) | CPC $4.62 | value $1,500 | Google Ads equiv $87.00/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/tanning-salon-crystal-mn/
+12. auto repair crystal mn | searches/mo 3,300 (est) | CPC $4.35 | value $14,000 | Google Ads equiv $800/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/auto-repair-crystal-mn/
+13. car wash crystal mn | searches/mo 20,000 (est) | CPC $4.35 | value $87,000 | Google Ads equiv $4,800/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/car-wash-crystal-mn/
+14. mechanic crystal mn | searches/mo 7,500 (est) | CPC $4.35 | value $33,000 | Google Ads equiv $1,800/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/mechanic-crystal-mn/
+15. tire shop crystal mn | searches/mo 6,100 (est) | CPC $4.35 | value $27,000 | Google Ads equiv $1,500/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/tire-shop-crystal-mn/
+
+## By value (searches x CPC)
+1. massage crystal mn | searches/mo 55,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $250,000 | Google Ads equiv $15,000/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/massage-crystal-mn/
+2. dentist crystal mn | searches/mo 20,000 (est) | CPC $4.70 | value $94,000 | Google Ads equiv $5,100/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/dentist-crystal-mn/
+3. car wash crystal mn | searches/mo 20,000 (est) | CPC $4.35 | value $87,000 | Google Ads equiv $4,800/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/car-wash-crystal-mn/
+4. gym crystal mn | searches/mo 20,000 (est) | CPC $1.67 | value $33,000 | Google Ads equiv $2,400/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/gym-crystal-mn/
+5. mechanic crystal mn | searches/mo 7,500 (est) | CPC $4.35 | value $33,000 | Google Ads equiv $1,800/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/mechanic-crystal-mn/
+6. tire shop crystal mn | searches/mo 6,100 (est) | CPC $4.35 | value $27,000 | Google Ads equiv $1,500/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/tire-shop-crystal-mn/
+7. vet crystal mn | searches/mo 6,100 (est) | CPC $4.06 | value $25,000 | Google Ads equiv $1,600/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/vet-crystal-mn/
+8. haircut crystal mn | searches/mo 4,100 (est) | CPC $4.62 | value $19,000 | Google Ads equiv $1,100/mo | our featured min $50/mo | registry competitors 5 | https://dingalinged-cpu.github.io/registry/k/haircut-crystal-mn/
+9. hvac repair crystal mn | searches/mo 820 (est) | CPC $17.76 | value $15,000 | Google Ads equiv $930/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/hvac-repair-crystal-mn/
+10. auto repair crystal mn | searches/mo 3,300 (est) | CPC $4.35 | value $14,000 | Google Ads equiv $800/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/auto-repair-crystal-mn/
+11. hair salon crystal mn | searches/mo 17,000 (est) | CPC $0.55 | value $9,400 | Google Ads equiv $530/mo | our featured min $50/mo | registry competitors 5 | https://dingalinged-cpu.github.io/registry/k/hair-salon-crystal-mn/
+12. nail salon crystal mn | searches/mo 11,000 (est) | CPC $0.61 | value $6,700 | Google Ads equiv $380/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/nail-salon-crystal-mn/
+13. tax preparer crystal mn | searches/mo 670 (est) | CPC $5.87 | value $3,900 | Google Ads equiv $220/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/tax-preparer-crystal-mn/
+14. tax preparation crystal mn | searches/mo 820 (est) | CPC $3.25 | value $2,700 | Google Ads equiv $220/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/tax-preparation-crystal-mn/
+15. flooring companies crystal mn | searches/mo 200 (est) | CPC $8.33 | value $1,700 | Google Ads equiv $110/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/flooring-companies-crystal-mn/
+
+All market data: https://dingalinged-cpu.github.io/registry/market/ | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html

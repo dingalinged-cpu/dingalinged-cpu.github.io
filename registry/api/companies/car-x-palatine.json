@@ -1,0 +1,62 @@
+{
+ "slug": "car-x-palatine",
+ "name": "Car-X",
+ "categories": [
+  "auto repair"
+ ],
+ "keywords": [
+  "auto repair",
+  "mechanic",
+  "auto repair palatine il",
+  "mechanic palatine il"
+ ],
+ "services": [
+  {
+   "name": "auto repair",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "mechanic",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1098 East Dundee Road",
+  "addressLocality": "Palatine",
+  "addressRegion": "IL",
+  "postalCode": "60074",
+  "addressCountry": "US"
+ },
+ "city": "Palatine",
+ "state": "IL",
+ "zip": "60074",
+ "geo": {
+  "lat": 42.1396694,
+  "lon": -88.0191058
+ },
+ "brand": "Car-X",
+ "wikidata": "Q63859189",
+ "schema_type": "AutoRepair",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/266715085",
+ "osm": {
+  "type": "way",
+  "id": 266715085,
+  "tags_used": {
+   "shop": "car_repair"
+  }
+ },
+ "municipality": "Palatine",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/car-x-palatine/",
+ "summary": "Car-X is an auto repair shop in Palatine, IL at 1098 East Dundee Road, Palatine, IL 60074.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

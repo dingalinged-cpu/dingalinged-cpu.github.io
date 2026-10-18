@@ -1,0 +1,56 @@
+{
+ "slug": "bentleys-pet-stuff-chicago-n8704132331",
+ "name": "Bentley's Pet Stuff",
+ "categories": [
+  "pet store"
+ ],
+ "keywords": [
+  "pet store",
+  "pet store chicago il"
+ ],
+ "services": [
+  {
+   "name": "pet store",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "3657 North Southport Avenue",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60613",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60613",
+ "geo": {
+  "lat": 41.9487481,
+  "lon": -87.6638749
+ },
+ "phone": "+17738577600",
+ "website": "https://petstuff.com/",
+ "schema_type": "PetStore",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/8704132331",
+ "osm": {
+  "type": "node",
+  "id": 8704132331,
+  "tags_used": {
+   "shop": "pet"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/bentleys-pet-stuff-chicago-n8704132331/",
+ "summary": "Bentley's Pet Stuff is a pet store in Chicago, IL at 3657 North Southport Avenue, Chicago, IL 60613. Phone: +17738577600. Website: https://petstuff.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

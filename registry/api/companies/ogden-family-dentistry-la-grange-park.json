@@ -1,0 +1,53 @@
+{
+ "slug": "ogden-family-dentistry-la-grange-park",
+ "name": "Ogden Family Dentistry",
+ "categories": [
+  "dentist"
+ ],
+ "keywords": [
+  "dentist",
+  "dentist la grange park il"
+ ],
+ "services": [
+  {
+   "name": "dentist",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "La Grange Park",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "La Grange Park",
+ "state": "IL",
+ "geo": {
+  "lat": 41.8344148,
+  "lon": -87.8629192
+ },
+ "website": "https://www.ogdenfamilydentistry.com/",
+ "schema_type": "Dentist",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/9731074018",
+ "osm": {
+  "type": "node",
+  "id": 9731074018,
+  "tags_used": {
+   "amenity": "dentist",
+   "healthcare": "dentist"
+  }
+ },
+ "municipality": "La Grange Park",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/ogden-family-dentistry-la-grange-park/",
+ "summary": "Ogden Family Dentistry is a dentist in La Grange Park, IL. Website: https://www.ogdenfamilydentistry.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

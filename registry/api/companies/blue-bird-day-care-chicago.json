@@ -1,0 +1,54 @@
+{
+ "slug": "blue-bird-day-care-chicago",
+ "name": "Blue Bird Day Care",
+ "categories": [
+  "daycare"
+ ],
+ "keywords": [
+  "daycare",
+  "daycare chicago il"
+ ],
+ "services": [
+  {
+   "name": "daycare",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1233 West Adams Street",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60607",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60607",
+ "geo": {
+  "lat": 41.8787853,
+  "lon": -87.6582418
+ },
+ "schema_type": "ChildCare",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/210269819",
+ "osm": {
+  "type": "way",
+  "id": 210269819,
+  "tags_used": {
+   "amenity": "childcare"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/blue-bird-day-care-chicago/",
+ "summary": "Blue Bird Day Care is a daycare in Chicago, IL at 1233 West Adams Street, Chicago, IL 60607.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,23 @@
+Brobagel is a bakery in Chicago, IL at 1931 West North Avenue, Chicago, IL 60622. Phone: +17732762243. Website: https://brobagel.com/.
+
+# Brobagel
+
+- Category: bakery
+- Services: bakery
+- Address: 1931 West North Avenue, Chicago, IL 60622
+- City: Chicago
+- State: IL
+- ZIP: 60622
+- Coordinates: 41.9104005, -87.6761914
+- Phone: +17732762243
+- Website: https://brobagel.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/brobagel-chicago/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/brobagel-chicago.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6269115813 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

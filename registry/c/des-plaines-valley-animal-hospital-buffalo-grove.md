@@ -1,0 +1,23 @@
+Des Plaines Valley Animal Hospital is a veterinarian in Buffalo Grove, IL at 155 North Milwaukee Avenue, Buffalo Grove, IL 60089.
+
+# Des Plaines Valley Animal Hospital
+
+- Category: vet
+- Services: vet
+- Address: 155 North Milwaukee Avenue, Buffalo Grove, IL 60089
+- City: Buffalo Grove
+- State: IL
+- ZIP: 60089
+- Coordinates: 42.1551772, -87.9153883
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/des-plaines-valley-animal-hospital-buffalo-grove/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/des-plaines-valley-animal-hospital-buffalo-grove.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1221541550 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

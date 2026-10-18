@@ -1,0 +1,65 @@
+{
+ "slug": "meineke-northbrook",
+ "name": "Meineke",
+ "categories": [
+  "auto repair"
+ ],
+ "keywords": [
+  "auto repair",
+  "mechanic",
+  "auto repair glenview il",
+  "auto repair northbrook il",
+  "mechanic glenview il",
+  "mechanic northbrook il"
+ ],
+ "services": [
+  {
+   "name": "auto repair",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "mechanic",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "3402 Milwaukee Avenue",
+  "addressLocality": "Northbrook",
+  "addressRegion": "IL",
+  "postalCode": "60062",
+  "addressCountry": "US"
+ },
+ "city": "Northbrook",
+ "state": "IL",
+ "zip": "60062",
+ "geo": {
+  "lat": 42.0905542,
+  "lon": -87.8743775
+ },
+ "website": "https://www.meineke.com/locations/il/northbrook-415/",
+ "brand": "Meineke",
+ "wikidata": "Q6810159",
+ "schema_type": "AutoRepair",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/13719640119",
+ "osm": {
+  "type": "node",
+  "id": 13719640119,
+  "tags_used": {
+   "shop": "car_repair"
+  }
+ },
+ "municipality": "Glenview",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/meineke-northbrook/",
+ "summary": "Meineke is an auto repair shop in Northbrook, IL at 3402 Milwaukee Avenue, Northbrook, IL 60062. Website: https://www.meineke.com/locations/il/northbrook-415/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

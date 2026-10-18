@@ -1,0 +1,62 @@
+{
+ "slug": "jackson-hewitt-richton-park",
+ "name": "Jackson Hewitt",
+ "categories": [
+  "tax preparation"
+ ],
+ "keywords": [
+  "tax preparation",
+  "tax preparer",
+  "tax preparation richton park il",
+  "tax preparer richton park il"
+ ],
+ "services": [
+  {
+   "name": "tax preparation",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "tax preparer",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "22222 Governors Highway",
+  "addressLocality": "Richton Park",
+  "addressRegion": "IL",
+  "postalCode": "60471",
+  "addressCountry": "US"
+ },
+ "city": "Richton Park",
+ "state": "IL",
+ "zip": "60471",
+ "geo": {
+  "lat": 41.4846985,
+  "lon": -87.7134159
+ },
+ "brand": "Jackson Hewitt",
+ "wikidata": "Q6117132",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/12321146768",
+ "osm": {
+  "type": "node",
+  "id": 12321146768,
+  "tags_used": {
+   "office": "tax_advisor"
+  }
+ },
+ "municipality": "Richton Park",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/jackson-hewitt-richton-park/",
+ "summary": "Jackson Hewitt is a tax preparation service in Richton Park, IL at 22222 Governors Highway, Richton Park, IL 60471.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

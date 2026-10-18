@@ -1,0 +1,59 @@
+{
+ "slug": "pet-supplies-plus-wauconda",
+ "name": "Pet Supplies Plus",
+ "categories": [
+  "pet store"
+ ],
+ "keywords": [
+  "pet store",
+  "pet store wauconda il"
+ ],
+ "services": [
+  {
+   "name": "pet store",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "535 West Liberty Street",
+  "addressLocality": "Wauconda",
+  "addressRegion": "IL",
+  "postalCode": "60084",
+  "addressCountry": "US"
+ },
+ "city": "Wauconda",
+ "state": "IL",
+ "zip": "60084",
+ "geo": {
+  "lat": 42.2589218,
+  "lon": -88.1518962
+ },
+ "phone": "+18478655695",
+ "website": "https://petsuppliesplus.com/store/il/wauconda/4319-wauconda/4319",
+ "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-18:00",
+ "brand": "Pet Supplies Plus",
+ "wikidata": "Q7171563",
+ "schema_type": "PetStore",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/9280934555",
+ "osm": {
+  "type": "node",
+  "id": 9280934555,
+  "tags_used": {
+   "shop": "pet"
+  }
+ },
+ "municipality": "Wauconda",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-wauconda/",
+ "summary": "Pet Supplies Plus is a pet store in Wauconda, IL at 535 West Liberty Street, Wauconda, IL 60084. Phone: +18478655695. Website: https://petsuppliesplus.com/store/il/wauconda/4319-wauconda/4319.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

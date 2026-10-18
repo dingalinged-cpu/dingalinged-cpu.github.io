@@ -1,0 +1,23 @@
+Proliance General Contractors & Roofing Chicago is a roofer in Westmont, IL at 550 Oakmont Lane #2, Westmont, IL 60559. Phone: +16305937030. Website: https://proliancegc.com/roofing-chicago/.
+
+# Proliance General Contractors & Roofing Chicago
+
+- Category: roofer
+- Services: roofer, roofing contractor
+- Address: 550 Oakmont Lane #2, Westmont, IL 60559
+- City: Westmont
+- State: IL
+- ZIP: 60559
+- Coordinates: 41.8218426, -87.9631623
+- Phone: +16305937030
+- Website: https://proliancegc.com/roofing-chicago/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/proliance-general-contractors-and-roofing-chicago-westmont/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/proliance-general-contractors-and-roofing-chicago-westmont.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12377214858 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

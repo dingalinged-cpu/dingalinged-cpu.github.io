@@ -1,0 +1,63 @@
+{
+ "slug": "nbws-barber-chicago",
+ "name": "NBWS Barber",
+ "categories": [
+  "barber shop"
+ ],
+ "keywords": [
+  "barber shop",
+  "haircut",
+  "barber shop chicago il",
+  "haircut chicago il"
+ ],
+ "services": [
+  {
+   "name": "barber shop",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "haircut",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "620 East 47th Street",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60653",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60653",
+ "geo": {
+  "lat": 41.8095879,
+  "lon": -87.6105485
+ },
+ "phone": "+18324860486",
+ "opening_hours": "Mo-Su 09:00-20:00",
+ "schema_type": "HairSalon",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/13420015988",
+ "osm": {
+  "type": "node",
+  "id": 13420015988,
+  "tags_used": {
+   "shop": "hairdresser",
+   "hairdresser": "barber"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/nbws-barber-chicago/",
+ "summary": "NBWS Barber is a barber shop in Chicago, IL at 620 East 47th Street, Chicago, IL 60653. Phone: +18324860486.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

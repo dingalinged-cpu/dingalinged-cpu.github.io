@@ -1,0 +1,23 @@
+Fortitude Capital Management is a financial advisor in Glen Ellyn, IL at 800 Roosevelt Road ##B413, Glen Ellyn, IL 60137. Phone: +16305452800. Website: https://fortitudecapitalmgmt.com/.
+
+# Fortitude Capital Management
+
+- Category: financial advisor
+- Services: financial advisor
+- Address: 800 Roosevelt Road ##B413, Glen Ellyn, IL 60137
+- City: Glen Ellyn
+- State: IL
+- ZIP: 60137
+- Coordinates: 41.8615802, -88.0554691
+- Phone: +16305452800
+- Website: https://fortitudecapitalmgmt.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 09:00-17:30
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/fortitude-capital-management-glen-ellyn/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/fortitude-capital-management-glen-ellyn.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11458804899 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

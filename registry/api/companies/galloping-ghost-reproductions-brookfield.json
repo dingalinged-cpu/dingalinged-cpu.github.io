@@ -1,0 +1,51 @@
+{
+ "slug": "galloping-ghost-reproductions-brookfield",
+ "name": "Galloping Ghost Reproductions",
+ "categories": [
+  "printing services"
+ ],
+ "keywords": [
+  "printing services",
+  "printing services brookfield il"
+ ],
+ "services": [
+  {
+   "name": "printing services",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Brookfield",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Brookfield",
+ "state": "IL",
+ "geo": {
+  "lat": 41.8169404,
+  "lon": -87.8552467
+ },
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/967109542",
+ "osm": {
+  "type": "way",
+  "id": 967109542,
+  "tags_used": {
+   "shop": "copyshop"
+  }
+ },
+ "municipality": "Brookfield",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/galloping-ghost-reproductions-brookfield/",
+ "summary": "Galloping Ghost Reproductions is a printing service in Brookfield, IL.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

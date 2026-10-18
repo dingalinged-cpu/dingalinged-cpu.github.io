@@ -1,0 +1,23 @@
+Mr. Duct Heating & Air Conditioning is a HVAC contractor in Naperville, IL at 404 West 5th Avenue, Naperville, IL 60563. Phone: +16303571535. Website: https://www.mrductcleaning.com/.
+
+# Mr. Duct Heating & Air Conditioning
+
+- Category: hvac repair
+- Services: hvac repair, heating and air
+- Address: 404 West 5th Avenue, Naperville, IL 60563
+- City: Naperville
+- State: IL
+- ZIP: 60563
+- Coordinates: 41.7800189, -88.1548132
+- Phone: +16303571535
+- Website: https://www.mrductcleaning.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/mr-duct-heating-and-air-conditioning-naperville/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/mr-duct-heating-and-air-conditioning-naperville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/8307889447 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

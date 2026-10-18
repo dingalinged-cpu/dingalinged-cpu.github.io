@@ -1,0 +1,63 @@
+{
+ "slug": "getty-insurance-agency-lyons",
+ "name": "Getty Insurance Agency",
+ "categories": [
+  "insurance agent"
+ ],
+ "keywords": [
+  "insurance agent",
+  "insurance agency",
+  "insurance agents",
+  "insurance agent lyons il",
+  "insurance agency lyons il",
+  "insurance agents lyons il"
+ ],
+ "services": [
+  {
+   "name": "insurance agent",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "insurance agency",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "insurance agents",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Lyons",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Lyons",
+ "state": "IL",
+ "geo": {
+  "lat": 41.8205473,
+  "lon": -87.8139367
+ },
+ "schema_type": "InsuranceAgency",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/9809916947",
+ "osm": {
+  "type": "node",
+  "id": 9809916947,
+  "tags_used": {
+   "office": "insurance"
+  }
+ },
+ "municipality": "Lyons",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/getty-insurance-agency-lyons/",
+ "summary": "Getty Insurance Agency is an insurance agent in Lyons, IL.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

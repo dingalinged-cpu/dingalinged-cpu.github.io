@@ -1,0 +1,54 @@
+{
+ "slug": "citgo-south-holland",
+ "name": "Citgo",
+ "categories": [
+  "car wash"
+ ],
+ "keywords": [
+  "car wash",
+  "car wash south holland il"
+ ],
+ "services": [
+  {
+   "name": "car wash",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "17011 South Park Avenue",
+  "addressLocality": "South Holland",
+  "addressRegion": "IL",
+  "postalCode": "60473",
+  "addressCountry": "US"
+ },
+ "city": "South Holland",
+ "state": "IL",
+ "zip": "60473",
+ "geo": {
+  "lat": 41.5858268,
+  "lon": -87.6069428
+ },
+ "schema_type": "AutoWash",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/1335915298",
+ "osm": {
+  "type": "way",
+  "id": 1335915298,
+  "tags_used": {
+   "amenity": "car_wash"
+  }
+ },
+ "municipality": "South Holland",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/citgo-south-holland/",
+ "summary": "Citgo is a car wash in South Holland, IL at 17011 South Park Avenue, South Holland, IL 60473.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

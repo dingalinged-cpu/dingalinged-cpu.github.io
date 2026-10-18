@@ -1,0 +1,23 @@
+The Skin Bar at Ulta Beauty is a skin care studio in Skokie, IL at 9635 Skokie Boulevard, Skokie, IL 60077. Phone: +18476757320. Website: https://www.ulta.com/stores/skokie-il-97.
+
+# The Skin Bar at Ulta Beauty
+
+- Category: facial
+- Services: facial
+- Address: 9635 Skokie Boulevard, Skokie, IL 60077
+- City: Skokie
+- State: IL
+- ZIP: 60077
+- Coordinates: 42.0563525, -87.7448544
+- Phone: +18476757320
+- Website: https://www.ulta.com/stores/skokie-il-97
+- Email: n/a
+- Opening hours (OSM syntax): Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/the-skin-bar-at-ulta-beauty-skokie-n12089437993/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-skin-bar-at-ulta-beauty-skokie-n12089437993.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12089437993 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

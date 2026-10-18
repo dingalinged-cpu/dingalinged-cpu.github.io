@@ -1,0 +1,23 @@
+Innovative Pediatric Dentistry is a dentist in Naperville, IL at 55 South Main Street #261, Naperville, IL 60540. Phone: +16308487336. Website: https://www.innovativepediatricdentistry.com/.
+
+# Innovative Pediatric Dentistry
+
+- Category: dentist
+- Services: dentist
+- Address: 55 South Main Street #261, Naperville, IL 60540
+- City: Naperville
+- State: IL
+- ZIP: 60540
+- Coordinates: 41.7742522, -88.1501059
+- Phone: +16308487336
+- Website: https://www.innovativepediatricdentistry.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo,Th 09:00-18:00; Tu-We 09:00-17:00; Fr 08:00-16:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/innovative-pediatric-dentistry-naperville/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/innovative-pediatric-dentistry-naperville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5582238932 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

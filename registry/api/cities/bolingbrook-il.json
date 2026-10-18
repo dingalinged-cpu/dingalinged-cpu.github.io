@@ -1,0 +1,2118 @@
+{
+ "place": "Bolingbrook, IL",
+ "slug": "bolingbrook-il",
+ "count": 67,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "acupuncture bolingbrook il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/acupuncture-bolingbrook-il.json"
+  },
+  {
+   "keyword": "auto repair bolingbrook il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-bolingbrook-il.json"
+  },
+  {
+   "keyword": "car wash bolingbrook il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-bolingbrook-il.json"
+  },
+  {
+   "keyword": "chiropractor bolingbrook il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/chiropractor-bolingbrook-il.json"
+  },
+  {
+   "keyword": "dentist bolingbrook il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-bolingbrook-il.json"
+  },
+  {
+   "keyword": "dry cleaners bolingbrook il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dry-cleaners-bolingbrook-il.json"
+  },
+  {
+   "keyword": "family doctor bolingbrook il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/family-doctor-bolingbrook-il.json"
+  },
+  {
+   "keyword": "furniture store bolingbrook il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/furniture-store-bolingbrook-il.json"
+  },
+  {
+   "keyword": "general contractor bolingbrook il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/general-contractor-bolingbrook-il.json"
+  },
+  {
+   "keyword": "gym bolingbrook il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-bolingbrook-il.json"
+  },
+  {
+   "keyword": "hair salon bolingbrook il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-bolingbrook-il.json"
+  },
+  {
+   "keyword": "haircut bolingbrook il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-bolingbrook-il.json"
+  },
+  {
+   "keyword": "heating and air bolingbrook il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/heating-and-air-bolingbrook-il.json"
+  },
+  {
+   "keyword": "hvac repair bolingbrook il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hvac-repair-bolingbrook-il.json"
+  },
+  {
+   "keyword": "insurance agency bolingbrook il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-bolingbrook-il.json"
+  },
+  {
+   "keyword": "insurance agent bolingbrook il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-bolingbrook-il.json"
+  },
+  {
+   "keyword": "insurance agents bolingbrook il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-bolingbrook-il.json"
+  },
+  {
+   "keyword": "jewelry store bolingbrook il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/jewelry-store-bolingbrook-il.json"
+  },
+  {
+   "keyword": "liquor store bolingbrook il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/liquor-store-bolingbrook-il.json"
+  },
+  {
+   "keyword": "locksmith bolingbrook il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/locksmith-bolingbrook-il.json"
+  },
+  {
+   "keyword": "mattress store bolingbrook il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mattress-store-bolingbrook-il.json"
+  },
+  {
+   "keyword": "mechanic bolingbrook il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-bolingbrook-il.json"
+  },
+  {
+   "keyword": "nail salon bolingbrook il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/nail-salon-bolingbrook-il.json"
+  },
+  {
+   "keyword": "pediatrician bolingbrook il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/pediatrician-bolingbrook-il.json"
+  },
+  {
+   "keyword": "pet store bolingbrook il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/pet-store-bolingbrook-il.json"
+  },
+  {
+   "keyword": "physical therapy bolingbrook il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/physical-therapy-bolingbrook-il.json"
+  },
+  {
+   "keyword": "primary care physician bolingbrook il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/primary-care-physician-bolingbrook-il.json"
+  },
+  {
+   "keyword": "printing services bolingbrook il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/printing-services-bolingbrook-il.json"
+  },
+  {
+   "keyword": "storage units bolingbrook il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/storage-units-bolingbrook-il.json"
+  },
+  {
+   "keyword": "tax preparation bolingbrook il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tax-preparation-bolingbrook-il.json"
+  },
+  {
+   "keyword": "tax preparer bolingbrook il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tax-preparer-bolingbrook-il.json"
+  },
+  {
+   "keyword": "thrift store bolingbrook il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/thrift-store-bolingbrook-il.json"
+  },
+  {
+   "keyword": "tire shop bolingbrook il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tire-shop-bolingbrook-il.json"
+  },
+  {
+   "keyword": "used cars for sale bolingbrook il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/used-cars-for-sale-bolingbrook-il.json"
+  },
+  {
+   "keyword": "vet bolingbrook il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/vet-bolingbrook-il.json"
+  },
+  {
+   "keyword": "window repair bolingbrook il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/window-repair-bolingbrook-il.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "aspen-dental-bolingbrook",
+   "name": "Aspen Dental",
+   "summary": "Aspen Dental is a dentist in Bolingbrook, IL at 221 North Weber Road, Bolingbrook, IL 60490. Phone: +13317574181. Website: https://www.aspendental.com/dentist/il/bolingbrook/221-n-weber-rd.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/aspen-dental-bolingbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/aspen-dental-bolingbrook.json",
+   "address": {
+    "streetAddress": "221 North Weber Road",
+    "addressLocality": "Bolingbrook",
+    "addressRegion": "IL",
+    "postalCode": "60490",
+    "addressCountry": "US"
+   },
+   "city": "Bolingbrook",
+   "state": "IL",
+   "zip": "60490",
+   "geo": {
+    "lat": 41.7010987,
+    "lon": -88.1253928
+   },
+   "phone": "+13317574181",
+   "website": "https://www.aspendental.com/dentist/il/bolingbrook/221-n-weber-rd",
+   "opening_hours": "Mo 09:00-19:00; Tu-Th 08:00-18:00; Fr 08:00-13:00; Sa, Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1120192351",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "bear-chiropractic-and-rehab-llc-bolingbrook",
+   "name": "Bear Chiropractic and Rehab LLC",
+   "summary": "Bear Chiropractic and Rehab LLC is a chiropractor in Bolingbrook, IL at 425 Quadrangle Drive #120, Bolingbrook, IL 60440. Phone: +16308634203. Website: https://www.bearchirorehab.com/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bear-chiropractic-and-rehab-llc-bolingbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bear-chiropractic-and-rehab-llc-bolingbrook.json",
+   "address": {
+    "streetAddress": "425 Quadrangle Drive #120",
+    "addressLocality": "Bolingbrook",
+    "addressRegion": "IL",
+    "postalCode": "60440",
+    "addressCountry": "US"
+   },
+   "city": "Bolingbrook",
+   "state": "IL",
+   "zip": "60440",
+   "geo": {
+    "lat": 41.6875361,
+    "lon": -88.0758278
+   },
+   "phone": "+16308634203",
+   "website": "https://www.bearchirorehab.com/",
+   "opening_hours": "Mo-Fr 09:00-19:00, Sa 09:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7150287719",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "binnys-beverage-depot-bolingbrook",
+   "name": "Binny's Beverage Depot",
+   "summary": "Binny's Beverage Depot is a liquor store in Bolingbrook, IL at 639 Boughton Road, Bolingbrook, IL 60440. Phone: +16309721187. Website: https://www.binnys.com/store-locator/bolingbrook/.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/binnys-beverage-depot-bolingbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/binnys-beverage-depot-bolingbrook.json",
+   "address": {
+    "streetAddress": "639 Boughton Road",
+    "addressLocality": "Bolingbrook",
+    "addressRegion": "IL",
+    "postalCode": "60440",
+    "addressCountry": "US"
+   },
+   "city": "Bolingbrook",
+   "state": "IL",
+   "zip": "60440",
+   "geo": {
+    "lat": 41.7193318,
+    "lon": -88.0404479
+   },
+   "phone": "+16309721187",
+   "website": "https://www.binnys.com/store-locator/bolingbrook/",
+   "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3297541762",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "its-so-fluffy-pet-bakery-bolingbrook",
+   "name": "It's So Fluffy Pet Bakery",
+   "summary": "It's So Fluffy Pet Bakery is a pet store in Bolingbrook, IL at 643 East Boughton Road #110, Bolingbrook, IL 60440. Phone: +16303128583. Website: https://www.itssofluffybakery.com/.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/its-so-fluffy-pet-bakery-bolingbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/its-so-fluffy-pet-bakery-bolingbrook.json",
+   "address": {
+    "streetAddress": "643 East Boughton Road #110",
+    "addressLocality": "Bolingbrook",
+    "addressRegion": "IL",
+    "postalCode": "60440",
+    "addressCountry": "US"
+   },
+   "city": "Bolingbrook",
+   "state": "IL",
+   "zip": "60440",
+   "geo": {
+    "lat": 41.7200059,
+    "lon": -88.0412203
+   },
+   "phone": "+16303128583",
+   "website": "https://www.itssofluffybakery.com/",
+   "opening_hours": "Mo-Sa 11:00-18:00; Su 12:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9750147918",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "parkside-restoration-bolingbrook",
+   "name": "Parkside Restoration",
+   "summary": "Parkside Restoration is a general contractor in Bolingbrook, IL at 175 East Crossroads Parkway #D, Bolingbrook, IL 60440. Phone: +16309987875. Website: https://parksiderestoration.com/.",
+   "categories": [
+    "general contractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/parkside-restoration-bolingbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/parkside-restoration-bolingbrook.json",
+   "address": {
+    "streetAddress": "175 East Crossroads Parkway #D",
+    "addressLocality": "Bolingbrook",
+    "addressRegion": "IL",
+    "postalCode": "60440",
+    "addressCountry": "US"
+   },
+   "city": "Bolingbrook",
+   "state": "IL",
+   "zip": "60440",
+   "geo": {
+    "lat": 41.6741424,
+    "lon": -88.0624508
+   },
+   "phone": "+16309987875",
+   "website": "https://parksiderestoration.com/",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13439551975",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "petsmart-bolingbrook",
+   "name": "PetSmart",
+   "summary": "PetSmart is a pet store in Bolingbrook, IL at 159 North Weber Road, Bolingbrook, IL 60490. Phone: +16307719777. Website: https://www.petsmart.com/stores/us/il/bolingbrook-store1102.html.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petsmart-bolingbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petsmart-bolingbrook.json",
+   "address": {
+    "streetAddress": "159 North Weber Road",
+    "addressLocality": "Bolingbrook",
+    "addressRegion": "IL",
+    "postalCode": "60490",
+    "addressCountry": "US"
+   },
+   "city": "Bolingbrook",
+   "state": "IL",
+   "zip": "60490",
+   "geo": {
+    "lat": 41.6992117,
+    "lon": -88.126853
+   },
+   "phone": "+16307719777",
+   "website": "https://www.petsmart.com/stores/us/il/bolingbrook-store1102.html",
+   "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8637112442",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "premier-occupational-health-bolingbrook",
+   "name": "Premier Occupational Health",
+   "summary": "Premier Occupational Health is a family medicine practice in Bolingbrook, IL at 550 East Boughton Road #140, Bolingbrook, IL 60440. Phone: +16309720733. Website: https://premiermedclinic.com/.",
+   "categories": [
+    "family doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/premier-occupational-health-bolingbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/premier-occupational-health-bolingbrook.json",
+   "address": {
+    "streetAddress": "550 East Boughton Road #140",
+    "addressLocality": "Bolingbrook",
+    "addressRegion": "IL",
+    "postalCode": "60440",
+    "addressCountry": "US"
+   },
+   "city": "Bolingbrook",
+   "state": "IL",
+   "zip": "60440",
+   "geo": {
+    "lat": 41.7199999,
+    "lon": -88.0469752
+   },
+   "phone": "+16309720733",
+   "website": "https://premiermedclinic.com/",
+   "opening_hours": "Mo-Fr 07:00-18:00 Sa 09:00-13:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13111201958",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "sport-clips-bolingbrook-w998234261",
+   "name": "Sport Clips",
+   "summary": "Sport Clips is a hair salon in Bolingbrook, IL at 139 North Weber Road, Bolingbrook, IL 60490. Phone: +16307710007. Website: https://haircutmenlandingsofbolingbrookil.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sport-clips-bolingbrook-w998234261/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sport-clips-bolingbrook-w998234261.json",
+   "address": {
+    "streetAddress": "139 North Weber Road",
+    "addressLocality": "Bolingbrook",
+    "addressRegion": "IL",
+    "postalCode": "60490",
+    "addressCountry": "US"
+   },
+   "city": "Bolingbrook",
+   "state": "IL",
+   "zip": "60490",
+   "geo": {
+    "lat": 41.6987005,
+    "lon": -88.1248273
+   },
+   "phone": "+16307710007",
+   "website": "https://haircutmenlandingsofbolingbrookil.com/",
+   "opening_hours": "Mo, Su off; Tu-Fr 10:00-18:00; Sa 09:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/998234261",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "ashley-homestore-bolingbrook",
+   "name": "Ashley HomeStore",
+   "summary": "Ashley HomeStore is a furniture store in Bolingbrook, IL at 875 Boughton Road, Bolingbrook, IL 60440. Phone: +16307832346. Website: https://stores.ashleyfurniture.com/store/us/illinois/bolingbrook/7710000140/.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ashley-homestore-bolingbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ashley-homestore-bolingbrook.json",
+   "address": {
+    "streetAddress": "875 Boughton Road",
+    "addressLocality": "Bolingbrook",
+    "addressRegion": "IL",
+    "postalCode": "60440",
+    "addressCountry": "US"
+   },
+   "city": "Bolingbrook",
+   "state": "IL",
+   "zip": "60440",
+   "geo": {
+    "lat": 41.724757,
+    "lon": -88.030754
+   },
+   "phone": "+16307832346",
+   "website": "https://stores.ashleyfurniture.com/store/us/illinois/bolingbrook/7710000140/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3181919861",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "bolingbrook-pediatrician-bolingbrook",
+   "name": "Bolingbrook Pediatrician",
+   "summary": "Bolingbrook Pediatrician is a pediatrician in Bolingbrook, IL at 550 East Boughton Road ##110, Bolingbrook, IL 60440. Phone: +16307555437. Website: https://azmedpeds.com/.",
+   "categories": [
+    "pediatrician"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bolingbrook-pediatrician-bolingbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bolingbrook-pediatrician-bolingbrook.json",
+   "address": {
+    "streetAddress": "550 East Boughton Road ##110",
+    "addressLocality": "Bolingbrook",
+    "addressRegion": "IL",
+    "postalCode": "60440",
+    "addressCountry": "US"
+   },
+   "city": "Bolingbrook",
+   "state": "IL",
+   "zip": "60440",
+   "geo": {
+    "lat": 41.7201681,
+    "lon": -88.0470694
+   },
+   "phone": "+16307555437",
+   "website": "https://azmedpeds.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6690653546",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "discount-tire-bolingbrook",
+   "name": "Discount Tire",
+   "summary": "Discount Tire is a tire shop in Bolingbrook, IL at 785 Boughton Road, Bolingbrook, IL 60440. Phone: +16307830247. Website: https://www.discounttire.com/.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/discount-tire-bolingbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/discount-tire-bolingbrook.json",
+   "address": {
+    "streetAddress": "785 Boughton Road",
+    "addressLocality": "Bolingbrook",
+    "addressRegion": "IL",
+    "postalCode": "60440",
+    "addressCountry": "US"
+   },
+   "city": "Bolingbrook",
+   "state": "IL",
+   "zip": "60440",
+   "geo": {
+    "lat": 41.7233411,
+    "lon": -88.0358315
+   },
+   "phone": "+16307830247",
+   "website": "https://www.discounttire.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/352332532",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "duall-heating-and-cooling-bolingbrook",
+   "name": "DuAll Heating & Cooling",
+   "summary": "DuAll Heating & Cooling is a HVAC contractor in Bolingbrook, IL at 419 Foxborough Trail, Bolingbrook, IL 60440. Phone: +16302471720. Website: https://www.duallheating.com/.",
+   "categories": [
+    "hvac repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/duall-heating-and-cooling-bolingbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/duall-heating-and-cooling-bolingbrook.json",
+   "address": {
+    "streetAddress": "419 Foxborough Trail",
+    "addressLocality": "Bolingbrook",
+    "addressRegion": "IL",
+    "postalCode": "60440",
+    "addressCountry": "US"
+   },
+   "city": "Bolingbrook",
+   "state": "IL",
+   "zip": "60440",
+   "geo": {
+    "lat": 41.6862484,
+    "lon": -88.0975956
+   },
+   "phone": "+16302471720",
+   "website": "https://www.duallheating.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4131225500",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "la-fitness-bolingbrook",
+   "name": "LA Fitness",
+   "summary": "LA Fitness is a gym in Bolingbrook, IL at 506 Janes Avenue, Bolingbrook, IL 60440. Phone: +16307397011. Website: https://www.lafitness.com/pages/clubhome.aspx?clubid=414.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/la-fitness-bolingbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/la-fitness-bolingbrook.json",
+   "address": {
+    "streetAddress": "506 Janes Avenue",
+    "addressLocality": "Bolingbrook",
+    "addressRegion": "IL",
+    "postalCode": "60440",
+    "addressCountry": "US"
+   },
+   "city": "Bolingbrook",
+   "state": "IL",
+   "zip": "60440",
+   "geo": {
+    "lat": 41.7144517,
+    "lon": -88.0375889
+   },
+   "phone": "+16307397011",
+   "website": "https://www.lafitness.com/pages/clubhome.aspx?clubid=414",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/352332500",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "la-z-boy-bolingbrook",
+   "name": "La-Z-Boy",
+   "summary": "La-Z-Boy is a furniture store in Bolingbrook, IL at 825W875 Boughton Road, Bolingbrook, IL 60440. Phone: +12199373360. Website: https://www.la-z-boy.com/.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/la-z-boy-bolingbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/la-z-boy-bolingbrook.json",
+   "address": {
+    "streetAddress": "825W875 Boughton Road",
+    "addressLocality": "Bolingbrook",
+    "addressRegion": "IL",
+    "postalCode": "60440",
+    "addressCountry": "US"
+   },
+   "city": "Bolingbrook",
+   "state": "IL",
+   "zip": "60440",
+   "geo": {
+    "lat": 41.724805,
+    "lon": -88.03142
+   },
+   "phone": "+12199373360",
+   "website": "https://www.la-z-boy.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3181917061",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "pleasant-styles-bolingbrook",
+   "name": "Pleasant Styles",
+   "summary": "Pleasant Styles is a hair salon in Bolingbrook, IL at 257 North Schmidt Road ##A, Bolingbrook, IL 60440. Phone: +16307597595. Website: https://www.pleasantstyles.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pleasant-styles-bolingbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pleasant-styles-bolingbrook.json",
+   "address": {
+    "streetAddress": "257 North Schmidt Road ##A",
+    "addressLocality": "Bolingbrook",
+    "addressRegion": "IL",
+    "postalCode": "60440",
+    "addressCountry": "US"
+   },
+   "city": "Bolingbrook",
+   "state": "IL",
+   "zip": "60440",
+   "geo": {
+    "lat": 41.7038409,
+    "lon": -88.0882002
+   },
+   "phone": "+16307597595",
+   "website": "https://www.pleasantstyles.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6317465020",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "windy-city-hvac-repair-bolingbrook",
+   "name": "Windy City HVAC Repair",
+   "summary": "Windy City HVAC Repair is a HVAC contractor in Bolingbrook, IL at 400 North Schmidt Road #211, Bolingbrook, IL 60440. Phone: +13125004822. Website: https://hvacchicago.com/.",
+   "categories": [
+    "hvac repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/windy-city-hvac-repair-bolingbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/windy-city-hvac-repair-bolingbrook.json",
+   "address": {
+    "streetAddress": "400 North Schmidt Road #211",
+    "addressLocality": "Bolingbrook",
+    "addressRegion": "IL",
+    "postalCode": "60440",
+    "addressCountry": "US"
+   },
+   "city": "Bolingbrook",
+   "state": "IL",
+   "zip": "60440",
+   "geo": {
+    "lat": 41.7085623,
+    "lon": -88.0874855
+   },
+   "phone": "+13125004822",
+   "website": "https://hvacchicago.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13573877429",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "innova-family-dental-bolingbrook",
+   "name": "Innova Family Dental",
+   "summary": "Innova Family Dental is a dentist in Bolingbrook, IL at 772 Weber Road, Bolingbrook, IL 60490. Phone: +16305182272.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/innova-family-dental-bolingbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/innova-family-dental-bolingbrook.json",
+   "address": {
+    "streetAddress": "772 Weber Road",
+    "addressLocality": "Bolingbrook",
+    "addressRegion": "IL",
+    "postalCode": "60490",
+    "addressCountry": "US"
+   },
+   "city": "Bolingbrook",
+   "state": "IL",
+   "zip": "60490",
+   "geo": {
+    "lat": 41.672465,
+    "lon": -88.1245289
+   },
+   "phone": "+16305182272",
+   "opening_hours": "Mo-Th 10:00-19:00, Fr 08:00-14:00, Sa 08:00-13:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8190574971",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "arrow-truck-sales-bolingbrook",
+   "name": "Arrow Truck Sales",
+   "summary": "Arrow Truck Sales is an used car dealer in Bolingbrook, IL at 245 West South Frontage Road, Bolingbrook, IL 60440. Website: https://www.arrowtruck.com/location/chicago-il.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/arrow-truck-sales-bolingbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/arrow-truck-sales-bolingbrook.json",
+   "address": {
+    "streetAddress": "245 West South Frontage Road",
+    "addressLocality": "Bolingbrook",
+    "addressRegion": "IL",
+    "postalCode": "60440",
+    "addressCountry": "US"
+   },
+   "city": "Bolingbrook",
+   "state": "IL",
+   "zip": "60440",
+   "geo": {
+    "lat": 41.6796605,
+    "lon": -88.0762354
+   },
+   "website": "https://www.arrowtruck.com/location/chicago-il",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/439960548",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "color-envy-bolingbrook",
+   "name": "Color Envy",
+   "summary": "Color Envy is a hair salon in Bolingbrook, IL at 716 East Boughton Road, Bolingbrook, IL 60440. Phone: +16307391600.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/color-envy-bolingbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/color-envy-bolingbrook.json",
+   "address": {
+    "streetAddress": "716 East Boughton Road",
+    "addressLocality": "Bolingbrook",
+    "addressRegion": "IL",
+    "postalCode": "60440",
+    "addressCountry": "US"
+   },
+   "city": "Bolingbrook",
+   "state": "IL",
+   "zip": "60440",
+   "geo": {
+    "lat": 41.7249612,
+    "lon": -88.0374306
+   },
+   "phone": "+16307391600",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9826821894",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "extra-space-storage-bolingbrook",
+   "name": "Extra Space Storage",
+   "summary": "Extra Space Storage is a self-storage facility in Bolingbrook, IL at 1200 South Weber Road, Bolingbrook, IL 60490. Website: https://www.extraspace.com/storage/facilities/us/illinois/bolingbrook/.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/extra-space-storage-bolingbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/extra-space-storage-bolingbrook.json",
+   "address": {
+    "streetAddress": "1200 South Weber Road",
+    "addressLocality": "Bolingbrook",
+    "addressRegion": "IL",
+    "postalCode": "60490",
+    "addressCountry": "US"
+   },
+   "city": "Bolingbrook",
+   "state": "IL",
+   "zip": "60490",
+   "geo": {
+    "lat": 41.6581865,
+    "lon": -88.1258363
+   },
+   "website": "https://www.extraspace.com/storage/facilities/us/illinois/bolingbrook/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1317383963",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "ikea-bolingbrook",
+   "name": "IKEA",
+   "summary": "IKEA is a furniture store in Bolingbrook, IL at 750 East Boughton Road, Bolingbrook, IL 60440. Website: https://www.ikea.com/us/en/stores/bolingbrook/.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ikea-bolingbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ikea-bolingbrook.json",
+   "address": {
+    "streetAddress": "750 East Boughton Road",
+    "addressLocality": "Bolingbrook",
+    "addressRegion": "IL",
+    "postalCode": "60440",
+    "addressCountry": "US"
+   },
+   "city": "Bolingbrook",
+   "state": "IL",
+   "zip": "60440",
+   "geo": {
+    "lat": 41.727968,
+    "lon": -88.0377948
+   },
+   "website": "https://www.ikea.com/us/en/stores/bolingbrook/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/163147628",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "sport-clips-bolingbrook",
+   "name": "Sport Clips",
+   "summary": "Sport Clips is a hair salon in Bolingbrook, IL at 722 East Boughton Road, Bolingbrook, IL 60440. Phone: +16307395446.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sport-clips-bolingbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sport-clips-bolingbrook.json",
+   "address": {
+    "streetAddress": "722 East Boughton Road",
+    "addressLocality": "Bolingbrook",
+    "addressRegion": "IL",
+    "postalCode": "60440",
+    "addressCountry": "US"
+   },
+   "city": "Bolingbrook",
+   "state": "IL",
+   "zip": "60440",
+   "geo": {
+    "lat": 41.7250813,
+    "lon": -88.0371248
+   },
+   "phone": "+16307395446",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9826821893",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "u-haul-bolingbrook",
+   "name": "U-Haul",
+   "summary": "U-Haul is a self-storage facility in Bolingbrook, IL at 240 West North Frontage Road, Bolingbrook, IL 60440. Website: https://www.uhaul.com/Locations/Truck-Rentals-near-Bolingbrook-IL-60440/856023/.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/u-haul-bolingbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/u-haul-bolingbrook.json",
+   "address": {
+    "streetAddress": "240 West North Frontage Road",
+    "addressLocality": "Bolingbrook",
+    "addressRegion": "IL",
+    "postalCode": "60440",
+    "addressCountry": "US"
+   },
+   "city": "Bolingbrook",
+   "state": "IL",
+   "zip": "60440",
+   "geo": {
+    "lat": 41.681897,
+    "lon": -88.0760688
+   },
+   "website": "https://www.uhaul.com/Locations/Truck-Rentals-near-Bolingbrook-IL-60440/856023/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/369283359",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "allstae-insurance-kristi-dreistadt-blodedorn-bolingbrook",
+   "name": "Allstae Insurance: Kristi Dreistadt - Blodedorn",
+   "summary": "Allstae Insurance: Kristi Dreistadt - Blodedorn is an insurance agent in Bolingbrook, IL at 281 South Schmidt Road, Bolingbrook, IL 60440.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/allstae-insurance-kristi-dreistadt-blodedorn-bolingbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/allstae-insurance-kristi-dreistadt-blodedorn-bolingbrook.json",
+   "address": {
+    "streetAddress": "281 South Schmidt Road",
+    "addressLocality": "Bolingbrook",
+    "addressRegion": "IL",
+    "postalCode": "60440",
+    "addressCountry": "US"
+   },
+   "city": "Bolingbrook",
+   "state": "IL",
+   "zip": "60440",
+   "geo": {
+    "lat": 41.6914122,
+    "lon": -88.0879356
+   },
+   "opening_hours": "open; 18:00+ closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4299148951",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "american-matress-bolingbrook",
+   "name": "American Matress",
+   "summary": "American Matress is a mattress store in Bolingbrook, IL at 220 North Weber Road, Bolingbrook, IL 60440.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/american-matress-bolingbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/american-matress-bolingbrook.json",
+   "address": {
+    "streetAddress": "220 North Weber Road",
+    "addressLocality": "Bolingbrook",
+    "addressRegion": "IL",
+    "postalCode": "60440",
+    "addressCountry": "US"
+   },
+   "city": "Bolingbrook",
+   "state": "IL",
+   "zip": "60440",
+   "geo": {
+    "lat": 41.7018704,
+    "lon": -88.1244209
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4501777116",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "aquarium-adventure-petland-bolingbrook",
+   "name": "Aquarium Adventure - Petland",
+   "summary": "Aquarium Adventure - Petland is a pet store in Bolingbrook, IL at 744 Boughton Road, Bolingbrook, IL 60440.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/aquarium-adventure-petland-bolingbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/aquarium-adventure-petland-bolingbrook.json",
+   "address": {
+    "streetAddress": "744 Boughton Road",
+    "addressLocality": "Bolingbrook",
+    "addressRegion": "IL",
+    "postalCode": "60440",
+    "addressCountry": "US"
+   },
+   "city": "Bolingbrook",
+   "state": "IL",
+   "zip": "60440",
+   "geo": {
+    "lat": 41.7257303,
+    "lon": -88.0387938
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3160436926",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "domark-car-wash-and-lube-bolingbrook",
+   "name": "Domark Car Wash & Lube",
+   "summary": "Domark Car Wash & Lube is a car wash in Bolingbrook, IL at 435 Weber Road, Bolingbrook, IL 60490.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/domark-car-wash-and-lube-bolingbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/domark-car-wash-and-lube-bolingbrook.json",
+   "address": {
+    "streetAddress": "435 Weber Road",
+    "addressLocality": "Bolingbrook",
+    "addressRegion": "IL",
+    "postalCode": "60490",
+    "addressCountry": "US"
+   },
+   "city": "Bolingbrook",
+   "state": "IL",
+   "zip": "60490",
+   "geo": {
+    "lat": 41.6840667,
+    "lon": -88.1263656
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/256745391",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "great-clips-bolingbrook",
+   "name": "Great Clips",
+   "summary": "Great Clips is a hair salon in Bolingbrook, IL at 218 North Weber Road, Bolingbrook, IL 60440.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/great-clips-bolingbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/great-clips-bolingbrook.json",
+   "address": {
+    "streetAddress": "218 North Weber Road",
+    "addressLocality": "Bolingbrook",
+    "addressRegion": "IL",
+    "postalCode": "60440",
+    "addressCountry": "US"
+   },
+   "city": "Bolingbrook",
+   "state": "IL",
+   "zip": "60440",
+   "geo": {
+    "lat": 41.7017943,
+    "lon": -88.1243941
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4501765480",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "great-wash-inc-bolingbrook",
+   "name": "Great Wash Inc",
+   "summary": "Great Wash Inc is a car wash in Bolingbrook, IL at 450 Lily Cache Lane, Bolingbrook, IL 60440.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/great-wash-inc-bolingbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/great-wash-inc-bolingbrook.json",
+   "address": {
+    "streetAddress": "450 Lily Cache Lane",
+    "addressLocality": "Bolingbrook",
+    "addressRegion": "IL",
+    "postalCode": "60440",
+    "addressCountry": "US"
+   },
+   "city": "Bolingbrook",
+   "state": "IL",
+   "zip": "60440",
+   "geo": {
+    "lat": 41.6913195,
+    "lon": -88.0859891
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/850669936",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "jey-brite-car-wash-bolingbrook",
+   "name": "Jey Brite Car Wash",
+   "summary": "Jey Brite Car Wash is a car wash in Bolingbrook, IL at 246 Weber Road, Bolingbrook, IL 60490.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jey-brite-car-wash-bolingbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jey-brite-car-wash-bolingbrook.json",
+   "address": {
+    "streetAddress": "246 Weber Road",
+    "addressLocality": "Bolingbrook",
+    "addressRegion": "IL",
+    "postalCode": "60490",
+    "addressCountry": "US"
+   },
+   "city": "Bolingbrook",
+   "state": "IL",
+   "zip": "60490",
+   "geo": {
+    "lat": 41.6928237,
+    "lon": -88.1217787
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12911332320",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "jiffy-lube-bolingbrook",
+   "name": "Jiffy Lube",
+   "summary": "Jiffy Lube is an auto repair shop in Bolingbrook, IL at 101 Brook Court, Bolingbrook, IL 60440.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jiffy-lube-bolingbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jiffy-lube-bolingbrook.json",
+   "address": {
+    "streetAddress": "101 Brook Court",
+    "addressLocality": "Bolingbrook",
+    "addressRegion": "IL",
+    "postalCode": "60440",
+    "addressCountry": "US"
+   },
+   "city": "Bolingbrook",
+   "state": "IL",
+   "zip": "60440",
+   "geo": {
+    "lat": 41.7040904,
+    "lon": -88.0688986
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1421020590",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "kings-cleaners-bolingbrook",
+   "name": "King's Cleaners",
+   "summary": "King's Cleaners is a dry cleaner in Bolingbrook, IL at 1719 West Boughton Road, Bolingbrook, IL 60490.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kings-cleaners-bolingbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kings-cleaners-bolingbrook.json",
+   "address": {
+    "streetAddress": "1719 West Boughton Road",
+    "addressLocality": "Bolingbrook",
+    "addressRegion": "IL",
+    "postalCode": "60490",
+    "addressCountry": "US"
+   },
+   "city": "Bolingbrook",
+   "state": "IL",
+   "zip": "60490",
+   "geo": {
+    "lat": 41.6965289,
+    "lon": -88.1448796
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4503239638",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "mavis-tires-and-brakes-bolingbrook",
+   "name": "Mavis Tires & Brakes",
+   "summary": "Mavis Tires & Brakes is an auto repair shop in Bolingbrook, IL at 186 S Weber Road, Bolingbrook, IL 60490.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mavis-tires-and-brakes-bolingbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mavis-tires-and-brakes-bolingbrook.json",
+   "address": {
+    "streetAddress": "186 S Weber Road",
+    "addressLocality": "Bolingbrook",
+    "addressRegion": "IL",
+    "postalCode": "60490",
+    "addressCountry": "US"
+   },
+   "city": "Bolingbrook",
+   "state": "IL",
+   "zip": "60490",
+   "geo": {
+    "lat": 41.6946658,
+    "lon": -88.121101
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/69962741",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "the-ups-store-bolingbrook",
+   "name": "The UPS Store",
+   "summary": "The UPS Store is a printing service in Bolingbrook, IL at 1112 West Boughton Road, Bolingbrook, IL 60440.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-ups-store-bolingbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-ups-store-bolingbrook.json",
+   "address": {
+    "streetAddress": "1112 West Boughton Road",
+    "addressLocality": "Bolingbrook",
+    "addressRegion": "IL",
+    "postalCode": "60440",
+    "addressCountry": "US"
+   },
+   "city": "Bolingbrook",
+   "state": "IL",
+   "zip": "60440",
+   "geo": {
+    "lat": 41.7054352,
+    "lon": -88.1185522
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8514614784",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "aarons-bolingbrook",
+   "name": "Aaron's",
+   "summary": "Aaron's is a furniture store in Bolingbrook, IL.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/aarons-bolingbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/aarons-bolingbrook.json",
+   "address": {
+    "addressLocality": "Bolingbrook",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Bolingbrook",
+   "state": "IL",
+   "geo": {
+    "lat": 41.6978113,
+    "lon": -88.0669399
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4643184141",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "ati-physical-therapy-bolingbrook",
+   "name": "ATI Physical Therapy",
+   "summary": "ATI Physical Therapy is a physical therapy clinic in Bolingbrook, IL.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ati-physical-therapy-bolingbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ati-physical-therapy-bolingbrook.json",
+   "address": {
+    "addressLocality": "Bolingbrook",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Bolingbrook",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7010296,
+    "lon": -88.0669289
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12379134875",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "barbers-corner-bolingbrook",
+   "name": "Barbers Corner",
+   "summary": "Barbers Corner is a hair salon in Bolingbrook, IL.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/barbers-corner-bolingbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/barbers-corner-bolingbrook.json",
+   "address": {
+    "addressLocality": "Bolingbrook",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Bolingbrook",
+   "state": "IL",
+   "geo": {
+    "lat": 41.711628,
+    "lon": -88.0653202
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8203576119",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "bolingbrook-glass-and-mirror-bolingbrook",
+   "name": "Bolingbrook Glass & Mirror",
+   "summary": "Bolingbrook Glass & Mirror is a window repair service in Bolingbrook, IL.",
+   "categories": [
+    "window repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bolingbrook-glass-and-mirror-bolingbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bolingbrook-glass-and-mirror-bolingbrook.json",
+   "address": {
+    "addressLocality": "Bolingbrook",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Bolingbrook",
+   "state": "IL",
+   "geo": {
+    "lat": 41.6778558,
+    "lon": -88.0837164
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/369389017",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "boughton-square-animal-clinic-bolingbrook",
+   "name": "Boughton Square Animal Clinic",
+   "summary": "Boughton Square Animal Clinic is a veterinarian in Bolingbrook, IL.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/boughton-square-animal-clinic-bolingbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/boughton-square-animal-clinic-bolingbrook.json",
+   "address": {
+    "addressLocality": "Bolingbrook",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Bolingbrook",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7015279,
+    "lon": -88.0668768
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12379200083",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "c-d-liquors-bolingbrook",
+   "name": "C.D. Liquors",
+   "summary": "C.D. Liquors is a liquor store in Bolingbrook, IL.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/c-d-liquors-bolingbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/c-d-liquors-bolingbrook.json",
+   "address": {
+    "addressLocality": "Bolingbrook",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Bolingbrook",
+   "state": "IL",
+   "geo": {
+    "lat": 41.6887853,
+    "lon": -88.0668937
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7177776203",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "cubesmart-bolingbrook",
+   "name": "CubeSmart",
+   "summary": "CubeSmart is a self-storage facility in Bolingbrook, IL.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cubesmart-bolingbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cubesmart-bolingbrook.json",
+   "address": {
+    "addressLocality": "Bolingbrook",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Bolingbrook",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7066914,
+    "lon": -88.0896209
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5577606033",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "fedex-office-bolingbrook",
+   "name": "FedEx Office",
+   "summary": "FedEx Office is a printing service in Bolingbrook, IL.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fedex-office-bolingbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fedex-office-bolingbrook.json",
+   "address": {
+    "addressLocality": "Bolingbrook",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Bolingbrook",
+   "state": "IL",
+   "geo": {
+    "lat": 41.6911025,
+    "lon": -88.1264035
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7170017255",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "firestone-bolingbrook",
+   "name": "Firestone",
+   "summary": "Firestone is an auto repair shop in Bolingbrook, IL.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/firestone-bolingbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/firestone-bolingbrook.json",
+   "address": {
+    "addressLocality": "Bolingbrook",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Bolingbrook",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7115954,
+    "lon": -88.0693942
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/66226334",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "foremost-liquors-bolingbrook",
+   "name": "Foremost Liquors",
+   "summary": "Foremost Liquors is a liquor store in Bolingbrook, IL.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/foremost-liquors-bolingbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/foremost-liquors-bolingbrook.json",
+   "address": {
+    "addressLocality": "Bolingbrook",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Bolingbrook",
+   "state": "IL",
+   "geo": {
+    "lat": 41.708216,
+    "lon": -88.0701607
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/440880376",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "four-seasons-nails-bolingbrook",
+   "name": "Four Seasons Nails",
+   "summary": "Four Seasons Nails is a nail salon in Bolingbrook, IL.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/four-seasons-nails-bolingbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/four-seasons-nails-bolingbrook.json",
+   "address": {
+    "addressLocality": "Bolingbrook",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Bolingbrook",
+   "state": "IL",
+   "geo": {
+    "lat": 41.6993995,
+    "lon": -88.0670583
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12379173989",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "goodwill-bolingbrook",
+   "name": "Goodwill",
+   "summary": "Goodwill is a thrift store in Bolingbrook, IL.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/goodwill-bolingbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/goodwill-bolingbrook.json",
+   "address": {
+    "addressLocality": "Bolingbrook",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Bolingbrook",
+   "state": "IL",
+   "geo": {
+    "lat": 41.6953513,
+    "lon": -88.1245041
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3754868028",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "grease-monkey-bolingbrook",
+   "name": "Grease Monkey",
+   "summary": "Grease Monkey is an auto repair shop in Bolingbrook, IL.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/grease-monkey-bolingbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/grease-monkey-bolingbrook.json",
+   "address": {
+    "addressLocality": "Bolingbrook",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Bolingbrook",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7113038,
+    "lon": -88.0666825
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/457111148",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "grove-dental-bolingbrook",
+   "name": "Grove Dental",
+   "summary": "Grove Dental is a dentist in Bolingbrook, IL.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/grove-dental-bolingbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/grove-dental-bolingbrook.json",
+   "address": {
+    "addressLocality": "Bolingbrook",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Bolingbrook",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7125347,
+    "lon": -88.0667301
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4368753449",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "integrity-dental-bolingbrook",
+   "name": "Integrity Dental",
+   "summary": "Integrity Dental is a dentist in Bolingbrook, IL.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/integrity-dental-bolingbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/integrity-dental-bolingbrook.json",
+   "address": {
+    "addressLocality": "Bolingbrook",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Bolingbrook",
+   "state": "IL",
+   "geo": {
+    "lat": 41.6903083,
+    "lon": -88.1252115
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10140251230",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "jackson-hewitt-bolingbrook",
+   "name": "Jackson Hewitt",
+   "summary": "Jackson Hewitt is a tax preparation service in Bolingbrook, IL.",
+   "categories": [
+    "tax preparation"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jackson-hewitt-bolingbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jackson-hewitt-bolingbrook.json",
+   "address": {
+    "addressLocality": "Bolingbrook",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Bolingbrook",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7003948,
+    "lon": -88.0671474
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12379173986",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "jared-bolingbrook",
+   "name": "Jared",
+   "summary": "Jared is a jewelry store in Bolingbrook, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jared-bolingbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jared-bolingbrook.json",
+   "address": {
+    "addressLocality": "Bolingbrook",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Bolingbrook",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7217115,
+    "lon": -88.0399699
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3766121218",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "larry-s-lock-service-bolingbrook",
+   "name": "Larry’s Lock Service",
+   "summary": "Larry’s Lock Service is a locksmith in Bolingbrook, IL.",
+   "categories": [
+    "locksmith"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/larry-s-lock-service-bolingbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/larry-s-lock-service-bolingbrook.json",
+   "address": {
+    "addressLocality": "Bolingbrook",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Bolingbrook",
+   "state": "IL",
+   "geo": {
+    "lat": 41.6980269,
+    "lon": -88.0441999
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7173067984",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "magnum-seguros-bolingbrook",
+   "name": "Magnum Seguros",
+   "summary": "Magnum Seguros is an insurance agent in Bolingbrook, IL.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/magnum-seguros-bolingbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/magnum-seguros-bolingbrook.json",
+   "address": {
+    "addressLocality": "Bolingbrook",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Bolingbrook",
+   "state": "IL",
+   "geo": {
+    "lat": 41.6991148,
+    "lon": -88.0670365
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12379212773",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "master-barber-bolingbrook",
+   "name": "Master Barber",
+   "summary": "Master Barber is a hair salon in Bolingbrook, IL.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/master-barber-bolingbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/master-barber-bolingbrook.json",
+   "address": {
+    "addressLocality": "Bolingbrook",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Bolingbrook",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7125943,
+    "lon": -88.0670571
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4368753446",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "midas-bolingbrook",
+   "name": "Midas",
+   "summary": "Midas is an auto repair shop in Bolingbrook, IL.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/midas-bolingbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/midas-bolingbrook.json",
+   "address": {
+    "addressLocality": "Bolingbrook",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Bolingbrook",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7127897,
+    "lon": -88.0681269
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/66218504",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "nail-bar-bolingbrook",
+   "name": "Nail Bar",
+   "summary": "Nail Bar is a nail salon in Bolingbrook, IL.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/nail-bar-bolingbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/nail-bar-bolingbrook.json",
+   "address": {
+    "addressLocality": "Bolingbrook",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Bolingbrook",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7116575,
+    "lon": -88.065223
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8203576118",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "ocean-dental-bolingbrook",
+   "name": "Ocean Dental",
+   "summary": "Ocean Dental is a dentist in Bolingbrook, IL.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ocean-dental-bolingbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ocean-dental-bolingbrook.json",
+   "address": {
+    "addressLocality": "Bolingbrook",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Bolingbrook",
+   "state": "IL",
+   "geo": {
+    "lat": 41.6610072,
+    "lon": -88.1262533
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4654746332",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "pet-supplies-plus-bolingbrook",
+   "name": "Pet Supplies Plus",
+   "summary": "Pet Supplies Plus is a pet store in Bolingbrook, IL.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-bolingbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pet-supplies-plus-bolingbrook.json",
+   "address": {
+    "addressLocality": "Bolingbrook",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Bolingbrook",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7038778,
+    "lon": -88.067764
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/440234646",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "public-storage-bolingbrook",
+   "name": "Public Storage",
+   "summary": "Public Storage is a self-storage facility in Bolingbrook, IL.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/public-storage-bolingbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/public-storage-bolingbrook.json",
+   "address": {
+    "addressLocality": "Bolingbrook",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Bolingbrook",
+   "state": "IL",
+   "geo": {
+    "lat": 41.6908314,
+    "lon": -88.059343
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/439960533",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "public-storage-bolingbrook-w440880386",
+   "name": "Public Storage",
+   "summary": "Public Storage is a self-storage facility in Bolingbrook, IL.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/public-storage-bolingbrook-w440880386/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/public-storage-bolingbrook-w440880386.json",
+   "address": {
+    "addressLocality": "Bolingbrook",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Bolingbrook",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7189889,
+    "lon": -88.0443857
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/440880386",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "serene-hair-design-bolingbrook",
+   "name": "Serene Hair Design",
+   "summary": "Serene Hair Design is a hair salon in Bolingbrook, IL.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/serene-hair-design-bolingbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/serene-hair-design-bolingbrook.json",
+   "address": {
+    "addressLocality": "Bolingbrook",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Bolingbrook",
+   "state": "IL",
+   "geo": {
+    "lat": 41.70097,
+    "lon": -88.066928
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12379134876",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "shell-bolingbrook",
+   "name": "Shell",
+   "summary": "Shell is a car wash in Bolingbrook, IL.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/shell-bolingbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/shell-bolingbrook.json",
+   "address": {
+    "addressLocality": "Bolingbrook",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Bolingbrook",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7020813,
+    "lon": -88.1260098
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/224607542",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "sleep-number-bolingbrook",
+   "name": "Sleep Number",
+   "summary": "Sleep Number is a mattress store in Bolingbrook, IL.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sleep-number-bolingbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sleep-number-bolingbrook.json",
+   "address": {
+    "addressLocality": "Bolingbrook",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Bolingbrook",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7260293,
+    "lon": -88.0309356
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12379233733",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "sonrisa-dental-bolingbrook",
+   "name": "Sonrisa Dental",
+   "summary": "Sonrisa Dental is a dentist in Bolingbrook, IL.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sonrisa-dental-bolingbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sonrisa-dental-bolingbrook.json",
+   "address": {
+    "addressLocality": "Bolingbrook",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Bolingbrook",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7004965,
+    "lon": -88.067164
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12379173987",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "stop-24-liquors-bolingbrook",
+   "name": "Stop 24 Liquors",
+   "summary": "Stop 24 Liquors is a liquor store in Bolingbrook, IL.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/stop-24-liquors-bolingbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/stop-24-liquors-bolingbrook.json",
+   "address": {
+    "addressLocality": "Bolingbrook",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Bolingbrook",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7177157,
+    "lon": -88.0498107
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4368753462",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "stop-24-liquors-bolingbrook-n4619166097",
+   "name": "Stop 24 Liquors",
+   "summary": "Stop 24 Liquors is a liquor store in Bolingbrook, IL.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/stop-24-liquors-bolingbrook-n4619166097/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/stop-24-liquors-bolingbrook-n4619166097.json",
+   "address": {
+    "addressLocality": "Bolingbrook",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Bolingbrook",
+   "state": "IL",
+   "geo": {
+    "lat": 41.6891483,
+    "lon": -88.1177419
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4619166097",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "vics-express-car-wash-bolingbrook",
+   "name": "Vic's Express Car Wash",
+   "summary": "Vic's Express Car Wash is a car wash in Bolingbrook, IL.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/vics-express-car-wash-bolingbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/vics-express-car-wash-bolingbrook.json",
+   "address": {
+    "addressLocality": "Bolingbrook",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Bolingbrook",
+   "state": "IL",
+   "geo": {
+    "lat": 41.710318,
+    "lon": -88.0691837
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/440880388",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

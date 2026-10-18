@@ -1,0 +1,51 @@
+{
+ "slug": "barrington-early-learning-center-barrington-township",
+ "name": "Barrington Early Learning Center",
+ "categories": [
+  "preschool"
+ ],
+ "keywords": [
+  "preschool",
+  "preschool barrington township il"
+ ],
+ "services": [
+  {
+   "name": "preschool",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Barrington Township",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Barrington Township",
+ "state": "IL",
+ "geo": {
+  "lat": 42.1295602,
+  "lon": -88.1258762
+ },
+ "schema_type": "Preschool",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/13273162395",
+ "osm": {
+  "type": "node",
+  "id": 13273162395,
+  "tags_used": {
+   "amenity": "kindergarten"
+  }
+ },
+ "municipality": "Barrington Township",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/barrington-early-learning-center-barrington-township/",
+ "summary": "Barrington Early Learning Center is a preschool in Barrington Township, IL.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

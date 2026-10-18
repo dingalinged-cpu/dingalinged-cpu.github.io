@@ -1,0 +1,151 @@
+{
+ "place": "Worth, IL",
+ "slug": "worth-il",
+ "count": 4,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "auto repair worth il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-worth-il.json"
+  },
+  {
+   "keyword": "car wash worth il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-worth-il.json"
+  },
+  {
+   "keyword": "event venues worth il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/event-venues-worth-il.json"
+  },
+  {
+   "keyword": "mechanic worth il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-worth-il.json"
+  },
+  {
+   "keyword": "thrift store worth il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/thrift-store-worth-il.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "neat-repeats-worth",
+   "name": "Neat Repeats",
+   "summary": "Neat Repeats is a thrift store in Worth, IL at 6602 West 111th Street, Worth, IL 60482. Phone: +17083616860. Website: https://crisisctr.org/neat-repeats/.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/neat-repeats-worth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/neat-repeats-worth.json",
+   "address": {
+    "streetAddress": "6602 West 111th Street",
+    "addressLocality": "Worth",
+    "addressRegion": "IL",
+    "postalCode": "60482",
+    "addressCountry": "US"
+   },
+   "city": "Worth",
+   "state": "IL",
+   "zip": "60482",
+   "geo": {
+    "lat": 41.6908745,
+    "lon": -87.7844176
+   },
+   "phone": "+17083616860",
+   "website": "https://crisisctr.org/neat-repeats/",
+   "opening_hours": "Mo-Th 10:00-19:00; Fr-Sa 10:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13539185059",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "circle-k-worth",
+   "name": "Circle K",
+   "summary": "Circle K is a car wash in Worth, IL at 10631 Southwest Highway, Worth, IL 60482.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/circle-k-worth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/circle-k-worth.json",
+   "address": {
+    "streetAddress": "10631 Southwest Highway",
+    "addressLocality": "Worth",
+    "addressRegion": "IL",
+    "postalCode": "60482",
+    "addressCountry": "US"
+   },
+   "city": "Worth",
+   "state": "IL",
+   "zip": "60482",
+   "geo": {
+    "lat": 41.6983163,
+    "lon": -87.7966679
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1301854083",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "garden-chalet-worth",
+   "name": "Garden Chalet",
+   "summary": "Garden Chalet is an event venue in Worth, IL.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/garden-chalet-worth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/garden-chalet-worth.json",
+   "address": {
+    "addressLocality": "Worth",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Worth",
+   "state": "IL",
+   "geo": {
+    "lat": 41.6919285,
+    "lon": -87.77959
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1323674935",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "jiffy-lube-worth",
+   "name": "Jiffy Lube",
+   "summary": "Jiffy Lube is an auto repair shop in Worth, IL.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jiffy-lube-worth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jiffy-lube-worth.json",
+   "address": {
+    "addressLocality": "Worth",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Worth",
+   "state": "IL",
+   "geo": {
+    "lat": 41.6976856,
+    "lon": -87.7981408
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1283797991",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

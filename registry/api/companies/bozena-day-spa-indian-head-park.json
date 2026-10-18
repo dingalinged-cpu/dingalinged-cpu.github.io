@@ -1,0 +1,51 @@
+{
+ "slug": "bozena-day-spa-indian-head-park",
+ "name": "Bozena Day Spa",
+ "categories": [
+  "massage"
+ ],
+ "keywords": [
+  "massage",
+  "massage indian head park il"
+ ],
+ "services": [
+  {
+   "name": "massage",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Indian Head Park",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Indian Head Park",
+ "state": "IL",
+ "geo": {
+  "lat": 41.7639794,
+  "lon": -87.8972812
+ },
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/10684391120",
+ "osm": {
+  "type": "node",
+  "id": 10684391120,
+  "tags_used": {
+   "shop": "massage"
+  }
+ },
+ "municipality": "Indian Head Park",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/bozena-day-spa-indian-head-park/",
+ "summary": "Bozena Day Spa is a massage studio in Indian Head Park, IL.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,23 @@
+Forever Om Yoga is a yoga studio in Lake Forest, IL at 828 North Western Avenue, Lake Forest, IL 60045.
+
+# Forever Om Yoga
+
+- Category: yoga classes
+- Services: yoga classes
+- Address: 828 North Western Avenue, Lake Forest, IL 60045
+- City: Lake Forest
+- State: IL
+- ZIP: 60045
+- Coordinates: 42.2546813, -87.8409709
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/forever-om-yoga-lake-forest/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/forever-om-yoga-lake-forest.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/886372892 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

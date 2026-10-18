@@ -1,0 +1,52 @@
+{
+ "slug": "chiro-one-wellness-center-chicago-n12434611018",
+ "name": "Chiro One Wellness Center",
+ "categories": [
+  "chiropractor"
+ ],
+ "keywords": [
+  "chiropractor",
+  "chiropractor chicago il"
+ ],
+ "services": [
+  {
+   "name": "chiropractor",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "geo": {
+  "lat": 41.7997377,
+  "lon": -87.5851646
+ },
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/12434611018",
+ "osm": {
+  "type": "node",
+  "id": 12434611018,
+  "tags_used": {
+   "healthcare": "alternative",
+   "healthcare:speciality": "chiropractic"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/chiro-one-wellness-center-chicago-n12434611018/",
+ "summary": "Chiro One Wellness Center is a chiropractor in Chicago, IL.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

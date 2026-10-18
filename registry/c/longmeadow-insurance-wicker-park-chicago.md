@@ -1,0 +1,23 @@
+Longmeadow Insurance - Wicker Park is an insurance agent in Chicago, IL at 1400 North Milwaukee Avenue, Chicago, IL. Phone: +17738397230. Website: https://longmeadow.agency/wicker-park-chicago/.
+
+# Longmeadow Insurance - Wicker Park
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: 1400 North Milwaukee Avenue, Chicago, IL
+- City: Chicago
+- State: IL
+- ZIP: n/a
+- Coordinates: 41.9073451, -87.6729488
+- Phone: +17738397230
+- Website: https://longmeadow.agency/wicker-park-chicago/
+- Email: n/a
+- Opening hours (OSM syntax): opening_hours = Mo-Fr 08:00-18:00; Sa 09:00-12:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/longmeadow-insurance-wicker-park-chicago/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/longmeadow-insurance-wicker-park-chicago.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13988781233 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,0 +1,69 @@
+{
+ "slug": "rocket-plumbing-lisle",
+ "name": "Rocket Plumbing",
+ "categories": [
+  "plumber"
+ ],
+ "keywords": [
+  "plumber",
+  "plumbers",
+  "plumbing services",
+  "plumber lisle il",
+  "plumbers lisle il",
+  "plumbing services lisle il"
+ ],
+ "services": [
+  {
+   "name": "plumber",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "plumbers",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "plumbing services",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "5111 Academy Drive #100",
+  "addressLocality": "Lisle",
+  "addressRegion": "IL",
+  "postalCode": "60532",
+  "addressCountry": "US"
+ },
+ "city": "Lisle",
+ "state": "IL",
+ "zip": "60532",
+ "geo": {
+  "lat": 41.791933,
+  "lon": -88.0897009
+ },
+ "phone": "+16302281440",
+ "website": "https://rocketplumbingnow.com/plumber-near-me-in-lisle/",
+ "opening_hours": "Mon - Sun 7:00 AM - 9:00 PM",
+ "schema_type": "Plumber",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/13637989902",
+ "osm": {
+  "type": "node",
+  "id": 13637989902,
+  "tags_used": {
+   "craft": "plumber"
+  }
+ },
+ "municipality": "Lisle",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/rocket-plumbing-lisle/",
+ "summary": "Rocket Plumbing is a plumber in Lisle, IL at 5111 Academy Drive #100, Lisle, IL 60532. Phone: +16302281440. Website: https://rocketplumbingnow.com/plumber-near-me-in-lisle/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

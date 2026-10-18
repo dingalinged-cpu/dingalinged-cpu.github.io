@@ -1,0 +1,23 @@
+Driven Car Wash is a car wash in Arlington Heights, IL at 2100 South Arlington Heights Road, Arlington Heights, IL.
+
+# Driven Car Wash
+
+- Category: car wash
+- Services: car wash
+- Address: 2100 South Arlington Heights Road, Arlington Heights, IL
+- City: Arlington Heights
+- State: IL
+- ZIP: n/a
+- Coordinates: 42.0473057, -87.9831776
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/driven-car-wash-arlington-heights/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/driven-car-wash-arlington-heights.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/111524891 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

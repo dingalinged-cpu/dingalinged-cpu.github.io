@@ -1,0 +1,60 @@
+{
+ "slug": "sola-salon-studios-chicago",
+ "name": "Sola Salon Studios",
+ "categories": [
+  "hair salon"
+ ],
+ "keywords": [
+  "hair salon",
+  "haircut",
+  "hair salon chicago il",
+  "haircut chicago il"
+ ],
+ "services": [
+  {
+   "name": "hair salon",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "haircut",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "558 West Roosevelt Road",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60607",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60607",
+ "geo": {
+  "lat": 41.8674656,
+  "lon": -87.6416008
+ },
+ "schema_type": "HairSalon",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/6327345663",
+ "osm": {
+  "type": "node",
+  "id": 6327345663,
+  "tags_used": {
+   "shop": "hairdresser"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/sola-salon-studios-chicago/",
+ "summary": "Sola Salon Studios is a hair salon in Chicago, IL at 558 West Roosevelt Road, Chicago, IL 60607.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

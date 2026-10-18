@@ -1,0 +1,51 @@
+{
+ "slug": "seasonal-exhibit-area-riverside",
+ "name": "Seasonal Exhibit Area",
+ "categories": [
+  "event venues"
+ ],
+ "keywords": [
+  "event venues",
+  "event venues riverside il"
+ ],
+ "services": [
+  {
+   "name": "event venues",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Riverside",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Riverside",
+ "state": "IL",
+ "geo": {
+  "lat": 41.8314812,
+  "lon": -87.8300082
+ },
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/relation/18899220",
+ "osm": {
+  "type": "relation",
+  "id": 18899220,
+  "tags_used": {
+   "amenity": "events_venue"
+  }
+ },
+ "municipality": "Riverside",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/seasonal-exhibit-area-riverside/",
+ "summary": "Seasonal Exhibit Area is an event venue in Riverside, IL.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

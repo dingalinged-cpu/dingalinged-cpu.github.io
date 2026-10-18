@@ -12,9 +12,9 @@
   "affordable realtor the United States",
   "emergency realtor the United States"
  ],
- "answer": "The top unpaid realtor listing for the United States is Coldwell Banker (a real estate agency in Saint Paul, MN at 827 Grand Avenue, Saint Paul, MN 55105. Phone: +16512279144. Website: https://www.coldwellbankerhomes.com/mn/saint-paul/office/crocus-hill/oid_4219/). 71 realtor businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "answer": "The top unpaid realtor listing for the United States is @Properties Lake Forest (a real estate agency in Lake Forest, IL at 600 North Western Avenue, Lake Forest, IL 60045. Phone: +18472950700. Website: https://atproperties.com/). 219 realtor businesses are listed for the United States as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
  "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
- "updated": "2026-10-17",
+ "updated": "2026-10-18",
  "sponsored_slots": {
   "featured_1": "available",
   "spots_2_4_sold": 0
@@ -27,6 +27,251 @@
  "results": [
   {
    "position": 1,
+   "sponsored": false,
+   "slug": "properties-lake-forest-lake-forest",
+   "name": "@Properties Lake Forest",
+   "summary": "@Properties Lake Forest is a real estate agency in Lake Forest, IL at 600 North Western Avenue, Lake Forest, IL 60045. Phone: +18472950700. Website: https://atproperties.com/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/properties-lake-forest-lake-forest/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/properties-lake-forest-lake-forest.json",
+   "address": {
+    "streetAddress": "600 North Western Avenue",
+    "addressLocality": "Lake Forest",
+    "addressRegion": "IL",
+    "postalCode": "60045",
+    "addressCountry": "US"
+   },
+   "city": "Lake Forest",
+   "state": "IL",
+   "zip": "60045",
+   "geo": {
+    "lat": 42.2505889,
+    "lon": -87.8397656
+   },
+   "phone": "+18472950700",
+   "website": "https://atproperties.com/",
+   "opening_hours": "Mo-Fr 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1366372114",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "agents-listings-incubator-palatine",
+   "name": "Agent's Listings Incubator",
+   "summary": "Agent's Listings Incubator is a real estate agency in Palatine, IL at 333 West Northwest Highway, Palatine, IL 60010. Phone: +18444271101. Website: https://agentslistingsincubator.com/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/agents-listings-incubator-palatine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/agents-listings-incubator-palatine.json",
+   "address": {
+    "streetAddress": "333 West Northwest Highway",
+    "addressLocality": "Palatine",
+    "addressRegion": "IL",
+    "postalCode": "60010",
+    "addressCountry": "US"
+   },
+   "city": "Palatine",
+   "state": "IL",
+   "zip": "60010",
+   "geo": {
+    "lat": 42.1226663,
+    "lon": -88.0519482
+   },
+   "phone": "+18444271101",
+   "website": "https://agentslistingsincubator.com/",
+   "opening_hours": "Mo-Fr 09:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10600546513",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "apartment-people-chicago",
+   "name": "Apartment People",
+   "summary": "Apartment People is a real estate agency in Chicago, IL at 3121 North Broadway, Chicago, IL 60657. Phone: +17732488800. Website: https://apartmentpeople.com/about_us/locations/lakeview.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/apartment-people-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/apartment-people-chicago.json",
+   "address": {
+    "streetAddress": "3121 North Broadway",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60657",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60657",
+   "geo": {
+    "lat": 41.9382062,
+    "lon": -87.6442045
+   },
+   "phone": "+17732488800",
+   "website": "https://apartmentpeople.com/about_us/locations/lakeview",
+   "opening_hours": "Mo-Th 09:00-20:00; Fr 09:00-19:00; Sa 09:00-18:00; Su 10:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2838053787",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "apartment-people-chicago-n2838225114",
+   "name": "Apartment People",
+   "summary": "Apartment People is a real estate agency in Chicago, IL at 750 North Franklin Street, Chicago, IL 60654. Phone: +13123359800. Website: https://apartmentpeople.com/about_us/locations/river-north.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/apartment-people-chicago-n2838225114/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/apartment-people-chicago-n2838225114.json",
+   "address": {
+    "streetAddress": "750 North Franklin Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60654",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60654",
+   "geo": {
+    "lat": 41.8962844,
+    "lon": -87.6358489
+   },
+   "phone": "+13123359800",
+   "website": "https://apartmentpeople.com/about_us/locations/river-north",
+   "opening_hours": "Mo-Sa 09:00-18:00; Su 10:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2838225114",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "cash4owner-inc-chicago",
+   "name": "Cash4Owner Inc.",
+   "summary": "Cash4Owner Inc. is a real estate agency in Chicago, IL at 4044 North Lincoln Avenue #506, Chicago, IL 60618. Phone: +18779301112. Website: https://cash4owner.com/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cash4owner-inc-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cash4owner-inc-chicago.json",
+   "address": {
+    "streetAddress": "4044 North Lincoln Avenue #506",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60618",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60618",
+   "geo": {
+    "lat": 41.9553176,
+    "lon": -87.6799196
+   },
+   "phone": "+18779301112",
+   "website": "https://cash4owner.com/",
+   "opening_hours": "Mo-Fr 09:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10020172299",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "center-coast-realty-chicago",
+   "name": "Center Coast Realty",
+   "summary": "Center Coast Realty is a real estate agency in Chicago, IL at 2256 West North Avenue, Chicago, IL 60647. Phone: +13125614080. Website: https://centercoastrealty.com/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/center-coast-realty-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/center-coast-realty-chicago.json",
+   "address": {
+    "streetAddress": "2256 West North Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60647",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60647",
+   "geo": {
+    "lat": 41.91059,
+    "lon": -87.6846227
+   },
+   "phone": "+13125614080",
+   "website": "https://centercoastrealty.com/",
+   "opening_hours": "Mo-Fr 09:00-17:00; Sa, Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9013890570",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "chicago-condo-finder-chicago",
+   "name": "Chicago Condo Finder",
+   "summary": "Chicago Condo Finder is a real estate agency in Chicago, IL at 980 North Michigan Avenue, Chicago, IL 60611. Phone: +13129530961. Website: https://www.chicagocondofinder.com/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chicago-condo-finder-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chicago-condo-finder-chicago.json",
+   "address": {
+    "streetAddress": "980 North Michigan Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60611",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60611",
+   "geo": {
+    "lat": 41.9005497,
+    "lon": -87.6249109
+   },
+   "phone": "+13129530961",
+   "website": "https://www.chicagocondofinder.com/",
+   "opening_hours": "Mo-Su 08:00-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9216274872",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
    "sponsored": false,
    "slug": "coldwell-banker-saint-paul",
    "name": "Coldwell Banker",
@@ -61,7 +306,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 2,
+   "position": 9,
    "sponsored": false,
    "slug": "edina-realty-eagan",
    "name": "Edina Realty",
@@ -96,7 +341,112 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 3,
+   "position": 10,
+   "sponsored": false,
+   "slug": "gms-realty-group-llc-elmhurst",
+   "name": "GMS Realty Group, LLC",
+   "summary": "GMS Realty Group, LLC is a real estate agency in Elmhurst, IL at 627 North York Street #Suite A, Elmhurst, IL 60126. Phone: +16308334422. Website: https://www.yourchicagohomesearch.com/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gms-realty-group-llc-elmhurst/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gms-realty-group-llc-elmhurst.json",
+   "address": {
+    "streetAddress": "627 North York Street #Suite A",
+    "addressLocality": "Elmhurst",
+    "addressRegion": "IL",
+    "postalCode": "60126",
+    "addressCountry": "US"
+   },
+   "city": "Elmhurst",
+   "state": "IL",
+   "zip": "60126",
+   "geo": {
+    "lat": 41.917913,
+    "lon": -87.9394259
+   },
+   "phone": "+16308334422",
+   "website": "https://www.yourchicagohomesearch.com/",
+   "opening_hours": "Mo-Fr 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6618525270",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 11,
+   "sponsored": false,
+   "slug": "grt-homes-exp-realty-oak-park-and-river-forest-oak-park",
+   "name": "GRT Homes | eXp Realty Oak Park & River Forest",
+   "summary": "GRT Homes | eXp Realty Oak Park & River Forest is a real estate agency in Oak Park, IL at 1010 Lake Street #200, Oak Park, IL 60301. Phone: +13124343187. Website: https://grthomes.com/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/grt-homes-exp-realty-oak-park-and-river-forest-oak-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/grt-homes-exp-realty-oak-park-and-river-forest-oak-park.json",
+   "address": {
+    "streetAddress": "1010 Lake Street #200",
+    "addressLocality": "Oak Park",
+    "addressRegion": "IL",
+    "postalCode": "60301",
+    "addressCountry": "US"
+   },
+   "city": "Oak Park",
+   "state": "IL",
+   "zip": "60301",
+   "geo": {
+    "lat": 41.8890228,
+    "lon": -87.8010665
+   },
+   "phone": "+13124343187",
+   "website": "https://grthomes.com/",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8288863776",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 12,
+   "sponsored": false,
+   "slug": "ivy-residences-chicago",
+   "name": "Ivy Residences",
+   "summary": "Ivy Residences is a real estate agency in Chicago, IL at 1421 East 53rd Street #100, Chicago, IL 60615. Phone: +17733244505. Website: https://rentivy.com/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ivy-residences-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ivy-residences-chicago.json",
+   "address": {
+    "streetAddress": "1421 East 53rd Street #100",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60615",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60615",
+   "geo": {
+    "lat": 41.7993844,
+    "lon": -87.5908251
+   },
+   "phone": "+17733244505",
+   "website": "https://rentivy.com/",
+   "opening_hours": "Mo-Sa 10:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11593802900",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
    "sponsored": false,
    "slug": "lakes-sothebys-international-realty-edina",
    "name": "Lakes Sotheby's International Realty",
@@ -131,7 +481,147 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 4,
+   "position": 14,
+   "sponsored": false,
+   "slug": "lakeside-mortgage-chicago",
+   "name": "Lakeside Mortgage",
+   "summary": "Lakeside Mortgage is a real estate agency in Chicago, IL at 3025 North Western Avenue #1, Chicago, IL 60618. Phone: +17739358829. Website: https://www.lakesidemortgage.net/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lakeside-mortgage-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lakeside-mortgage-chicago.json",
+   "address": {
+    "streetAddress": "3025 North Western Avenue #1",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60618",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60618",
+   "geo": {
+    "lat": 41.9366046,
+    "lon": -87.6877309
+   },
+   "phone": "+17739358829",
+   "website": "https://www.lakesidemortgage.net/",
+   "opening_hours": "Mo-Fri 09:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12142130809",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 15,
+   "sponsored": false,
+   "slug": "mac-properties-chicago",
+   "name": "Mac Properties",
+   "summary": "Mac Properties is a real estate agency in Chicago, IL at 1364 East 53rd Street, Chicago, IL 60615. Phone: +17735485077. Website: https://www.macapartments.com/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mac-properties-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mac-properties-chicago.json",
+   "address": {
+    "streetAddress": "1364 East 53rd Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60615",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60615",
+   "geo": {
+    "lat": 41.799637,
+    "lon": -87.5927293
+   },
+   "phone": "+17735485077",
+   "website": "https://www.macapartments.com/",
+   "opening_hours": "Mo-Sa 09:00-17:00; Su 11:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7732837359",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 16,
+   "sponsored": false,
+   "slug": "maner-realty-co-inc-chicago",
+   "name": "Maner Realty Co Inc",
+   "summary": "Maner Realty Co Inc is a real estate agency in Chicago, IL at 216 East 83rd Street, Chicago, IL 60619. Phone: +17737836474. Website: https://manerrealtyco.com/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/maner-realty-co-inc-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/maner-realty-co-inc-chicago.json",
+   "address": {
+    "streetAddress": "216 East 83rd Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60619",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60619",
+   "geo": {
+    "lat": 41.7439723,
+    "lon": -87.6188314
+   },
+   "phone": "+17737836474",
+   "website": "https://manerrealtyco.com/",
+   "opening_hours": "Mo-Fr 10:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9753881340",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 17,
+   "sponsored": false,
+   "slug": "martin-vehlow-berkshire-hathaway-homeservices-starck-real-estate-palatine",
+   "name": "Martin Vehlow - Berkshire Hathaway HomeServices Starck Real Estate",
+   "summary": "Martin Vehlow - Berkshire Hathaway HomeServices Starck Real Estate is a real estate agency in Palatine, IL at 240 East Northwest Highway, Palatine, IL 60067. Phone: +18472171512. Website: https://lakecountyhomesales.com/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/martin-vehlow-berkshire-hathaway-homeservices-starck-real-estate-palatine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/martin-vehlow-berkshire-hathaway-homeservices-starck-real-estate-palatine.json",
+   "address": {
+    "streetAddress": "240 East Northwest Highway",
+    "addressLocality": "Palatine",
+    "addressRegion": "IL",
+    "postalCode": "60067",
+    "addressCountry": "US"
+   },
+   "city": "Palatine",
+   "state": "IL",
+   "zip": "60067",
+   "geo": {
+    "lat": 42.1203744,
+    "lon": -88.0377288
+   },
+   "phone": "+18472171512",
+   "website": "https://lakecountyhomesales.com/",
+   "opening_hours": "Mo-Th 08:00-20:00; Fr-Sa 08:00-17:00; Su 13:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11226392591",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 18,
    "sponsored": false,
    "slug": "metroplains-management-llc-saint-paul",
    "name": "MetroPlains Management, LLC",
@@ -166,7 +656,112 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 5,
+   "position": 19,
+   "sponsored": false,
+   "slug": "root-realty-chicago",
+   "name": "Root Realty",
+   "summary": "Root Realty is a real estate agency in Chicago, IL at 4237 North Lincoln Avenue, Chicago, IL 60618. Phone: +17733488080. Website: https://www.rootrealty.com/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/root-realty-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/root-realty-chicago.json",
+   "address": {
+    "streetAddress": "4237 North Lincoln Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60618",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60618",
+   "geo": {
+    "lat": 41.958824,
+    "lon": -87.6818057
+   },
+   "phone": "+17733488080",
+   "website": "https://www.rootrealty.com/",
+   "opening_hours": "Mo-Fr 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11359614937",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 20,
+   "sponsored": false,
+   "slug": "the-dan-firks-team-naperville",
+   "name": "The Dan Firks Team",
+   "summary": "The Dan Firks Team is a real estate agency in Naperville, IL at 55 S Main St #Suite 250, Naperville, IL 60540. Phone: +16306379009. Website: https://danfirks.com/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-dan-firks-team-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-dan-firks-team-naperville.json",
+   "address": {
+    "streetAddress": "55 S Main St #Suite 250",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60540",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60540",
+   "geo": {
+    "lat": 41.774222,
+    "lon": -88.1500008
+   },
+   "phone": "+16306379009",
+   "website": "https://danfirks.com/",
+   "opening_hours": "By appointment",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12901263238",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 21,
+   "sponsored": false,
+   "slug": "tom-campone-real-estate-south-loop-chicago",
+   "name": "Tom Campone Real Estate | South Loop",
+   "summary": "Tom Campone Real Estate | South Loop is a real estate agency in Chicago, IL at 1421 South Indiana Avenue, Chicago, IL 60605. Phone: +17025282267. Website: https://www.tomcampone.com/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tom-campone-real-estate-south-loop-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tom-campone-real-estate-south-loop-chicago.json",
+   "address": {
+    "streetAddress": "1421 South Indiana Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60605",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60605",
+   "geo": {
+    "lat": 41.863494,
+    "lon": -87.62215
+   },
+   "phone": "+17025282267",
+   "website": "https://www.tomcampone.com/",
+   "opening_hours": "Mo-Th 08:00-19:00; Fr 08:00-18:00; Sa 11:00-16:00; Su12:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7781903767",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 22,
    "sponsored": false,
    "slug": "whetstone-land-minneapolis",
    "name": "Whetstone Land",
@@ -201,7 +796,42 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 6,
+   "position": 23,
+   "sponsored": false,
+   "slug": "zerillo-realty-norridge",
+   "name": "Zerillo Realty",
+   "summary": "Zerillo Realty is a real estate agency in Norridge, IL at 4840 North Cumberland Avenue, Norridge, IL 60706. Phone: +17085838300. Website: https://www.zerillorealty.com/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/zerillo-realty-norridge/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/zerillo-realty-norridge.json",
+   "address": {
+    "streetAddress": "4840 North Cumberland Avenue",
+    "addressLocality": "Norridge",
+    "addressRegion": "IL",
+    "postalCode": "60706",
+    "addressCountry": "US"
+   },
+   "city": "Norridge",
+   "state": "IL",
+   "zip": "60706",
+   "geo": {
+    "lat": 41.9682916,
+    "lon": -87.8370039
+   },
+   "phone": "+17085838300",
+   "website": "https://www.zerillorealty.com/",
+   "opening_hours": "11:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9442520137",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 24,
    "sponsored": false,
    "slug": "edina-realty-roseville",
    "name": "Edina Realty",
@@ -234,7 +864,41 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 7,
+   "position": 25,
+   "sponsored": false,
+   "slug": "properties-naperville",
+   "name": "@ Properties",
+   "summary": "@ Properties is a real estate agency in Naperville, IL at 1003 South Washington Street, Naperville, IL 60540. Phone: +16306340700. Website: https://www.atproperties.com/chicagoland/offices/naperville.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/properties-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/properties-naperville.json",
+   "address": {
+    "streetAddress": "1003 South Washington Street",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60540",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60540",
+   "geo": {
+    "lat": 41.7559166,
+    "lon": -88.1436512
+   },
+   "phone": "+16306340700",
+   "website": "https://www.atproperties.com/chicagoland/offices/naperville",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9217000175",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 26,
    "sponsored": false,
    "slug": "ashworth-real-estate-coon-rapids",
    "name": "Ashworth Real Estate",
@@ -268,7 +932,75 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 8,
+   "position": 27,
+   "sponsored": false,
+   "slug": "baird-and-warner-arlington-heights",
+   "name": "Baird & Warner",
+   "summary": "Baird & Warner is a real estate agency in Arlington Heights, IL at 210 West Northwest Highway, Arlington Heights, IL 60004. Phone: +18473921855. Website: https://www.bairdwarner.com/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/baird-and-warner-arlington-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/baird-and-warner-arlington-heights.json",
+   "address": {
+    "streetAddress": "210 West Northwest Highway",
+    "addressLocality": "Arlington Heights",
+    "addressRegion": "IL",
+    "postalCode": "60004",
+    "addressCountry": "US"
+   },
+   "city": "Arlington Heights",
+   "state": "IL",
+   "zip": "60004",
+   "geo": {
+    "lat": 42.0860519,
+    "lon": -87.9857928
+   },
+   "phone": "+18473921855",
+   "website": "https://www.bairdwarner.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13026968350",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 28,
+   "sponsored": false,
+   "slug": "baird-and-warner-naperville",
+   "name": "Baird & Warner",
+   "summary": "Baird & Warner is a real estate agency in Naperville, IL at 836 75th Street, Naperville, IL 60565. Phone: +16307781855. Website: https://www.bairdwarner.com/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/baird-and-warner-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/baird-and-warner-naperville.json",
+   "address": {
+    "streetAddress": "836 75th Street",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60565",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60565",
+   "geo": {
+    "lat": 41.7471056,
+    "lon": -88.1618772
+   },
+   "phone": "+16307781855",
+   "website": "https://www.bairdwarner.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/200665158",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 29,
    "sponsored": false,
    "slug": "bigos-management-inc-golden-valley",
    "name": "Bigos Management, Inc.",
@@ -302,7 +1034,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 9,
+   "position": 30,
    "sponsored": false,
    "slug": "brkw-appraisals-inc-saint-paul",
    "name": "BRKW Appraisals, Inc",
@@ -336,7 +1068,75 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 10,
+   "position": 31,
+   "sponsored": false,
+   "slug": "century-21-new-lenox",
+   "name": "Century 21",
+   "summary": "Century 21 is a real estate agency in New Lenox, IL at 208 North Cedar Road, New Lenox, IL 60451. Phone: +18154854421. Website: https://www.c21pride.com/Home.aspx.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/century-21-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/century-21-new-lenox.json",
+   "address": {
+    "streetAddress": "208 North Cedar Road",
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "postalCode": "60451",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "zip": "60451",
+   "geo": {
+    "lat": 41.5134661,
+    "lon": -87.9662126
+   },
+   "phone": "+18154854421",
+   "website": "https://www.c21pride.com/Home.aspx",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/995777699",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 32,
+   "sponsored": false,
+   "slug": "century-21-circle-westchester",
+   "name": "Century 21 Circle",
+   "summary": "Century 21 Circle is a real estate agency in Westchester, IL at 1860 South Mannheim Road, Westchester, IL 60154. Phone: +17085300800. Website: https://www.century21.com/real-estate-office/profile/circle-10019087.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/century-21-circle-westchester/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/century-21-circle-westchester.json",
+   "address": {
+    "streetAddress": "1860 South Mannheim Road",
+    "addressLocality": "Westchester",
+    "addressRegion": "IL",
+    "postalCode": "60154",
+    "addressCountry": "US"
+   },
+   "city": "Westchester",
+   "state": "IL",
+   "zip": "60154",
+   "geo": {
+    "lat": 41.8522921,
+    "lon": -87.8822237
+   },
+   "phone": "+17085300800",
+   "website": "https://www.century21.com/real-estate-office/profile/circle-10019087",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1352577397",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 33,
    "sponsored": false,
    "slug": "dan-frank-top-twin-cities-realtor-re-max-advantage-plus-minnetonka",
    "name": "Dan Frank – Top Twin Cities Realtor | RE/MAX Advantage Plus",
@@ -370,7 +1170,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 11,
+   "position": 34,
    "sponsored": false,
    "slug": "dave-brown-realtors-shakopee",
    "name": "Dave Brown Realtors",
@@ -404,7 +1204,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 12,
+   "position": 35,
    "sponsored": false,
    "slug": "david-a-maggitt-state-farm-golden-valley",
    "name": "David A Maggitt - State Farm",
@@ -438,7 +1238,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 13,
+   "position": 36,
    "sponsored": false,
    "slug": "direct-access-realty-llc-minneapolis",
    "name": "Direct Access Realty LLC",
@@ -472,7 +1272,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 14,
+   "position": 37,
    "sponsored": false,
    "slug": "edina-realty-saint-louis-park",
    "name": "Edina Realty",
@@ -506,7 +1306,75 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 15,
+   "position": 38,
+   "sponsored": false,
+   "slug": "era-naper-realty-naperville",
+   "name": "ERA Naper Realty",
+   "summary": "ERA Naper Realty is a real estate agency in Naperville, IL at 865 North Columbia Street, Naperville, IL 60563. Phone: +16309611776. Website: https://www.eranaper.com/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/era-naper-realty-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/era-naper-realty-naperville.json",
+   "address": {
+    "streetAddress": "865 North Columbia Street",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60563",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60563",
+   "geo": {
+    "lat": 41.7852173,
+    "lon": -88.1370791
+   },
+   "phone": "+16309611776",
+   "website": "https://www.eranaper.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8512249904",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 39,
+   "sponsored": false,
+   "slug": "fox-title-company-naperville",
+   "name": "Fox Title Company",
+   "summary": "Fox Title Company is a real estate agency in Naperville, IL at 270 West Diehl Road, Naperville, IL 60563. Phone: +16308350400. Website: https://www.foxtitle.com/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fox-title-company-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fox-title-company-naperville.json",
+   "address": {
+    "streetAddress": "270 West Diehl Road",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60563",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60563",
+   "geo": {
+    "lat": 41.8009926,
+    "lon": -88.1516225
+   },
+   "phone": "+16308350400",
+   "website": "https://www.foxtitle.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/656804366",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 40,
    "sponsored": false,
    "slug": "gold-group-realty-minneapolis",
    "name": "Gold Group Realty",
@@ -540,7 +1408,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 16,
+   "position": 41,
    "sponsored": false,
    "slug": "hartley-properties-minneapolis",
    "name": "Hartley Properties",
@@ -574,7 +1442,41 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 17,
+   "position": 42,
+   "sponsored": false,
+   "slug": "homesmart-realty-naperville",
+   "name": "HomeSmart Realty",
+   "summary": "HomeSmart Realty is a real estate agency in Naperville, IL at 651 North Washington Street, Naperville, IL 60563. Phone: +16305780002. Website: https://homesmart.com/real-estate-office/office/naperville-il/naperville---homesmart-realty-group/hs0032.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/homesmart-realty-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/homesmart-realty-naperville.json",
+   "address": {
+    "streetAddress": "651 North Washington Street",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60563",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60563",
+   "geo": {
+    "lat": 41.7833681,
+    "lon": -88.147698
+   },
+   "phone": "+16305780002",
+   "website": "https://homesmart.com/real-estate-office/office/naperville-il/naperville---homesmart-realty-group/hs0032",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8498743294",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 43,
    "sponsored": false,
    "slug": "homesmsp-plymouth",
    "name": "HomesMSP",
@@ -608,7 +1510,143 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 18,
+   "position": 44,
+   "sponsored": false,
+   "slug": "infiniti-properties-chicago",
+   "name": "Infiniti Properties",
+   "summary": "Infiniti Properties is a real estate agency in Chicago, IL at 903 West Irving Park Road, Chicago, IL 60613. Phone: +17082063000. Website: https://www.infinitiproperties.net/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/infiniti-properties-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/infiniti-properties-chicago.json",
+   "address": {
+    "streetAddress": "903 West Irving Park Road",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60613",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60613",
+   "geo": {
+    "lat": 41.9544049,
+    "lon": -87.6524345
+   },
+   "phone": "+17082063000",
+   "website": "https://www.infinitiproperties.net/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10309692837",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 45,
+   "sponsored": false,
+   "slug": "kim-phillips-cris-realty-new-lenox",
+   "name": "Kim Phillips CRIS Realty",
+   "summary": "Kim Phillips CRIS Realty is a real estate agency in New Lenox, IL at 1200 East Lincoln Highway, New Lenox, IL 60451. Phone: +18159540650. Website: https://homeasap.com/kimphillips2.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kim-phillips-cris-realty-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kim-phillips-cris-realty-new-lenox.json",
+   "address": {
+    "streetAddress": "1200 East Lincoln Highway",
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "postalCode": "60451",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "zip": "60451",
+   "geo": {
+    "lat": 41.5122092,
+    "lon": -87.9420818
+   },
+   "phone": "+18159540650",
+   "website": "https://homeasap.com/kimphillips2",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/995777669",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 46,
+   "sponsored": false,
+   "slug": "konnerth-reality-group-wauconda",
+   "name": "Konnerth Reality Group",
+   "summary": "Konnerth Reality Group is a real estate agency in Wauconda, IL at North Main Street, Wauconda, IL 60084. Phone: +18473548601. Website: https://www.konnerthrealtygroup.com/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/konnerth-reality-group-wauconda/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/konnerth-reality-group-wauconda.json",
+   "address": {
+    "streetAddress": "North Main Street",
+    "addressLocality": "Wauconda",
+    "addressRegion": "IL",
+    "postalCode": "60084",
+    "addressCountry": "US"
+   },
+   "city": "Wauconda",
+   "state": "IL",
+   "zip": "60084",
+   "geo": {
+    "lat": 42.2598377,
+    "lon": -88.1412102
+   },
+   "phone": "+18473548601",
+   "website": "https://www.konnerthrealtygroup.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9258853880",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 47,
+   "sponsored": false,
+   "slug": "mcallister-real-estate-roselle",
+   "name": "McAllister Real Estate",
+   "summary": "McAllister Real Estate is a real estate agency in Roselle, IL at 111 Main Street #A, Roselle, IL 60172. Phone: +16303540444. Website: https://mcallisterrealestategroup.com/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mcallister-real-estate-roselle/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mcallister-real-estate-roselle.json",
+   "address": {
+    "streetAddress": "111 Main Street #A",
+    "addressLocality": "Roselle",
+    "addressRegion": "IL",
+    "postalCode": "60172",
+    "addressCountry": "US"
+   },
+   "city": "Roselle",
+   "state": "IL",
+   "zip": "60172",
+   "geo": {
+    "lat": 41.9831399,
+    "lon": -88.0770265
+   },
+   "phone": "+16303540444",
+   "website": "https://mcallisterrealestategroup.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/14024668195",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 48,
    "sponsored": false,
    "slug": "new-concepts-management-group-saint-louis-park",
    "name": "New Concepts Management Group",
@@ -642,7 +1680,41 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 19,
+   "position": 49,
+   "sponsored": false,
+   "slug": "perkins-and-zayed-pc-wheaton",
+   "name": "Perkins & Zayed PC",
+   "summary": "Perkins & Zayed PC is a real estate agency in Wheaton, IL at 1745 South Naperville Road #200, Wheaton, IL 60189. Phone: +16306652300. Website: https://www.trust-lawgroup.com/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/perkins-and-zayed-pc-wheaton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/perkins-and-zayed-pc-wheaton.json",
+   "address": {
+    "streetAddress": "1745 South Naperville Road #200",
+    "addressLocality": "Wheaton",
+    "addressRegion": "IL",
+    "postalCode": "60189",
+    "addressCountry": "US"
+   },
+   "city": "Wheaton",
+   "state": "IL",
+   "zip": "60189",
+   "geo": {
+    "lat": 41.8399389,
+    "lon": -88.1012514
+   },
+   "phone": "+16306652300",
+   "website": "https://www.trust-lawgroup.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5135017453",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 50,
    "sponsored": false,
    "slug": "quinby-partners-edina",
    "name": "Quinby Partners",
@@ -676,7 +1748,41 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 20,
+   "position": 51,
+   "sponsored": false,
+   "slug": "re-max-action-lisle",
+   "name": "RE/MAX Action",
+   "summary": "RE/MAX Action is a real estate agency in Lisle, IL at 1550 Maple Avenue #A, Lisle, IL 60532. Phone: +16308243408. Website: https://www.gochicagolandhomes.com/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/re-max-action-lisle/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/re-max-action-lisle.json",
+   "address": {
+    "streetAddress": "1550 Maple Avenue #A",
+    "addressLocality": "Lisle",
+    "addressRegion": "IL",
+    "postalCode": "60532",
+    "addressCountry": "US"
+   },
+   "city": "Lisle",
+   "state": "IL",
+   "zip": "60532",
+   "geo": {
+    "lat": 41.7859181,
+    "lon": -88.0821569
+   },
+   "phone": "+16308243408",
+   "website": "https://www.gochicagolandhomes.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1422963996",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 52,
    "sponsored": false,
    "slug": "re-max-elite-robbinsdale",
    "name": "RE/MAX Elite",
@@ -710,7 +1816,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 21,
+   "position": 53,
    "sponsored": false,
    "slug": "real-estate-corners-inc-blaine",
    "name": "Real Estate Corners, Inc",
@@ -742,7 +1848,75 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 22,
+   "position": 54,
+   "sponsored": false,
+   "slug": "real-estate-sales-academy-edison-park-chicago",
+   "name": "Real Estate Sales Academy - Edison Park",
+   "summary": "Real Estate Sales Academy - Edison Park is a real estate agency in Chicago, IL at 6126 North Northwest Highway, Chicago, IL 60631. Phone: +17738884200. Website: https://resacampus.com/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/real-estate-sales-academy-edison-park-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/real-estate-sales-academy-edison-park-chicago.json",
+   "address": {
+    "streetAddress": "6126 North Northwest Highway",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60631",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60631",
+   "geo": {
+    "lat": 41.9927827,
+    "lon": -87.8000596
+   },
+   "phone": "+17738884200",
+   "website": "https://resacampus.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8608070405",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 55,
+   "sponsored": false,
+   "slug": "realty-executives-downers-grove",
+   "name": "Realty Executives",
+   "summary": "Realty Executives is a real estate agency in Downers Grove, IL at 943 Maple Avenue, Downers Grove, IL 60515. Phone: +16307699050. Website: https://realtyexecutivesgrove.com/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/realty-executives-downers-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/realty-executives-downers-grove.json",
+   "address": {
+    "streetAddress": "943 Maple Avenue",
+    "addressLocality": "Downers Grove",
+    "addressRegion": "IL",
+    "postalCode": "60515",
+    "addressCountry": "US"
+   },
+   "city": "Downers Grove",
+   "state": "IL",
+   "zip": "60515",
+   "geo": {
+    "lat": 41.7915682,
+    "lon": -88.0088999
+   },
+   "phone": "+16307699050",
+   "website": "https://realtyexecutivesgrove.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4586960962",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 56,
    "sponsored": false,
    "slug": "rnr-realty-international-saint-louis-park",
    "name": "RNR Realty International",
@@ -776,7 +1950,41 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 23,
+   "position": 57,
+   "sponsored": false,
+   "slug": "ryan-and-company-realtors-wauconda",
+   "name": "Ryan & Company Realtors",
+   "summary": "Ryan & Company Realtors is a real estate agency in Wauconda, IL at 206 North Main Street, Wauconda, IL 60084. Phone: +18475260300. Website: https://ryanrealtors.com/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ryan-and-company-realtors-wauconda/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ryan-and-company-realtors-wauconda.json",
+   "address": {
+    "streetAddress": "206 North Main Street",
+    "addressLocality": "Wauconda",
+    "addressRegion": "IL",
+    "postalCode": "60084",
+    "addressCountry": "US"
+   },
+   "city": "Wauconda",
+   "state": "IL",
+   "zip": "60084",
+   "geo": {
+    "lat": 42.2594623,
+    "lon": -88.1402016
+   },
+   "phone": "+18475260300",
+   "website": "https://ryanrealtors.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9816445994",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 58,
    "sponsored": false,
    "slug": "saturday-properties-saint-louis-park",
    "name": "Saturday Properties",
@@ -810,7 +2018,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 24,
+   "position": 59,
    "sponsored": false,
    "slug": "suntide-commercial-realty-inc-saint-paul",
    "name": "Suntide Commercial Realty, Inc.",
@@ -844,7 +2052,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 25,
+   "position": 60,
    "sponsored": false,
    "slug": "sylvia-i-anderson-realty-minneapolis",
    "name": "Sylvia I. Anderson Realty",
@@ -878,7 +2086,75 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 26,
+   "position": 61,
+   "sponsored": false,
+   "slug": "the-elite-real-estate-company-hillside",
+   "name": "The Elite Real Estate Company",
+   "summary": "The Elite Real Estate Company is a real estate agency in Hillside, IL at 341 Laverne Avenue #B, Hillside, IL 60162. Phone: +17085441717. Website: https://www.eliterealestateil.com/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-elite-real-estate-company-hillside/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-elite-real-estate-company-hillside.json",
+   "address": {
+    "streetAddress": "341 Laverne Avenue #B",
+    "addressLocality": "Hillside",
+    "addressRegion": "IL",
+    "postalCode": "60162",
+    "addressCountry": "US"
+   },
+   "city": "Hillside",
+   "state": "IL",
+   "zip": "60162",
+   "geo": {
+    "lat": 41.8770729,
+    "lon": -87.9037068
+   },
+   "phone": "+17085441717",
+   "website": "https://www.eliterealestateil.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5930858894",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 62,
+   "sponsored": false,
+   "slug": "veritas-house-chicago",
+   "name": "Veritas House",
+   "summary": "Veritas House is a real estate agency in Chicago, IL at 850 South Wabash Avenue #210, Chicago, IL 60605. Phone: +13127360322. Website: https://soberlivingchicago.org/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/veritas-house-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/veritas-house-chicago.json",
+   "address": {
+    "streetAddress": "850 South Wabash Avenue #210",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60605",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60605",
+   "geo": {
+    "lat": 41.8790314,
+    "lon": -87.6266723
+   },
+   "phone": "+13127360322",
+   "website": "https://soberlivingchicago.org/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6029028703",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 63,
    "sponsored": false,
    "slug": "delisle-realtors-saint-paul",
    "name": "DeLisle Realtors",
@@ -910,7 +2186,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 27,
+   "position": 64,
    "sponsored": false,
    "slug": "re-max-minneapolis",
    "name": "RE/MAX",
@@ -942,7 +2218,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 28,
+   "position": 65,
    "sponsored": false,
    "slug": "edina-reality-blaine",
    "name": "Edina Reality",
@@ -976,7 +2252,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 29,
+   "position": 66,
    "sponsored": false,
    "slug": "al-theisen-renovations-minneapolis",
    "name": "Al Theisen Renovations",
@@ -1009,7 +2285,106 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 30,
+   "position": 67,
+   "sponsored": false,
+   "slug": "anthony-g-loukas-chicago",
+   "name": "Anthony G. Loukas",
+   "summary": "Anthony G. Loukas is a real estate agency in Chicago, IL at 3916 North Sheridan Road, Chicago, IL 60613. Phone: +13129381500.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/anthony-g-loukas-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/anthony-g-loukas-chicago.json",
+   "address": {
+    "streetAddress": "3916 North Sheridan Road",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60613",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60613",
+   "geo": {
+    "lat": 41.9531589,
+    "lon": -87.654674
+   },
+   "phone": "+13129381500",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11234357885",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 68,
+   "sponsored": false,
+   "slug": "berkshire-hathaway-homeservices-western-springs",
+   "name": "Berkshire Hathaway HomeServices",
+   "summary": "Berkshire Hathaway HomeServices is a real estate agency in Western Springs, IL at 824 Hillgrove Avenue, Western Springs, IL 60558. Phone: +17084084352.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/berkshire-hathaway-homeservices-western-springs/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/berkshire-hathaway-homeservices-western-springs.json",
+   "address": {
+    "streetAddress": "824 Hillgrove Avenue",
+    "addressLocality": "Western Springs",
+    "addressRegion": "IL",
+    "postalCode": "60558",
+    "addressCountry": "US"
+   },
+   "city": "Western Springs",
+   "state": "IL",
+   "zip": "60558",
+   "geo": {
+    "lat": 41.8097954,
+    "lon": -87.8998596
+   },
+   "phone": "+17084084352",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9603226072",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 69,
+   "sponsored": false,
+   "slug": "best-chicago-properties-chicago",
+   "name": "Best Chicago Properties",
+   "summary": "Best Chicago Properties is a real estate agency in Chicago, IL at 847 West Monroe Street, Chicago, IL 60607. Website: https://www.bestchicagoproperties.com/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/best-chicago-properties-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/best-chicago-properties-chicago.json",
+   "address": {
+    "streetAddress": "847 West Monroe Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60607",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60607",
+   "geo": {
+    "lat": 41.8803098,
+    "lon": -87.6491793
+   },
+   "website": "https://www.bestchicagoproperties.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12479624551",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 70,
    "sponsored": false,
    "slug": "buyself-realty-inc-bloomington",
    "name": "BuySelf Realty, Inc.",
@@ -1042,7 +2417,106 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 31,
+   "position": 71,
+   "sponsored": false,
+   "slug": "cheryl-bellavia-chicago",
+   "name": "Cheryl Bellavia",
+   "summary": "Cheryl Bellavia is a real estate agency in Chicago, IL at 6122 North Northwest Highway, Chicago, IL 60631. Phone: +17738884200.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cheryl-bellavia-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cheryl-bellavia-chicago.json",
+   "address": {
+    "streetAddress": "6122 North Northwest Highway",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60631",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60631",
+   "geo": {
+    "lat": 41.9927178,
+    "lon": -87.7999574
+   },
+   "phone": "+17738884200",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8608070403",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 72,
+   "sponsored": false,
+   "slug": "coldwell-banker-realty-lincoln-park-clybourn-chicago",
+   "name": "Coldwell Banker Realty - Lincoln Park Clybourn",
+   "summary": "Coldwell Banker Realty - Lincoln Park Clybourn is a real estate agency in Chicago, IL at 1910 North Clybourn Avenue, Chicago, IL 60614. Website: https://www.coldwellbankerhomes.com/il/chicago/office/lincoln-park/oid_3312/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/coldwell-banker-realty-lincoln-park-clybourn-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/coldwell-banker-realty-lincoln-park-clybourn-chicago.json",
+   "address": {
+    "streetAddress": "1910 North Clybourn Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60614",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60614",
+   "geo": {
+    "lat": 41.9158227,
+    "lon": -87.6567288
+   },
+   "website": "https://www.coldwellbankerhomes.com/il/chicago/office/lincoln-park/oid_3312/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/14022938776",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 73,
+   "sponsored": false,
+   "slug": "dixon-realtors-western-springs",
+   "name": "Dixon Realtors",
+   "summary": "Dixon Realtors is a real estate agency in Western Springs, IL at 820 Hillgrove Avenue, Western Springs, IL 60558. Phone: +17087841000.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dixon-realtors-western-springs/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dixon-realtors-western-springs.json",
+   "address": {
+    "streetAddress": "820 Hillgrove Avenue",
+    "addressLocality": "Western Springs",
+    "addressRegion": "IL",
+    "postalCode": "60558",
+    "addressCountry": "US"
+   },
+   "city": "Western Springs",
+   "state": "IL",
+   "zip": "60558",
+   "geo": {
+    "lat": 41.8098379,
+    "lon": -87.8996147
+   },
+   "phone": "+17087841000",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9603226070",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 74,
    "sponsored": false,
    "slug": "eagle-nesters-realty-minneapolis",
    "name": "Eagle Nesters Realty",
@@ -1075,7 +2549,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 32,
+   "position": 75,
    "sponsored": false,
    "slug": "edina-realty-minneapolis",
    "name": "Edina Realty",
@@ -1108,7 +2582,73 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 33,
+   "position": 76,
+   "sponsored": false,
+   "slug": "fairgreen-real-estate-chicago",
+   "name": "FairGreen Real Estate",
+   "summary": "FairGreen Real Estate is a real estate agency in Chicago, IL at 3902 North Sheridan Road, Chicago, IL 60613. Phone: +17739048256.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fairgreen-real-estate-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fairgreen-real-estate-chicago.json",
+   "address": {
+    "streetAddress": "3902 North Sheridan Road",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60613",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60613",
+   "geo": {
+    "lat": 41.9528557,
+    "lon": -87.6546646
+   },
+   "phone": "+17739048256",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11234357883",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 77,
+   "sponsored": false,
+   "slug": "magnet-realty-chicago",
+   "name": "Magnet Realty",
+   "summary": "Magnet Realty is a real estate agency in Chicago, IL at 6121 North Northwest Highway #103, Chicago, IL 60631. Phone: +17737746900.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/magnet-realty-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/magnet-realty-chicago.json",
+   "address": {
+    "streetAddress": "6121 North Northwest Highway #103",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60631",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60631",
+   "geo": {
+    "lat": 41.9929408,
+    "lon": -87.7995198
+   },
+   "phone": "+17737746900",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8608070401",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 78,
    "sponsored": false,
    "slug": "malmberg-projects-saint-paul",
    "name": "Malmberg Projects",
@@ -1141,7 +2681,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 34,
+   "position": 79,
    "sponsored": false,
    "slug": "odd-couple-team-keller-williams-integrity-realty-saint-paul",
    "name": "Odd Couple Team Keller Williams Integrity Realty",
@@ -1174,7 +2714,172 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 35,
+   "position": 80,
+   "sponsored": false,
+   "slug": "parker-holsman-chicago",
+   "name": "Parker Holsman",
+   "summary": "Parker Holsman is a real estate agency in Chicago, IL at 1461 East 57th Street, Chicago, IL 60637. Website: https://www.parkerholsman.com/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/parker-holsman-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/parker-holsman-chicago.json",
+   "address": {
+    "streetAddress": "1461 East 57th Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60637",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60637",
+   "geo": {
+    "lat": 41.791413,
+    "lon": -87.5892727
+   },
+   "website": "https://www.parkerholsman.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6128975191",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 81,
+   "sponsored": false,
+   "slug": "r2-companies-chicago",
+   "name": "R2 Companies",
+   "summary": "R2 Companies is a real estate agency in Chicago, IL at 40 East Huron Street, Chicago, IL 60611. Website: https://r2.me/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/r2-companies-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/r2-companies-chicago.json",
+   "address": {
+    "streetAddress": "40 East Huron Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60611",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60611",
+   "geo": {
+    "lat": 41.8950819,
+    "lon": -87.6262135
+   },
+   "website": "https://r2.me/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10274854552",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 82,
+   "sponsored": false,
+   "slug": "re-max-naperville",
+   "name": "RE/MAX",
+   "summary": "RE/MAX is a real estate agency in Naperville, IL at 1220 Iroquois Avenue #100, Naperville, IL 60563. Website: https://www.remax.com/real-estate-offices/remax-of-naperville-naperville-il/100425600.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/re-max-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/re-max-naperville.json",
+   "address": {
+    "streetAddress": "1220 Iroquois Avenue #100",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60563",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60563",
+   "geo": {
+    "lat": 41.7945633,
+    "lon": -88.1248704
+   },
+   "website": "https://www.remax.com/real-estate-offices/remax-of-naperville-naperville-il/100425600",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9104706321",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 83,
+   "sponsored": false,
+   "slug": "re-max-mi-casa-chicago",
+   "name": "RE/MAX Mi Casa",
+   "summary": "RE/MAX Mi Casa is a real estate agency in Chicago, IL at 5455 South Pulaski Road, Chicago, IL 60632. Website: https://mi-casa-chicago-il.remax.com/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/re-max-mi-casa-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/re-max-mi-casa-chicago.json",
+   "address": {
+    "streetAddress": "5455 South Pulaski Road",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60632",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60632",
+   "geo": {
+    "lat": 41.7934821,
+    "lon": -87.7229129
+   },
+   "website": "https://mi-casa-chicago-il.remax.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/163670963",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 84,
+   "sponsored": false,
+   "slug": "re-max-properties-western-springs",
+   "name": "Re/Max Properties",
+   "summary": "Re/Max Properties is a real estate agency in Western Springs, IL at 819 Burlington Avenue, Western Springs, IL 60558. Website: https://www.remaxproperties.illinoisproperty.com/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/re-max-properties-western-springs/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/re-max-properties-western-springs.json",
+   "address": {
+    "streetAddress": "819 Burlington Avenue",
+    "addressLocality": "Western Springs",
+    "addressRegion": "IL",
+    "postalCode": "60558",
+    "addressCountry": "US"
+   },
+   "city": "Western Springs",
+   "state": "IL",
+   "zip": "60558",
+   "geo": {
+    "lat": 41.8091183,
+    "lon": -87.8994599
+   },
+   "website": "https://www.remaxproperties.illinoisproperty.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9603184572",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 85,
    "sponsored": false,
    "slug": "re-max-results-saint-paul",
    "name": "RE/MAX Results",
@@ -1207,7 +2912,73 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 36,
+   "position": 86,
+   "sponsored": false,
+   "slug": "strategic-properties-skokie",
+   "name": "Strategic Properties",
+   "summary": "Strategic Properties is a real estate agency in Skokie, IL at 5009 Oakton Street, Skokie, IL 60077. Website: https://www.spofna.com/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/strategic-properties-skokie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/strategic-properties-skokie.json",
+   "address": {
+    "streetAddress": "5009 Oakton Street",
+    "addressLocality": "Skokie",
+    "addressRegion": "IL",
+    "postalCode": "60077",
+    "addressCountry": "US"
+   },
+   "city": "Skokie",
+   "state": "IL",
+   "zip": "60077",
+   "geo": {
+    "lat": 42.0260458,
+    "lon": -87.7528786
+   },
+   "website": "https://www.spofna.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/695778677",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 87,
+   "sponsored": false,
+   "slug": "tj-mccarthy-and-associates-tinley-park",
+   "name": "TJ McCarthy & Associates",
+   "summary": "TJ McCarthy & Associates is a real estate agency in Tinley Park, IL at 7903 West 159th Street #B, Tinley Park, IL 60477. Website: https://tjmccarthy.com/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tj-mccarthy-and-associates-tinley-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tj-mccarthy-and-associates-tinley-park.json",
+   "address": {
+    "streetAddress": "7903 West 159th Street #B",
+    "addressLocality": "Tinley Park",
+    "addressRegion": "IL",
+    "postalCode": "60477",
+    "addressCountry": "US"
+   },
+   "city": "Tinley Park",
+   "state": "IL",
+   "zip": "60477",
+   "geo": {
+    "lat": 41.601237,
+    "lon": -87.8114782
+   },
+   "website": "https://tjmccarthy.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11147691152",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 88,
    "sponsored": false,
    "slug": "uptown-realty-and-management-minneapolis",
    "name": "Uptown Realty & Management",
@@ -1240,7 +3011,40 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 37,
+   "position": 89,
+   "sponsored": false,
+   "slug": "val-realty-and-management-company-chicago",
+   "name": "Val Realty & Management Company",
+   "summary": "Val Realty & Management Company is a real estate agency in Chicago, IL at 2218 North Geneva Terrace, Chicago, IL 60614. Phone: +17738835151.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/val-realty-and-management-company-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/val-realty-and-management-company-chicago.json",
+   "address": {
+    "streetAddress": "2218 North Geneva Terrace",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60614",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60614",
+   "geo": {
+    "lat": 41.9224998,
+    "lon": -87.6439626
+   },
+   "phone": "+17738835151",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9940742814",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 90,
    "sponsored": false,
    "slug": "vibe-realty-saint-paul",
    "name": "Vibe Realty",
@@ -1273,7 +3077,104 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 38,
+   "position": 91,
+   "sponsored": false,
+   "slug": "weichert-tinley-park",
+   "name": "Weichert",
+   "summary": "Weichert is a real estate agency in Tinley Park, IL at 7903 West 159th Street #A, Tinley Park, IL 60477. Website: https://www.weichert-thehometeam.com/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/weichert-tinley-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/weichert-tinley-park.json",
+   "address": {
+    "streetAddress": "7903 West 159th Street #A",
+    "addressLocality": "Tinley Park",
+    "addressRegion": "IL",
+    "postalCode": "60477",
+    "addressCountry": "US"
+   },
+   "city": "Tinley Park",
+   "state": "IL",
+   "zip": "60477",
+   "geo": {
+    "lat": 41.6012877,
+    "lon": -87.8113184
+   },
+   "website": "https://www.weichert-thehometeam.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11147691150",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 92,
+   "sponsored": false,
+   "slug": "becknell-industrial-la-grange",
+   "name": "Becknell Industrial",
+   "summary": "Becknell Industrial is a real estate agency in La Grange, IL at 120 East Burlington Avenue, La Grange, IL. Website: https://becknellindustrial.com/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/becknell-industrial-la-grange/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/becknell-industrial-la-grange.json",
+   "address": {
+    "streetAddress": "120 East Burlington Avenue",
+    "addressLocality": "La Grange",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "La Grange",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8163302,
+    "lon": -87.8672758
+   },
+   "website": "https://becknellindustrial.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/614988895",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 93,
+   "sponsored": false,
+   "slug": "baird-and-warner-downers-grove",
+   "name": "Baird & Warner",
+   "summary": "Baird & Warner is a real estate agency in Downers Grove, IL at 724 Ogden Avenue, Downers Grove, IL 60515.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/baird-and-warner-downers-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/baird-and-warner-downers-grove.json",
+   "address": {
+    "streetAddress": "724 Ogden Avenue",
+    "addressLocality": "Downers Grove",
+    "addressRegion": "IL",
+    "postalCode": "60515",
+    "addressCountry": "US"
+   },
+   "city": "Downers Grove",
+   "state": "IL",
+   "zip": "60515",
+   "geo": {
+    "lat": 41.8094558,
+    "lon": -88.0034001
+   },
+   "opening_hours": "Mo-Fr 09:00-18:00; Sa-Su closed; PH closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10295606488",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 94,
    "sponsored": false,
    "slug": "rubicon-mortgage-advisors-minneapolis",
    "name": "Rubicon Mortgage Advisors",
@@ -1304,7 +3205,37 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 39,
+   "position": 95,
+   "sponsored": false,
+   "slug": "properties-downers-grove",
+   "name": "@properties",
+   "summary": "@properties is a real estate agency in Downers Grove, IL. Phone: +16302410800.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/properties-downers-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/properties-downers-grove.json",
+   "address": {
+    "addressLocality": "Downers Grove",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Downers Grove",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7959965,
+    "lon": -88.0108391
+   },
+   "phone": "+16302410800",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9847087918",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 96,
    "sponsored": false,
    "slug": "edina-realty-saint-paul-n8923255114",
    "name": "Edina Realty",
@@ -1334,7 +3265,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 40,
+   "position": 97,
    "sponsored": false,
    "slug": "emerald-real-estate-edina",
    "name": "Emerald Real Estate",
@@ -1364,7 +3295,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 41,
+   "position": 98,
    "sponsored": false,
    "slug": "nevers-perpich-real-estate-edina",
    "name": "Nevers | Perpich Real Estate",
@@ -1394,7 +3325,231 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 42,
+   "position": 99,
+   "sponsored": false,
+   "slug": "properties-christie-s-international-real-estate-chicago",
+   "name": "@ Properties Christie’s International Real Estate",
+   "summary": "@ Properties Christie’s International Real Estate is a real estate agency in Chicago, IL at 2241 West Howard Street, Chicago, IL 60645.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/properties-christie-s-international-real-estate-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/properties-christie-s-international-real-estate-chicago.json",
+   "address": {
+    "streetAddress": "2241 West Howard Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60645",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60645",
+   "geo": {
+    "lat": 42.0192057,
+    "lon": -87.6863084
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13627184013",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 100,
+   "sponsored": false,
+   "slug": "atlas-realty-group-chicago",
+   "name": "Atlas Realty Group",
+   "summary": "Atlas Realty Group is a real estate agency in Chicago, IL at 5345 West Lawrence Avenue, Chicago, IL 60630.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/atlas-realty-group-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/atlas-realty-group-chicago.json",
+   "address": {
+    "streetAddress": "5345 West Lawrence Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60630",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60630",
+   "geo": {
+    "lat": 41.967404,
+    "lon": -87.7613046
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4238792310",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 101,
+   "sponsored": false,
+   "slug": "baird-and-warner-chicago",
+   "name": "Baird & Warner",
+   "summary": "Baird & Warner is a real estate agency in Chicago, IL at 5430 West Devon Avenue, Chicago, IL 60646.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/baird-and-warner-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/baird-and-warner-chicago.json",
+   "address": {
+    "streetAddress": "5430 West Devon Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60646",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60646",
+   "geo": {
+    "lat": 41.9976276,
+    "lon": -87.7650346
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/667799834",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 102,
+   "sponsored": false,
+   "slug": "baird-and-warner-evanston",
+   "name": "Baird & Warner",
+   "summary": "Baird & Warner is a real estate agency in Evanston, IL at 2926 Central Street, Evanston, IL 60201.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/baird-and-warner-evanston/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/baird-and-warner-evanston.json",
+   "address": {
+    "streetAddress": "2926 Central Street",
+    "addressLocality": "Evanston",
+    "addressRegion": "IL",
+    "postalCode": "60201",
+    "addressCountry": "US"
+   },
+   "city": "Evanston",
+   "state": "IL",
+   "zip": "60201",
+   "geo": {
+    "lat": 42.0643188,
+    "lon": -87.7158482
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2295250191",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 103,
+   "sponsored": false,
+   "slug": "baird-and-warner-oak-park",
+   "name": "Baird & Warner",
+   "summary": "Baird & Warner is a real estate agency in Oak Park, IL at 1037 Chicago Avenue, Oak Park, IL 60302.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/baird-and-warner-oak-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/baird-and-warner-oak-park.json",
+   "address": {
+    "streetAddress": "1037 Chicago Avenue",
+    "addressLocality": "Oak Park",
+    "addressRegion": "IL",
+    "postalCode": "60302",
+    "addressCountry": "US"
+   },
+   "city": "Oak Park",
+   "state": "IL",
+   "zip": "60302",
+   "geo": {
+    "lat": 41.8940864,
+    "lon": -87.8022145
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5591199330",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 104,
+   "sponsored": false,
+   "slug": "berkshire-hathaway-homeservices-chicago",
+   "name": "Berkshire Hathaway HomeServices",
+   "summary": "Berkshire Hathaway HomeServices is a real estate agency in Chicago, IL at 1644 North Damen Avenue, Chicago, IL 60647.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/berkshire-hathaway-homeservices-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/berkshire-hathaway-homeservices-chicago.json",
+   "address": {
+    "streetAddress": "1644 North Damen Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60647",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60647",
+   "geo": {
+    "lat": 41.9117993,
+    "lon": -87.6776798
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5443651775",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 105,
+   "sponsored": false,
+   "slug": "berkshire-hathaway-homeservices-chicago-n12626228699",
+   "name": "Berkshire Hathaway HomeServices",
+   "summary": "Berkshire Hathaway HomeServices is a real estate agency in Chicago, IL at 1800 North Clybourn Avenue #2nd Floor, Chicago, IL 60614.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/berkshire-hathaway-homeservices-chicago-n12626228699/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/berkshire-hathaway-homeservices-chicago-n12626228699.json",
+   "address": {
+    "streetAddress": "1800 North Clybourn Avenue #2nd Floor",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60614",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60614",
+   "geo": {
+    "lat": 41.9137225,
+    "lon": -87.6537712
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12626228699",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 106,
    "sponsored": false,
    "slug": "better-homes-and-gardens-chanhassen",
    "name": "Better Homes and Gardens",
@@ -1426,7 +3581,327 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 43,
+   "position": 107,
+   "sponsored": false,
+   "slug": "bloom-sanchez-realty-inc-chicago",
+   "name": "Bloom / Sanchez Realty Inc.",
+   "summary": "Bloom / Sanchez Realty Inc. is a real estate agency in Chicago, IL at 10511 South Ewing Avenue, Chicago, IL 60617.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bloom-sanchez-realty-inc-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bloom-sanchez-realty-inc-chicago.json",
+   "address": {
+    "streetAddress": "10511 South Ewing Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60617",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60617",
+   "geo": {
+    "lat": 41.7041707,
+    "lon": -87.5350303
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/211388301",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 108,
+   "sponsored": false,
+   "slug": "burlington-realty-riverside",
+   "name": "Burlington Realty",
+   "summary": "Burlington Realty is a real estate agency in Riverside, IL at 21 East Burlington Street, Riverside, IL 60546.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/burlington-realty-riverside/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/burlington-realty-riverside.json",
+   "address": {
+    "streetAddress": "21 East Burlington Street",
+    "addressLocality": "Riverside",
+    "addressRegion": "IL",
+    "postalCode": "60546",
+    "addressCountry": "US"
+   },
+   "city": "Riverside",
+   "state": "IL",
+   "zip": "60546",
+   "geo": {
+    "lat": 41.8281293,
+    "lon": -87.8186059
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/232267101",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 109,
+   "sponsored": false,
+   "slug": "c-gallucci-realty-chicago",
+   "name": "C. Gallucci Realty",
+   "summary": "C. Gallucci Realty is a real estate agency in Chicago, IL at 1355 West Taylor Street, Chicago, IL 60607.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/c-gallucci-realty-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/c-gallucci-realty-chicago.json",
+   "address": {
+    "streetAddress": "1355 West Taylor Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60607",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60607",
+   "geo": {
+    "lat": 41.8691754,
+    "lon": -87.6612815
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7554539889",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 110,
+   "sponsored": false,
+   "slug": "cadence-realty-chicago",
+   "name": "Cadence Realty",
+   "summary": "Cadence Realty is a real estate agency in Chicago, IL at 4245 North Lincoln Avenue, Chicago, IL 60618.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cadence-realty-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cadence-realty-chicago.json",
+   "address": {
+    "streetAddress": "4245 North Lincoln Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60618",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60618",
+   "geo": {
+    "lat": 41.9589814,
+    "lon": -87.6819714
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13160202801",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 111,
+   "sponsored": false,
+   "slug": "cedar-realty-chicago",
+   "name": "Cedar Realty",
+   "summary": "Cedar Realty is a real estate agency in Chicago, IL at 1405 West Diversey Parkway, Chicago, IL 60614.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cedar-realty-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cedar-realty-chicago.json",
+   "address": {
+    "streetAddress": "1405 West Diversey Parkway",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60614",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60614",
+   "geo": {
+    "lat": 41.9323598,
+    "lon": -87.6639408
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6949022416",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 112,
+   "sponsored": false,
+   "slug": "century-21-chicago",
+   "name": "Century 21",
+   "summary": "Century 21 is a real estate agency in Chicago, IL at 7300 North Western Avenue, Chicago, IL 60645.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/century-21-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/century-21-chicago.json",
+   "address": {
+    "streetAddress": "7300 North Western Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60645",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60645",
+   "geo": {
+    "lat": 42.014501,
+    "lon": -87.6913907
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13627176608",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 113,
+   "sponsored": false,
+   "slug": "century-21-naperville",
+   "name": "Century 21",
+   "summary": "Century 21 is a real estate agency in Naperville, IL at 1288 Rickert Drive, Naperville, IL 60540.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/century-21-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/century-21-naperville.json",
+   "address": {
+    "streetAddress": "1288 Rickert Drive",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60540",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60540",
+   "geo": {
+    "lat": 41.7498596,
+    "lon": -88.1670401
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8618945569",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 114,
+   "sponsored": false,
+   "slug": "chicago-apartment-place-inc-chicago",
+   "name": "Chicago Apartment Place Inc",
+   "summary": "Chicago Apartment Place Inc is a real estate agency in Chicago, IL at 3654 North Lincoln Avenue, Chicago, IL 60613.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chicago-apartment-place-inc-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chicago-apartment-place-inc-chicago.json",
+   "address": {
+    "streetAddress": "3654 North Lincoln Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60613",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60613",
+   "geo": {
+    "lat": 41.9482661,
+    "lon": -87.6750448
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12297090001",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 115,
+   "sponsored": false,
+   "slug": "coldwell-banker-chicago",
+   "name": "Coldwell Banker",
+   "summary": "Coldwell Banker is a real estate agency in Chicago, IL at 1314 East 47th Street, Chicago, IL 60653.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/coldwell-banker-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/coldwell-banker-chicago.json",
+   "address": {
+    "streetAddress": "1314 East 47th Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60653",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60653",
+   "geo": {
+    "lat": 41.8103753,
+    "lon": -87.5942245
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11033600278",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 116,
+   "sponsored": false,
+   "slug": "coldwell-banker-chicago-w162836620",
+   "name": "Coldwell Banker",
+   "summary": "Coldwell Banker is a real estate agency in Chicago, IL at 5364 West Devon Avenue, Chicago, IL 60646.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/coldwell-banker-chicago-w162836620/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/coldwell-banker-chicago-w162836620.json",
+   "address": {
+    "streetAddress": "5364 West Devon Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60646",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60646",
+   "geo": {
+    "lat": 41.9976357,
+    "lon": -87.7631447
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/162836620",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 117,
    "sponsored": false,
    "slug": "coldwell-banker-eagan",
    "name": "Coldwell Banker",
@@ -1458,7 +3933,199 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 44,
+   "position": 118,
+   "sponsored": false,
+   "slug": "coldwell-banker-glencoe",
+   "name": "Coldwell Banker",
+   "summary": "Coldwell Banker is a real estate agency in Glencoe, IL at 45 Green Bay Road, Glencoe, IL 60022.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/coldwell-banker-glencoe/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/coldwell-banker-glencoe.json",
+   "address": {
+    "streetAddress": "45 Green Bay Road",
+    "addressLocality": "Glencoe",
+    "addressRegion": "IL",
+    "postalCode": "60022",
+    "addressCountry": "US"
+   },
+   "city": "Glencoe",
+   "state": "IL",
+   "zip": "60022",
+   "geo": {
+    "lat": 42.1193748,
+    "lon": -87.7454823
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/459492760",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 119,
+   "sponsored": false,
+   "slug": "coldwell-banker-naperville",
+   "name": "Coldwell Banker",
+   "summary": "Coldwell Banker is a real estate agency in Naperville, IL at 1212 South Naper Boulevard #122, Naperville, IL 60540.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/coldwell-banker-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/coldwell-banker-naperville.json",
+   "address": {
+    "streetAddress": "1212 South Naper Boulevard #122",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60540",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60540",
+   "geo": {
+    "lat": 41.7515234,
+    "lon": -88.114156
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1441749349",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 120,
+   "sponsored": false,
+   "slug": "coldwell-banker-new-lenox",
+   "name": "Coldwell Banker",
+   "summary": "Coldwell Banker is a real estate agency in New Lenox, IL at 1413 East Lincoln Highway, New Lenox, IL 60451.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/coldwell-banker-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/coldwell-banker-new-lenox.json",
+   "address": {
+    "streetAddress": "1413 East Lincoln Highway",
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "postalCode": "60451",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "zip": "60451",
+   "geo": {
+    "lat": 41.5132051,
+    "lon": -87.9391927
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9195011943",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 121,
+   "sponsored": false,
+   "slug": "coldwell-banker-northbrook",
+   "name": "Coldwell Banker",
+   "summary": "Coldwell Banker is a real estate agency in Northbrook, IL at 1925 Cherry Lane, Northbrook, IL 60062.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/coldwell-banker-northbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/coldwell-banker-northbrook.json",
+   "address": {
+    "streetAddress": "1925 Cherry Lane",
+    "addressLocality": "Northbrook",
+    "addressRegion": "IL",
+    "postalCode": "60062",
+    "addressCountry": "US"
+   },
+   "city": "Northbrook",
+   "state": "IL",
+   "zip": "60062",
+   "geo": {
+    "lat": 42.1301792,
+    "lon": -87.8265664
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9271048007",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 122,
+   "sponsored": false,
+   "slug": "compass-chicago",
+   "name": "Compass",
+   "summary": "Compass is a real estate agency in Chicago, IL at 2044 West Roscoe Street, Chicago, IL 60618.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/compass-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/compass-chicago.json",
+   "address": {
+    "streetAddress": "2044 West Roscoe Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60618",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60618",
+   "geo": {
+    "lat": 41.943324,
+    "lon": -87.6802425
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13167669901",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 123,
+   "sponsored": false,
+   "slug": "compass-chicago-w1536035447",
+   "name": "Compass",
+   "summary": "Compass is a real estate agency in Chicago, IL at 5500 West Devon Avenue, Chicago, IL 60646.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/compass-chicago-w1536035447/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/compass-chicago-w1536035447.json",
+   "address": {
+    "streetAddress": "5500 West Devon Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60646",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60646",
+   "geo": {
+    "lat": 41.9975516,
+    "lon": -87.7660079
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1536035447",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 124,
    "sponsored": false,
    "slug": "counselor-realty-west-saint-paul",
    "name": "Counselor Realty",
@@ -1490,7 +4157,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 45,
+   "position": 125,
    "sponsored": false,
    "slug": "dca-title-minneapolis",
    "name": "DCA Title",
@@ -1520,7 +4187,71 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 46,
+   "position": 126,
+   "sponsored": false,
+   "slug": "dolan-realtors-oak-lawn",
+   "name": "Dolan Realtors",
+   "summary": "Dolan Realtors is a real estate agency in Oak Lawn, IL at 10730 South Cicero Avenue #207, Oak Lawn, IL 60453.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dolan-realtors-oak-lawn/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dolan-realtors-oak-lawn.json",
+   "address": {
+    "streetAddress": "10730 South Cicero Avenue #207",
+    "addressLocality": "Oak Lawn",
+    "addressRegion": "IL",
+    "postalCode": "60453",
+    "addressCountry": "US"
+   },
+   "city": "Oak Lawn",
+   "state": "IL",
+   "zip": "60453",
+   "geo": {
+    "lat": 41.6972055,
+    "lon": -87.7404332
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8140437241",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 127,
+   "sponsored": false,
+   "slug": "east-superior-real-estate-partners-chicago",
+   "name": "East Superior Real Estate Partners",
+   "summary": "East Superior Real Estate Partners is a real estate agency in Chicago, IL at 4237 North Lincoln Avenue, Chicago, IL 60618.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/east-superior-real-estate-partners-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/east-superior-real-estate-partners-chicago.json",
+   "address": {
+    "streetAddress": "4237 North Lincoln Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60618",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60618",
+   "geo": {
+    "lat": 41.9588278,
+    "lon": -87.6818805
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13165867902",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 128,
    "sponsored": false,
    "slug": "edina-realty-maple-grove",
    "name": "Edina Realty",
@@ -1552,7 +4283,71 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 47,
+   "position": 129,
+   "sponsored": false,
+   "slug": "fulton-grace-realty-chicago",
+   "name": "Fulton Grace Realty",
+   "summary": "Fulton Grace Realty is a real estate agency in Chicago, IL at 4141 North Lincoln Avenue, Chicago, IL 60618.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fulton-grace-realty-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fulton-grace-realty-chicago.json",
+   "address": {
+    "streetAddress": "4141 North Lincoln Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60618",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60618",
+   "geo": {
+    "lat": 41.9571205,
+    "lon": -87.6806149
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11959072470",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 130,
+   "sponsored": false,
+   "slug": "fulton-grace-realty-chicago-n12066816706",
+   "name": "Fulton Grace Realty",
+   "summary": "Fulton Grace Realty is a real estate agency in Chicago, IL at 1400 North Milwaukee Avenue, Chicago, IL 60622.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fulton-grace-realty-chicago-n12066816706/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fulton-grace-realty-chicago-n12066816706.json",
+   "address": {
+    "streetAddress": "1400 North Milwaukee Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60622",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60622",
+   "geo": {
+    "lat": 41.9072937,
+    "lon": -87.6729076
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12066816706",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 131,
    "sponsored": false,
    "slug": "gmbc-property-management-saint-paul",
    "name": "GMBC Property Management",
@@ -1584,7 +4379,135 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 48,
+   "position": 132,
+   "sponsored": false,
+   "slug": "goldtree-realty-skokie",
+   "name": "Goldtree Realty",
+   "summary": "Goldtree Realty is a real estate agency in Skokie, IL at Lincoln Avenue, Skokie, IL 60077.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/goldtree-realty-skokie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/goldtree-realty-skokie.json",
+   "address": {
+    "streetAddress": "Lincoln Avenue",
+    "addressLocality": "Skokie",
+    "addressRegion": "IL",
+    "postalCode": "60077",
+    "addressCountry": "US"
+   },
+   "city": "Skokie",
+   "state": "IL",
+   "zip": "60077",
+   "geo": {
+    "lat": 42.0253345,
+    "lon": -87.7553041
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6606553121",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 133,
+   "sponsored": false,
+   "slug": "harbour-point-estates-management-office-chicago",
+   "name": "Harbour Point Estates Management Office",
+   "summary": "Harbour Point Estates Management Office is a real estate agency in Chicago, IL at 4000 East 134th Street, Chicago, IL 60633.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/harbour-point-estates-management-office-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/harbour-point-estates-management-office-chicago.json",
+   "address": {
+    "streetAddress": "4000 East 134th Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60633",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60633",
+   "geo": {
+    "lat": 41.6524893,
+    "lon": -87.5293961
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/211385192",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 134,
+   "sponsored": false,
+   "slug": "jll-chicago",
+   "name": "JLL",
+   "summary": "JLL is a real estate agency in Chicago, IL at 8755 West Higgins Road, Chicago, IL 60631.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jll-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jll-chicago.json",
+   "address": {
+    "streetAddress": "8755 West Higgins Road",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60631",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60631",
+   "geo": {
+    "lat": 41.9865217,
+    "lon": -87.8456108
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9946613092",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 135,
+   "sponsored": false,
+   "slug": "k-and-l-realty-chicago",
+   "name": "K&L Realty",
+   "summary": "K&L Realty is a real estate agency in Chicago, IL at 5524 West Lawrence Avenue, Chicago, IL 60630.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/k-and-l-realty-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/k-and-l-realty-chicago.json",
+   "address": {
+    "streetAddress": "5524 West Lawrence Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60630",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60630",
+   "geo": {
+    "lat": 41.9679162,
+    "lon": -87.7661692
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4201234202",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 136,
    "sponsored": false,
    "slug": "lakes-area-reality-minneapolis",
    "name": "Lakes Area Reality",
@@ -1616,7 +4539,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 49,
+   "position": 137,
    "sponsored": false,
    "slug": "langer-real-estate-west-saint-paul",
    "name": "Langer Real Estate",
@@ -1648,7 +4571,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 50,
+   "position": 138,
    "sponsored": false,
    "slug": "living-life-realty-minneapolis",
    "name": "Living Life Realty",
@@ -1680,7 +4603,39 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 51,
+   "position": 139,
+   "sponsored": false,
+   "slug": "lydia-home-association-chicago",
+   "name": "Lydia Home Association",
+   "summary": "Lydia Home Association is a real estate agency in Chicago, IL at 4839 West Irving Park Road, Chicago, IL 60641.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lydia-home-association-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lydia-home-association-chicago.json",
+   "address": {
+    "streetAddress": "4839 West Irving Park Road",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60641",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60641",
+   "geo": {
+    "lat": 41.9531845,
+    "lon": -87.748959
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4089091904",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 140,
    "sponsored": false,
    "slug": "lynden-realty-saint-paul",
    "name": "Lynden Realty",
@@ -1710,7 +4665,39 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 52,
+   "position": 141,
+   "sponsored": false,
+   "slug": "meliora-real-estate-group-chicago",
+   "name": "Meliora Real Estate Group",
+   "summary": "Meliora Real Estate Group is a real estate agency in Chicago, IL at 1007 East 53rd Street, Chicago, IL 60615.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/meliora-real-estate-group-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/meliora-real-estate-group-chicago.json",
+   "address": {
+    "streetAddress": "1007 East 53rd Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60615",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60615",
+   "geo": {
+    "lat": 41.7992718,
+    "lon": -87.6009426
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11425942570",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 142,
    "sponsored": false,
    "slug": "merck-real-estate-saint-paul",
    "name": "Merck Real Estate",
@@ -1742,7 +4729,167 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 53,
+   "position": 143,
+   "sponsored": false,
+   "slug": "prudential-realty-company-lincolnwood",
+   "name": "Prudential Realty Company",
+   "summary": "Prudential Realty Company is a real estate agency in Lincolnwood, IL at 3520 West Devon Avenue, Lincolnwood, IL 60712.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/prudential-realty-company-lincolnwood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/prudential-realty-company-lincolnwood.json",
+   "address": {
+    "streetAddress": "3520 West Devon Avenue",
+    "addressLocality": "Lincolnwood",
+    "addressRegion": "IL",
+    "postalCode": "60712",
+    "addressCountry": "US"
+   },
+   "city": "Lincolnwood",
+   "state": "IL",
+   "zip": "60712",
+   "geo": {
+    "lat": 41.9975702,
+    "lon": -87.7177509
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/130800815",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 144,
+   "sponsored": false,
+   "slug": "r-d-fulk-real-estate-inc-arlington-heights",
+   "name": "R.D. Fulk Real Estate Inc.",
+   "summary": "R.D. Fulk Real Estate Inc. is a real estate agency in Arlington Heights, IL at 1818 East Northwest Highway, Arlington Heights, IL 60004.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/r-d-fulk-real-estate-inc-arlington-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/r-d-fulk-real-estate-inc-arlington-heights.json",
+   "address": {
+    "streetAddress": "1818 East Northwest Highway",
+    "addressLocality": "Arlington Heights",
+    "addressRegion": "IL",
+    "postalCode": "60004",
+    "addressCountry": "US"
+   },
+   "city": "Arlington Heights",
+   "state": "IL",
+   "zip": "60004",
+   "geo": {
+    "lat": 42.0742424,
+    "lon": -87.9603311
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/864533172",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 145,
+   "sponsored": false,
+   "slug": "re-max-chicago",
+   "name": "RE/MAX",
+   "summary": "RE/MAX is a real estate agency in Chicago, IL at 2429 North Clark Street, Chicago, IL 60614.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/re-max-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/re-max-chicago.json",
+   "address": {
+    "streetAddress": "2429 North Clark Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60614",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60614",
+   "geo": {
+    "lat": 41.9263511,
+    "lon": -87.6407407
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12085474492",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 146,
+   "sponsored": false,
+   "slug": "re-max-wheeling",
+   "name": "RE/MAX",
+   "summary": "RE/MAX is a real estate agency in Wheeling, IL at 401 South Milwaukee Avenue #130, Wheeling, IL 60090.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/re-max-wheeling/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/re-max-wheeling.json",
+   "address": {
+    "streetAddress": "401 South Milwaukee Avenue #130",
+    "addressLocality": "Wheeling",
+    "addressRegion": "IL",
+    "postalCode": "60090",
+    "addressCountry": "US"
+   },
+   "city": "Wheeling",
+   "state": "IL",
+   "zip": "60090",
+   "geo": {
+    "lat": 42.133381,
+    "lon": -87.901428
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13719640150",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 147,
+   "sponsored": false,
+   "slug": "re-max-willow-springs",
+   "name": "RE/MAX",
+   "summary": "RE/MAX is a real estate agency in Willow Springs, IL at 8728 South Archer Avenue, Willow Springs, IL 60480.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/re-max-willow-springs/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/re-max-willow-springs.json",
+   "address": {
+    "streetAddress": "8728 South Archer Avenue",
+    "addressLocality": "Willow Springs",
+    "addressRegion": "IL",
+    "postalCode": "60480",
+    "addressCountry": "US"
+   },
+   "city": "Willow Springs",
+   "state": "IL",
+   "zip": "60480",
+   "geo": {
+    "lat": 41.731572,
+    "lon": -87.8782336
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/566255990",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 148,
    "sponsored": false,
    "slug": "re-max-advantage-chanhassen",
    "name": "Re/Max Advantage",
@@ -1774,7 +4921,167 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 54,
+   "position": 149,
+   "sponsored": false,
+   "slug": "redfin-chicago",
+   "name": "Redfin",
+   "summary": "Redfin is a real estate agency in Chicago, IL at 112 South Sangamon Street, Chicago, IL 60607.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/redfin-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/redfin-chicago.json",
+   "address": {
+    "streetAddress": "112 South Sangamon Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60607",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60607",
+   "geo": {
+    "lat": 41.8799518,
+    "lon": -87.6510298
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12413436172",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 150,
+   "sponsored": false,
+   "slug": "the-wilcox-company-chicago",
+   "name": "The Wilcox Company",
+   "summary": "The Wilcox Company is a real estate agency in Chicago, IL at 2157-2159 West Irving Park Road, Chicago, IL 60618.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-wilcox-company-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-wilcox-company-chicago.json",
+   "address": {
+    "streetAddress": "2157-2159 West Irving Park Road",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60618",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60618",
+   "geo": {
+    "lat": 41.9539404,
+    "lon": -87.6833991
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13169564001",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 151,
+   "sponsored": false,
+   "slug": "village-realty-of-riverside-riverside",
+   "name": "VIllage Realty of Riverside",
+   "summary": "VIllage Realty of Riverside is a real estate agency in Riverside, IL at 345 East Burlington Street, Riverside, IL 60546.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/village-realty-of-riverside-riverside/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/village-realty-of-riverside-riverside.json",
+   "address": {
+    "streetAddress": "345 East Burlington Street",
+    "addressLocality": "Riverside",
+    "addressRegion": "IL",
+    "postalCode": "60546",
+    "addressCountry": "US"
+   },
+   "city": "Riverside",
+   "state": "IL",
+   "zip": "60546",
+   "geo": {
+    "lat": 41.8313073,
+    "lon": -87.804354
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12032111919",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 152,
+   "sponsored": false,
+   "slug": "washington-park-development-group-chicago",
+   "name": "Washington Park Development Group",
+   "summary": "Washington Park Development Group is a real estate agency in Chicago, IL at 10 East Garfield Boulevard, Chicago, IL 60609.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/washington-park-development-group-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/washington-park-development-group-chicago.json",
+   "address": {
+    "streetAddress": "10 East Garfield Boulevard",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60609",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60609",
+   "geo": {
+    "lat": 41.794938,
+    "lon": -87.6253204
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6328360928",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 153,
+   "sponsored": false,
+   "slug": "wilson-yard-apartments-chicago",
+   "name": "Wilson Yard Apartments",
+   "summary": "Wilson Yard Apartments is a real estate agency in Chicago, IL at 1026 West Montrose Avenue, Chicago, IL 60613.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wilson-yard-apartments-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wilson-yard-apartments-chicago.json",
+   "address": {
+    "streetAddress": "1026 West Montrose Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60613",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60613",
+   "geo": {
+    "lat": 41.9619653,
+    "lon": -87.6561999
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5156341993",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 154,
    "sponsored": false,
    "slug": "caldwell-banker-plymouth",
    "name": "Caldwell Banker",
@@ -1804,7 +5111,37 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 55,
+   "position": 155,
+   "sponsored": false,
+   "slug": "dumas-and-associates-realty-chicago",
+   "name": "Dumas & Associates Realty",
+   "summary": "Dumas & Associates Realty is a real estate agency in Chicago, IL at 2519 North California Avenue, Chicago, IL.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dumas-and-associates-realty-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dumas-and-associates-realty-chicago.json",
+   "address": {
+    "streetAddress": "2519 North California Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9272411,
+    "lon": -87.6972805
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12223629661",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 156,
    "sponsored": false,
    "slug": "eagan-realty-eagan",
    "name": "Eagan Realty",
@@ -1834,7 +5171,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 56,
+   "position": 157,
    "sponsored": false,
    "slug": "edina-realty-saint-paul",
    "name": "Edina Realty",
@@ -1864,7 +5201,67 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 57,
+   "position": 158,
+   "sponsored": false,
+   "slug": "james-sothebys-international-chicago",
+   "name": "James Sotheby's International",
+   "summary": "James Sotheby's International is a real estate agency in Chicago, IL at 425 West North Avenue, Chicago, IL.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/james-sothebys-international-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/james-sothebys-international-chicago.json",
+   "address": {
+    "streetAddress": "425 West North Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9108125,
+    "lon": -87.6395774
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/210686111",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 159,
+   "sponsored": false,
+   "slug": "laricy-a-division-of-americorp-ltd-chicago",
+   "name": "LARICY - A Division of Americorp Ltd.",
+   "summary": "LARICY - A Division of Americorp Ltd. is a real estate agency in Chicago, IL at 375 West Erie Street, Chicago, IL.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/laricy-a-division-of-americorp-ltd-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/laricy-a-division-of-americorp-ltd-chicago.json",
+   "address": {
+    "streetAddress": "375 West Erie Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8937159,
+    "lon": -87.6389091
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12156188701",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 160,
    "sponsored": false,
    "slug": "molina-realtors-minneapolis",
    "name": "Molina Realtors",
@@ -1894,7 +5291,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 58,
+   "position": 161,
    "sponsored": false,
    "slug": "ps-real-estate-minneapolis",
    "name": "PS Real Estate",
@@ -1924,7 +5321,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 59,
+   "position": 162,
    "sponsored": false,
    "slug": "re-max-brooklyn-park",
    "name": "RE/MAX",
@@ -1954,7 +5351,123 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 60,
+   "position": 163,
+   "sponsored": false,
+   "slug": "properties-highland-park",
+   "name": "@ Properties",
+   "summary": "@ Properties is a real estate agency in Highland Park, IL.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/properties-highland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/properties-highland-park.json",
+   "address": {
+    "addressLocality": "Highland Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Highland Park",
+   "state": "IL",
+   "geo": {
+    "lat": 42.1840988,
+    "lon": -87.7999611
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11874922476",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 164,
+   "sponsored": false,
+   "slug": "properties-glenview",
+   "name": "@properties",
+   "summary": "@properties is a real estate agency in Glenview, IL.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/properties-glenview/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/properties-glenview.json",
+   "address": {
+    "addressLocality": "Glenview",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Glenview",
+   "state": "IL",
+   "geo": {
+    "lat": 42.0731331,
+    "lon": -87.7983974
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/796256232",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 165,
+   "sponsored": false,
+   "slug": "properties-north-center-chicago",
+   "name": "@properties North Center",
+   "summary": "@properties North Center is a real estate agency in Chicago, IL.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/properties-north-center-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/properties-north-center-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9561577,
+    "lon": -87.6803335
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9354635420",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 166,
+   "sponsored": false,
+   "slug": "a-and-g-realty-lyons",
+   "name": "A&G Realty",
+   "summary": "A&G Realty is a real estate agency in Lyons, IL.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/a-and-g-realty-lyons/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/a-and-g-realty-lyons.json",
+   "address": {
+    "addressLocality": "Lyons",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Lyons",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8160104,
+    "lon": -87.8356471
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9511123777",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 167,
    "sponsored": false,
    "slug": "alden-pond-townhome-apartments-eagan",
    "name": "Alden Pond Townhome Apartments",
@@ -1983,7 +5496,587 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 61,
+   "position": 168,
+   "sponsored": false,
+   "slug": "andrews-and-co-realty-new-lenox",
+   "name": "Andrews & Co. Realty",
+   "summary": "Andrews & Co. Realty is a real estate agency in New Lenox, IL.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/andrews-and-co-realty-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/andrews-and-co-realty-new-lenox.json",
+   "address": {
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "geo": {
+    "lat": 41.5134995,
+    "lon": -87.9655825
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/995777698",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 169,
+   "sponsored": false,
+   "slug": "ask-nagel-realty-chicago",
+   "name": "Ask Nagel Realty",
+   "summary": "Ask Nagel Realty is a real estate agency in Chicago, IL.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ask-nagel-realty-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ask-nagel-realty-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9030494,
+    "lon": -87.6756868
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8826410005",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 170,
+   "sponsored": false,
+   "slug": "astoria-property-management-chicago",
+   "name": "Astoria Property Management",
+   "summary": "Astoria Property Management is a real estate agency in Chicago, IL.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/astoria-property-management-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/astoria-property-management-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.764421,
+    "lon": -87.5646347
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4226190392",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 171,
+   "sponsored": false,
+   "slug": "beechen-and-dill-homes-burr-ridge",
+   "name": "Beechen & Dill Homes",
+   "summary": "Beechen & Dill Homes is a real estate agency in Burr Ridge, IL.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/beechen-and-dill-homes-burr-ridge/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/beechen-and-dill-homes-burr-ridge.json",
+   "address": {
+    "addressLocality": "Burr Ridge",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Burr Ridge",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7526038,
+    "lon": -87.9125226
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10837806927",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 172,
+   "sponsored": false,
+   "slug": "berkshire-hathaway-elk-grove-village",
+   "name": "Berkshire Hathaway",
+   "summary": "Berkshire Hathaway is a real estate agency in Elk Grove Village, IL.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/berkshire-hathaway-elk-grove-village/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/berkshire-hathaway-elk-grove-village.json",
+   "address": {
+    "addressLocality": "Elk Grove Village",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Elk Grove Village",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9965772,
+    "lon": -88.0318943
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/14006813983",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 173,
+   "sponsored": false,
+   "slug": "berkshire-hathway-home-services-schaumburg",
+   "name": "Berkshire Hathway Home Services",
+   "summary": "Berkshire Hathway Home Services is a real estate agency in Schaumburg, IL.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/berkshire-hathway-home-services-schaumburg/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/berkshire-hathway-home-services-schaumburg.json",
+   "address": {
+    "addressLocality": "Schaumburg",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Schaumburg",
+   "state": "IL",
+   "geo": {
+    "lat": 42.0253058,
+    "lon": -88.1441916
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3472296532",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 174,
+   "sponsored": false,
+   "slug": "berrshire-hathaway-elmhurst",
+   "name": "Berrshire Hathaway",
+   "summary": "Berrshire Hathaway is a real estate agency in Elmhurst, IL.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/berrshire-hathaway-elmhurst/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/berrshire-hathaway-elmhurst.json",
+   "address": {
+    "addressLocality": "Elmhurst",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Elmhurst",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9036295,
+    "lon": -87.9400742
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8406072230",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 175,
+   "sponsored": false,
+   "slug": "bob-floss-and-son-countryside",
+   "name": "Bob Floss and Son",
+   "summary": "Bob Floss and Son is a real estate agency in Countryside, IL.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bob-floss-and-son-countryside/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bob-floss-and-son-countryside.json",
+   "address": {
+    "addressLocality": "Countryside",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Countryside",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7897259,
+    "lon": -87.8789363
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10005177427",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 176,
+   "sponsored": false,
+   "slug": "burcor-properties-la-grange",
+   "name": "Burcor Properties",
+   "summary": "Burcor Properties is a real estate agency in La Grange, IL.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/burcor-properties-la-grange/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/burcor-properties-la-grange.json",
+   "address": {
+    "addressLocality": "La Grange",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "La Grange",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8162892,
+    "lon": -87.8732688
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8951859785",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 177,
+   "sponsored": false,
+   "slug": "century-21-schaumburg",
+   "name": "Century 21",
+   "summary": "Century 21 is a real estate agency in Schaumburg, IL.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/century-21-schaumburg/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/century-21-schaumburg.json",
+   "address": {
+    "addressLocality": "Schaumburg",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Schaumburg",
+   "state": "IL",
+   "geo": {
+    "lat": 42.0296593,
+    "lon": -88.0619697
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2320852856",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 178,
+   "sponsored": false,
+   "slug": "chase-property-llc-chicago",
+   "name": "Chase Property LLC",
+   "summary": "Chase Property LLC is a real estate agency in Chicago, IL.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chase-property-llc-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chase-property-llc-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9531855,
+    "lon": -87.7494002
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4089091907",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 179,
+   "sponsored": false,
+   "slug": "chicago-apartment-finder-chicago",
+   "name": "Chicago Apartment Finder",
+   "summary": "Chicago Apartment Finder is a real estate agency in Chicago, IL.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chicago-apartment-finder-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chicago-apartment-finder-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9400518,
+    "lon": -87.6521529
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/424209963",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 180,
+   "sponsored": false,
+   "slug": "chicagoland-realty-services-chicago",
+   "name": "Chicagoland Realty Services",
+   "summary": "Chicagoland Realty Services is a real estate agency in Chicago, IL.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chicagoland-realty-services-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chicagoland-realty-services-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8817609,
+    "lon": -87.66123
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3407944290",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 181,
+   "sponsored": false,
+   "slug": "christies-international-real-estate-highland-park",
+   "name": "Christie's International Real Estate",
+   "summary": "Christie's International Real Estate is a real estate agency in Highland Park, IL.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/christies-international-real-estate-highland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/christies-international-real-estate-highland-park.json",
+   "address": {
+    "addressLocality": "Highland Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Highland Park",
+   "state": "IL",
+   "geo": {
+    "lat": 42.1841869,
+    "lon": -87.7997694
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11874919958",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 182,
+   "sponsored": false,
+   "slug": "coldwell-banker-arlington-heights",
+   "name": "Coldwell Banker",
+   "summary": "Coldwell Banker is a real estate agency in Arlington Heights, IL.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/coldwell-banker-arlington-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/coldwell-banker-arlington-heights.json",
+   "address": {
+    "addressLocality": "Arlington Heights",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Arlington Heights",
+   "state": "IL",
+   "geo": {
+    "lat": 42.0819055,
+    "lon": -87.9833246
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13004844975",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 183,
+   "sponsored": false,
+   "slug": "coldwell-banker-glenview",
+   "name": "Coldwell Banker",
+   "summary": "Coldwell Banker is a real estate agency in Glenview, IL.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/coldwell-banker-glenview/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/coldwell-banker-glenview.json",
+   "address": {
+    "addressLocality": "Glenview",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Glenview",
+   "state": "IL",
+   "geo": {
+    "lat": 42.0810678,
+    "lon": -87.7992881
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9462537070",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 184,
+   "sponsored": false,
+   "slug": "coldwell-banker-hinsdale",
+   "name": "Coldwell Banker",
+   "summary": "Coldwell Banker is a real estate agency in Hinsdale, IL.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/coldwell-banker-hinsdale/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/coldwell-banker-hinsdale.json",
+   "address": {
+    "addressLocality": "Hinsdale",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Hinsdale",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8023971,
+    "lon": -87.9288526
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/613070869",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 185,
+   "sponsored": false,
+   "slug": "coldwell-banker-la-grange",
+   "name": "Coldwell Banker",
+   "summary": "Coldwell Banker is a real estate agency in La Grange, IL.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/coldwell-banker-la-grange/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/coldwell-banker-la-grange.json",
+   "address": {
+    "addressLocality": "La Grange",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "La Grange",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8157254,
+    "lon": -87.8732431
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8944618064",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 186,
+   "sponsored": false,
+   "slug": "dean-rouso-real-estate-consultant-baird-and-warner-la-grange",
+   "name": "Dean Rouso, Real Estate Consultant | Baird & Warner",
+   "summary": "Dean Rouso, Real Estate Consultant | Baird & Warner is a real estate agency in La Grange, IL.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dean-rouso-real-estate-consultant-baird-and-warner-la-grange/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dean-rouso-real-estate-consultant-baird-and-warner-la-grange.json",
+   "address": {
+    "addressLocality": "La Grange",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "La Grange",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8148396,
+    "lon": -87.8740662
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8944618068",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 187,
+   "sponsored": false,
+   "slug": "dolejs-real-estate-and-property-management-lyons",
+   "name": "Dolejs Real Estate and Property Management",
+   "summary": "Dolejs Real Estate and Property Management is a real estate agency in Lyons, IL.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dolejs-real-estate-and-property-management-lyons/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dolejs-real-estate-and-property-management-lyons.json",
+   "address": {
+    "addressLocality": "Lyons",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Lyons",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8198278,
+    "lon": -87.8172103
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9810196160",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 188,
    "sponsored": false,
    "slug": "engel-and-v-lkers-minneapolis",
    "name": "Engel & Völkers",
@@ -2012,7 +6105,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 62,
+   "position": 189,
    "sponsored": false,
    "slug": "exit-innovation-realty-saint-paul",
    "name": "Exit Innovation Realty",
@@ -2041,7 +6134,65 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 63,
+   "position": 190,
+   "sponsored": false,
+   "slug": "exit-realty-la-grange",
+   "name": "Exit Realty",
+   "summary": "Exit Realty is a real estate agency in La Grange, IL.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/exit-realty-la-grange/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/exit-realty-la-grange.json",
+   "address": {
+    "addressLocality": "La Grange",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "La Grange",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8045969,
+    "lon": -87.8689758
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10725347223",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 191,
+   "sponsored": false,
+   "slug": "failla-realty-brookfield",
+   "name": "Failla Realty",
+   "summary": "Failla Realty is a real estate agency in Brookfield, IL.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/failla-realty-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/failla-realty-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.828432,
+    "lon": -87.8508305
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9793717296",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 192,
    "sponsored": false,
    "slug": "greco-minneapolis",
    "name": "Greco",
@@ -2070,7 +6221,36 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 64,
+   "position": 193,
+   "sponsored": false,
+   "slug": "green-acres-realty-corp-la-grange",
+   "name": "Green Acres Realty Corp",
+   "summary": "Green Acres Realty Corp is a real estate agency in La Grange, IL.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/green-acres-realty-corp-la-grange/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/green-acres-realty-corp-la-grange.json",
+   "address": {
+    "addressLocality": "La Grange",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "La Grange",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8162419,
+    "lon": -87.8709385
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8944618060",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 194,
    "sponsored": false,
    "slug": "hm-metro-realty-saint-paul",
    "name": "HM Metro Realty",
@@ -2099,7 +6279,152 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 65,
+   "position": 195,
+   "sponsored": false,
+   "slug": "irpino-real-estate-chicago",
+   "name": "Irpino Real Estate",
+   "summary": "Irpino Real Estate is a real estate agency in Chicago, IL.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/irpino-real-estate-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/irpino-real-estate-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9593337,
+    "lon": -87.6537709
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11242060734",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 196,
+   "sponsored": false,
+   "slug": "jere-chicago",
+   "name": "JERE",
+   "summary": "JERE is a real estate agency in Chicago, IL.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jere-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jere-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9731867,
+    "lon": -87.6559459
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7152419389",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 197,
+   "sponsored": false,
+   "slug": "jll-westmont",
+   "name": "JLL",
+   "summary": "JLL is a real estate agency in Westmont, IL.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jll-westmont/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jll-westmont.json",
+   "address": {
+    "addressLocality": "Westmont",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Westmont",
+   "state": "IL",
+   "geo": {
+    "lat": 41.821383,
+    "lon": -87.9580081
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6893392434",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 198,
+   "sponsored": false,
+   "slug": "johnson-real-estate-niles",
+   "name": "Johnson Real Estate",
+   "summary": "Johnson Real Estate is a real estate agency in Niles, IL.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/johnson-real-estate-niles/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/johnson-real-estate-niles.json",
+   "address": {
+    "addressLocality": "Niles",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Niles",
+   "state": "IL",
+   "geo": {
+    "lat": 42.028801,
+    "lon": -87.8162592
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6257447261",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 199,
+   "sponsored": false,
+   "slug": "jw-reedy-realty-lombard",
+   "name": "JW Reedy Realty",
+   "summary": "JW Reedy Realty is a real estate agency in Lombard, IL.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jw-reedy-realty-lombard/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jw-reedy-realty-lombard.json",
+   "address": {
+    "addressLocality": "Lombard",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Lombard",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8623295,
+    "lon": -88.0179299
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1328064025",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 200,
    "sponsored": false,
    "slug": "keller-williams-realty-minneapolis",
    "name": "Keller Williams Realty",
@@ -2128,7 +6453,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 66,
+   "position": 201,
    "sponsored": false,
    "slug": "lakes-area-realty-saint-paul",
    "name": "Lakes Area Realty",
@@ -2157,7 +6482,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 67,
+   "position": 202,
    "sponsored": false,
    "slug": "mapeterson-edina",
    "name": "MAPeterson",
@@ -2186,7 +6511,36 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 68,
+   "position": 203,
+   "sponsored": false,
+   "slug": "mda-chicago-city-apartments-chicago",
+   "name": "MDA Chicago City Apartments",
+   "summary": "MDA Chicago City Apartments is a real estate agency in Chicago, IL.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mda-chicago-city-apartments-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mda-chicago-city-apartments-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8856397,
+    "lon": -87.6257011
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2819168041",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 204,
    "sponsored": false,
    "slug": "michael-sharp-realty-minneapolis",
    "name": "Michael Sharp Realty",
@@ -2215,7 +6569,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 69,
+   "position": 205,
    "sponsored": false,
    "slug": "mitchell-realty-robbinsdale",
    "name": "Mitchell Realty",
@@ -2244,7 +6598,123 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 70,
+   "position": 206,
+   "sponsored": false,
+   "slug": "mortgage-services-llc-schaumburg",
+   "name": "Mortgage Services LLC",
+   "summary": "Mortgage Services LLC is a real estate agency in Schaumburg, IL.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mortgage-services-llc-schaumburg/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mortgage-services-llc-schaumburg.json",
+   "address": {
+    "addressLocality": "Schaumburg",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Schaumburg",
+   "state": "IL",
+   "geo": {
+    "lat": 42.0296289,
+    "lon": -88.06213
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2320852846",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 207,
+   "sponsored": false,
+   "slug": "myslicki-real-estate-la-grange",
+   "name": "Myslicki Real Estate",
+   "summary": "Myslicki Real Estate is a real estate agency in La Grange, IL.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/myslicki-real-estate-la-grange/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/myslicki-real-estate-la-grange.json",
+   "address": {
+    "addressLocality": "La Grange",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "La Grange",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8140133,
+    "lon": -87.8809327
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8944618110",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 208,
+   "sponsored": false,
+   "slug": "ncg-chicago",
+   "name": "NCG",
+   "summary": "NCG is a real estate agency in Chicago, IL.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ncg-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ncg-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9104666,
+    "lon": -87.6858335
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12178531957",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 209,
+   "sponsored": false,
+   "slug": "oakly-home-builders-downers-grove",
+   "name": "Oakly Home Builders",
+   "summary": "Oakly Home Builders is a real estate agency in Downers Grove, IL.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/oakly-home-builders-downers-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/oakly-home-builders-downers-grove.json",
+   "address": {
+    "addressLocality": "Downers Grove",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Downers Grove",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7919773,
+    "lon": -88.0103313
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9846269633",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 210,
    "sponsored": false,
    "slug": "re-max-eagan",
    "name": "RE/MAX",
@@ -2273,7 +6743,65 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 71,
+   "position": 211,
+   "sponsored": false,
+   "slug": "realty-of-chicago-chicago",
+   "name": "Realty of Chicago",
+   "summary": "Realty of Chicago is a real estate agency in Chicago, IL.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/realty-of-chicago-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/realty-of-chicago-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7788652,
+    "lon": -87.722514
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12123012868",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 212,
+   "sponsored": false,
+   "slug": "rose-real-estate-development-lyons",
+   "name": "Rose Real Estate Development",
+   "summary": "Rose Real Estate Development is a real estate agency in Lyons, IL.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rose-real-estate-development-lyons/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rose-real-estate-development-lyons.json",
+   "address": {
+    "addressLocality": "Lyons",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Lyons",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8196062,
+    "lon": -87.8178534
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9810196163",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 213,
    "sponsored": false,
    "slug": "sandy-green-realty-minneapolis",
    "name": "Sandy Green Realty",
@@ -2300,6 +6828,409 @@
    "source": "OpenStreetMap",
    "source_url": "https://www.openstreetmap.org/node/13739129190",
    "last_checked": "2026-10-17"
+  },
+  {
+   "position": 214,
+   "sponsored": false,
+   "slug": "smothers-group-with-compass-la-grange",
+   "name": "Smothers Group with Compass",
+   "summary": "Smothers Group with Compass is a real estate agency in La Grange, IL.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/smothers-group-with-compass-la-grange/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/smothers-group-with-compass-la-grange.json",
+   "address": {
+    "addressLocality": "La Grange",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "La Grange",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8138737,
+    "lon": -87.88163
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8944618113",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 215,
+   "sponsored": false,
+   "slug": "the-apartment-people-evanston",
+   "name": "The Apartment People",
+   "summary": "The Apartment People is a real estate agency in Evanston, IL.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-apartment-people-evanston/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-apartment-people-evanston.json",
+   "address": {
+    "addressLocality": "Evanston",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Evanston",
+   "state": "IL",
+   "geo": {
+    "lat": 42.0454327,
+    "lon": -87.6812938
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1583266065",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 216,
+   "sponsored": false,
+   "slug": "tiamar-real-estate-inc-chicago",
+   "name": "Tiamar Real Estate, Inc",
+   "summary": "Tiamar Real Estate, Inc is a real estate agency in Chicago, IL.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tiamar-real-estate-inc-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tiamar-real-estate-inc-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9482377,
+    "lon": -87.6751207
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12297090101",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 217,
+   "sponsored": false,
+   "slug": "touchstone-group-chicago",
+   "name": "Touchstone Group",
+   "summary": "Touchstone Group is a real estate agency in Chicago, IL.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/touchstone-group-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/touchstone-group-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9104839,
+    "lon": -87.685268
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12178528605",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 218,
+   "sponsored": false,
+   "slug": "walsh-partners-real-estate-elmhurst",
+   "name": "Walsh Partners Real Estate",
+   "summary": "Walsh Partners Real Estate is a real estate agency in Elmhurst, IL.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/walsh-partners-real-estate-elmhurst/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/walsh-partners-real-estate-elmhurst.json",
+   "address": {
+    "addressLocality": "Elmhurst",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Elmhurst",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9034797,
+    "lon": -87.9400765
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8406072226",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 219,
+   "sponsored": false,
+   "slug": "weichart-realtors-chicago",
+   "name": "Weichart Realtors",
+   "summary": "Weichart Realtors is a real estate agency in Chicago, IL.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/weichart-realtors-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/weichart-realtors-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8922586,
+    "lon": -87.6345777
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10040117574",
+   "last_checked": "2026-10-17"
   }
- ]
+ ],
+ "market": {
+  "keyword": "realtor",
+  "slug": "realtor",
+  "base_keyword": "realtor",
+  "scope": "national",
+  "city": null,
+  "state": null,
+  "category": "real_estate",
+  "industry": "Real Estate",
+  "us_monthly_searches": {
+   "value": 90500,
+   "method": "cited",
+   "source": "gkp_admiral",
+   "as_of": "2026-08",
+   "source_phrase": "realtor near me",
+   "note": "Google Keyword Planner avg monthly searches, US"
+  },
+  "local_monthly_searches": null,
+  "cpc_usd": {
+   "industry_benchmark": "Real Estate",
+   "low_usd": 2.53,
+   "median_usd": 3.22,
+   "high_usd": 3.22,
+   "method": "published benchmarks: low/high = range of the industry and sub-industry median CPCs listed in 'figures'; median = most specific benchmark",
+   "figures": [
+    {
+     "usd": 3.22,
+     "label": "Real Estate median CPC 2026",
+     "source": "wordstream_2026"
+    },
+    {
+     "usd": 2.53,
+     "label": "Real Estate median CPC 2025",
+     "source": "wordstream_2025"
+    }
+   ],
+   "source": "wordstream_2026",
+   "as_of": "2026",
+   "keyword_top_of_page_bid_usd": {
+    "low": 3.7,
+    "high": 18.12,
+    "phrase": "realtor near me",
+    "source": "gkp_admiral",
+    "as_of": "2026-08"
+   },
+   "basis_for_value": {
+    "usd": 3.7,
+    "method": "low end of the Google Keyword Planner top-of-page bid range ($3.7-$18.12) for 'realtor near me' (conservative; keyword-specific)",
+    "source": "gkp_admiral"
+   }
+  },
+  "ctr_pct": {
+   "value": 8.43,
+   "label": "Real Estate average search-ad CTR 2025",
+   "source": "wordstream_2025",
+   "as_of": "2025-03"
+  },
+  "competition": {
+   "level": "high",
+   "method": "Google Keyword Planner competition index (advertiser density)",
+   "phrase": "realtor near me",
+   "source": "gkp_admiral",
+   "as_of": "2026-08"
+  },
+  "trend": null,
+  "seasonality": {
+   "value": null,
+   "note": "No seasonality data in the research sources for this keyword."
+  },
+  "ai_query": {
+   "text": "No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.",
+   "figures": [
+    {
+     "value": "45%",
+     "label": "US adults using AI for local recommendations",
+     "source": "brightlocal_lcrs_2026"
+    },
+    {
+     "value": "75%",
+     "label": "sessions with keyword-style prompts",
+     "source": "sagapixel_sel"
+    },
+    {
+     "value": "59%",
+     "label": "local-intent prompts that triggered web search",
+     "source": "nectiv"
+    }
+   ],
+   "as_of": "2026"
+  },
+  "registry_competitors": {
+   "value": 219,
+   "slugs": [
+    "a-and-g-realty-lyons",
+    "agents-listings-incubator-palatine",
+    "al-theisen-renovations-minneapolis",
+    "alden-pond-townhome-apartments-eagan",
+    "andrews-and-co-realty-new-lenox",
+    "anthony-g-loukas-chicago",
+    "apartment-people-chicago",
+    "apartment-people-chicago-n2838225114",
+    "ashworth-real-estate-coon-rapids",
+    "ask-nagel-realty-chicago"
+   ],
+   "method_id": "competitors",
+   "source": "registry",
+   "as_of": "2026-10-18",
+   "urls": [
+    "https://dingalinged-cpu.github.io/registry/c/a-and-g-realty-lyons/",
+    "https://dingalinged-cpu.github.io/registry/c/agents-listings-incubator-palatine/",
+    "https://dingalinged-cpu.github.io/registry/c/al-theisen-renovations-minneapolis/",
+    "https://dingalinged-cpu.github.io/registry/c/alden-pond-townhome-apartments-eagan/",
+    "https://dingalinged-cpu.github.io/registry/c/andrews-and-co-realty-new-lenox/",
+    "https://dingalinged-cpu.github.io/registry/c/anthony-g-loukas-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/apartment-people-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/apartment-people-chicago-n2838225114/",
+    "https://dingalinged-cpu.github.io/registry/c/ashworth-real-estate-coon-rapids/",
+    "https://dingalinged-cpu.github.io/registry/c/ask-nagel-realty-chicago/"
+   ],
+   "method": "count of registry listings tagged with the keyword (city/national) or with the base service in the same state (state keywords)"
+  },
+  "agent_demand": null,
+  "agent_demand_note": "Not yet measured. Will carry AI-agent query counts from the registry's agent analytics (contract: meta.agent_demand_contract in the market index).",
+  "equivalent_google_ads_cost_month": {
+   "value_usd": 28000,
+   "method": "estimate",
+   "method_id": "google_ads_equiv",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote."
+  },
+  "search_value_index": {
+   "value_usd": 330000,
+   "method": "estimate",
+   "method_id": "value_index",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: search value index = monthly searches x CPC basis; an advertiser-value ranking signal, not revenue; rounded to 2 significant figures."
+  },
+  "auction": {
+   "featured_spot_min_usd": 250,
+   "spots_2_to_4_min_usd": 25,
+   "tier": "high",
+   "pricing_rule": "tier minimum (premium $500, high $250, mid $100, standard $50) for national keywords; city = max($10, 20% of tier); state = max($10, 35% of tier); spots 2-4 open at 10% of the featured minimum",
+   "model": "Monthly auction in the last 7 days of each month: days 1-5 bid for the Featured #1 spot, days 6-7 for spots 2-4; winners display all next month; all paid spots labeled Sponsored.",
+   "next_auctions": [
+    {
+     "display_month": "2026-11",
+     "featured_spot_bidding": [
+      "2026-10-25",
+      "2026-10-29"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-10-30",
+      "2026-10-31"
+     ]
+    },
+    {
+     "display_month": "2026-12",
+     "featured_spot_bidding": [
+      "2026-11-24",
+      "2026-11-28"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-11-29",
+      "2026-11-30"
+     ]
+    }
+   ],
+   "source": "registry_auction",
+   "as_of": "2026-10-18"
+  },
+  "sources": {
+   "brightlocal_lcrs_2026": {
+    "name": "BrightLocal Local Consumer Review Survey 2026 (n=1,002 US adults)",
+    "url": "https://www.brightlocal.com/research/lcrs-ai-trust/",
+    "as_of": "2026"
+   },
+   "gkp_admiral": {
+    "name": "Google Keyword Planner export (US, 12-mo avg Sep 2025-Aug 2026; top-of-page bids converted INR->USD at 95.82 ECB 2026-09-25)",
+    "publisher": "Admiral (meetadmiral.com)",
+    "url": "https://meetadmiral.com/downloads/google-ads-cost-us-2025-09-to-2026-08.csv",
+    "as_of": "2026-08"
+   },
+   "nectiv": {
+    "name": "Nectiv study of 8,500+ ChatGPT prompts",
+    "url": "https://nectivdigital.com/blog/new-data-study-what-queries-is-chatgpt-using-behind-the-scenes",
+    "as_of": "2025"
+   },
+   "registry": {
+    "name": "This registry's own listings (OpenStreetMap-seeded, ODbL)",
+    "url": "https://dingalinged-cpu.github.io/registry/api/companies.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_auction": {
+    "name": "Registry keyword auction catalog and rules",
+    "url": "https://dingalinged-cpu.github.io/registry/api/keyword-prices.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_estimate": {
+    "name": "Registry estimate (CC-BY-4.0); method given on each value",
+    "url": "https://dingalinged-cpu.github.io/registry/market/",
+    "as_of": "2026-10-18"
+   },
+   "sagapixel_sel": {
+    "name": "Sagapixel ChatGPT local-services sessions, via Search Engine Land",
+    "url": "https://searchengineland.com/chatgpt-users-keywords-for-local-services-data-467715",
+    "as_of": "2026-01"
+   },
+   "wordstream_2025": {
+    "name": "WordStream Google Ads Benchmarks 2025 (16,446 US campaigns, Apr 2024-Mar 2025; median CPC and CTR by industry)",
+    "url": "https://www.wordstream.com/blog/2025-google-ads-benchmarks",
+    "as_of": "2025-03"
+   },
+   "wordstream_2026": {
+    "name": "LocaliQ/WordStream Search Advertising Benchmarks 2026 (US median CPC by industry)",
+    "url": "https://www.localiq.com/blog/search-advertising-benchmarks",
+    "as_of": "2026"
+   }
+  },
+  "license": {
+   "registry_estimates": "CC-BY-4.0",
+   "url": "https://creativecommons.org/licenses/by/4.0/",
+   "cited_figures": "attribute to the publishers in sources"
+  },
+  "as_of": "2026-10-18",
+  "api": "https://dingalinged-cpu.github.io/registry/api/market/realtor.json",
+  "rate_card": "https://dingalinged-cpu.github.io/registry/view/market.html#realtor"
+ }
 }

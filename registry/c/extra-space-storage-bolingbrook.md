@@ -1,0 +1,23 @@
+Extra Space Storage is a self-storage facility in Bolingbrook, IL at 1200 South Weber Road, Bolingbrook, IL 60490. Website: https://www.extraspace.com/storage/facilities/us/illinois/bolingbrook/.
+
+# Extra Space Storage
+
+- Category: storage units
+- Services: storage units
+- Address: 1200 South Weber Road, Bolingbrook, IL 60490
+- City: Bolingbrook
+- State: IL
+- ZIP: 60490
+- Coordinates: 41.6581865, -88.1258363
+- Phone: n/a
+- Website: https://www.extraspace.com/storage/facilities/us/illinois/bolingbrook/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/extra-space-storage-bolingbrook/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/extra-space-storage-bolingbrook.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1317383963 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,0 +1,504 @@
+{
+ "place": "Roselle, IL",
+ "slug": "roselle-il",
+ "count": 14,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "auto repair roselle il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-roselle-il.json"
+  },
+  {
+   "keyword": "car wash roselle il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-roselle-il.json"
+  },
+  {
+   "keyword": "dentist roselle il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-roselle-il.json"
+  },
+  {
+   "keyword": "facial roselle il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/facial-roselle-il.json"
+  },
+  {
+   "keyword": "financial advisor roselle il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/financial-advisor-roselle-il.json"
+  },
+  {
+   "keyword": "gym roselle il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-roselle-il.json"
+  },
+  {
+   "keyword": "hair salon roselle il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-roselle-il.json"
+  },
+  {
+   "keyword": "haircut roselle il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-roselle-il.json"
+  },
+  {
+   "keyword": "insurance agency roselle il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-roselle-il.json"
+  },
+  {
+   "keyword": "insurance agent roselle il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-roselle-il.json"
+  },
+  {
+   "keyword": "insurance agents roselle il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-roselle-il.json"
+  },
+  {
+   "keyword": "mechanic roselle il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-roselle-il.json"
+  },
+  {
+   "keyword": "podiatrist roselle il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/podiatrist-roselle-il.json"
+  },
+  {
+   "keyword": "real estate agent roselle il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/real-estate-agent-roselle-il.json"
+  },
+  {
+   "keyword": "realtor roselle il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/realtor-roselle-il.json"
+  },
+  {
+   "keyword": "tax preparation roselle il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tax-preparation-roselle-il.json"
+  },
+  {
+   "keyword": "tax preparer roselle il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tax-preparer-roselle-il.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "a2k-wellness-roselle",
+   "name": "A2K Wellness",
+   "summary": "A2K Wellness is a skin care studio in Roselle, IL at 474 West Lake Street, Roselle, IL 60172. Phone: +16306860033. Website: https://a2kwellness.com/.",
+   "categories": [
+    "facial"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/a2k-wellness-roselle/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/a2k-wellness-roselle.json",
+   "address": {
+    "streetAddress": "474 West Lake Street",
+    "addressLocality": "Roselle",
+    "addressRegion": "IL",
+    "postalCode": "60172",
+    "addressCountry": "US"
+   },
+   "city": "Roselle",
+   "state": "IL",
+   "zip": "60172",
+   "geo": {
+    "lat": 41.9629597,
+    "lon": -88.0954723
+   },
+   "phone": "+16306860033",
+   "website": "https://a2kwellness.com/",
+   "opening_hours": "Tu,We 09:00-15:30; Fr-Sa 09:00-14:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12131060509",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "j-p-cannata-and-associates-roselle",
+   "name": "J.P. Cannata & Associates",
+   "summary": "J.P. Cannata & Associates is a financial advisor in Roselle, IL at 25 East Main Street #202, Roselle, IL 60172. Phone: +18473180700. Website: https://jpcannata.com/.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/j-p-cannata-and-associates-roselle/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/j-p-cannata-and-associates-roselle.json",
+   "address": {
+    "streetAddress": "25 East Main Street #202",
+    "addressLocality": "Roselle",
+    "addressRegion": "IL",
+    "postalCode": "60172",
+    "addressCountry": "US"
+   },
+   "city": "Roselle",
+   "state": "IL",
+   "zip": "60172",
+   "geo": {
+    "lat": 41.9834908,
+    "lon": -88.0791372
+   },
+   "phone": "+18473180700",
+   "website": "https://jpcannata.com/",
+   "opening_hours": "Mo-Fr 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7401678941",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "afp-podiatry-dr-phillip-forni-roselle",
+   "name": "AFP Podiatry/ Dr. Phillip Forni",
+   "summary": "AFP Podiatry/ Dr. Phillip Forni is a podiatrist in Roselle, IL at 825 North Roselle Road, Roselle, IL 60172. Phone: +16305821100. Website: https://www.drforni.com/.",
+   "categories": [
+    "podiatrist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/afp-podiatry-dr-phillip-forni-roselle/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/afp-podiatry-dr-phillip-forni-roselle.json",
+   "address": {
+    "streetAddress": "825 North Roselle Road",
+    "addressLocality": "Roselle",
+    "addressRegion": "IL",
+    "postalCode": "60172",
+    "addressCountry": "US"
+   },
+   "city": "Roselle",
+   "state": "IL",
+   "zip": "60172",
+   "geo": {
+    "lat": 41.9988786,
+    "lon": -88.0789583
+   },
+   "phone": "+16305821100",
+   "website": "https://www.drforni.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4728835744",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "charlotte-devito-ltd-roselle",
+   "name": "Charlotte DeVito Ltd",
+   "summary": "Charlotte DeVito Ltd is a tax preparation service in Roselle, IL at 230 West Devon Avenue, Roselle, IL 60172. Phone: +16308943101. Website: https://www.charlottedevitoltd-il.com/.",
+   "categories": [
+    "tax preparation"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/charlotte-devito-ltd-roselle/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/charlotte-devito-ltd-roselle.json",
+   "address": {
+    "streetAddress": "230 West Devon Avenue",
+    "addressLocality": "Roselle",
+    "addressRegion": "IL",
+    "postalCode": "60172",
+    "addressCountry": "US"
+   },
+   "city": "Roselle",
+   "state": "IL",
+   "zip": "60172",
+   "geo": {
+    "lat": 41.9907177,
+    "lon": -88.0873039
+   },
+   "phone": "+16308943101",
+   "website": "https://www.charlottedevitoltd-il.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6378215393",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "mcallister-real-estate-roselle",
+   "name": "McAllister Real Estate",
+   "summary": "McAllister Real Estate is a real estate agency in Roselle, IL at 111 Main Street #A, Roselle, IL 60172. Phone: +16303540444. Website: https://mcallisterrealestategroup.com/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mcallister-real-estate-roselle/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mcallister-real-estate-roselle.json",
+   "address": {
+    "streetAddress": "111 Main Street #A",
+    "addressLocality": "Roselle",
+    "addressRegion": "IL",
+    "postalCode": "60172",
+    "addressCountry": "US"
+   },
+   "city": "Roselle",
+   "state": "IL",
+   "zip": "60172",
+   "geo": {
+    "lat": 41.9831399,
+    "lon": -88.0770265
+   },
+   "phone": "+16303540444",
+   "website": "https://mcallisterrealestategroup.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/14024668195",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "velarde-salon-and-spa-roselle",
+   "name": "Velarde Salon & Spa",
+   "summary": "Velarde Salon & Spa is a hair salon in Roselle, IL at 54 North Bokelman St, Roselle, IL 60172. Phone: +18475348778. Website: https://www.velardesalon.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/velarde-salon-and-spa-roselle/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/velarde-salon-and-spa-roselle.json",
+   "address": {
+    "streetAddress": "54 North Bokelman St",
+    "addressLocality": "Roselle",
+    "addressRegion": "IL",
+    "postalCode": "60172",
+    "addressCountry": "US"
+   },
+   "city": "Roselle",
+   "state": "IL",
+   "zip": "60172",
+   "geo": {
+    "lat": 41.9849479,
+    "lon": -88.0789704
+   },
+   "phone": "+18475348778",
+   "website": "https://www.velardesalon.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13894007901",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "murphy-family-insurance-roselle",
+   "name": "Murphy Family Insurance",
+   "summary": "Murphy Family Insurance is an insurance agent in Roselle, IL. Phone: +16304421928. Website: https://agents.allstate.com/murphy-family-insurance-roselle-il.html.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/murphy-family-insurance-roselle/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/murphy-family-insurance-roselle.json",
+   "address": {
+    "addressLocality": "Roselle",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Roselle",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9807781,
+    "lon": -88.0646593
+   },
+   "phone": "+16304421928",
+   "website": "https://agents.allstate.com/murphy-family-insurance-roselle-il.html",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 12.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8464923447",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "clauss-recreation-center-roselle",
+   "name": "Clauss Recreation Center",
+   "summary": "Clauss Recreation Center is a gym in Roselle, IL at 555 West Bryn Mawr Avenue, Roselle, IL 60172. Website: https://www.rparks.org/parks-and-facilities/clauss-recreation-center.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/clauss-recreation-center-roselle/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/clauss-recreation-center-roselle.json",
+   "address": {
+    "streetAddress": "555 West Bryn Mawr Avenue",
+    "addressLocality": "Roselle",
+    "addressRegion": "IL",
+    "postalCode": "60172",
+    "addressCountry": "US"
+   },
+   "city": "Roselle",
+   "state": "IL",
+   "zip": "60172",
+   "geo": {
+    "lat": 41.9748826,
+    "lon": -88.0933452
+   },
+   "website": "https://www.rparks.org/parks-and-facilities/clauss-recreation-center",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/884516260",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "bp-roselle",
+   "name": "BP",
+   "summary": "BP is a car wash in Roselle, IL at 5 Irving Park Road, Roselle, IL 60172.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bp-roselle/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bp-roselle.json",
+   "address": {
+    "streetAddress": "5 Irving Park Road",
+    "addressLocality": "Roselle",
+    "addressRegion": "IL",
+    "postalCode": "60172",
+    "addressCountry": "US"
+   },
+   "city": "Roselle",
+   "state": "IL",
+   "zip": "60172",
+   "geo": {
+    "lat": 41.984758,
+    "lon": -88.0811883
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/832382218",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "west-lake-dental-care-of-roselle-roselle",
+   "name": "West Lake Dental Care of Roselle",
+   "summary": "West Lake Dental Care of Roselle is a dentist in Roselle, IL at 1260 West Lake Street, Roselle, IL 60172.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/west-lake-dental-care-of-roselle-roselle/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/west-lake-dental-care-of-roselle-roselle.json",
+   "address": {
+    "streetAddress": "1260 West Lake Street",
+    "addressLocality": "Roselle",
+    "addressRegion": "IL",
+    "postalCode": "60172",
+    "addressCountry": "US"
+   },
+   "city": "Roselle",
+   "state": "IL",
+   "zip": "60172",
+   "geo": {
+    "lat": 41.9692606,
+    "lon": -88.111965
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13205549266",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "dental-center-roselle",
+   "name": "Dental Center",
+   "summary": "Dental Center is a dentist in Roselle, IL.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dental-center-roselle/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dental-center-roselle.json",
+   "address": {
+    "addressLocality": "Roselle",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Roselle",
+   "state": "IL",
+   "geo": {
+    "lat": 42.0001694,
+    "lon": -88.0596428
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2709304007",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "jiffy-lube-roselle",
+   "name": "Jiffy Lube",
+   "summary": "Jiffy Lube is an auto repair shop in Roselle, IL.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jiffy-lube-roselle/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jiffy-lube-roselle.json",
+   "address": {
+    "addressLocality": "Roselle",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Roselle",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9634142,
+    "lon": -88.0964084
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6558060980",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "shell-roselle",
+   "name": "Shell",
+   "summary": "Shell is a car wash in Roselle, IL.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/shell-roselle/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/shell-roselle.json",
+   "address": {
+    "addressLocality": "Roselle",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Roselle",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9854874,
+    "lon": -88.0810051
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/832382217",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "shell-roselle-w850669794",
+   "name": "Shell",
+   "summary": "Shell is a car wash in Roselle, IL.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/shell-roselle-w850669794/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/shell-roselle-w850669794.json",
+   "address": {
+    "addressLocality": "Roselle",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Roselle",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9725234,
+    "lon": -88.1183886
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/850669794",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

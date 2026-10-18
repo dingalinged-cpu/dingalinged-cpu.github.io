@@ -1,0 +1,57 @@
+{
+ "slug": "wework-chicago",
+ "name": "WeWork",
+ "categories": [
+  "coworking space"
+ ],
+ "keywords": [
+  "coworking space",
+  "coworking space chicago il"
+ ],
+ "services": [
+  {
+   "name": "coworking space",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "330 North Wabash Avenue #23rd Floor",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60611",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60611",
+ "geo": {
+  "lat": 41.8884208,
+  "lon": -87.6276099
+ },
+ "opening_hours": "Mo-Fr 08:00-17:00",
+ "brand": "WeWork",
+ "wikidata": "Q19995004",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/10115398842",
+ "osm": {
+  "type": "node",
+  "id": 10115398842,
+  "tags_used": {
+   "office": "coworking"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/wework-chicago/",
+ "summary": "WeWork is a coworking space in Chicago, IL at 330 North Wabash Avenue #23rd Floor, Chicago, IL 60611.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

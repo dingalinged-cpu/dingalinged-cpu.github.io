@@ -1,0 +1,78 @@
+{
+ "slug": "route-66-auto-service-willowbrook",
+ "name": "Route 66 Auto Service",
+ "categories": [
+  "auto repair"
+ ],
+ "keywords": [
+  "auto repair",
+  "mechanic",
+  "oil change",
+  "tire shop",
+  "auto repair willowbrook il",
+  "mechanic willowbrook il",
+  "oil change willowbrook il",
+  "tire shop willowbrook il"
+ ],
+ "services": [
+  {
+   "name": "auto repair",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "mechanic",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "oil change",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "tire shop",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "7551 South Madison Street",
+  "addressLocality": "Willowbrook",
+  "addressRegion": "IL",
+  "postalCode": "60527",
+  "addressCountry": "US"
+ },
+ "city": "Willowbrook",
+ "state": "IL",
+ "zip": "60527",
+ "geo": {
+  "lat": 41.7509443,
+  "lon": -87.9345616
+ },
+ "phone": "+16309200905",
+ "website": "https://www.rt66autoservice.com/",
+ "email": "rt66autoservice@gmail.com",
+ "opening_hours": "Mo-Fr 08:00-17:00; Sa 08:00-12:00; Su off",
+ "social": [
+  "https://www.facebook.com/Route-66-Auto-Service-566744866721423/"
+ ],
+ "schema_type": "AutoRepair",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/12714701631",
+ "osm": {
+  "type": "node",
+  "id": 12714701631,
+  "tags_used": {
+   "shop": "car_repair"
+  }
+ },
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/route-66-auto-service-willowbrook/",
+ "summary": "Route 66 Auto Service is an auto repair shop in Willowbrook, IL at 7551 South Madison Street, Willowbrook, IL 60527. Phone: +16309200905. Website: https://www.rt66autoservice.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

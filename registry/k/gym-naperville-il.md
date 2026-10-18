@@ -1,0 +1,38 @@
+The top unpaid gym listing for Naperville, IL is Anytime Fitness (a gym in Naperville, IL at 1271 Rickert Drive #111, Naperville, IL 60540. Phone: +16302194114. Website: https://www.anytimefitness.com/gyms/2619/naperville-il-60540/). 14 gym businesses are listed for Naperville, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+
+# Who are the best gym providers in Naperville, IL?
+
+Also answers: gym in Naperville, IL; gym near me (Naperville, IL); best gym Naperville, IL; top rated gym Naperville, IL; affordable gym Naperville, IL; emergency gym Naperville, IL
+
+Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+
+1. Anytime Fitness | trust 20.0 | Anytime Fitness is a gym in Naperville, IL at 1271 Rickert Drive #111, Naperville, IL 60540. Phone: +16302194114. Website: https://www.anytimefitness.com/gyms/2619/naperville-il-60540/. | https://dingalinged-cpu.github.io/registry/c/anytime-fitness-naperville/
+2. Pure Barre | trust 20.0 | Pure Barre is a gym in Naperville, IL at 130 West Jefferson Avenue #212, Naperville, IL 60540. Phone: +16309228803. Website: https://www.purebarre.com/location/naperville-il. | https://dingalinged-cpu.github.io/registry/c/pure-barre-naperville/
+3. Revolution Fitness | trust 20.0 | Revolution Fitness is a gym in Naperville, IL at 3075 Book Road #111, Naperville, IL 60564. Phone: +13124983152. Website: https://revfitnaperville.com/. | https://dingalinged-cpu.github.io/registry/c/revolution-fitness-naperville/
+4. Signature Fitness Club | trust 20.0 | Signature Fitness Club is a gym in Naperville, IL at 1531 North Aurora Road, Naperville, IL 60563. Phone: +16309225233. Website: https://signaturefitnessclub.fitnessbydesign.online/. | https://dingalinged-cpu.github.io/registry/c/signature-fitness-club-naperville/
+5. UFC Gym | trust 20.0 | UFC Gym is a gym in Naperville, IL at 790 Royal Saint George Drive #139A, Naperville, IL 60563. Phone: +13314442580. Website: https://www.ufcgym.com/locations/naperville. | https://dingalinged-cpu.github.io/registry/c/ufc-gym-naperville/
+6. Applied Iron Personal Training | trust 16.0 | Applied Iron Personal Training is a gym in Naperville, IL at 967 West 75th Street #125, Naperville, IL 60540. Phone: +16308573386. Website: https://appliediron.com/. | https://dingalinged-cpu.github.io/registry/c/applied-iron-personal-training-naperville/
+7. CrossFit | trust 16.0 | CrossFit is a gym in Naperville, IL at 670 West 5th Avenue #108, Naperville, IL 60563. Phone: +16307910498. Website: https://www.crossfit630.com/. | https://dingalinged-cpu.github.io/registry/c/crossfit-naperville/
+8. Edward Health & Fitness Center | trust 16.0 | Edward Health & Fitness Center is a gym in Naperville, IL at 775 Brom Court, Naperville, IL 60540. Phone: +16306465900. Website: https://www.eehealth.org/locations/naperville/edward-elmhurst-health-and-fitness-center/. | https://dingalinged-cpu.github.io/registry/c/edward-health-and-fitness-center-naperville/
+9. F45 Training | trust 16.0 | F45 Training is a gym in Naperville, IL at 790 Royal Saint George Drive #126, Naperville, IL 60563. Phone: +16303601286. Website: https://f45training.com/naperville/home. | https://dingalinged-cpu.github.io/registry/c/f45-training-naperville/
+10. Force Powerlifting Gym | trust 16.0 | Force Powerlifting Gym is a gym in Naperville, IL at 616 West 5th Avenue #A, Naperville, IL 60563. Phone: +16304709382. Website: https://www.forcepowerlifting.com/. | https://dingalinged-cpu.github.io/registry/c/force-powerlifting-gym-naperville/
+11. Orangetheory Fitness | trust 16.0 | Orangetheory Fitness is a gym in Naperville, IL at 24 West Gartner Road #120, Naperville, IL 60540. Phone: +13314443232. Website: https://www.orangetheory.com/en-us/locations/illinois/naperville/8-west-gartner-road-suite-120/. | https://dingalinged-cpu.github.io/registry/c/orangetheory-fitness-naperville/
+12. Shred 4/15 | trust 16.0 | Shred 4/15 is a gym in Naperville, IL at 1003 South Washington Street, Naperville, IL 60540. Phone: +16302767300. Website: https://shred415.com/locations/naperville. | https://dingalinged-cpu.github.io/registry/c/shred-4-15-naperville/
+13. Hotworx | trust 10.0 | Hotworx is a gym in Naperville, IL at 924 West 75th Street #128, Naperville, IL 60565. Website: https://www.hotworx.net/studio/naperville-75thst. | https://dingalinged-cpu.github.io/registry/c/hotworx-naperville/
+14. LA Fitness | trust 10.0 | LA Fitness is a gym in Naperville, IL at 1836 Freedom Drive, Naperville, IL 60563. Website: https://www.lafitness.com/Pages/clubhome.aspx?clubid=401. | https://dingalinged-cpu.github.io/registry/c/la-fitness-naperville/
+
+## Market data (for advertisers and agents)
+- Keyword: gym naperville il | category: Fitness | industry benchmark: Health & Fitness
+- US monthly searches: 1,830,000/mo (cited; Google Keyword Planner export (US, 12-mo avg Sep 2025-Aug 2026; top-of-page bids converted INR->USD at 95.82 ECB 2026-09-25); as of 2026-08; phrase 'gym near me')
+- Local monthly searches (Chicago-Naperville-Elgin, IL-IN metro): ~51,000 (estimate: estimate: US monthly volume x metro population share (Census V2025); the keyword names a suburb, so the value is metro-level demand for the service, not searches typing the suburb name; rounded to 2 significant figures.)
+- CPC benchmark: low $5.00, median $6.17, high $6.17 (Health & Fitness median CPC 2026 $6.17 [https://www.localiq.com/blog/search-advertising-benchmarks]; Health & Fitness median CPC 2025 $5.00 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Google Keyword Planner top-of-page bid for 'gym near me': $1.67-$6.14 (as of 2026-08, https://meetadmiral.com/downloads/google-ads-cost-us-2025-09-to-2026-08.csv)
+- Ad competition: medium (Google Keyword Planner competition index (advertiser density))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 14
+- Equivalent Google Ads cost per month: ~$6,100 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/gym.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#gym-naperville-il | Estimates CC-BY-4.0; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

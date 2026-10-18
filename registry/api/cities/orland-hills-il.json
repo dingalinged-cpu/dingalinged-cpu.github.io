@@ -1,0 +1,736 @@
+{
+ "place": "Orland Hills, IL",
+ "slug": "orland-hills-il",
+ "count": 23,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "attorney orland hills il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/attorney-orland-hills-il.json"
+  },
+  {
+   "keyword": "auto repair orland hills il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-orland-hills-il.json"
+  },
+  {
+   "keyword": "car wash orland hills il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-orland-hills-il.json"
+  },
+  {
+   "keyword": "chiropractor orland hills il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/chiropractor-orland-hills-il.json"
+  },
+  {
+   "keyword": "event venues orland hills il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/event-venues-orland-hills-il.json"
+  },
+  {
+   "keyword": "facial orland hills il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/facial-orland-hills-il.json"
+  },
+  {
+   "keyword": "financial advisor orland hills il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/financial-advisor-orland-hills-il.json"
+  },
+  {
+   "keyword": "gift shop orland hills il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gift-shop-orland-hills-il.json"
+  },
+  {
+   "keyword": "gym orland hills il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-orland-hills-il.json"
+  },
+  {
+   "keyword": "hair salon orland hills il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-orland-hills-il.json"
+  },
+  {
+   "keyword": "haircut orland hills il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-orland-hills-il.json"
+  },
+  {
+   "keyword": "insurance agency orland hills il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-orland-hills-il.json"
+  },
+  {
+   "keyword": "insurance agent orland hills il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-orland-hills-il.json"
+  },
+  {
+   "keyword": "insurance agents orland hills il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-orland-hills-il.json"
+  },
+  {
+   "keyword": "lawyer orland hills il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/lawyer-orland-hills-il.json"
+  },
+  {
+   "keyword": "mechanic orland hills il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-orland-hills-il.json"
+  },
+  {
+   "keyword": "nail salon orland hills il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/nail-salon-orland-hills-il.json"
+  },
+  {
+   "keyword": "pet store orland hills il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/pet-store-orland-hills-il.json"
+  },
+  {
+   "keyword": "physical therapy orland hills il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/physical-therapy-orland-hills-il.json"
+  },
+  {
+   "keyword": "storage units orland hills il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/storage-units-orland-hills-il.json"
+  },
+  {
+   "keyword": "waxing orland hills il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/waxing-orland-hills-il.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "petsmart-orland-hills",
+   "name": "PetSmart",
+   "summary": "PetSmart is a pet store in Orland Hills, IL at 9277 West 159th Street, Orland Hills, IL 60487. Phone: +17084601116. Website: https://www.petsmart.com/stores/us/il/orland-hills-store0425.html.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petsmart-orland-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petsmart-orland-hills.json",
+   "address": {
+    "streetAddress": "9277 West 159th Street",
+    "addressLocality": "Orland Hills",
+    "addressRegion": "IL",
+    "postalCode": "60487",
+    "addressCountry": "US"
+   },
+   "city": "Orland Hills",
+   "state": "IL",
+   "zip": "60487",
+   "geo": {
+    "lat": 41.5988338,
+    "lon": -87.8466293
+   },
+   "phone": "+17084601116",
+   "website": "https://www.petsmart.com/stores/us/il/orland-hills-store0425.html",
+   "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9233266068",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "georgios-orland-park",
+   "name": "Georgio's",
+   "summary": "Georgio's is an event venue in Orland Park, IL at 8800 West 159th Street, Orland Park, IL 60462. Phone: +17084031757. Website: https://georgios.com/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/georgios-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/georgios-orland-park.json",
+   "address": {
+    "streetAddress": "8800 West 159th Street",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60462",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60462",
+   "geo": {
+    "lat": 41.6025179,
+    "lon": -87.8339553
+   },
+   "phone": "+17084031757",
+   "website": "https://georgios.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10310231584",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "goodyear-orland-hills",
+   "name": "Goodyear",
+   "summary": "Goodyear is an auto repair shop in Orland Hills, IL at 8843 West 159th Street, Orland Hills, IL 60487.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/goodyear-orland-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/goodyear-orland-hills.json",
+   "address": {
+    "streetAddress": "8843 West 159th Street",
+    "addressLocality": "Orland Hills",
+    "addressRegion": "IL",
+    "postalCode": "60487",
+    "addressCountry": "US"
+   },
+   "city": "Orland Hills",
+   "state": "IL",
+   "zip": "60487",
+   "geo": {
+    "lat": 41.6011786,
+    "lon": -87.8357321
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9440267769",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "public-storage-orland-hills",
+   "name": "Public Storage",
+   "summary": "Public Storage is a self-storage facility in Orland Hills, IL at 8901 West 159th Street, Orland Hills, IL 60487.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/public-storage-orland-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/public-storage-orland-hills.json",
+   "address": {
+    "streetAddress": "8901 West 159th Street",
+    "addressLocality": "Orland Hills",
+    "addressRegion": "IL",
+    "postalCode": "60487",
+    "addressCountry": "US"
+   },
+   "city": "Orland Hills",
+   "state": "IL",
+   "zip": "60487",
+   "geo": {
+    "lat": 41.6011766,
+    "lon": -87.8360754
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1023700430",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "5-star-cuts-orland-hills",
+   "name": "5 Star Cuts",
+   "summary": "5 Star Cuts is a hair salon in Orland Hills, IL.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/5-star-cuts-orland-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/5-star-cuts-orland-hills.json",
+   "address": {
+    "addressLocality": "Orland Hills",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Orland Hills",
+   "state": "IL",
+   "geo": {
+    "lat": 41.5964195,
+    "lon": -87.8471398
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10074073320",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "achieve-physical-therapy-orland-hills",
+   "name": "Achieve Physical Therapy",
+   "summary": "Achieve Physical Therapy is a physical therapy clinic in Orland Hills, IL.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/achieve-physical-therapy-orland-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/achieve-physical-therapy-orland-hills.json",
+   "address": {
+    "addressLocality": "Orland Hills",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Orland Hills",
+   "state": "IL",
+   "geo": {
+    "lat": 41.6008288,
+    "lon": -87.8409855
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9441052897",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "allstate-orland-hills",
+   "name": "Allstate",
+   "summary": "Allstate is an insurance agent in Orland Hills, IL.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/allstate-orland-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/allstate-orland-hills.json",
+   "address": {
+    "addressLocality": "Orland Hills",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Orland Hills",
+   "state": "IL",
+   "geo": {
+    "lat": 41.6008378,
+    "lon": -87.8412283
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9441052899",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "bella-d-nna-salon-orland-hills",
+   "name": "Bella Dōnna Salon",
+   "summary": "Bella Dōnna Salon is a hair salon in Orland Hills, IL.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bella-d-nna-salon-orland-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bella-d-nna-salon-orland-hills.json",
+   "address": {
+    "addressLocality": "Orland Hills",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Orland Hills",
+   "state": "IL",
+   "geo": {
+    "lat": 41.6008318,
+    "lon": -87.8410968
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9441052898",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "chiro-one-orland-hills",
+   "name": "Chiro One",
+   "summary": "Chiro One is a chiropractor in Orland Hills, IL.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chiro-one-orland-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chiro-one-orland-hills.json",
+   "address": {
+    "addressLocality": "Orland Hills",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Orland Hills",
+   "state": "IL",
+   "geo": {
+    "lat": 41.6008318,
+    "lon": -87.8413396
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9441052900",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "circle-k-orland-hills",
+   "name": "Circle K",
+   "summary": "Circle K is a car wash in Orland Hills, IL.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/circle-k-orland-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/circle-k-orland-hills.json",
+   "address": {
+    "addressLocality": "Orland Hills",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Orland Hills",
+   "state": "IL",
+   "geo": {
+    "lat": 41.5799489,
+    "lon": -87.8456841
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/545358581",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "davi-nails-orland-hills",
+   "name": "DaVi Nails",
+   "summary": "DaVi Nails is a nail salon in Orland Hills, IL.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/davi-nails-orland-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/davi-nails-orland-hills.json",
+   "address": {
+    "addressLocality": "Orland Hills",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Orland Hills",
+   "state": "IL",
+   "geo": {
+    "lat": 41.5986073,
+    "lon": -87.8429153
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9487407273",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "five-star-cuts-orland-hills",
+   "name": "Five Star Cuts",
+   "summary": "Five Star Cuts is a hair salon in Orland Hills, IL.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/five-star-cuts-orland-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/five-star-cuts-orland-hills.json",
+   "address": {
+    "addressLocality": "Orland Hills",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Orland Hills",
+   "state": "IL",
+   "geo": {
+    "lat": 41.5799733,
+    "lon": -87.8463062
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9631914594",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "hallmark-orland-hills",
+   "name": "Hallmark",
+   "summary": "Hallmark is a gift shop in Orland Hills, IL.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hallmark-orland-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hallmark-orland-hills.json",
+   "address": {
+    "addressLocality": "Orland Hills",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Orland Hills",
+   "state": "IL",
+   "geo": {
+    "lat": 41.6002318,
+    "lon": -87.846522
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9233266073",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "law-and-professional-center-orland-hills",
+   "name": "Law and Professional Center",
+   "summary": "Law and Professional Center is a lawyer in Orland Hills, IL.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/law-and-professional-center-orland-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/law-and-professional-center-orland-hills.json",
+   "address": {
+    "addressLocality": "Orland Hills",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Orland Hills",
+   "state": "IL",
+   "geo": {
+    "lat": 41.5977146,
+    "lon": -87.8474858
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1023800958",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "michael-e-hastings-sports-complex-orland-hills",
+   "name": "Michael E. Hastings Sports Complex",
+   "summary": "Michael E. Hastings Sports Complex is a gym in Orland Hills, IL.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/michael-e-hastings-sports-complex-orland-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/michael-e-hastings-sports-complex-orland-hills.json",
+   "address": {
+    "addressLocality": "Orland Hills",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Orland Hills",
+   "state": "IL",
+   "geo": {
+    "lat": 41.5887848,
+    "lon": -87.8433056
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1421248836",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "perfection-salon-orland-hills",
+   "name": "Perfection Salon",
+   "summary": "Perfection Salon is a hair salon in Orland Hills, IL.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/perfection-salon-orland-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/perfection-salon-orland-hills.json",
+   "address": {
+    "addressLocality": "Orland Hills",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Orland Hills",
+   "state": "IL",
+   "geo": {
+    "lat": 41.5963693,
+    "lon": -87.8471827
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10074073319",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "phils-barber-and-styling-station-orland-hills",
+   "name": "Phil's Barber & Styling Station",
+   "summary": "Phil's Barber & Styling Station is a hair salon in Orland Hills, IL.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/phils-barber-and-styling-station-orland-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/phils-barber-and-styling-station-orland-hills.json",
+   "address": {
+    "addressLocality": "Orland Hills",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Orland Hills",
+   "state": "IL",
+   "geo": {
+    "lat": 41.6011545,
+    "lon": -87.8366159
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9440267781",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "phoenix-salon-suites-orland-hills",
+   "name": "Phoenix Salon Suites",
+   "summary": "Phoenix Salon Suites is a hair salon in Orland Hills, IL.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/phoenix-salon-suites-orland-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/phoenix-salon-suites-orland-hills.json",
+   "address": {
+    "addressLocality": "Orland Hills",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Orland Hills",
+   "state": "IL",
+   "geo": {
+    "lat": 41.5998808,
+    "lon": -87.8465086
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9233266071",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "polished-lounge-orland-hills",
+   "name": "Polished Lounge",
+   "summary": "Polished Lounge is a nail salon in Orland Hills, IL.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/polished-lounge-orland-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/polished-lounge-orland-hills.json",
+   "address": {
+    "addressLocality": "Orland Hills",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Orland Hills",
+   "state": "IL",
+   "geo": {
+    "lat": 41.6002258,
+    "lon": -87.8438639
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9233266078",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "schrank-and-associates-inc-orland-hills",
+   "name": "Schrank & Associates, Inc.",
+   "summary": "Schrank & Associates, Inc. is a financial advisor in Orland Hills, IL.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/schrank-and-associates-inc-orland-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/schrank-and-associates-inc-orland-hills.json",
+   "address": {
+    "addressLocality": "Orland Hills",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Orland Hills",
+   "state": "IL",
+   "geo": {
+    "lat": 41.6012087,
+    "lon": -87.8353982
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9440267767",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "seva-beauty-orland-hills",
+   "name": "Seva Beauty",
+   "summary": "Seva Beauty is a skin care studio in Orland Hills, IL.",
+   "categories": [
+    "facial"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/seva-beauty-orland-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/seva-beauty-orland-hills.json",
+   "address": {
+    "addressLocality": "Orland Hills",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Orland Hills",
+   "state": "IL",
+   "geo": {
+    "lat": 41.5987164,
+    "lon": -87.8427934
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9487407274",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "sport-clips-orland-hills",
+   "name": "Sport Clips",
+   "summary": "Sport Clips is a hair salon in Orland Hills, IL.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sport-clips-orland-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sport-clips-orland-hills.json",
+   "address": {
+    "addressLocality": "Orland Hills",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Orland Hills",
+   "state": "IL",
+   "geo": {
+    "lat": 41.6001626,
+    "lon": -87.8437808
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9233266077",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "state-farm-orland-hills",
+   "name": "State Farm",
+   "summary": "State Farm is an insurance agent in Orland Hills, IL.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/state-farm-orland-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/state-farm-orland-hills.json",
+   "address": {
+    "addressLocality": "Orland Hills",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Orland Hills",
+   "state": "IL",
+   "geo": {
+    "lat": 41.6011545,
+    "lon": -87.8367755
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9440267782",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

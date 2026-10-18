@@ -1,0 +1,58 @@
+{
+ "slug": "orland-toyota-tinley-park",
+ "name": "Orland Toyota",
+ "categories": [
+  "used cars for sale"
+ ],
+ "keywords": [
+  "used cars for sale",
+  "used cars for sale tinley park il"
+ ],
+ "services": [
+  {
+   "name": "used cars for sale",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "8505 West 159th Street",
+  "addressLocality": "Tinley Park",
+  "addressRegion": "IL",
+  "postalCode": "60487",
+  "addressCountry": "US"
+ },
+ "city": "Tinley Park",
+ "state": "IL",
+ "zip": "60487",
+ "geo": {
+  "lat": 41.6011289,
+  "lon": -87.8259617
+ },
+ "phone": "+17084282720",
+ "website": "https://www.orlandtoyota.com/",
+ "brand": "Toyota",
+ "wikidata": "Q53268",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/1128330436",
+ "osm": {
+  "type": "way",
+  "id": 1128330436,
+  "tags_used": {
+   "shop": "car"
+  }
+ },
+ "municipality": "Tinley Park",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/orland-toyota-tinley-park/",
+ "summary": "Orland Toyota is an used car dealer in Tinley Park, IL at 8505 West 159th Street, Tinley Park, IL 60487. Phone: +17084282720. Website: https://www.orlandtoyota.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

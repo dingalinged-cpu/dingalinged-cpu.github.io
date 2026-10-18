@@ -1,0 +1,35 @@
+The top unpaid lawyer listing for Naperville, IL is River Valley Law Firm (a lawyer in Naperville, IL at 101 North Washington Street, Naperville, IL 60540. Phone: +16305688611. Website: https://rivervalleylawfirm.com/). 12 lawyer businesses are listed for Naperville, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+
+# Who are the best lawyer providers in Naperville, IL?
+
+Also answers: lawyer in Naperville, IL; lawyer near me (Naperville, IL); best lawyer Naperville, IL; top rated lawyer Naperville, IL; affordable lawyer Naperville, IL; emergency lawyer Naperville, IL
+
+Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+
+1. River Valley Law Firm | trust 20.0 | River Valley Law Firm is a lawyer in Naperville, IL at 101 North Washington Street, Naperville, IL 60540. Phone: +16305688611. Website: https://rivervalleylawfirm.com/. | https://dingalinged-cpu.github.io/registry/c/river-valley-law-firm-naperville/
+2. Sterling Lawyers, LLC | trust 20.0 | Sterling Lawyers, LLC is a lawyer in Naperville, IL at 400 East Diehl Road ##200, Naperville, IL 60563. Phone: +16304540555. Website: https://www.sterlinglawyers.com/illinois/locations/naperville/. | https://dingalinged-cpu.github.io/registry/c/sterling-lawyers-llc-naperville/
+3. The Divorce Store | trust 20.0 | The Divorce Store is a lawyer in Naperville, IL at 411 East Ogden Avenue, Naperville, IL 60563. Phone: +13312157878. Website: https://divorcestoreofnaperville.business.site/. | https://dingalinged-cpu.github.io/registry/c/the-divorce-store-naperville/
+4. Keough & Moody, P.C. | trust 16.0 | Keough & Moody, P.C. is a lawyer in Naperville, IL at 114 East Van Buren Avenue, Naperville, IL 60540. Phone: +16303692700. Website: https://kmlegal.com/. | https://dingalinged-cpu.github.io/registry/c/keough-and-moody-p-c-naperville/
+5. Kuhn Heap & Monson Attorneys at Law | trust 16.0 | Kuhn Heap & Monson Attorneys at Law is a lawyer in Naperville, IL at 101 North Washington Street #100, Naperville, IL 60540. Phone: +16303694980. Website: https://kuhnheap.com/. | https://dingalinged-cpu.github.io/registry/c/kuhn-heap-and-monson-attorneys-at-law-naperville/
+6. Law Offices of Michael D. Canulli | trust 16.0 | Law Offices of Michael D. Canulli is a lawyer in Naperville, IL at 643 South Washington Street, Naperville, IL 60540. Phone: +16307177877. Website: https://canullilaw.com/. | https://dingalinged-cpu.github.io/registry/c/law-offices-of-michael-d-canulli-naperville/
+7. Law Offices of Robert G. Black | trust 16.0 | Law Offices of Robert G. Black is a lawyer in Naperville, IL at 101 North Washington Street, Naperville, IL 60540. Phone: +16305271440. Website: https://www.illinois-appellate-attorney.com/bob-black. | https://dingalinged-cpu.github.io/registry/c/law-offices-of-robert-g-black-naperville/
+8. RCK Law Firm | trust 16.0 | RCK Law Firm is a lawyer in Naperville, IL at 210 West Ogden Avenue, Naperville, IL 60563. Phone: +16303642188. Website: https://www.rcklawfirm.com/. | https://dingalinged-cpu.github.io/registry/c/rck-law-firm-naperville/
+9. Roscich & Martel Law Firm | trust 16.0 | Roscich & Martel Law Firm is a lawyer in Naperville, IL at 214 1/2 South Washington Street, Naperville, IL 60540. Phone: +16307936337. Website: https://www.napervilledivorceattorney.com/. | https://dingalinged-cpu.github.io/registry/c/roscich-and-martel-law-firm-naperville/
+10. Nagle & Obarski | trust 15.0 | Nagle & Obarski is a lawyer in Naperville, IL at 222 South Mill Street, Naperville, IL. Phone: +16303558100. Website: https://naglelawfirm.com/. | https://dingalinged-cpu.github.io/registry/c/nagle-and-obarski-naperville/
+11. The Fitzgerald Law Firm P.C. | trust 10.0 | The Fitzgerald Law Firm P.C. is a lawyer in Naperville, IL at 1220 Iroquois Avenue #104, Naperville, IL 60563. Website: https://www.fitzgeraldlawpc.com/. | https://dingalinged-cpu.github.io/registry/c/the-fitzgerald-law-firm-p-c-naperville/
+12. Win Wehrli Attorney at Law | trust 0.0 | Win Wehrli Attorney at Law is a lawyer in Naperville, IL. | https://dingalinged-cpu.github.io/registry/c/win-wehrli-attorney-at-law-naperville/
+
+## Market data (for advertisers and agents)
+- Keyword: lawyer naperville il | category: Legal | industry benchmark: Attorneys & Legal Services
+- US monthly searches: 49,500/mo (cited; Cited US monthly search volume (via research source); as of 2026; phrase 'lawyer near me')
+- Local monthly searches (Chicago-Naperville-Elgin, IL-IN metro): ~1,400 (estimate: estimate: US monthly volume x metro population share (Census V2025); the keyword names a suburb, so the value is metro-level demand for the service, not searches typing the suburb name; rounded to 2 significant figures.)
+- CPC benchmark: low $8.58, median $9.87, high $9.87 (Attorneys & Legal Services median CPC 2026 $9.87 [https://www.localiq.com/blog/search-advertising-benchmarks]; Attorneys & Legal Services median CPC 2025 $8.58 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: high (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 12
+- Equivalent Google Ads cost per month: ~$820 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $100/month, spots 2-4 from $10/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/lawyer.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#lawyer-naperville-il | Estimates CC-BY-4.0; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,0 +1,60 @@
+{
+ "slug": "fedex-office-chicago-n4114593401",
+ "name": "FedEx Office",
+ "categories": [
+  "printing services"
+ ],
+ "keywords": [
+  "printing services",
+  "printing services chicago il"
+ ],
+ "services": [
+  {
+   "name": "printing services",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1315 East 57th Street",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60637",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60637",
+ "geo": {
+  "lat": 41.7913672,
+  "lon": -87.5941231
+ },
+ "phone": "+17736432424",
+ "website": "https://local.fedex.com/en-us/il/chicago/office-3609",
+ "opening_hours": "Tu-Fr 08:00-19:00; Sa 09:00-18:00; Su 12:00-18:00",
+ "brand": "FedEx Office",
+ "wikidata": "Q474379",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/4114593401",
+ "osm": {
+  "type": "node",
+  "id": 4114593401,
+  "tags_used": {
+   "shop": "copyshop",
+   "amenity": "post_office"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/fedex-office-chicago-n4114593401/",
+ "summary": "FedEx Office is a printing service in Chicago, IL at 1315 East 57th Street, Chicago, IL 60637. Phone: +17736432424. Website: https://local.fedex.com/en-us/il/chicago/office-3609.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

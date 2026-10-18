@@ -1,0 +1,68 @@
+{
+ "slug": "carstar-automotive-chicago-ridge",
+ "name": "CarStar Automotive",
+ "categories": [
+  "auto repair"
+ ],
+ "keywords": [
+  "auto repair",
+  "mechanic",
+  "auto body shop",
+  "auto repair chicago ridge il",
+  "mechanic chicago ridge il",
+  "auto body shop chicago ridge il"
+ ],
+ "services": [
+  {
+   "name": "auto repair",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "mechanic",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "auto body shop",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "South Ridgeland Avenue",
+  "addressLocality": "Chicago Ridge",
+  "addressRegion": "IL",
+  "postalCode": "60415",
+  "addressCountry": "US"
+ },
+ "city": "Chicago Ridge",
+ "state": "IL",
+ "zip": "60415",
+ "geo": {
+  "lat": 41.7057754,
+  "lon": -87.7789649
+ },
+ "brand": "Carstar",
+ "wikidata": "Q64187891",
+ "schema_type": "AutoRepair",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/1219389263",
+ "osm": {
+  "type": "way",
+  "id": 1219389263,
+  "tags_used": {
+   "shop": "car_repair"
+  }
+ },
+ "municipality": "Chicago Ridge",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/carstar-automotive-chicago-ridge/",
+ "summary": "CarStar Automotive is an auto repair shop in Chicago Ridge, IL at South Ridgeland Avenue, Chicago Ridge, IL 60415.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

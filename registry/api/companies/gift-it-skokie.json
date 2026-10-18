@@ -1,0 +1,54 @@
+{
+ "slug": "gift-it-skokie",
+ "name": "Gift-It",
+ "categories": [
+  "gift shop"
+ ],
+ "keywords": [
+  "gift shop",
+  "gift shop skokie il"
+ ],
+ "services": [
+  {
+   "name": "gift shop",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "Dempster Street",
+  "addressLocality": "Skokie",
+  "addressRegion": "IL",
+  "postalCode": "60076",
+  "addressCountry": "US"
+ },
+ "city": "Skokie",
+ "state": "IL",
+ "zip": "60076",
+ "geo": {
+  "lat": 42.0406646,
+  "lon": -87.712747
+ },
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/1429715170",
+ "osm": {
+  "type": "node",
+  "id": 1429715170,
+  "tags_used": {
+   "shop": "gift"
+  }
+ },
+ "municipality": "Skokie",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/gift-it-skokie/",
+ "summary": "Gift-It is a gift shop in Skokie, IL at Dempster Street, Skokie, IL 60076.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

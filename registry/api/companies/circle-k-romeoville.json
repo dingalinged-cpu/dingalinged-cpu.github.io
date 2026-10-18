@@ -1,0 +1,53 @@
+{
+ "slug": "circle-k-romeoville",
+ "name": "Circle K",
+ "categories": [
+  "car wash"
+ ],
+ "keywords": [
+  "car wash",
+  "car wash romeoville il"
+ ],
+ "services": [
+  {
+   "name": "car wash",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Romeoville",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Romeoville",
+ "state": "IL",
+ "geo": {
+  "lat": 41.6584443,
+  "lon": -88.1236722
+ },
+ "brand": "Circle K",
+ "wikidata": "Q3268010",
+ "schema_type": "AutoWash",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/374635257",
+ "osm": {
+  "type": "way",
+  "id": 374635257,
+  "tags_used": {
+   "amenity": "car_wash"
+  }
+ },
+ "municipality": "Romeoville",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/circle-k-romeoville/",
+ "summary": "Circle K is a car wash in Romeoville, IL.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

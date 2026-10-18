@@ -1,0 +1,68 @@
+{
+ "slug": "razor-cuts-barber-shop-tinley-park",
+ "name": "Razor Cuts Barber Shop",
+ "categories": [
+  "barber shop"
+ ],
+ "keywords": [
+  "barber shop",
+  "haircut",
+  "barber shop tinley park il",
+  "haircut tinley park il"
+ ],
+ "services": [
+  {
+   "name": "barber shop",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "haircut",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "15958 South Harlem Ave",
+  "addressLocality": "Tinley Park",
+  "addressRegion": "IL",
+  "postalCode": "60477",
+  "addressCountry": "US"
+ },
+ "city": "Tinley Park",
+ "state": "IL",
+ "zip": "60477",
+ "geo": {
+  "lat": 41.6012802,
+  "lon": -87.796618
+ },
+ "phone": "+17089003373",
+ "website": "https://razorcutstinleypark.com/",
+ "email": "razorsharpcorp15958@gmail.com",
+ "opening_hours": "Su 09:00-19:00, Mo-Sa 09:00-21:00",
+ "social": [
+  "https://www.facebook.com/profile.php?id=61578764460217&locale=en_GB"
+ ],
+ "schema_type": "HairSalon",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/13435267424",
+ "osm": {
+  "type": "node",
+  "id": 13435267424,
+  "tags_used": {
+   "shop": "hairdresser",
+   "hairdresser": "barber"
+  }
+ },
+ "municipality": "Tinley Park",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/razor-cuts-barber-shop-tinley-park/",
+ "summary": "Razor Cuts Barber Shop is a barber shop in Tinley Park, IL at 15958 South Harlem Ave, Tinley Park, IL 60477. Phone: +17089003373. Website: https://razorcutstinleypark.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

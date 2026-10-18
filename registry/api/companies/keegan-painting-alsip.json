@@ -1,0 +1,58 @@
+{
+ "slug": "keegan-painting-alsip",
+ "name": "Keegan Painting",
+ "categories": [
+  "painters"
+ ],
+ "keywords": [
+  "painters",
+  "painters worth township il",
+  "painters alsip il"
+ ],
+ "services": [
+  {
+   "name": "painters",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "3842 West 116th Place",
+  "addressLocality": "Alsip",
+  "addressRegion": "IL",
+  "postalCode": "60803",
+  "addressCountry": "US"
+ },
+ "city": "Alsip",
+ "state": "IL",
+ "zip": "60803",
+ "geo": {
+  "lat": 41.6815037,
+  "lon": -87.7167806
+ },
+ "phone": "+17737197497",
+ "website": "https://keeganpainting.biz/",
+ "opening_hours": "24/7",
+ "schema_type": "HousePainter",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/9665547596",
+ "osm": {
+  "type": "node",
+  "id": 9665547596,
+  "tags_used": {
+   "craft": "painter"
+  }
+ },
+ "municipality": "Worth Township",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/keegan-painting-alsip/",
+ "summary": "Keegan Painting is a painting contractor in Alsip, IL at 3842 West 116th Place, Alsip, IL 60803. Phone: +17737197497. Website: https://keeganpainting.biz/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

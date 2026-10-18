@@ -1,0 +1,56 @@
+{
+ "slug": "circle-k-dyer",
+ "name": "Circle K",
+ "categories": [
+  "car wash"
+ ],
+ "keywords": [
+  "car wash",
+  "car wash dyer in"
+ ],
+ "services": [
+  {
+   "name": "car wash",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "501 Joliet Street",
+  "addressLocality": "Dyer",
+  "addressRegion": "IN",
+  "postalCode": "46311",
+  "addressCountry": "US"
+ },
+ "city": "Dyer",
+ "state": "IN",
+ "zip": "46311",
+ "geo": {
+  "lat": 41.4946885,
+  "lon": -87.5161964
+ },
+ "brand": "Circle K",
+ "wikidata": "Q3268010",
+ "schema_type": "AutoWash",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/1329760867",
+ "osm": {
+  "type": "way",
+  "id": 1329760867,
+  "tags_used": {
+   "amenity": "car_wash"
+  }
+ },
+ "municipality": "Dyer",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/circle-k-dyer/",
+ "summary": "Circle K is a car wash in Dyer, IN at 501 Joliet Street, Dyer, IN 46311.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

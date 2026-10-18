@@ -1,0 +1,55 @@
+{
+ "slug": "pet-supplies-plus-dyer",
+ "name": "Pet Supplies Plus",
+ "categories": [
+  "pet store"
+ ],
+ "keywords": [
+  "pet store",
+  "pet store dyer in"
+ ],
+ "services": [
+  {
+   "name": "pet store",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Dyer",
+  "addressRegion": "IN",
+  "postalCode": "46311",
+  "addressCountry": "US"
+ },
+ "city": "Dyer",
+ "state": "IN",
+ "zip": "46311",
+ "geo": {
+  "lat": 41.4919661,
+  "lon": -87.504998
+ },
+ "brand": "Pet Supplies Plus",
+ "wikidata": "Q7171563",
+ "schema_type": "PetStore",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/12716610890",
+ "osm": {
+  "type": "node",
+  "id": 12716610890,
+  "tags_used": {
+   "shop": "pet"
+  }
+ },
+ "municipality": "Dyer",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-dyer/",
+ "summary": "Pet Supplies Plus is a pet store in Dyer, IN.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

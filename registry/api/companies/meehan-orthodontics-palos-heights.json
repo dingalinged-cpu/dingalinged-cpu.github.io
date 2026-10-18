@@ -1,0 +1,62 @@
+{
+ "slug": "meehan-orthodontics-palos-heights",
+ "name": "Meehan Orthodontics",
+ "categories": [
+  "dentist"
+ ],
+ "keywords": [
+  "dentist",
+  "dentist palos heights il"
+ ],
+ "services": [
+  {
+   "name": "dentist",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "12505 South Ridgeland Avenue #1",
+  "addressLocality": "Palos Heights",
+  "addressRegion": "IL",
+  "postalCode": "60463",
+  "addressCountry": "US"
+ },
+ "city": "Palos Heights",
+ "state": "IL",
+ "zip": "60463",
+ "geo": {
+  "lat": 41.664066,
+  "lon": -87.7770839
+ },
+ "phone": "+17084483131",
+ "email": "info@meehanorthodontics.com",
+ "opening_hours": "Mo 09:00-18:00, Tu 08:00-16:00, We 08:00-16:00, Th 08:00-16:00",
+ "social": [
+  "https://www.facebook.com/MeehanOrthodontics/"
+ ],
+ "schema_type": "Dentist",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/13777374206",
+ "osm": {
+  "type": "node",
+  "id": 13777374206,
+  "tags_used": {
+   "amenity": "dentist",
+   "healthcare": "dentist",
+   "healthcare:speciality": "orthodontics"
+  }
+ },
+ "municipality": "Palos Heights",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/meehan-orthodontics-palos-heights/",
+ "summary": "Meehan Orthodontics is a dentist in Palos Heights, IL at 12505 South Ridgeland Avenue #1, Palos Heights, IL 60463. Phone: +17084483131.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

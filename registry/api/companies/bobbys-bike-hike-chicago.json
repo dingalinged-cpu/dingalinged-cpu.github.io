@@ -1,0 +1,57 @@
+{
+ "slug": "bobbys-bike-hike-chicago",
+ "name": "Bobby's Bike Hike",
+ "categories": [
+  "bike shop"
+ ],
+ "keywords": [
+  "bike shop",
+  "bike shop chicago il"
+ ],
+ "services": [
+  {
+   "name": "bike shop",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "540 North Lake Shore Drive",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60611",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60611",
+ "geo": {
+  "lat": 41.8923205,
+  "lon": -87.6153035
+ },
+ "phone": "+13122459300",
+ "website": "https://www.bobbysbikehike.com/",
+ "opening_hours": "Jun-Aug 08:30-18:30; Sep-Oct 09:00-18:00 \"please call\"; Nov-Feb 09:00-17:00 \"please call\"; Mar-May 09:00-18:00 \"please call\"",
+ "schema_type": "BikeStore",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/9910668467",
+ "osm": {
+  "type": "node",
+  "id": 9910668467,
+  "tags_used": {
+   "shop": "bicycle"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/bobbys-bike-hike-chicago/",
+ "summary": "Bobby's Bike Hike is a bike shop in Chicago, IL at 540 North Lake Shore Drive, Chicago, IL 60611. Phone: +13122459300. Website: https://www.bobbysbikehike.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

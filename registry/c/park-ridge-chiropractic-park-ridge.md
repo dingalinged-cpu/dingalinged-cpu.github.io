@@ -1,0 +1,23 @@
+Park Ridge Chiropractic is a chiropractor in Park Ridge, IL at 32 Main Street, Park Ridge, IL 60068. Phone: +18473181144. Website: https://www.parkridge-chiropractic.com/.
+
+# Park Ridge Chiropractic
+
+- Category: chiropractor
+- Services: chiropractor
+- Address: 32 Main Street, Park Ridge, IL 60068
+- City: Park Ridge
+- State: IL
+- ZIP: 60068
+- Coordinates: 42.010145, -87.8327608
+- Phone: +18473181144
+- Website: https://www.parkridge-chiropractic.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/park-ridge-chiropractic-park-ridge/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/park-ridge-chiropractic-park-ridge.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1046404695 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

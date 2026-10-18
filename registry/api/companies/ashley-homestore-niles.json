@@ -1,0 +1,58 @@
+{
+ "slug": "ashley-homestore-niles",
+ "name": "Ashley HomeStore",
+ "categories": [
+  "furniture store"
+ ],
+ "keywords": [
+  "furniture store",
+  "furniture store niles il"
+ ],
+ "services": [
+  {
+   "name": "furniture store",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "8251 West Golf Road",
+  "addressLocality": "Niles",
+  "addressRegion": "IL",
+  "postalCode": "60714",
+  "addressCountry": "US"
+ },
+ "city": "Niles",
+ "state": "IL",
+ "zip": "60714",
+ "geo": {
+  "lat": 42.0524287,
+  "lon": -87.8329905
+ },
+ "phone": "+18474702580",
+ "website": "https://stores.ashleyfurniture.com/store/us/illinois/niles/7710000152/",
+ "brand": "Ashley HomeStore",
+ "wikidata": "Q4805437",
+ "schema_type": "FurnitureStore",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/6588239846",
+ "osm": {
+  "type": "node",
+  "id": 6588239846,
+  "tags_used": {
+   "shop": "furniture"
+  }
+ },
+ "municipality": "Niles",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/ashley-homestore-niles/",
+ "summary": "Ashley HomeStore is a furniture store in Niles, IL at 8251 West Golf Road, Niles, IL 60714. Phone: +18474702580. Website: https://stores.ashleyfurniture.com/store/us/illinois/niles/7710000152/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

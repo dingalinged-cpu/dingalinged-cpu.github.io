@@ -1,0 +1,1994 @@
+{
+ "keyword": "physical therapy chicago il",
+ "slug": "physical-therapy-chicago-il",
+ "place": "Chicago, IL",
+ "service": "physical therapy",
+ "query": "Who are the best physical therapy providers in Chicago, IL?",
+ "matches": [
+  "physical therapy in Chicago, IL",
+  "physical therapy near me (Chicago, IL)",
+  "best physical therapy Chicago, IL",
+  "top rated physical therapy Chicago, IL",
+  "affordable physical therapy Chicago, IL",
+  "emergency physical therapy Chicago, IL"
+ ],
+ "answer": "The top unpaid physical therapy listing for Chicago, IL is Athletico Physical Therapy (a physical therapy clinic in Chicago, IL at 1511 East Hyde Park Boulevard, Chicago, IL 60615. Phone: +17732561475. Website: https://www.athletico.com/locations/hyde-park-west/). 55 physical therapy businesses are listed for Chicago, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-18",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "athletico-physical-therapy-chicago-n11663954794",
+   "name": "Athletico Physical Therapy",
+   "summary": "Athletico Physical Therapy is a physical therapy clinic in Chicago, IL at 1511 East Hyde Park Boulevard, Chicago, IL 60615. Phone: +17732561475. Website: https://www.athletico.com/locations/hyde-park-west/.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/athletico-physical-therapy-chicago-n11663954794/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/athletico-physical-therapy-chicago-n11663954794.json",
+   "address": {
+    "streetAddress": "1511 East Hyde Park Boulevard",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60615",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60615",
+   "geo": {
+    "lat": 41.802292,
+    "lon": -87.5885164
+   },
+   "phone": "+17732561475",
+   "website": "https://www.athletico.com/locations/hyde-park-west/",
+   "opening_hours": "Mo-Th 07:00-20:00; Fr 07:00-18:30; Sa 07:00-12:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11663954794",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "ati-physical-therapy-chicago",
+   "name": "ATI Physical Therapy",
+   "summary": "ATI Physical Therapy is a physical therapy clinic in Chicago, IL at 3233 West Addison Street, Chicago, IL 60618. Phone: +17734780496. Website: https://locations.atipt.com/chicago-il-avondale.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ati-physical-therapy-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ati-physical-therapy-chicago.json",
+   "address": {
+    "streetAddress": "3233 West Addison Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60618",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60618",
+   "geo": {
+    "lat": 41.9458618,
+    "lon": -87.7095871
+   },
+   "phone": "+17734780496",
+   "website": "https://locations.atipt.com/chicago-il-avondale",
+   "opening_hours": "Mo-Fr 07:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8264137178",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "rush-physical-therapy-chicago-n12692878250",
+   "name": "RUSH Physical Therapy",
+   "summary": "RUSH Physical Therapy is a physical therapy clinic in Chicago, IL at 2569 West Fullerton Avenue, Chicago, IL 60647. Phone: +17732525067. Website: https://www.rushpt.com/contact/find-a-location/il/chicago/logan-square/?ty=xt.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rush-physical-therapy-chicago-n12692878250/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rush-physical-therapy-chicago-n12692878250.json",
+   "address": {
+    "streetAddress": "2569 West Fullerton Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60647",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60647",
+   "geo": {
+    "lat": 41.9245141,
+    "lon": -87.6924931
+   },
+   "phone": "+17732525067",
+   "website": "https://www.rushpt.com/contact/find-a-location/il/chicago/logan-square/?ty=xt",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12692878250",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "athletico-physical-therapy-chicago-n11232322723",
+   "name": "Athletico Physical Therapy",
+   "summary": "Athletico Physical Therapy is a physical therapy clinic in Chicago, IL at 3922 North Sheridan Road, Chicago, IL 60613. Phone: +17733270040.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/athletico-physical-therapy-chicago-n11232322723/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/athletico-physical-therapy-chicago-n11232322723.json",
+   "address": {
+    "streetAddress": "3922 North Sheridan Road",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60613",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60613",
+   "geo": {
+    "lat": 41.9533951,
+    "lon": -87.6546949
+   },
+   "phone": "+17733270040",
+   "opening_hours": "Mo-Th 07:00-19:00; Fr 07:00-17:30; Sa-Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11232322723",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "athletico-physical-therapy-chicago-n10061554417",
+   "name": "Athletico Physical Therapy",
+   "summary": "Athletico Physical Therapy is a physical therapy clinic in Chicago, IL at 5240 North Pulaski Road, Chicago, IL 60630. Phone: +17732676922.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/athletico-physical-therapy-chicago-n10061554417/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/athletico-physical-therapy-chicago-n10061554417.json",
+   "address": {
+    "streetAddress": "5240 North Pulaski Road",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60630",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60630",
+   "geo": {
+    "lat": 41.9768205,
+    "lon": -87.7287134
+   },
+   "phone": "+17732676922",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10061554417",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "athletico-physical-therapy-chicago-n12440853104",
+   "name": "Athletico Physical Therapy",
+   "summary": "Athletico Physical Therapy is a physical therapy clinic in Chicago, IL at 4639 West Diversey Avenue, Chicago, IL 60639. Website: https://www.athletico.com/locations/kelvyn-park/.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/athletico-physical-therapy-chicago-n12440853104/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/athletico-physical-therapy-chicago-n12440853104.json",
+   "address": {
+    "streetAddress": "4639 West Diversey Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60639",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60639",
+   "geo": {
+    "lat": 41.9308881,
+    "lon": -87.7433986
+   },
+   "website": "https://www.athletico.com/locations/kelvyn-park/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12440853104",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "athletico-physical-therapy-chicago-n13131879086",
+   "name": "Athletico Physical Therapy",
+   "summary": "Athletico Physical Therapy is a physical therapy clinic in Chicago, IL at 3644 West 111th Street, Chicago, IL 60655. Website: https://www.athletico.com/locations/mt-greenwood/.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/athletico-physical-therapy-chicago-n13131879086/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/athletico-physical-therapy-chicago-n13131879086.json",
+   "address": {
+    "streetAddress": "3644 West 111th Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60655",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60655",
+   "geo": {
+    "lat": 41.6915472,
+    "lon": -87.7123286
+   },
+   "website": "https://www.athletico.com/locations/mt-greenwood/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13131879086",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "athletico-physical-therapy-chicago-n13733117864",
+   "name": "Athletico Physical Therapy",
+   "summary": "Athletico Physical Therapy is a physical therapy clinic in Chicago, IL at 2520 North Elston Avenue, Chicago, IL 60647. Website: https://www.athletico.com/locations/midtown-lincoln-park/.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/athletico-physical-therapy-chicago-n13733117864/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/athletico-physical-therapy-chicago-n13733117864.json",
+   "address": {
+    "streetAddress": "2520 North Elston Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60647",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60647",
+   "geo": {
+    "lat": 41.926771,
+    "lon": -87.6813945
+   },
+   "website": "https://www.athletico.com/locations/midtown-lincoln-park/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13733117864",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "ati-physical-therapy-chicago-n12036358838",
+   "name": "ATI Physical Therapy",
+   "summary": "ATI Physical Therapy is a physical therapy clinic in Chicago, IL at 3542 East 118th Street, Chicago, IL 60617. Website: https://locations.atipt.com/chicago-il-east-side.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ati-physical-therapy-chicago-n12036358838/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ati-physical-therapy-chicago-n12036358838.json",
+   "address": {
+    "streetAddress": "3542 East 118th Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60617",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60617",
+   "geo": {
+    "lat": 41.6820712,
+    "lon": -87.5372302
+   },
+   "website": "https://locations.atipt.com/chicago-il-east-side",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12036358838",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "ati-physical-therapy-chicago-n12798408920",
+   "name": "ATI Physical Therapy",
+   "summary": "ATI Physical Therapy is a physical therapy clinic in Chicago, IL at 3220 West 115th Street, Chicago, IL 60655. Website: https://locations.atipt.com/chicago-115th-street-il.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ati-physical-therapy-chicago-n12798408920/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ati-physical-therapy-chicago-n12798408920.json",
+   "address": {
+    "streetAddress": "3220 West 115th Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60655",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60655",
+   "geo": {
+    "lat": 41.6845989,
+    "lon": -87.7015842
+   },
+   "website": "https://locations.atipt.com/chicago-115th-street-il",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12798408920",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 11,
+   "sponsored": false,
+   "slug": "ati-physical-therapy-chicago-w1354203177",
+   "name": "ATI Physical Therapy",
+   "summary": "ATI Physical Therapy is a physical therapy clinic in Chicago, IL at 1300 North Ashland Avenue #G, Chicago, IL 60622. Website: https://locations.atipt.com/chicago-il-wicker-parkbucktown.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ati-physical-therapy-chicago-w1354203177/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ati-physical-therapy-chicago-w1354203177.json",
+   "address": {
+    "streetAddress": "1300 North Ashland Avenue #G",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60622",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60622",
+   "geo": {
+    "lat": 41.9052806,
+    "lon": -87.6683449
+   },
+   "website": "https://locations.atipt.com/chicago-il-wicker-parkbucktown",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1354203177",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 12,
+   "sponsored": false,
+   "slug": "continental-therapeutic-services-chicago",
+   "name": "Continental Therapeutic Services",
+   "summary": "Continental Therapeutic Services is a physical therapy clinic in Chicago, IL. Phone: +17732275150.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/continental-therapeutic-services-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/continental-therapeutic-services-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8983282,
+    "lon": -87.6866849
+   },
+   "phone": "+17732275150",
+   "opening_hours": "Mo-Fr \"By appt\"",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9962776681",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
+   "sponsored": false,
+   "slug": "rush-physical-therapy-chicago",
+   "name": "RUSH Physical Therapy",
+   "summary": "RUSH Physical Therapy is a physical therapy clinic in Chicago, IL at 939 West North Avenue, Chicago, IL 60642. Phone: +13123373673.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rush-physical-therapy-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rush-physical-therapy-chicago.json",
+   "address": {
+    "streetAddress": "939 West North Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60642",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60642",
+   "geo": {
+    "lat": 41.9107059,
+    "lon": -87.652742
+   },
+   "phone": "+13123373673",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8743665979",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 14,
+   "sponsored": false,
+   "slug": "athletico-physical-therapy-chicago-n11065849081",
+   "name": "Athletico Physical Therapy",
+   "summary": "Athletico Physical Therapy is a physical therapy clinic in Chicago, IL at 557 South State Street, Chicago, IL 60605.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/athletico-physical-therapy-chicago-n11065849081/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/athletico-physical-therapy-chicago-n11065849081.json",
+   "address": {
+    "streetAddress": "557 South State Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60605",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60605",
+   "geo": {
+    "lat": 41.8745114,
+    "lon": -87.6273659
+   },
+   "opening_hours": "Mo,Tu,Th 07:00-19:00; We 07:00-18:30; Fr 07:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11065849081",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 15,
+   "sponsored": false,
+   "slug": "athletico-physical-therapy-chicago-n10032675098",
+   "name": "Athletico Physical Therapy",
+   "summary": "Athletico Physical Therapy is a physical therapy clinic in Chicago, IL at 2630 West Pershing Road, Chicago, IL 60632.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/athletico-physical-therapy-chicago-n10032675098/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/athletico-physical-therapy-chicago-n10032675098.json",
+   "address": {
+    "streetAddress": "2630 West Pershing Road",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60632",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60632",
+   "geo": {
+    "lat": 41.8235509,
+    "lon": -87.6911012
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10032675098",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 16,
+   "sponsored": false,
+   "slug": "athletico-physical-therapy-chicago-n10279152305",
+   "name": "Athletico Physical Therapy",
+   "summary": "Athletico Physical Therapy is a physical therapy clinic in Chicago, IL at 24 East Chicago Avenue, Chicago, IL 60611.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/athletico-physical-therapy-chicago-n10279152305/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/athletico-physical-therapy-chicago-n10279152305.json",
+   "address": {
+    "streetAddress": "24 East Chicago Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60611",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60611",
+   "geo": {
+    "lat": 41.8968888,
+    "lon": -87.6272521
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10279152305",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 17,
+   "sponsored": false,
+   "slug": "athletico-physical-therapy-chicago-n10563381987",
+   "name": "Athletico Physical Therapy",
+   "summary": "Athletico Physical Therapy is a physical therapy clinic in Chicago, IL at 1645 West 18th Street, Chicago, IL 60608.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/athletico-physical-therapy-chicago-n10563381987/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/athletico-physical-therapy-chicago-n10563381987.json",
+   "address": {
+    "streetAddress": "1645 West 18th Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60608",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60608",
+   "geo": {
+    "lat": 41.8576425,
+    "lon": -87.6679229
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10563381987",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 18,
+   "sponsored": false,
+   "slug": "athletico-physical-therapy-chicago-n11289306427",
+   "name": "Athletico Physical Therapy",
+   "summary": "Athletico Physical Therapy is a physical therapy clinic in Chicago, IL at 2747 North Milwaukee Avenue, Chicago, IL 60647.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/athletico-physical-therapy-chicago-n11289306427/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/athletico-physical-therapy-chicago-n11289306427.json",
+   "address": {
+    "streetAddress": "2747 North Milwaukee Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60647",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60647",
+   "geo": {
+    "lat": 41.9311409,
+    "lon": -87.7105674
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11289306427",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 19,
+   "sponsored": false,
+   "slug": "athletico-physical-therapy-chicago-n12042677662",
+   "name": "Athletico Physical Therapy",
+   "summary": "Athletico Physical Therapy is a physical therapy clinic in Chicago, IL at 1246 West Belmont Avenue, Chicago, IL 60657.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/athletico-physical-therapy-chicago-n12042677662/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/athletico-physical-therapy-chicago-n12042677662.json",
+   "address": {
+    "streetAddress": "1246 West Belmont Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60657",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60657",
+   "geo": {
+    "lat": 41.9401366,
+    "lon": -87.6606861
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12042677662",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 20,
+   "sponsored": false,
+   "slug": "athletico-physical-therapy-chicago-n12641472287",
+   "name": "Athletico Physical Therapy",
+   "summary": "Athletico Physical Therapy is a physical therapy clinic in Chicago, IL at 8905 South Commercial Avenue, Chicago, IL 60617.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/athletico-physical-therapy-chicago-n12641472287/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/athletico-physical-therapy-chicago-n12641472287.json",
+   "address": {
+    "streetAddress": "8905 South Commercial Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60617",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60617",
+   "geo": {
+    "lat": 41.7335096,
+    "lon": -87.5511566
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12641472287",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 21,
+   "sponsored": false,
+   "slug": "athletico-physical-therapy-chicago-n13048411985",
+   "name": "Athletico Physical Therapy",
+   "summary": "Athletico Physical Therapy is a physical therapy clinic in Chicago, IL at 24 South Morgan Street #100, Chicago, IL 60607.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/athletico-physical-therapy-chicago-n13048411985/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/athletico-physical-therapy-chicago-n13048411985.json",
+   "address": {
+    "streetAddress": "24 South Morgan Street #100",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60607",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60607",
+   "geo": {
+    "lat": 41.8811079,
+    "lon": -87.6522267
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13048411985",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 22,
+   "sponsored": false,
+   "slug": "athletico-physical-therapy-chicago-n13160174301",
+   "name": "Athletico Physical Therapy",
+   "summary": "Athletico Physical Therapy is a physical therapy clinic in Chicago, IL at 2008 West Montrose Avenue, Chicago, IL 60618.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/athletico-physical-therapy-chicago-n13160174301/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/athletico-physical-therapy-chicago-n13160174301.json",
+   "address": {
+    "streetAddress": "2008 West Montrose Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60618",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60618",
+   "geo": {
+    "lat": 41.9616938,
+    "lon": -87.6795518
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13160174301",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 23,
+   "sponsored": false,
+   "slug": "athletico-physical-therapy-chicago-n13430992574",
+   "name": "Athletico Physical Therapy",
+   "summary": "Athletico Physical Therapy is a physical therapy clinic in Chicago, IL at 1509 South Michigan Avenue, Chicago, IL 60605.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/athletico-physical-therapy-chicago-n13430992574/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/athletico-physical-therapy-chicago-n13430992574.json",
+   "address": {
+    "streetAddress": "1509 South Michigan Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60605",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60605",
+   "geo": {
+    "lat": 41.8617393,
+    "lon": -87.6238208
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13430992574",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 24,
+   "sponsored": false,
+   "slug": "athletico-physical-therapy-chicago-n4461069346",
+   "name": "Athletico Physical Therapy",
+   "summary": "Athletico Physical Therapy is a physical therapy clinic in Chicago, IL at 1325 West Devon Avenue, Chicago, IL 60660.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/athletico-physical-therapy-chicago-n4461069346/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/athletico-physical-therapy-chicago-n4461069346.json",
+   "address": {
+    "streetAddress": "1325 West Devon Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60660",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60660",
+   "geo": {
+    "lat": 41.9980298,
+    "lon": -87.6639446
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4461069346",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 25,
+   "sponsored": false,
+   "slug": "athletico-physical-therapy-chicago-n5398863225",
+   "name": "Athletico Physical Therapy",
+   "summary": "Athletico Physical Therapy is a physical therapy clinic in Chicago, IL at 504 North Green Street, Chicago, IL 60642.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/athletico-physical-therapy-chicago-n5398863225/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/athletico-physical-therapy-chicago-n5398863225.json",
+   "address": {
+    "streetAddress": "504 North Green Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60642",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60642",
+   "geo": {
+    "lat": 41.8918352,
+    "lon": -87.6489564
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5398863225",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 26,
+   "sponsored": false,
+   "slug": "athletico-physical-therapy-chicago-n9975255397",
+   "name": "Athletico Physical Therapy",
+   "summary": "Athletico Physical Therapy is a physical therapy clinic in Chicago, IL at 7133 North Western Avenue, Chicago, IL 60645.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/athletico-physical-therapy-chicago-n9975255397/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/athletico-physical-therapy-chicago-n9975255397.json",
+   "address": {
+    "streetAddress": "7133 North Western Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60645",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60645",
+   "geo": {
+    "lat": 42.0118921,
+    "lon": -87.689586
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9975255397",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 27,
+   "sponsored": false,
+   "slug": "athletico-physical-therapy-chicago-w210534578",
+   "name": "Athletico Physical Therapy",
+   "summary": "Athletico Physical Therapy is a physical therapy clinic in Chicago, IL at 3459 South Wallace Street, Chicago, IL 60616.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/athletico-physical-therapy-chicago-w210534578/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/athletico-physical-therapy-chicago-w210534578.json",
+   "address": {
+    "streetAddress": "3459 South Wallace Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60616",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60616",
+   "geo": {
+    "lat": 41.8309834,
+    "lon": -87.6409807
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/210534578",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 28,
+   "sponsored": false,
+   "slug": "athletico-physical-therapy-chicago-w554566682",
+   "name": "Athletico Physical Therapy",
+   "summary": "Athletico Physical Therapy is a physical therapy clinic in Chicago, IL at 1723 West Madison Street, Chicago, IL 60612.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/athletico-physical-therapy-chicago-w554566682/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/athletico-physical-therapy-chicago-w554566682.json",
+   "address": {
+    "streetAddress": "1723 West Madison Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60612",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60612",
+   "geo": {
+    "lat": 41.8811947,
+    "lon": -87.6703494
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/554566682",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 29,
+   "sponsored": false,
+   "slug": "athletico-physical-therapy-chicago-w776658661",
+   "name": "Athletico Physical Therapy",
+   "summary": "Athletico Physical Therapy is a physical therapy clinic in Chicago, IL at 11810 South Marshfield Avenue, Chicago, IL 60643.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/athletico-physical-therapy-chicago-w776658661/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/athletico-physical-therapy-chicago-w776658661.json",
+   "address": {
+    "streetAddress": "11810 South Marshfield Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60643",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60643",
+   "geo": {
+    "lat": 41.6789311,
+    "lon": -87.6630298
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/776658661",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 30,
+   "sponsored": false,
+   "slug": "ati-physical-therapy-chicago-n10824113470",
+   "name": "ATI Physical Therapy",
+   "summary": "ATI Physical Therapy is a physical therapy clinic in Chicago, IL at 3635 North Western Avenue, Chicago, IL 60618.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ati-physical-therapy-chicago-n10824113470/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ati-physical-therapy-chicago-n10824113470.json",
+   "address": {
+    "streetAddress": "3635 North Western Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60618",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60618",
+   "geo": {
+    "lat": 41.9478134,
+    "lon": -87.6879975
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10824113470",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 31,
+   "sponsored": false,
+   "slug": "ati-physical-therapy-chicago-n11033600276",
+   "name": "ATI Physical Therapy",
+   "summary": "ATI Physical Therapy is a physical therapy clinic in Chicago, IL at 1340 East 47th Street, Chicago, IL 60653.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ati-physical-therapy-chicago-n11033600276/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ati-physical-therapy-chicago-n11033600276.json",
+   "address": {
+    "streetAddress": "1340 East 47th Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60653",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60653",
+   "geo": {
+    "lat": 41.8098196,
+    "lon": -87.5934386
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11033600276",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 32,
+   "sponsored": false,
+   "slug": "ati-physical-therapy-chicago-n11062659559",
+   "name": "ATI Physical Therapy",
+   "summary": "ATI Physical Therapy is a physical therapy clinic in Chicago, IL at 4620 North Clark Street, Chicago, IL 60640.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ati-physical-therapy-chicago-n11062659559/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ati-physical-therapy-chicago-n11062659559.json",
+   "address": {
+    "streetAddress": "4620 North Clark Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60640",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60640",
+   "geo": {
+    "lat": 41.9658977,
+    "lon": -87.6670517
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11062659559",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 33,
+   "sponsored": false,
+   "slug": "ati-physical-therapy-chicago-n9093948790",
+   "name": "ATI Physical Therapy",
+   "summary": "ATI Physical Therapy is a physical therapy clinic in Chicago, IL at 7315 West Irving Park Road, Chicago, IL 60634.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ati-physical-therapy-chicago-n9093948790/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ati-physical-therapy-chicago-n9093948790.json",
+   "address": {
+    "streetAddress": "7315 West Irving Park Road",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60634",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60634",
+   "geo": {
+    "lat": 41.9523526,
+    "lon": -87.8108832
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9093948790",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 34,
+   "sponsored": false,
+   "slug": "errie-counseling-and-therapy-chicago",
+   "name": "Errie Counseling & Therapy",
+   "summary": "Errie Counseling & Therapy is a physical therapy clinic in Chicago, IL at 2045 West Howard Street, Chicago, IL 60645.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/errie-counseling-and-therapy-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/errie-counseling-and-therapy-chicago.json",
+   "address": {
+    "streetAddress": "2045 West Howard Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60645",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60645",
+   "geo": {
+    "lat": 42.0193236,
+    "lon": -87.6822347
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13627183713",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 35,
+   "sponsored": false,
+   "slug": "essence-medspa-wellness-center-chicago",
+   "name": "Essence Medspa + Wellness Center",
+   "summary": "Essence Medspa + Wellness Center is a physical therapy clinic in Chicago, IL at 6413 North Kinzua Avenue, Chicago, IL 60646.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/essence-medspa-wellness-center-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/essence-medspa-wellness-center-chicago.json",
+   "address": {
+    "streetAddress": "6413 North Kinzua Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60646",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60646",
+   "geo": {
+    "lat": 41.9979388,
+    "lon": -87.7650479
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/162841643",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 36,
+   "sponsored": false,
+   "slug": "excel-physical-therapy-chicago",
+   "name": "Excel Physical Therapy",
+   "summary": "Excel Physical Therapy is a physical therapy clinic in Chicago, IL.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/excel-physical-therapy-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/excel-physical-therapy-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9546688,
+    "lon": -87.6504423
+   },
+   "opening_hours": "Mo,We,Fr 08:00-16:00; Tu,Th 10:00-20:00; Sa-Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11234512288",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 37,
+   "sponsored": false,
+   "slug": "phyxme-physical-therapy-chicago",
+   "name": "phyxMe Physical Therapy",
+   "summary": "phyxMe Physical Therapy is a physical therapy clinic in Chicago, IL at 1822 West Irving Park Road, Chicago, IL 60613.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/phyxme-physical-therapy-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/phyxme-physical-therapy-chicago.json",
+   "address": {
+    "streetAddress": "1822 West Irving Park Road",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60613",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60613",
+   "geo": {
+    "lat": 41.9543637,
+    "lon": -87.6752145
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13158609101",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 38,
+   "sponsored": false,
+   "slug": "symmetry-chicago",
+   "name": "Symmetry",
+   "summary": "Symmetry is a physical therapy clinic in Chicago, IL at 4361 North Lincoln Avenue, Chicago, IL 60618.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/symmetry-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/symmetry-chicago.json",
+   "address": {
+    "streetAddress": "4361 North Lincoln Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60618",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60618",
+   "geo": {
+    "lat": 41.9611585,
+    "lon": -87.6834925
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13160198501",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 39,
+   "sponsored": false,
+   "slug": "team-rehabilitation-chicago",
+   "name": "Team Rehabilitation",
+   "summary": "Team Rehabilitation is a physical therapy clinic in Chicago, IL at 2116 South Michigan Avenue, Chicago, IL.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/team-rehabilitation-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/team-rehabilitation-chicago.json",
+   "address": {
+    "streetAddress": "2116 South Michigan Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8537037,
+    "lon": -87.6240369
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13430992569",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 40,
+   "sponsored": false,
+   "slug": "athletico-physical-therapy-chicago",
+   "name": "Athletico Physical Therapy",
+   "summary": "Athletico Physical Therapy is a physical therapy clinic in Chicago, IL.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/athletico-physical-therapy-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/athletico-physical-therapy-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9550151,
+    "lon": -87.749918
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2274191241",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 41,
+   "sponsored": false,
+   "slug": "athletico-physical-therapy-chicago-n10157571617",
+   "name": "Athletico Physical Therapy",
+   "summary": "Athletico Physical Therapy is a physical therapy clinic in Chicago, IL.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/athletico-physical-therapy-chicago-n10157571617/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/athletico-physical-therapy-chicago-n10157571617.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9113091,
+    "lon": -87.6791807
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10157571617",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 42,
+   "sponsored": false,
+   "slug": "athletico-physical-therapy-chicago-n12434602346",
+   "name": "Athletico Physical Therapy",
+   "summary": "Athletico Physical Therapy is a physical therapy clinic in Chicago, IL.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/athletico-physical-therapy-chicago-n12434602346/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/athletico-physical-therapy-chicago-n12434602346.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7997355,
+    "lon": -87.5850228
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12434602346",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 43,
+   "sponsored": false,
+   "slug": "athletico-physical-therapy-chicago-n12829226778",
+   "name": "Athletico Physical Therapy",
+   "summary": "Athletico Physical Therapy is a physical therapy clinic in Chicago, IL.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/athletico-physical-therapy-chicago-n12829226778/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/athletico-physical-therapy-chicago-n12829226778.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9533503,
+    "lon": -87.7891381
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12829226778",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 44,
+   "sponsored": false,
+   "slug": "athletico-physical-therapy-chicago-n4089091488",
+   "name": "Athletico Physical Therapy",
+   "summary": "Athletico Physical Therapy is a physical therapy clinic in Chicago, IL.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/athletico-physical-therapy-chicago-n4089091488/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/athletico-physical-therapy-chicago-n4089091488.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.953839,
+    "lon": -87.7475407
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4089091488",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 45,
+   "sponsored": false,
+   "slug": "ati-physical-therapy-chicago-n10967423270",
+   "name": "ATI Physical Therapy",
+   "summary": "ATI Physical Therapy is a physical therapy clinic in Chicago, IL.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ati-physical-therapy-chicago-n10967423270/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ati-physical-therapy-chicago-n10967423270.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8664299,
+    "lon": -87.6402796
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10967423270",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 46,
+   "sponsored": false,
+   "slug": "ati-physical-therapy-chicago-n13574784325",
+   "name": "ATI Physical Therapy",
+   "summary": "ATI Physical Therapy is a physical therapy clinic in Chicago, IL.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ati-physical-therapy-chicago-n13574784325/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ati-physical-therapy-chicago-n13574784325.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9112639,
+    "lon": -87.6490336
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13574784325",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 47,
+   "sponsored": false,
+   "slug": "ati-physical-therapy-chicago-n9350630132",
+   "name": "ATI Physical Therapy",
+   "summary": "ATI Physical Therapy is a physical therapy clinic in Chicago, IL.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ati-physical-therapy-chicago-n9350630132/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ati-physical-therapy-chicago-n9350630132.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9315939,
+    "lon": -87.7287887
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9350630132",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 48,
+   "sponsored": false,
+   "slug": "doctors-of-physical-therapy-chicago",
+   "name": "Doctors of Physical Therapy",
+   "summary": "Doctors of Physical Therapy is a physical therapy clinic in Chicago, IL.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/doctors-of-physical-therapy-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/doctors-of-physical-therapy-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9761968,
+    "lon": -87.6529757
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12300377471",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 49,
+   "sponsored": false,
+   "slug": "elite-healthcare-chicago",
+   "name": "Elite Healthcare",
+   "summary": "Elite Healthcare is a physical therapy clinic in Chicago, IL.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/elite-healthcare-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/elite-healthcare-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9313562,
+    "lon": -87.6572881
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12246889049",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 50,
+   "sponsored": false,
+   "slug": "fyzical-chicago",
+   "name": "Fyzical",
+   "summary": "Fyzical is a physical therapy clinic in Chicago, IL.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fyzical-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fyzical-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9110188,
+    "lon": -87.633944
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13674648384",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 51,
+   "sponsored": false,
+   "slug": "impact-physical-therapy-chicago",
+   "name": "Impact Physical Therapy",
+   "summary": "Impact Physical Therapy is a physical therapy clinic in Chicago, IL.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/impact-physical-therapy-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/impact-physical-therapy-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8687713,
+    "lon": -87.6272578
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12362720441",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 52,
+   "sponsored": false,
+   "slug": "revolution-physical-therapy-and-weight-loss-chicago",
+   "name": "Revolution physical therapy & weight loss",
+   "summary": "Revolution physical therapy & weight loss is a physical therapy clinic in Chicago, IL.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/revolution-physical-therapy-and-weight-loss-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/revolution-physical-therapy-and-weight-loss-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9253274,
+    "lon": -87.6648312
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12487242162",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 53,
+   "sponsored": false,
+   "slug": "rush-physical-therapy-chicago-n10563107565",
+   "name": "Rush Physical Therapy",
+   "summary": "Rush Physical Therapy is a physical therapy clinic in Chicago, IL.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rush-physical-therapy-chicago-n10563107565/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rush-physical-therapy-chicago-n10563107565.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9256584,
+    "lon": -87.6546388
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10563107565",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 54,
+   "sponsored": false,
+   "slug": "rush-physical-therapy-chicago-n11509049269",
+   "name": "RUSH Physical Therapy",
+   "summary": "RUSH Physical Therapy is a physical therapy clinic in Chicago, IL.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rush-physical-therapy-chicago-n11509049269/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rush-physical-therapy-chicago-n11509049269.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9664343,
+    "lon": -87.6869526
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11509049269",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 55,
+   "sponsored": false,
+   "slug": "the-strength-studio-chicago",
+   "name": "The Strength Studio",
+   "summary": "The Strength Studio is a physical therapy clinic in Chicago, IL.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-strength-studio-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-strength-studio-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9216198,
+    "lon": -87.6541778
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12812500092",
+   "last_checked": "2026-10-17"
+  }
+ ],
+ "market": {
+  "keyword": "physical therapy chicago il",
+  "slug": "physical-therapy-chicago-il",
+  "base_keyword": "physical therapy",
+  "scope": "city",
+  "city": "chicago",
+  "state": "il",
+  "category": "Health & medical",
+  "industry": "Physicians & Surgeons",
+  "us_monthly_searches": {
+   "value": 220000,
+   "range": [
+    150000,
+    370000
+   ],
+   "method": "estimate",
+   "estimate_method": "median of 58 cited US volumes for 'high'-demand keywords in the local_services research; rounded to 2 significant figures; range = 25th-75th percentile",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "confidence": "low"
+  },
+  "local_monthly_searches": {
+   "value": 6100,
+   "method": "estimate",
+   "method_id": "local_metro",
+   "geography": "Chicago-Naperville-Elgin, IL-IN metro",
+   "population": 9434123,
+   "source": "registry_estimate",
+   "volume_source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: US monthly volume x metro population share (Census V2025 metro pop / US pop 341,784,857); rounded to 2 significant figures. Counts all searches for the service in the metro, not only searches that type this city name."
+  },
+  "cpc_usd": {
+   "industry_benchmark": "Physicians & Surgeons",
+   "low_usd": 4.76,
+   "median_usd": 4.76,
+   "high_usd": 5.0,
+   "method": "published benchmarks: low/high = range of the industry and sub-industry median CPCs listed in 'figures'; median = most specific benchmark",
+   "figures": [
+    {
+     "usd": 4.76,
+     "label": "Physicians & Surgeons median CPC 2026",
+     "source": "wordstream_2026"
+    },
+    {
+     "usd": 5.0,
+     "label": "Physicians & Surgeons median CPC 2025",
+     "source": "wordstream_2025"
+    }
+   ],
+   "source": "wordstream_2026",
+   "as_of": "2026",
+   "basis_for_value": {
+    "usd": 4.76,
+    "method": "benchmark median CPC",
+    "source": "wordstream_2026"
+   }
+  },
+  "ctr_pct": {
+   "value": 6.73,
+   "label": "Physicians & Surgeons average search-ad CTR 2025",
+   "source": "wordstream_2025",
+   "as_of": "2025-03"
+  },
+  "competition": {
+   "level": "medium",
+   "method": "proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research)",
+   "source": "wordstream_2026",
+   "as_of": "2026"
+  },
+  "trend": null,
+  "seasonality": {
+   "value": null,
+   "note": "No seasonality data in the research sources for this keyword."
+  },
+  "ai_query": {
+   "text": "No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.",
+   "figures": [
+    {
+     "value": "45%",
+     "label": "US adults using AI for local recommendations",
+     "source": "brightlocal_lcrs_2026"
+    },
+    {
+     "value": "75%",
+     "label": "sessions with keyword-style prompts",
+     "source": "sagapixel_sel"
+    },
+    {
+     "value": "59%",
+     "label": "local-intent prompts that triggered web search",
+     "source": "nectiv"
+    },
+    {
+     "value": "21%",
+     "label": "AI-first discovery journeys in healthcare (excerpt only)",
+     "source": "soci_2026"
+    }
+   ],
+   "as_of": "2026"
+  },
+  "registry_competitors": {
+   "value": 55,
+   "slugs": [
+    "athletico-physical-therapy-chicago",
+    "athletico-physical-therapy-chicago-n10032675098",
+    "athletico-physical-therapy-chicago-n10061554417",
+    "athletico-physical-therapy-chicago-n10157571617",
+    "athletico-physical-therapy-chicago-n10279152305",
+    "athletico-physical-therapy-chicago-n10563381987",
+    "athletico-physical-therapy-chicago-n11065849081",
+    "athletico-physical-therapy-chicago-n11232322723",
+    "athletico-physical-therapy-chicago-n11289306427",
+    "athletico-physical-therapy-chicago-n11663954794"
+   ],
+   "method_id": "competitors",
+   "source": "registry",
+   "as_of": "2026-10-18",
+   "urls": [
+    "https://dingalinged-cpu.github.io/registry/c/athletico-physical-therapy-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/athletico-physical-therapy-chicago-n10032675098/",
+    "https://dingalinged-cpu.github.io/registry/c/athletico-physical-therapy-chicago-n10061554417/",
+    "https://dingalinged-cpu.github.io/registry/c/athletico-physical-therapy-chicago-n10157571617/",
+    "https://dingalinged-cpu.github.io/registry/c/athletico-physical-therapy-chicago-n10279152305/",
+    "https://dingalinged-cpu.github.io/registry/c/athletico-physical-therapy-chicago-n10563381987/",
+    "https://dingalinged-cpu.github.io/registry/c/athletico-physical-therapy-chicago-n11065849081/",
+    "https://dingalinged-cpu.github.io/registry/c/athletico-physical-therapy-chicago-n11232322723/",
+    "https://dingalinged-cpu.github.io/registry/c/athletico-physical-therapy-chicago-n11289306427/",
+    "https://dingalinged-cpu.github.io/registry/c/athletico-physical-therapy-chicago-n11663954794/"
+   ],
+   "method": "count of registry listings tagged with the keyword (city/national) or with the base service in the same state (state keywords)"
+  },
+  "agent_demand": null,
+  "agent_demand_note": "Not yet measured. Will carry AI-agent query counts from the registry's agent analytics (contract: meta.agent_demand_contract in the market index).",
+  "equivalent_google_ads_cost_month": {
+   "value_usd": 2000,
+   "method": "estimate",
+   "method_id": "google_ads_equiv",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote."
+  },
+  "search_value_index": {
+   "value_usd": 29000,
+   "method": "estimate",
+   "method_id": "value_index",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: search value index = monthly searches x CPC basis; an advertiser-value ranking signal, not revenue; rounded to 2 significant figures."
+  },
+  "auction": {
+   "featured_spot_min_usd": 50,
+   "spots_2_to_4_min_usd": 5,
+   "tier": "high",
+   "pricing_rule": "tier minimum (premium $500, high $250, mid $100, standard $50) for national keywords; city = max($10, 20% of tier); state = max($10, 35% of tier); spots 2-4 open at 10% of the featured minimum",
+   "model": "Monthly auction in the last 7 days of each month: days 1-5 bid for the Featured #1 spot, days 6-7 for spots 2-4; winners display all next month; all paid spots labeled Sponsored.",
+   "next_auctions": [
+    {
+     "display_month": "2026-11",
+     "featured_spot_bidding": [
+      "2026-10-25",
+      "2026-10-29"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-10-30",
+      "2026-10-31"
+     ]
+    },
+    {
+     "display_month": "2026-12",
+     "featured_spot_bidding": [
+      "2026-11-24",
+      "2026-11-28"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-11-29",
+      "2026-11-30"
+     ]
+    }
+   ],
+   "source": "registry_auction",
+   "as_of": "2026-10-18"
+  },
+  "sources": {
+   "brightlocal_lcrs_2026": {
+    "name": "BrightLocal Local Consumer Review Survey 2026 (n=1,002 US adults)",
+    "url": "https://www.brightlocal.com/research/lcrs-ai-trust/",
+    "as_of": "2026"
+   },
+   "nectiv": {
+    "name": "Nectiv study of 8,500+ ChatGPT prompts",
+    "url": "https://nectivdigital.com/blog/new-data-study-what-queries-is-chatgpt-using-behind-the-scenes",
+    "as_of": "2025"
+   },
+   "registry": {
+    "name": "This registry's own listings (OpenStreetMap-seeded, ODbL)",
+    "url": "https://dingalinged-cpu.github.io/registry/api/companies.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_auction": {
+    "name": "Registry keyword auction catalog and rules",
+    "url": "https://dingalinged-cpu.github.io/registry/api/keyword-prices.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_estimate": {
+    "name": "Registry estimate (CC-BY-4.0); method given on each value",
+    "url": "https://dingalinged-cpu.github.io/registry/market/",
+    "as_of": "2026-10-18"
+   },
+   "sagapixel_sel": {
+    "name": "Sagapixel ChatGPT local-services sessions, via Search Engine Land",
+    "url": "https://searchengineland.com/chatgpt-users-keywords-for-local-services-data-467715",
+    "as_of": "2026-01"
+   },
+   "soci_2026": {
+    "name": "SOCi Local Discovery Index 2026 (excerpt only, via pantora.ai)",
+    "url": "https://www.pantora.ai/blog/consumers-use-ai-to-find-local-businesses",
+    "as_of": "2026"
+   },
+   "wordstream_2025": {
+    "name": "WordStream Google Ads Benchmarks 2025 (16,446 US campaigns, Apr 2024-Mar 2025; median CPC and CTR by industry)",
+    "url": "https://www.wordstream.com/blog/2025-google-ads-benchmarks",
+    "as_of": "2025-03"
+   },
+   "wordstream_2026": {
+    "name": "LocaliQ/WordStream Search Advertising Benchmarks 2026 (US median CPC by industry)",
+    "url": "https://www.localiq.com/blog/search-advertising-benchmarks",
+    "as_of": "2026"
+   }
+  },
+  "license": {
+   "registry_estimates": "CC-BY-4.0",
+   "url": "https://creativecommons.org/licenses/by/4.0/",
+   "cited_figures": "attribute to the publishers in sources"
+  },
+  "as_of": "2026-10-18",
+  "api": "https://dingalinged-cpu.github.io/registry/api/market/physical-therapy.json",
+  "rate_card": "https://dingalinged-cpu.github.io/registry/view/market.html#physical-therapy-chicago-il"
+ }
+}

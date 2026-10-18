@@ -1,0 +1,58 @@
+{
+ "slug": "shen-dental-care-mount-prospect",
+ "name": "Shen Dental Care",
+ "categories": [
+  "dentist"
+ ],
+ "keywords": [
+  "dentist",
+  "dentist mount prospect il"
+ ],
+ "services": [
+  {
+   "name": "dentist",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "325 West Prospect Avenue",
+  "addressLocality": "Mount Prospect",
+  "addressRegion": "IL",
+  "postalCode": "60056",
+  "addressCountry": "US"
+ },
+ "city": "Mount Prospect",
+ "state": "IL",
+ "zip": "60056",
+ "geo": {
+  "lat": 42.0651737,
+  "lon": -87.9421398
+ },
+ "phone": "+18473926556",
+ "website": "https://www.michaelshendds.com/",
+ "opening_hours": "Mo 11:00-19:00; Fr 09:00-17:00; Sa 08:00-14:00",
+ "schema_type": "Dentist",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/13721919401",
+ "osm": {
+  "type": "node",
+  "id": 13721919401,
+  "tags_used": {
+   "amenity": "dentist",
+   "healthcare": "dentist"
+  }
+ },
+ "municipality": "Mount Prospect",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/shen-dental-care-mount-prospect/",
+ "summary": "Shen Dental Care is a dentist in Mount Prospect, IL at 325 West Prospect Avenue, Mount Prospect, IL 60056. Phone: +18473926556. Website: https://www.michaelshendds.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

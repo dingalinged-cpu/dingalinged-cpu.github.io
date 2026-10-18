@@ -1,0 +1,23 @@
+Champion Jiu Jitsu is a martial arts school in Arlington Heights, IL at 19 East Golf Road, Arlington Heights, IL 60005. Phone: +18472624014. Website: https://championjiujitsu.com/.
+
+# Champion Jiu Jitsu
+
+- Category: martial arts
+- Services: martial arts
+- Address: 19 East Golf Road, Arlington Heights, IL 60005
+- City: Arlington Heights
+- State: IL
+- ZIP: 60005
+- Coordinates: 42.0509274, -87.9804875
+- Phone: +18472624014
+- Website: https://championjiujitsu.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 17:00-20:00; Fr 17:00-19:00; Sa,Fr 11:30-14:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/champion-jiu-jitsu-arlington-heights/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/champion-jiu-jitsu-arlington-heights.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11269040898 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

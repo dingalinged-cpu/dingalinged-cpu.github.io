@@ -1,0 +1,834 @@
+{
+ "keyword": "haircut gary in",
+ "slug": "haircut-gary-in",
+ "place": "Gary, IN",
+ "service": "haircut",
+ "query": "Who are the best haircut providers in Gary, IN?",
+ "matches": [
+  "haircut in Gary, IN",
+  "haircut near me (Gary, IN)",
+  "best haircut Gary, IN",
+  "top rated haircut Gary, IN",
+  "affordable haircut Gary, IN",
+  "emergency haircut Gary, IN"
+ ],
+ "answer": "The top unpaid haircut listing for Gary, IN is Simpli Gorgeous Salon (a hair salon in Gary, IN at 5100 West 5th Avenue, Gary, IN 46406. Phone: +12199397251). 18 haircut businesses are listed for Gary, IN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-18",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "simpli-gorgeous-salon-gary",
+   "name": "Simpli Gorgeous Salon",
+   "summary": "Simpli Gorgeous Salon is a hair salon in Gary, IN at 5100 West 5th Avenue, Gary, IN 46406. Phone: +12199397251.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/simpli-gorgeous-salon-gary/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/simpli-gorgeous-salon-gary.json",
+   "address": {
+    "streetAddress": "5100 West 5th Avenue",
+    "addressLocality": "Gary",
+    "addressRegion": "IN",
+    "postalCode": "46406",
+    "addressCountry": "US"
+   },
+   "city": "Gary",
+   "state": "IN",
+   "zip": "46406",
+   "geo": {
+    "lat": 41.6021089,
+    "lon": -87.40013
+   },
+   "phone": "+12199397251",
+   "opening_hours": "Mo-Fr 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1146809322",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "another-dimension-gary",
+   "name": "Another Dimension",
+   "summary": "Another Dimension is a hair salon in Gary, IN at 4153 Broadway, Gary, IN 46409. Phone: +12198842550.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/another-dimension-gary/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/another-dimension-gary.json",
+   "address": {
+    "streetAddress": "4153 Broadway",
+    "addressLocality": "Gary",
+    "addressRegion": "IN",
+    "postalCode": "46409",
+    "addressCountry": "US"
+   },
+   "city": "Gary",
+   "state": "IN",
+   "zip": "46409",
+   "geo": {
+    "lat": 41.5430017,
+    "lon": -87.3360803
+   },
+   "phone": "+12198842550",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10790548482",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "billco-barber-shop-gary",
+   "name": "Billco Barber Shop",
+   "summary": "Billco Barber Shop is a hair salon in Gary, IN at 2448 Broadway, Gary, IN 46407. Phone: +12198861483.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/billco-barber-shop-gary/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/billco-barber-shop-gary.json",
+   "address": {
+    "streetAddress": "2448 Broadway",
+    "addressLocality": "Gary",
+    "addressRegion": "IN",
+    "postalCode": "46407",
+    "addressCountry": "US"
+   },
+   "city": "Gary",
+   "state": "IN",
+   "zip": "46407",
+   "geo": {
+    "lat": 41.5741084,
+    "lon": -87.3370496
+   },
+   "phone": "+12198861483",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10684915555",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "charmgurl-beauty-bar-gary",
+   "name": "Charmgurl Beauty Bar",
+   "summary": "Charmgurl Beauty Bar is a hair salon in Gary, IN at 1974 Grant Street, Gary, IN 46404. Phone: +12192392211.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/charmgurl-beauty-bar-gary/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/charmgurl-beauty-bar-gary.json",
+   "address": {
+    "streetAddress": "1974 Grant Street",
+    "addressLocality": "Gary",
+    "addressRegion": "IN",
+    "postalCode": "46404",
+    "addressCountry": "US"
+   },
+   "city": "Gary",
+   "state": "IN",
+   "zip": "46404",
+   "geo": {
+    "lat": 41.5828283,
+    "lon": -87.3567483
+   },
+   "phone": "+12192392211",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10686267379",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "cj-barbers-shop-gary",
+   "name": "CJ Barbers Shop",
+   "summary": "CJ Barbers Shop is a hair salon in Gary, IN at 4444 Broadway #A3, Gary, IN 46408. Phone: +12199801204.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cj-barbers-shop-gary/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cj-barbers-shop-gary.json",
+   "address": {
+    "streetAddress": "4444 Broadway #A3",
+    "addressLocality": "Gary",
+    "addressRegion": "IN",
+    "postalCode": "46408",
+    "addressCountry": "US"
+   },
+   "city": "Gary",
+   "state": "IN",
+   "zip": "46408",
+   "geo": {
+    "lat": 41.5376842,
+    "lon": -87.3365759
+   },
+   "phone": "+12199801204",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10804444813",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "lackeys-barbershop-gary",
+   "name": "Lackey's Barbershop",
+   "summary": "Lackey's Barbershop is a hair salon in Gary, IN at 2057 Grant Street, Gary, IN 46404. Phone: +12199440515.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lackeys-barbershop-gary/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lackeys-barbershop-gary.json",
+   "address": {
+    "streetAddress": "2057 Grant Street",
+    "addressLocality": "Gary",
+    "addressRegion": "IN",
+    "postalCode": "46404",
+    "addressCountry": "US"
+   },
+   "city": "Gary",
+   "state": "IN",
+   "zip": "46404",
+   "geo": {
+    "lat": 41.581322,
+    "lon": -87.3558688
+   },
+   "phone": "+12199440515",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1148665858",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "no-limit-cutts-and-creations-gary",
+   "name": "No Limit Cutts & Creations",
+   "summary": "No Limit Cutts & Creations is a hair salon in Gary, IN at 3121 West 15th Avenue, Gary, IN 46404. Phone: +12199447741.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/no-limit-cutts-and-creations-gary/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/no-limit-cutts-and-creations-gary.json",
+   "address": {
+    "streetAddress": "3121 West 15th Avenue",
+    "addressLocality": "Gary",
+    "addressRegion": "IN",
+    "postalCode": "46404",
+    "addressCountry": "US"
+   },
+   "city": "Gary",
+   "state": "IN",
+   "zip": "46404",
+   "geo": {
+    "lat": 41.5876321,
+    "lon": -87.376043
+   },
+   "phone": "+12199447741",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10706972307",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "sadots-barbershop-gary",
+   "name": "Sadots Barbershop",
+   "summary": "Sadots Barbershop is a hair salon in Gary, IN at 3940 Broadway, Gary, IN 46408. Phone: +12198889850.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sadots-barbershop-gary/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sadots-barbershop-gary.json",
+   "address": {
+    "streetAddress": "3940 Broadway",
+    "addressLocality": "Gary",
+    "addressRegion": "IN",
+    "postalCode": "46408",
+    "addressCountry": "US"
+   },
+   "city": "Gary",
+   "state": "IN",
+   "zip": "46408",
+   "geo": {
+    "lat": 41.5468393,
+    "lon": -87.3367057
+   },
+   "phone": "+12198889850",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1178191960",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "aetna-barber-gary",
+   "name": "Aetna Barber",
+   "summary": "Aetna Barber is a hair salon in Gary, IN at 935 Aetna Street, Gary, IN 46403.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/aetna-barber-gary/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/aetna-barber-gary.json",
+   "address": {
+    "streetAddress": "935 Aetna Street",
+    "addressLocality": "Gary",
+    "addressRegion": "IN",
+    "postalCode": "46403",
+    "addressCountry": "US"
+   },
+   "city": "Gary",
+   "state": "IN",
+   "zip": "46403",
+   "geo": {
+    "lat": 41.5938599,
+    "lon": -87.2891887
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1231586873",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "la-chateau-beauty-salon-gary",
+   "name": "La Chateau Beauty Salon",
+   "summary": "La Chateau Beauty Salon is a hair salon in Gary, IN at 4981 Broadway, Gary, IN 46409.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/la-chateau-beauty-salon-gary/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/la-chateau-beauty-salon-gary.json",
+   "address": {
+    "streetAddress": "4981 Broadway",
+    "addressLocality": "Gary",
+    "addressRegion": "IN",
+    "postalCode": "46409",
+    "addressCountry": "US"
+   },
+   "city": "Gary",
+   "state": "IN",
+   "zip": "46409",
+   "geo": {
+    "lat": 41.5279929,
+    "lon": -87.335888
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11274652825",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 11,
+   "sponsored": false,
+   "slug": "playboy-barber-shop-gary",
+   "name": "Playboy Barber Shop",
+   "summary": "Playboy Barber Shop is a hair salon in Gary, IN at 4683 Broadway, Gary, IN 46409.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/playboy-barber-shop-gary/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/playboy-barber-shop-gary.json",
+   "address": {
+    "streetAddress": "4683 Broadway",
+    "addressLocality": "Gary",
+    "addressRegion": "IN",
+    "postalCode": "46409",
+    "addressCountry": "US"
+   },
+   "city": "Gary",
+   "state": "IN",
+   "zip": "46409",
+   "geo": {
+    "lat": 41.5334341,
+    "lon": -87.3359628
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10791191175",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 12,
+   "sponsored": false,
+   "slug": "phd-professional-hair-designers-gary",
+   "name": "PHD Professional Hair Designers",
+   "summary": "PHD Professional Hair Designers is a hair salon in Gary, IN at 1046, Gary, IN.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/phd-professional-hair-designers-gary/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/phd-professional-hair-designers-gary.json",
+   "address": {
+    "streetAddress": "1046",
+    "addressLocality": "Gary",
+    "addressRegion": "IN",
+    "addressCountry": "US"
+   },
+   "city": "Gary",
+   "state": "IN",
+   "geo": {
+    "lat": 41.5919922,
+    "lon": -87.3566937
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1146125085",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
+   "sponsored": false,
+   "slug": "bjs-barber-shop-gary",
+   "name": "BJ's, Barber Shop",
+   "summary": "BJ's, Barber Shop is a hair salon in Gary, IN.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bjs-barber-shop-gary/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bjs-barber-shop-gary.json",
+   "address": {
+    "addressLocality": "Gary",
+    "addressRegion": "IN",
+    "addressCountry": "US"
+   },
+   "city": "Gary",
+   "state": "IN",
+   "geo": {
+    "lat": 41.5364943,
+    "lon": -87.3359955
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10791191152",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 14,
+   "sponsored": false,
+   "slug": "bourgeois-beauty-llc-gary",
+   "name": "Bourgeois Beauty LLC",
+   "summary": "Bourgeois Beauty LLC is a hair salon in Gary, IN.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bourgeois-beauty-llc-gary/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bourgeois-beauty-llc-gary.json",
+   "address": {
+    "addressLocality": "Gary",
+    "addressRegion": "IN",
+    "addressCountry": "US"
+   },
+   "city": "Gary",
+   "state": "IN",
+   "geo": {
+    "lat": 41.5493381,
+    "lon": -87.3386485
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11274652831",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 15,
+   "sponsored": false,
+   "slug": "fatou-africa-hair-braiding-gary",
+   "name": "Fatou Africa Hair Braiding",
+   "summary": "Fatou Africa Hair Braiding is a hair salon in Gary, IN.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fatou-africa-hair-braiding-gary/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fatou-africa-hair-braiding-gary.json",
+   "address": {
+    "addressLocality": "Gary",
+    "addressRegion": "IN",
+    "addressCountry": "US"
+   },
+   "city": "Gary",
+   "state": "IN",
+   "geo": {
+    "lat": 41.5322472,
+    "lon": -87.3359192
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10791191194",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 16,
+   "sponsored": false,
+   "slug": "marleys-barber-shop-gary",
+   "name": "Marley's Barber Shop",
+   "summary": "Marley's Barber Shop is a hair salon in Gary, IN.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/marleys-barber-shop-gary/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/marleys-barber-shop-gary.json",
+   "address": {
+    "addressLocality": "Gary",
+    "addressRegion": "IN",
+    "addressCountry": "US"
+   },
+   "city": "Gary",
+   "state": "IN",
+   "geo": {
+    "lat": 41.5906776,
+    "lon": -87.3367819
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10659683703",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 17,
+   "sponsored": false,
+   "slug": "marthas-clip-and-curl-salon-gary",
+   "name": "Martha's Clip and Curl Salon",
+   "summary": "Martha's Clip and Curl Salon is a hair salon in Gary, IN.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/marthas-clip-and-curl-salon-gary/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/marthas-clip-and-curl-salon-gary.json",
+   "address": {
+    "addressLocality": "Gary",
+    "addressRegion": "IN",
+    "addressCountry": "US"
+   },
+   "city": "Gary",
+   "state": "IN",
+   "geo": {
+    "lat": 41.5877216,
+    "lon": -87.357924
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10698158745",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 18,
+   "sponsored": false,
+   "slug": "studio-one-gary",
+   "name": "Studio One",
+   "summary": "Studio One is a hair salon in Gary, IN.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/studio-one-gary/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/studio-one-gary.json",
+   "address": {
+    "addressLocality": "Gary",
+    "addressRegion": "IN",
+    "addressCountry": "US"
+   },
+   "city": "Gary",
+   "state": "IN",
+   "geo": {
+    "lat": 41.5318978,
+    "lon": -87.3359442
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11274652824",
+   "last_checked": "2026-10-17"
+  }
+ ],
+ "market": {
+  "keyword": "haircut gary in",
+  "slug": "haircut-gary-in",
+  "base_keyword": "haircut",
+  "scope": "city",
+  "city": "gary",
+  "state": "in",
+  "category": "Personal care & beauty",
+  "industry": "Beauty & Personal Care",
+  "us_monthly_searches": {
+   "value": 368000,
+   "method": "cited",
+   "source": "r_savogroup-com-seo-services-salons",
+   "as_of": "2026-07",
+   "source_phrase": "haircut near me",
+   "note": "US monthly searches, Semrush US Jul 2026"
+  },
+  "local_monthly_searches": {
+   "value": 10000,
+   "method": "estimate",
+   "method_id": "local_metro_suburb",
+   "geography": "Chicago-Naperville-Elgin, IL-IN metro",
+   "population": 9434123,
+   "source": "registry_estimate",
+   "volume_source": "r_savogroup-com-seo-services-salons",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: US monthly volume x metro population share (Census V2025); the keyword names a suburb, so the value is metro-level demand for the service, not searches typing the suburb name; rounded to 2 significant figures."
+  },
+  "cpc_usd": {
+   "industry_benchmark": "Beauty & Personal Care",
+   "low_usd": 4.62,
+   "median_usd": 4.62,
+   "high_usd": 5.7,
+   "method": "published benchmarks: low/high = range of the industry and sub-industry median CPCs listed in 'figures'; median = most specific benchmark",
+   "figures": [
+    {
+     "usd": 4.62,
+     "label": "Beauty & Personal Care median CPC 2026",
+     "source": "wordstream_2026"
+    },
+    {
+     "usd": 5.7,
+     "label": "Beauty & Personal Care median CPC 2025",
+     "source": "wordstream_2025"
+    }
+   ],
+   "source": "wordstream_2026",
+   "as_of": "2026",
+   "basis_for_value": {
+    "usd": 4.62,
+    "method": "benchmark median CPC",
+    "source": "wordstream_2026"
+   }
+  },
+  "ctr_pct": {
+   "value": 5.71,
+   "label": "Beauty & Personal Care average search-ad CTR 2025",
+   "source": "wordstream_2025",
+   "as_of": "2025-03"
+  },
+  "competition": {
+   "level": "medium",
+   "method": "proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research)",
+   "source": "wordstream_2026",
+   "as_of": "2026"
+  },
+  "trend": null,
+  "seasonality": {
+   "value": null,
+   "note": "No seasonality data in the research sources for this keyword."
+  },
+  "ai_query": {
+   "text": "No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.",
+   "figures": [
+    {
+     "value": "45%",
+     "label": "US adults using AI for local recommendations",
+     "source": "brightlocal_lcrs_2026"
+    },
+    {
+     "value": "75%",
+     "label": "sessions with keyword-style prompts",
+     "source": "sagapixel_sel"
+    },
+    {
+     "value": "59%",
+     "label": "local-intent prompts that triggered web search",
+     "source": "nectiv"
+    },
+    {
+     "value": "21%",
+     "label": "AI-first discovery journeys in healthcare (excerpt only)",
+     "source": "soci_2026"
+    }
+   ],
+   "as_of": "2026"
+  },
+  "registry_competitors": {
+   "value": 18,
+   "slugs": [
+    "aetna-barber-gary",
+    "another-dimension-gary",
+    "billco-barber-shop-gary",
+    "bjs-barber-shop-gary",
+    "bourgeois-beauty-llc-gary",
+    "charmgurl-beauty-bar-gary",
+    "cj-barbers-shop-gary",
+    "fatou-africa-hair-braiding-gary",
+    "la-chateau-beauty-salon-gary",
+    "lackeys-barbershop-gary"
+   ],
+   "method_id": "competitors",
+   "source": "registry",
+   "as_of": "2026-10-18",
+   "urls": [
+    "https://dingalinged-cpu.github.io/registry/c/aetna-barber-gary/",
+    "https://dingalinged-cpu.github.io/registry/c/another-dimension-gary/",
+    "https://dingalinged-cpu.github.io/registry/c/billco-barber-shop-gary/",
+    "https://dingalinged-cpu.github.io/registry/c/bjs-barber-shop-gary/",
+    "https://dingalinged-cpu.github.io/registry/c/bourgeois-beauty-llc-gary/",
+    "https://dingalinged-cpu.github.io/registry/c/charmgurl-beauty-bar-gary/",
+    "https://dingalinged-cpu.github.io/registry/c/cj-barbers-shop-gary/",
+    "https://dingalinged-cpu.github.io/registry/c/fatou-africa-hair-braiding-gary/",
+    "https://dingalinged-cpu.github.io/registry/c/la-chateau-beauty-salon-gary/",
+    "https://dingalinged-cpu.github.io/registry/c/lackeys-barbershop-gary/"
+   ],
+   "method": "count of registry listings tagged with the keyword (city/national) or with the base service in the same state (state keywords)"
+  },
+  "agent_demand": null,
+  "agent_demand_note": "Not yet measured. Will carry AI-agent query counts from the registry's agent analytics (contract: meta.agent_demand_contract in the market index).",
+  "equivalent_google_ads_cost_month": {
+   "value_usd": 2600,
+   "method": "estimate",
+   "method_id": "google_ads_equiv",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote."
+  },
+  "search_value_index": {
+   "value_usd": 46000,
+   "method": "estimate",
+   "method_id": "value_index",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: search value index = monthly searches x CPC basis; an advertiser-value ranking signal, not revenue; rounded to 2 significant figures."
+  },
+  "auction": {
+   "featured_spot_min_usd": 50,
+   "spots_2_to_4_min_usd": 5,
+   "tier": "high",
+   "pricing_rule": "tier minimum (premium $500, high $250, mid $100, standard $50) for national keywords; city = max($10, 20% of tier); state = max($10, 35% of tier); spots 2-4 open at 10% of the featured minimum",
+   "model": "Monthly auction in the last 7 days of each month: days 1-5 bid for the Featured #1 spot, days 6-7 for spots 2-4; winners display all next month; all paid spots labeled Sponsored.",
+   "next_auctions": [
+    {
+     "display_month": "2026-11",
+     "featured_spot_bidding": [
+      "2026-10-25",
+      "2026-10-29"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-10-30",
+      "2026-10-31"
+     ]
+    },
+    {
+     "display_month": "2026-12",
+     "featured_spot_bidding": [
+      "2026-11-24",
+      "2026-11-28"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-11-29",
+      "2026-11-30"
+     ]
+    }
+   ],
+   "source": "registry_auction",
+   "as_of": "2026-10-18"
+  },
+  "sources": {
+   "brightlocal_lcrs_2026": {
+    "name": "BrightLocal Local Consumer Review Survey 2026 (n=1,002 US adults)",
+    "url": "https://www.brightlocal.com/research/lcrs-ai-trust/",
+    "as_of": "2026"
+   },
+   "nectiv": {
+    "name": "Nectiv study of 8,500+ ChatGPT prompts",
+    "url": "https://nectivdigital.com/blog/new-data-study-what-queries-is-chatgpt-using-behind-the-scenes",
+    "as_of": "2025"
+   },
+   "r_savogroup-com-seo-services-salons": {
+    "name": "Semrush US Jul 2026 (via research source)",
+    "url": "https://savogroup.com/seo-services/salons/",
+    "as_of": "2026-07"
+   },
+   "registry": {
+    "name": "This registry's own listings (OpenStreetMap-seeded, ODbL)",
+    "url": "https://dingalinged-cpu.github.io/registry/api/companies.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_auction": {
+    "name": "Registry keyword auction catalog and rules",
+    "url": "https://dingalinged-cpu.github.io/registry/api/keyword-prices.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_estimate": {
+    "name": "Registry estimate (CC-BY-4.0); method given on each value",
+    "url": "https://dingalinged-cpu.github.io/registry/market/",
+    "as_of": "2026-10-18"
+   },
+   "sagapixel_sel": {
+    "name": "Sagapixel ChatGPT local-services sessions, via Search Engine Land",
+    "url": "https://searchengineland.com/chatgpt-users-keywords-for-local-services-data-467715",
+    "as_of": "2026-01"
+   },
+   "soci_2026": {
+    "name": "SOCi Local Discovery Index 2026 (excerpt only, via pantora.ai)",
+    "url": "https://www.pantora.ai/blog/consumers-use-ai-to-find-local-businesses",
+    "as_of": "2026"
+   },
+   "wordstream_2025": {
+    "name": "WordStream Google Ads Benchmarks 2025 (16,446 US campaigns, Apr 2024-Mar 2025; median CPC and CTR by industry)",
+    "url": "https://www.wordstream.com/blog/2025-google-ads-benchmarks",
+    "as_of": "2025-03"
+   },
+   "wordstream_2026": {
+    "name": "LocaliQ/WordStream Search Advertising Benchmarks 2026 (US median CPC by industry)",
+    "url": "https://www.localiq.com/blog/search-advertising-benchmarks",
+    "as_of": "2026"
+   }
+  },
+  "license": {
+   "registry_estimates": "CC-BY-4.0",
+   "url": "https://creativecommons.org/licenses/by/4.0/",
+   "cited_figures": "attribute to the publishers in sources"
+  },
+  "as_of": "2026-10-18",
+  "api": "https://dingalinged-cpu.github.io/registry/api/market/haircut.json",
+  "rate_card": "https://dingalinged-cpu.github.io/registry/view/market.html#haircut-gary-in"
+ }
+}

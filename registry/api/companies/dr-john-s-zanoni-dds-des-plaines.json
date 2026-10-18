@@ -1,0 +1,52 @@
+{
+ "slug": "dr-john-s-zanoni-dds-des-plaines",
+ "name": "Dr. John S. Zanoni, DDS",
+ "categories": [
+  "dentist"
+ ],
+ "keywords": [
+  "dentist",
+  "dentist des plaines il"
+ ],
+ "services": [
+  {
+   "name": "dentist",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Des Plaines",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Des Plaines",
+ "state": "IL",
+ "geo": {
+  "lat": 42.0239727,
+  "lon": -87.8873081
+ },
+ "schema_type": "Dentist",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/54223359",
+ "osm": {
+  "type": "way",
+  "id": 54223359,
+  "tags_used": {
+   "amenity": "dentist",
+   "healthcare": "dentist"
+  }
+ },
+ "municipality": "Des Plaines",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/dr-john-s-zanoni-dds-des-plaines/",
+ "summary": "Dr. John S. Zanoni, DDS is a dentist in Des Plaines, IL.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

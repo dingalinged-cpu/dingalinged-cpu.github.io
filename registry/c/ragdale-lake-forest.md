@@ -1,0 +1,23 @@
+Ragdale is an event venue in Lake Forest, IL at 1230 North Green Bay Road, Lake Forest, IL 60045.
+
+# Ragdale
+
+- Category: event venues
+- Services: event venues
+- Address: 1230 North Green Bay Road, Lake Forest, IL 60045
+- City: Lake Forest
+- State: IL
+- ZIP: 60045
+- Coordinates: 42.2626956, -87.850048
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/ragdale-lake-forest/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/ragdale-lake-forest.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12061668055 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

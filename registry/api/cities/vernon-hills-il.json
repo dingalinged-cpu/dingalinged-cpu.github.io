@@ -1,0 +1,1997 @@
+{
+ "place": "Vernon Hills, IL",
+ "slug": "vernon-hills-il",
+ "count": 63,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "auto repair vernon hills il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-vernon-hills-il.json"
+  },
+  {
+   "keyword": "bakery vernon hills il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/bakery-vernon-hills-il.json"
+  },
+  {
+   "keyword": "car wash vernon hills il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-vernon-hills-il.json"
+  },
+  {
+   "keyword": "chiropractor vernon hills il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/chiropractor-vernon-hills-il.json"
+  },
+  {
+   "keyword": "dance studio vernon hills il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dance-studio-vernon-hills-il.json"
+  },
+  {
+   "keyword": "daycare vernon hills il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/daycare-vernon-hills-il.json"
+  },
+  {
+   "keyword": "dentist vernon hills il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-vernon-hills-il.json"
+  },
+  {
+   "keyword": "dry cleaners vernon hills il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dry-cleaners-vernon-hills-il.json"
+  },
+  {
+   "keyword": "facial vernon hills il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/facial-vernon-hills-il.json"
+  },
+  {
+   "keyword": "flooring companies vernon hills il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/flooring-companies-vernon-hills-il.json"
+  },
+  {
+   "keyword": "furniture store vernon hills il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/furniture-store-vernon-hills-il.json"
+  },
+  {
+   "keyword": "gift shop vernon hills il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gift-shop-vernon-hills-il.json"
+  },
+  {
+   "keyword": "gym vernon hills il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-vernon-hills-il.json"
+  },
+  {
+   "keyword": "hair salon vernon hills il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-vernon-hills-il.json"
+  },
+  {
+   "keyword": "haircut vernon hills il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-vernon-hills-il.json"
+  },
+  {
+   "keyword": "insurance agency vernon hills il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-vernon-hills-il.json"
+  },
+  {
+   "keyword": "insurance agent vernon hills il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-vernon-hills-il.json"
+  },
+  {
+   "keyword": "insurance agents vernon hills il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-vernon-hills-il.json"
+  },
+  {
+   "keyword": "jewelry store vernon hills il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/jewelry-store-vernon-hills-il.json"
+  },
+  {
+   "keyword": "liquor store vernon hills il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/liquor-store-vernon-hills-il.json"
+  },
+  {
+   "keyword": "mattress store vernon hills il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mattress-store-vernon-hills-il.json"
+  },
+  {
+   "keyword": "mechanic vernon hills il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-vernon-hills-il.json"
+  },
+  {
+   "keyword": "nail salon vernon hills il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/nail-salon-vernon-hills-il.json"
+  },
+  {
+   "keyword": "pet store vernon hills il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/pet-store-vernon-hills-il.json"
+  },
+  {
+   "keyword": "preschool vernon hills il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/preschool-vernon-hills-il.json"
+  },
+  {
+   "keyword": "printing services vernon hills il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/printing-services-vernon-hills-il.json"
+  },
+  {
+   "keyword": "storage units vernon hills il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/storage-units-vernon-hills-il.json"
+  },
+  {
+   "keyword": "tailor vernon hills il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tailor-vernon-hills-il.json"
+  },
+  {
+   "keyword": "tire shop vernon hills il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tire-shop-vernon-hills-il.json"
+  },
+  {
+   "keyword": "vet vernon hills il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/vet-vernon-hills-il.json"
+  },
+  {
+   "keyword": "waxing vernon hills il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/waxing-vernon-hills-il.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "belle-tire-vernon-hills",
+   "name": "Belle Tire",
+   "summary": "Belle Tire is a tire shop in Vernon Hills, IL at 1810 North Milwaukee Avenue, Vernon Hills, IL 60061. Phone: +18479843055. Website: https://www.belletire.com/stores/detail/207/belle-tire-vernon-hills-il.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/belle-tire-vernon-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/belle-tire-vernon-hills.json",
+   "address": {
+    "streetAddress": "1810 North Milwaukee Avenue",
+    "addressLocality": "Vernon Hills",
+    "addressRegion": "IL",
+    "postalCode": "60061",
+    "addressCountry": "US"
+   },
+   "city": "Vernon Hills",
+   "state": "IL",
+   "zip": "60061",
+   "geo": {
+    "lat": 42.2598892,
+    "lon": -87.9499006
+   },
+   "phone": "+18479843055",
+   "website": "https://www.belletire.com/stores/detail/207/belle-tire-vernon-hills-il",
+   "opening_hours": "Mo 08:00-20:00; Tu-We 08:00-18:00; Th 08:00-20:00; Fr 08:00-18:00; Sa 08:00-17:00; Su closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1198720819",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "binnys-beverage-depot-vernon-hills",
+   "name": "Binny's Beverage Depot",
+   "summary": "Binny's Beverage Depot is a liquor store in Vernon Hills, IL at Hawthorn Village Commons, Vernon Hills, IL 60061. Phone: +18475129000. Website: https://www.binnys.com/store-locator/vernon-hills/.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/binnys-beverage-depot-vernon-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/binnys-beverage-depot-vernon-hills.json",
+   "address": {
+    "streetAddress": "Hawthorn Village Commons",
+    "addressLocality": "Vernon Hills",
+    "addressRegion": "IL",
+    "postalCode": "60061",
+    "addressCountry": "US"
+   },
+   "city": "Vernon Hills",
+   "state": "IL",
+   "zip": "60061",
+   "geo": {
+    "lat": 42.2417411,
+    "lon": -87.9565673
+   },
+   "phone": "+18475129000",
+   "website": "https://www.binnys.com/store-locator/vernon-hills/",
+   "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/131606675",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "life-time-vernon-hills",
+   "name": "Life Time",
+   "summary": "Life Time is a gym in Vernon Hills, IL at 680 Woodlands Parkway, Vernon Hills, IL 60061. Phone: +18479950670. Website: https://www.lifetime.life/life-time-locations/il-vernon-hills.html.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/life-time-vernon-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/life-time-vernon-hills.json",
+   "address": {
+    "streetAddress": "680 Woodlands Parkway",
+    "addressLocality": "Vernon Hills",
+    "addressRegion": "IL",
+    "postalCode": "60061",
+    "addressCountry": "US"
+   },
+   "city": "Vernon Hills",
+   "state": "IL",
+   "zip": "60061",
+   "geo": {
+    "lat": 42.2137915,
+    "lon": -87.9369567
+   },
+   "phone": "+18479950670",
+   "website": "https://www.lifetime.life/life-time-locations/il-vernon-hills.html",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/317006504",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "petsmart-vernon-hills",
+   "name": "PetSmart",
+   "summary": "PetSmart is a pet store in Vernon Hills, IL at 700 North Milwaukee Avenue, Vernon Hills, IL 60061. Phone: +18478166251. Website: https://www.petsmart.com/stores/us/il/vernon-hills-store2147.html.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petsmart-vernon-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petsmart-vernon-hills.json",
+   "address": {
+    "streetAddress": "700 North Milwaukee Avenue",
+    "addressLocality": "Vernon Hills",
+    "addressRegion": "IL",
+    "postalCode": "60061",
+    "addressCountry": "US"
+   },
+   "city": "Vernon Hills",
+   "state": "IL",
+   "zip": "60061",
+   "geo": {
+    "lat": 42.2375981,
+    "lon": -87.9453427
+   },
+   "phone": "+18478166251",
+   "website": "https://www.petsmart.com/stores/us/il/vernon-hills-store2147.html",
+   "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5428108609",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "the-skin-bar-at-ulta-beauty-vernon-hills",
+   "name": "The Skin Bar at Ulta Beauty",
+   "summary": "The Skin Bar at Ulta Beauty is a skin care studio in Vernon Hills, IL at 700 North Milwaukee Avenue #117, Vernon Hills, IL 60061. Phone: +18475491686. Website: https://www.ulta.com/stores/vernon-hills-il-672.",
+   "categories": [
+    "facial"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-skin-bar-at-ulta-beauty-vernon-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-skin-bar-at-ulta-beauty-vernon-hills.json",
+   "address": {
+    "streetAddress": "700 North Milwaukee Avenue #117",
+    "addressLocality": "Vernon Hills",
+    "addressRegion": "IL",
+    "postalCode": "60061",
+    "addressCountry": "US"
+   },
+   "city": "Vernon Hills",
+   "state": "IL",
+   "zip": "60061",
+   "geo": {
+    "lat": 42.2377017,
+    "lon": -87.9466735
+   },
+   "phone": "+18475491686",
+   "website": "https://www.ulta.com/stores/vernon-hills-il-672",
+   "opening_hours": "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7650364602",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "tous-les-jours-vernon-hills",
+   "name": "Tous les Jours",
+   "summary": "Tous les Jours is a bakery in Vernon Hills, IL at 670 Hawthorn Center Drive, Vernon Hills, IL 60061. Phone: +18472817188. Website: https://www.tljus.com/.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tous-les-jours-vernon-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tous-les-jours-vernon-hills.json",
+   "address": {
+    "streetAddress": "670 Hawthorn Center Drive",
+    "addressLocality": "Vernon Hills",
+    "addressRegion": "IL",
+    "postalCode": "60061",
+    "addressCountry": "US"
+   },
+   "city": "Vernon Hills",
+   "state": "IL",
+   "zip": "60061",
+   "geo": {
+    "lat": 42.2439049,
+    "lon": -87.9490558
+   },
+   "phone": "+18472817188",
+   "website": "https://www.tljus.com/",
+   "opening_hours": "Mo-Sa 10:30-20:00; Su 10:30-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8931377184",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "townline-animal-hospital-vernon-hills",
+   "name": "Townline Animal Hospital",
+   "summary": "Townline Animal Hospital is a veterinarian in Vernon Hills, IL at 555 Townline Road, Vernon Hills, IL 60061. Phone: +18475493187. Website: https://townlineah.com/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/townline-animal-hospital-vernon-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/townline-animal-hospital-vernon-hills.json",
+   "address": {
+    "streetAddress": "555 Townline Road",
+    "addressLocality": "Vernon Hills",
+    "addressRegion": "IL",
+    "postalCode": "60061",
+    "addressCountry": "US"
+   },
+   "city": "Vernon Hills",
+   "state": "IL",
+   "zip": "60061",
+   "geo": {
+    "lat": 42.2387516,
+    "lon": -87.9526925
+   },
+   "phone": "+18475493187",
+   "website": "https://townlineah.com/",
+   "opening_hours": "Mo-Su 09:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11342602336",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "arbor-hills-dental-care-vernon-hills",
+   "name": "Arbor Hills Dental Care",
+   "summary": "Arbor Hills Dental Care is a dentist in Vernon Hills, IL at 175 North Milwaukee, Vernon Hills, IL 60061. Phone: +18479559500. Website: https://www.arborhillsdental.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/arbor-hills-dental-care-vernon-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/arbor-hills-dental-care-vernon-hills.json",
+   "address": {
+    "streetAddress": "175 North Milwaukee",
+    "addressLocality": "Vernon Hills",
+    "addressRegion": "IL",
+    "postalCode": "60061",
+    "addressCountry": "US"
+   },
+   "city": "Vernon Hills",
+   "state": "IL",
+   "zip": "60061",
+   "geo": {
+    "lat": 42.2290524,
+    "lon": -87.9407414
+   },
+   "phone": "+18479559500",
+   "website": "https://www.arborhillsdental.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11876749792",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "ashley-homestore-vernon-hills",
+   "name": "Ashley HomeStore",
+   "summary": "Ashley HomeStore is a furniture store in Vernon Hills, IL at 551 North Milwaukee Avenue, Vernon Hills, IL 60061. Phone: +18477197200. Website: https://stores.ashleyfurniture.com/store/us/illinois/vernon-hills/7710000161/.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ashley-homestore-vernon-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ashley-homestore-vernon-hills.json",
+   "address": {
+    "streetAddress": "551 North Milwaukee Avenue",
+    "addressLocality": "Vernon Hills",
+    "addressRegion": "IL",
+    "postalCode": "60061",
+    "addressCountry": "US"
+   },
+   "city": "Vernon Hills",
+   "state": "IL",
+   "zip": "60061",
+   "geo": {
+    "lat": 42.2360961,
+    "lon": -87.9426441
+   },
+   "phone": "+18477197200",
+   "website": "https://stores.ashleyfurniture.com/store/us/illinois/vernon-hills/7710000161/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/196239576",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "planet-fitness-vernon-hills",
+   "name": "Planet Fitness",
+   "summary": "Planet Fitness is a gym in Vernon Hills, IL at 413 North Milwaukee Avenue, Vernon Hills, IL 60061. Phone: +17085724420. Website: https://www.planetfitness.com/gyms/vernon-hills-il.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/planet-fitness-vernon-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/planet-fitness-vernon-hills.json",
+   "address": {
+    "streetAddress": "413 North Milwaukee Avenue",
+    "addressLocality": "Vernon Hills",
+    "addressRegion": "IL",
+    "postalCode": "60061",
+    "addressCountry": "US"
+   },
+   "city": "Vernon Hills",
+   "state": "IL",
+   "zip": "60061",
+   "geo": {
+    "lat": 42.2331758,
+    "lon": -87.9396148
+   },
+   "phone": "+17085724420",
+   "website": "https://www.planetfitness.com/gyms/vernon-hills-il",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11876725723",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "salon-g-vernon-hills",
+   "name": "Salon G",
+   "summary": "Salon G is a hair salon in Vernon Hills, IL at 275 Evergreen Drive, Vernon Hills, IL 60061. Phone: +18475491940. Website: https://www.salonghair.net/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/salon-g-vernon-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/salon-g-vernon-hills.json",
+   "address": {
+    "streetAddress": "275 Evergreen Drive",
+    "addressLocality": "Vernon Hills",
+    "addressRegion": "IL",
+    "postalCode": "60061",
+    "addressCountry": "US"
+   },
+   "city": "Vernon Hills",
+   "state": "IL",
+   "zip": "60061",
+   "geo": {
+    "lat": 42.2222868,
+    "lon": -87.9701913
+   },
+   "phone": "+18475491940",
+   "website": "https://www.salonghair.net/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4927674535",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "the-ups-store-7555-vernon-hills",
+   "name": "The UPS Store #7555",
+   "summary": "The UPS Store #7555 is a printing service in Vernon Hills, IL at 288 Hawthorn Village Commons, Vernon Hills, IL 60061. Phone: +12245135313. Website: https://locations.theupsstore.com/il/vernon-hills/288-hawthorn-village-commons.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-ups-store-7555-vernon-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-ups-store-7555-vernon-hills.json",
+   "address": {
+    "streetAddress": "288 Hawthorn Village Commons",
+    "addressLocality": "Vernon Hills",
+    "addressRegion": "IL",
+    "postalCode": "60061",
+    "addressCountry": "US"
+   },
+   "city": "Vernon Hills",
+   "state": "IL",
+   "zip": "60061",
+   "geo": {
+    "lat": 42.2415559,
+    "lon": -87.9571594
+   },
+   "phone": "+12245135313",
+   "website": "https://locations.theupsstore.com/il/vernon-hills/288-hawthorn-village-commons",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12520905150",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "professional-dry-cleaners-vernon-hills",
+   "name": "Professional Dry Cleaners",
+   "summary": "Professional Dry Cleaners is a dry cleaner in Vernon Hills, IL at 283 Evergreen Drive, Vernon Hills, IL 60061. Phone: +18478161177.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/professional-dry-cleaners-vernon-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/professional-dry-cleaners-vernon-hills.json",
+   "address": {
+    "streetAddress": "283 Evergreen Drive",
+    "addressLocality": "Vernon Hills",
+    "addressRegion": "IL",
+    "postalCode": "60061",
+    "addressCountry": "US"
+   },
+   "city": "Vernon Hills",
+   "state": "IL",
+   "zip": "60061",
+   "geo": {
+    "lat": 42.2222376,
+    "lon": -87.9704191
+   },
+   "phone": "+18478161177",
+   "opening_hours": "Mo-Fr 07:00-19:00; Sa 08:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5214520976",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "sam-martirano-salon-and-spa-vernon-hills",
+   "name": "Sam Martirano Salon & Spa",
+   "summary": "Sam Martirano Salon & Spa is a hair salon in Vernon Hills, IL. Phone: +18474786100. Website: https://www.smsalonandspa.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sam-martirano-salon-and-spa-vernon-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sam-martirano-salon-and-spa-vernon-hills.json",
+   "address": {
+    "addressLocality": "Vernon Hills",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Vernon Hills",
+   "state": "IL",
+   "geo": {
+    "lat": 42.203365,
+    "lon": -87.9355847
+   },
+   "phone": "+18474786100",
+   "website": "https://www.smsalonandspa.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 12.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6687972165",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "alphagraphics-vernon-hills",
+   "name": "AlphaGraphics",
+   "summary": "AlphaGraphics is a printing service in Vernon Hills, IL at 222 Hawthorn Village Commons, Vernon Hills, IL 60061. Phone: +18478167373.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/alphagraphics-vernon-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/alphagraphics-vernon-hills.json",
+   "address": {
+    "streetAddress": "222 Hawthorn Village Commons",
+    "addressLocality": "Vernon Hills",
+    "addressRegion": "IL",
+    "postalCode": "60061",
+    "addressCountry": "US"
+   },
+   "city": "Vernon Hills",
+   "state": "IL",
+   "zip": "60061",
+   "geo": {
+    "lat": 42.2418873,
+    "lon": -87.9588928
+   },
+   "phone": "+18478167373",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5238628365",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "andreas-hogue-salon-vernon-hills",
+   "name": "ANDREAS HOGUE SALON",
+   "summary": "ANDREAS HOGUE SALON is a hair salon in Vernon Hills, IL at 901 North Milwaukee Avenue #650, Vernon Hills, IL 60061. Website: https://andreashogue.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/andreas-hogue-salon-vernon-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/andreas-hogue-salon-vernon-hills.json",
+   "address": {
+    "streetAddress": "901 North Milwaukee Avenue #650",
+    "addressLocality": "Vernon Hills",
+    "addressRegion": "IL",
+    "postalCode": "60061",
+    "addressCountry": "US"
+   },
+   "city": "Vernon Hills",
+   "state": "IL",
+   "zip": "60061",
+   "geo": {
+    "lat": 42.2430198,
+    "lon": -87.9425701
+   },
+   "website": "https://andreashogue.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/687473900",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "bears-fit-vernon-hills",
+   "name": "Bears Fit",
+   "summary": "Bears Fit is a gym in Vernon Hills, IL at 155 Townline Road, Vernon Hills, IL 60061. Website: https://bearsfit.com/.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bears-fit-vernon-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bears-fit-vernon-hills.json",
+   "address": {
+    "streetAddress": "155 Townline Road",
+    "addressLocality": "Vernon Hills",
+    "addressRegion": "IL",
+    "postalCode": "60061",
+    "addressCountry": "US"
+   },
+   "city": "Vernon Hills",
+   "state": "IL",
+   "zip": "60061",
+   "geo": {
+    "lat": 42.238932,
+    "lon": -87.9606415
+   },
+   "website": "https://bearsfit.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/313512183",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "dentist-in-vernon-hills-vernon-hills",
+   "name": "Dentist in Vernon Hills",
+   "summary": "Dentist in Vernon Hills is a dentist in Vernon Hills, IL at 555 Townline Road, Vernon Hills, IL 60061. Website: https://dentistinvernonhills.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dentist-in-vernon-hills-vernon-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dentist-in-vernon-hills-vernon-hills.json",
+   "address": {
+    "streetAddress": "555 Townline Road",
+    "addressLocality": "Vernon Hills",
+    "addressRegion": "IL",
+    "postalCode": "60061",
+    "addressCountry": "US"
+   },
+   "city": "Vernon Hills",
+   "state": "IL",
+   "zip": "60061",
+   "geo": {
+    "lat": 42.2386501,
+    "lon": -87.9527432
+   },
+   "website": "https://dentistinvernonhills.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1245556772",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "european-wax-center-vernon-hills",
+   "name": "European Wax Center",
+   "summary": "European Wax Center is a waxing salon in Vernon Hills, IL at 901 North Milwaukee Avenue #700, Vernon Hills, IL 60061. Website: https://locations.waxcenter.com/il/vernonhills/vernon-hills-0811.html.",
+   "categories": [
+    "waxing"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/european-wax-center-vernon-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/european-wax-center-vernon-hills.json",
+   "address": {
+    "streetAddress": "901 North Milwaukee Avenue #700",
+    "addressLocality": "Vernon Hills",
+    "addressRegion": "IL",
+    "postalCode": "60061",
+    "addressCountry": "US"
+   },
+   "city": "Vernon Hills",
+   "state": "IL",
+   "zip": "60061",
+   "geo": {
+    "lat": 42.2431171,
+    "lon": -87.9425774
+   },
+   "website": "https://locations.waxcenter.com/il/vernonhills/vernon-hills-0811.html",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/687473908",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "lovesac-vernon-hills",
+   "name": "LoveSac",
+   "summary": "LoveSac is a furniture store in Vernon Hills, IL at 715 Hawthorn Row #190, Vernon Hills, IL 60061. Phone: +18472386226.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lovesac-vernon-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lovesac-vernon-hills.json",
+   "address": {
+    "streetAddress": "715 Hawthorn Row #190",
+    "addressLocality": "Vernon Hills",
+    "addressRegion": "IL",
+    "postalCode": "60061",
+    "addressCountry": "US"
+   },
+   "city": "Vernon Hills",
+   "state": "IL",
+   "zip": "60061",
+   "geo": {
+    "lat": 42.2426491,
+    "lon": -87.9468006
+   },
+   "phone": "+18472386226",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11980957652",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "mavis-tires-and-brakes-vernon-hills",
+   "name": "Mavis Tires & Brakes",
+   "summary": "Mavis Tires & Brakes is an auto repair shop in Vernon Hills, IL at 326 Center Drive, Vernon Hills, IL 60061. Phone: +18479189940.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mavis-tires-and-brakes-vernon-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mavis-tires-and-brakes-vernon-hills.json",
+   "address": {
+    "streetAddress": "326 Center Drive",
+    "addressLocality": "Vernon Hills",
+    "addressRegion": "IL",
+    "postalCode": "60061",
+    "addressCountry": "US"
+   },
+   "city": "Vernon Hills",
+   "state": "IL",
+   "zip": "60061",
+   "geo": {
+    "lat": 42.2442075,
+    "lon": -87.954415
+   },
+   "phone": "+18479189940",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/313512175",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "sport-clips-vernon-hills",
+   "name": "Sport Clips",
+   "summary": "Sport Clips is a hair salon in Vernon Hills, IL at 701 North Milwaukee Avenue, Vernon Hills, IL 60061. Phone: +18476800525.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sport-clips-vernon-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sport-clips-vernon-hills.json",
+   "address": {
+    "streetAddress": "701 North Milwaukee Avenue",
+    "addressLocality": "Vernon Hills",
+    "addressRegion": "IL",
+    "postalCode": "60061",
+    "addressCountry": "US"
+   },
+   "city": "Vernon Hills",
+   "state": "IL",
+   "zip": "60061",
+   "geo": {
+    "lat": 42.2369712,
+    "lon": -87.9435412
+   },
+   "phone": "+18476800525",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5026913751",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "the-goddard-school-vernon-hills",
+   "name": "The Goddard School",
+   "summary": "The Goddard School is a preschool in Vernon Hills, IL at 461 Townline Road, Vernon Hills, IL 60061. Phone: +18476801886.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-goddard-school-vernon-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-goddard-school-vernon-hills.json",
+   "address": {
+    "streetAddress": "461 Townline Road",
+    "addressLocality": "Vernon Hills",
+    "addressRegion": "IL",
+    "postalCode": "60061",
+    "addressCountry": "US"
+   },
+   "city": "Vernon Hills",
+   "state": "IL",
+   "zip": "60061",
+   "geo": {
+    "lat": 42.2396746,
+    "lon": -87.9753128
+   },
+   "phone": "+18476801886",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/314064780",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "vca-animal-hospital-vernon-hills",
+   "name": "VCA Animal Hospital",
+   "summary": "VCA Animal Hospital is a veterinarian in Vernon Hills, IL at 203 US 45, Vernon Hills, IL 60061. Phone: +18473620780.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/vca-animal-hospital-vernon-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/vca-animal-hospital-vernon-hills.json",
+   "address": {
+    "streetAddress": "203 US 45",
+    "addressLocality": "Vernon Hills",
+    "addressRegion": "IL",
+    "postalCode": "60061",
+    "addressCountry": "US"
+   },
+   "city": "Vernon Hills",
+   "state": "IL",
+   "zip": "60061",
+   "geo": {
+    "lat": 42.2220399,
+    "lon": -87.9697826
+   },
+   "phone": "+18473620780",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/502216363",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "west-elm-vernon-hills",
+   "name": "west elm",
+   "summary": "west elm is a furniture store in Vernon Hills, IL at 901 North Milwaukee Avenue #200, Vernon Hills, IL 60061. Website: https://www.westelm.com/.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/west-elm-vernon-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/west-elm-vernon-hills.json",
+   "address": {
+    "streetAddress": "901 North Milwaukee Avenue #200",
+    "addressLocality": "Vernon Hills",
+    "addressRegion": "IL",
+    "postalCode": "60061",
+    "addressCountry": "US"
+   },
+   "city": "Vernon Hills",
+   "state": "IL",
+   "zip": "60061",
+   "geo": {
+    "lat": 42.2421074,
+    "lon": -87.9417848
+   },
+   "website": "https://www.westelm.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/relation/10017034",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "the-liquor-barn-vernon-hills",
+   "name": "The Liquor Barn",
+   "summary": "The Liquor Barn is a liquor store in Vernon Hills, IL. Website: https://www.theliquorbarn.com/.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-liquor-barn-vernon-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-liquor-barn-vernon-hills.json",
+   "address": {
+    "addressLocality": "Vernon Hills",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Vernon Hills",
+   "state": "IL",
+   "geo": {
+    "lat": 42.2390931,
+    "lon": -87.9476869
+   },
+   "website": "https://www.theliquorbarn.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8085875814",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "aaa-vernon-hills",
+   "name": "AAA",
+   "summary": "AAA is an auto repair shop in Vernon Hills, IL at 1680 North Milwaukee Avenue, Vernon Hills, IL 60061.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/aaa-vernon-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/aaa-vernon-hills.json",
+   "address": {
+    "streetAddress": "1680 North Milwaukee Avenue",
+    "addressLocality": "Vernon Hills",
+    "addressRegion": "IL",
+    "postalCode": "60061",
+    "addressCountry": "US"
+   },
+   "city": "Vernon Hills",
+   "state": "IL",
+   "zip": "60061",
+   "geo": {
+    "lat": 42.2562124,
+    "lon": -87.9485301
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/530627566",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "aligned-modern-health-vernon-hills",
+   "name": "Aligned Modern Health",
+   "summary": "Aligned Modern Health is a chiropractor in Vernon Hills, IL at 925 North Milwaukee Avenue #300, Vernon Hills, IL 60061.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/aligned-modern-health-vernon-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/aligned-modern-health-vernon-hills.json",
+   "address": {
+    "streetAddress": "925 North Milwaukee Avenue #300",
+    "addressLocality": "Vernon Hills",
+    "addressRegion": "IL",
+    "postalCode": "60061",
+    "addressCountry": "US"
+   },
+   "city": "Vernon Hills",
+   "state": "IL",
+   "zip": "60061",
+   "geo": {
+    "lat": 42.2432437,
+    "lon": -87.944462
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/687473872",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "american-mattress-vernon-hills",
+   "name": "American Mattress",
+   "summary": "American Mattress is a mattress store in Vernon Hills, IL at 447 N Milwaukee Ave, Vernon Hills, IL 60061.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/american-mattress-vernon-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/american-mattress-vernon-hills.json",
+   "address": {
+    "streetAddress": "447 N Milwaukee Ave",
+    "addressLocality": "Vernon Hills",
+    "addressRegion": "IL",
+    "postalCode": "60061",
+    "addressCountry": "US"
+   },
+   "city": "Vernon Hills",
+   "state": "IL",
+   "zip": "60061",
+   "geo": {
+    "lat": 42.2344205,
+    "lon": -87.9425493
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7209138243",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "cdw-play-vernon-hills",
+   "name": "CDW @ Play",
+   "summary": "CDW @ Play is a daycare in Vernon Hills, IL at 165 Lakeview Parkway, Vernon Hills, IL 60061.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cdw-play-vernon-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cdw-play-vernon-hills.json",
+   "address": {
+    "streetAddress": "165 Lakeview Parkway",
+    "addressLocality": "Vernon Hills",
+    "addressRegion": "IL",
+    "postalCode": "60061",
+    "addressCountry": "US"
+   },
+   "city": "Vernon Hills",
+   "state": "IL",
+   "zip": "60061",
+   "geo": {
+    "lat": 42.228502,
+    "lon": -87.9457168
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/314631675",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "ernies-wrecker-service-inc-vernon-hills",
+   "name": "Ernie's Wrecker Service, Inc",
+   "summary": "Ernie's Wrecker Service, Inc is an auto repair shop in Vernon Hills, IL at 909 S Milwaukee Avenue, Vernon Hills, IL 60061.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ernies-wrecker-service-inc-vernon-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ernies-wrecker-service-inc-vernon-hills.json",
+   "address": {
+    "streetAddress": "909 S Milwaukee Avenue",
+    "addressLocality": "Vernon Hills",
+    "addressRegion": "IL",
+    "postalCode": "60061",
+    "addressCountry": "US"
+   },
+   "city": "Vernon Hills",
+   "state": "IL",
+   "zip": "60061",
+   "geo": {
+    "lat": 42.2095365,
+    "lon": -87.932957
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/327824228",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "hassleless-mattress-vernon-hills",
+   "name": "HassleLess Mattress",
+   "summary": "HassleLess Mattress is a mattress store in Vernon Hills, IL at 375 North Milwaukee Ave, Vernon Hills, IL 60061.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hassleless-mattress-vernon-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hassleless-mattress-vernon-hills.json",
+   "address": {
+    "streetAddress": "375 North Milwaukee Ave",
+    "addressLocality": "Vernon Hills",
+    "addressRegion": "IL",
+    "postalCode": "60061",
+    "addressCountry": "US"
+   },
+   "city": "Vernon Hills",
+   "state": "IL",
+   "zip": "60061",
+   "geo": {
+    "lat": 42.2326642,
+    "lon": -87.9422894
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6491927082",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "jared-vernon-hills",
+   "name": "Jared",
+   "summary": "Jared is a jewelry store in Vernon Hills, IL at 567 East Townline Road, Vernon Hills, IL 60061.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jared-vernon-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jared-vernon-hills.json",
+   "address": {
+    "streetAddress": "567 East Townline Road",
+    "addressLocality": "Vernon Hills",
+    "addressRegion": "IL",
+    "postalCode": "60061",
+    "addressCountry": "US"
+   },
+   "city": "Vernon Hills",
+   "state": "IL",
+   "zip": "60061",
+   "geo": {
+    "lat": 42.2399152,
+    "lon": -87.9507639
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/173802406",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "mercury-insurance-company-vernon-hills",
+   "name": "Mercury Insurance Company",
+   "summary": "Mercury Insurance Company is an insurance agent in Vernon Hills, IL at 850 North Milwaukee Avenue, Vernon Hills, IL 60061.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mercury-insurance-company-vernon-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mercury-insurance-company-vernon-hills.json",
+   "address": {
+    "streetAddress": "850 North Milwaukee Avenue",
+    "addressLocality": "Vernon Hills",
+    "addressRegion": "IL",
+    "postalCode": "60061",
+    "addressCountry": "US"
+   },
+   "city": "Vernon Hills",
+   "state": "IL",
+   "zip": "60061",
+   "geo": {
+    "lat": 42.2414132,
+    "lon": -87.9455182
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5912664456",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "penny-mustard-furnishings-vernon-hills",
+   "name": "Penny Mustard Furnishings",
+   "summary": "Penny Mustard Furnishings is a furniture store in Vernon Hills, IL at 399 North Milwaukee Avenue, Vernon Hills, IL 60061.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/penny-mustard-furnishings-vernon-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/penny-mustard-furnishings-vernon-hills.json",
+   "address": {
+    "streetAddress": "399 North Milwaukee Avenue",
+    "addressLocality": "Vernon Hills",
+    "addressRegion": "IL",
+    "postalCode": "60061",
+    "addressCountry": "US"
+   },
+   "city": "Vernon Hills",
+   "state": "IL",
+   "zip": "60061",
+   "geo": {
+    "lat": 42.233403,
+    "lon": -87.9424025
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/173802910",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "steinhafels-furniture-vernon-hills",
+   "name": "Steinhafels Furniture",
+   "summary": "Steinhafels Furniture is a furniture store in Vernon Hills, IL at 569 North Milwaukee Avenue, Vernon Hills, IL 60061.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/steinhafels-furniture-vernon-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/steinhafels-furniture-vernon-hills.json",
+   "address": {
+    "streetAddress": "569 North Milwaukee Avenue",
+    "addressLocality": "Vernon Hills",
+    "addressRegion": "IL",
+    "postalCode": "60061",
+    "addressCountry": "US"
+   },
+   "city": "Vernon Hills",
+   "state": "IL",
+   "zip": "60061",
+   "geo": {
+    "lat": 42.2364245,
+    "lon": -87.9390758
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/318474738",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "the-barre-code-vernon-hills",
+   "name": "The Barre Code",
+   "summary": "The Barre Code is a gym in Vernon Hills, IL at 850 North Milwaukee Avenue #200, Vernon Hills, IL 60061.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-barre-code-vernon-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-barre-code-vernon-hills.json",
+   "address": {
+    "streetAddress": "850 North Milwaukee Avenue #200",
+    "addressLocality": "Vernon Hills",
+    "addressRegion": "IL",
+    "postalCode": "60061",
+    "addressCountry": "US"
+   },
+   "city": "Vernon Hills",
+   "state": "IL",
+   "zip": "60061",
+   "geo": {
+    "lat": 42.2415048,
+    "lon": -87.9455182
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5912664459",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "vernon-hills-gymnastics-vernon-hills",
+   "name": "Vernon Hills Gymnastics",
+   "summary": "Vernon Hills Gymnastics is a gym in Vernon Hills, IL at 645 Lakeview Parkway #100, Vernon Hills, IL 60061.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/vernon-hills-gymnastics-vernon-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/vernon-hills-gymnastics-vernon-hills.json",
+   "address": {
+    "streetAddress": "645 Lakeview Parkway #100",
+    "addressLocality": "Vernon Hills",
+    "addressRegion": "IL",
+    "postalCode": "60061",
+    "addressCountry": "US"
+   },
+   "city": "Vernon Hills",
+   "state": "IL",
+   "zip": "60061",
+   "geo": {
+    "lat": 42.237734,
+    "lon": -87.9528088
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7175470397",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "wholesale-carpet-design-vernon-hills",
+   "name": "Wholesale Carpet Design",
+   "summary": "Wholesale Carpet Design is a flooring company in Vernon Hills, IL at 195 North Milwaukee Avenue, Vernon Hills, IL 60061.",
+   "categories": [
+    "flooring companies"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wholesale-carpet-design-vernon-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wholesale-carpet-design-vernon-hills.json",
+   "address": {
+    "streetAddress": "195 North Milwaukee Avenue",
+    "addressLocality": "Vernon Hills",
+    "addressRegion": "IL",
+    "postalCode": "60061",
+    "addressCountry": "US"
+   },
+   "city": "Vernon Hills",
+   "state": "IL",
+   "zip": "60061",
+   "geo": {
+    "lat": 42.2295255,
+    "lon": -87.9407014
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/333376230",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "affiliated-dental-specialists-vernon-hills",
+   "name": "Affiliated Dental Specialists",
+   "summary": "Affiliated Dental Specialists is a dentist in Vernon Hills, IL.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/affiliated-dental-specialists-vernon-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/affiliated-dental-specialists-vernon-hills.json",
+   "address": {
+    "addressLocality": "Vernon Hills",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Vernon Hills",
+   "state": "IL",
+   "geo": {
+    "lat": 42.2390556,
+    "lon": -87.9640065
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12900734922",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "blo-blow-dry-bar-vernon-hills",
+   "name": "Blo Blow Dry Bar",
+   "summary": "Blo Blow Dry Bar is a hair salon in Vernon Hills, IL.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/blo-blow-dry-bar-vernon-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/blo-blow-dry-bar-vernon-hills.json",
+   "address": {
+    "addressLocality": "Vernon Hills",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Vernon Hills",
+   "state": "IL",
+   "geo": {
+    "lat": 42.2423604,
+    "lon": -87.9443246
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/687473898",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "bobs-discount-furniture-vernon-hills",
+   "name": "Bob's Discount Furniture",
+   "summary": "Bob's Discount Furniture is a furniture store in Vernon Hills, IL.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bobs-discount-furniture-vernon-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bobs-discount-furniture-vernon-hills.json",
+   "address": {
+    "addressLocality": "Vernon Hills",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Vernon Hills",
+   "state": "IL",
+   "geo": {
+    "lat": 42.238478,
+    "lon": -87.9506542
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/481711991",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "casper-vernon-hills",
+   "name": "Casper",
+   "summary": "Casper is a mattress store in Vernon Hills, IL.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/casper-vernon-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/casper-vernon-hills.json",
+   "address": {
+    "addressLocality": "Vernon Hills",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Vernon Hills",
+   "state": "IL",
+   "geo": {
+    "lat": 42.2417603,
+    "lon": -87.9431845
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/687473912",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "classy-nails-and-spa-vernon-hills",
+   "name": "CLASSY NAILS & SPA",
+   "summary": "CLASSY NAILS & SPA is a nail salon in Vernon Hills, IL.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/classy-nails-and-spa-vernon-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/classy-nails-and-spa-vernon-hills.json",
+   "address": {
+    "addressLocality": "Vernon Hills",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Vernon Hills",
+   "state": "IL",
+   "geo": {
+    "lat": 42.2437237,
+    "lon": -87.9433774
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/687473929",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "extra-space-storage-vernon-hills",
+   "name": "Extra Space Storage",
+   "summary": "Extra Space Storage is a self-storage facility in Vernon Hills, IL.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/extra-space-storage-vernon-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/extra-space-storage-vernon-hills.json",
+   "address": {
+    "addressLocality": "Vernon Hills",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Vernon Hills",
+   "state": "IL",
+   "geo": {
+    "lat": 42.2275712,
+    "lon": -87.9761356
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/369613755",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "extra-space-storage-vernon-hills-w369613758",
+   "name": "Extra Space Storage",
+   "summary": "Extra Space Storage is a self-storage facility in Vernon Hills, IL.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/extra-space-storage-vernon-hills-w369613758/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/extra-space-storage-vernon-hills-w369613758.json",
+   "address": {
+    "addressLocality": "Vernon Hills",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Vernon Hills",
+   "state": "IL",
+   "geo": {
+    "lat": 42.2282764,
+    "lon": -87.9765716
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/369613758",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "extra-space-storage-vernon-hills-w369613759",
+   "name": "Extra Space Storage",
+   "summary": "Extra Space Storage is a self-storage facility in Vernon Hills, IL.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/extra-space-storage-vernon-hills-w369613759/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/extra-space-storage-vernon-hills-w369613759.json",
+   "address": {
+    "addressLocality": "Vernon Hills",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Vernon Hills",
+   "state": "IL",
+   "geo": {
+    "lat": 42.2290886,
+    "lon": -87.9765464
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/369613759",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "extra-space-storage-vernon-hills-w369613761",
+   "name": "Extra Space Storage",
+   "summary": "Extra Space Storage is a self-storage facility in Vernon Hills, IL.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/extra-space-storage-vernon-hills-w369613761/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/extra-space-storage-vernon-hills-w369613761.json",
+   "address": {
+    "addressLocality": "Vernon Hills",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Vernon Hills",
+   "state": "IL",
+   "geo": {
+    "lat": 42.2279728,
+    "lon": -87.975209
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/369613761",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "fedex-office-vernon-hills",
+   "name": "FedEx Office",
+   "summary": "FedEx Office is a printing service in Vernon Hills, IL.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fedex-office-vernon-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fedex-office-vernon-hills.json",
+   "address": {
+    "addressLocality": "Vernon Hills",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Vernon Hills",
+   "state": "IL",
+   "geo": {
+    "lat": 42.2400487,
+    "lon": -87.9719934
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6065347353",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "floyds-99-barbershop-vernon-hills",
+   "name": "Floyd's 99 Barbershop",
+   "summary": "Floyd's 99 Barbershop is a hair salon in Vernon Hills, IL.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/floyds-99-barbershop-vernon-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/floyds-99-barbershop-vernon-hills.json",
+   "address": {
+    "addressLocality": "Vernon Hills",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Vernon Hills",
+   "state": "IL",
+   "geo": {
+    "lat": 42.2418362,
+    "lon": -87.9441783
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9934672840",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "guidepost-montessori-vernon-hills",
+   "name": "Guidepost Montessori",
+   "summary": "Guidepost Montessori is a preschool in Vernon Hills, IL.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/guidepost-montessori-vernon-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/guidepost-montessori-vernon-hills.json",
+   "address": {
+    "addressLocality": "Vernon Hills",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Vernon Hills",
+   "state": "IL",
+   "geo": {
+    "lat": 42.2400122,
+    "lon": -87.9640286
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1391436510",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "hallmark-vernon-hills",
+   "name": "Hallmark",
+   "summary": "Hallmark is a gift shop in Vernon Hills, IL.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hallmark-vernon-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hallmark-vernon-hills.json",
+   "address": {
+    "addressLocality": "Vernon Hills",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Vernon Hills",
+   "state": "IL",
+   "geo": {
+    "lat": 42.237135,
+    "lon": -87.941665
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11824704794",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "hawthorn-school-for-young-learners-vernon-hills",
+   "name": "Hawthorn School for Young Learners",
+   "summary": "Hawthorn School for Young Learners is a preschool in Vernon Hills, IL.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hawthorn-school-for-young-learners-vernon-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hawthorn-school-for-young-learners-vernon-hills.json",
+   "address": {
+    "addressLocality": "Vernon Hills",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Vernon Hills",
+   "state": "IL",
+   "geo": {
+    "lat": 42.2379069,
+    "lon": -87.9691708
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13272963001",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "kindercare-vernon-hills",
+   "name": "Kindercare",
+   "summary": "Kindercare is a preschool in Vernon Hills, IL.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kindercare-vernon-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kindercare-vernon-hills.json",
+   "address": {
+    "addressLocality": "Vernon Hills",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Vernon Hills",
+   "state": "IL",
+   "geo": {
+    "lat": 42.2301005,
+    "lon": -87.9759629
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/369613994",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "lincolnshire-academy-of-dance-vernon-hills",
+   "name": "Lincolnshire Academy of Dance",
+   "summary": "Lincolnshire Academy of Dance is a dance studio in Vernon Hills, IL.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lincolnshire-academy-of-dance-vernon-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lincolnshire-academy-of-dance-vernon-hills.json",
+   "address": {
+    "addressLocality": "Vernon Hills",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Vernon Hills",
+   "state": "IL",
+   "geo": {
+    "lat": 42.2035251,
+    "lon": -87.9337076
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/711329937",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "mens-wearhouse-vernon-hills",
+   "name": "Men's Wearhouse",
+   "summary": "Men's Wearhouse is a tailor in Vernon Hills, IL.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mens-wearhouse-vernon-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mens-wearhouse-vernon-hills.json",
+   "address": {
+    "addressLocality": "Vernon Hills",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Vernon Hills",
+   "state": "IL",
+   "geo": {
+    "lat": 42.2377462,
+    "lon": -87.946107
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11778855821",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "midwest-dental-vernon-hills",
+   "name": "Midwest Dental",
+   "summary": "Midwest Dental is a dentist in Vernon Hills, IL.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/midwest-dental-vernon-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/midwest-dental-vernon-hills.json",
+   "address": {
+    "addressLocality": "Vernon Hills",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Vernon Hills",
+   "state": "IL",
+   "geo": {
+    "lat": 42.2389175,
+    "lon": -87.9640674
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12900734923",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "mobil-vernon-hills",
+   "name": "Mobil",
+   "summary": "Mobil is a car wash in Vernon Hills, IL.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mobil-vernon-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mobil-vernon-hills.json",
+   "address": {
+    "addressLocality": "Vernon Hills",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Vernon Hills",
+   "state": "IL",
+   "geo": {
+    "lat": 42.2401379,
+    "lon": -87.9758777
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/314064779",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "shell-vernon-hills",
+   "name": "Shell",
+   "summary": "Shell is a car wash in Vernon Hills, IL.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/shell-vernon-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/shell-vernon-hills.json",
+   "address": {
+    "addressLocality": "Vernon Hills",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Vernon Hills",
+   "state": "IL",
+   "geo": {
+    "lat": 42.208837,
+    "lon": -87.9327858
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/692831675",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "sleep-number-vernon-hills",
+   "name": "Sleep Number",
+   "summary": "Sleep Number is a mattress store in Vernon Hills, IL.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sleep-number-vernon-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sleep-number-vernon-hills.json",
+   "address": {
+    "addressLocality": "Vernon Hills",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Vernon Hills",
+   "state": "IL",
+   "geo": {
+    "lat": 42.24087,
+    "lon": -87.9479598
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/965629484",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "steven-hoffenberg-dds-vernon-hills",
+   "name": "Steven Hoffenberg DDS",
+   "summary": "Steven Hoffenberg DDS is a dentist in Vernon Hills, IL.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/steven-hoffenberg-dds-vernon-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/steven-hoffenberg-dds-vernon-hills.json",
+   "address": {
+    "addressLocality": "Vernon Hills",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Vernon Hills",
+   "state": "IL",
+   "geo": {
+    "lat": 42.2418355,
+    "lon": -87.9578288
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4365215888",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "walter-e-smithe-furniture-and-design-vernon-hills",
+   "name": "Walter E. Smithe Furniture & Design",
+   "summary": "Walter E. Smithe Furniture & Design is a furniture store in Vernon Hills, IL.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/walter-e-smithe-furniture-and-design-vernon-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/walter-e-smithe-furniture-and-design-vernon-hills.json",
+   "address": {
+    "addressLocality": "Vernon Hills",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Vernon Hills",
+   "state": "IL",
+   "geo": {
+    "lat": 42.2213776,
+    "lon": -87.9391665
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/317467540",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "waterway-carwash-vernon-hills",
+   "name": "Waterway Carwash",
+   "summary": "Waterway Carwash is a car wash in Vernon Hills, IL.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/waterway-carwash-vernon-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/waterway-carwash-vernon-hills.json",
+   "address": {
+    "addressLocality": "Vernon Hills",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Vernon Hills",
+   "state": "IL",
+   "geo": {
+    "lat": 42.2102752,
+    "lon": -87.9350945
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/692831635",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

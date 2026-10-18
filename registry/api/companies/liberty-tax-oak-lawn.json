@@ -1,0 +1,63 @@
+{
+ "slug": "liberty-tax-oak-lawn",
+ "name": "Liberty Tax",
+ "categories": [
+  "tax preparation"
+ ],
+ "keywords": [
+  "tax preparation",
+  "tax preparer",
+  "tax preparation oak lawn il",
+  "tax preparer oak lawn il"
+ ],
+ "services": [
+  {
+   "name": "tax preparation",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "tax preparer",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "4732 103rd Street",
+  "addressLocality": "Oak Lawn",
+  "addressRegion": "IL",
+  "postalCode": "60453",
+  "addressCountry": "US"
+ },
+ "city": "Oak Lawn",
+ "state": "IL",
+ "zip": "60453",
+ "geo": {
+  "lat": 41.7068482,
+  "lon": -87.7393133
+ },
+ "website": "https://www.libertytax.com/income-tax-preparation-locations/11986",
+ "brand": "Liberty Tax",
+ "wikidata": "Q6541978",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/10863787823",
+ "osm": {
+  "type": "node",
+  "id": 10863787823,
+  "tags_used": {
+   "office": "tax_advisor"
+  }
+ },
+ "municipality": "Oak Lawn",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/liberty-tax-oak-lawn/",
+ "summary": "Liberty Tax is a tax preparation service in Oak Lawn, IL at 4732 103rd Street, Oak Lawn, IL 60453. Website: https://www.libertytax.com/income-tax-preparation-locations/11986.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

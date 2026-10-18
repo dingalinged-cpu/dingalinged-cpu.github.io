@@ -1,0 +1,58 @@
+{
+ "slug": "ashley-homestore-highland",
+ "name": "Ashley HomeStore",
+ "categories": [
+  "furniture store"
+ ],
+ "keywords": [
+  "furniture store",
+  "furniture store highland in"
+ ],
+ "services": [
+  {
+   "name": "furniture store",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "10135 Indianapolis Boulevard",
+  "addressLocality": "Highland",
+  "addressRegion": "IN",
+  "postalCode": "46322",
+  "addressCountry": "US"
+ },
+ "city": "Highland",
+ "state": "IN",
+ "zip": "46322",
+ "geo": {
+  "lat": 41.5293062,
+  "lon": -87.4703871
+ },
+ "phone": "+12195133040",
+ "website": "https://stores.ashleyfurniture.com/store/us/indiana/highland/9000339287/",
+ "brand": "Ashley HomeStore",
+ "wikidata": "Q4805437",
+ "schema_type": "FurnitureStore",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/439444243",
+ "osm": {
+  "type": "way",
+  "id": 439444243,
+  "tags_used": {
+   "shop": "furniture"
+  }
+ },
+ "municipality": "Highland",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/ashley-homestore-highland/",
+ "summary": "Ashley HomeStore is a furniture store in Highland, IN at 10135 Indianapolis Boulevard, Highland, IN 46322. Phone: +12195133040. Website: https://stores.ashleyfurniture.com/store/us/indiana/highland/9000339287/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,61 @@
+{
+ "slug": "tiare-flowers-schaumburg",
+ "name": "Tiare Flowers",
+ "categories": [
+  "florist"
+ ],
+ "keywords": [
+  "florist",
+  "florist schaumburg il"
+ ],
+ "services": [
+  {
+   "name": "florist",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "17 West Weathersfield Way",
+  "addressLocality": "Schaumburg",
+  "addressRegion": "IL",
+  "postalCode": "60193",
+  "addressCountry": "US"
+ },
+ "city": "Schaumburg",
+ "state": "IL",
+ "zip": "60193",
+ "geo": {
+  "lat": 42.0158639,
+  "lon": -88.081082
+ },
+ "phone": "+16303450423",
+ "website": "https://tiare-flowers.com/",
+ "email": "Tiare.decor@gmail.com",
+ "opening_hours": "Su 09:00-14:00, Mo & Th CLOSED, Tu, We, Fr & Sa 10:00-18:00",
+ "social": [
+  "https://www.facebook.com/profile.php?id=61556587084454&locale=ru_RU"
+ ],
+ "schema_type": "Florist",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/13888721380",
+ "osm": {
+  "type": "node",
+  "id": 13888721380,
+  "tags_used": {
+   "shop": "florist"
+  }
+ },
+ "municipality": "Schaumburg",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/tiare-flowers-schaumburg/",
+ "summary": "Tiare Flowers is a florist in Schaumburg, IL at 17 West Weathersfield Way, Schaumburg, IL 60193. Phone: +16303450423. Website: https://tiare-flowers.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

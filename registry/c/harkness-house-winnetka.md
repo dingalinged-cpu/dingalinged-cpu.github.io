@@ -1,0 +1,23 @@
+Harkness House is a daycare in Winnetka, IL at 630 Lincoln Avenue, Winnetka, IL 60093. Phone: +18475012549. Website: https://www.harknesshouse.org/home.
+
+# Harkness House
+
+- Category: daycare
+- Services: daycare
+- Address: 630 Lincoln Avenue, Winnetka, IL 60093
+- City: Winnetka
+- State: IL
+- ZIP: 60093
+- Coordinates: 42.1083551, -87.7331151
+- Phone: +18475012549
+- Website: https://www.harknesshouse.org/home
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/harkness-house-winnetka/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/harkness-house-winnetka.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/8590103285 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

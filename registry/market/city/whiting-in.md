@@ -1,0 +1,54 @@
+Keyword market for Whiting, IN: 25 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Chicago-Naperville-Elgin, IL-IN metro (US volume x population share).
+
+# Top keywords in Whiting, IN
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are in the JSON and dataset. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json
+
+## By monthly searches
+1. dentist whiting in | searches/mo 51,000 (est) | CPC $4.70 | value $240,000 | Google Ads equiv $13,000/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/dentist-whiting-in/
+2. gym whiting in | searches/mo 51,000 (est) | CPC $1.67 | value $85,000 | Google Ads equiv $6,100/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/gym-whiting-in/
+3. hair salon whiting in | searches/mo 41,000 (est) | CPC $0.55 | value $23,000 | Google Ads equiv $1,300/mo | our featured min $50/mo | registry competitors 5 | https://dingalinged-cpu.github.io/registry/k/hair-salon-whiting-in/
+4. dog groomer whiting in | searches/mo 12,000 (est) | CPC $4.06 | value $49,000 | Google Ads equiv $3,200/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/dog-groomer-whiting-in/
+5. haircut whiting in | searches/mo 10,000 (est) | CPC $4.62 | value $46,000 | Google Ads equiv $2,600/mo | our featured min $50/mo | registry competitors 5 | https://dingalinged-cpu.github.io/registry/k/haircut-whiting-in/
+6. financial advisor whiting in | searches/mo 6,800 (est) | CPC $3.39 | value $23,000 | Google Ads equiv $1,900/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/financial-advisor-whiting-in/
+7. insurance agency whiting in | searches/mo 2,500 (est) | CPC $3.39 | value $8,500 | Google Ads equiv $710/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/insurance-agency-whiting-in/
+8. attorney whiting in | searches/mo 2,000 (est) | CPC $9.87 | value $20,000 | Google Ads equiv $1,200/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/attorney-whiting-in/
+9. insurance agents whiting in | searches/mo 1,400 (est) | CPC $3.39 | value $4,700 | Google Ads equiv $400/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/insurance-agents-whiting-in/
+10. lawyer whiting in | searches/mo 1,400 (est) | CPC $9.87 | value $14,000 | Google Ads equiv $820/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/lawyer-whiting-in/
+11. insurance agent whiting in | searches/mo 1,100 (est) | CPC $3.39 | value $3,700 | Google Ads equiv $310/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/insurance-agent-whiting-in/
+12. accountant whiting in | searches/mo 910 (est) | CPC $5.23 | value $4,800 | Google Ads equiv $270/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/accountant-whiting-in/
+13. accounting services whiting in | searches/mo 330 (est) | CPC $5.87 | value $1,900 | Google Ads equiv $110/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/accounting-services-whiting-in/
+
+## By CPC
+1. attorney whiting in | searches/mo 2,000 (est) | CPC $9.87 | value $20,000 | Google Ads equiv $1,200/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/attorney-whiting-in/
+2. lawyer whiting in | searches/mo 1,400 (est) | CPC $9.87 | value $14,000 | Google Ads equiv $820/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/lawyer-whiting-in/
+3. window repair whiting in | searches/mo 1,100 (est) | CPC $8.76 | value $9,600 | Google Ads equiv $610/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/window-repair-whiting-in/
+4. event venues whiting in | searches/mo 6,100 (est) | CPC $7.17 | value $44,000 | Google Ads equiv $3,400/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/event-venues-whiting-in/
+5. florist whiting in | searches/mo 6,100 (est) | CPC $7.17 | value $44,000 | Google Ads equiv $3,400/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/florist-whiting-in/
+6. photographer whiting in | searches/mo 6,100 (est) | CPC $7.17 | value $44,000 | Google Ads equiv $3,400/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/photographer-whiting-in/
+7. accounting services whiting in | searches/mo 330 (est) | CPC $5.87 | value $1,900 | Google Ads equiv $110/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/accounting-services-whiting-in/
+8. accountant whiting in | searches/mo 910 (est) | CPC $5.23 | value $4,800 | Google Ads equiv $270/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/accountant-whiting-in/
+9. eye doctor whiting in | searches/mo 6,100 (est) | CPC $4.76 | value $29,000 | Google Ads equiv $2,000/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/eye-doctor-whiting-in/
+10. dentist whiting in | searches/mo 51,000 (est) | CPC $4.70 | value $240,000 | Google Ads equiv $13,000/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/dentist-whiting-in/
+11. haircut whiting in | searches/mo 10,000 (est) | CPC $4.62 | value $46,000 | Google Ads equiv $2,600/mo | our featured min $50/mo | registry competitors 5 | https://dingalinged-cpu.github.io/registry/k/haircut-whiting-in/
+12. tattoo shop whiting in | searches/mo 26,000 (est) | CPC $4.62 | value $120,000 | Google Ads equiv $6,900/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/tattoo-shop-whiting-in/
+13. gift shop whiting in | searches/mo 500 (est) | CPC $4.14 | value $2,100 | Google Ads equiv $180/mo | our featured min $10/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/gift-shop-whiting-in/
+14. jewelry store whiting in | searches/mo 3,900 (est) | CPC $4.14 | value $16,000 | Google Ads equiv $1,400/mo | our featured min $10/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/jewelry-store-whiting-in/
+15. liquor store whiting in | searches/mo 3,900 (est) | CPC $4.14 | value $16,000 | Google Ads equiv $1,400/mo | our featured min $10/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/liquor-store-whiting-in/
+
+## By value (searches x CPC)
+1. dentist whiting in | searches/mo 51,000 (est) | CPC $4.70 | value $240,000 | Google Ads equiv $13,000/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/dentist-whiting-in/
+2. gym whiting in | searches/mo 51,000 (est) | CPC $1.67 | value $85,000 | Google Ads equiv $6,100/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/gym-whiting-in/
+3. dog groomer whiting in | searches/mo 12,000 (est) | CPC $4.06 | value $49,000 | Google Ads equiv $3,200/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/dog-groomer-whiting-in/
+4. haircut whiting in | searches/mo 10,000 (est) | CPC $4.62 | value $46,000 | Google Ads equiv $2,600/mo | our featured min $50/mo | registry competitors 5 | https://dingalinged-cpu.github.io/registry/k/haircut-whiting-in/
+5. financial advisor whiting in | searches/mo 6,800 (est) | CPC $3.39 | value $23,000 | Google Ads equiv $1,900/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/financial-advisor-whiting-in/
+6. hair salon whiting in | searches/mo 41,000 (est) | CPC $0.55 | value $23,000 | Google Ads equiv $1,300/mo | our featured min $50/mo | registry competitors 5 | https://dingalinged-cpu.github.io/registry/k/hair-salon-whiting-in/
+7. attorney whiting in | searches/mo 2,000 (est) | CPC $9.87 | value $20,000 | Google Ads equiv $1,200/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/attorney-whiting-in/
+8. lawyer whiting in | searches/mo 1,400 (est) | CPC $9.87 | value $14,000 | Google Ads equiv $820/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/lawyer-whiting-in/
+9. insurance agency whiting in | searches/mo 2,500 (est) | CPC $3.39 | value $8,500 | Google Ads equiv $710/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/insurance-agency-whiting-in/
+10. accountant whiting in | searches/mo 910 (est) | CPC $5.23 | value $4,800 | Google Ads equiv $270/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/accountant-whiting-in/
+11. insurance agents whiting in | searches/mo 1,400 (est) | CPC $3.39 | value $4,700 | Google Ads equiv $400/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/insurance-agents-whiting-in/
+12. insurance agent whiting in | searches/mo 1,100 (est) | CPC $3.39 | value $3,700 | Google Ads equiv $310/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/insurance-agent-whiting-in/
+13. accounting services whiting in | searches/mo 330 (est) | CPC $5.87 | value $1,900 | Google Ads equiv $110/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/accounting-services-whiting-in/
+
+All market data: https://dingalinged-cpu.github.io/registry/market/ | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html

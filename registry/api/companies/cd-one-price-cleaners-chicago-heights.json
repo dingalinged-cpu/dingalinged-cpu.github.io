@@ -1,0 +1,57 @@
+{
+ "slug": "cd-one-price-cleaners-chicago-heights",
+ "name": "CD One Price Cleaners",
+ "categories": [
+  "dry cleaners"
+ ],
+ "keywords": [
+  "dry cleaners",
+  "dry cleaners chicago heights il"
+ ],
+ "services": [
+  {
+   "name": "dry cleaners",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "567 West Lincoln Highway",
+  "addressLocality": "Chicago Heights",
+  "addressRegion": "IL",
+  "postalCode": "60411",
+  "addressCountry": "US"
+ },
+ "city": "Chicago Heights",
+ "state": "IL",
+ "zip": "60411",
+ "geo": {
+  "lat": 41.5065828,
+  "lon": -87.6690335
+ },
+ "website": "https://cdonepricecleaners.com/locations/illinois/dry-cleaning-in-chicago-heights/",
+ "brand": "CD One Price Cleaners",
+ "wikidata": "Q110720124",
+ "schema_type": "DryCleaningOrLaundry",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/11438413691",
+ "osm": {
+  "type": "node",
+  "id": 11438413691,
+  "tags_used": {
+   "shop": "dry_cleaning"
+  }
+ },
+ "municipality": "Chicago Heights",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/cd-one-price-cleaners-chicago-heights/",
+ "summary": "CD One Price Cleaners is a dry cleaner in Chicago Heights, IL at 567 West Lincoln Highway, Chicago Heights, IL 60411. Website: https://cdonepricecleaners.com/locations/illinois/dry-cleaning-in-chicago-heights/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

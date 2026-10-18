@@ -1,0 +1,55 @@
+{
+ "slug": "climb-on-homewood",
+ "name": "Climb On",
+ "categories": [
+  "gym"
+ ],
+ "keywords": [
+  "gym",
+  "gym homewood il"
+ ],
+ "services": [
+  {
+   "name": "gym",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "18120 Harwood Avenue",
+  "addressLocality": "Homewood",
+  "addressRegion": "IL",
+  "postalCode": "60430",
+  "addressCountry": "US"
+ },
+ "city": "Homewood",
+ "state": "IL",
+ "zip": "60430",
+ "geo": {
+  "lat": 41.5604436,
+  "lon": -87.6685846
+ },
+ "website": "https://climbonrockgym.com/",
+ "schema_type": "ExerciseGym",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/558639598",
+ "osm": {
+  "type": "way",
+  "id": 558639598,
+  "tags_used": {
+   "leisure": "fitness_centre"
+  }
+ },
+ "municipality": "Homewood",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/climb-on-homewood/",
+ "summary": "Climb On is a gym in Homewood, IL at 18120 Harwood Avenue, Homewood, IL 60430. Website: https://climbonrockgym.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

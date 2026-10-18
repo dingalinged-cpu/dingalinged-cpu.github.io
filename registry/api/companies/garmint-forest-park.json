@@ -1,0 +1,51 @@
+{
+ "slug": "garmint-forest-park",
+ "name": "GarMint",
+ "categories": [
+  "dry cleaners"
+ ],
+ "keywords": [
+  "dry cleaners",
+  "dry cleaners forest park il"
+ ],
+ "services": [
+  {
+   "name": "dry cleaners",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Forest Park",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Forest Park",
+ "state": "IL",
+ "geo": {
+  "lat": 41.8828309,
+  "lon": -87.811772
+ },
+ "schema_type": "DryCleaningOrLaundry",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/500829275",
+ "osm": {
+  "type": "way",
+  "id": 500829275,
+  "tags_used": {
+   "shop": "dry_cleaning"
+  }
+ },
+ "municipality": "Forest Park",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/garmint-forest-park/",
+ "summary": "GarMint is a dry cleaner in Forest Park, IL.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

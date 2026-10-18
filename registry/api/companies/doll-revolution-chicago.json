@@ -1,0 +1,63 @@
+{
+ "slug": "doll-revolution-chicago",
+ "name": "Doll Revolution",
+ "categories": [
+  "hair salon"
+ ],
+ "keywords": [
+  "hair salon",
+  "haircut",
+  "hair salon chicago il",
+  "haircut chicago il"
+ ],
+ "services": [
+  {
+   "name": "hair salon",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "haircut",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "3635 West Montrose Avenue",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60618",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60618",
+ "geo": {
+  "lat": 41.9609363,
+  "lon": -87.7194233
+ },
+ "phone": "+17737705908",
+ "website": "https://www.iamdollrevolution.com/",
+ "opening_hours": "Tu-Fr 12:00-19:00; Sa 10:00-17:00",
+ "schema_type": "HairSalon",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/5197257618",
+ "osm": {
+  "type": "node",
+  "id": 5197257618,
+  "tags_used": {
+   "shop": "hairdresser"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/doll-revolution-chicago/",
+ "summary": "Doll Revolution is a hair salon in Chicago, IL at 3635 West Montrose Avenue, Chicago, IL 60618. Phone: +17737705908. Website: https://www.iamdollrevolution.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

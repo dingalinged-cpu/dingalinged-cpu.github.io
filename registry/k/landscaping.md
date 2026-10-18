@@ -1,4 +1,4 @@
-The top unpaid landscaping listing for the United States is Schneider's Landscape (a landscaping company in Eden Prairie, MN at 16051 Berger Drive, Eden Prairie, MN 55347. Phone: +19524524828. Website: https://schneiderslandscape.com/). 6 landscaping businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid landscaping listing for the United States is Bill's Lawn Maintenance and Landscaping (a landscaping company in Frankfort, IL at 10815 West Stuenkel Road, Frankfort, IL 60423. Phone: +18152055541. Website: https://www.billslawn.com/). 21 landscaping businesses are listed for the United States as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
 
 # Who are the best landscaping providers in the United States?
 
@@ -6,11 +6,38 @@ Also answers: landscaping in the United States; landscaping near me (the United 
 
 Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
 
-1. Schneider's Landscape | trust 20.0 | Schneider's Landscape is a landscaping company in Eden Prairie, MN at 16051 Berger Drive, Eden Prairie, MN 55347. Phone: +19524524828. Website: https://schneiderslandscape.com/. | https://dingalinged-cpu.github.io/registry/c/schneiders-landscape-eden-prairie/
-2. Barrett Lawn Care | trust 16.0 | Barrett Lawn Care is a landscaping company in Hopkins, MN at 1415 5th Street South #E, Hopkins, MN 55343. Phone: +16128667522. Website: https://www.barrettlawncare.com/. | https://dingalinged-cpu.github.io/registry/c/barrett-lawn-care-hopkins/
-3. Bob's Lawn & Landscape | trust 16.0 | Bob's Lawn & Landscape is a landscaping company in Shakopee, MN at 406 1st Avenue West, Shakopee, MN 55379. Phone: +19524452326. Website: https://www.bobslawnandlandscaping.net/. | https://dingalinged-cpu.github.io/registry/c/bobs-lawn-and-landscape-shakopee/
-4. McDonough Landscaping | trust 10.0 | McDonough Landscaping is a landscaping company in Newport, MN at 1340 Military Road, Newport, MN 55055. Website: https://mcdonoughlandscapingmn.com/. | https://dingalinged-cpu.github.io/registry/c/mcdonough-landscaping-newport/
-5. Gray Gardens | trust 0.0 | Gray Gardens is a landscaping company in Excelsior, MN. | https://dingalinged-cpu.github.io/registry/c/gray-gardens-excelsior/
-6. Lakeview Landscapes | trust 0.0 | Lakeview Landscapes is a landscaping company in Rockford Township, MN. | https://dingalinged-cpu.github.io/registry/c/lakeview-landscapes-rockford-township/
+1. Bill's Lawn Maintenance and Landscaping | trust 20.0 | Bill's Lawn Maintenance and Landscaping is a landscaping company in Frankfort, IL at 10815 West Stuenkel Road, Frankfort, IL 60423. Phone: +18152055541. Website: https://www.billslawn.com/. | https://dingalinged-cpu.github.io/registry/c/bills-lawn-maintenance-and-landscaping-frankfort/
+2. Proscapes Landscape Service LLC | trust 20.0 | Proscapes Landscape Service LLC is a landscaping company in Munster, IN at 8654 Hohman Avenue, Munster, IN 46321. Phone: +12198361186. Website: https://www.proscapeslandscapeservllc.com/. | https://dingalinged-cpu.github.io/registry/c/proscapes-landscape-service-llc-munster/
+3. Schneider's Landscape | trust 20.0 | Schneider's Landscape is a landscaping company in Eden Prairie, MN at 16051 Berger Drive, Eden Prairie, MN 55347. Phone: +19524524828. Website: https://schneiderslandscape.com/. | https://dingalinged-cpu.github.io/registry/c/schneiders-landscape-eden-prairie/
+4. Sunnyview Landscaping | trust 20.0 | Sunnyview Landscaping is a landscaping company in Alsip, IL at 11154 South Lawler Avenue, Alsip, IL 60803. Phone: +17082641680. Website: https://www.sunnyviewlandscaping.shop/. | https://dingalinged-cpu.github.io/registry/c/sunnyview-landscaping-alsip/
+5. Apple Landscaping | trust 16.0 | Apple Landscaping is a landscaping company in Wauconda, IL at 368 West Liberty Street, Wauconda, IL 60084. Phone: +18475265244. Website: https://applelandscaping.com/. | https://dingalinged-cpu.github.io/registry/c/apple-landscaping-wauconda/
+6. Barrett Lawn Care | trust 16.0 | Barrett Lawn Care is a landscaping company in Hopkins, MN at 1415 5th Street South #E, Hopkins, MN 55343. Phone: +16128667522. Website: https://www.barrettlawncare.com/. | https://dingalinged-cpu.github.io/registry/c/barrett-lawn-care-hopkins/
+7. Bob's Lawn & Landscape | trust 16.0 | Bob's Lawn & Landscape is a landscaping company in Shakopee, MN at 406 1st Avenue West, Shakopee, MN 55379. Phone: +19524452326. Website: https://www.bobslawnandlandscaping.net/. | https://dingalinged-cpu.github.io/registry/c/bobs-lawn-and-landscape-shakopee/
+8. New Leaf Landscaping, Inc | trust 16.0 | New Leaf Landscaping, Inc is a landscaping company in Northbrook, IL at 876 Bittersweet Drive, Northbrook, IL 60062. Phone: +18477537900. Website: https://www.newleaflandscapinginc.com/. | https://dingalinged-cpu.github.io/registry/c/new-leaf-landscaping-inc-northbrook/
+9. McDonough Landscaping | trust 10.0 | McDonough Landscaping is a landscaping company in Newport, MN at 1340 Military Road, Newport, MN 55055. Website: https://mcdonoughlandscapingmn.com/. | https://dingalinged-cpu.github.io/registry/c/mcdonough-landscaping-newport/
+10. Rigo Alvarez Landscaping Corp. | trust 10.0 | Rigo Alvarez Landscaping Corp. is a landscaping company in Elwood, IL at 19250 Quail Court, Elwood, IL 60421. Phone: +18157913749. | https://dingalinged-cpu.github.io/registry/c/rigo-alvarez-landscaping-corp-elwood/
+11. Green Home Experts | trust 6.0 | Green Home Experts is a landscaping company in Lyons, IL. Website: https://ghexperts.com/. | https://dingalinged-cpu.github.io/registry/c/green-home-experts-lyons/
+12. X S Kevin's Landscaping | trust 6.0 | X S Kevin's Landscaping is a landscaping company in Lyons, IL. Website: https://m.facebook.com/XSKevinsLandscaping/. | https://dingalinged-cpu.github.io/registry/c/x-s-kevins-landscaping-lyons/
+13. Architerra | trust 0.0 | Architerra is a landscaping company in Indian Creek, IL. | https://dingalinged-cpu.github.io/registry/c/architerra-indian-creek/
+14. Bluder's Tree Service | trust 0.0 | Bluder's Tree Service is a landscaping company in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/bluders-tree-service-brookfield/
+15. Gray Gardens | trust 0.0 | Gray Gardens is a landscaping company in Excelsior, MN. | https://dingalinged-cpu.github.io/registry/c/gray-gardens-excelsior/
+16. ILT Vignochi | trust 0.0 | ILT Vignochi is a landscaping company in Island Lake, IL. | https://dingalinged-cpu.github.io/registry/c/ilt-vignochi-island-lake/
+17. Kago Inc. | trust 0.0 | Kago Inc. is a landscaping company in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/kago-inc-brookfield/
+18. Kemora Landscapes | trust 0.0 | Kemora Landscapes is a landscaping company in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/kemora-landscapes-chicago/
+19. Lakeview Landscapes | trust 0.0 | Lakeview Landscapes is a landscaping company in Rockford Township, MN. | https://dingalinged-cpu.github.io/registry/c/lakeview-landscapes-rockford-township/
+20. Lupfer Landscaping | trust 0.0 | Lupfer Landscaping is a landscaping company in Lyons, IL. | https://dingalinged-cpu.github.io/registry/c/lupfer-landscaping-lyons/
+21. Royal Oak Landscaping | trust 0.0 | Royal Oak Landscaping is a landscaping company in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/royal-oak-landscaping-brookfield/
+
+## Market data (for advertisers and agents)
+- Keyword: landscaping | category: Home services - Landscaping & Lawn | industry benchmark: Home & Home Improvement
+- US monthly searches: 201,000/mo (cited; Semrush US Jul 2026 (via research source); as of 2026-07; phrase 'landscaping near me')
+- CPC benchmark: low $7.85, median $8.76, high $8.76 (Home & Home Improvement median CPC 2026 $8.33 [https://www.localiq.com/blog/search-advertising-benchmarks]; Home & Home Improvement median CPC 2025 $7.85 [https://www.wordstream.com/blog/2025-google-ads-benchmarks]; Home services subcategory 'Landscaping & Lawn' CPC 2025 $8.76 [https://localiq.com/blog/home-services-search-advertising-benchmarks/])
+- Ad competition: high (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 21
+- Equivalent Google Ads cost per month: ~$110,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $250/month, spots 2-4 from $25/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/landscaping.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#landscaping | Estimates CC-BY-4.0; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

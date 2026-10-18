@@ -1,0 +1,60 @@
+{
+ "slug": "dura-plynroofing-addison",
+ "name": "Dura-PlynRoofing",
+ "categories": [
+  "roofer"
+ ],
+ "keywords": [
+  "roofer",
+  "roofing contractor",
+  "roofer addison il",
+  "roofing contractor addison il"
+ ],
+ "services": [
+  {
+   "name": "roofer",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "roofing contractor",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "151 South Rohlwing Road",
+  "addressLocality": "Addison",
+  "addressRegion": "IL",
+  "postalCode": "60101",
+  "addressCountry": "US"
+ },
+ "city": "Addison",
+ "state": "IL",
+ "zip": "60101",
+ "geo": {
+  "lat": 41.92293,
+  "lon": -88.031449
+ },
+ "schema_type": "RoofingContractor",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/2067139228",
+ "osm": {
+  "type": "node",
+  "id": 2067139228,
+  "tags_used": {
+   "craft": "roofer"
+  }
+ },
+ "municipality": "Addison",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/dura-plynroofing-addison/",
+ "summary": "Dura-PlynRoofing is a roofer in Addison, IL at 151 South Rohlwing Road, Addison, IL 60101.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

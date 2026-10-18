@@ -1,0 +1,56 @@
+{
+ "slug": "mobil-buffalo-grove",
+ "name": "Mobil",
+ "categories": [
+  "car wash"
+ ],
+ "keywords": [
+  "car wash",
+  "car wash buffalo grove il"
+ ],
+ "services": [
+  {
+   "name": "car wash",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "10 West Dundee Road",
+  "addressLocality": "Buffalo Grove",
+  "addressRegion": "IL",
+  "postalCode": "60089",
+  "addressCountry": "US"
+ },
+ "city": "Buffalo Grove",
+ "state": "IL",
+ "zip": "60089",
+ "geo": {
+  "lat": 42.1392386,
+  "lon": -87.9594172
+ },
+ "brand": "Mobil",
+ "wikidata": "Q109676002",
+ "schema_type": "AutoWash",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/1220518804",
+ "osm": {
+  "type": "way",
+  "id": 1220518804,
+  "tags_used": {
+   "amenity": "car_wash"
+  }
+ },
+ "municipality": "Buffalo Grove",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/mobil-buffalo-grove/",
+ "summary": "Mobil is a car wash in Buffalo Grove, IL at 10 West Dundee Road, Buffalo Grove, IL 60089.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

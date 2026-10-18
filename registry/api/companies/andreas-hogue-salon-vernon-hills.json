@@ -1,0 +1,61 @@
+{
+ "slug": "andreas-hogue-salon-vernon-hills",
+ "name": "ANDREAS HOGUE SALON",
+ "categories": [
+  "hair salon"
+ ],
+ "keywords": [
+  "hair salon",
+  "haircut",
+  "hair salon vernon hills il",
+  "haircut vernon hills il"
+ ],
+ "services": [
+  {
+   "name": "hair salon",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "haircut",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "901 North Milwaukee Avenue #650",
+  "addressLocality": "Vernon Hills",
+  "addressRegion": "IL",
+  "postalCode": "60061",
+  "addressCountry": "US"
+ },
+ "city": "Vernon Hills",
+ "state": "IL",
+ "zip": "60061",
+ "geo": {
+  "lat": 42.2430198,
+  "lon": -87.9425701
+ },
+ "website": "https://andreashogue.com/",
+ "schema_type": "HairSalon",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/687473900",
+ "osm": {
+  "type": "way",
+  "id": 687473900,
+  "tags_used": {
+   "shop": "hairdresser"
+  }
+ },
+ "municipality": "Vernon Hills",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/andreas-hogue-salon-vernon-hills/",
+ "summary": "ANDREAS HOGUE SALON is a hair salon in Vernon Hills, IL at 901 North Milwaukee Avenue #650, Vernon Hills, IL 60061. Website: https://andreashogue.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

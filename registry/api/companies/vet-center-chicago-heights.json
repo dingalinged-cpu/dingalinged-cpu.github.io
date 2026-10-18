@@ -1,0 +1,57 @@
+{
+ "slug": "vet-center-chicago-heights",
+ "name": "Vet Center",
+ "categories": [
+  "therapist"
+ ],
+ "keywords": [
+  "therapist",
+  "therapist chicago heights il"
+ ],
+ "services": [
+  {
+   "name": "therapist",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1010 Dixie Highway",
+  "addressLocality": "Chicago Heights",
+  "addressRegion": "IL",
+  "postalCode": "60411",
+  "addressCountry": "US"
+ },
+ "city": "Chicago Heights",
+ "state": "IL",
+ "zip": "60411",
+ "geo": {
+  "lat": 41.5126096,
+  "lon": -87.6468633
+ },
+ "brand": "VA",
+ "wikidata": "Q6580225",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/8562905296",
+ "osm": {
+  "type": "node",
+  "id": 8562905296,
+  "tags_used": {
+   "amenity": "social_facility",
+   "healthcare": "counselling"
+  }
+ },
+ "municipality": "Chicago Heights",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/vet-center-chicago-heights/",
+ "summary": "Vet Center is a therapy practice in Chicago Heights, IL at 1010 Dixie Highway, Chicago Heights, IL 60411.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

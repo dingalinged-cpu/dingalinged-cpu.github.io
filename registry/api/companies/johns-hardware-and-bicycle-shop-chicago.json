@@ -1,0 +1,54 @@
+{
+ "slug": "johns-hardware-and-bicycle-shop-chicago",
+ "name": "John's Hardware & Bicycle Shop",
+ "categories": [
+  "bike shop"
+ ],
+ "keywords": [
+  "bike shop",
+  "bike shop chicago il"
+ ],
+ "services": [
+  {
+   "name": "bike shop",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "7350 South Halsted Street",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60621",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60621",
+ "geo": {
+  "lat": 41.7601032,
+  "lon": -87.6444728
+ },
+ "schema_type": "BikeStore",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/7895372534",
+ "osm": {
+  "type": "node",
+  "id": 7895372534,
+  "tags_used": {
+   "shop": "bicycle"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/johns-hardware-and-bicycle-shop-chicago/",
+ "summary": "John's Hardware & Bicycle Shop is a bike shop in Chicago, IL at 7350 South Halsted Street, Chicago, IL 60621.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

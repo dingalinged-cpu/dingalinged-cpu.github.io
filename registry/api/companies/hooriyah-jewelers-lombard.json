@@ -1,0 +1,55 @@
+{
+ "slug": "hooriyah-jewelers-lombard",
+ "name": "Hooriyah Jewelers",
+ "categories": [
+  "jewelry store"
+ ],
+ "keywords": [
+  "jewelry store",
+  "jewelry store lombard il"
+ ],
+ "services": [
+  {
+   "name": "jewelry store",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "117 Yorktown Shopping Center Rd",
+  "addressLocality": "Lombard",
+  "addressRegion": "IL",
+  "postalCode": "60148",
+  "addressCountry": "US"
+ },
+ "city": "Lombard",
+ "state": "IL",
+ "zip": "60148",
+ "geo": {
+  "lat": 41.8393363,
+  "lon": -88.0072979
+ },
+ "phone": "+16307853144",
+ "schema_type": "JewelryStore",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/1121098240",
+ "osm": {
+  "type": "way",
+  "id": 1121098240,
+  "tags_used": {
+   "shop": "jewelry"
+  }
+ },
+ "municipality": "Lombard",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/hooriyah-jewelers-lombard/",
+ "summary": "Hooriyah Jewelers is a jewelry store in Lombard, IL at 117 Yorktown Shopping Center Rd, Lombard, IL 60148. Phone: +16307853144.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

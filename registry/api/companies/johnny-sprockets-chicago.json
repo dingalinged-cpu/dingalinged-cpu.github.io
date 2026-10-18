@@ -1,0 +1,55 @@
+{
+ "slug": "johnny-sprockets-chicago",
+ "name": "Johnny Sprockets",
+ "categories": [
+  "bike shop"
+ ],
+ "keywords": [
+  "bike shop",
+  "bike shop chicago il"
+ ],
+ "services": [
+  {
+   "name": "bike shop",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "3140 North Broadway",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60657",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60657",
+ "geo": {
+  "lat": 41.9388826,
+  "lon": -87.644646
+ },
+ "website": "https://www.johnnysprockets.com/",
+ "schema_type": "BikeStore",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/2204092589",
+ "osm": {
+  "type": "node",
+  "id": 2204092589,
+  "tags_used": {
+   "shop": "bicycle"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/johnny-sprockets-chicago/",
+ "summary": "Johnny Sprockets is a bike shop in Chicago, IL at 3140 North Broadway, Chicago, IL 60657. Website: https://www.johnnysprockets.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

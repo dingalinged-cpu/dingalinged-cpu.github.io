@@ -1,0 +1,23 @@
+Michalik Funeral Home is a funeral home in Chicago, IL at 1056 West Chicago Avenue, Chicago, IL 60642.
+
+# Michalik Funeral Home
+
+- Category: funeral home
+- Services: funeral home
+- Address: 1056 West Chicago Avenue, Chicago, IL 60642
+- City: Chicago
+- State: IL
+- ZIP: 60642
+- Coordinates: 41.8965111, -87.654808
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/michalik-funeral-home-chicago/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/michalik-funeral-home-chicago.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5080671036 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

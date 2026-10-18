@@ -1,0 +1,61 @@
+{
+ "slug": "omega-auto-repair-gary",
+ "name": "Omega Auto Repair",
+ "categories": [
+  "auto repair"
+ ],
+ "keywords": [
+  "auto repair",
+  "mechanic",
+  "auto repair gary in",
+  "mechanic gary in"
+ ],
+ "services": [
+  {
+   "name": "auto repair",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "mechanic",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "4963 Broadway",
+  "addressLocality": "Gary",
+  "addressRegion": "IN",
+  "addressCountry": "US"
+ },
+ "city": "Gary",
+ "state": "IN",
+ "geo": {
+  "lat": 41.5282053,
+  "lon": -87.3357474
+ },
+ "social": [
+  "https://www.facebook.com/omegaautomotivesales/"
+ ],
+ "schema_type": "AutoRepair",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/1160299766",
+ "osm": {
+  "type": "way",
+  "id": 1160299766,
+  "tags_used": {
+   "shop": "car_repair"
+  }
+ },
+ "municipality": "Gary",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/omega-auto-repair-gary/",
+ "summary": "Omega Auto Repair is an auto repair shop in Gary, IN at 4963 Broadway, Gary, IN.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

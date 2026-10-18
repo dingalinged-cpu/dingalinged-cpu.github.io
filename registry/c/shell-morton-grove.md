@@ -1,0 +1,23 @@
+Shell is a car wash in Morton Grove, IL at 6941 West Dempster Street, Morton Grove, IL 60053.
+
+# Shell
+
+- Category: car wash
+- Services: car wash
+- Address: 6941 West Dempster Street, Morton Grove, IL 60053
+- City: Morton Grove
+- State: IL
+- ZIP: 60053
+- Coordinates: 42.0403148, -87.7997278
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/shell-morton-grove/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/shell-morton-grove.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/952069536 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

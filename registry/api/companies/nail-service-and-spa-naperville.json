@@ -1,0 +1,58 @@
+{
+ "slug": "nail-service-and-spa-naperville",
+ "name": "Nail Service & Spa",
+ "categories": [
+  "nail salon"
+ ],
+ "keywords": [
+  "nail salon",
+  "nail salon naperville il"
+ ],
+ "services": [
+  {
+   "name": "nail salon",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "121 East Ogden Avenue #111",
+  "addressLocality": "Naperville",
+  "addressRegion": "IL",
+  "postalCode": "60563",
+  "addressCountry": "US"
+ },
+ "city": "Naperville",
+ "state": "IL",
+ "zip": "60563",
+ "geo": {
+  "lat": 41.7867911,
+  "lon": -88.1465744
+ },
+ "phone": "+16303553008",
+ "website": "https://nail-service-spa.edan.io/",
+ "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 11:00-17:00",
+ "schema_type": "NailSalon",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/984801689",
+ "osm": {
+  "type": "way",
+  "id": 984801689,
+  "tags_used": {
+   "shop": "beauty",
+   "beauty": "nails"
+  }
+ },
+ "municipality": "Naperville",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/nail-service-and-spa-naperville/",
+ "summary": "Nail Service & Spa is a nail salon in Naperville, IL at 121 East Ogden Avenue #111, Naperville, IL 60563. Phone: +16303553008. Website: https://nail-service-spa.edan.io/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

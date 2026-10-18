@@ -1,0 +1,62 @@
+{
+ "slug": "jackson-hewitt-calumet-city",
+ "name": "Jackson Hewitt",
+ "categories": [
+  "tax preparation"
+ ],
+ "keywords": [
+  "tax preparation",
+  "tax preparer",
+  "tax preparation calumet city il",
+  "tax preparer calumet city il"
+ ],
+ "services": [
+  {
+   "name": "tax preparation",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "tax preparer",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "515 Burnham Avenue",
+  "addressLocality": "Calumet City",
+  "addressRegion": "IL",
+  "postalCode": "60409",
+  "addressCountry": "US"
+ },
+ "city": "Calumet City",
+ "state": "IL",
+ "zip": "60409",
+ "geo": {
+  "lat": 41.6214485,
+  "lon": -87.5393697
+ },
+ "brand": "Jackson Hewitt",
+ "wikidata": "Q6117132",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/1359893553",
+ "osm": {
+  "type": "way",
+  "id": 1359893553,
+  "tags_used": {
+   "office": "tax_advisor"
+  }
+ },
+ "municipality": "Calumet City",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/jackson-hewitt-calumet-city/",
+ "summary": "Jackson Hewitt is a tax preparation service in Calumet City, IL at 515 Burnham Avenue, Calumet City, IL 60409.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

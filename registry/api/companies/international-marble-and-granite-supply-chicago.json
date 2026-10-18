@@ -1,0 +1,54 @@
+{
+ "slug": "international-marble-and-granite-supply-chicago",
+ "name": "International Marble & Granite Supply",
+ "categories": [
+  "concrete contractor"
+ ],
+ "keywords": [
+  "concrete contractor",
+  "concrete contractor chicago il"
+ ],
+ "services": [
+  {
+   "name": "concrete contractor",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "2950 West Grand Avenue",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60622",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60622",
+ "geo": {
+  "lat": 41.8962938,
+  "lon": -87.701143
+ },
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/5200807213",
+ "osm": {
+  "type": "node",
+  "id": 5200807213,
+  "tags_used": {
+   "craft": "stonemason"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/international-marble-and-granite-supply-chicago/",
+ "summary": "International Marble & Granite Supply is a concrete contractor in Chicago, IL at 2950 West Grand Avenue, Chicago, IL 60622.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

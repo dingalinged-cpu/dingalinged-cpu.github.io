@@ -1,0 +1,57 @@
+{
+ "slug": "costello-jewelry-company-naperville",
+ "name": "Costello Jewelry Company",
+ "categories": [
+  "jewelry store"
+ ],
+ "keywords": [
+  "jewelry store",
+  "jewelry store naperville il"
+ ],
+ "services": [
+  {
+   "name": "jewelry store",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "33 West Jefferson Avenue",
+  "addressLocality": "Naperville",
+  "addressRegion": "IL",
+  "postalCode": "60540",
+  "addressCountry": "US"
+ },
+ "city": "Naperville",
+ "state": "IL",
+ "zip": "60540",
+ "geo": {
+  "lat": 41.7730877,
+  "lon": -88.1490914
+ },
+ "phone": "+16303551311",
+ "website": "https://www.costello.net/",
+ "opening_hours": "Mo-We, Fr 09:30-18:00; Th 09:30-20:00; Sa 09:00-17:00; Su off",
+ "schema_type": "JewelryStore",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/8955808494",
+ "osm": {
+  "type": "node",
+  "id": 8955808494,
+  "tags_used": {
+   "shop": "jewelry"
+  }
+ },
+ "municipality": "Naperville",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/costello-jewelry-company-naperville/",
+ "summary": "Costello Jewelry Company is a jewelry store in Naperville, IL at 33 West Jefferson Avenue, Naperville, IL 60540. Phone: +16303551311. Website: https://www.costello.net/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

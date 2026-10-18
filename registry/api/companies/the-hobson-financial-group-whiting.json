@@ -1,0 +1,54 @@
+{
+ "slug": "the-hobson-financial-group-whiting",
+ "name": "The Hobson Financial Group",
+ "categories": [
+  "financial advisor"
+ ],
+ "keywords": [
+  "financial advisor",
+  "financial advisor whiting in"
+ ],
+ "services": [
+  {
+   "name": "financial advisor",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1306 119th Street",
+  "addressLocality": "Whiting",
+  "addressRegion": "IN",
+  "postalCode": "46394",
+  "addressCountry": "US"
+ },
+ "city": "Whiting",
+ "state": "IN",
+ "zip": "46394",
+ "geo": {
+  "lat": 41.6790847,
+  "lon": -87.4975628
+ },
+ "schema_type": "FinancialService",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/1232071688",
+ "osm": {
+  "type": "way",
+  "id": 1232071688,
+  "tags_used": {
+   "office": "financial_advisor"
+  }
+ },
+ "municipality": "Whiting",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/the-hobson-financial-group-whiting/",
+ "summary": "The Hobson Financial Group is a financial advisor in Whiting, IN at 1306 119th Street, Whiting, IN 46394.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

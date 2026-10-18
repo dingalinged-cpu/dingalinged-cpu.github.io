@@ -1,0 +1,58 @@
+{
+ "slug": "mitchell-chiropractic-naperville",
+ "name": "Mitchell Chiropractic",
+ "categories": [
+  "chiropractor"
+ ],
+ "keywords": [
+  "chiropractor",
+  "chiropractor naperville il"
+ ],
+ "services": [
+  {
+   "name": "chiropractor",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1220 West Ogden Avenue #D",
+  "addressLocality": "Naperville",
+  "addressRegion": "IL",
+  "postalCode": "60563",
+  "addressCountry": "US"
+ },
+ "city": "Naperville",
+ "state": "IL",
+ "zip": "60563",
+ "geo": {
+  "lat": 41.781246,
+  "lon": -88.1753777
+ },
+ "phone": "+16309613500",
+ "website": "https://www.bmitchellchiro.com/",
+ "opening_hours": "Mo, We, Fr 08:00-12:00, 14:00-19:00; Tu, Th 09:00-12:00, 14:00-18:00",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/8848676523",
+ "osm": {
+  "type": "node",
+  "id": 8848676523,
+  "tags_used": {
+   "healthcare": "alternative",
+   "healthcare:speciality": "chiropractic"
+  }
+ },
+ "municipality": "Naperville",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/mitchell-chiropractic-naperville/",
+ "summary": "Mitchell Chiropractic is a chiropractor in Naperville, IL at 1220 West Ogden Avenue #D, Naperville, IL 60563. Phone: +16309613500. Website: https://www.bmitchellchiro.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,23 @@
+Club Pilates is a pilates studio in Chicago, IL at 2047 North Clybourn Avenue, Chicago, IL 60614.
+
+# Club Pilates
+
+- Category: pilates
+- Services: pilates
+- Address: 2047 North Clybourn Avenue, Chicago, IL 60614
+- City: Chicago
+- State: IL
+- ZIP: 60614
+- Coordinates: 41.9189313, -87.6600037
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/club-pilates-chicago-n11819718927/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/club-pilates-chicago-n11819718927.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11819718927 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

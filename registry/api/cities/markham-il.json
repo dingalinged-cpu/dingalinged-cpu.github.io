@@ -1,0 +1,297 @@
+{
+ "place": "Markham, IL",
+ "slug": "markham-il",
+ "count": 9,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "auto repair markham il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-markham-il.json"
+  },
+  {
+   "keyword": "car wash markham il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-markham-il.json"
+  },
+  {
+   "keyword": "furniture store markham il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/furniture-store-markham-il.json"
+  },
+  {
+   "keyword": "mechanic markham il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-markham-il.json"
+  },
+  {
+   "keyword": "preschool markham il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/preschool-markham-il.json"
+  },
+  {
+   "keyword": "storage units markham il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/storage-units-markham-il.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "public-storage-markham",
+   "name": "Public Storage",
+   "summary": "Public Storage is a self-storage facility in Markham, IL at 3835 West 159th Place, Markham, IL 60428. Website: https://www.publicstorage.com/self-storage-il-markham/1419.html.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/public-storage-markham/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/public-storage-markham.json",
+   "address": {
+    "streetAddress": "3835 West 159th Place",
+    "addressLocality": "Markham",
+    "addressRegion": "IL",
+    "postalCode": "60428",
+    "addressCountry": "US"
+   },
+   "city": "Markham",
+   "state": "IL",
+   "zip": "60428",
+   "geo": {
+    "lat": 41.6002024,
+    "lon": -87.7127182
+   },
+   "website": "https://www.publicstorage.com/self-storage-il-markham/1419.html",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9342423340",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "bp-markham",
+   "name": "BP",
+   "summary": "BP is a car wash in Markham, IL at 16655 Crawford Avenue, Markham, IL 60428.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bp-markham/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bp-markham.json",
+   "address": {
+    "streetAddress": "16655 Crawford Avenue",
+    "addressLocality": "Markham",
+    "addressRegion": "IL",
+    "postalCode": "60428",
+    "addressCountry": "US"
+   },
+   "city": "Markham",
+   "state": "IL",
+   "zip": "60428",
+   "geo": {
+    "lat": 41.5867592,
+    "lon": -87.7133339
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1358878345",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "shel-llube-markham",
+   "name": "Shel lLube",
+   "summary": "Shel lLube is an auto repair shop in Markham, IL at 15901 Crawford Avenue, Markham, IL 60428.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/shel-llube-markham/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/shel-llube-markham.json",
+   "address": {
+    "streetAddress": "15901 Crawford Avenue",
+    "addressLocality": "Markham",
+    "addressRegion": "IL",
+    "postalCode": "60428",
+    "addressCountry": "US"
+   },
+   "city": "Markham",
+   "state": "IL",
+   "zip": "60428",
+   "geo": {
+    "lat": 41.6029701,
+    "lon": -87.7161904
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1371363952",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "shell-markham",
+   "name": "Shell",
+   "summary": "Shell is a car wash in Markham, IL at 15901 Crawford Avenue, Markham, IL 60428.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/shell-markham/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/shell-markham.json",
+   "address": {
+    "streetAddress": "15901 Crawford Avenue",
+    "addressLocality": "Markham",
+    "addressRegion": "IL",
+    "postalCode": "60428",
+    "addressCountry": "US"
+   },
+   "city": "Markham",
+   "state": "IL",
+   "zip": "60428",
+   "geo": {
+    "lat": 41.603251,
+    "lon": -87.7160173
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9342423335",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "u-haul-markham-w1334375470",
+   "name": "U-Haul",
+   "summary": "U-Haul is a self-storage facility in Markham, IL at 2915 West 159th Street, Markham, IL 60428.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/u-haul-markham-w1334375470/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/u-haul-markham-w1334375470.json",
+   "address": {
+    "streetAddress": "2915 West 159th Street",
+    "addressLocality": "Markham",
+    "addressRegion": "IL",
+    "postalCode": "60428",
+    "addressCountry": "US"
+   },
+   "city": "Markham",
+   "state": "IL",
+   "zip": "60428",
+   "geo": {
+    "lat": 41.6002513,
+    "lon": -87.6880945
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1334375470",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "primary-learning-center-markham",
+   "name": "Primary Learning Center",
+   "summary": "Primary Learning Center is a preschool in Markham, IL.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/primary-learning-center-markham/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/primary-learning-center-markham.json",
+   "address": {
+    "addressLocality": "Markham",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Markham",
+   "state": "IL",
+   "geo": {
+    "lat": 41.5949602,
+    "lon": -87.6954849
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1444595801",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "rent-a-center-markham",
+   "name": "Rent-A-Center",
+   "summary": "Rent-A-Center is a furniture store in Markham, IL.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rent-a-center-markham/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rent-a-center-markham.json",
+   "address": {
+    "addressLocality": "Markham",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Markham",
+   "state": "IL",
+   "geo": {
+    "lat": 41.599647,
+    "lon": -87.6932151
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9342423334",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "tonys-auto-repair-markham",
+   "name": "Tony's Auto Repair",
+   "summary": "Tony's Auto Repair is an auto repair shop in Markham, IL.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tonys-auto-repair-markham/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tonys-auto-repair-markham.json",
+   "address": {
+    "addressLocality": "Markham",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Markham",
+   "state": "IL",
+   "geo": {
+    "lat": 41.5860042,
+    "lon": -87.6878831
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7518739634",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "u-haul-markham",
+   "name": "U-Haul",
+   "summary": "U-Haul is a self-storage facility in Markham, IL.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/u-haul-markham/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/u-haul-markham.json",
+   "address": {
+    "addressLocality": "Markham",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Markham",
+   "state": "IL",
+   "geo": {
+    "lat": 41.5876067,
+    "lon": -87.6932681
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1235958496",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

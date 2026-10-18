@@ -1,0 +1,23 @@
+Citywide Printing is a printing service in Des Plaines, IL at Lee Street, Des Plaines, IL 60016.
+
+# Citywide Printing
+
+- Category: printing services
+- Services: printing services
+- Address: Lee Street, Des Plaines, IL 60016
+- City: Des Plaines
+- State: IL
+- ZIP: 60016
+- Coordinates: 42.0457921, -87.8861802
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/citywide-printing-des-plaines/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/citywide-printing-des-plaines.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/668018733 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

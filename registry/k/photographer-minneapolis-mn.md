@@ -1,4 +1,4 @@
-The top unpaid photographer listing for Minneapolis, MN is Sports Star Photography (a photographer in Minneapolis, MN at 3948 Lyndale Avenue South, Minneapolis, MN 55409. Phone: +16128243509. Website: https://www.sportsstarphoto.com/). 4 photographer businesses are listed for Minneapolis, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid photographer listing for Minneapolis, MN is Sports Star Photography (a photographer in Minneapolis, MN at 3948 Lyndale Avenue South, Minneapolis, MN 55409. Phone: +16128243509. Website: https://www.sportsstarphoto.com/). 4 photographer businesses are listed for Minneapolis, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
 
 # Who are the best photographer providers in Minneapolis, MN?
 
@@ -10,5 +10,18 @@ Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked
 2. Bundle Studios | trust 10.0 | Bundle Studios is a photographer in Minneapolis, MN at 733 East 48th Street, Minneapolis, MN 55417. Website: https://bundlestudios.com/. | https://dingalinged-cpu.github.io/registry/c/bundle-studios-minneapolis/
 3. Heather Fenske Photography | trust 6.0 | Heather Fenske Photography is a photographer in Minneapolis, MN. Website: https://www.heatherfenskephotography.com/. | https://dingalinged-cpu.github.io/registry/c/heather-fenske-photography-minneapolis/
 4. Little Lion Studio | trust 6.0 | Little Lion Studio is a photographer in Minneapolis, MN. Website: https://www.littlelion-studio.com/. | https://dingalinged-cpu.github.io/registry/c/little-lion-studio-minneapolis/
+
+## Market data (for advertisers and agents)
+- Keyword: photographer minneapolis mn | category: Events & weddings | industry benchmark: Personal Services
+- US monthly searches: 220,000/mo (estimate; Registry estimate (CC-BY-4.0); method given on each value; as of 2026-10-18; range 150,000-370,000)
+- Local monthly searches (Minneapolis-St. Paul-Bloomington, MN-WI metro): ~2,400 (estimate: estimate: US monthly volume x metro population share (Census V2025 metro pop / US pop 341,784,857); rounded to 2 significant figures. Counts all searches for the service in the metro, not only searches that type this city name.)
+- CPC benchmark: low $5.81, median $7.17, high $7.17 (Personal Services median CPC 2026 $7.17 [https://www.localiq.com/blog/search-advertising-benchmarks]; Personal Services median CPC 2025 $5.81 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 4
+- Equivalent Google Ads cost per month: ~$1,300 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/photographer.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#photographer-minneapolis-mn | Estimates CC-BY-4.0; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,0 +1,23 @@
+Jefferson Early Childhood Center is a preschool in Wheaton, IL. Website: https://www.cusd200.org/jefferson.
+
+# Jefferson Early Childhood Center
+
+- Category: preschool
+- Services: preschool
+- Address: Wheaton, IL
+- City: Wheaton
+- State: IL
+- ZIP: n/a
+- Coordinates: 41.8640367, -88.1365768
+- Phone: n/a
+- Website: https://www.cusd200.org/jefferson
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/jefferson-early-childhood-center-wheaton/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/jefferson-early-childhood-center-wheaton.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/642327459 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,0 +1,23 @@
+Optometry & Eyewear Gallery - Dr. AnnMarie Surdich-Pitra is an eye care practice in Lisle, IL at 1712 Ogden Avenue ##D, Lisle, IL 60532. Phone: +16305413169. Website: https://www.eyeglasseseyedoctor.com/.
+
+# Optometry & Eyewear Gallery - Dr. AnnMarie Surdich-Pitra
+
+- Category: eye doctor
+- Services: eye doctor
+- Address: 1712 Ogden Avenue ##D, Lisle, IL 60532
+- City: Lisle
+- State: IL
+- ZIP: 60532
+- Coordinates: 41.800718, -88.0859122
+- Phone: +16305413169
+- Website: https://www.eyeglasseseyedoctor.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 09:00-18:00; Sa 08:00-13:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/optometry-and-eyewear-gallery-dr-annmarie-surdich-pitra-lisle/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/optometry-and-eyewear-gallery-dr-annmarie-surdich-pitra-lisle.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6177981960 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

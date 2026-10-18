@@ -1,0 +1,23 @@
+20/20 Eye Care & Eye Wear is an eye care practice in Western Springs, IL at 504 Hillgrove Avenue, Western Springs, IL 60558. Phone: +17082861100. Website: https://2020eyecare.vision/.
+
+# 20/20 Eye Care & Eye Wear
+
+- Category: eye doctor
+- Services: eye doctor
+- Address: 504 Hillgrove Avenue, Western Springs, IL 60558
+- City: Western Springs
+- State: IL
+- ZIP: 60558
+- Coordinates: 41.8107842, -87.895521
+- Phone: +17082861100
+- Website: https://2020eyecare.vision/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/20-20-eye-care-and-eye-wear-western-springs/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/20-20-eye-care-and-eye-wear-western-springs.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9603287970 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

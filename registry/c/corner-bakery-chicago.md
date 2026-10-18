@@ -1,0 +1,23 @@
+Corner Bakery is a bakery in Chicago, IL at 360 North Michigan Avenue, Chicago, IL 60601. Phone: +13122362400. Website: https://www.cornerbakerycafe.com/location/michigan-wacker.
+
+# Corner Bakery
+
+- Category: bakery
+- Services: bakery
+- Address: 360 North Michigan Avenue, Chicago, IL 60601
+- City: Chicago
+- State: IL
+- ZIP: 60601
+- Coordinates: 41.8880277, -87.6252478
+- Phone: +13122362400
+- Website: https://www.cornerbakerycafe.com/location/michigan-wacker
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/corner-bakery-chicago/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/corner-bakery-chicago.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6283844447 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

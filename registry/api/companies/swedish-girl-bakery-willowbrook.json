@@ -1,0 +1,51 @@
+{
+ "slug": "swedish-girl-bakery-willowbrook",
+ "name": "Swedish Girl Bakery",
+ "categories": [
+  "bakery"
+ ],
+ "keywords": [
+  "bakery",
+  "bakery willowbrook il"
+ ],
+ "services": [
+  {
+   "name": "bakery",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Willowbrook",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Willowbrook",
+ "state": "IL",
+ "geo": {
+  "lat": 41.774872,
+  "lon": -87.9495683
+ },
+ "schema_type": "Bakery",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/13480347471",
+ "osm": {
+  "type": "node",
+  "id": 13480347471,
+  "tags_used": {
+   "shop": "bakery"
+  }
+ },
+ "municipality": "Willowbrook",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/swedish-girl-bakery-willowbrook/",
+ "summary": "Swedish Girl Bakery is a bakery in Willowbrook, IL.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,402 @@
+{
+ "place": "Alsip, IL",
+ "slug": "alsip-il",
+ "count": 11,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "auto repair alsip il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-alsip-il.json"
+  },
+  {
+   "keyword": "event venues alsip il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/event-venues-alsip-il.json"
+  },
+  {
+   "keyword": "gym alsip il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-alsip-il.json"
+  },
+  {
+   "keyword": "insurance agency alsip il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-alsip-il.json"
+  },
+  {
+   "keyword": "insurance agent alsip il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-alsip-il.json"
+  },
+  {
+   "keyword": "insurance agents alsip il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-alsip-il.json"
+  },
+  {
+   "keyword": "landscaping alsip il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/landscaping-alsip-il.json"
+  },
+  {
+   "keyword": "marketing agency alsip il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/marketing-agency-alsip-il.json"
+  },
+  {
+   "keyword": "mechanic alsip il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-alsip-il.json"
+  },
+  {
+   "keyword": "painters alsip il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/painters-alsip-il.json"
+  },
+  {
+   "keyword": "storage units alsip il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/storage-units-alsip-il.json"
+  },
+  {
+   "keyword": "therapist alsip il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/therapist-alsip-il.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "action-behavior-centers-aba-therapy-for-autism-alsip",
+   "name": "Action Behavior Centers - ABA Therapy for Autism",
+   "summary": "Action Behavior Centers - ABA Therapy for Autism is a therapy practice in Alsip, IL at 5167 West 111th Street, Alsip, IL 60803. Phone: +17735242551. Website: https://www.actionbehavior.com/location/illinois/alsip-oak-lawn.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/action-behavior-centers-aba-therapy-for-autism-alsip/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/action-behavior-centers-aba-therapy-for-autism-alsip.json",
+   "address": {
+    "streetAddress": "5167 West 111th Street",
+    "addressLocality": "Alsip",
+    "addressRegion": "IL",
+    "postalCode": "60803",
+    "addressCountry": "US"
+   },
+   "city": "Alsip",
+   "state": "IL",
+   "zip": "60803",
+   "geo": {
+    "lat": 41.6901997,
+    "lon": -87.7490202
+   },
+   "phone": "+17735242551",
+   "website": "https://www.actionbehavior.com/location/illinois/alsip-oak-lawn",
+   "opening_hours": "Mo - Fr 08:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12797477692",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "allegra-alsip",
+   "name": "Allegra",
+   "summary": "Allegra is a marketing agency in Alsip, IL at 12549 South Holiday Drive, Alsip, IL 60803. Phone: +17083850200. Website: https://www.allegramarketingprint.com/locations/alsip-il.",
+   "categories": [
+    "marketing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/allegra-alsip/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/allegra-alsip.json",
+   "address": {
+    "streetAddress": "12549 South Holiday Drive",
+    "addressLocality": "Alsip",
+    "addressRegion": "IL",
+    "postalCode": "60803",
+    "addressCountry": "US"
+   },
+   "city": "Alsip",
+   "state": "IL",
+   "zip": "60803",
+   "geo": {
+    "lat": 41.6637834,
+    "lon": -87.7456386
+   },
+   "phone": "+17083850200",
+   "website": "https://www.allegramarketingprint.com/locations/alsip-il",
+   "opening_hours": "Mo-Fr 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1339880879",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "keegan-painting-alsip",
+   "name": "Keegan Painting",
+   "summary": "Keegan Painting is a painting contractor in Alsip, IL at 3842 West 116th Place, Alsip, IL 60803. Phone: +17737197497. Website: https://keeganpainting.biz/.",
+   "categories": [
+    "painters"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/keegan-painting-alsip/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/keegan-painting-alsip.json",
+   "address": {
+    "streetAddress": "3842 West 116th Place",
+    "addressLocality": "Alsip",
+    "addressRegion": "IL",
+    "postalCode": "60803",
+    "addressCountry": "US"
+   },
+   "city": "Alsip",
+   "state": "IL",
+   "zip": "60803",
+   "geo": {
+    "lat": 41.6815037,
+    "lon": -87.7167806
+   },
+   "phone": "+17737197497",
+   "website": "https://keeganpainting.biz/",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9665547596",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "sunnyview-landscaping-alsip",
+   "name": "Sunnyview Landscaping",
+   "summary": "Sunnyview Landscaping is a landscaping company in Alsip, IL at 11154 South Lawler Avenue, Alsip, IL 60803. Phone: +17082641680. Website: https://www.sunnyviewlandscaping.shop/.",
+   "categories": [
+    "landscaping"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sunnyview-landscaping-alsip/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sunnyview-landscaping-alsip.json",
+   "address": {
+    "streetAddress": "11154 South Lawler Avenue",
+    "addressLocality": "Alsip",
+    "addressRegion": "IL",
+    "postalCode": "60803",
+    "addressCountry": "US"
+   },
+   "city": "Alsip",
+   "state": "IL",
+   "zip": "60803",
+   "geo": {
+    "lat": 41.6892073,
+    "lon": -87.7445695
+   },
+   "phone": "+17082641680",
+   "website": "https://www.sunnyviewlandscaping.shop/",
+   "opening_hours": "Mo-Fr 07:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13389205002",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "valvoline-alsip",
+   "name": "Valvoline",
+   "summary": "Valvoline is an auto repair shop in Alsip, IL at 12245 South Pulaski Road, Alsip, IL 60803. Website: https://store.vioc.com/il/alsip/oil-change-gr0023.html.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/valvoline-alsip/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/valvoline-alsip.json",
+   "address": {
+    "streetAddress": "12245 South Pulaski Road",
+    "addressLocality": "Alsip",
+    "addressRegion": "IL",
+    "postalCode": "60803",
+    "addressCountry": "US"
+   },
+   "city": "Alsip",
+   "state": "IL",
+   "zip": "60803",
+   "geo": {
+    "lat": 41.6700931,
+    "lon": -87.7189834
+   },
+   "website": "https://store.vioc.com/il/alsip/oil-change-gr0023.html",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1327946658",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "country-financial-alsip",
+   "name": "Country Financial",
+   "summary": "Country Financial is an insurance agent in Alsip, IL at 12282 South Pulaski Road, Alsip, IL 60803.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/country-financial-alsip/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/country-financial-alsip.json",
+   "address": {
+    "streetAddress": "12282 South Pulaski Road",
+    "addressLocality": "Alsip",
+    "addressRegion": "IL",
+    "postalCode": "60803",
+    "addressCountry": "US"
+   },
+   "city": "Alsip",
+   "state": "IL",
+   "zip": "60803",
+   "geo": {
+    "lat": 41.6705533,
+    "lon": -87.7205339
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9642742861",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "extra-space-storage-alsip",
+   "name": "Extra Space Storage",
+   "summary": "Extra Space Storage is a self-storage facility in Alsip, IL at 5253 West 111th Street, Alsip, IL 60453.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/extra-space-storage-alsip/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/extra-space-storage-alsip.json",
+   "address": {
+    "streetAddress": "5253 West 111th Street",
+    "addressLocality": "Alsip",
+    "addressRegion": "IL",
+    "postalCode": "60453",
+    "addressCountry": "US"
+   },
+   "city": "Alsip",
+   "state": "IL",
+   "zip": "60453",
+   "geo": {
+    "lat": 41.6895672,
+    "lon": -87.7507847
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1112557499",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "public-storage-alsip",
+   "name": "Public Storage",
+   "summary": "Public Storage is a self-storage facility in Alsip, IL at 12730 South Pulaski Road, Alsip, IL 60803.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/public-storage-alsip/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/public-storage-alsip.json",
+   "address": {
+    "streetAddress": "12730 South Pulaski Road",
+    "addressLocality": "Alsip",
+    "addressRegion": "IL",
+    "postalCode": "60803",
+    "addressCountry": "US"
+   },
+   "city": "Alsip",
+   "state": "IL",
+   "zip": "60803",
+   "geo": {
+    "lat": 41.6607176,
+    "lon": -87.7200328
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9642742862",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "public-storage-alsip-n9642742871",
+   "name": "Public Storage",
+   "summary": "Public Storage is a self-storage facility in Alsip, IL at 5200 West 127th Street, Alsip, IL 60803.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/public-storage-alsip-n9642742871/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/public-storage-alsip-n9642742871.json",
+   "address": {
+    "streetAddress": "5200 West 127th Street",
+    "addressLocality": "Alsip",
+    "addressRegion": "IL",
+    "postalCode": "60803",
+    "addressCountry": "US"
+   },
+   "city": "Alsip",
+   "state": "IL",
+   "zip": "60803",
+   "geo": {
+    "lat": 41.662217,
+    "lon": -87.747216
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9642742871",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "the-chateau-bu-sche-alsip",
+   "name": "The Chateau Bu-sche",
+   "summary": "The Chateau Bu-sche is an event venue in Alsip, IL at 11535 South Cicero Avenue, Alsip, IL 60803.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-chateau-bu-sche-alsip/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-chateau-bu-sche-alsip.json",
+   "address": {
+    "streetAddress": "11535 South Cicero Avenue",
+    "addressLocality": "Alsip",
+    "addressRegion": "IL",
+    "postalCode": "60803",
+    "addressCountry": "US"
+   },
+   "city": "Alsip",
+   "state": "IL",
+   "zip": "60803",
+   "geo": {
+    "lat": 41.683014,
+    "lon": -87.7380596
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/583769632",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "o2-fitness-and-nutrition-alsip",
+   "name": "O2 Fitness and Nutrition",
+   "summary": "O2 Fitness and Nutrition is a gym in Alsip, IL.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/o2-fitness-and-nutrition-alsip/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/o2-fitness-and-nutrition-alsip.json",
+   "address": {
+    "addressLocality": "Alsip",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Alsip",
+   "state": "IL",
+   "geo": {
+    "lat": 41.6635764,
+    "lon": -87.742882
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9885731654",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

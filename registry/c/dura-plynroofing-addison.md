@@ -1,0 +1,23 @@
+Dura-PlynRoofing is a roofer in Addison, IL at 151 South Rohlwing Road, Addison, IL 60101.
+
+# Dura-PlynRoofing
+
+- Category: roofer
+- Services: roofer, roofing contractor
+- Address: 151 South Rohlwing Road, Addison, IL 60101
+- City: Addison
+- State: IL
+- ZIP: 60101
+- Coordinates: 41.92293, -88.031449
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/dura-plynroofing-addison/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/dura-plynroofing-addison.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/2067139228 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,0 +1,23 @@
+School For The Young Years is a preschool in Chicago, IL at 4600 West Peterson Avenue, Chicago, IL 60646.
+
+# School For The Young Years
+
+- Category: preschool
+- Services: preschool
+- Address: 4600 West Peterson Avenue, Chicago, IL 60646
+- City: Chicago
+- State: IL
+- ZIP: 60646
+- Coordinates: 41.9902393, -87.7428329
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/school-for-the-young-years-chicago/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/school-for-the-young-years-chicago.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/162474814 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

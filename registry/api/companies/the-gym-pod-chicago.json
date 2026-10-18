@@ -1,0 +1,54 @@
+{
+ "slug": "the-gym-pod-chicago",
+ "name": "The Gym Pod",
+ "categories": [
+  "gym"
+ ],
+ "keywords": [
+  "gym",
+  "gym chicago il"
+ ],
+ "services": [
+  {
+   "name": "gym",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1014 West Monroe Street",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60607",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60607",
+ "geo": {
+  "lat": 41.8805225,
+  "lon": -87.6526897
+ },
+ "schema_type": "ExerciseGym",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/12170602296",
+ "osm": {
+  "type": "node",
+  "id": 12170602296,
+  "tags_used": {
+   "leisure": "fitness_centre"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/the-gym-pod-chicago/",
+ "summary": "The Gym Pod is a gym in Chicago, IL at 1014 West Monroe Street, Chicago, IL 60607.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

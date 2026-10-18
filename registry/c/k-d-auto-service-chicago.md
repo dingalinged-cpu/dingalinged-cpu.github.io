@@ -1,0 +1,23 @@
+K-D Auto Service is an auto repair shop in Chicago, IL at 6419 North California Avenue, Chicago, IL 60645. Phone: +17732748601. Website: https://k-dautoservice.com/.
+
+# K-D Auto Service
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 6419 North California Avenue, Chicago, IL 60645
+- City: Chicago
+- State: IL
+- ZIP: 60645
+- Coordinates: 41.9982626, -87.699423
+- Phone: +17732748601
+- Website: https://k-dautoservice.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/k-d-auto-service-chicago/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/k-d-auto-service-chicago.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/4541001716 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

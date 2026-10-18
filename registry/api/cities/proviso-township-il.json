@@ -1,0 +1,83 @@
+{
+ "place": "Proviso Township, IL",
+ "slug": "proviso-township-il",
+ "count": 2,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "assisted living proviso township il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/assisted-living-proviso-township-il.json"
+  },
+  {
+   "keyword": "therapist proviso township il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/therapist-proviso-township-il.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "ronald-mcdonald-childrens-hospital-maywood",
+   "name": "Ronald McDonald ® Children's Hospital",
+   "summary": "Ronald McDonald ® Children's Hospital is an assisted living facility in Maywood, IL at 2160 South 1st Avenue, Maywood, IL 60153. Phone: +18885847888. Website: https://www.loyolamedicine.org/locations/ronald-mcdonald-%C2%AE-childrens-hospital.",
+   "categories": [
+    "assisted living"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ronald-mcdonald-childrens-hospital-maywood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ronald-mcdonald-childrens-hospital-maywood.json",
+   "address": {
+    "streetAddress": "2160 South 1st Avenue",
+    "addressLocality": "Maywood",
+    "addressRegion": "IL",
+    "postalCode": "60153",
+    "addressCountry": "US"
+   },
+   "city": "Maywood",
+   "state": "IL",
+   "zip": "60153",
+   "geo": {
+    "lat": 41.8611494,
+    "lon": -87.8347761
+   },
+   "phone": "+18885847888",
+   "website": "https://www.loyolamedicine.org/locations/ronald-mcdonald-%C2%AE-childrens-hospital",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/354249891",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "counseling-center-proviso-township",
+   "name": "Counseling Center",
+   "summary": "Counseling Center is a therapy practice in Proviso Township, IL at 13, Proviso Township, IL.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/counseling-center-proviso-township/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/counseling-center-proviso-township.json",
+   "address": {
+    "streetAddress": "13",
+    "addressLocality": "Proviso Township",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Proviso Township",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8593719,
+    "lon": -87.8401089
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/419500772",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

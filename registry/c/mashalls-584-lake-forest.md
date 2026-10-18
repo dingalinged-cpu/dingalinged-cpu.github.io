@@ -1,0 +1,23 @@
+Mashall's 584 is a gym in Lake Forest, IL at 584 North Western Avenue, Lake Forest, IL 60045.
+
+# Mashall's 584
+
+- Category: gym
+- Services: gym
+- Address: 584 North Western Avenue, Lake Forest, IL 60045
+- City: Lake Forest
+- State: IL
+- ZIP: 60045
+- Coordinates: 42.2503942, -87.839692
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/mashalls-584-lake-forest/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/mashalls-584-lake-forest.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1366372111 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

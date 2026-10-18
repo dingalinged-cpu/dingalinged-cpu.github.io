@@ -1,0 +1,23 @@
+Vetique is a veterinarian in Chicago, IL at 77 West Chestnut Street, Chicago, IL 60610. Phone: +13122919656. Website: https://vetique.com/.
+
+# Vetique
+
+- Category: vet
+- Services: vet
+- Address: 77 West Chestnut Street, Chicago, IL 60610
+- City: Chicago
+- State: IL
+- ZIP: 60610
+- Coordinates: 41.8978421, -87.631089
+- Phone: +13122919656
+- Website: https://vetique.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 10:00-18:00; Sa 09:00-14:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/vetique-chicago/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/vetique-chicago.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11883789043 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

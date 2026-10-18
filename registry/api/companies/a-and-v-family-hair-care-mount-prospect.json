@@ -1,0 +1,59 @@
+{
+ "slug": "a-and-v-family-hair-care-mount-prospect",
+ "name": "A&V Family Hair Care",
+ "categories": [
+  "hair salon"
+ ],
+ "keywords": [
+  "hair salon",
+  "haircut",
+  "hair salon mount prospect il",
+  "haircut mount prospect il"
+ ],
+ "services": [
+  {
+   "name": "hair salon",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "haircut",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "207 South Emerson Street",
+  "addressLocality": "Mount Prospect",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Mount Prospect",
+ "state": "IL",
+ "geo": {
+  "lat": 42.0617102,
+  "lon": -87.935102
+ },
+ "opening_hours": "Mo-Sa 09:00-19:00",
+ "schema_type": "HairSalon",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/673004999",
+ "osm": {
+  "type": "way",
+  "id": 673004999,
+  "tags_used": {
+   "shop": "hairdresser"
+  }
+ },
+ "municipality": "Mount Prospect",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/a-and-v-family-hair-care-mount-prospect/",
+ "summary": "A&V Family Hair Care is a hair salon in Mount Prospect, IL at 207 South Emerson Street, Mount Prospect, IL.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

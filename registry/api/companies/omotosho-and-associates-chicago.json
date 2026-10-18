@@ -1,0 +1,65 @@
+{
+ "slug": "omotosho-and-associates-chicago",
+ "name": "Omotosho & Associates",
+ "categories": [
+  "accountant"
+ ],
+ "keywords": [
+  "accountant",
+  "accounting services",
+  "accountant chicago il",
+  "accounting services chicago il"
+ ],
+ "services": [
+  {
+   "name": "accountant",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "accounting services",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1525 East 53rd Street ##620",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60615",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60615",
+ "geo": {
+  "lat": 41.799381,
+  "lon": -87.5881271
+ },
+ "phone": "+17737520035",
+ "website": "https://www.omotoshocpa.net/",
+ "social": [
+  "https://www.facebook.com/pg/omotoshocpa"
+ ],
+ "schema_type": "AccountingService",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/6138814237",
+ "osm": {
+  "type": "node",
+  "id": 6138814237,
+  "tags_used": {
+   "office": "accountant"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/omotosho-and-associates-chicago/",
+ "summary": "Omotosho & Associates is an accountant in Chicago, IL at 1525 East 53rd Street ##620, Chicago, IL 60615. Phone: +17737520035. Website: https://www.omotoshocpa.net/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,23 @@
+Dental Implant & Cosmetic Center is a dentist in Harwood Heights, IL at 4740 North Harlem Avenue, Harwood Heights, IL 60706. Phone: +17088678660.
+
+# Dental Implant & Cosmetic Center
+
+- Category: dentist
+- Services: dentist
+- Address: 4740 North Harlem Avenue, Harwood Heights, IL 60706
+- City: Harwood Heights
+- State: IL
+- ZIP: 60706
+- Coordinates: 41.9664671, -87.8074741
+- Phone: +17088678660
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/dental-implant-and-cosmetic-center-harwood-heights/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/dental-implant-and-cosmetic-center-harwood-heights.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10776052446 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

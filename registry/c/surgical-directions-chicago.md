@@ -1,0 +1,23 @@
+Surgical Directions is a business consultant in Chicago, IL at 180 North Stetson Avenue #Suite 1610, Chicago, IL 60601. Phone: +13128705600. Website: https://www.surgicaldirections.com/.
+
+# Surgical Directions
+
+- Category: business consultant
+- Services: business consultant
+- Address: 180 North Stetson Avenue #Suite 1610, Chicago, IL 60601
+- City: Chicago
+- State: IL
+- ZIP: 60601
+- Coordinates: 41.8854384, -87.6227115
+- Phone: +13128705600
+- Website: https://www.surgicaldirections.com/
+- Email: info@surgicaldirections.com
+- Opening hours (OSM syntax): Mo-Fr 08:00-17:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/surgical-directions-chicago/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/surgical-directions-chicago.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13751483031 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

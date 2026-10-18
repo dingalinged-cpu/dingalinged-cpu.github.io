@@ -1,0 +1,575 @@
+{
+ "keyword": "hair salon new lenox il",
+ "slug": "hair-salon-new-lenox-il",
+ "place": "New Lenox, IL",
+ "service": "hair salon",
+ "query": "Who are the best hair salon providers in New Lenox, IL?",
+ "matches": [
+  "hair salon in New Lenox, IL",
+  "hair salon near me (New Lenox, IL)",
+  "best hair salon New Lenox, IL",
+  "top rated hair salon New Lenox, IL",
+  "affordable hair salon New Lenox, IL",
+  "emergency hair salon New Lenox, IL"
+ ],
+ "answer": "The top unpaid hair salon listing for New Lenox, IL is Suite Hub (a hair salon in New Lenox, IL at 352 West Maple Street, New Lenox, IL 60451. Phone: +17089060641. Website: https://mysuitehub.com/). 9 hair salon businesses are listed for New Lenox, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-18",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "suite-hub-new-lenox",
+   "name": "Suite Hub",
+   "summary": "Suite Hub is a hair salon in New Lenox, IL at 352 West Maple Street, New Lenox, IL 60451. Phone: +17089060641. Website: https://mysuitehub.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/suite-hub-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/suite-hub-new-lenox.json",
+   "address": {
+    "streetAddress": "352 West Maple Street",
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "postalCode": "60451",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "zip": "60451",
+   "geo": {
+    "lat": 41.5159611,
+    "lon": -87.9768394
+   },
+   "phone": "+17089060641",
+   "website": "https://mysuitehub.com/",
+   "opening_hours": "09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12394962259",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "fantastic-sams-new-lenox",
+   "name": "Fantastic Sams",
+   "summary": "Fantastic Sams is a hair salon in New Lenox, IL at 280 East Lincoln Highway, New Lenox, IL 60451. Phone: +18154621755. Website: https://www.fantasticsams.com/about/regions/chicago-il/fantastic-sams-new-lenox-il.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fantastic-sams-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fantastic-sams-new-lenox.json",
+   "address": {
+    "streetAddress": "280 East Lincoln Highway",
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "postalCode": "60451",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "zip": "60451",
+   "geo": {
+    "lat": 41.5120623,
+    "lon": -87.9610213
+   },
+   "phone": "+18154621755",
+   "website": "https://www.fantasticsams.com/about/regions/chicago-il/fantastic-sams-new-lenox-il",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9195012202",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "great-clips-new-lenox",
+   "name": "Great Clips",
+   "summary": "Great Clips is a hair salon in New Lenox, IL at 523 East Lincoln Highway, New Lenox, IL 60451. Phone: +18154630274. Website: https://www.greatclips.com/salons/1469.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/great-clips-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/great-clips-new-lenox.json",
+   "address": {
+    "streetAddress": "523 East Lincoln Highway",
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "postalCode": "60451",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "zip": "60451",
+   "geo": {
+    "lat": 41.5128117,
+    "lon": -87.9548992
+   },
+   "phone": "+18154630274",
+   "website": "https://www.greatclips.com/salons/1469",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7178471777",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "simon-philips-mens-hair-salon-new-lenox",
+   "name": "Simon Philips Men's Hair Salon",
+   "summary": "Simon Philips Men's Hair Salon is a hair salon in New Lenox, IL at 306 West Maple Street, New Lenox, IL 60451. Phone: +18157178706. Website: https://simonphilipsmenshairsalon.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/simon-philips-mens-hair-salon-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/simon-philips-mens-hair-salon-new-lenox.json",
+   "address": {
+    "streetAddress": "306 West Maple Street",
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "postalCode": "60451",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "zip": "60451",
+   "geo": {
+    "lat": 41.5141055,
+    "lon": -87.9698365
+   },
+   "phone": "+18157178706",
+   "website": "https://simonphilipsmenshairsalon.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1306998304",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "sport-clips-new-lenox",
+   "name": "Sport Clips",
+   "summary": "Sport Clips is a hair salon in New Lenox, IL at 420 East Lincoln Highway, New Lenox, IL 60451. Phone: +18154627400. Website: https://haircutmennewlenoxil.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sport-clips-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sport-clips-new-lenox.json",
+   "address": {
+    "streetAddress": "420 East Lincoln Highway",
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "postalCode": "60451",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "zip": "60451",
+   "geo": {
+    "lat": 41.5118451,
+    "lon": -87.9556861
+   },
+   "phone": "+18154627400",
+   "website": "https://haircutmennewlenoxil.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9195012120",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "studio-10-salon-suites-new-lenox",
+   "name": "Studio 10 Salon Suites",
+   "summary": "Studio 10 Salon Suites is a hair salon in New Lenox, IL at 278 East Lincoln Highway, New Lenox, IL 60451. Phone: +18156413647. Website: https://www.studio10salonsuites.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/studio-10-salon-suites-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/studio-10-salon-suites-new-lenox.json",
+   "address": {
+    "streetAddress": "278 East Lincoln Highway",
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "postalCode": "60451",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "zip": "60451",
+   "geo": {
+    "lat": 41.5112593,
+    "lon": -87.9613911
+   },
+   "phone": "+18156413647",
+   "website": "https://www.studio10salonsuites.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/995777690",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "queen-bees-buzz-and-mens-cuts-new-lenox",
+   "name": "Queen Bees Buzz and Men's Cuts",
+   "summary": "Queen Bees Buzz and Men's Cuts is a hair salon in New Lenox, IL at 328 East Lincoln Highway, New Lenox, IL 60451. Phone: +17083084211.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/queen-bees-buzz-and-mens-cuts-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/queen-bees-buzz-and-mens-cuts-new-lenox.json",
+   "address": {
+    "streetAddress": "328 East Lincoln Highway",
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "postalCode": "60451",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "zip": "60451",
+   "geo": {
+    "lat": 41.5118957,
+    "lon": -87.9590822
+   },
+   "phone": "+17083084211",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9195012179",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "charles-marris-salon-new-lenox",
+   "name": "Charles Marris Salon",
+   "summary": "Charles Marris Salon is a hair salon in New Lenox, IL at 1832 East Lincoln Highway, New Lenox, IL 60451.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/charles-marris-salon-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/charles-marris-salon-new-lenox.json",
+   "address": {
+    "streetAddress": "1832 East Lincoln Highway",
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "postalCode": "60451",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "zip": "60451",
+   "geo": {
+    "lat": 41.5109883,
+    "lon": -87.9310855
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9195011861",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "supercuts-new-lenox",
+   "name": "Supercuts",
+   "summary": "Supercuts is a hair salon in New Lenox, IL.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/supercuts-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/supercuts-new-lenox.json",
+   "address": {
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "geo": {
+    "lat": 41.5078032,
+    "lon": -87.9170151
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9195135831",
+   "last_checked": "2026-10-17"
+  }
+ ],
+ "market": {
+  "keyword": "hair salon new lenox il",
+  "slug": "hair-salon-new-lenox-il",
+  "base_keyword": "hair salon",
+  "scope": "city",
+  "city": "new lenox",
+  "state": "il",
+  "category": "Personal care & beauty",
+  "industry": "Beauty & Personal Care",
+  "us_monthly_searches": {
+   "value": 1500000,
+   "method": "cited",
+   "source": "gkp_admiral",
+   "as_of": "2026-08",
+   "source_phrase": "hair salon near me",
+   "note": "Google Keyword Planner avg monthly searches, US"
+  },
+  "local_monthly_searches": {
+   "value": 41000,
+   "method": "estimate",
+   "method_id": "local_metro_suburb",
+   "geography": "Chicago-Naperville-Elgin, IL-IN metro",
+   "population": 9434123,
+   "source": "registry_estimate",
+   "volume_source": "gkp_admiral",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: US monthly volume x metro population share (Census V2025); the keyword names a suburb, so the value is metro-level demand for the service, not searches typing the suburb name; rounded to 2 significant figures."
+  },
+  "cpc_usd": {
+   "industry_benchmark": "Beauty & Personal Care",
+   "low_usd": 4.62,
+   "median_usd": 4.62,
+   "high_usd": 5.7,
+   "method": "published benchmarks: low/high = range of the industry and sub-industry median CPCs listed in 'figures'; median = most specific benchmark",
+   "figures": [
+    {
+     "usd": 4.62,
+     "label": "Beauty & Personal Care median CPC 2026",
+     "source": "wordstream_2026"
+    },
+    {
+     "usd": 5.7,
+     "label": "Beauty & Personal Care median CPC 2025",
+     "source": "wordstream_2025"
+    }
+   ],
+   "source": "wordstream_2026",
+   "as_of": "2026",
+   "keyword_top_of_page_bid_usd": {
+    "low": 0.55,
+    "high": 2.85,
+    "phrase": "hair salon near me",
+    "source": "gkp_admiral",
+    "as_of": "2026-08"
+   },
+   "basis_for_value": {
+    "usd": 0.55,
+    "method": "low end of the Google Keyword Planner top-of-page bid range ($0.55-$2.85) for 'hair salon near me' (conservative; keyword-specific)",
+    "source": "gkp_admiral"
+   }
+  },
+  "ctr_pct": {
+   "value": 5.71,
+   "label": "Beauty & Personal Care average search-ad CTR 2025",
+   "source": "wordstream_2025",
+   "as_of": "2025-03"
+  },
+  "competition": {
+   "level": "medium",
+   "method": "Google Keyword Planner competition index (advertiser density)",
+   "phrase": "hair salon near me",
+   "source": "gkp_admiral",
+   "as_of": "2026-08"
+  },
+  "trend": null,
+  "seasonality": {
+   "value": null,
+   "note": "No seasonality data in the research sources for this keyword."
+  },
+  "ai_query": {
+   "text": "No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.",
+   "figures": [
+    {
+     "value": "45%",
+     "label": "US adults using AI for local recommendations",
+     "source": "brightlocal_lcrs_2026"
+    },
+    {
+     "value": "75%",
+     "label": "sessions with keyword-style prompts",
+     "source": "sagapixel_sel"
+    },
+    {
+     "value": "59%",
+     "label": "local-intent prompts that triggered web search",
+     "source": "nectiv"
+    },
+    {
+     "value": "21%",
+     "label": "AI-first discovery journeys in healthcare (excerpt only)",
+     "source": "soci_2026"
+    }
+   ],
+   "as_of": "2026"
+  },
+  "registry_competitors": {
+   "value": 9,
+   "slugs": [
+    "charles-marris-salon-new-lenox",
+    "fantastic-sams-new-lenox",
+    "great-clips-new-lenox",
+    "queen-bees-buzz-and-mens-cuts-new-lenox",
+    "simon-philips-mens-hair-salon-new-lenox",
+    "sport-clips-new-lenox",
+    "studio-10-salon-suites-new-lenox",
+    "suite-hub-new-lenox",
+    "supercuts-new-lenox"
+   ],
+   "method_id": "competitors",
+   "source": "registry",
+   "as_of": "2026-10-18",
+   "urls": [
+    "https://dingalinged-cpu.github.io/registry/c/charles-marris-salon-new-lenox/",
+    "https://dingalinged-cpu.github.io/registry/c/fantastic-sams-new-lenox/",
+    "https://dingalinged-cpu.github.io/registry/c/great-clips-new-lenox/",
+    "https://dingalinged-cpu.github.io/registry/c/queen-bees-buzz-and-mens-cuts-new-lenox/",
+    "https://dingalinged-cpu.github.io/registry/c/simon-philips-mens-hair-salon-new-lenox/",
+    "https://dingalinged-cpu.github.io/registry/c/sport-clips-new-lenox/",
+    "https://dingalinged-cpu.github.io/registry/c/studio-10-salon-suites-new-lenox/",
+    "https://dingalinged-cpu.github.io/registry/c/suite-hub-new-lenox/",
+    "https://dingalinged-cpu.github.io/registry/c/supercuts-new-lenox/"
+   ],
+   "method": "count of registry listings tagged with the keyword (city/national) or with the base service in the same state (state keywords)"
+  },
+  "agent_demand": null,
+  "agent_demand_note": "Not yet measured. Will carry AI-agent query counts from the registry's agent analytics (contract: meta.agent_demand_contract in the market index).",
+  "equivalent_google_ads_cost_month": {
+   "value_usd": 1300,
+   "method": "estimate",
+   "method_id": "google_ads_equiv",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote."
+  },
+  "search_value_index": {
+   "value_usd": 23000,
+   "method": "estimate",
+   "method_id": "value_index",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: search value index = monthly searches x CPC basis; an advertiser-value ranking signal, not revenue; rounded to 2 significant figures."
+  },
+  "auction": {
+   "featured_spot_min_usd": 50,
+   "spots_2_to_4_min_usd": 5,
+   "tier": "high",
+   "pricing_rule": "tier minimum (premium $500, high $250, mid $100, standard $50) for national keywords; city = max($10, 20% of tier); state = max($10, 35% of tier); spots 2-4 open at 10% of the featured minimum",
+   "model": "Monthly auction in the last 7 days of each month: days 1-5 bid for the Featured #1 spot, days 6-7 for spots 2-4; winners display all next month; all paid spots labeled Sponsored.",
+   "next_auctions": [
+    {
+     "display_month": "2026-11",
+     "featured_spot_bidding": [
+      "2026-10-25",
+      "2026-10-29"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-10-30",
+      "2026-10-31"
+     ]
+    },
+    {
+     "display_month": "2026-12",
+     "featured_spot_bidding": [
+      "2026-11-24",
+      "2026-11-28"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-11-29",
+      "2026-11-30"
+     ]
+    }
+   ],
+   "source": "registry_auction",
+   "as_of": "2026-10-18"
+  },
+  "sources": {
+   "brightlocal_lcrs_2026": {
+    "name": "BrightLocal Local Consumer Review Survey 2026 (n=1,002 US adults)",
+    "url": "https://www.brightlocal.com/research/lcrs-ai-trust/",
+    "as_of": "2026"
+   },
+   "gkp_admiral": {
+    "name": "Google Keyword Planner export (US, 12-mo avg Sep 2025-Aug 2026; top-of-page bids converted INR->USD at 95.82 ECB 2026-09-25)",
+    "publisher": "Admiral (meetadmiral.com)",
+    "url": "https://meetadmiral.com/downloads/google-ads-cost-us-2025-09-to-2026-08.csv",
+    "as_of": "2026-08"
+   },
+   "nectiv": {
+    "name": "Nectiv study of 8,500+ ChatGPT prompts",
+    "url": "https://nectivdigital.com/blog/new-data-study-what-queries-is-chatgpt-using-behind-the-scenes",
+    "as_of": "2025"
+   },
+   "registry": {
+    "name": "This registry's own listings (OpenStreetMap-seeded, ODbL)",
+    "url": "https://dingalinged-cpu.github.io/registry/api/companies.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_auction": {
+    "name": "Registry keyword auction catalog and rules",
+    "url": "https://dingalinged-cpu.github.io/registry/api/keyword-prices.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_estimate": {
+    "name": "Registry estimate (CC-BY-4.0); method given on each value",
+    "url": "https://dingalinged-cpu.github.io/registry/market/",
+    "as_of": "2026-10-18"
+   },
+   "sagapixel_sel": {
+    "name": "Sagapixel ChatGPT local-services sessions, via Search Engine Land",
+    "url": "https://searchengineland.com/chatgpt-users-keywords-for-local-services-data-467715",
+    "as_of": "2026-01"
+   },
+   "soci_2026": {
+    "name": "SOCi Local Discovery Index 2026 (excerpt only, via pantora.ai)",
+    "url": "https://www.pantora.ai/blog/consumers-use-ai-to-find-local-businesses",
+    "as_of": "2026"
+   },
+   "wordstream_2025": {
+    "name": "WordStream Google Ads Benchmarks 2025 (16,446 US campaigns, Apr 2024-Mar 2025; median CPC and CTR by industry)",
+    "url": "https://www.wordstream.com/blog/2025-google-ads-benchmarks",
+    "as_of": "2025-03"
+   },
+   "wordstream_2026": {
+    "name": "LocaliQ/WordStream Search Advertising Benchmarks 2026 (US median CPC by industry)",
+    "url": "https://www.localiq.com/blog/search-advertising-benchmarks",
+    "as_of": "2026"
+   }
+  },
+  "license": {
+   "registry_estimates": "CC-BY-4.0",
+   "url": "https://creativecommons.org/licenses/by/4.0/",
+   "cited_figures": "attribute to the publishers in sources"
+  },
+  "as_of": "2026-10-18",
+  "api": "https://dingalinged-cpu.github.io/registry/api/market/hair-salon.json",
+  "rate_card": "https://dingalinged-cpu.github.io/registry/view/market.html#hair-salon-new-lenox-il"
+ }
+}

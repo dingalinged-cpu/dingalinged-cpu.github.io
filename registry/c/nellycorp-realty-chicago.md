@@ -1,0 +1,23 @@
+NellyCorp Realty is a property management company in Chicago, IL at 3025 North Western Avenue #1, Chicago, IL 60618. Phone: +17739291200. Website: https://www.nellycorprealty.com/.
+
+# NellyCorp Realty
+
+- Category: property management company
+- Services: property management company, property management companies
+- Address: 3025 North Western Avenue #1, Chicago, IL 60618
+- City: Chicago
+- State: IL
+- ZIP: 60618
+- Coordinates: 41.9366071, -87.6877578
+- Phone: +17739291200
+- Website: https://www.nellycorprealty.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/nellycorp-realty-chicago/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/nellycorp-realty-chicago.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12142130808 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

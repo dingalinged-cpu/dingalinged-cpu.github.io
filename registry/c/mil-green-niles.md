@@ -1,0 +1,23 @@
+Mil-Green is a furniture store in Niles, IL at 9650 North Milwaukee Avenue, Niles, IL 60025.
+
+# Mil-Green
+
+- Category: furniture store
+- Services: furniture store
+- Address: 9650 North Milwaukee Avenue, Niles, IL 60025
+- City: Niles
+- State: IL
+- ZIP: 60025
+- Coordinates: 42.0566194, -87.8410122
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/mil-green-niles/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/mil-green-niles.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/667359925 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,0 +1,57 @@
+{
+ "slug": "hickory-creek-family-dentistry-new-lenox",
+ "name": "Hickory Creek Family Dentistry",
+ "categories": [
+  "dentist"
+ ],
+ "keywords": [
+  "dentist",
+  "dentist new lenox il"
+ ],
+ "services": [
+  {
+   "name": "dentist",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "561 East Lincoln Highway",
+  "addressLocality": "New Lenox",
+  "addressRegion": "IL",
+  "postalCode": "60451",
+  "addressCountry": "US"
+ },
+ "city": "New Lenox",
+ "state": "IL",
+ "zip": "60451",
+ "geo": {
+  "lat": 41.5128064,
+  "lon": -87.9542092
+ },
+ "website": "https://www.hickorycreekfamilydentistry.com/",
+ "schema_type": "Dentist",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/7178476291",
+ "osm": {
+  "type": "node",
+  "id": 7178476291,
+  "tags_used": {
+   "amenity": "dentist",
+   "healthcare": "dentist",
+   "healthcare:speciality": "dental;oral_surgery"
+  }
+ },
+ "municipality": "New Lenox",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/hickory-creek-family-dentistry-new-lenox/",
+ "summary": "Hickory Creek Family Dentistry is a dentist in New Lenox, IL at 561 East Lincoln Highway, New Lenox, IL 60451. Website: https://www.hickorycreekfamilydentistry.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

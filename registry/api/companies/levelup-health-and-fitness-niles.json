@@ -1,0 +1,54 @@
+{
+ "slug": "levelup-health-and-fitness-niles",
+ "name": "LevelUp Health & Fitness",
+ "categories": [
+  "gym"
+ ],
+ "keywords": [
+  "gym",
+  "gym niles il"
+ ],
+ "services": [
+  {
+   "name": "gym",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "7025-7029 North Milwaukee Avenue",
+  "addressLocality": "Niles",
+  "addressRegion": "IL",
+  "postalCode": "60714",
+  "addressCountry": "US"
+ },
+ "city": "Niles",
+ "state": "IL",
+ "zip": "60714",
+ "geo": {
+  "lat": 42.0094145,
+  "lon": -87.7983584
+ },
+ "schema_type": "ExerciseGym",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/1500298262",
+ "osm": {
+  "type": "way",
+  "id": 1500298262,
+  "tags_used": {
+   "leisure": "fitness_centre"
+  }
+ },
+ "municipality": "Niles",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/levelup-health-and-fitness-niles/",
+ "summary": "LevelUp Health & Fitness is a gym in Niles, IL at 7025-7029 North Milwaukee Avenue, Niles, IL 60714.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,52 @@
+{
+ "slug": "brothers-hand-wash-and-auto-detail-mundelein",
+ "name": "Brothers Hand Wash and Auto Detail",
+ "categories": [
+  "car wash"
+ ],
+ "keywords": [
+  "car wash",
+  "car wash mundelein il"
+ ],
+ "services": [
+  {
+   "name": "car wash",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1274 Townline Road",
+  "addressLocality": "Mundelein",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Mundelein",
+ "state": "IL",
+ "geo": {
+  "lat": 42.2412615,
+  "lon": -87.9828206
+ },
+ "schema_type": "AutoWash",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/5449350639",
+ "osm": {
+  "type": "node",
+  "id": 5449350639,
+  "tags_used": {
+   "amenity": "car_wash"
+  }
+ },
+ "municipality": "Mundelein",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/brothers-hand-wash-and-auto-detail-mundelein/",
+ "summary": "Brothers Hand Wash and Auto Detail is a car wash in Mundelein, IL at 1274 Townline Road, Mundelein, IL.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

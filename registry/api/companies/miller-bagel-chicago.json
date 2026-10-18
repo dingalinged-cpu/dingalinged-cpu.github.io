@@ -1,0 +1,61 @@
+{
+ "slug": "miller-bagel-chicago",
+ "name": "Miller Bagel",
+ "categories": [
+  "bakery"
+ ],
+ "keywords": [
+  "bakery",
+  "bakery chicago il"
+ ],
+ "services": [
+  {
+   "name": "bakery",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "4655 North Lincoln Avenue",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60625",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60625",
+ "geo": {
+  "lat": 41.9663814,
+  "lon": -87.6868937
+ },
+ "phone": "+17736543610",
+ "website": "https://www.eatmillerbagel.com/",
+ "opening_hours": "We-Fr 08:00-15:00; Sa-Su 09:00-15:00",
+ "social": [
+  "https://www.facebook.com/Millerbagel",
+  "https://www.instagram.com/bagelmiller/"
+ ],
+ "schema_type": "Bakery",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/6264310729",
+ "osm": {
+  "type": "node",
+  "id": 6264310729,
+  "tags_used": {
+   "shop": "bakery"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/miller-bagel-chicago/",
+ "summary": "Miller Bagel is a bakery in Chicago, IL at 4655 North Lincoln Avenue, Chicago, IL 60625. Phone: +17736543610. Website: https://www.eatmillerbagel.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

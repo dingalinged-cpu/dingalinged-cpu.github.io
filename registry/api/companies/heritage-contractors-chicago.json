@@ -1,0 +1,63 @@
+{
+ "slug": "heritage-contractors-chicago",
+ "name": "Heritage Contractors",
+ "categories": [
+  "roofer"
+ ],
+ "keywords": [
+  "roofer",
+  "roofing contractor",
+  "roofer chicago il",
+  "roofing contractor chicago il"
+ ],
+ "services": [
+  {
+   "name": "roofer",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "roofing contractor",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "10800 South Campbell Avenue",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60655",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60655",
+ "geo": {
+  "lat": 41.6971007,
+  "lon": -87.6841064
+ },
+ "phone": "+17738870268",
+ "website": "https://www.heritagecontractors.net/",
+ "opening_hours": "Mo-Fr 09:00-17:00",
+ "schema_type": "RoofingContractor",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/6048860090",
+ "osm": {
+  "type": "node",
+  "id": 6048860090,
+  "tags_used": {
+   "craft": "roofer"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/heritage-contractors-chicago/",
+ "summary": "Heritage Contractors is a roofer in Chicago, IL at 10800 South Campbell Avenue, Chicago, IL 60655. Phone: +17738870268. Website: https://www.heritagecontractors.net/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

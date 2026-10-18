@@ -1,0 +1,64 @@
+{
+ "slug": "jiffy-lube-romeoville",
+ "name": "Jiffy Lube",
+ "categories": [
+  "auto repair"
+ ],
+ "keywords": [
+  "auto repair",
+  "mechanic",
+  "auto repair romeoville il",
+  "mechanic romeoville il"
+ ],
+ "services": [
+  {
+   "name": "auto repair",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "mechanic",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "653 Independence Boulevard",
+  "addressLocality": "Romeoville",
+  "addressRegion": "IL",
+  "postalCode": "60446",
+  "addressCountry": "US"
+ },
+ "city": "Romeoville",
+ "state": "IL",
+ "zip": "60446",
+ "geo": {
+  "lat": 41.6539834,
+  "lon": -88.0800775
+ },
+ "phone": "+18158865823",
+ "website": "https://www.jiffylube.com/",
+ "brand": "Jiffy Lube",
+ "wikidata": "Q6192247",
+ "schema_type": "AutoRepair",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/313908749",
+ "osm": {
+  "type": "way",
+  "id": 313908749,
+  "tags_used": {
+   "shop": "car_repair"
+  }
+ },
+ "municipality": "Romeoville",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/jiffy-lube-romeoville/",
+ "summary": "Jiffy Lube is an auto repair shop in Romeoville, IL at 653 Independence Boulevard, Romeoville, IL 60446. Phone: +18158865823. Website: https://www.jiffylube.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

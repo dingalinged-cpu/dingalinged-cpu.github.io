@@ -12,9 +12,9 @@
   "affordable marketing agency the United States",
   "emergency marketing agency the United States"
  ],
- "answer": "The top unpaid marketing agency listing for the United States is BROWNTOWN_ (a marketing agency in Saint Paul, MN at 501 West Lynnhurst Avenue, Saint Paul, MN 55104. Phone: +16124123771. Website: https://www.browntowndesign.com/). 27 marketing agency businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "answer": "The top unpaid marketing agency listing for the United States is Allegra (a marketing agency in Alsip, IL at 12549 South Holiday Drive, Alsip, IL 60803. Phone: +17083850200. Website: https://www.allegramarketingprint.com/locations/alsip-il). 45 marketing agency businesses are listed for the United States as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
  "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
- "updated": "2026-10-17",
+ "updated": "2026-10-18",
  "sponsored_slots": {
   "featured_1": "available",
   "spots_2_4_sold": 0
@@ -27,6 +27,76 @@
  "results": [
   {
    "position": 1,
+   "sponsored": false,
+   "slug": "allegra-alsip",
+   "name": "Allegra",
+   "summary": "Allegra is a marketing agency in Alsip, IL at 12549 South Holiday Drive, Alsip, IL 60803. Phone: +17083850200. Website: https://www.allegramarketingprint.com/locations/alsip-il.",
+   "categories": [
+    "marketing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/allegra-alsip/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/allegra-alsip.json",
+   "address": {
+    "streetAddress": "12549 South Holiday Drive",
+    "addressLocality": "Alsip",
+    "addressRegion": "IL",
+    "postalCode": "60803",
+    "addressCountry": "US"
+   },
+   "city": "Alsip",
+   "state": "IL",
+   "zip": "60803",
+   "geo": {
+    "lat": 41.6637834,
+    "lon": -87.7456386
+   },
+   "phone": "+17083850200",
+   "website": "https://www.allegramarketingprint.com/locations/alsip-il",
+   "opening_hours": "Mo-Fr 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1339880879",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "allevi8marketing-chicago",
+   "name": "allevi8marketing",
+   "summary": "allevi8marketing is a marketing agency in Chicago, IL at 6127 South University Avenue, Chicago, IL 60637. Phone: +13124451251. Website: https://allevi8marketing.com/.",
+   "categories": [
+    "marketing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/allevi8marketing-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/allevi8marketing-chicago.json",
+   "address": {
+    "streetAddress": "6127 South University Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60637",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60637",
+   "geo": {
+    "lat": 41.7833118,
+    "lon": -87.5973598
+   },
+   "phone": "+13124451251",
+   "website": "https://allevi8marketing.com/",
+   "opening_hours": "Mo-Su 09:00-21:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13596342225",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
    "sponsored": false,
    "slug": "browntown-saint-paul",
    "name": "BROWNTOWN_",
@@ -61,7 +131,77 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 2,
+   "position": 4,
+   "sponsored": false,
+   "slug": "drupe-designs-metaverse-marketing-chicago",
+   "name": "Drupe Designs - Metaverse Marketing",
+   "summary": "Drupe Designs - Metaverse Marketing is a marketing agency in Chicago, IL at 1035 West Addison Street #DD, Chicago, IL 60613. Phone: +17402481573. Website: https://www.drupe.me/.",
+   "categories": [
+    "marketing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/drupe-designs-metaverse-marketing-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/drupe-designs-metaverse-marketing-chicago.json",
+   "address": {
+    "streetAddress": "1035 West Addison Street #DD",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60613",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60613",
+   "geo": {
+    "lat": 41.9470723,
+    "lon": -87.6559443
+   },
+   "phone": "+17402481573",
+   "website": "https://www.drupe.me/",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9652747537",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "hop-models-and-talent-agency-chicago",
+   "name": "HOP Models & Talent Agency",
+   "summary": "HOP Models & Talent Agency is a marketing agency in Chicago, IL at 120 North Green Street #2B, Chicago, IL 60607. Phone: +13127715438. Website: https://hopmodels.syngency.com/.",
+   "categories": [
+    "marketing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hop-models-and-talent-agency-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hop-models-and-talent-agency-chicago.json",
+   "address": {
+    "streetAddress": "120 North Green Street #2B",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60607",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60607",
+   "geo": {
+    "lat": 41.8839588,
+    "lon": -87.6487648
+   },
+   "phone": "+13127715438",
+   "website": "https://hopmodels.syngency.com/",
+   "opening_hours": "Mo-Fr 10:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13580616280",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
    "sponsored": false,
    "slug": "ian-inc-edina",
    "name": "IAN Inc.",
@@ -96,7 +236,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 3,
+   "position": 7,
    "sponsored": false,
    "slug": "interactive-assist-minneapolis",
    "name": "InterActive Assist",
@@ -131,7 +271,77 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 4,
+   "position": 8,
+   "sponsored": false,
+   "slug": "kurman-communications-chicago",
+   "name": "Kurman Communications",
+   "summary": "Kurman Communications is a marketing agency in Chicago, IL at 2751 West Windsor Avenue, Chicago, IL 60625. Phone: +13125433928. Website: https://kurman.com/.",
+   "categories": [
+    "marketing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kurman-communications-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kurman-communications-chicago.json",
+   "address": {
+    "streetAddress": "2751 West Windsor Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60625",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60625",
+   "geo": {
+    "lat": 41.9637305,
+    "lon": -87.6981103
+   },
+   "phone": "+13125433928",
+   "website": "https://kurman.com/",
+   "opening_hours": "Mo-Fr 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11273893086",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "mikesell-digital-consulting-chicago",
+   "name": "Mikesell Digital Consulting",
+   "summary": "Mikesell Digital Consulting is a marketing agency in Chicago, IL at 1530 South State Street #506, Chicago, IL 60605. Phone: +17737038846. Website: https://mikeselldigital.com/.",
+   "categories": [
+    "marketing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mikesell-digital-consulting-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mikesell-digital-consulting-chicago.json",
+   "address": {
+    "streetAddress": "1530 South State Street #506",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60605",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60605",
+   "geo": {
+    "lat": 41.8610377,
+    "lon": -87.6278713
+   },
+   "phone": "+17737038846",
+   "website": "https://mikeselldigital.com/",
+   "opening_hours": "Mo-Fr 08:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5344268138",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
    "sponsored": false,
    "slug": "mono-minneapolis",
    "name": "MONO",
@@ -166,7 +376,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 5,
+   "position": 11,
    "sponsored": false,
    "slug": "ovative-group-minneapolis",
    "name": "Ovative Group",
@@ -201,7 +411,42 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 6,
+   "position": 12,
+   "sponsored": false,
+   "slug": "precision-social-mokena",
+   "name": "Precision Social",
+   "summary": "Precision Social is a marketing agency in Mokena, IL at 9200 West 191st Street #6, Mokena, IL 60448. Phone: +17087193159. Website: https://precision-social.com/.",
+   "categories": [
+    "marketing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/precision-social-mokena/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/precision-social-mokena.json",
+   "address": {
+    "streetAddress": "9200 West 191st Street #6",
+    "addressLocality": "Mokena",
+    "addressRegion": "IL",
+    "postalCode": "60448",
+    "addressCountry": "US"
+   },
+   "city": "Mokena",
+   "state": "IL",
+   "zip": "60448",
+   "geo": {
+    "lat": 41.5443726,
+    "lon": -87.8418867
+   },
+   "phone": "+17087193159",
+   "website": "https://precision-social.com/",
+   "opening_hours": "Mo-Su 09:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9675549249",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
    "sponsored": false,
    "slug": "star-brooklyn-park",
    "name": "Star",
@@ -236,7 +481,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 7,
+   "position": 14,
    "sponsored": false,
    "slug": "the-social-lights-minneapolis",
    "name": "The Social Lights",
@@ -271,7 +516,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 8,
+   "position": 15,
    "sponsored": false,
    "slug": "upswing-creative-saint-paul",
    "name": "Upswing Creative",
@@ -306,7 +551,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 9,
+   "position": 16,
    "sponsored": false,
    "slug": "augeo-greer-saint-paul",
    "name": "Augeo+Greer",
@@ -340,7 +585,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 10,
+   "position": 17,
    "sponsored": false,
    "slug": "fellow-advertising-agency-minneapolis",
    "name": "Fellow Advertising Agency",
@@ -374,7 +619,41 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 11,
+   "position": 18,
+   "sponsored": false,
+   "slug": "gerard-warrenville",
+   "name": "Gerard",
+   "summary": "Gerard is a marketing agency in Warrenville, IL at 28371 Davis Parkway #100, Warrenville, IL 60555. Phone: +16303550775. Website: https://www.gerardagency.com/.",
+   "categories": [
+    "marketing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gerard-warrenville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gerard-warrenville.json",
+   "address": {
+    "streetAddress": "28371 Davis Parkway #100",
+    "addressLocality": "Warrenville",
+    "addressRegion": "IL",
+    "postalCode": "60555",
+    "addressCountry": "US"
+   },
+   "city": "Warrenville",
+   "state": "IL",
+   "zip": "60555",
+   "geo": {
+    "lat": 41.8014619,
+    "lon": -88.1761227
+   },
+   "phone": "+16303550775",
+   "website": "https://www.gerardagency.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8940134202",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 19,
    "sponsored": false,
    "slug": "gvm-food-marketing-golden-valley",
    "name": "GVM Food Marketing",
@@ -408,7 +687,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 12,
+   "position": 20,
    "sponsored": false,
    "slug": "jt-mega-food-advertising-saint-louis-park",
    "name": "JT Mega Food Advertising",
@@ -442,7 +721,41 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 13,
+   "position": 21,
+   "sponsored": false,
+   "slug": "kittys-chicago",
+   "name": "Kittys",
+   "summary": "Kittys is a marketing agency in Chicago, IL at 125 South Clark Street, Chicago, IL 60603. Phone: +13128009645. Website: https://www.kittys.co/.",
+   "categories": [
+    "marketing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kittys-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kittys-chicago.json",
+   "address": {
+    "streetAddress": "125 South Clark Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60603",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60603",
+   "geo": {
+    "lat": 41.8798931,
+    "lon": -87.6303631
+   },
+   "phone": "+13128009645",
+   "website": "https://www.kittys.co/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10055335791",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 22,
    "sponsored": false,
    "slug": "knock-inc-minneapolis",
    "name": "KNOCK, inc.",
@@ -476,7 +789,41 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 14,
+   "position": 23,
+   "sponsored": false,
+   "slug": "maclyn-naperville",
+   "name": "Maclyn",
+   "summary": "Maclyn is a marketing agency in Naperville, IL at 1573 Naperville-Wheaton Road, Naperville, IL 60563. Phone: +16308522057. Website: https://maclyngroup.com/.",
+   "categories": [
+    "marketing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/maclyn-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/maclyn-naperville.json",
+   "address": {
+    "streetAddress": "1573 Naperville-Wheaton Road",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60563",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60563",
+   "geo": {
+    "lat": 41.7982803,
+    "lon": -88.1216508
+   },
+   "phone": "+16308522057",
+   "website": "https://maclyngroup.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1229586141",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 24,
    "sponsored": false,
    "slug": "mo-digital-services-roseville",
    "name": "MO Digital Services",
@@ -510,7 +857,75 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 15,
+   "position": 25,
+   "sponsored": false,
+   "slug": "pledgemine-warrenville",
+   "name": "Pledgemine",
+   "summary": "Pledgemine is a marketing agency in Warrenville, IL at 4630 Weaver Parkway, Warrenville, IL 60555. Phone: +16305418480. Website: https://www.pledgemine.com/.",
+   "categories": [
+    "marketing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pledgemine-warrenville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pledgemine-warrenville.json",
+   "address": {
+    "streetAddress": "4630 Weaver Parkway",
+    "addressLocality": "Warrenville",
+    "addressRegion": "IL",
+    "postalCode": "60555",
+    "addressCountry": "US"
+   },
+   "city": "Warrenville",
+   "state": "IL",
+   "zip": "60555",
+   "geo": {
+    "lat": 41.8017572,
+    "lon": -88.1616256
+   },
+   "phone": "+16305418480",
+   "website": "https://www.pledgemine.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/524604828",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 26,
+   "sponsored": false,
+   "slug": "rhea-kaiser-naperville",
+   "name": "Rhea + Kaiser",
+   "summary": "Rhea + Kaiser is a marketing agency in Naperville, IL at 400 East Diehl Road, Naperville, IL 60563. Phone: +16305051100. Website: https://www.rkconnect.com/.",
+   "categories": [
+    "marketing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rhea-kaiser-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rhea-kaiser-naperville.json",
+   "address": {
+    "streetAddress": "400 East Diehl Road",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60563",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60563",
+   "geo": {
+    "lat": 41.8024496,
+    "lon": -88.1414558
+   },
+   "phone": "+16305051100",
+   "website": "https://www.rkconnect.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9178995751",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 27,
    "sponsored": false,
    "slug": "right-turn-recruiting-inc-rtr-saint-louis-park",
    "name": "Right Turn Recruiting, Inc (RTR)",
@@ -544,7 +959,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 16,
+   "position": 28,
    "sponsored": false,
    "slug": "scales-advertising-saint-paul",
    "name": "Scales Advertising",
@@ -578,7 +993,41 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 17,
+   "position": 29,
+   "sponsored": false,
+   "slug": "scube-marketing-oakbrook-terrace",
+   "name": "SCUBE Marketing",
+   "summary": "SCUBE Marketing is a marketing agency in Oakbrook Terrace, IL at 1 Mid America Plaza #Floor 3, Suite 1905, Oakbrook Terrace, IL 60181. Phone: +17086956168. Website: https://www.scubemarketing.com/.",
+   "categories": [
+    "marketing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/scube-marketing-oakbrook-terrace/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/scube-marketing-oakbrook-terrace.json",
+   "address": {
+    "streetAddress": "1 Mid America Plaza #Floor 3, Suite 1905",
+    "addressLocality": "Oakbrook Terrace",
+    "addressRegion": "IL",
+    "postalCode": "60181",
+    "addressCountry": "US"
+   },
+   "city": "Oakbrook Terrace",
+   "state": "IL",
+   "zip": "60181",
+   "geo": {
+    "lat": 41.8479427,
+    "lon": -87.9584352
+   },
+   "phone": "+17086956168",
+   "website": "https://www.scubemarketing.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13659405565",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 30,
    "sponsored": false,
    "slug": "taiyo-international-golden-valley",
    "name": "Taiyo International",
@@ -612,7 +1061,41 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 18,
+   "position": 31,
+   "sponsored": false,
+   "slug": "tweyen-arlington-heights",
+   "name": "Tweyen",
+   "summary": "Tweyen is a marketing agency in Arlington Heights, IL at 320 West Northwest Highway, Arlington Heights, IL 60004. Phone: +18477490143. Website: https://tweyen.com/.",
+   "categories": [
+    "marketing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tweyen-arlington-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tweyen-arlington-heights.json",
+   "address": {
+    "streetAddress": "320 West Northwest Highway",
+    "addressLocality": "Arlington Heights",
+    "addressRegion": "IL",
+    "postalCode": "60004",
+    "addressCountry": "US"
+   },
+   "city": "Arlington Heights",
+   "state": "IL",
+   "zip": "60004",
+   "geo": {
+    "lat": 42.0865034,
+    "lon": -87.9875775
+   },
+   "phone": "+18477490143",
+   "website": "https://tweyen.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/611283946",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 32,
    "sponsored": false,
    "slug": "authentic-form-and-function-minneapolis",
    "name": "Authentic Form & Function",
@@ -646,7 +1129,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 19,
+   "position": 33,
    "sponsored": false,
    "slug": "bcpr-north-minneapolis",
    "name": "BCPR North",
@@ -680,7 +1163,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 20,
+   "position": 34,
    "sponsored": false,
    "slug": "digital-impact-solutions-shakopee",
    "name": "Digital Impact Solutions",
@@ -714,7 +1197,40 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 21,
+   "position": 35,
+   "sponsored": false,
+   "slug": "johnson-and-quin-inc-niles",
+   "name": "Johnson & Quin, Inc.",
+   "summary": "Johnson & Quin, Inc. is a marketing agency in Niles, IL at 7460 North Lehigh Avenue, Niles, IL 60714. Website: https://www.j-quin.com/.",
+   "categories": [
+    "marketing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/johnson-and-quin-inc-niles/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/johnson-and-quin-inc-niles.json",
+   "address": {
+    "streetAddress": "7460 North Lehigh Avenue",
+    "addressLocality": "Niles",
+    "addressRegion": "IL",
+    "postalCode": "60714",
+    "addressCountry": "US"
+   },
+   "city": "Niles",
+   "state": "IL",
+   "zip": "60714",
+   "geo": {
+    "lat": 42.0173221,
+    "lon": -87.7770791
+   },
+   "website": "https://www.j-quin.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/203688511",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 36,
    "sponsored": false,
    "slug": "red-e-print-inc-saint-paul",
    "name": "Red E Print, Inc.",
@@ -747,7 +1263,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 22,
+   "position": 37,
    "sponsored": false,
    "slug": "rocket55-minneapolis",
    "name": "Rocket55",
@@ -780,7 +1296,40 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 23,
+   "position": 38,
+   "sponsored": false,
+   "slug": "seoclarity-and-localclarity-chicago",
+   "name": "seoClarity & LocalClarity",
+   "summary": "seoClarity & LocalClarity is a marketing agency in Chicago, IL at 101 North Wacker Drive #110, Chicago, IL 60606. Website: https://www.seoclarity.net/.",
+   "categories": [
+    "marketing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/seoclarity-and-localclarity-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/seoclarity-and-localclarity-chicago.json",
+   "address": {
+    "streetAddress": "101 North Wacker Drive #110",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60606",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60606",
+   "geo": {
+    "lat": 41.8834271,
+    "lon": -87.6365841
+   },
+   "website": "https://www.seoclarity.net/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12485461653",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 39,
    "sponsored": false,
    "slug": "tad-ware-and-company-minneapolis",
    "name": "Tad Ware & Company",
@@ -813,7 +1362,70 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 24,
+   "position": 40,
+   "sponsored": false,
+   "slug": "travel-brands-group-chicago",
+   "name": "Travel Brands Group",
+   "summary": "Travel Brands Group is a marketing agency in Chicago, IL at 332 South Michigan Avenue #Suite 1032-M227, Chicago, IL 60604. Website: https://travelbrandsgroup.com/.",
+   "categories": [
+    "marketing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/travel-brands-group-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/travel-brands-group-chicago.json",
+   "address": {
+    "streetAddress": "332 South Michigan Avenue #Suite 1032-M227",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60604",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60604",
+   "geo": {
+    "lat": 41.8774647,
+    "lon": -87.6247761
+   },
+   "website": "https://travelbrandsgroup.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6579996897",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 41,
+   "sponsored": false,
+   "slug": "americameagle-com-lisle",
+   "name": "americameagle.com",
+   "summary": "americameagle.com is a marketing agency in Lisle, IL. Website: https://americaneagle.com/.",
+   "categories": [
+    "marketing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/americameagle-com-lisle/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/americameagle-com-lisle.json",
+   "address": {
+    "addressLocality": "Lisle",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Lisle",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8081461,
+    "lon": -88.0716231
+   },
+   "website": "https://americaneagle.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11474716924",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 42,
    "sponsored": false,
    "slug": "cedar-printing-saint-paul",
    "name": "Cedar Printing",
@@ -843,7 +1455,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 25,
+   "position": 43,
    "sponsored": false,
    "slug": "mars-advertising-saint-louis-park",
    "name": "Mars Advertising",
@@ -875,7 +1487,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 26,
+   "position": 44,
    "sponsored": false,
    "slug": "tsg-the-steinhauser-group-robbinsdale",
    "name": "TSG | The Steinhauser Group",
@@ -907,7 +1519,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 27,
+   "position": 45,
    "sponsored": false,
    "slug": "jumpercable-marketing-minneapolis",
    "name": "JumperCable Marketing",
@@ -936,5 +1548,224 @@
    "source_url": "https://www.openstreetmap.org/node/12983410406",
    "last_checked": "2026-10-17"
   }
- ]
+ ],
+ "market": {
+  "keyword": "marketing agency",
+  "slug": "marketing-agency",
+  "base_keyword": "marketing agency",
+  "scope": "national",
+  "city": null,
+  "state": null,
+  "category": "Professional & financial services",
+  "industry": "Finance & Insurance",
+  "us_monthly_searches": {
+   "value": 40000,
+   "range": [
+    33000,
+    50000
+   ],
+   "method": "estimate",
+   "estimate_method": "median of 8 cited US volumes for 'med'-demand keywords in category 'Professional & financial services' (local_services research); rounded to 2 significant figures; range = 25th-75th percentile",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "confidence": "low"
+  },
+  "local_monthly_searches": null,
+  "cpc_usd": {
+   "industry_benchmark": "Finance & Insurance",
+   "low_usd": 3.39,
+   "median_usd": 3.39,
+   "high_usd": 3.46,
+   "method": "published benchmarks: low/high = range of the industry and sub-industry median CPCs listed in 'figures'; median = most specific benchmark",
+   "figures": [
+    {
+     "usd": 3.39,
+     "label": "Finance & Insurance median CPC 2026",
+     "source": "wordstream_2026"
+    },
+    {
+     "usd": 3.46,
+     "label": "Finance & Insurance median CPC 2025",
+     "source": "wordstream_2025"
+    }
+   ],
+   "source": "wordstream_2026",
+   "as_of": "2026",
+   "basis_for_value": {
+    "usd": 3.39,
+    "method": "benchmark median CPC",
+    "source": "wordstream_2026"
+   }
+  },
+  "ctr_pct": {
+   "value": 8.33,
+   "label": "Finance & Insurance average search-ad CTR 2025",
+   "source": "wordstream_2025",
+   "as_of": "2025-03"
+  },
+  "competition": {
+   "level": "low",
+   "method": "proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research)",
+   "source": "wordstream_2026",
+   "as_of": "2026"
+  },
+  "trend": null,
+  "seasonality": {
+   "value": null,
+   "note": "No seasonality data in the research sources for this keyword."
+  },
+  "ai_query": {
+   "text": "No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.",
+   "figures": [
+    {
+     "value": "45%",
+     "label": "US adults using AI for local recommendations",
+     "source": "brightlocal_lcrs_2026"
+    },
+    {
+     "value": "75%",
+     "label": "sessions with keyword-style prompts",
+     "source": "sagapixel_sel"
+    },
+    {
+     "value": "59%",
+     "label": "local-intent prompts that triggered web search",
+     "source": "nectiv"
+    }
+   ],
+   "as_of": "2026"
+  },
+  "registry_competitors": {
+   "value": 45,
+   "slugs": [
+    "allegra-alsip",
+    "allevi8marketing-chicago",
+    "americameagle-com-lisle",
+    "augeo-greer-saint-paul",
+    "authentic-form-and-function-minneapolis",
+    "bcpr-north-minneapolis",
+    "browntown-saint-paul",
+    "cedar-printing-saint-paul",
+    "digital-impact-solutions-shakopee",
+    "drupe-designs-metaverse-marketing-chicago"
+   ],
+   "method_id": "competitors",
+   "source": "registry",
+   "as_of": "2026-10-18",
+   "urls": [
+    "https://dingalinged-cpu.github.io/registry/c/allegra-alsip/",
+    "https://dingalinged-cpu.github.io/registry/c/allevi8marketing-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/americameagle-com-lisle/",
+    "https://dingalinged-cpu.github.io/registry/c/augeo-greer-saint-paul/",
+    "https://dingalinged-cpu.github.io/registry/c/authentic-form-and-function-minneapolis/",
+    "https://dingalinged-cpu.github.io/registry/c/bcpr-north-minneapolis/",
+    "https://dingalinged-cpu.github.io/registry/c/browntown-saint-paul/",
+    "https://dingalinged-cpu.github.io/registry/c/cedar-printing-saint-paul/",
+    "https://dingalinged-cpu.github.io/registry/c/digital-impact-solutions-shakopee/",
+    "https://dingalinged-cpu.github.io/registry/c/drupe-designs-metaverse-marketing-chicago/"
+   ],
+   "method": "count of registry listings tagged with the keyword (city/national) or with the base service in the same state (state keywords)"
+  },
+  "agent_demand": null,
+  "agent_demand_note": "Not yet measured. Will carry AI-agent query counts from the registry's agent analytics (contract: meta.agent_demand_contract in the market index).",
+  "equivalent_google_ads_cost_month": {
+   "value_usd": 11000,
+   "method": "estimate",
+   "method_id": "google_ads_equiv",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote."
+  },
+  "search_value_index": {
+   "value_usd": 140000,
+   "method": "estimate",
+   "method_id": "value_index",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: search value index = monthly searches x CPC basis; an advertiser-value ranking signal, not revenue; rounded to 2 significant figures."
+  },
+  "auction": {
+   "featured_spot_min_usd": 250,
+   "spots_2_to_4_min_usd": 25,
+   "tier": "high",
+   "pricing_rule": "tier minimum (premium $500, high $250, mid $100, standard $50) for national keywords; city = max($10, 20% of tier); state = max($10, 35% of tier); spots 2-4 open at 10% of the featured minimum",
+   "model": "Monthly auction in the last 7 days of each month: days 1-5 bid for the Featured #1 spot, days 6-7 for spots 2-4; winners display all next month; all paid spots labeled Sponsored.",
+   "next_auctions": [
+    {
+     "display_month": "2026-11",
+     "featured_spot_bidding": [
+      "2026-10-25",
+      "2026-10-29"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-10-30",
+      "2026-10-31"
+     ]
+    },
+    {
+     "display_month": "2026-12",
+     "featured_spot_bidding": [
+      "2026-11-24",
+      "2026-11-28"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-11-29",
+      "2026-11-30"
+     ]
+    }
+   ],
+   "source": "registry_auction",
+   "as_of": "2026-10-18"
+  },
+  "sources": {
+   "brightlocal_lcrs_2026": {
+    "name": "BrightLocal Local Consumer Review Survey 2026 (n=1,002 US adults)",
+    "url": "https://www.brightlocal.com/research/lcrs-ai-trust/",
+    "as_of": "2026"
+   },
+   "nectiv": {
+    "name": "Nectiv study of 8,500+ ChatGPT prompts",
+    "url": "https://nectivdigital.com/blog/new-data-study-what-queries-is-chatgpt-using-behind-the-scenes",
+    "as_of": "2025"
+   },
+   "registry": {
+    "name": "This registry's own listings (OpenStreetMap-seeded, ODbL)",
+    "url": "https://dingalinged-cpu.github.io/registry/api/companies.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_auction": {
+    "name": "Registry keyword auction catalog and rules",
+    "url": "https://dingalinged-cpu.github.io/registry/api/keyword-prices.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_estimate": {
+    "name": "Registry estimate (CC-BY-4.0); method given on each value",
+    "url": "https://dingalinged-cpu.github.io/registry/market/",
+    "as_of": "2026-10-18"
+   },
+   "sagapixel_sel": {
+    "name": "Sagapixel ChatGPT local-services sessions, via Search Engine Land",
+    "url": "https://searchengineland.com/chatgpt-users-keywords-for-local-services-data-467715",
+    "as_of": "2026-01"
+   },
+   "wordstream_2025": {
+    "name": "WordStream Google Ads Benchmarks 2025 (16,446 US campaigns, Apr 2024-Mar 2025; median CPC and CTR by industry)",
+    "url": "https://www.wordstream.com/blog/2025-google-ads-benchmarks",
+    "as_of": "2025-03"
+   },
+   "wordstream_2026": {
+    "name": "LocaliQ/WordStream Search Advertising Benchmarks 2026 (US median CPC by industry)",
+    "url": "https://www.localiq.com/blog/search-advertising-benchmarks",
+    "as_of": "2026"
+   }
+  },
+  "license": {
+   "registry_estimates": "CC-BY-4.0",
+   "url": "https://creativecommons.org/licenses/by/4.0/",
+   "cited_figures": "attribute to the publishers in sources"
+  },
+  "as_of": "2026-10-18",
+  "api": "https://dingalinged-cpu.github.io/registry/api/market/marketing-agency.json",
+  "rate_card": "https://dingalinged-cpu.github.io/registry/view/market.html#marketing-agency"
+ }
 }

@@ -1,0 +1,64 @@
+{
+ "slug": "lamber-goodnow-injury-lawyers-chicago-chicago",
+ "name": "Lamber Goodnow Injury Lawyers Chicago",
+ "categories": [
+  "lawyer"
+ ],
+ "keywords": [
+  "lawyer",
+  "attorney",
+  "lawyer chicago il",
+  "attorney chicago il"
+ ],
+ "services": [
+  {
+   "name": "lawyer",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "attorney",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "141 West Jackson Boulevard #4219",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60604",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60604",
+ "geo": {
+  "lat": 41.8778832,
+  "lon": -87.6323243
+ },
+ "phone": "+13127577777",
+ "website": "https://lambergoodnow.com/chicago",
+ "email": "info@lambergoodnow.com",
+ "opening_hours": "24/7",
+ "schema_type": "LegalService",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/9613380876",
+ "osm": {
+  "type": "node",
+  "id": 9613380876,
+  "tags_used": {
+   "office": "lawyer"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/lamber-goodnow-injury-lawyers-chicago-chicago/",
+ "summary": "Lamber Goodnow Injury Lawyers Chicago is a lawyer in Chicago, IL at 141 West Jackson Boulevard #4219, Chicago, IL 60604. Phone: +13127577777. Website: https://lambergoodnow.com/chicago.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,59 @@
+{
+ "slug": "petsmart-niles",
+ "name": "PetSmart",
+ "categories": [
+  "pet store"
+ ],
+ "keywords": [
+  "pet store",
+  "pet store niles il"
+ ],
+ "services": [
+  {
+   "name": "pet store",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "8287 West Golf Road",
+  "addressLocality": "Niles",
+  "addressRegion": "IL",
+  "postalCode": "60714",
+  "addressCountry": "US"
+ },
+ "city": "Niles",
+ "state": "IL",
+ "zip": "60714",
+ "geo": {
+  "lat": 42.0522928,
+  "lon": -87.8345637
+ },
+ "phone": "+18479960867",
+ "website": "https://www.petsmart.com/stores/us/il/niles-store1262.html",
+ "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+ "brand": "PetSmart",
+ "wikidata": "Q3307147",
+ "schema_type": "PetStore",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/366203475",
+ "osm": {
+  "type": "way",
+  "id": 366203475,
+  "tags_used": {
+   "shop": "pet"
+  }
+ },
+ "municipality": "Niles",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/petsmart-niles/",
+ "summary": "PetSmart is a pet store in Niles, IL at 8287 West Golf Road, Niles, IL 60714. Phone: +18479960867. Website: https://www.petsmart.com/stores/us/il/niles-store1262.html.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

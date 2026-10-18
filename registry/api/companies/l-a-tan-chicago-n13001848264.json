@@ -1,0 +1,52 @@
+{
+ "slug": "l-a-tan-chicago-n13001848264",
+ "name": "L.A. Tan",
+ "categories": [
+  "tanning salon"
+ ],
+ "keywords": [
+  "tanning salon",
+  "tanning salon chicago il"
+ ],
+ "services": [
+  {
+   "name": "tanning salon",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "geo": {
+  "lat": 41.8818735,
+  "lon": -87.6503025
+ },
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/13001848264",
+ "osm": {
+  "type": "node",
+  "id": 13001848264,
+  "tags_used": {
+   "shop": "beauty",
+   "beauty": "tanning"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/l-a-tan-chicago-n13001848264/",
+ "summary": "L.A. Tan is a tanning salon in Chicago, IL.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

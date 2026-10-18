@@ -1,0 +1,23 @@
+Heritage Cleaners is a dry cleaner in Naperville, IL at 1212 South Naper Boulevard, Naperville, IL 60540.
+
+# Heritage Cleaners
+
+- Category: dry cleaners
+- Services: dry cleaners
+- Address: 1212 South Naper Boulevard, Naperville, IL 60540
+- City: Naperville
+- State: IL
+- ZIP: 60540
+- Coordinates: 41.7508828, -88.1130064
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/heritage-cleaners-naperville/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/heritage-cleaners-naperville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1441749338 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

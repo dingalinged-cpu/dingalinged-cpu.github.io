@@ -1,0 +1,23 @@
+The Lock Up is a self-storage facility in Northfield, IL at 800 Frontage Road, Northfield, IL 60093.
+
+# The Lock Up
+
+- Category: storage units
+- Services: storage units
+- Address: 800 Frontage Road, Northfield, IL 60093
+- City: Northfield
+- State: IL
+- ZIP: 60093
+- Coordinates: 42.1133899, -87.777133
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/the-lock-up-northfield/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-lock-up-northfield.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1305269355 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

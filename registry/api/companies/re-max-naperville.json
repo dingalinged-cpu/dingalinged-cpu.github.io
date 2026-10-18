@@ -1,0 +1,63 @@
+{
+ "slug": "re-max-naperville",
+ "name": "RE/MAX",
+ "categories": [
+  "real estate agent"
+ ],
+ "keywords": [
+  "real estate agent",
+  "realtor",
+  "real estate agent naperville il",
+  "realtor naperville il"
+ ],
+ "services": [
+  {
+   "name": "real estate agent",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "realtor",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1220 Iroquois Avenue #100",
+  "addressLocality": "Naperville",
+  "addressRegion": "IL",
+  "postalCode": "60563",
+  "addressCountry": "US"
+ },
+ "city": "Naperville",
+ "state": "IL",
+ "zip": "60563",
+ "geo": {
+  "lat": 41.7945633,
+  "lon": -88.1248704
+ },
+ "website": "https://www.remax.com/real-estate-offices/remax-of-naperville-naperville-il/100425600",
+ "brand": "RE/MAX",
+ "wikidata": "Q965845",
+ "schema_type": "RealEstateAgent",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/9104706321",
+ "osm": {
+  "type": "node",
+  "id": 9104706321,
+  "tags_used": {
+   "office": "estate_agent"
+  }
+ },
+ "municipality": "Naperville",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/re-max-naperville/",
+ "summary": "RE/MAX is a real estate agency in Naperville, IL at 1220 Iroquois Avenue #100, Naperville, IL 60563. Website: https://www.remax.com/real-estate-offices/remax-of-naperville-naperville-il/100425600.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

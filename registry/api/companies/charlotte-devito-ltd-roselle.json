@@ -1,0 +1,62 @@
+{
+ "slug": "charlotte-devito-ltd-roselle",
+ "name": "Charlotte DeVito Ltd",
+ "categories": [
+  "tax preparation"
+ ],
+ "keywords": [
+  "tax preparation",
+  "tax preparer",
+  "tax preparation roselle il",
+  "tax preparer roselle il"
+ ],
+ "services": [
+  {
+   "name": "tax preparation",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "tax preparer",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "230 West Devon Avenue",
+  "addressLocality": "Roselle",
+  "addressRegion": "IL",
+  "postalCode": "60172",
+  "addressCountry": "US"
+ },
+ "city": "Roselle",
+ "state": "IL",
+ "zip": "60172",
+ "geo": {
+  "lat": 41.9907177,
+  "lon": -88.0873039
+ },
+ "phone": "+16308943101",
+ "website": "https://www.charlottedevitoltd-il.com/",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/6378215393",
+ "osm": {
+  "type": "node",
+  "id": 6378215393,
+  "tags_used": {
+   "office": "tax_advisor"
+  }
+ },
+ "municipality": "Roselle",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/charlotte-devito-ltd-roselle/",
+ "summary": "Charlotte DeVito Ltd is a tax preparation service in Roselle, IL at 230 West Devon Avenue, Roselle, IL 60172. Phone: +16308943101. Website: https://www.charlottedevitoltd-il.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

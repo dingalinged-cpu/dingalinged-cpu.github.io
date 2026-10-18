@@ -1,0 +1,57 @@
+{
+ "slug": "lincoln-square-athletic-club-chicago",
+ "name": "Lincoln Square Athletic Club",
+ "categories": [
+  "gym"
+ ],
+ "keywords": [
+  "gym",
+  "gym chicago il"
+ ],
+ "services": [
+  {
+   "name": "gym",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "4662 North Lincoln Avenue",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60625",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60625",
+ "geo": {
+  "lat": 41.9664498,
+  "lon": -87.6874593
+ },
+ "phone": "+17735292023",
+ "website": "https://www.chicagoathleticclubs.com/locations/lincoln-square/",
+ "opening_hours": "Mo-Th 05:30-21:00; Sa-Su 07:00-19:00; Fr 05:30-20:00",
+ "schema_type": "ExerciseGym",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/209477980",
+ "osm": {
+  "type": "way",
+  "id": 209477980,
+  "tags_used": {
+   "leisure": "fitness_centre"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/lincoln-square-athletic-club-chicago/",
+ "summary": "Lincoln Square Athletic Club is a gym in Chicago, IL at 4662 North Lincoln Avenue, Chicago, IL 60625. Phone: +17735292023. Website: https://www.chicagoathleticclubs.com/locations/lincoln-square/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

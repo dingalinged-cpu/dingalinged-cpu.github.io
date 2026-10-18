@@ -1,0 +1,54 @@
+{
+ "slug": "form-follows-fitness-chicago",
+ "name": "Form Follows Fitness",
+ "categories": [
+  "gym"
+ ],
+ "keywords": [
+  "gym",
+  "gym chicago il"
+ ],
+ "services": [
+  {
+   "name": "gym",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "2110 West Irving Park Road",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60618",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60618",
+ "geo": {
+  "lat": 41.9542838,
+  "lon": -87.6817218
+ },
+ "schema_type": "ExerciseGym",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/13143190101",
+ "osm": {
+  "type": "node",
+  "id": 13143190101,
+  "tags_used": {
+   "leisure": "fitness_centre"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/form-follows-fitness-chicago/",
+ "summary": "Form Follows Fitness is a gym in Chicago, IL at 2110 West Irving Park Road, Chicago, IL 60618.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

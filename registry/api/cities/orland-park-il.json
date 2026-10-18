@@ -1,0 +1,3273 @@
+{
+ "place": "Orland Park, IL",
+ "slug": "orland-park-il",
+ "count": 102,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "attorney orland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/attorney-orland-park-il.json"
+  },
+  {
+   "keyword": "auto repair orland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-orland-park-il.json"
+  },
+  {
+   "keyword": "bakery orland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/bakery-orland-park-il.json"
+  },
+  {
+   "keyword": "bike shop orland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/bike-shop-orland-park-il.json"
+  },
+  {
+   "keyword": "brake repair orland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/brake-repair-orland-park-il.json"
+  },
+  {
+   "keyword": "car wash orland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-orland-park-il.json"
+  },
+  {
+   "keyword": "chiropractor orland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/chiropractor-orland-park-il.json"
+  },
+  {
+   "keyword": "dance studio orland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dance-studio-orland-park-il.json"
+  },
+  {
+   "keyword": "dentist orland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-orland-park-il.json"
+  },
+  {
+   "keyword": "dermatologist orland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dermatologist-orland-park-il.json"
+  },
+  {
+   "keyword": "dry cleaners orland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dry-cleaners-orland-park-il.json"
+  },
+  {
+   "keyword": "event venues orland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/event-venues-orland-park-il.json"
+  },
+  {
+   "keyword": "facial orland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/facial-orland-park-il.json"
+  },
+  {
+   "keyword": "financial advisor orland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/financial-advisor-orland-park-il.json"
+  },
+  {
+   "keyword": "furniture store orland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/furniture-store-orland-park-il.json"
+  },
+  {
+   "keyword": "gift shop orland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gift-shop-orland-park-il.json"
+  },
+  {
+   "keyword": "gym orland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-orland-park-il.json"
+  },
+  {
+   "keyword": "hair salon orland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-orland-park-il.json"
+  },
+  {
+   "keyword": "haircut orland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-orland-park-il.json"
+  },
+  {
+   "keyword": "heating and air orland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/heating-and-air-orland-park-il.json"
+  },
+  {
+   "keyword": "hvac repair orland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hvac-repair-orland-park-il.json"
+  },
+  {
+   "keyword": "insurance agency orland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-orland-park-il.json"
+  },
+  {
+   "keyword": "insurance agent orland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-orland-park-il.json"
+  },
+  {
+   "keyword": "insurance agents orland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-orland-park-il.json"
+  },
+  {
+   "keyword": "jewelry store orland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/jewelry-store-orland-park-il.json"
+  },
+  {
+   "keyword": "lawyer orland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/lawyer-orland-park-il.json"
+  },
+  {
+   "keyword": "liquor store orland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/liquor-store-orland-park-il.json"
+  },
+  {
+   "keyword": "massage orland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/massage-orland-park-il.json"
+  },
+  {
+   "keyword": "mattress store orland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mattress-store-orland-park-il.json"
+  },
+  {
+   "keyword": "mechanic orland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-orland-park-il.json"
+  },
+  {
+   "keyword": "movers orland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/movers-orland-park-il.json"
+  },
+  {
+   "keyword": "moving company orland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/moving-company-orland-park-il.json"
+  },
+  {
+   "keyword": "music lessons orland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/music-lessons-orland-park-il.json"
+  },
+  {
+   "keyword": "nail salon orland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/nail-salon-orland-park-il.json"
+  },
+  {
+   "keyword": "oil change orland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/oil-change-orland-park-il.json"
+  },
+  {
+   "keyword": "pet store orland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/pet-store-orland-park-il.json"
+  },
+  {
+   "keyword": "phone repair orland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/phone-repair-orland-park-il.json"
+  },
+  {
+   "keyword": "physical therapy orland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/physical-therapy-orland-park-il.json"
+  },
+  {
+   "keyword": "preschool orland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/preschool-orland-park-il.json"
+  },
+  {
+   "keyword": "printing services orland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/printing-services-orland-park-il.json"
+  },
+  {
+   "keyword": "property management companies orland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/property-management-companies-orland-park-il.json"
+  },
+  {
+   "keyword": "property management company orland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/property-management-company-orland-park-il.json"
+  },
+  {
+   "keyword": "roofer orland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/roofer-orland-park-il.json"
+  },
+  {
+   "keyword": "roofing contractor orland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/roofing-contractor-orland-park-il.json"
+  },
+  {
+   "keyword": "storage units orland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/storage-units-orland-park-il.json"
+  },
+  {
+   "keyword": "therapist orland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/therapist-orland-park-il.json"
+  },
+  {
+   "keyword": "thrift store orland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/thrift-store-orland-park-il.json"
+  },
+  {
+   "keyword": "tire shop orland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tire-shop-orland-park-il.json"
+  },
+  {
+   "keyword": "urgent care orland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/urgent-care-orland-park-il.json"
+  },
+  {
+   "keyword": "used cars for sale orland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/used-cars-for-sale-orland-park-il.json"
+  },
+  {
+   "keyword": "vet orland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/vet-orland-park-il.json"
+  },
+  {
+   "keyword": "waxing orland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/waxing-orland-park-il.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "anne-solus-gaffney-dds-orland-park",
+   "name": "Anne Solus Gaffney, DDS",
+   "summary": "Anne Solus Gaffney, DDS is a dentist in Orland Park, IL at 15717 Wolf Road, Orland Park, IL 60467. Phone: +17083497232. Website: https://www.orlandparkfamilydental.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/anne-solus-gaffney-dds-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/anne-solus-gaffney-dds-orland-park.json",
+   "address": {
+    "streetAddress": "15717 Wolf Road",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60467",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60467",
+   "geo": {
+    "lat": 41.6040196,
+    "lon": -87.8906904
+   },
+   "phone": "+17083497232",
+   "website": "https://www.orlandparkfamilydental.com/",
+   "opening_hours": "Mo,Th 11:00-19:00, We 08:00-16:00, Sa 08:00-12:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5860731286",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "belle-tire-orland-park",
+   "name": "Belle Tire",
+   "summary": "Belle Tire is a tire shop in Orland Park, IL at 9526 West 159th Street, Orland Park, IL 60467. Phone: +17086752240. Website: https://www.belletire.com/stores/detail/169/belle-tire-orland-park-il.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/belle-tire-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/belle-tire-orland-park.json",
+   "address": {
+    "streetAddress": "9526 West 159th Street",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60467",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60467",
+   "geo": {
+    "lat": 41.6018027,
+    "lon": -87.8510905
+   },
+   "phone": "+17086752240",
+   "website": "https://www.belletire.com/stores/detail/169/belle-tire-orland-park-il",
+   "opening_hours": "Mo 08:00-20:00; Tu-We 08:00-18:00; Th 08:00-20:00; Fr 08:00-18:00; Sa 08:00-17:00; Su closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/470090070",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "binnys-beverage-depot-orland-park",
+   "name": "Binny's Beverage Depot",
+   "summary": "Binny's Beverage Depot is a liquor store in Orland Park, IL at 15820 South 94th Avenue, Orland Park, IL 60462. Phone: +17082269902. Website: https://www.binnys.com/store-locator/orland-park/.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/binnys-beverage-depot-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/binnys-beverage-depot-orland-park.json",
+   "address": {
+    "streetAddress": "15820 South 94th Avenue",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60462",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60462",
+   "geo": {
+    "lat": 41.6030956,
+    "lon": -87.8495576
+   },
+   "phone": "+17082269902",
+   "website": "https://www.binnys.com/store-locator/orland-park/",
+   "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/453154008",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "chicago-reptile-house-orland-park",
+   "name": "Chicago Reptile House",
+   "summary": "Chicago Reptile House is a pet store in Orland Park, IL at 14410 John Humphrey Drive, Orland Park, IL 60462. Phone: +17083499055. Website: https://chicagoreptile.net/.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chicago-reptile-house-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chicago-reptile-house-orland-park.json",
+   "address": {
+    "streetAddress": "14410 John Humphrey Drive",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60462",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60462",
+   "geo": {
+    "lat": 41.6286821,
+    "lon": -87.8501382
+   },
+   "phone": "+17083499055",
+   "website": "https://chicagoreptile.net/",
+   "opening_hours": "Mo-Fr 11:00-20:00; Sa 10:00-18:00; Su 11:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5290155230",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "empire-tire-and-battery-co-orland-park",
+   "name": "Empire Tire and Battery Co",
+   "summary": "Empire Tire and Battery Co is an auto repair shop in Orland Park, IL at 16201 Wolf Road, Orland Park, IL 60467. Phone: +17083496280. Website: https://etabco.net/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/empire-tire-and-battery-co-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/empire-tire-and-battery-co-orland-park.json",
+   "address": {
+    "streetAddress": "16201 Wolf Road",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60467",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60467",
+   "geo": {
+    "lat": 41.5946361,
+    "lon": -87.8887629
+   },
+   "phone": "+17083496280",
+   "website": "https://etabco.net/",
+   "opening_hours": "Mo-Tu,Fr 08:00-17:00; We-Th 08:00-18:00; Sa 07:00-12:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6024259416",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "grapevine-foods-orland-park",
+   "name": "Grapevine Foods",
+   "summary": "Grapevine Foods is a bakery in Orland Park, IL at 14402 John Humphrey Drive, Orland Park, IL 60462. Phone: +17084037100. Website: https://www.grapevineorlandpark.com/.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/grapevine-foods-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/grapevine-foods-orland-park.json",
+   "address": {
+    "streetAddress": "14402 John Humphrey Drive",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60462",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60462",
+   "geo": {
+    "lat": 41.6286868,
+    "lon": -87.8498975
+   },
+   "phone": "+17084037100",
+   "website": "https://www.grapevineorlandpark.com/",
+   "opening_hours": "Mo-Sa 09:00-19:00; Su 09:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5296327450",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "isbbar-salon-orland-park",
+   "name": "Isbbar Salon",
+   "summary": "Isbbar Salon is a hair salon in Orland Park, IL at 14724 South La Grange Road #19, Orland Park, IL 60462. Phone: +16302832101. Website: https://www.isbbarsalon.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/isbbar-salon-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/isbbar-salon-orland-park.json",
+   "address": {
+    "streetAddress": "14724 South La Grange Road #19",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60462",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60462",
+   "geo": {
+    "lat": 41.6221973,
+    "lon": -87.8543094
+   },
+   "phone": "+16302832101",
+   "website": "https://www.isbbarsalon.com/",
+   "opening_hours": "Mo 10:00-18:00; Tu-Fr 10:00-19:00; Sa 09:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13674572000",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "life-time-orland-park",
+   "name": "Life Time",
+   "summary": "Life Time is a gym in Orland Park, IL at 16333 South La Grange Road, Orland Park, IL 60467. Phone: +17083640300. Website: https://www.lifetime.life/life-time-locations/il-orland-park.html.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/life-time-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/life-time-orland-park.json",
+   "address": {
+    "streetAddress": "16333 South La Grange Road",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60467",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60467",
+   "geo": {
+    "lat": 41.5933786,
+    "lon": -87.8501434
+   },
+   "phone": "+17083640300",
+   "website": "https://www.lifetime.life/life-time-locations/il-orland-park.html",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/247676283",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "neat-repeats-orland-park",
+   "name": "Neat Repeats",
+   "summary": "Neat Repeats is a thrift store in Orland Park, IL at 15591 South 94th Avenue, Orland Park, IL 60462. Phone: +17083647605. Website: https://crisisctr.org/neat-repeats/.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/neat-repeats-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/neat-repeats-orland-park.json",
+   "address": {
+    "streetAddress": "15591 South 94th Avenue",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60462",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60462",
+   "geo": {
+    "lat": 41.6083297,
+    "lon": -87.8475118
+   },
+   "phone": "+17083647605",
+   "website": "https://crisisctr.org/neat-repeats/",
+   "opening_hours": "Mo-Th 10:00-19:00; Fr-Sa 10:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13539185058",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "northwestern-medicine-immediate-care-orland-park-orland-park",
+   "name": "Northwestern Medicine Immediate Care Orland Park",
+   "summary": "Northwestern Medicine Immediate Care Orland Park is an urgent care clinic in Orland Park, IL at 15300 West Avenue, Orland Park, IL 60467. Phone: +17084605550. Website: https://www.nm.org/locations/immediate-care-orland-park.",
+   "categories": [
+    "urgent care"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/northwestern-medicine-immediate-care-orland-park-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/northwestern-medicine-immediate-care-orland-park-orland-park.json",
+   "address": {
+    "streetAddress": "15300 West Avenue",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60467",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60467",
+   "geo": {
+    "lat": 41.610333,
+    "lon": -87.8651522
+   },
+   "phone": "+17084605550",
+   "website": "https://www.nm.org/locations/immediate-care-orland-park",
+   "opening_hours": "Mo-Fr 07:00-20:00; Sa,Su 08:00-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/551182174",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "orland-park-cyclery-orland-park",
+   "name": "Orland Park Cyclery",
+   "summary": "Orland Park Cyclery is a bike shop in Orland Park, IL at 14445 John Humphrey Drive, Orland Park, IL 60462. Phone: +17084602999. Website: https://orlandparkcyclery.com/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/orland-park-cyclery-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/orland-park-cyclery-orland-park.json",
+   "address": {
+    "streetAddress": "14445 John Humphrey Drive",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60462",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60462",
+   "geo": {
+    "lat": 41.62766,
+    "lon": -87.849259
+   },
+   "phone": "+17084602999",
+   "website": "https://orlandparkcyclery.com/",
+   "opening_hours": "Mo,We,Fr 11:00-18:00; Tu,Th 11:00-19:00; Sa 11:00-17:00; Su 12:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/453173100",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "orland-smiles-orland-park",
+   "name": "Orland Smiles",
+   "summary": "Orland Smiles is a dentist in Orland Park, IL at 62 Orland Square Drive #104, Orland Park, IL 60462. Phone: +17084607440. Website: https://orlandsmiles.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/orland-smiles-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/orland-smiles-orland-park.json",
+   "address": {
+    "streetAddress": "62 Orland Square Drive #104",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60462",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60462",
+   "geo": {
+    "lat": 41.6167773,
+    "lon": -87.8440486
+   },
+   "phone": "+17084607440",
+   "website": "https://orlandsmiles.com/",
+   "opening_hours": "Mo 13:00-20:00; Tu 10:00-19:00; We 09:00-17:00; Fr 08:00-17:00; Sa 08:00-13:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6427323021",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "petco-orland-park",
+   "name": "Petco",
+   "summary": "Petco is a pet store in Orland Park, IL at 15790 South La Grange Road, Orland Park, IL 60462. Phone: +17083647490. Website: https://stores.petco.com/il/orlandpark/pet-supplies-orlandpark-il-1915.html.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petco-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petco-orland-park.json",
+   "address": {
+    "streetAddress": "15790 South La Grange Road",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60462",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60462",
+   "geo": {
+    "lat": 41.6042137,
+    "lon": -87.8568515
+   },
+   "phone": "+17083647490",
+   "website": "https://stores.petco.com/il/orlandpark/pet-supplies-orlandpark-il-1915.html",
+   "opening_hours": "Mo-We 09:00-20:00; Th 09:00-19:00; Fr-Sa 09:00-20:00; Su 10:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11121366048",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "planned-parenthood-orland-park",
+   "name": "Planned Parenthood",
+   "summary": "Planned Parenthood is a therapy practice in Orland Park, IL at 14470 South La Grange Road, Orland Park, IL 60462. Phone: +17083492227. Website: https://www.plannedparenthood.org/health-center/illinois/orland-park/60462/orland-park-health-center-3102-90430.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/planned-parenthood-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/planned-parenthood-orland-park.json",
+   "address": {
+    "streetAddress": "14470 South La Grange Road",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60462",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60462",
+   "geo": {
+    "lat": 41.6266574,
+    "lon": -87.8545011
+   },
+   "phone": "+17083492227",
+   "website": "https://www.plannedparenthood.org/health-center/illinois/orland-park/60462/orland-park-health-center-3102-90430",
+   "opening_hours": "Mo 09:00-17:00; Tu 10:00-18:00; We 10:00-17:00; Th 09:00-16:00; Fr 08:00-14:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13021863803",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "public-hvac-solutions-orland-park",
+   "name": "Public HVAC Solutions",
+   "summary": "Public HVAC Solutions is a HVAC contractor in Orland Park, IL at 15348 South 70th Court, Orland Park, IL 60462. Phone: +17084007000. Website: https://www.publichvacsolutions.com/.",
+   "categories": [
+    "hvac repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/public-hvac-solutions-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/public-hvac-solutions-orland-park.json",
+   "address": {
+    "streetAddress": "15348 South 70th Court",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60462",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60462",
+   "geo": {
+    "lat": 41.6107025,
+    "lon": -87.7916811
+   },
+   "phone": "+17084007000",
+   "website": "https://www.publichvacsolutions.com/",
+   "opening_hours": "Mo-Fr 08:30-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13351633196",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "savers-orland-park",
+   "name": "Savers",
+   "summary": "Savers is a thrift store in Orland Park, IL at 15625 94th Avenue, Orland Park, IL 60462. Phone: +17084603655. Website: https://stores.savers.com/il/orlandpark/savers-thrift-store-1186.html.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/savers-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/savers-orland-park.json",
+   "address": {
+    "streetAddress": "15625 94th Avenue",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60462",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60462",
+   "geo": {
+    "lat": 41.6064482,
+    "lon": -87.8472999
+   },
+   "phone": "+17084603655",
+   "website": "https://stores.savers.com/il/orlandpark/savers-thrift-store-1186.html",
+   "opening_hours": "Tu-Sa 10:00-21:00; Mo 09:00-21:00; Su 10:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12657913701",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "sportsplex-orland-park",
+   "name": "Sportsplex",
+   "summary": "Sportsplex is a gym in Orland Park, IL at 11351 West 159th Street, Orland Park, IL 60467. Phone: +17084035000. Website: https://orlandpark.org/.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sportsplex-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sportsplex-orland-park.json",
+   "address": {
+    "streetAddress": "11351 West 159th Street",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60467",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60467",
+   "geo": {
+    "lat": 41.5986894,
+    "lon": -87.8959076
+   },
+   "phone": "+17084035000",
+   "website": "https://orlandpark.org/",
+   "opening_hours": "Mo-Fr 05:30-22:00, Sa 07:00-19:00, Su 08:00-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/957988055",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "thompson-moving-and-storage-inc-ilcc7337mc-orland-park",
+   "name": "Thompson Moving & Storage, Inc. ILCC7337MC",
+   "summary": "Thompson Moving & Storage, Inc. ILCC7337MC is a moving company in Orland Park, IL at 15331 South 70th Court, Orland Park, IL 60462. Phone: +17086874446. Website: https://www.movinu.com/.",
+   "categories": [
+    "movers"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/thompson-moving-and-storage-inc-ilcc7337mc-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/thompson-moving-and-storage-inc-ilcc7337mc-orland-park.json",
+   "address": {
+    "streetAddress": "15331 South 70th Court",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60462",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60462",
+   "geo": {
+    "lat": 41.6124342,
+    "lon": -87.7906058
+   },
+   "phone": "+17086874446",
+   "website": "https://www.movinu.com/",
+   "opening_hours": "Mo-Fr 09:00-17:00, Sa 09:00-12:00, Su Closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13401718504",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "washen-orland-park",
+   "name": "Washen",
+   "summary": "Washen is a car wash in Orland Park, IL at 8701 West 159th Street, Orland Park, IL 60462. Phone: +14648002029. Website: https://washen.us/.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/washen-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/washen-orland-park.json",
+   "address": {
+    "streetAddress": "8701 West 159th Street",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60462",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60462",
+   "geo": {
+    "lat": 41.601158,
+    "lon": -87.8305996
+   },
+   "phone": "+14648002029",
+   "website": "https://washen.us/",
+   "opening_hours": "Mo-Su 08:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1127672469",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "yasini-jewelers-of-orland-park-orland-park",
+   "name": "Yasini Jewelers of Orland Park",
+   "summary": "Yasini Jewelers of Orland Park is a jewelry store in Orland Park, IL at 31 Orland Square Drive, Orland Park, IL 60462. Phone: +17084030000. Website: https://yasini.com/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/yasini-jewelers-of-orland-park-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/yasini-jewelers-of-orland-park-orland-park.json",
+   "address": {
+    "streetAddress": "31 Orland Square Drive",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60462",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60462",
+   "geo": {
+    "lat": 41.6193267,
+    "lon": -87.8489671
+   },
+   "phone": "+17084030000",
+   "website": "https://yasini.com/",
+   "opening_hours": "Mo-Su 10:00-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6850138613",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "ahmad-altaher-allstate-insurance-orland-park",
+   "name": "AHMAD ALTAHER: Allstate Insurance",
+   "summary": "AHMAD ALTAHER: Allstate Insurance is an insurance agent in Orland Park, IL at 17845 Wolf Road, Orland Park, IL 60467. Phone: +17086946705. Website: https://agents.allstate.com/ahmad-altaher-orland-park-il.html.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ahmad-altaher-allstate-insurance-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ahmad-altaher-allstate-insurance-orland-park.json",
+   "address": {
+    "streetAddress": "17845 Wolf Road",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60467",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60467",
+   "geo": {
+    "lat": 41.5656677,
+    "lon": -87.8899159
+   },
+   "phone": "+17086946705",
+   "website": "https://agents.allstate.com/ahmad-altaher-orland-park-il.html",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13619006095",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "ashley-homestore-orland-park",
+   "name": "Ashley HomeStore",
+   "summary": "Ashley HomeStore is a furniture store in Orland Park, IL at 180 Orland Park Place, Orland Park, IL 60462. Phone: +17084280043. Website: https://stores.ashleyfurniture.com/store/us/illinois/orland-park/9000134617/.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ashley-homestore-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ashley-homestore-orland-park.json",
+   "address": {
+    "streetAddress": "180 Orland Park Place",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60462",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60462",
+   "geo": {
+    "lat": 41.6127372,
+    "lon": -87.8516847
+   },
+   "phone": "+17084280043",
+   "website": "https://stores.ashleyfurniture.com/store/us/illinois/orland-park/9000134617/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9234090937",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "georgios-orland-park",
+   "name": "Georgio's",
+   "summary": "Georgio's is an event venue in Orland Park, IL at 8800 West 159th Street, Orland Park, IL 60462. Phone: +17084031757. Website: https://georgios.com/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/georgios-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/georgios-orland-park.json",
+   "address": {
+    "streetAddress": "8800 West 159th Street",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60462",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60462",
+   "geo": {
+    "lat": 41.6025179,
+    "lon": -87.8339553
+   },
+   "phone": "+17084031757",
+   "website": "https://georgios.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10310231584",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "jamog-banquets-orland-park",
+   "name": "Jamog Banquets",
+   "summary": "Jamog Banquets is an event venue in Orland Park, IL at 9050 West 159th Street, Orland Park, IL 60462. Phone: +17086751010. Website: https://www.jamogbanquets.com/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jamog-banquets-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jamog-banquets-orland-park.json",
+   "address": {
+    "streetAddress": "9050 West 159th Street",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60462",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60462",
+   "geo": {
+    "lat": 41.6022946,
+    "lon": -87.8392708
+   },
+   "phone": "+17086751010",
+   "website": "https://www.jamogbanquets.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13612980555",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "konquer-dance-company-orland-park",
+   "name": "Konquer Dance Company",
+   "summary": "Konquer Dance Company is a dance studio in Orland Park, IL at 8600 West 159th Street, Orland Park, IL 60462. Phone: +17089791910. Website: https://www.konquerdancecompany.com/.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/konquer-dance-company-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/konquer-dance-company-orland-park.json",
+   "address": {
+    "streetAddress": "8600 West 159th Street",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60462",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60462",
+   "geo": {
+    "lat": 41.603026,
+    "lon": -87.8290839
+   },
+   "phone": "+17089791910",
+   "website": "https://www.konquerdancecompany.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10309976608",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "mattress-firm-orland-park",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Orland Park, IL at 7170 West 159th Street #A, Orland Park, IL 60462. Phone: +17084297690. Website: https://www.mattressfirm.com/en-us/stores/il/orland-park/119165/.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-orland-park.json",
+   "address": {
+    "streetAddress": "7170 West 159th Street #A",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60462",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60462",
+   "geo": {
+    "lat": 41.6026942,
+    "lon": -87.7937052
+   },
+   "phone": "+17084297690",
+   "website": "https://www.mattressfirm.com/en-us/stores/il/orland-park/119165/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8279453728",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "mattress-firm-orland-park-w838367934",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Orland Park, IL at 15898 South LaGrange Road, Orland Park, IL 60467. Phone: +17084603499. Website: https://www.mattressfirm.com/en-us/stores/il/orland-park/119153/.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-orland-park-w838367934/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-orland-park-w838367934.json",
+   "address": {
+    "streetAddress": "15898 South LaGrange Road",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60467",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60467",
+   "geo": {
+    "lat": 41.6016892,
+    "lon": -87.8533138
+   },
+   "phone": "+17084603499",
+   "website": "https://www.mattressfirm.com/en-us/stores/il/orland-park/119153/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/838367934",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "orland-park-chiropractic-orland-park",
+   "name": "Orland Park Chiropractic",
+   "summary": "Orland Park Chiropractic is a chiropractor in Orland Park, IL at 10751 W 143rd St, Orland Park, IL 60462. Phone: +17084608688. Website: https://www.orlandparkchiropractic.com/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/orland-park-chiropractic-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/orland-park-chiropractic-orland-park.json",
+   "address": {
+    "streetAddress": "10751 W 143rd St",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60462",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60462",
+   "geo": {
+    "lat": 41.6294556,
+    "lon": -87.8820011
+   },
+   "phone": "+17084608688",
+   "website": "https://www.orlandparkchiropractic.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13367321289",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "reidy-law-office-llc-orland-park",
+   "name": "Reidy Law Office LLC",
+   "summary": "Reidy Law Office LLC is a lawyer in Orland Park, IL at 11528 W. 183rd Place #Suite NW, Orland Park, IL 60467. Phone: +17085806767. Website: https://reidylawoffice.com/.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/reidy-law-office-llc-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/reidy-law-office-llc-orland-park.json",
+   "address": {
+    "streetAddress": "11528 W. 183rd Place #Suite NW",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60467",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60467",
+   "geo": {
+    "lat": 41.5561901,
+    "lon": -87.8989336
+   },
+   "phone": "+17085806767",
+   "website": "https://reidylawoffice.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9792856894",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "the-ups-store-orland-park",
+   "name": "The UPS Store",
+   "summary": "The UPS Store is a printing service in Orland Park, IL at 15826 South La Grange Road, Orland Park, IL 60462. Phone: +17083491093. Website: https://locations.theupsstore.com/il/orland-park/15826-s-lagrange-rd.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-ups-store-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-ups-store-orland-park.json",
+   "address": {
+    "streetAddress": "15826 South La Grange Road",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60462",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60462",
+   "geo": {
+    "lat": 41.6032931,
+    "lon": -87.8568017
+   },
+   "phone": "+17083491093",
+   "website": "https://locations.theupsstore.com/il/orland-park/15826-s-lagrange-rd",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9233962251",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "ziegler-nissan-of-orland-park-orland-park",
+   "name": "Ziegler Nissan of Orland Park",
+   "summary": "Ziegler Nissan of Orland Park is an used car dealer in Orland Park, IL at 8550 West 159th Street, Orland Park, IL 60462. Phone: +17084031300. Website: https://www.zeiglernissanoforlandpark.com/.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ziegler-nissan-of-orland-park-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ziegler-nissan-of-orland-park-orland-park.json",
+   "address": {
+    "streetAddress": "8550 West 159th Street",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60462",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60462",
+   "geo": {
+    "lat": 41.6026165,
+    "lon": -87.8277815
+   },
+   "phone": "+17084031300",
+   "website": "https://www.zeiglernissanoforlandpark.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1128330430",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "bobs-discount-furniture-orland-park",
+   "name": "Bob's Discount Furniture",
+   "summary": "Bob's Discount Furniture is a furniture store in Orland Park, IL at 10830 South La Grange Road, Orland Park, IL 60462. Website: https://www.mybobs.com/stores/illinois/orland-park.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bobs-discount-furniture-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bobs-discount-furniture-orland-park.json",
+   "address": {
+    "streetAddress": "10830 South La Grange Road",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60462",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60462",
+   "geo": {
+    "lat": 41.603145,
+    "lon": -87.8569383
+   },
+   "website": "https://www.mybobs.com/stores/illinois/orland-park",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9233962244",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "cd-one-price-cleaners-orland-park",
+   "name": "CD One Price Cleaners",
+   "summary": "CD One Price Cleaners is a dry cleaner in Orland Park, IL at 7852 West 159th Street, Orland Park, IL 60462. Website: https://cdonepricecleaners.com/locations/illinois/dry-cleaning-in-orland-park/.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cd-one-price-cleaners-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cd-one-price-cleaners-orland-park.json",
+   "address": {
+    "streetAddress": "7852 West 159th Street",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60462",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60462",
+   "geo": {
+    "lat": 41.6025146,
+    "lon": -87.8108145
+   },
+   "website": "https://cdonepricecleaners.com/locations/illinois/dry-cleaning-in-orland-park/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11147691188",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "european-wax-center-orland-park",
+   "name": "European Wax Center",
+   "summary": "European Wax Center is a waxing salon in Orland Park, IL at 15174 South La Grange Road, Orland Park, IL 60462. Website: https://locations.waxcenter.com/il/orlandpark/orland-park-0568.html.",
+   "categories": [
+    "waxing"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/european-wax-center-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/european-wax-center-orland-park.json",
+   "address": {
+    "streetAddress": "15174 South La Grange Road",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60462",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60462",
+   "geo": {
+    "lat": 41.6140321,
+    "lon": -87.8547505
+   },
+   "website": "https://locations.waxcenter.com/il/orlandpark/orland-park-0568.html",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9234090974",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "mercedes-benz-of-orland-park-orland-park",
+   "name": "Mercedes-Benz of Orland Park",
+   "summary": "Mercedes-Benz of Orland Park is an used car dealer in Orland Park, IL at 8430 West 159th Street, Orland Park, IL 60462. Website: https://www.mercedesbenzorlandpark.com/.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mercedes-benz-of-orland-park-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mercedes-benz-of-orland-park-orland-park.json",
+   "address": {
+    "streetAddress": "8430 West 159th Street",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60462",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60462",
+   "geo": {
+    "lat": 41.6026218,
+    "lon": -87.8251035
+   },
+   "website": "https://www.mercedesbenzorlandpark.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1128330431",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "orangetheory-fitness-orland-park",
+   "name": "Orangetheory Fitness",
+   "summary": "Orangetheory Fitness is a gym in Orland Park, IL at 15200 South LaGrange Road, Orland Park, IL 60462. Phone: +17088608292.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/orangetheory-fitness-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/orangetheory-fitness-orland-park.json",
+   "address": {
+    "streetAddress": "15200 South LaGrange Road",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60462",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60462",
+   "geo": {
+    "lat": 41.6136697,
+    "lon": -87.855236
+   },
+   "phone": "+17088608292",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9234090958",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "signature-barbershop-orland-park",
+   "name": "Signature Barbershop",
+   "summary": "Signature Barbershop is a hair salon in Orland Park, IL at 7844 West 159th Street, Orland Park, IL 60462. Website: https://signaturebarbershop.org/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/signature-barbershop-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/signature-barbershop-orland-park.json",
+   "address": {
+    "streetAddress": "7844 West 159th Street",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60462",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60462",
+   "geo": {
+    "lat": 41.6025727,
+    "lon": -87.8104614
+   },
+   "website": "https://signaturebarbershop.org/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11147691189",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "sws-roofing-orland-park",
+   "name": "SWS Roofing",
+   "summary": "SWS Roofing is a roofer in Orland Park, IL at 15255 South 94th Avenue, Orland Park, IL 60462. Website: https://swsroofing.com/orland-park-il/.",
+   "categories": [
+    "roofer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sws-roofing-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sws-roofing-orland-park.json",
+   "address": {
+    "streetAddress": "15255 South 94th Avenue",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60462",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60462",
+   "geo": {
+    "lat": 41.6118593,
+    "lon": -87.847496
+   },
+   "website": "https://swsroofing.com/orland-park-il/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5917779305",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "the-roomplace-orland-park",
+   "name": "The RoomPlace",
+   "summary": "The RoomPlace is a furniture store in Orland Park, IL at 14920 South La Grange Road, Orland Park, IL 60462. Phone: +17083644800.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-roomplace-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-roomplace-orland-park.json",
+   "address": {
+    "streetAddress": "14920 South La Grange Road",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60462",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60462",
+   "geo": {
+    "lat": 41.6182299,
+    "lon": -87.8551071
+   },
+   "phone": "+17083644800",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6883785641",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "athletico-physical-therapy-orland-park",
+   "name": "Athletico Physical Therapy",
+   "summary": "Athletico Physical Therapy is a physical therapy clinic in Orland Park, IL at 14700 South La Grange Road #A, Orland Park, IL 60462.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/athletico-physical-therapy-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/athletico-physical-therapy-orland-park.json",
+   "address": {
+    "streetAddress": "14700 South La Grange Road #A",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60462",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60462",
+   "geo": {
+    "lat": 41.6228929,
+    "lon": -87.8543224
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12363237715",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "avanzato-salon-and-spa-orland-park",
+   "name": "Avanzato Salon and Spa",
+   "summary": "Avanzato Salon and Spa is a hair salon in Orland Park, IL at 11317 West 159th Street, Orland Park, IL 60467.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/avanzato-salon-and-spa-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/avanzato-salon-and-spa-orland-park.json",
+   "address": {
+    "streetAddress": "11317 West 159th Street",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60467",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60467",
+   "geo": {
+    "lat": 41.5987593,
+    "lon": -87.8935982
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/relation/12885318",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "bmw-service-center-orland-park",
+   "name": "BMW Service Center",
+   "summary": "BMW Service Center is an auto repair shop in Orland Park, IL at 11030 West 159th Street, Orland Park, IL 60467.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bmw-service-center-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bmw-service-center-orland-park.json",
+   "address": {
+    "streetAddress": "11030 West 159th Street",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60467",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60467",
+   "geo": {
+    "lat": 41.6015273,
+    "lon": -87.8882048
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1336317635",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "cell-phone-repair-orland-park",
+   "name": "Cell Phone Repair",
+   "summary": "Cell Phone Repair is a phone repair shop in Orland Park, IL at 15864 South La Grange Road #D1A, Orland Park, IL 60462.",
+   "categories": [
+    "phone repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cell-phone-repair-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cell-phone-repair-orland-park.json",
+   "address": {
+    "streetAddress": "15864 South La Grange Road #D1A",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60462",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60462",
+   "geo": {
+    "lat": 41.6027248,
+    "lon": -87.8542503
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9231360171",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "charles-schwab-orland-park",
+   "name": "Charles Schwab",
+   "summary": "Charles Schwab is a financial advisor in Orland Park, IL at 14225 South 95th Avenue #422, Orland Park, IL 60462.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/charles-schwab-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/charles-schwab-orland-park.json",
+   "address": {
+    "streetAddress": "14225 South 95th Avenue #422",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60462",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60462",
+   "geo": {
+    "lat": 41.6315018,
+    "lon": -87.8506562
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12363237781",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "chicago-dental-implants-and-oral-surgery-orland-park",
+   "name": "Chicago Dental Implants & Oral Surgery",
+   "summary": "Chicago Dental Implants & Oral Surgery is a dentist in Orland Park, IL at 10713 West 159th Street, Orland Park, IL 60467.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chicago-dental-implants-and-oral-surgery-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chicago-dental-implants-and-oral-surgery-orland-park.json",
+   "address": {
+    "streetAddress": "10713 West 159th Street",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60467",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60467",
+   "geo": {
+    "lat": 41.6001503,
+    "lon": -87.8782569
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13096638362",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "darwin-furniture-and-mattress-orland-park",
+   "name": "Darwin Furniture & Mattress",
+   "summary": "Darwin Furniture & Mattress is a furniture store in Orland Park, IL at 15400 South La Grange Road, Orland Park, IL 60462.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/darwin-furniture-and-mattress-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/darwin-furniture-and-mattress-orland-park.json",
+   "address": {
+    "streetAddress": "15400 South La Grange Road",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60462",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60462",
+   "geo": {
+    "lat": 41.6104213,
+    "lon": -87.8545175
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/453165761",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "edible-arrangements-orland-park",
+   "name": "Edible Arrangements",
+   "summary": "Edible Arrangements is a gift shop in Orland Park, IL at 9040 West 159th Street, Orland Park, IL 60462.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edible-arrangements-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edible-arrangements-orland-park.json",
+   "address": {
+    "streetAddress": "9040 West 159th Street",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60462",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60462",
+   "geo": {
+    "lat": 41.6022669,
+    "lon": -87.8391205
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12360330705",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "f45-training-orland-park",
+   "name": "F45 Training",
+   "summary": "F45 Training is a gym in Orland Park, IL at 15762 South La Grange Road, Orland Park, IL 60462.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/f45-training-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/f45-training-orland-park.json",
+   "address": {
+    "streetAddress": "15762 South La Grange Road",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60462",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60462",
+   "geo": {
+    "lat": 41.6043243,
+    "lon": -87.8549669
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9233962254",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "fidelity-investments-orland-park",
+   "name": "Fidelity Investments",
+   "summary": "Fidelity Investments is a financial advisor in Orland Park, IL at 15105 South La Grange Road, Orland Park, IL 60462.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fidelity-investments-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fidelity-investments-orland-park.json",
+   "address": {
+    "streetAddress": "15105 South La Grange Road",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60462",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60462",
+   "geo": {
+    "lat": 41.6156249,
+    "lon": -87.8528436
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12360330548",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "goodwill-orland-park",
+   "name": "Goodwill",
+   "summary": "Goodwill is a thrift store in Orland Park, IL at 7400 West 159th Street, Orland Park, IL 60462.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/goodwill-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/goodwill-orland-park.json",
+   "address": {
+    "streetAddress": "7400 West 159th Street",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60462",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60462",
+   "geo": {
+    "lat": 41.6035226,
+    "lon": -87.7987739
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/590562830",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "house-of-music-orland-park",
+   "name": "House of Music",
+   "summary": "House of Music is a music school in Orland Park, IL at 14426 John Humphrey Drive, Orland Park, IL 60462.",
+   "categories": [
+    "music lessons"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/house-of-music-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/house-of-music-orland-park.json",
+   "address": {
+    "streetAddress": "14426 John Humphrey Drive",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60462",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60462",
+   "geo": {
+    "lat": 41.6284723,
+    "lon": -87.8504914
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6570992340",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "jared-orland-park",
+   "name": "Jared",
+   "summary": "Jared is a jewelry store in Orland Park, IL at 15341 South La Grange Road, Orland Park, IL 60462.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jared-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jared-orland-park.json",
+   "address": {
+    "streetAddress": "15341 South La Grange Road",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60462",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60462",
+   "geo": {
+    "lat": 41.6110992,
+    "lon": -87.8527344
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/453172694",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "joe-rizza-ford-service-center-orland-park",
+   "name": "Joe Rizza Ford Service Center",
+   "summary": "Joe Rizza Ford Service Center is an auto repair shop in Orland Park, IL at 8100 West 159th Street, Orland Park, IL 60462.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/joe-rizza-ford-service-center-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/joe-rizza-ford-service-center-orland-park.json",
+   "address": {
+    "streetAddress": "8100 West 159th Street",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60462",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60462",
+   "geo": {
+    "lat": 41.6031134,
+    "lon": -87.8160886
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9342423377",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "lovesac-orland-park",
+   "name": "LoveSac",
+   "summary": "LoveSac is a furniture store in Orland Park, IL at 15111 South La Grange Road, Orland Park, IL 60462.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lovesac-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lovesac-orland-park.json",
+   "address": {
+    "streetAddress": "15111 South La Grange Road",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60462",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60462",
+   "geo": {
+    "lat": 41.6154819,
+    "lon": -87.8527189
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12360330547",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "massage-envy-orland-park",
+   "name": "Massage Envy",
+   "summary": "Massage Envy is a massage studio in Orland Park, IL at 15159 South La Grange Road #200, Orland Park, IL 60462.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/massage-envy-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/massage-envy-orland-park.json",
+   "address": {
+    "streetAddress": "15159 South La Grange Road #200",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60462",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60462",
+   "geo": {
+    "lat": 41.6142246,
+    "lon": -87.8529682
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9234090979",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "midas-orland-park",
+   "name": "Midas",
+   "summary": "Midas is an auto repair shop in Orland Park, IL at 14810 South La Grange Road, Orland Park, IL 60462.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/midas-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/midas-orland-park.json",
+   "address": {
+    "streetAddress": "14810 South La Grange Road",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60462",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60462",
+   "geo": {
+    "lat": 41.6207817,
+    "lon": -87.8542411
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/735012399",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "mobil-mokena",
+   "name": "Mobil",
+   "summary": "Mobil is a car wash in Mokena, IL at 11200 183rd Place, Mokena, IL 60448.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mobil-mokena/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mobil-mokena.json",
+   "address": {
+    "streetAddress": "11200 183rd Place",
+    "addressLocality": "Mokena",
+    "addressRegion": "IL",
+    "postalCode": "60448",
+    "addressCountry": "US"
+   },
+   "city": "Mokena",
+   "state": "IL",
+   "zip": "60448",
+   "geo": {
+    "lat": 41.5559676,
+    "lon": -87.8912825
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1336317618",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "penny-mustard-furnishings-orland-park",
+   "name": "Penny Mustard Furnishings",
+   "summary": "Penny Mustard Furnishings is a furniture store in Orland Park, IL at 190 Orland Park Place, Orland Park, IL 60462.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/penny-mustard-furnishings-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/penny-mustard-furnishings-orland-park.json",
+   "address": {
+    "streetAddress": "190 Orland Park Place",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60462",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60462",
+   "geo": {
+    "lat": 41.6132305,
+    "lon": -87.8516552
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9234090935",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "pep-boys-orland-park",
+   "name": "Pep Boys",
+   "summary": "Pep Boys is an auto repair shop in Orland Park, IL at 15900 South La Grange Road, Orland Park, IL 60467.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pep-boys-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pep-boys-orland-park.json",
+   "address": {
+    "streetAddress": "15900 South La Grange Road",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60467",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60467",
+   "geo": {
+    "lat": 41.6006467,
+    "lon": -87.8521265
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1000064866",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "public-storage-orland-park",
+   "name": "Public Storage",
+   "summary": "Public Storage is a self-storage facility in Orland Park, IL at 15359 Harlem Avenue, Orland Park, IL 60462.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/public-storage-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/public-storage-orland-park.json",
+   "address": {
+    "streetAddress": "15359 Harlem Avenue",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60462",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60462",
+   "geo": {
+    "lat": 41.612093,
+    "lon": -87.7939287
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/919968266",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "shell-orland-park",
+   "name": "Shell",
+   "summary": "Shell is a car wash in Orland Park, IL at 13059 South La Grange Road, Orland Park, IL 60462.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/shell-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/shell-orland-park.json",
+   "address": {
+    "streetAddress": "13059 South La Grange Road",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60462",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60462",
+   "geo": {
+    "lat": 41.6527844,
+    "lon": -87.8530081
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1336643667",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "sleep-number-orland-park",
+   "name": "Sleep Number",
+   "summary": "Sleep Number is a mattress store in Orland Park, IL at 15631 South La Grange Road, Orland Park, IL 60462.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sleep-number-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sleep-number-orland-park.json",
+   "address": {
+    "streetAddress": "15631 South La Grange Road",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60462",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60462",
+   "geo": {
+    "lat": 41.6058925,
+    "lon": -87.8525752
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9233983148",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "slk-autohouse-llc-orland-park",
+   "name": "SLK Autohouse LLC",
+   "summary": "SLK Autohouse LLC is an auto repair shop in Orland Park, IL at 9544 West 159th Street, Orland Park, IL 60467.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/slk-autohouse-llc-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/slk-autohouse-llc-orland-park.json",
+   "address": {
+    "streetAddress": "9544 West 159th Street",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60467",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60467",
+   "geo": {
+    "lat": 41.6017659,
+    "lon": -87.8504884
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/470090076",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "sola-salons-orland-park",
+   "name": "Sola Salons",
+   "summary": "Sola Salons is a nail salon in Orland Park, IL at 15752 South La Grange Road #2, Orland Park, IL 60462.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sola-salons-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sola-salons-orland-park.json",
+   "address": {
+    "streetAddress": "15752 South La Grange Road #2",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60462",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60462",
+   "geo": {
+    "lat": 41.6048177,
+    "lon": -87.8536606
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9233962259",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "tuffy-orland-park",
+   "name": "Tuffy",
+   "summary": "Tuffy is an auto repair shop in Orland Park, IL at 7900 West 159th Street, Orland Park, IL 60462.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tuffy-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tuffy-orland-park.json",
+   "address": {
+    "streetAddress": "7900 West 159th Street",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60462",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60462",
+   "geo": {
+    "lat": 41.6025201,
+    "lon": -87.8116952
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/591062017",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "ty-spa-orland-park",
+   "name": "TY Spa",
+   "summary": "TY Spa is a massage studio in Orland Park, IL at 11225 West 159th Street #A, Orland Park, IL 60467.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ty-spa-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ty-spa-orland-park.json",
+   "address": {
+    "streetAddress": "11225 West 159th Street #A",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60467",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60467",
+   "geo": {
+    "lat": 41.5990031,
+    "lon": -87.8926926
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/957988062",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "vet-center-orland-park",
+   "name": "Vet Center",
+   "summary": "Vet Center is a therapy practice in Orland Park, IL at 8651 West 159th Street #1, Orland Park, IL 60462.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/vet-center-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/vet-center-orland-park.json",
+   "address": {
+    "streetAddress": "8651 West 159th Street #1",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60462",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60462",
+   "geo": {
+    "lat": 41.6011611,
+    "lon": -87.8295649
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1127673175",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "volkswagen-of-orland-park-orland-park",
+   "name": "Volkswagen of Orland Park",
+   "summary": "Volkswagen of Orland Park is an auto repair shop in Orland Park, IL at 8920 West 159th Street, Orland Park, IL 60462.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/volkswagen-of-orland-park-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/volkswagen-of-orland-park-orland-park.json",
+   "address": {
+    "streetAddress": "8920 West 159th Street",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60462",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60462",
+   "geo": {
+    "lat": 41.6024867,
+    "lon": -87.8370303
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9342423405",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "walter-e-smithe-furniture-design-orland-park",
+   "name": "Walter E Smithe Furniture + Design",
+   "summary": "Walter E Smithe Furniture + Design is a furniture store in Orland Park, IL at 15355 South La Grange Road, Orland Park, IL 60462.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/walter-e-smithe-furniture-design-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/walter-e-smithe-furniture-design-orland-park.json",
+   "address": {
+    "streetAddress": "15355 South La Grange Road",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60462",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60462",
+   "geo": {
+    "lat": 41.6104682,
+    "lon": -87.8527489
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/453172696",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "animal-medical-center-orland-park",
+   "name": "Animal Medical Center",
+   "summary": "Animal Medical Center is a veterinarian in Orland Park, IL.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/animal-medical-center-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/animal-medical-center-orland-park.json",
+   "address": {
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.5947779,
+    "lon": -87.8533987
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1000064854",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "arthur-murray-dance-center-orland-park",
+   "name": "Arthur Murray Dance Center",
+   "summary": "Arthur Murray Dance Center is a dance studio in Orland Park, IL.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/arthur-murray-dance-center-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/arthur-murray-dance-center-orland-park.json",
+   "address": {
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.5966414,
+    "lon": -87.8508707
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9231359812",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "aspen-dental-orland-park",
+   "name": "Aspen Dental",
+   "summary": "Aspen Dental is a dentist in Orland Park, IL.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/aspen-dental-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/aspen-dental-orland-park.json",
+   "address": {
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.6023538,
+    "lon": -87.8534457
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9231360180",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "chic-beauty-botique-orland-park",
+   "name": "Chic Beauty Botique",
+   "summary": "Chic Beauty Botique is a hair salon in Orland Park, IL.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chic-beauty-botique-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chic-beauty-botique-orland-park.json",
+   "address": {
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.5971087,
+    "lon": -87.8522708
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9231359785",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "children-of-america-orland-park",
+   "name": "Children of America",
+   "summary": "Children of America is a preschool in Orland Park, IL.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/children-of-america-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/children-of-america-orland-park.json",
+   "address": {
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.5964247,
+    "lon": -87.8543817
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9230666856",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "classy-nails-orland-park",
+   "name": "Classy Nails",
+   "summary": "Classy Nails is a nail salon in Orland Park, IL.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/classy-nails-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/classy-nails-orland-park.json",
+   "address": {
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.6042782,
+    "lon": -87.8562919
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9233962249",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "cool-cuts-4-kids-orland-park",
+   "name": "Cool Cuts 4 Kids",
+   "summary": "Cool Cuts 4 Kids is a hair salon in Orland Park, IL.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cool-cuts-4-kids-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cool-cuts-4-kids-orland-park.json",
+   "address": {
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.6132245,
+    "lon": -87.8549074
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9234090956",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "crystal-nails-and-spa-orland-park",
+   "name": "Crystal Nails & Spa",
+   "summary": "Crystal Nails & Spa is a nail salon in Orland Park, IL.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/crystal-nails-and-spa-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/crystal-nails-and-spa-orland-park.json",
+   "address": {
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.5971529,
+    "lon": -87.8513911
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9231359793",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "discount-tire-orland-park",
+   "name": "Discount Tire",
+   "summary": "Discount Tire is a tire shop in Orland Park, IL.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/discount-tire-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/discount-tire-orland-park.json",
+   "address": {
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.6019166,
+    "lon": -87.8495572
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/470090080",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "heavenly-massage-and-spa-orland-park",
+   "name": "Heavenly Massage & Spa",
+   "summary": "Heavenly Massage & Spa is a massage studio in Orland Park, IL.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/heavenly-massage-and-spa-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/heavenly-massage-and-spa-orland-park.json",
+   "address": {
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.5944273,
+    "lon": -87.8516604
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1085729518",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "helzberg-diamonds-orland-park",
+   "name": "Helzberg Diamonds",
+   "summary": "Helzberg Diamonds is a jewelry store in Orland Park, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/helzberg-diamonds-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/helzberg-diamonds-orland-park.json",
+   "address": {
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.6191298,
+    "lon": -87.8479321
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10020369374",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "james-and-sons-fine-jewelers-orland-park",
+   "name": "James & Sons Fine Jewelers",
+   "summary": "James & Sons Fine Jewelers is a jewelry store in Orland Park, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/james-and-sons-fine-jewelers-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/james-and-sons-fine-jewelers-orland-park.json",
+   "address": {
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.6129728,
+    "lon": -87.8548256
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9234090954",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "jefferey-lamorte-salon-and-day-spa-orland-park",
+   "name": "Jefferey LaMorte Salon & Day Spa",
+   "summary": "Jefferey LaMorte Salon & Day Spa is a hair salon in Orland Park, IL.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jefferey-lamorte-salon-and-day-spa-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jefferey-lamorte-salon-and-day-spa-orland-park.json",
+   "address": {
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.613813,
+    "lon": -87.8552583
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7905279640",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "jiffy-lube-orland-park",
+   "name": "Jiffy Lube",
+   "summary": "Jiffy Lube is an auto repair shop in Orland Park, IL.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jiffy-lube-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jiffy-lube-orland-park.json",
+   "address": {
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.6019658,
+    "lon": -87.8437349
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/453179126",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "krisers-natural-pet-orland-park",
+   "name": "Kriser's Natural Pet",
+   "summary": "Kriser's Natural Pet is a pet store in Orland Park, IL.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/krisers-natural-pet-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/krisers-natural-pet-orland-park.json",
+   "address": {
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.6140452,
+    "lon": -87.8543589
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9234090975",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "la-z-boy-orland-park",
+   "name": "La-Z-Boy",
+   "summary": "La-Z-Boy is a furniture store in Orland Park, IL.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/la-z-boy-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/la-z-boy-orland-park.json",
+   "address": {
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.5993111,
+    "lon": -87.8519597
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1000064865",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "mary-sears-childrens-academy-orland-park",
+   "name": "Mary Sears Children's Academy",
+   "summary": "Mary Sears Children's Academy is a preschool in Orland Park, IL.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mary-sears-childrens-academy-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mary-sears-childrens-academy-orland-park.json",
+   "address": {
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.5830648,
+    "lon": -87.880029
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1373421418",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "oil-experts-of-orland-park-orland-park",
+   "name": "Oil Experts of Orland Park",
+   "summary": "Oil Experts of Orland Park is an auto repair shop in Orland Park, IL.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/oil-experts-of-orland-park-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/oil-experts-of-orland-park-orland-park.json",
+   "address": {
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.6017939,
+    "lon": -87.8492244
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/470090081",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "orland-ridge-leasing-office-orland-park",
+   "name": "Orland Ridge Leasing Office",
+   "summary": "Orland Ridge Leasing Office is a property management company in Orland Park, IL.",
+   "categories": [
+    "property management company"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/orland-ridge-leasing-office-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/orland-ridge-leasing-office-orland-park.json",
+   "address": {
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.581644,
+    "lon": -87.8492629
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1193585913",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "pandora-orland-park",
+   "name": "Pandora",
+   "summary": "Pandora is a jewelry store in Orland Park, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pandora-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pandora-orland-park.json",
+   "address": {
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.6206056,
+    "lon": -87.8491606
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10020369340",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "pet-supplies-plus-orland-park",
+   "name": "Pet Supplies Plus",
+   "summary": "Pet Supplies Plus is a pet store in Orland Park, IL.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pet-supplies-plus-orland-park.json",
+   "address": {
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.6019057,
+    "lon": -87.8488814
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/803813205",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "pottery-barn-orland-park",
+   "name": "Pottery Barn",
+   "summary": "Pottery Barn is a furniture store in Orland Park, IL.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pottery-barn-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pottery-barn-orland-park.json",
+   "address": {
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.6204813,
+    "lon": -87.848887
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10020369350",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "pro-nails-orland-park",
+   "name": "Pro Nails",
+   "summary": "Pro Nails is a nail salon in Orland Park, IL.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pro-nails-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pro-nails-orland-park.json",
+   "address": {
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.6131302,
+    "lon": -87.8548578
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9234090955",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "sass-studios-and-salon-suites-orland-park",
+   "name": "Sass Studios and Salon Suites",
+   "summary": "Sass Studios and Salon Suites is a hair salon in Orland Park, IL.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sass-studios-and-salon-suites-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sass-studios-and-salon-suites-orland-park.json",
+   "address": {
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.5971167,
+    "lon": -87.8520509
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9231359786",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "skin-md-orland-park",
+   "name": "Skin MD",
+   "summary": "Skin MD is a dermatologist in Orland Park, IL.",
+   "categories": [
+    "dermatologist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/skin-md-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/skin-md-orland-park.json",
+   "address": {
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.5973148,
+    "lon": -87.8507763
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1000064861",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "spencers-orland-park",
+   "name": "Spencer's",
+   "summary": "Spencer's is a gift shop in Orland Park, IL.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/spencers-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/spencers-orland-park.json",
+   "address": {
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.6192662,
+    "lon": -87.848254
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10020369371",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "studio-45-orland-park",
+   "name": "Studio 45",
+   "summary": "Studio 45 is a hair salon in Orland Park, IL.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/studio-45-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/studio-45-orland-park.json",
+   "address": {
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.5972147,
+    "lon": -87.8512326
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9231359792",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "supercuts-orland-park",
+   "name": "Supercuts",
+   "summary": "Supercuts is a hair salon in Orland Park, IL.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/supercuts-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/supercuts-orland-park.json",
+   "address": {
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.6027529,
+    "lon": -87.8541135
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9231360170",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "team-rehabilition-physcial-therapy-orland-park",
+   "name": "Team Rehabilition Physcial Therapy",
+   "summary": "Team Rehabilition Physcial Therapy is a physical therapy clinic in Orland Park, IL.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/team-rehabilition-physcial-therapy-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/team-rehabilition-physcial-therapy-orland-park.json",
+   "address": {
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.5990927,
+    "lon": -87.8918179
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/957988065",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "the-great-american-bagel-orland-park",
+   "name": "The Great American Bagel",
+   "summary": "The Great American Bagel is a bakery in Orland Park, IL.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-great-american-bagel-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-great-american-bagel-orland-park.json",
+   "address": {
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.6154595,
+    "lon": -87.8431686
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10693605529",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "things-remembered-orland-park",
+   "name": "Things Remembered",
+   "summary": "Things Remembered is a gift shop in Orland Park, IL.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/things-remembered-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/things-remembered-orland-park.json",
+   "address": {
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.6204532,
+    "lon": -87.8476532
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10020369354",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "uroda-hair-design-orland-park",
+   "name": "Uroda Hair Design",
+   "summary": "Uroda Hair Design is a hair salon in Orland Park, IL.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/uroda-hair-design-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/uroda-hair-design-orland-park.json",
+   "address": {
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.5955266,
+    "lon": -87.8519278
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1000064856",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "value-city-furniture-orland-park",
+   "name": "Value City Furniture",
+   "summary": "Value City Furniture is a furniture store in Orland Park, IL.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/value-city-furniture-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/value-city-furniture-orland-park.json",
+   "address": {
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.6044751,
+    "lon": -87.8555095
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9233962252",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

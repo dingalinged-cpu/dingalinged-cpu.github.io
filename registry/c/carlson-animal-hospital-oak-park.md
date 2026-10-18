@@ -1,0 +1,23 @@
+Carlson Animal Hospital is a veterinarian in Oak Park, IL.
+
+# Carlson Animal Hospital
+
+- Category: vet
+- Services: vet
+- Address: Oak Park, IL
+- City: Oak Park
+- State: IL
+- ZIP: n/a
+- Coordinates: 41.8889439, -87.7853712
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/carlson-animal-hospital-oak-park/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/carlson-animal-hospital-oak-park.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/771974700 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

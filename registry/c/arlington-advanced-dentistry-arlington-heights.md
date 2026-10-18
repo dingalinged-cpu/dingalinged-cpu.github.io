@@ -1,0 +1,23 @@
+Arlington Advanced Dentistry is a dentist in Arlington Heights, IL at 1845 East Rand Road #200, Arlington Heights, IL 60004.
+
+# Arlington Advanced Dentistry
+
+- Category: dentist
+- Services: dentist
+- Address: 1845 East Rand Road #200, Arlington Heights, IL 60004
+- City: Arlington Heights
+- State: IL
+- ZIP: 60004
+- Coordinates: 42.0986828, -87.9613464
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/arlington-advanced-dentistry-arlington-heights/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/arlington-advanced-dentistry-arlington-heights.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13173798067 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

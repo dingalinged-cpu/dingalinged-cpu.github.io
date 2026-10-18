@@ -1,0 +1,23 @@
+Anytime Fitness is a gym in St. John, IN at 10845 Maple Lane, St. John, IN 46373.
+
+# Anytime Fitness
+
+- Category: gym
+- Services: gym
+- Address: 10845 Maple Lane, St. John, IN 46373
+- City: St. John
+- State: IN
+- ZIP: 46373
+- Coordinates: 41.4222547, -87.4473141
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): 24/7
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/anytime-fitness-st-john/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/anytime-fitness-st-john.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1229709353 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

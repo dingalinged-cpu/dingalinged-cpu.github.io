@@ -1,0 +1,56 @@
+{
+ "slug": "hanover-park-animal-care-center-hanover-park",
+ "name": "Hanover Park Animal Care Center",
+ "categories": [
+  "vet"
+ ],
+ "keywords": [
+  "vet",
+  "vet hanover park il"
+ ],
+ "services": [
+  {
+   "name": "vet",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1920 Ontarioville Road",
+  "addressLocality": "Hanover Park",
+  "addressRegion": "IL",
+  "postalCode": "60133",
+  "addressCountry": "US"
+ },
+ "city": "Hanover Park",
+ "state": "IL",
+ "zip": "60133",
+ "geo": {
+  "lat": 41.9877529,
+  "lon": -88.1503951
+ },
+ "phone": "+16308306620",
+ "website": "https://www.hanoverparkvet.com/",
+ "schema_type": "VeterinaryCare",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/1447752425",
+ "osm": {
+  "type": "way",
+  "id": 1447752425,
+  "tags_used": {
+   "amenity": "veterinary"
+  }
+ },
+ "municipality": "Hanover Park",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/hanover-park-animal-care-center-hanover-park/",
+ "summary": "Hanover Park Animal Care Center is a veterinarian in Hanover Park, IL at 1920 Ontarioville Road, Hanover Park, IL 60133. Phone: +16308306620. Website: https://www.hanoverparkvet.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,54 @@
+{
+ "slug": "norms-car-wash-wilmette",
+ "name": "Norm's Car Wash",
+ "categories": [
+  "car wash"
+ ],
+ "keywords": [
+  "car wash",
+  "car wash wilmette il"
+ ],
+ "services": [
+  {
+   "name": "car wash",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1222 Washington Court",
+  "addressLocality": "Wilmette",
+  "addressRegion": "IL",
+  "postalCode": "60091",
+  "addressCountry": "US"
+ },
+ "city": "Wilmette",
+ "state": "IL",
+ "zip": "60091",
+ "geo": {
+  "lat": 42.0779251,
+  "lon": -87.7089453
+ },
+ "schema_type": "AutoWash",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/9191061279",
+ "osm": {
+  "type": "node",
+  "id": 9191061279,
+  "tags_used": {
+   "amenity": "car_wash"
+  }
+ },
+ "municipality": "Wilmette",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/norms-car-wash-wilmette/",
+ "summary": "Norm's Car Wash is a car wash in Wilmette, IL at 1222 Washington Court, Wilmette, IL 60091.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

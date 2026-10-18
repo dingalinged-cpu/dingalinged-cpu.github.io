@@ -1,0 +1,56 @@
+{
+ "slug": "trek-downers-grove",
+ "name": "Trek",
+ "categories": [
+  "bike shop"
+ ],
+ "keywords": [
+  "bike shop",
+  "bike shop downers grove il"
+ ],
+ "services": [
+  {
+   "name": "bike shop",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "639 Ogden Avenue",
+  "addressLocality": "Downers Grove",
+  "addressRegion": "IL",
+  "postalCode": "60515",
+  "addressCountry": "US"
+ },
+ "city": "Downers Grove",
+ "state": "IL",
+ "zip": "60515",
+ "geo": {
+  "lat": 41.8090474,
+  "lon": -88.0020177
+ },
+ "brand": "Trek",
+ "wikidata": "Q1067617",
+ "schema_type": "BikeStore",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/10295587353",
+ "osm": {
+  "type": "node",
+  "id": 10295587353,
+  "tags_used": {
+   "shop": "bicycle"
+  }
+ },
+ "municipality": "Downers Grove",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/trek-downers-grove/",
+ "summary": "Trek is a bike shop in Downers Grove, IL at 639 Ogden Avenue, Downers Grove, IL 60515.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

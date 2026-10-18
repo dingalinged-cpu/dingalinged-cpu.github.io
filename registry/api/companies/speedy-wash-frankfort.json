@@ -1,0 +1,56 @@
+{
+ "slug": "speedy-wash-frankfort",
+ "name": "Speedy Wash",
+ "categories": [
+  "car wash"
+ ],
+ "keywords": [
+  "car wash",
+  "car wash frankfort il"
+ ],
+ "services": [
+  {
+   "name": "car wash",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "11151 Lincoln Highway",
+  "addressLocality": "Frankfort",
+  "addressRegion": "IL",
+  "postalCode": "60423",
+  "addressCountry": "US"
+ },
+ "city": "Frankfort",
+ "state": "IL",
+ "zip": "60423",
+ "geo": {
+  "lat": 41.5026244,
+  "lon": -87.8875993
+ },
+ "brand": "Speedway",
+ "wikidata": "Q7575683",
+ "schema_type": "AutoWash",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/984553910",
+ "osm": {
+  "type": "way",
+  "id": 984553910,
+  "tags_used": {
+   "amenity": "car_wash"
+  }
+ },
+ "municipality": "Frankfort",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/speedy-wash-frankfort/",
+ "summary": "Speedy Wash is a car wash in Frankfort, IL at 11151 Lincoln Highway, Frankfort, IL 60423.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

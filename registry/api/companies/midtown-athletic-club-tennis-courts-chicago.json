@@ -1,0 +1,56 @@
+{
+ "slug": "midtown-athletic-club-tennis-courts-chicago",
+ "name": "Midtown Athletic Club Tennis Courts",
+ "categories": [
+  "gym"
+ ],
+ "keywords": [
+  "gym",
+  "gym chicago il"
+ ],
+ "services": [
+  {
+   "name": "gym",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "2445 North Elston Avenue",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60647",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60647",
+ "geo": {
+  "lat": 41.9262842,
+  "lon": -87.678337
+ },
+ "website": "https://www.midtown.com/locations/chicago/",
+ "schema_type": "ExerciseGym",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/654849739",
+ "osm": {
+  "type": "way",
+  "id": 654849739,
+  "tags_used": {
+   "leisure": "fitness_centre",
+   "sport": "tennis"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/midtown-athletic-club-tennis-courts-chicago/",
+ "summary": "Midtown Athletic Club Tennis Courts is a gym in Chicago, IL at 2445 North Elston Avenue, Chicago, IL 60647. Website: https://www.midtown.com/locations/chicago/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

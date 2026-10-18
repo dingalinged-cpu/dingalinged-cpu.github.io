@@ -1,0 +1,61 @@
+{
+ "slug": "hong-king-auto-service-wilmette",
+ "name": "Hong King Auto Service",
+ "categories": [
+  "auto repair"
+ ],
+ "keywords": [
+  "auto repair",
+  "mechanic",
+  "auto repair wilmette il",
+  "mechanic wilmette il"
+ ],
+ "services": [
+  {
+   "name": "auto repair",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "mechanic",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "3500 Lake Avenue",
+  "addressLocality": "Wilmette",
+  "addressRegion": "IL",
+  "postalCode": "60091",
+  "addressCountry": "US"
+ },
+ "city": "Wilmette",
+ "state": "IL",
+ "zip": "60091",
+ "geo": {
+  "lat": 42.0799152,
+  "lon": -87.7619682
+ },
+ "website": "https://www.hongkongautoservice.com/",
+ "schema_type": "AutoRepair",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/1112572010",
+ "osm": {
+  "type": "way",
+  "id": 1112572010,
+  "tags_used": {
+   "shop": "car_repair"
+  }
+ },
+ "municipality": "Wilmette",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/hong-king-auto-service-wilmette/",
+ "summary": "Hong King Auto Service is an auto repair shop in Wilmette, IL at 3500 Lake Avenue, Wilmette, IL 60091. Website: https://www.hongkongautoservice.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

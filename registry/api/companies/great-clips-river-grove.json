@@ -1,0 +1,62 @@
+{
+ "slug": "great-clips-river-grove",
+ "name": "Great Clips",
+ "categories": [
+  "hair salon"
+ ],
+ "keywords": [
+  "hair salon",
+  "haircut",
+  "hair salon river grove il",
+  "haircut river grove il"
+ ],
+ "services": [
+  {
+   "name": "hair salon",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "haircut",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "8251 West Belmont Avenue",
+  "addressLocality": "River Grove",
+  "addressRegion": "IL",
+  "postalCode": "60171",
+  "addressCountry": "US"
+ },
+ "city": "River Grove",
+ "state": "IL",
+ "zip": "60171",
+ "geo": {
+  "lat": 41.9372845,
+  "lon": -87.8328961
+ },
+ "brand": "Great Clips",
+ "wikidata": "Q5598967",
+ "schema_type": "HairSalon",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/8002070855",
+ "osm": {
+  "type": "node",
+  "id": 8002070855,
+  "tags_used": {
+   "shop": "hairdresser"
+  }
+ },
+ "municipality": "River Grove",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/great-clips-river-grove/",
+ "summary": "Great Clips is a hair salon in River Grove, IL at 8251 West Belmont Avenue, River Grove, IL 60171.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

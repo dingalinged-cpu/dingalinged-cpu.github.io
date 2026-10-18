@@ -1,0 +1,59 @@
+{
+ "slug": "vesper-chicago",
+ "name": "Vesper",
+ "categories": [
+  "dermatologist"
+ ],
+ "keywords": [
+  "dermatologist",
+  "dermatologist chicago il"
+ ],
+ "services": [
+  {
+   "name": "dermatologist",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "3916 North Broadway",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60613",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60613",
+ "geo": {
+  "lat": 41.9532504,
+  "lon": -87.6498441
+ },
+ "phone": "+17733608501",
+ "website": "https://vesperchi.com/",
+ "opening_hours": "Mo-Fr 09:00-19:00; Sa 10:00-15:00; Su off",
+ "schema_type": "Physician",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/11224124187",
+ "osm": {
+  "type": "node",
+  "id": 11224124187,
+  "tags_used": {
+   "amenity": "clinic",
+   "healthcare": "doctor",
+   "healthcare:speciality": "dermatology"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/vesper-chicago/",
+ "summary": "Vesper is a dermatologist in Chicago, IL at 3916 North Broadway, Chicago, IL 60613. Phone: +17733608501. Website: https://vesperchi.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

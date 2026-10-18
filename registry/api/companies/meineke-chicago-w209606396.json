@@ -1,0 +1,62 @@
+{
+ "slug": "meineke-chicago-w209606396",
+ "name": "Meineke",
+ "categories": [
+  "auto repair"
+ ],
+ "keywords": [
+  "auto repair",
+  "mechanic",
+  "auto repair chicago il",
+  "mechanic chicago il"
+ ],
+ "services": [
+  {
+   "name": "auto repair",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "mechanic",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "10716-10718 South Western Avenue",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60643",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60643",
+ "geo": {
+  "lat": 41.6985259,
+  "lon": -87.6816803
+ },
+ "brand": "Meineke",
+ "wikidata": "Q6810159",
+ "schema_type": "AutoRepair",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/209606396",
+ "osm": {
+  "type": "way",
+  "id": 209606396,
+  "tags_used": {
+   "shop": "car_repair"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/meineke-chicago-w209606396/",
+ "summary": "Meineke is an auto repair shop in Chicago, IL at 10716-10718 South Western Avenue, Chicago, IL 60643.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

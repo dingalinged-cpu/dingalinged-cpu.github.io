@@ -1,0 +1,23 @@
+State Farm is an insurance agent in Brookfield, IL at 3633 Hollywood Avenue, Brookfield, IL 60513.
+
+# State Farm
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: 3633 Hollywood Avenue, Brookfield, IL 60513
+- City: Brookfield
+- State: IL
+- ZIP: 60513
+- Coordinates: 41.8250637, -87.8336348
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 09:00-17:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/state-farm-brookfield-n10733645345/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/state-farm-brookfield-n10733645345.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10733645345 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

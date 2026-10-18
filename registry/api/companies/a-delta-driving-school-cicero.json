@@ -1,0 +1,51 @@
+{
+ "slug": "a-delta-driving-school-cicero",
+ "name": "A-Delta Driving School",
+ "categories": [
+  "driving school"
+ ],
+ "keywords": [
+  "driving school",
+  "driving school cicero il"
+ ],
+ "services": [
+  {
+   "name": "driving school",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Cicero",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Cicero",
+ "state": "IL",
+ "geo": {
+  "lat": 41.8514323,
+  "lon": -87.7538617
+ },
+ "schema_type": "EducationalOrganization",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/354232985",
+ "osm": {
+  "type": "node",
+  "id": 354232985,
+  "tags_used": {
+   "amenity": "driving_school"
+  }
+ },
+ "municipality": "Cicero",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/a-delta-driving-school-cicero/",
+ "summary": "A-Delta Driving School is a driving school in Cicero, IL.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

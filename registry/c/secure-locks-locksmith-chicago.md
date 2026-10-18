@@ -1,0 +1,23 @@
+Secure Locks Locksmith is a locksmith in Chicago, IL at 644 West Addison Street, Chicago, IL 60613. Phone: +17738235111. Website: https://securelocks.net/.
+
+# Secure Locks Locksmith
+
+- Category: locksmith
+- Services: locksmith
+- Address: 644 West Addison Street, Chicago, IL 60613
+- City: Chicago
+- State: IL
+- ZIP: 60613
+- Coordinates: 41.9475796, -87.646973
+- Phone: +17738235111
+- Website: https://securelocks.net/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/secure-locks-locksmith-chicago/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/secure-locks-locksmith-chicago.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11227977937 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

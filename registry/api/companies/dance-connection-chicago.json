@@ -1,0 +1,56 @@
+{
+ "slug": "dance-connection-chicago",
+ "name": "Dance Connection",
+ "categories": [
+  "dance studio"
+ ],
+ "keywords": [
+  "dance studio",
+  "dance studio chicago il"
+ ],
+ "services": [
+  {
+   "name": "dance studio",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "3117 North Clybourn Avenue",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60618",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60618",
+ "geo": {
+  "lat": 41.9382264,
+  "lon": -87.6861088
+ },
+ "phone": "+17734040006",
+ "website": "https://www.danceconnectionchicago.com/",
+ "schema_type": "SportsActivityLocation",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/12142130812",
+ "osm": {
+  "type": "node",
+  "id": 12142130812,
+  "tags_used": {
+   "amenity": "dancing_school"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/dance-connection-chicago/",
+ "summary": "Dance Connection is a dance studio in Chicago, IL at 3117 North Clybourn Avenue, Chicago, IL 60618. Phone: +17734040006. Website: https://www.danceconnectionchicago.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

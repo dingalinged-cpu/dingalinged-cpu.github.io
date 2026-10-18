@@ -1,0 +1,58 @@
+Keyword market for Northbrook, IL: 34 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Chicago-Naperville-Elgin, IL-IN metro (US volume x population share).
+
+# Top keywords in Northbrook, IL
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are in the JSON and dataset. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json
+
+## By monthly searches
+1. car wash northbrook il | searches/mo 51,000 (est) | CPC $4.35 | value $220,000 | Google Ads equiv $12,000/mo | our featured min $20/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/car-wash-northbrook-il/
+2. dentist northbrook il | searches/mo 51,000 (est) | CPC $4.70 | value $240,000 | Google Ads equiv $13,000/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/dentist-northbrook-il/
+3. gym northbrook il | searches/mo 51,000 (est) | CPC $1.67 | value $85,000 | Google Ads equiv $6,100/mo | our featured min $50/mo | registry competitors 5 | https://dingalinged-cpu.github.io/registry/k/gym-northbrook-il/
+4. hair salon northbrook il | searches/mo 41,000 (est) | CPC $0.55 | value $23,000 | Google Ads equiv $1,300/mo | our featured min $50/mo | registry competitors 5 | https://dingalinged-cpu.github.io/registry/k/hair-salon-northbrook-il/
+5. nail salon northbrook il | searches/mo 28,000 (est) | CPC $0.61 | value $17,000 | Google Ads equiv $980/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/nail-salon-northbrook-il/
+6. mechanic northbrook il | searches/mo 19,000 (est) | CPC $4.35 | value $83,000 | Google Ads equiv $4,600/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/mechanic-northbrook-il/
+7. vet northbrook il | searches/mo 15,000 (est) | CPC $4.06 | value $61,000 | Google Ads equiv $4,000/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/vet-northbrook-il/
+8. dog groomer northbrook il | searches/mo 12,000 (est) | CPC $4.06 | value $49,000 | Google Ads equiv $3,200/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/dog-groomer-northbrook-il/
+9. haircut northbrook il | searches/mo 10,000 (est) | CPC $4.62 | value $46,000 | Google Ads equiv $2,600/mo | our featured min $50/mo | registry competitors 5 | https://dingalinged-cpu.github.io/registry/k/haircut-northbrook-il/
+10. auto repair northbrook il | searches/mo 8,300 (est) | CPC $4.35 | value $36,000 | Google Ads equiv $2,000/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/auto-repair-northbrook-il/
+11. chiropractor northbrook il | searches/mo 6,800 (est) | CPC $4.76 | value $32,000 | Google Ads equiv $2,200/mo | our featured min $50/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/chiropractor-northbrook-il/
+12. landscaping northbrook il | searches/mo 5,500 (est) | CPC $8.76 | value $48,000 | Google Ads equiv $3,100/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/landscaping-northbrook-il/
+13. real estate agent northbrook il | searches/mo 5,500 (est) | CPC $3.61 | value $20,000 | Google Ads equiv $1,700/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/real-estate-agent-northbrook-il/
+14. realtor northbrook il | searches/mo 2,500 (est) | CPC $3.70 | value $9,200 | Google Ads equiv $780/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/realtor-northbrook-il/
+15. attorney northbrook il | searches/mo 2,000 (est) | CPC $9.87 | value $20,000 | Google Ads equiv $1,200/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/attorney-northbrook-il/
+
+## By CPC
+1. hvac repair northbrook il | searches/mo 2,000 (est) | CPC $17.76 | value $36,000 | Google Ads equiv $2,300/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/hvac-repair-northbrook-il/
+2. attorney northbrook il | searches/mo 2,000 (est) | CPC $9.87 | value $20,000 | Google Ads equiv $1,200/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/attorney-northbrook-il/
+3. lawyer northbrook il | searches/mo 1,400 (est) | CPC $9.87 | value $14,000 | Google Ads equiv $820/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/lawyer-northbrook-il/
+4. landscaping northbrook il | searches/mo 5,500 (est) | CPC $8.76 | value $48,000 | Google Ads equiv $3,100/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/landscaping-northbrook-il/
+5. heating and air northbrook il | searches/mo 99.00 (est) | CPC $8.33 | value $820 | Google Ads equiv $53.00/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/heating-and-air-northbrook-il/
+6. storage units northbrook il | searches/mo 6,100 (est) | CPC $8.33 | value $51,000 | Google Ads equiv $3,200/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/storage-units-northbrook-il/
+7. florist northbrook il | searches/mo 6,100 (est) | CPC $7.17 | value $44,000 | Google Ads equiv $3,400/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/florist-northbrook-il/
+8. staffing agency northbrook il | searches/mo 3,900 (est) | CPC $5.87 | value $23,000 | Google Ads equiv $1,300/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/staffing-agency-northbrook-il/
+9. music lessons northbrook il | searches/mo 1,100 (est) | CPC $4.81 | value $5,300 | Google Ads equiv $300/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/music-lessons-northbrook-il/
+10. preschool northbrook il | searches/mo 6,100 (est) | CPC $4.81 | value $29,000 | Google Ads equiv $1,700/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/preschool-northbrook-il/
+11. chiropractor northbrook il | searches/mo 6,800 (est) | CPC $4.76 | value $32,000 | Google Ads equiv $2,200/mo | our featured min $50/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/chiropractor-northbrook-il/
+12. therapist northbrook il | searches/mo 6,100 (est) | CPC $4.76 | value $29,000 | Google Ads equiv $2,000/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/therapist-northbrook-il/
+13. dentist northbrook il | searches/mo 51,000 (est) | CPC $4.70 | value $240,000 | Google Ads equiv $13,000/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/dentist-northbrook-il/
+14. haircut northbrook il | searches/mo 10,000 (est) | CPC $4.62 | value $46,000 | Google Ads equiv $2,600/mo | our featured min $50/mo | registry competitors 5 | https://dingalinged-cpu.github.io/registry/k/haircut-northbrook-il/
+15. auto repair northbrook il | searches/mo 8,300 (est) | CPC $4.35 | value $36,000 | Google Ads equiv $2,000/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/auto-repair-northbrook-il/
+
+## By value (searches x CPC)
+1. dentist northbrook il | searches/mo 51,000 (est) | CPC $4.70 | value $240,000 | Google Ads equiv $13,000/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/dentist-northbrook-il/
+2. car wash northbrook il | searches/mo 51,000 (est) | CPC $4.35 | value $220,000 | Google Ads equiv $12,000/mo | our featured min $20/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/car-wash-northbrook-il/
+3. gym northbrook il | searches/mo 51,000 (est) | CPC $1.67 | value $85,000 | Google Ads equiv $6,100/mo | our featured min $50/mo | registry competitors 5 | https://dingalinged-cpu.github.io/registry/k/gym-northbrook-il/
+4. mechanic northbrook il | searches/mo 19,000 (est) | CPC $4.35 | value $83,000 | Google Ads equiv $4,600/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/mechanic-northbrook-il/
+5. vet northbrook il | searches/mo 15,000 (est) | CPC $4.06 | value $61,000 | Google Ads equiv $4,000/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/vet-northbrook-il/
+6. dog groomer northbrook il | searches/mo 12,000 (est) | CPC $4.06 | value $49,000 | Google Ads equiv $3,200/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/dog-groomer-northbrook-il/
+7. landscaping northbrook il | searches/mo 5,500 (est) | CPC $8.76 | value $48,000 | Google Ads equiv $3,100/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/landscaping-northbrook-il/
+8. haircut northbrook il | searches/mo 10,000 (est) | CPC $4.62 | value $46,000 | Google Ads equiv $2,600/mo | our featured min $50/mo | registry competitors 5 | https://dingalinged-cpu.github.io/registry/k/haircut-northbrook-il/
+9. auto repair northbrook il | searches/mo 8,300 (est) | CPC $4.35 | value $36,000 | Google Ads equiv $2,000/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/auto-repair-northbrook-il/
+10. hvac repair northbrook il | searches/mo 2,000 (est) | CPC $17.76 | value $36,000 | Google Ads equiv $2,300/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/hvac-repair-northbrook-il/
+11. chiropractor northbrook il | searches/mo 6,800 (est) | CPC $4.76 | value $32,000 | Google Ads equiv $2,200/mo | our featured min $50/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/chiropractor-northbrook-il/
+12. hair salon northbrook il | searches/mo 41,000 (est) | CPC $0.55 | value $23,000 | Google Ads equiv $1,300/mo | our featured min $50/mo | registry competitors 5 | https://dingalinged-cpu.github.io/registry/k/hair-salon-northbrook-il/
+13. attorney northbrook il | searches/mo 2,000 (est) | CPC $9.87 | value $20,000 | Google Ads equiv $1,200/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/attorney-northbrook-il/
+14. real estate agent northbrook il | searches/mo 5,500 (est) | CPC $3.61 | value $20,000 | Google Ads equiv $1,700/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/real-estate-agent-northbrook-il/
+15. nail salon northbrook il | searches/mo 28,000 (est) | CPC $0.61 | value $17,000 | Google Ads equiv $980/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/nail-salon-northbrook-il/
+
+All market data: https://dingalinged-cpu.github.io/registry/market/ | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html

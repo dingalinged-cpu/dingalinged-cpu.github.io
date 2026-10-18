@@ -1,0 +1,57 @@
+{
+ "slug": "thomas-a-swingler-dds-oak-lawn",
+ "name": "Thomas A. Swingler DDS",
+ "categories": [
+  "dentist"
+ ],
+ "keywords": [
+  "dentist",
+  "dentist oak lawn il"
+ ],
+ "services": [
+  {
+   "name": "dentist",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "4600 103rd Street",
+  "addressLocality": "Oak Lawn",
+  "addressRegion": "IL",
+  "postalCode": "60453",
+  "addressCountry": "US"
+ },
+ "city": "Oak Lawn",
+ "state": "IL",
+ "zip": "60453",
+ "geo": {
+  "lat": 41.7060151,
+  "lon": -87.7356684
+ },
+ "phone": "+17084238380",
+ "website": "https://www.thomasaswinglerdds.com/",
+ "schema_type": "Dentist",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/4684984700",
+ "osm": {
+  "type": "node",
+  "id": 4684984700,
+  "tags_used": {
+   "amenity": "dentist",
+   "healthcare": "dentist"
+  }
+ },
+ "municipality": "Oak Lawn",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/thomas-a-swingler-dds-oak-lawn/",
+ "summary": "Thomas A. Swingler DDS is a dentist in Oak Lawn, IL at 4600 103rd Street, Oak Lawn, IL 60453. Phone: +17084238380. Website: https://www.thomasaswinglerdds.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

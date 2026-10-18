@@ -1,0 +1,23 @@
+Regi's Fitness Studio is a gym in Mokena, IL at 11133 Wolf Road, Mokena, IL 60448. Phone: +17089353549.
+
+# Regi's Fitness Studio
+
+- Category: gym
+- Services: gym
+- Address: 11133 Wolf Road, Mokena, IL 60448
+- City: Mokena
+- State: IL
+- ZIP: 60448
+- Coordinates: 41.5420659, -87.8889934
+- Phone: +17089353549
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/regis-fitness-studio-mokena/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/regis-fitness-studio-mokena.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13306276685 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

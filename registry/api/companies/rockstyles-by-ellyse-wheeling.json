@@ -1,0 +1,61 @@
+{
+ "slug": "rockstyles-by-ellyse-wheeling",
+ "name": "Rockstyles By Ellyse",
+ "categories": [
+  "hair salon"
+ ],
+ "keywords": [
+  "hair salon",
+  "haircut",
+  "hair salon wheeling il",
+  "haircut wheeling il"
+ ],
+ "services": [
+  {
+   "name": "hair salon",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "haircut",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "749 West Dundee Road",
+  "addressLocality": "Wheeling",
+  "addressRegion": "IL",
+  "postalCode": "60090",
+  "addressCountry": "US"
+ },
+ "city": "Wheeling",
+ "state": "IL",
+ "zip": "60090",
+ "geo": {
+  "lat": 42.138847,
+  "lon": -87.9343409
+ },
+ "opening_hours": "Tu-Fr 12:00-19:00; Sa 11:30-17:00",
+ "schema_type": "HairSalon",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/11382583069",
+ "osm": {
+  "type": "node",
+  "id": 11382583069,
+  "tags_used": {
+   "shop": "hairdresser"
+  }
+ },
+ "municipality": "Wheeling",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/rockstyles-by-ellyse-wheeling/",
+ "summary": "Rockstyles By Ellyse is a hair salon in Wheeling, IL at 749 West Dundee Road, Wheeling, IL 60090.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

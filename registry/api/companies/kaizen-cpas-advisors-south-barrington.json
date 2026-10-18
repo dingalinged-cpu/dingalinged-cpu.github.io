@@ -1,0 +1,63 @@
+{
+ "slug": "kaizen-cpas-advisors-south-barrington",
+ "name": "Kaizen CPAs + Advisors",
+ "categories": [
+  "accountant"
+ ],
+ "keywords": [
+  "accountant",
+  "accounting services",
+  "accountant south barrington il",
+  "accounting services south barrington il"
+ ],
+ "services": [
+  {
+   "name": "accountant",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "accounting services",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "166 Executive Court #2",
+  "addressLocality": "South Barrington",
+  "addressRegion": "IL",
+  "postalCode": "60010",
+  "addressCountry": "US"
+ },
+ "city": "South Barrington",
+ "state": "IL",
+ "zip": "60010",
+ "geo": {
+  "lat": 42.0761349,
+  "lon": -88.1423626
+ },
+ "phone": "+18476205200",
+ "website": "https://www.kaizencpas.com/",
+ "opening_hours": "Mo-Fr 09:00-18:00",
+ "schema_type": "AccountingService",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/10088785991",
+ "osm": {
+  "type": "node",
+  "id": 10088785991,
+  "tags_used": {
+   "office": "accountant"
+  }
+ },
+ "municipality": "South Barrington",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/kaizen-cpas-advisors-south-barrington/",
+ "summary": "Kaizen CPAs + Advisors is an accountant in South Barrington, IL at 166 Executive Court #2, South Barrington, IL 60010. Phone: +18476205200. Website: https://www.kaizencpas.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

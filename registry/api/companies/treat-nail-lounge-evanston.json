@@ -1,0 +1,55 @@
+{
+ "slug": "treat-nail-lounge-evanston",
+ "name": "Treat Nail Lounge",
+ "categories": [
+  "nail salon"
+ ],
+ "keywords": [
+  "nail salon",
+  "nail salon evanston il"
+ ],
+ "services": [
+  {
+   "name": "nail salon",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Evanston",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Evanston",
+ "state": "IL",
+ "geo": {
+  "lat": 42.0641978,
+  "lon": -87.7030022
+ },
+ "phone": "+18478661305",
+ "website": "https://www.facebook.com/treatnail/",
+ "email": "treatevanston@gmail.com",
+ "schema_type": "NailSalon",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/12518512795",
+ "osm": {
+  "type": "node",
+  "id": 12518512795,
+  "tags_used": {
+   "shop": "beauty",
+   "beauty": "nails"
+  }
+ },
+ "municipality": "Evanston",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/treat-nail-lounge-evanston/",
+ "summary": "Treat Nail Lounge is a nail salon in Evanston, IL. Phone: +18478661305. Website: https://www.facebook.com/treatnail/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

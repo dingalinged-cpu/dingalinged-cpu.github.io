@@ -1,0 +1,23 @@
+Midwest Music Academy is a music school in Plainfield, IL at 16041 Joliet Road, Plainfield, IL 60586.
+
+# Midwest Music Academy
+
+- Category: music lessons
+- Services: music lessons
+- Address: 16041 Joliet Road, Plainfield, IL 60586
+- City: Plainfield
+- State: IL
+- ZIP: 60586
+- Coordinates: 41.591591, -88.1838529
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/midwest-music-academy-plainfield/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/midwest-music-academy-plainfield.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13958764509 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

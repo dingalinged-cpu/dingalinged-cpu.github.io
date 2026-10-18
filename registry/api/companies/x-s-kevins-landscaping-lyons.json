@@ -1,0 +1,52 @@
+{
+ "slug": "x-s-kevins-landscaping-lyons",
+ "name": "X S Kevin's Landscaping",
+ "categories": [
+  "landscaping"
+ ],
+ "keywords": [
+  "landscaping",
+  "landscaping lyons il"
+ ],
+ "services": [
+  {
+   "name": "landscaping",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Lyons",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Lyons",
+ "state": "IL",
+ "geo": {
+  "lat": 41.8127863,
+  "lon": -87.8191083
+ },
+ "website": "https://m.facebook.com/XSKevinsLandscaping/",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/1068806128",
+ "osm": {
+  "type": "way",
+  "id": 1068806128,
+  "tags_used": {
+   "craft": "gardener"
+  }
+ },
+ "municipality": "Lyons",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/x-s-kevins-landscaping-lyons/",
+ "summary": "X S Kevin's Landscaping is a landscaping company in Lyons, IL. Website: https://m.facebook.com/XSKevinsLandscaping/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

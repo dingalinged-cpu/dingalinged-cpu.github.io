@@ -1,0 +1,63 @@
+{
+ "slug": "midas-wheeling",
+ "name": "Midas",
+ "categories": [
+  "auto repair"
+ ],
+ "keywords": [
+  "auto repair",
+  "mechanic",
+  "auto repair wheeling il",
+  "mechanic wheeling il"
+ ],
+ "services": [
+  {
+   "name": "auto repair",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "mechanic",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1044 South Milwaukee Avenue",
+  "addressLocality": "Wheeling",
+  "addressRegion": "IL",
+  "postalCode": "60090",
+  "addressCountry": "US"
+ },
+ "city": "Wheeling",
+ "state": "IL",
+ "zip": "60090",
+ "geo": {
+  "lat": 42.1195248,
+  "lon": -87.8958033
+ },
+ "website": "https://www.midas.com/store/il/wheeling/1044-s-milwaukee-ave-60090?shopnum=2170",
+ "brand": "Midas",
+ "wikidata": "Q3312613",
+ "schema_type": "AutoRepair",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/344369823",
+ "osm": {
+  "type": "way",
+  "id": 344369823,
+  "tags_used": {
+   "shop": "car_repair"
+  }
+ },
+ "municipality": "Wheeling",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/midas-wheeling/",
+ "summary": "Midas is an auto repair shop in Wheeling, IL at 1044 South Milwaukee Avenue, Wheeling, IL 60090. Website: https://www.midas.com/store/il/wheeling/1044-s-milwaukee-ave-60090?shopnum=2170.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,54 @@
+{
+ "slug": "olympia-bakery-hickory-hills",
+ "name": "Olympia Bakery",
+ "categories": [
+  "bakery"
+ ],
+ "keywords": [
+  "bakery",
+  "bakery hickory hills il"
+ ],
+ "services": [
+  {
+   "name": "bakery",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "South Roberts Road",
+  "addressLocality": "Hickory Hills",
+  "addressRegion": "IL",
+  "postalCode": "60457",
+  "addressCountry": "US"
+ },
+ "city": "Hickory Hills",
+ "state": "IL",
+ "zip": "60457",
+ "geo": {
+  "lat": 41.7235201,
+  "lon": -87.8184618
+ },
+ "schema_type": "Bakery",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/1283740522",
+ "osm": {
+  "type": "way",
+  "id": 1283740522,
+  "tags_used": {
+   "shop": "bakery"
+  }
+ },
+ "municipality": "Hickory Hills",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/olympia-bakery-hickory-hills/",
+ "summary": "Olympia Bakery is a bakery in Hickory Hills, IL at South Roberts Road, Hickory Hills, IL 60457.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

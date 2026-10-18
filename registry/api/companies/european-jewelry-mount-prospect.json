@@ -1,0 +1,51 @@
+{
+ "slug": "european-jewelry-mount-prospect",
+ "name": "European Jewelry",
+ "categories": [
+  "jewelry store"
+ ],
+ "keywords": [
+  "jewelry store",
+  "jewelry store mount prospect il"
+ ],
+ "services": [
+  {
+   "name": "jewelry store",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Mount Prospect",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Mount Prospect",
+ "state": "IL",
+ "geo": {
+  "lat": 42.0634473,
+  "lon": -87.9359462
+ },
+ "schema_type": "JewelryStore",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/6261412669",
+ "osm": {
+  "type": "node",
+  "id": 6261412669,
+  "tags_used": {
+   "shop": "jewelry"
+  }
+ },
+ "municipality": "Mount Prospect",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/european-jewelry-mount-prospect/",
+ "summary": "European Jewelry is a jewelry store in Mount Prospect, IL.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

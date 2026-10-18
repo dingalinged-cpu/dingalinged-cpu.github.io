@@ -1,0 +1,57 @@
+{
+ "slug": "kensho-martial-arts-chicago",
+ "name": "Kensho Martial Arts",
+ "categories": [
+  "martial arts"
+ ],
+ "keywords": [
+  "martial arts",
+  "martial arts chicago il"
+ ],
+ "services": [
+  {
+   "name": "martial arts",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1030 West North Avenue #3rd Floor",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60642",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60642",
+ "geo": {
+  "lat": 41.910979,
+  "lon": -87.6544934
+ },
+ "phone": "+13129578050",
+ "website": "https://kenshochicago.com/",
+ "schema_type": "SportsActivityLocation",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/6187957239",
+ "osm": {
+  "type": "node",
+  "id": 6187957239,
+  "tags_used": {
+   "amenity": "dojo",
+   "sport": "kickboxing;mma"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/kensho-martial-arts-chicago/",
+ "summary": "Kensho Martial Arts is a martial arts school in Chicago, IL at 1030 West North Avenue #3rd Floor, Chicago, IL 60642. Phone: +13129578050. Website: https://kenshochicago.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

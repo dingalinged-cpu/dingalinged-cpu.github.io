@@ -1,0 +1,1192 @@
+{
+ "place": "Berwyn, IL",
+ "slug": "berwyn-il",
+ "count": 35,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "appliance repair berwyn il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/appliance-repair-berwyn-il.json"
+  },
+  {
+   "keyword": "attorney berwyn il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/attorney-berwyn-il.json"
+  },
+  {
+   "keyword": "auto repair berwyn il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-berwyn-il.json"
+  },
+  {
+   "keyword": "bakery berwyn il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/bakery-berwyn-il.json"
+  },
+  {
+   "keyword": "bike shop berwyn il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/bike-shop-berwyn-il.json"
+  },
+  {
+   "keyword": "car wash berwyn il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-berwyn-il.json"
+  },
+  {
+   "keyword": "caterers berwyn il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/caterers-berwyn-il.json"
+  },
+  {
+   "keyword": "computer repair berwyn il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/computer-repair-berwyn-il.json"
+  },
+  {
+   "keyword": "daycare berwyn il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/daycare-berwyn-il.json"
+  },
+  {
+   "keyword": "dentist berwyn il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-berwyn-il.json"
+  },
+  {
+   "keyword": "florist berwyn il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/florist-berwyn-il.json"
+  },
+  {
+   "keyword": "hair salon berwyn il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-berwyn-il.json"
+  },
+  {
+   "keyword": "haircut berwyn il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-berwyn-il.json"
+  },
+  {
+   "keyword": "insurance agency berwyn il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-berwyn-il.json"
+  },
+  {
+   "keyword": "insurance agent berwyn il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-berwyn-il.json"
+  },
+  {
+   "keyword": "insurance agents berwyn il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-berwyn-il.json"
+  },
+  {
+   "keyword": "lawyer berwyn il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/lawyer-berwyn-il.json"
+  },
+  {
+   "keyword": "liquor store berwyn il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/liquor-store-berwyn-il.json"
+  },
+  {
+   "keyword": "massage berwyn il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/massage-berwyn-il.json"
+  },
+  {
+   "keyword": "mattress store berwyn il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mattress-store-berwyn-il.json"
+  },
+  {
+   "keyword": "mechanic berwyn il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-berwyn-il.json"
+  },
+  {
+   "keyword": "pet store berwyn il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/pet-store-berwyn-il.json"
+  },
+  {
+   "keyword": "phone repair berwyn il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/phone-repair-berwyn-il.json"
+  },
+  {
+   "keyword": "preschool berwyn il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/preschool-berwyn-il.json"
+  },
+  {
+   "keyword": "printing services berwyn il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/printing-services-berwyn-il.json"
+  },
+  {
+   "keyword": "staffing agency berwyn il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/staffing-agency-berwyn-il.json"
+  },
+  {
+   "keyword": "storage units berwyn il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/storage-units-berwyn-il.json"
+  },
+  {
+   "keyword": "tax preparation berwyn il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tax-preparation-berwyn-il.json"
+  },
+  {
+   "keyword": "tax preparer berwyn il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tax-preparer-berwyn-il.json"
+  },
+  {
+   "keyword": "used cars for sale berwyn il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/used-cars-for-sale-berwyn-il.json"
+  },
+  {
+   "keyword": "vet berwyn il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/vet-berwyn-il.json"
+  },
+  {
+   "keyword": "windshield replacement berwyn il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/windshield-replacement-berwyn-il.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "asurion-tech-repair-and-solutions-berwyn",
+   "name": "Asurion Tech Repair & Solutions",
+   "summary": "Asurion Tech Repair & Solutions is a phone repair shop in Berwyn, IL at 7044 West Cermak Road, Berwyn, IL 60402. Phone: +17083175743. Website: https://www.asurion.com/repairs/tech/locations/berwyn/.",
+   "categories": [
+    "phone repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/asurion-tech-repair-and-solutions-berwyn/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/asurion-tech-repair-and-solutions-berwyn.json",
+   "address": {
+    "streetAddress": "7044 West Cermak Road",
+    "addressLocality": "Berwyn",
+    "addressRegion": "IL",
+    "postalCode": "60402",
+    "addressCountry": "US"
+   },
+   "city": "Berwyn",
+   "state": "IL",
+   "zip": "60402",
+   "geo": {
+    "lat": 41.8507286,
+    "lon": -87.8006662
+   },
+   "phone": "+17083175743",
+   "website": "https://www.asurion.com/repairs/tech/locations/berwyn/",
+   "opening_hours": "Mo-Sa 10:00-19:00; Su 12:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1195935889",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "forever-dental-berwyn-berwyn",
+   "name": "Forever Dental - Berwyn",
+   "summary": "Forever Dental - Berwyn is a dentist in Berwyn, IL at 2550 Oak Park Avenue, Berwyn, IL 60402. Phone: +17087889414. Website: https://dentistschicago.com/dentist/il/berwyn/2550-oak-park-ave/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/forever-dental-berwyn-berwyn/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/forever-dental-berwyn-berwyn.json",
+   "address": {
+    "streetAddress": "2550 Oak Park Avenue",
+    "addressLocality": "Berwyn",
+    "addressRegion": "IL",
+    "postalCode": "60402",
+    "addressCountry": "US"
+   },
+   "city": "Berwyn",
+   "state": "IL",
+   "zip": "60402",
+   "geo": {
+    "lat": 41.843428,
+    "lon": -87.7936472
+   },
+   "phone": "+17087889414",
+   "website": "https://dentistschicago.com/dentist/il/berwyn/2550-oak-park-ave/",
+   "opening_hours": "Mo 08:00-16:00; Tu 10:00-19:00; Th-Fr 07:00-15:00 PM; We, Sa, Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13301760946",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "insurance-navy-brokers-berwyn",
+   "name": "Insurance Navy Brokers",
+   "summary": "Insurance Navy Brokers is an insurance agent in Berwyn, IL at 6905 West Ogden Avenue, Berwyn, IL 60402. Phone: +17087971500. Website: https://www.insurancenavy.com/locations/il/berwyn/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/insurance-navy-brokers-berwyn/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/insurance-navy-brokers-berwyn.json",
+   "address": {
+    "streetAddress": "6905 West Ogden Avenue",
+    "addressLocality": "Berwyn",
+    "addressRegion": "IL",
+    "postalCode": "60402",
+    "addressCountry": "US"
+   },
+   "city": "Berwyn",
+   "state": "IL",
+   "zip": "60402",
+   "geo": {
+    "lat": 41.826556,
+    "lon": -87.7957294
+   },
+   "phone": "+17087971500",
+   "website": "https://www.insurancenavy.com/locations/il/berwyn/",
+   "opening_hours": "Mo-Sa 10:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10755256091",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "tortilleria-el-rey-berwyn",
+   "name": "Tortilleria El Rey",
+   "summary": "Tortilleria El Rey is a bakery in Berwyn, IL at 6311 West Cermak Road, Berwyn, IL 60402. Phone: +17087494866. Website: https://tortilleriaelrey.com/.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tortilleria-el-rey-berwyn/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tortilleria-el-rey-berwyn.json",
+   "address": {
+    "streetAddress": "6311 West Cermak Road",
+    "addressLocality": "Berwyn",
+    "addressRegion": "IL",
+    "postalCode": "60402",
+    "addressCountry": "US"
+   },
+   "city": "Berwyn",
+   "state": "IL",
+   "zip": "60402",
+   "geo": {
+    "lat": 41.8505016,
+    "lon": -87.7817466
+   },
+   "phone": "+17087494866",
+   "website": "https://tortilleriaelrey.com/",
+   "opening_hours": "Mo-Sa 07:00-17:00, Su 07:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11740437270",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "arts-cycling-and-fitness-berwyn",
+   "name": "Art's Cycling & Fitness",
+   "summary": "Art's Cycling & Fitness is a bike shop in Berwyn, IL at 6212 West Cermak Road, Berwyn, IL 60402. Phone: +17087880943. Website: https://artscycling.com/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/arts-cycling-and-fitness-berwyn/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/arts-cycling-and-fitness-berwyn.json",
+   "address": {
+    "streetAddress": "6212 West Cermak Road",
+    "addressLocality": "Berwyn",
+    "addressRegion": "IL",
+    "postalCode": "60402",
+    "addressCountry": "US"
+   },
+   "city": "Berwyn",
+   "state": "IL",
+   "zip": "60402",
+   "geo": {
+    "lat": 41.8510428,
+    "lon": -87.7793149
+   },
+   "phone": "+17087880943",
+   "website": "https://artscycling.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2487953979",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "cake-bros-berwyn",
+   "name": "Cake Bros.",
+   "summary": "Cake Bros. is a bakery in Berwyn, IL at 6737 West 26th Street, Berwyn, IL 60402. Phone: +17087492504. Website: https://www.cakebros.com/.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cake-bros-berwyn/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cake-bros-berwyn.json",
+   "address": {
+    "streetAddress": "6737 West 26th Street",
+    "addressLocality": "Berwyn",
+    "addressRegion": "IL",
+    "postalCode": "60402",
+    "addressCountry": "US"
+   },
+   "city": "Berwyn",
+   "state": "IL",
+   "zip": "60402",
+   "geo": {
+    "lat": 41.843396,
+    "lon": -87.792539
+   },
+   "phone": "+17087492504",
+   "website": "https://www.cakebros.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8181744859",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "mattress-firm-berwyn",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Berwyn, IL at 7112 West Cermak Road, Berwyn, IL 60402. Phone: +13127816431. Website: https://www.mattressfirm.com/en-us/stores/il/berwyn/119154/.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-berwyn/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-berwyn.json",
+   "address": {
+    "streetAddress": "7112 West Cermak Road",
+    "addressLocality": "Berwyn",
+    "addressRegion": "IL",
+    "postalCode": "60402",
+    "addressCountry": "US"
+   },
+   "city": "Berwyn",
+   "state": "IL",
+   "zip": "60402",
+   "geo": {
+    "lat": 41.8507034,
+    "lon": -87.8018211
+   },
+   "phone": "+13127816431",
+   "website": "https://www.mattressfirm.com/en-us/stores/il/berwyn/119154/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7551089455",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "caribbean-travel-and-income-tax-service-berwyn",
+   "name": "Caribbean Travel & Income Tax Service",
+   "summary": "Caribbean Travel & Income Tax Service is a tax preparation service in Berwyn, IL at 6735 West 26th Street, Berwyn, IL 60402. Phone: +17087494879.",
+   "categories": [
+    "tax preparation"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/caribbean-travel-and-income-tax-service-berwyn/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/caribbean-travel-and-income-tax-service-berwyn.json",
+   "address": {
+    "streetAddress": "6735 West 26th Street",
+    "addressLocality": "Berwyn",
+    "addressRegion": "IL",
+    "postalCode": "60402",
+    "addressCountry": "US"
+   },
+   "city": "Berwyn",
+   "state": "IL",
+   "zip": "60402",
+   "geo": {
+    "lat": 41.8434035,
+    "lon": -87.7923976
+   },
+   "phone": "+17087494879",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8181744857",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "diane-garrison-d-d-s-berwyn",
+   "name": "Diane Garrison D.D.S",
+   "summary": "Diane Garrison D.D.S is a dentist in Berwyn, IL at 2550 Oak Park Avenue, Berwyn, IL 60402. Website: https://www.dianegarrisondds.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/diane-garrison-d-d-s-berwyn/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/diane-garrison-d-d-s-berwyn.json",
+   "address": {
+    "streetAddress": "2550 Oak Park Avenue",
+    "addressLocality": "Berwyn",
+    "addressRegion": "IL",
+    "postalCode": "60402",
+    "addressCountry": "US"
+   },
+   "city": "Berwyn",
+   "state": "IL",
+   "zip": "60402",
+   "geo": {
+    "lat": 41.8434441,
+    "lon": -87.7936141
+   },
+   "website": "https://www.dianegarrisondds.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8181741704",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "happy-days-child-care-center-berwyn",
+   "name": "Happy Days Child Care Center",
+   "summary": "Happy Days Child Care Center is a daycare in Berwyn, IL at 6304 West 26th Street, Berwyn, IL 60402. Website: https://happydayschildcarecenter.org/.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/happy-days-child-care-center-berwyn/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/happy-days-child-care-center-berwyn.json",
+   "address": {
+    "streetAddress": "6304 West 26th Street",
+    "addressLocality": "Berwyn",
+    "addressRegion": "IL",
+    "postalCode": "60402",
+    "addressCountry": "US"
+   },
+   "city": "Berwyn",
+   "state": "IL",
+   "zip": "60402",
+   "geo": {
+    "lat": 41.8435693,
+    "lon": -87.781261
+   },
+   "website": "https://happydayschildcarecenter.org/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8399992886",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "jiffy-lube-berwyn",
+   "name": "Jiffy Lube",
+   "summary": "Jiffy Lube is an auto repair shop in Berwyn, IL at 6930 West Cermak Road, Berwyn, IL 60402. Website: https://www.jiffylube.com/locations/il/berwyn/279.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jiffy-lube-berwyn/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jiffy-lube-berwyn.json",
+   "address": {
+    "streetAddress": "6930 West Cermak Road",
+    "addressLocality": "Berwyn",
+    "addressRegion": "IL",
+    "postalCode": "60402",
+    "addressCountry": "US"
+   },
+   "city": "Berwyn",
+   "state": "IL",
+   "zip": "60402",
+   "geo": {
+    "lat": 41.8507376,
+    "lon": -87.7975075
+   },
+   "website": "https://www.jiffylube.com/locations/il/berwyn/279",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1298886159",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "pet-supplies-plus-berwyn",
+   "name": "Pet Supplies Plus",
+   "summary": "Pet Supplies Plus is a pet store in Berwyn, IL at 7133 West Cermak Road, Berwyn, IL 60402. Website: https://www.petsuppliesplus.com/Store/IL/Berwyn/Berwyn/4246.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-berwyn/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pet-supplies-plus-berwyn.json",
+   "address": {
+    "streetAddress": "7133 West Cermak Road",
+    "addressLocality": "Berwyn",
+    "addressRegion": "IL",
+    "postalCode": "60402",
+    "addressCountry": "US"
+   },
+   "city": "Berwyn",
+   "state": "IL",
+   "zip": "60402",
+   "geo": {
+    "lat": 41.848755,
+    "lon": -87.8016317
+   },
+   "website": "https://www.petsuppliesplus.com/Store/IL/Berwyn/Berwyn/4246",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7262581445",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "public-storage-berwyn",
+   "name": "Public Storage",
+   "summary": "Public Storage is a self-storage facility in Berwyn, IL at 2801 South Harlem Avenue, Berwyn, IL 60402. Website: https://www.publicstorage.com/self-storage-il-berwyn/1737.html.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/public-storage-berwyn/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/public-storage-berwyn.json",
+   "address": {
+    "streetAddress": "2801 South Harlem Avenue",
+    "addressLocality": "Berwyn",
+    "addressRegion": "IL",
+    "postalCode": "60402",
+    "addressCountry": "US"
+   },
+   "city": "Berwyn",
+   "state": "IL",
+   "zip": "60402",
+   "geo": {
+    "lat": 41.8408087,
+    "lon": -87.8028878
+   },
+   "website": "https://www.publicstorage.com/self-storage-il-berwyn/1737.html",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/624650729",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "farmers-insurance-berwyn",
+   "name": "Farmers Insurance",
+   "summary": "Farmers Insurance is an insurance agent in Berwyn, IL. Website: https://agents.farmers.com/il/berwyn/melissa-terrazas.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/farmers-insurance-berwyn/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/farmers-insurance-berwyn.json",
+   "address": {
+    "addressLocality": "Berwyn",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Berwyn",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8434053,
+    "lon": -87.7920874
+   },
+   "website": "https://agents.farmers.com/il/berwyn/melissa-terrazas",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8181744849",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "g-r-zehak-dds-and-associates-berwyn",
+   "name": "G.R. Zehak, DDS & Associates",
+   "summary": "G.R. Zehak, DDS & Associates is a dentist in Berwyn, IL. Phone: +17084840235.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/g-r-zehak-dds-and-associates-berwyn/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/g-r-zehak-dds-and-associates-berwyn.json",
+   "address": {
+    "addressLocality": "Berwyn",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Berwyn",
+   "state": "IL",
+   "geo": {
+    "lat": 41.843412,
+    "lon": -87.7922049
+   },
+   "phone": "+17084840235",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8181744856",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "labor-power-berwyn",
+   "name": "Labor Power",
+   "summary": "Labor Power is a staffing agency in Berwyn, IL. Phone: +17087957777.",
+   "categories": [
+    "staffing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/labor-power-berwyn/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/labor-power-berwyn.json",
+   "address": {
+    "addressLocality": "Berwyn",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Berwyn",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8431566,
+    "lon": -87.7937026
+   },
+   "phone": "+17087957777",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8181741684",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "berwyn-kia-berwyn",
+   "name": "Berwyn Kia",
+   "summary": "Berwyn Kia is an used car dealer in Berwyn, IL at 7050 Ogden Avenue, Berwyn, IL 60402.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/berwyn-kia-berwyn/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/berwyn-kia-berwyn.json",
+   "address": {
+    "streetAddress": "7050 Ogden Avenue",
+    "addressLocality": "Berwyn",
+    "addressRegion": "IL",
+    "postalCode": "60402",
+    "addressCountry": "US"
+   },
+   "city": "Berwyn",
+   "state": "IL",
+   "zip": "60402",
+   "geo": {
+    "lat": 41.8244317,
+    "lon": -87.7995304
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/700154426",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "buona-catering-berwyn",
+   "name": "Buona Catering",
+   "summary": "Buona Catering is a caterer in Berwyn, IL at 6833 West Roosevelt Road, Berwyn, IL 60402.",
+   "categories": [
+    "caterers"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/buona-catering-berwyn/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/buona-catering-berwyn.json",
+   "address": {
+    "streetAddress": "6833 West Roosevelt Road",
+    "addressLocality": "Berwyn",
+    "addressRegion": "IL",
+    "postalCode": "60402",
+    "addressCountry": "US"
+   },
+   "city": "Berwyn",
+   "state": "IL",
+   "zip": "60402",
+   "geo": {
+    "lat": 41.8649404,
+    "lon": -87.7954463
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4719483215",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "camargos-auto-and-tire-repair-berwyn",
+   "name": "Camargos Auto & Tire Repair",
+   "summary": "Camargos Auto & Tire Repair is an auto repair shop in Berwyn, IL at 6321 West Roosevelt Road, Berwyn, IL 60402.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/camargos-auto-and-tire-repair-berwyn/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/camargos-auto-and-tire-repair-berwyn.json",
+   "address": {
+    "streetAddress": "6321 West Roosevelt Road",
+    "addressLocality": "Berwyn",
+    "addressRegion": "IL",
+    "postalCode": "60402",
+    "addressCountry": "US"
+   },
+   "city": "Berwyn",
+   "state": "IL",
+   "zip": "60402",
+   "geo": {
+    "lat": 41.8650176,
+    "lon": -87.7825008
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4719500884",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "central-discount-liquor-berwyn",
+   "name": "Central Discount Liquor",
+   "summary": "Central Discount Liquor is a liquor store in Berwyn, IL at 6721 West Roosevelt Road, Berwyn, IL 60402.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/central-discount-liquor-berwyn/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/central-discount-liquor-berwyn.json",
+   "address": {
+    "streetAddress": "6721 West Roosevelt Road",
+    "addressLocality": "Berwyn",
+    "addressRegion": "IL",
+    "postalCode": "60402",
+    "addressCountry": "US"
+   },
+   "city": "Berwyn",
+   "state": "IL",
+   "zip": "60402",
+   "geo": {
+    "lat": 41.8650268,
+    "lon": -87.7923524
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4719496634",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "del-galdo-law-group-llc-berwyn",
+   "name": "Del Galdo Law Group, LLC",
+   "summary": "Del Galdo Law Group, LLC is a lawyer in Berwyn, IL at 1441 South Harlem Avenue, Berwyn, IL 60402.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/del-galdo-law-group-llc-berwyn/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/del-galdo-law-group-llc-berwyn.json",
+   "address": {
+    "streetAddress": "1441 South Harlem Avenue",
+    "addressLocality": "Berwyn",
+    "addressRegion": "IL",
+    "postalCode": "60402",
+    "addressCountry": "US"
+   },
+   "city": "Berwyn",
+   "state": "IL",
+   "zip": "60402",
+   "geo": {
+    "lat": 41.8597484,
+    "lon": -87.8038015
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4203603793",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "extra-space-storage-berwyn",
+   "name": "Extra Space Storage",
+   "summary": "Extra Space Storage is a self-storage facility in Berwyn, IL at 1301 South Harlem Avenue, Berwyn, IL 60402.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/extra-space-storage-berwyn/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/extra-space-storage-berwyn.json",
+   "address": {
+    "streetAddress": "1301 South Harlem Avenue",
+    "addressLocality": "Berwyn",
+    "addressRegion": "IL",
+    "postalCode": "60402",
+    "addressCountry": "US"
+   },
+   "city": "Berwyn",
+   "state": "IL",
+   "zip": "60402",
+   "geo": {
+    "lat": 41.862819,
+    "lon": -87.8037649
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1029079272",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "hidden-faces-berwyn",
+   "name": "Hidden Faces",
+   "summary": "Hidden Faces is a hair salon in Berwyn, IL at West Roosevelt Road, Berwyn, IL 60402.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hidden-faces-berwyn/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hidden-faces-berwyn.json",
+   "address": {
+    "streetAddress": "West Roosevelt Road",
+    "addressLocality": "Berwyn",
+    "addressRegion": "IL",
+    "postalCode": "60402",
+    "addressCountry": "US"
+   },
+   "city": "Berwyn",
+   "state": "IL",
+   "zip": "60402",
+   "geo": {
+    "lat": 41.8649789,
+    "lon": -87.7971991
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4719489660",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "insure-on-the-spot-berwyn",
+   "name": "Insure On The Spot",
+   "summary": "Insure On The Spot is an insurance agent in Berwyn, IL at 7015 West Roosevelt Road, Berwyn, IL 60402.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/insure-on-the-spot-berwyn/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/insure-on-the-spot-berwyn.json",
+   "address": {
+    "streetAddress": "7015 West Roosevelt Road",
+    "addressLocality": "Berwyn",
+    "addressRegion": "IL",
+    "postalCode": "60402",
+    "addressCountry": "US"
+   },
+   "city": "Berwyn",
+   "state": "IL",
+   "zip": "60402",
+   "geo": {
+    "lat": 41.8647352,
+    "lon": -87.7997285
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4719492554",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "romanis-bella-fiori-berwyn",
+   "name": "Romani's Bella Fiori",
+   "summary": "Romani's Bella Fiori is a florist in Berwyn, IL at 6905 West Roosevelt Road, Berwyn, IL 60402.",
+   "categories": [
+    "florist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/romanis-bella-fiori-berwyn/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/romanis-bella-fiori-berwyn.json",
+   "address": {
+    "streetAddress": "6905 West Roosevelt Road",
+    "addressLocality": "Berwyn",
+    "addressRegion": "IL",
+    "postalCode": "60402",
+    "addressCountry": "US"
+   },
+   "city": "Berwyn",
+   "state": "IL",
+   "zip": "60402",
+   "geo": {
+    "lat": 41.8649524,
+    "lon": -87.7967257
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4719484940",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "safelite-autoglass-berwyn",
+   "name": "Safelite AutoGlass",
+   "summary": "Safelite AutoGlass is an auto repair shop in Berwyn, IL at 6538 West Ogden Avenue, Berwyn, IL 60402.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/safelite-autoglass-berwyn/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/safelite-autoglass-berwyn.json",
+   "address": {
+    "streetAddress": "6538 West Ogden Avenue",
+    "addressLocality": "Berwyn",
+    "addressRegion": "IL",
+    "postalCode": "60402",
+    "addressCountry": "US"
+   },
+   "city": "Berwyn",
+   "state": "IL",
+   "zip": "60402",
+   "geo": {
+    "lat": 41.8288565,
+    "lon": -87.7869108
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1156522924",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "sunny-days-kids-academy-berwyn",
+   "name": "Sunny Days Kid's Academy",
+   "summary": "Sunny Days Kid's Academy is a preschool in Berwyn, IL at 6227 West Roosevelt Road, Berwyn, IL 60402.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sunny-days-kids-academy-berwyn/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sunny-days-kids-academy-berwyn.json",
+   "address": {
+    "streetAddress": "6227 West Roosevelt Road",
+    "addressLocality": "Berwyn",
+    "addressRegion": "IL",
+    "postalCode": "60402",
+    "addressCountry": "US"
+   },
+   "city": "Berwyn",
+   "state": "IL",
+   "zip": "60402",
+   "geo": {
+    "lat": 41.8652014,
+    "lon": -87.7804838
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4719511136",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "vca-animal-hospital-berwyn",
+   "name": "VCA Animal Hospital",
+   "summary": "VCA Animal Hospital is a veterinarian in Berwyn, IL at 2845 South Harlem Avenue, Berwyn, IL 60402.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/vca-animal-hospital-berwyn/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/vca-animal-hospital-berwyn.json",
+   "address": {
+    "streetAddress": "2845 South Harlem Avenue",
+    "addressLocality": "Berwyn",
+    "addressRegion": "IL",
+    "postalCode": "60402",
+    "addressCountry": "US"
+   },
+   "city": "Berwyn",
+   "state": "IL",
+   "zip": "60402",
+   "geo": {
+    "lat": 41.8396986,
+    "lon": -87.8028521
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1126747287",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "washu-car-wash-berwyn",
+   "name": "WashU Car Wash",
+   "summary": "WashU Car Wash is a car wash in Berwyn, IL at 2315 South Harlem Avenue, Berwyn, IL 60402.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/washu-car-wash-berwyn/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/washu-car-wash-berwyn.json",
+   "address": {
+    "streetAddress": "2315 South Harlem Avenue",
+    "addressLocality": "Berwyn",
+    "addressRegion": "IL",
+    "postalCode": "60402",
+    "addressCountry": "US"
+   },
+   "city": "Berwyn",
+   "state": "IL",
+   "zip": "60402",
+   "geo": {
+    "lat": 41.8478531,
+    "lon": -87.8028921
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1298886134",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "cs-massage-berwyn",
+   "name": "CS Massage",
+   "summary": "CS Massage is a massage studio in Berwyn, IL.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cs-massage-berwyn/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cs-massage-berwyn.json",
+   "address": {
+    "addressLocality": "Berwyn",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Berwyn",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8337194,
+    "lon": -87.7931731
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13568408117",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "dans-bike-shop-berwyn",
+   "name": "Dan's Bike Shop",
+   "summary": "Dan's Bike Shop is a bike shop in Berwyn, IL.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dans-bike-shop-berwyn/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dans-bike-shop-berwyn.json",
+   "address": {
+    "addressLocality": "Berwyn",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Berwyn",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8650028,
+    "lon": -87.7921828
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2499067539",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "diamond-graphics-berwyn",
+   "name": "Diamond Graphics",
+   "summary": "Diamond Graphics is a printing service in Berwyn, IL.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/diamond-graphics-berwyn/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/diamond-graphics-berwyn.json",
+   "address": {
+    "addressLocality": "Berwyn",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Berwyn",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8434459,
+    "lon": -87.7898597
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8185708808",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "glen-lerner-berwyn",
+   "name": "Glen Lerner",
+   "summary": "Glen Lerner is a lawyer in Berwyn, IL.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/glen-lerner-berwyn/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/glen-lerner-berwyn.json",
+   "address": {
+    "addressLocality": "Berwyn",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Berwyn",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8431576,
+    "lon": -87.7936382
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8181741683",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "mobil-berwyn",
+   "name": "Mobil",
+   "summary": "Mobil is a car wash in Berwyn, IL.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mobil-berwyn/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mobil-berwyn.json",
+   "address": {
+    "addressLocality": "Berwyn",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Berwyn",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8326319,
+    "lon": -87.7785522
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9342487991",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "state-farm-berwyn",
+   "name": "State Farm",
+   "summary": "State Farm is an insurance agent in Berwyn, IL.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/state-farm-berwyn/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/state-farm-berwyn.json",
+   "address": {
+    "addressLocality": "Berwyn",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Berwyn",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8607366,
+    "lon": -87.8038572
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9404120797",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "slug": "elegance-nail-and-spa-naperville",
+ "name": "Elegance Nail & Spa",
+ "categories": [
+  "nail salon"
+ ],
+ "keywords": [
+  "nail salon",
+  "nail salon naperville il"
+ ],
+ "services": [
+  {
+   "name": "nail salon",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "25 South Washington Street #Ste 102",
+  "addressLocality": "Naperville",
+  "addressRegion": "IL",
+  "postalCode": "60540",
+  "addressCountry": "US"
+ },
+ "city": "Naperville",
+ "state": "IL",
+ "zip": "60540",
+ "geo": {
+  "lat": 41.7743871,
+  "lon": -88.1479642
+ },
+ "phone": "+16309611111",
+ "website": "https://elegancenailandspa.wixsite.com/mysite",
+ "opening_hours": "Mo-Fr 9:00-19:00; Sa 9:00-18:00; Su 11:00-17:00",
+ "schema_type": "NailSalon",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/8955564499",
+ "osm": {
+  "type": "node",
+  "id": 8955564499,
+  "tags_used": {
+   "shop": "beauty",
+   "beauty": "nails"
+  }
+ },
+ "municipality": "Naperville",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/elegance-nail-and-spa-naperville/",
+ "summary": "Elegance Nail & Spa is a nail salon in Naperville, IL at 25 South Washington Street #Ste 102, Naperville, IL 60540. Phone: +16309611111. Website: https://elegancenailandspa.wixsite.com/mysite.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

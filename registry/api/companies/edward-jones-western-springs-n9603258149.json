@@ -1,0 +1,58 @@
+{
+ "slug": "edward-jones-western-springs-n9603258149",
+ "name": "Edward Jones",
+ "categories": [
+  "financial advisor"
+ ],
+ "keywords": [
+  "financial advisor",
+  "financial advisor western springs il"
+ ],
+ "services": [
+  {
+   "name": "financial advisor",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "702 Hillgrove Avenue",
+  "addressLocality": "Western Springs",
+  "addressRegion": "IL",
+  "postalCode": "60558",
+  "addressCountry": "US"
+ },
+ "city": "Western Springs",
+ "state": "IL",
+ "zip": "60558",
+ "geo": {
+  "lat": 41.8102477,
+  "lon": -87.8977002
+ },
+ "phone": "+17085054097",
+ "website": "https://www.edwardjones.com/us-en/financial-advisor/todd-nyberg",
+ "brand": "Edward Jones",
+ "wikidata": "Q5343830",
+ "schema_type": "FinancialService",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/9603258149",
+ "osm": {
+  "type": "node",
+  "id": 9603258149,
+  "tags_used": {
+   "office": "financial_advisor"
+  }
+ },
+ "municipality": "Western Springs",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/edward-jones-western-springs-n9603258149/",
+ "summary": "Edward Jones is a financial advisor in Western Springs, IL at 702 Hillgrove Avenue, Western Springs, IL 60558. Phone: +17085054097. Website: https://www.edwardjones.com/us-en/financial-advisor/todd-nyberg.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

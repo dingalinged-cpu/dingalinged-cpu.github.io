@@ -1,0 +1,54 @@
+{
+ "slug": "a-step-by-step-evanston",
+ "name": "A Step By Step",
+ "categories": [
+  "daycare"
+ ],
+ "keywords": [
+  "daycare",
+  "daycare evanston il"
+ ],
+ "services": [
+  {
+   "name": "daycare",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1909 Howard Street",
+  "addressLocality": "Evanston",
+  "addressRegion": "IL",
+  "postalCode": "60202",
+  "addressCountry": "US"
+ },
+ "city": "Evanston",
+ "state": "IL",
+ "zip": "60202",
+ "geo": {
+  "lat": 42.0194619,
+  "lon": -87.7001213
+ },
+ "schema_type": "ChildCare",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/2294089967",
+ "osm": {
+  "type": "node",
+  "id": 2294089967,
+  "tags_used": {
+   "amenity": "childcare"
+  }
+ },
+ "municipality": "Evanston",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/a-step-by-step-evanston/",
+ "summary": "A Step By Step is a daycare in Evanston, IL at 1909 Howard Street, Evanston, IL 60202.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -12,9 +12,9 @@
   "affordable event venues the United States",
   "emergency event venues the United States"
  ],
- "answer": "The top unpaid event venues listing for the United States is JJ Events Cetner (an event venue in Minneapolis, MN at 3500 East Lake Street, Minneapolis, MN 55406. Phone: +19525649566. Website: https://jjeventcentre.com/). 47 event venues businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "answer": "The top unpaid event venues listing for the United States is Fountain Blue Banquets & Conference Center (an event venue in Des Plaines, IL at 2300 Mannheim Road, Des Plaines, IL 60018. Phone: +18472983636. Website: https://fountainblue.com/). 181 event venues businesses are listed for the United States as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
  "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
- "updated": "2026-10-17",
+ "updated": "2026-10-18",
  "sponsored_slots": {
   "featured_1": "available",
   "spots_2_4_sold": 0
@@ -27,6 +27,76 @@
  "results": [
   {
    "position": 1,
+   "sponsored": false,
+   "slug": "fountain-blue-banquets-and-conference-center-des-plaines",
+   "name": "Fountain Blue Banquets & Conference Center",
+   "summary": "Fountain Blue Banquets & Conference Center is an event venue in Des Plaines, IL at 2300 Mannheim Road, Des Plaines, IL 60018. Phone: +18472983636. Website: https://fountainblue.com/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fountain-blue-banquets-and-conference-center-des-plaines/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fountain-blue-banquets-and-conference-center-des-plaines.json",
+   "address": {
+    "streetAddress": "2300 Mannheim Road",
+    "addressLocality": "Des Plaines",
+    "addressRegion": "IL",
+    "postalCode": "60018",
+    "addressCountry": "US"
+   },
+   "city": "Des Plaines",
+   "state": "IL",
+   "zip": "60018",
+   "geo": {
+    "lat": 42.011421,
+    "lon": -87.8873268
+   },
+   "phone": "+18472983636",
+   "website": "https://fountainblue.com/",
+   "opening_hours": "Sa-Su 10:00-15:00, Mo-Fr 10:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/42292676",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "illinois-billiard-club-willow-springs",
+   "name": "Illinois Billiard Club",
+   "summary": "Illinois Billiard Club is an event venue in Willow Springs, IL at 8442 Archer Avenue, Willow Springs, IL 60480. Phone: +17088395820. Website: https://bonniesibc.com/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/illinois-billiard-club-willow-springs/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/illinois-billiard-club-willow-springs.json",
+   "address": {
+    "streetAddress": "8442 Archer Avenue",
+    "addressLocality": "Willow Springs",
+    "addressRegion": "IL",
+    "postalCode": "60480",
+    "addressCountry": "US"
+   },
+   "city": "Willow Springs",
+   "state": "IL",
+   "zip": "60480",
+   "geo": {
+    "lat": 41.7370004,
+    "lon": -87.8691894
+   },
+   "phone": "+17088395820",
+   "website": "https://bonniesibc.com/",
+   "opening_hours": "Mo-Fr 10:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1228191633",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
    "sponsored": false,
    "slug": "jj-events-cetner-minneapolis",
    "name": "JJ Events Cetner",
@@ -61,7 +131,484 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 2,
+   "position": 4,
+   "sponsored": false,
+   "slug": "the-seville-streamwood",
+   "name": "The Seville",
+   "summary": "The Seville is an event venue in Streamwood, IL at 700 South Barrington Road, Streamwood, IL 60107. Phone: +16302894500. Website: https://www.theseville.com/contact-us/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-seville-streamwood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-seville-streamwood.json",
+   "address": {
+    "streetAddress": "700 South Barrington Road",
+    "addressLocality": "Streamwood",
+    "addressRegion": "IL",
+    "postalCode": "60107",
+    "addressCountry": "US"
+   },
+   "city": "Streamwood",
+   "state": "IL",
+   "zip": "60107",
+   "geo": {
+    "lat": 42.018765,
+    "lon": -88.1451985
+   },
+   "phone": "+16302894500",
+   "website": "https://www.theseville.com/contact-us/",
+   "opening_hours": "Tu-Fr 10:00-20:00; Sa 10:00-17:00; Su 11:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6973732723",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "create-your-space-studio-chicago",
+   "name": "Create Your Space Studio",
+   "summary": "Create Your Space Studio is an event venue in Chicago, IL at 937 North Western Avenue, Chicago, IL 60622. Phone: +17737267427. Website: https://createyourspacestudio.com/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/create-your-space-studio-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/create-your-space-studio-chicago.json",
+   "address": {
+    "streetAddress": "937 North Western Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60622",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60622",
+   "geo": {
+    "lat": 41.8986699,
+    "lon": -87.6866951
+   },
+   "phone": "+17737267427",
+   "website": "https://createyourspacestudio.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9962776682",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "danada-house-wheaton",
+   "name": "Danada House",
+   "summary": "Danada House is an event venue in Wheaton, IL at 3S501 Naperville Road, Wheaton, IL 60187. Phone: +16306685392. Website: https://danadahouse.org/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/danada-house-wheaton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/danada-house-wheaton.json",
+   "address": {
+    "streetAddress": "3S501 Naperville Road",
+    "addressLocality": "Wheaton",
+    "addressRegion": "IL",
+    "postalCode": "60187",
+    "addressCountry": "US"
+   },
+   "city": "Wheaton",
+   "state": "IL",
+   "zip": "60187",
+   "geo": {
+    "lat": 41.8202723,
+    "lon": -88.1081089
+   },
+   "phone": "+16306685392",
+   "website": "https://danadahouse.org/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/491453217",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "european-crystal-banquets-arlington-heights",
+   "name": "European Crystal Banquets",
+   "summary": "European Crystal Banquets is an event venue in Arlington Heights, IL at 519 West Algonquin Road, Arlington Heights, IL 60005. Phone: +18474375590. Website: https://www.ecbanquet.com/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/european-crystal-banquets-arlington-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/european-crystal-banquets-arlington-heights.json",
+   "address": {
+    "streetAddress": "519 West Algonquin Road",
+    "addressLocality": "Arlington Heights",
+    "addressRegion": "IL",
+    "postalCode": "60005",
+    "addressCountry": "US"
+   },
+   "city": "Arlington Heights",
+   "state": "IL",
+   "zip": "60005",
+   "geo": {
+    "lat": 42.0472188,
+    "lon": -87.9897342
+   },
+   "phone": "+18474375590",
+   "website": "https://www.ecbanquet.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/727146819",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "georgios-orland-park",
+   "name": "Georgio's",
+   "summary": "Georgio's is an event venue in Orland Park, IL at 8800 West 159th Street, Orland Park, IL 60462. Phone: +17084031757. Website: https://georgios.com/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/georgios-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/georgios-orland-park.json",
+   "address": {
+    "streetAddress": "8800 West 159th Street",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60462",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60462",
+   "geo": {
+    "lat": 41.6025179,
+    "lon": -87.8339553
+   },
+   "phone": "+17084031757",
+   "website": "https://georgios.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10310231584",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "jamog-banquets-orland-park",
+   "name": "Jamog Banquets",
+   "summary": "Jamog Banquets is an event venue in Orland Park, IL at 9050 West 159th Street, Orland Park, IL 60462. Phone: +17086751010. Website: https://www.jamogbanquets.com/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jamog-banquets-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jamog-banquets-orland-park.json",
+   "address": {
+    "streetAddress": "9050 West 159th Street",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60462",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60462",
+   "geo": {
+    "lat": 41.6022946,
+    "lon": -87.8392708
+   },
+   "phone": "+17086751010",
+   "website": "https://www.jamogbanquets.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13612980555",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "kinowerks-chicago",
+   "name": "Kinowerks",
+   "summary": "Kinowerks is an event venue in Chicago, IL at 5645 North Ravenswood Avenue, Chicago, IL 60660. Phone: +13129894741. Website: https://kinowerks.studio/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kinowerks-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kinowerks-chicago.json",
+   "address": {
+    "streetAddress": "5645 North Ravenswood Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60660",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60660",
+   "geo": {
+    "lat": 41.98487,
+    "lon": -87.674238
+   },
+   "phone": "+13129894741",
+   "website": "https://kinowerks.studio/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13207731901",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 11,
+   "sponsored": false,
+   "slug": "lago-banquet-hall-chicago",
+   "name": "Lago Banquet Hall",
+   "summary": "Lago Banquet Hall is an event venue in Chicago, IL at 6121 West Diversey Avenue, Chicago, IL 60639. Phone: +17737458146. Website: https://www.lagobanquets.com/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lago-banquet-hall-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lago-banquet-hall-chicago.json",
+   "address": {
+    "streetAddress": "6121 West Diversey Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60639",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60639",
+   "geo": {
+    "lat": 41.9309102,
+    "lon": -87.7793413
+   },
+   "phone": "+17737458146",
+   "website": "https://www.lagobanquets.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/163088101",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 12,
+   "sponsored": false,
+   "slug": "may-st-cafe-chicago",
+   "name": "May St. Cafe",
+   "summary": "May St. Cafe is an event venue in Chicago, IL at 1146 West Cermak Road, Chicago, IL 60608. Phone: +13124214442. Website: https://maystreetcafe.com/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/may-st-cafe-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/may-st-cafe-chicago.json",
+   "address": {
+    "streetAddress": "1146 West Cermak Road",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60608",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60608",
+   "geo": {
+    "lat": 41.8526926,
+    "lon": -87.6548756
+   },
+   "phone": "+13124214442",
+   "website": "https://maystreetcafe.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/210221994",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
+   "sponsored": false,
+   "slug": "michelle-s-ballroom-chicago",
+   "name": "Michelle’s Ballroom",
+   "summary": "Michelle’s Ballroom is an event venue in Chicago, IL at 2800 West Belmont Avenue, Chicago, IL 60618. Phone: +17734781828. Website: https://michellesballroom.com/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/michelle-s-ballroom-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/michelle-s-ballroom-chicago.json",
+   "address": {
+    "streetAddress": "2800 West Belmont Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60618",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60618",
+   "geo": {
+    "lat": 41.9395133,
+    "lon": -87.6980627
+   },
+   "phone": "+17734781828",
+   "website": "https://michellesballroom.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10908928653",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 14,
+   "sponsored": false,
+   "slug": "morgans-on-fulton-chicago",
+   "name": "Morgan's on Fulton",
+   "summary": "Morgan's on Fulton is an event venue in Chicago, IL at 950 West Fulton Market, Chicago, IL 60607. Phone: +13123743686. Website: https://www.morgansonfulton.com/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/morgans-on-fulton-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/morgans-on-fulton-chicago.json",
+   "address": {
+    "streetAddress": "950 West Fulton Market",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60607",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60607",
+   "geo": {
+    "lat": 41.8869963,
+    "lon": -87.6518521
+   },
+   "phone": "+13123743686",
+   "website": "https://www.morgansonfulton.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8500469469",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 15,
+   "sponsored": false,
+   "slug": "plumbers-hall-chicago",
+   "name": "Plumbers Hall",
+   "summary": "Plumbers Hall is an event venue in Chicago, IL at 1340 West Washington Boulevard, Chicago, IL 60607. Phone: +13124211010. Website: https://plumberslu130ua.com/hall-reservations.aspx.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/plumbers-hall-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/plumbers-hall-chicago.json",
+   "address": {
+    "streetAddress": "1340 West Washington Boulevard",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60607",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60607",
+   "geo": {
+    "lat": 41.8832602,
+    "lon": -87.6614948
+   },
+   "phone": "+13124211010",
+   "website": "https://plumberslu130ua.com/hall-reservations.aspx",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/210269993",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 16,
+   "sponsored": false,
+   "slug": "royal-palace-banquet-naperville",
+   "name": "Royal Palace Banquet",
+   "summary": "Royal Palace Banquet is an event venue in Naperville, IL at 1570 West Ogden Avenue, Naperville, IL 60540. Phone: +16308573161. Website: https://www.royalpalacebanquet.net/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/royal-palace-banquet-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/royal-palace-banquet-naperville.json",
+   "address": {
+    "streetAddress": "1570 West Ogden Avenue",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60540",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60540",
+   "geo": {
+    "lat": 41.7676812,
+    "lon": -88.1853416
+   },
+   "phone": "+16308573161",
+   "website": "https://www.royalpalacebanquet.net/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/975861141",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 17,
+   "sponsored": false,
+   "slug": "royalty-west-banquets-willow-springs",
+   "name": "Royalty West Banquets",
+   "summary": "Royalty West Banquets is an event venue in Willow Springs, IL at 8679 Archer Avenue, Willow Springs, IL 60480. Phone: +17088395200. Website: https://royaltywest.com/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/royalty-west-banquets-willow-springs/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/royalty-west-banquets-willow-springs.json",
+   "address": {
+    "streetAddress": "8679 Archer Avenue",
+    "addressLocality": "Willow Springs",
+    "addressRegion": "IL",
+    "postalCode": "60480",
+    "addressCountry": "US"
+   },
+   "city": "Willow Springs",
+   "state": "IL",
+   "zip": "60480",
+   "geo": {
+    "lat": 41.7321458,
+    "lon": -87.8747629
+   },
+   "phone": "+17088395200",
+   "website": "https://royaltywest.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1058687190",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 18,
    "sponsored": false,
    "slug": "summit-manor-saint-paul",
    "name": "Summit Manor",
@@ -95,7 +642,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 3,
+   "position": 19,
    "sponsored": false,
    "slug": "the-blaisdell-minneapolis",
    "name": "The Blaisdell",
@@ -129,7 +676,73 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 4,
+   "position": 20,
+   "sponsored": false,
+   "slug": "theater-on-the-lake-chicago",
+   "name": "Theater on the Lake",
+   "summary": "Theater on the Lake is an event venue in Chicago, IL at 2401 North Lake Shore Drive, Chicago, IL 60614. Phone: +13124141313. Website: https://theateronthelake.com/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/theater-on-the-lake-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/theater-on-the-lake-chicago.json",
+   "address": {
+    "streetAddress": "2401 North Lake Shore Drive",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60614",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60614",
+   "geo": {
+    "lat": 41.9270945,
+    "lon": -87.630651
+   },
+   "phone": "+13124141313",
+   "website": "https://theateronthelake.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/23989552",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 21,
+   "sponsored": false,
+   "slug": "indian-american-cultural-center-merrillville",
+   "name": "Indian American Cultural Center",
+   "summary": "Indian American Cultural Center is an event venue in Merrillville, IN at 8605 Merrillville Road, Merrillville, IN. Phone: +12197561111. Website: https://www.iacc-nwindiana.org/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/indian-american-cultural-center-merrillville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/indian-american-cultural-center-merrillville.json",
+   "address": {
+    "streetAddress": "8605 Merrillville Road",
+    "addressLocality": "Merrillville",
+    "addressRegion": "IN",
+    "addressCountry": "US"
+   },
+   "city": "Merrillville",
+   "state": "IN",
+   "geo": {
+    "lat": 41.461326,
+    "lon": -87.3447045
+   },
+   "phone": "+12197561111",
+   "website": "https://www.iacc-nwindiana.org/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 15.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9461765834",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 22,
    "sponsored": false,
    "slug": "the-baroque-room-saint-paul",
    "name": "The Baroque Room",
@@ -161,7 +774,71 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 5,
+   "position": 23,
+   "sponsored": false,
+   "slug": "tono-banquetes-chicago",
+   "name": "Tono Banquetes",
+   "summary": "Tono Banquetes is an event venue in Chicago, IL at 6104 West Diversey Avenue, Chicago, IL. Phone: +17736224522. Website: https://tonobanquets.com/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tono-banquetes-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tono-banquetes-chicago.json",
+   "address": {
+    "streetAddress": "6104 West Diversey Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.931302,
+    "lon": -87.7787723
+   },
+   "phone": "+17736224522",
+   "website": "https://tonobanquets.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 15.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/163088020",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 24,
+   "sponsored": false,
+   "slug": "wooden-paddle-la-grange",
+   "name": "Wooden Paddle",
+   "summary": "Wooden Paddle is an event venue in La Grange, IL at 23 West Calendar Avenue, La Grange, IL. Phone: +17085712345. Website: https://woodenpaddle.com/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wooden-paddle-la-grange/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wooden-paddle-la-grange.json",
+   "address": {
+    "streetAddress": "23 West Calendar Avenue",
+    "addressLocality": "La Grange",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "La Grange",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8150508,
+    "lon": -87.8708455
+   },
+   "phone": "+17085712345",
+   "website": "https://woodenpaddle.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 15.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/348049781",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 25,
    "sponsored": false,
    "slug": "white-squirrel-bar-saint-paul",
    "name": "White Squirrel Bar",
@@ -195,7 +872,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 6,
+   "position": 26,
    "sponsored": false,
    "slug": "chapel-of-love-bloomington",
    "name": "Chapel of Love",
@@ -227,7 +904,73 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 7,
+   "position": 27,
+   "sponsored": false,
+   "slug": "aon-grand-ballroom-chicago",
+   "name": "Aon Grand Ballroom",
+   "summary": "Aon Grand Ballroom is an event venue in Chicago, IL at 840 East Grand Avenue, Chicago, IL 60611. Website: https://navypier.org/events-and-public-programs/event-venues/aon-grand-ballroom/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/aon-grand-ballroom-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/aon-grand-ballroom-chicago.json",
+   "address": {
+    "streetAddress": "840 East Grand Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60611",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60611",
+   "geo": {
+    "lat": 41.8918453,
+    "lon": -87.5993966
+   },
+   "website": "https://navypier.org/events-and-public-programs/event-venues/aon-grand-ballroom/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/151989533",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 28,
+   "sponsored": false,
+   "slug": "bare-copper-chicago",
+   "name": "Bare Copper",
+   "summary": "Bare Copper is an event venue in Chicago, IL at 4316 West Madison Street, Chicago, IL 60624. Website: https://bare-copper.com/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bare-copper-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bare-copper-chicago.json",
+   "address": {
+    "streetAddress": "4316 West Madison Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60624",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60624",
+   "geo": {
+    "lat": 41.8808425,
+    "lon": -87.7337566
+   },
+   "website": "https://bare-copper.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11330234821",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 29,
    "sponsored": false,
    "slug": "bird-house-inn-excelsior",
    "name": "Bird House Inn",
@@ -260,7 +1003,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 8,
+   "position": 30,
    "sponsored": false,
    "slug": "brownstone-jazz-club-minneapolis",
    "name": "Brownstone Jazz Club",
@@ -293,7 +1036,304 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 9,
+   "position": 31,
+   "sponsored": false,
+   "slug": "cermak-hall-chicago",
+   "name": "Cermak Hall",
+   "summary": "Cermak Hall is an event venue in Chicago, IL at 640 West Cermak Road, Chicago, IL 60616. Website: https://www.radius-chicago.com/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cermak-hall-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cermak-hall-chicago.json",
+   "address": {
+    "streetAddress": "640 West Cermak Road",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60616",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60616",
+   "geo": {
+    "lat": 41.8531968,
+    "lon": -87.6429908
+   },
+   "website": "https://www.radius-chicago.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12277818066",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 32,
+   "sponsored": false,
+   "slug": "charles-a-hayes-family-investment-center-chicago",
+   "name": "Charles A. Hayes Family Investment Center",
+   "summary": "Charles A. Hayes Family Investment Center is an event venue in Chicago, IL at 4853 South Wabash Avenue, Chicago, IL 60615. Website: https://www.thecha.org/doing-business/charles-hayes-family-investment-center.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/charles-a-hayes-family-investment-center-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/charles-a-hayes-family-investment-center-chicago.json",
+   "address": {
+    "streetAddress": "4853 South Wabash Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60615",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60615",
+   "geo": {
+    "lat": 41.8061732,
+    "lon": -87.6239798
+   },
+   "website": "https://www.thecha.org/doing-business/charles-hayes-family-investment-center",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/210524036",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 33,
+   "sponsored": false,
+   "slug": "chicago-gaelic-park-oak-forest",
+   "name": "Chicago Gaelic Park",
+   "summary": "Chicago Gaelic Park is an event venue in Oak Forest, IL at 6119 147th Street, Oak Forest, IL 60452. Website: https://chicagogaelicpark.com/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chicago-gaelic-park-oak-forest/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chicago-gaelic-park-oak-forest.json",
+   "address": {
+    "streetAddress": "6119 147th Street",
+    "addressLocality": "Oak Forest",
+    "addressRegion": "IL",
+    "postalCode": "60452",
+    "addressCountry": "US"
+   },
+   "city": "Oak Forest",
+   "state": "IL",
+   "zip": "60452",
+   "geo": {
+    "lat": 41.6231438,
+    "lon": -87.7708284
+   },
+   "website": "https://chicagogaelicpark.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/281979184",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 34,
+   "sponsored": false,
+   "slug": "city-hall-chicago",
+   "name": "City Hall",
+   "summary": "City Hall is an event venue in Chicago, IL at 838 West Kinzie Street, Chicago, IL 60607. Website: https://thecityhall.com/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/city-hall-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/city-hall-chicago.json",
+   "address": {
+    "streetAddress": "838 West Kinzie Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60607",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60607",
+   "geo": {
+    "lat": 41.8892101,
+    "lon": -87.6492839
+   },
+   "website": "https://thecityhall.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6936048968",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 35,
+   "sponsored": false,
+   "slug": "co-prosperity-sphere-chicago",
+   "name": "Co-Prosperity Sphere",
+   "summary": "Co-Prosperity Sphere is an event venue in Chicago, IL at 3219 South Morgan Street, Chicago, IL 60608. Website: https://coprosperity.org/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/co-prosperity-sphere-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/co-prosperity-sphere-chicago.json",
+   "address": {
+    "streetAddress": "3219 South Morgan Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60608",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60608",
+   "geo": {
+    "lat": 41.8357203,
+    "lon": -87.6508905
+   },
+   "website": "https://coprosperity.org/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8957884247",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 36,
+   "sponsored": false,
+   "slug": "concorde-banquets-kildeer",
+   "name": "Concorde Banquets",
+   "summary": "Concorde Banquets is an event venue in Kildeer, IL at 20922 North Rand Road, Kildeer, IL 60047. Website: https://concordebanquets.com/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/concorde-banquets-kildeer/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/concorde-banquets-kildeer.json",
+   "address": {
+    "streetAddress": "20922 North Rand Road",
+    "addressLocality": "Kildeer",
+    "addressRegion": "IL",
+    "postalCode": "60047",
+    "addressCountry": "US"
+   },
+   "city": "Kildeer",
+   "state": "IL",
+   "zip": "60047",
+   "geo": {
+    "lat": 42.1669159,
+    "lon": -88.066897
+   },
+   "website": "https://concordebanquets.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/447975126",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 37,
+   "sponsored": false,
+   "slug": "dupage-county-fairgrounds-wheaton",
+   "name": "DuPage County Fairgrounds",
+   "summary": "DuPage County Fairgrounds is an event venue in Wheaton, IL at Manchester Road, Wheaton, IL 60187. Website: https://dupagecountyfair.org/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dupage-county-fairgrounds-wheaton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dupage-county-fairgrounds-wheaton.json",
+   "address": {
+    "streetAddress": "Manchester Road",
+    "addressLocality": "Wheaton",
+    "addressRegion": "IL",
+    "postalCode": "60187",
+    "addressCountry": "US"
+   },
+   "city": "Wheaton",
+   "state": "IL",
+   "zip": "60187",
+   "geo": {
+    "lat": 41.8680081,
+    "lon": -88.1345323
+   },
+   "website": "https://dupagecountyfair.org/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/14018864301",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 38,
+   "sponsored": false,
+   "slug": "epiphany-center-for-the-arts-chicago",
+   "name": "Epiphany Center for the Arts",
+   "summary": "Epiphany Center for the Arts is an event venue in Chicago, IL at 201-207 South Ashland Avenue, Chicago, IL 60607. Website: https://epiphanychi.com/ent-home/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/epiphany-center-for-the-arts-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/epiphany-center-for-the-arts-chicago.json",
+   "address": {
+    "streetAddress": "201-207 South Ashland Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60607",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60607",
+   "geo": {
+    "lat": 41.8787163,
+    "lon": -87.6662458
+   },
+   "website": "https://epiphanychi.com/ent-home/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/210281092",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 39,
+   "sponsored": false,
+   "slug": "firehouse-chicago-chicago",
+   "name": "Firehouse Chicago",
+   "summary": "Firehouse Chicago is an event venue in Chicago, IL at 1545 West Rosemont Avenue, Chicago, IL 60660. Website: https://www.firehousechicago.com/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/firehouse-chicago-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/firehouse-chicago-chicago.json",
+   "address": {
+    "streetAddress": "1545 West Rosemont Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60660",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60660",
+   "geo": {
+    "lat": 41.9961606,
+    "lon": -87.6695257
+   },
+   "website": "https://www.firehousechicago.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/209950676",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 40,
    "sponsored": false,
    "slug": "food-building-minneapolis",
    "name": "Food Building",
@@ -326,7 +1366,40 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 10,
+   "position": 41,
+   "sponsored": false,
+   "slug": "fox-pointe-lansing",
+   "name": "Fox Pointe",
+   "summary": "Fox Pointe is an event venue in Lansing, IL at 18138 Henry Street, Lansing, IL 60438. Website: https://www.foxpointe.org/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fox-pointe-lansing/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fox-pointe-lansing.json",
+   "address": {
+    "streetAddress": "18138 Henry Street",
+    "addressLocality": "Lansing",
+    "addressRegion": "IL",
+    "postalCode": "60438",
+    "addressCountry": "US"
+   },
+   "city": "Lansing",
+   "state": "IL",
+   "zip": "60438",
+   "geo": {
+    "lat": 41.5658301,
+    "lon": -87.5351149
+   },
+   "website": "https://www.foxpointe.org/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7290078976",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 42,
    "sponsored": false,
    "slug": "f-j-lounge-and-event-space-saint-paul",
    "name": "Fàájì Lounge & Event Space",
@@ -359,7 +1432,172 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 11,
+   "position": 43,
+   "sponsored": false,
+   "slug": "grand-ballroom-chicago",
+   "name": "Grand Ballroom",
+   "summary": "Grand Ballroom is an event venue in Chicago, IL at 6351 South Cottage Grove Avenue, Chicago, IL 60637. Website: https://www.grandballroomchicago.com/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/grand-ballroom-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/grand-ballroom-chicago.json",
+   "address": {
+    "streetAddress": "6351 South Cottage Grove Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60637",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60637",
+   "geo": {
+    "lat": 41.778783,
+    "lon": -87.6056695
+   },
+   "website": "https://www.grandballroomchicago.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3839437759",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 44,
+   "sponsored": false,
+   "slug": "harmony-square-tinley-park",
+   "name": "Harmony Square",
+   "summary": "Harmony Square is an event venue in Tinley Park, IL at 6700 North Street, Tinley Park, IL 60477. Website: https://www.harmonysquare.org/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/harmony-square-tinley-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/harmony-square-tinley-park.json",
+   "address": {
+    "streetAddress": "6700 North Street",
+    "addressLocality": "Tinley Park",
+    "addressRegion": "IL",
+    "postalCode": "60477",
+    "addressCountry": "US"
+   },
+   "city": "Tinley Park",
+   "state": "IL",
+   "zip": "60477",
+   "geo": {
+    "lat": 41.5766118,
+    "lon": -87.783596
+   },
+   "website": "https://www.harmonysquare.org/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1309509930",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 45,
+   "sponsored": false,
+   "slug": "hellenic-banquet-center-merrillville",
+   "name": "Hellenic Banquet Center",
+   "summary": "Hellenic Banquet Center is an event venue in Merrillville, IN at 8000 Madison Street, Merrillville, IN 46410. Website: https://hellenicbanquetcenter.com/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hellenic-banquet-center-merrillville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hellenic-banquet-center-merrillville.json",
+   "address": {
+    "streetAddress": "8000 Madison Street",
+    "addressLocality": "Merrillville",
+    "addressRegion": "IN",
+    "postalCode": "46410",
+    "addressCountry": "US"
+   },
+   "city": "Merrillville",
+   "state": "IN",
+   "zip": "46410",
+   "geo": {
+    "lat": 41.473717,
+    "lon": -87.3416711
+   },
+   "website": "https://hellenicbanquetcenter.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1504526718",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 46,
+   "sponsored": false,
+   "slug": "joes-live-rosemont",
+   "name": "Joe's Live",
+   "summary": "Joe's Live is an event venue in Rosemont, IL at 5441 Park Place, Rosemont, IL 60018. Website: https://joesliverosemont.com/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/joes-live-rosemont/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/joes-live-rosemont.json",
+   "address": {
+    "streetAddress": "5441 Park Place",
+    "addressLocality": "Rosemont",
+    "addressRegion": "IL",
+    "postalCode": "60018",
+    "addressCountry": "US"
+   },
+   "city": "Rosemont",
+   "state": "IL",
+   "zip": "60018",
+   "geo": {
+    "lat": 41.9781779,
+    "lon": -87.8674157
+   },
+   "website": "https://joesliverosemont.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5458190093",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 47,
+   "sponsored": false,
+   "slug": "los-amantes-banquet-hall-chicago",
+   "name": "Los Amantes Banquet Hall",
+   "summary": "Los Amantes Banquet Hall is an event venue in Chicago, IL at 4753 West 47th Street, Chicago, IL 60632. Website: https://losamantesbanquet.com/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/los-amantes-banquet-hall-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/los-amantes-banquet-hall-chicago.json",
+   "address": {
+    "streetAddress": "4753 West 47th Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60632",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60632",
+   "geo": {
+    "lat": 41.8073786,
+    "lon": -87.7423592
+   },
+   "website": "https://losamantesbanquet.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/162166615",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 48,
    "sponsored": false,
    "slug": "mermaid-entertainment-and-event-center-mounds-view",
    "name": "Mermaid Entertainment and Event Center",
@@ -392,7 +1630,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 12,
+   "position": 49,
    "sponsored": false,
    "slug": "nicollet-island-pavilion-minneapolis",
    "name": "Nicollet Island Pavilion",
@@ -425,7 +1663,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 13,
+   "position": 50,
    "sponsored": false,
    "slug": "paikka-saint-paul",
    "name": "PAIKKA",
@@ -458,7 +1696,304 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 14,
+   "position": 51,
+   "sponsored": false,
+   "slug": "parkway-ballroom-chicago",
+   "name": "Parkway Ballroom",
+   "summary": "Parkway Ballroom is an event venue in Chicago, IL at 4455 South Doctor Martin Luther King Junior Drive, Chicago, IL 60653. Website: https://www.parkwayballroomchicago.com/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/parkway-ballroom-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/parkway-ballroom-chicago.json",
+   "address": {
+    "streetAddress": "4455 South Doctor Martin Luther King Junior Drive",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60653",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60653",
+   "geo": {
+    "lat": 41.8132713,
+    "lon": -87.6159126
+   },
+   "website": "https://www.parkwayballroomchicago.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/210914582",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 52,
+   "sponsored": false,
+   "slug": "plaza-garibaldi-chicago",
+   "name": "Plaza Garibaldi",
+   "summary": "Plaza Garibaldi is an event venue in Chicago, IL at South Rockwell Street, Chicago, IL 60623. Website: https://vivatumusica.com/eventin-event-2/event-locations/illinois/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/plaza-garibaldi-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/plaza-garibaldi-chicago.json",
+   "address": {
+    "streetAddress": "South Rockwell Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60623",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60623",
+   "geo": {
+    "lat": 41.8423217,
+    "lon": -87.690702
+   },
+   "website": "https://vivatumusica.com/eventin-event-2/event-locations/illinois/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11877416580",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 53,
+   "sponsored": false,
+   "slug": "radius-chicago-chicago",
+   "name": "Radius Chicago",
+   "summary": "Radius Chicago is an event venue in Chicago, IL at 640 West Cermak Road, Chicago, IL 60616. Website: https://www.radius-chicago.com/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/radius-chicago-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/radius-chicago-chicago.json",
+   "address": {
+    "streetAddress": "640 West Cermak Road",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60616",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60616",
+   "geo": {
+    "lat": 41.853336,
+    "lon": -87.6426103
+   },
+   "website": "https://www.radius-chicago.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/210224165",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 54,
+   "sponsored": false,
+   "slug": "ravinia-festival-highland-park",
+   "name": "Ravinia Festival",
+   "summary": "Ravinia Festival is an event venue in Highland Park, IL at 418 Sheridan Road, Highland Park, IL 60035. Website: https://www.ravinia.org/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ravinia-festival-highland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ravinia-festival-highland-park.json",
+   "address": {
+    "streetAddress": "418 Sheridan Road",
+    "addressLocality": "Highland Park",
+    "addressRegion": "IL",
+    "postalCode": "60035",
+    "addressCountry": "US"
+   },
+   "city": "Highland Park",
+   "state": "IL",
+   "zip": "60035",
+   "geo": {
+    "lat": 42.1573592,
+    "lon": -87.7763234
+   },
+   "website": "https://www.ravinia.org/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/relation/7419783",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 55,
+   "sponsored": false,
+   "slug": "rockwell-on-the-river-chicago-w1321689494",
+   "name": "Rockwell on the River",
+   "summary": "Rockwell on the River is an event venue in Chicago, IL at 3019 North Rockwell Street, Chicago, IL 60618. Website: https://rockwellontheriver.com/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rockwell-on-the-river-chicago-w1321689494/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rockwell-on-the-river-chicago-w1321689494.json",
+   "address": {
+    "streetAddress": "3019 North Rockwell Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60618",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60618",
+   "geo": {
+    "lat": 41.9371973,
+    "lon": -87.6916181
+   },
+   "website": "https://rockwellontheriver.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1321689494",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 56,
+   "sponsored": false,
+   "slug": "sarabande-chicago-chicago",
+   "name": "Sarabande Chicago",
+   "summary": "Sarabande Chicago is an event venue in Chicago, IL at 2726 West Roscoe Street, Chicago, IL 60618. Website: https://www.sarabandechicago.com/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sarabande-chicago-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sarabande-chicago-chicago.json",
+   "address": {
+    "streetAddress": "2726 West Roscoe Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60618",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60618",
+   "geo": {
+    "lat": 41.943103,
+    "lon": -87.696607
+   },
+   "website": "https://www.sarabandechicago.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13743123598",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 57,
+   "sponsored": false,
+   "slug": "serbian-social-center-lansing",
+   "name": "Serbian Social Center",
+   "summary": "Serbian Social Center is an event venue in Lansing, IL at 18550 Stony Island Avenue, Lansing, IL 60438. Website: https://www.serbiansocialcenter.com/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/serbian-social-center-lansing/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/serbian-social-center-lansing.json",
+   "address": {
+    "streetAddress": "18550 Stony Island Avenue",
+    "addressLocality": "Lansing",
+    "addressRegion": "IL",
+    "postalCode": "60438",
+    "addressCountry": "US"
+   },
+   "city": "Lansing",
+   "state": "IL",
+   "zip": "60438",
+   "geo": {
+    "lat": 41.5582533,
+    "lon": -87.5794812
+   },
+   "website": "https://www.serbiansocialcenter.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1149003677",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 58,
+   "sponsored": false,
+   "slug": "sky-on-nine-rosemont",
+   "name": "Sky on Nine",
+   "summary": "Sky on Nine is an event venue in Rosemont, IL at 6600 Mannheim Road, Rosemont, IL 60018. Website: https://www.skyonnine.com/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sky-on-nine-rosemont/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sky-on-nine-rosemont.json",
+   "address": {
+    "streetAddress": "6600 Mannheim Road",
+    "addressLocality": "Rosemont",
+    "addressRegion": "IL",
+    "postalCode": "60018",
+    "addressCountry": "US"
+   },
+   "city": "Rosemont",
+   "state": "IL",
+   "zip": "60018",
+   "geo": {
+    "lat": 41.9996694,
+    "lon": -87.885921
+   },
+   "website": "https://www.skyonnine.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10558370981",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 59,
+   "sponsored": false,
+   "slug": "studio-2226-chicago",
+   "name": "Studio 2226",
+   "summary": "Studio 2226 is an event venue in Chicago, IL at 2226 East 71st Street, Chicago, IL 60649. Website: https://www.2226studio.com/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/studio-2226-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/studio-2226-chicago.json",
+   "address": {
+    "streetAddress": "2226 East 71st Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60649",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60649",
+   "geo": {
+    "lat": 41.7665096,
+    "lon": -87.5703362
+   },
+   "website": "https://www.2226studio.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/211317808",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 60,
    "sponsored": false,
    "slug": "the-annex-minneapolis",
    "name": "The Annex",
@@ -491,7 +2026,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 15,
+   "position": 61,
    "sponsored": false,
    "slug": "the-arthouse-minneapolis",
    "name": "The Arthouse",
@@ -524,7 +2059,40 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 16,
+   "position": 62,
+   "sponsored": false,
+   "slug": "the-corral-western-springs",
+   "name": "The Corral",
+   "summary": "The Corral is an event venue in Western Springs, IL at 4940 South Willow Springs Road, Western Springs, IL 60558. Website: https://www.lths.net/about-lths/community/the-corral.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-corral-western-springs/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-corral-western-springs.json",
+   "address": {
+    "streetAddress": "4940 South Willow Springs Road",
+    "addressLocality": "Western Springs",
+    "addressRegion": "IL",
+    "postalCode": "60558",
+    "addressCountry": "US"
+   },
+   "city": "Western Springs",
+   "state": "IL",
+   "zip": "60558",
+   "geo": {
+    "lat": 41.7993089,
+    "lon": -87.8894277
+   },
+   "website": "https://www.lths.net/about-lths/community/the-corral",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/228290304",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 63,
    "sponsored": false,
    "slug": "the-granada-theater-minneapolis",
    "name": "The Granada Theater",
@@ -557,7 +2125,40 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 17,
+   "position": 64,
+   "sponsored": false,
+   "slug": "the-green-living-room-chicago",
+   "name": "The Green Living Room",
+   "summary": "The Green Living Room is an event venue in Chicago, IL at 6431-6433 South Cottage Grove Avenue, Chicago, IL 60637. Website: https://www.blacksingreen.org/the-green-livng-room.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-green-living-room-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-green-living-room-chicago.json",
+   "address": {
+    "streetAddress": "6431-6433 South Cottage Grove Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60637",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60637",
+   "geo": {
+    "lat": 41.7776658,
+    "lon": -87.6055592
+   },
+   "website": "https://www.blacksingreen.org/the-green-livng-room",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/210905575",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 65,
    "sponsored": false,
    "slug": "the-hennepin-minneapolis",
    "name": "The Hennepin",
@@ -590,7 +2191,40 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 18,
+   "position": 66,
+   "sponsored": false,
+   "slug": "the-hive-on-hubbard-chicago",
+   "name": "The Hive on Hubbard",
+   "summary": "The Hive on Hubbard is an event venue in Chicago, IL at 1843 West Hubbard Street, Chicago, IL 60622. Website: https://www.thehiveonhubbard.com/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-hive-on-hubbard-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-hive-on-hubbard-chicago.json",
+   "address": {
+    "streetAddress": "1843 West Hubbard Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60622",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60622",
+   "geo": {
+    "lat": 41.8896424,
+    "lon": -87.6739688
+   },
+   "website": "https://www.thehiveonhubbard.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6773226689",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 67,
    "sponsored": false,
    "slug": "the-hutton-house-medicine-lake",
    "name": "The Hutton House",
@@ -623,7 +2257,238 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 19,
+   "position": 68,
+   "sponsored": false,
+   "slug": "the-joinery-chicago",
+   "name": "The Joinery",
+   "summary": "The Joinery is an event venue in Chicago, IL at 2533 West Homer Street, Chicago, IL 60647. Website: https://www.thejoinerychicago.com/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-joinery-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-joinery-chicago.json",
+   "address": {
+    "streetAddress": "2533 West Homer Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60647",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60647",
+   "geo": {
+    "lat": 41.9163745,
+    "lon": -87.691182
+   },
+   "website": "https://www.thejoinerychicago.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/209405897",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 69,
+   "sponsored": false,
+   "slug": "the-lyric-theater-blue-island",
+   "name": "The Lyric Theater",
+   "summary": "The Lyric Theater is an event venue in Blue Island, IL at 12952 Western Avenue, Blue Island, IL 60406. Website: https://www.lyrictheater.com/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-lyric-theater-blue-island/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-lyric-theater-blue-island.json",
+   "address": {
+    "streetAddress": "12952 Western Avenue",
+    "addressLocality": "Blue Island",
+    "addressRegion": "IL",
+    "postalCode": "60406",
+    "addressCountry": "US"
+   },
+   "city": "Blue Island",
+   "state": "IL",
+   "zip": "60406",
+   "geo": {
+    "lat": 41.657529,
+    "lon": -87.6804608
+   },
+   "website": "https://www.lyrictheater.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12964940210",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 70,
+   "sponsored": false,
+   "slug": "the-olympic-theater-cicero",
+   "name": "The Olympic Theater",
+   "summary": "The Olympic Theater is an event venue in Cicero, IL at 6134 West Cermak Road, Cicero, IL 60804. Website: https://theolympictheater.com/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-olympic-theater-cicero/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-olympic-theater-cicero.json",
+   "address": {
+    "streetAddress": "6134 West Cermak Road",
+    "addressLocality": "Cicero",
+    "addressRegion": "IL",
+    "postalCode": "60804",
+    "addressCountry": "US"
+   },
+   "city": "Cicero",
+   "state": "IL",
+   "zip": "60804",
+   "geo": {
+    "lat": 41.8511713,
+    "lon": -87.7780587
+   },
+   "website": "https://theolympictheater.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7159796874",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 71,
+   "sponsored": false,
+   "slug": "the-quarry-event-center-chicago",
+   "name": "The Quarry Event Center",
+   "summary": "The Quarry Event Center is an event venue in Chicago, IL at 2423 East 75th Street, Chicago, IL 60649. Website: https://www.thequarrychi.com/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-quarry-event-center-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-quarry-event-center-chicago.json",
+   "address": {
+    "streetAddress": "2423 East 75th Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60649",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60649",
+   "geo": {
+    "lat": 41.7588646,
+    "lon": -87.5653634
+   },
+   "website": "https://www.thequarrychi.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4531565045",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 72,
+   "sponsored": false,
+   "slug": "the-salt-shed-chicago",
+   "name": "The Salt Shed",
+   "summary": "The Salt Shed is an event venue in Chicago, IL at 1357 North Elston Avenue, Chicago, IL 60642. Website: https://www.saltshedchicago.com/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-salt-shed-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-salt-shed-chicago.json",
+   "address": {
+    "streetAddress": "1357 North Elston Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60642",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60642",
+   "geo": {
+    "lat": 41.9067079,
+    "lon": -87.6592418
+   },
+   "website": "https://www.saltshedchicago.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/210307434",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 73,
+   "sponsored": false,
+   "slug": "the-venue-brookfield-brookfield",
+   "name": "The Venue Brookfield",
+   "summary": "The Venue Brookfield is an event venue in Brookfield, IL at 9109 Ogden Avenue, Brookfield, IL 60513. Website: https://www.instagram.com/thevenuebrookfield/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-venue-brookfield-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-venue-brookfield-brookfield.json",
+   "address": {
+    "streetAddress": "9109 Ogden Avenue",
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "postalCode": "60513",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "zip": "60513",
+   "geo": {
+    "lat": 41.8166977,
+    "lon": -87.8496896
+   },
+   "website": "https://www.instagram.com/thevenuebrookfield/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12459185539",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 74,
+   "sponsored": false,
+   "slug": "the-vineyard-chicago",
+   "name": "The Vineyard",
+   "summary": "The Vineyard is an event venue in Chicago, IL at 2121 West 95th Street, Chicago, IL 60643. Website: https://www.thevineyardbeverly.com/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-vineyard-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-vineyard-chicago.json",
+   "address": {
+    "streetAddress": "2121 West 95th Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60643",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60643",
+   "geo": {
+    "lat": 41.7207262,
+    "lon": -87.6754853
+   },
+   "website": "https://www.thevineyardbeverly.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/209615428",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 75,
    "sponsored": false,
    "slug": "the-whim-minneapolis",
    "name": "The Whim",
@@ -656,7 +2521,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 20,
+   "position": 76,
    "sponsored": false,
    "slug": "turtles-1890-social-centre-shakopee",
    "name": "Turtle's 1890 Social Centre",
@@ -689,7 +2554,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 21,
+   "position": 77,
    "sponsored": false,
    "slug": "van-dusen-mansion-minneapolis",
    "name": "Van Dusen Mansion",
@@ -722,7 +2587,106 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 22,
+   "position": 78,
+   "sponsored": false,
+   "slug": "virginia-wadsworth-wirtz-center-for-the-performing-arts-evanston",
+   "name": "Virginia Wadsworth Wirtz Center for the Performing Arts",
+   "summary": "Virginia Wadsworth Wirtz Center for the Performing Arts is an event venue in Evanston, IL at 1949 Campus Drive, Evanston, IL 60208. Website: https://wirtz.northwestern.edu/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/virginia-wadsworth-wirtz-center-for-the-performing-arts-evanston/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/virginia-wadsworth-wirtz-center-for-the-performing-arts-evanston.json",
+   "address": {
+    "streetAddress": "1949 Campus Drive",
+    "addressLocality": "Evanston",
+    "addressRegion": "IL",
+    "postalCode": "60208",
+    "addressCountry": "US"
+   },
+   "city": "Evanston",
+   "state": "IL",
+   "zip": "60208",
+   "geo": {
+    "lat": 42.052053,
+    "lon": -87.6729505
+   },
+   "website": "https://wirtz.northwestern.edu/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/relation/4630782",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 79,
+   "sponsored": false,
+   "slug": "white-eagle-events-and-convention-center-niles",
+   "name": "White Eagle Events & Convention Center",
+   "summary": "White Eagle Events & Convention Center is an event venue in Niles, IL at 6839 North Milwaukee Avenue, Niles, IL 60714. Website: https://www.victoriavenues.com/whiteeagle.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/white-eagle-events-and-convention-center-niles/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/white-eagle-events-and-convention-center-niles.json",
+   "address": {
+    "streetAddress": "6839 North Milwaukee Avenue",
+    "addressLocality": "Niles",
+    "addressRegion": "IL",
+    "postalCode": "60714",
+    "addressCountry": "US"
+   },
+   "city": "Niles",
+   "state": "IL",
+   "zip": "60714",
+   "geo": {
+    "lat": 42.0054461,
+    "lon": -87.7945957
+   },
+   "website": "https://www.victoriavenues.com/whiteeagle",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1161553306",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 80,
+   "sponsored": false,
+   "slug": "winnies-playroom-brookfield",
+   "name": "Winnie's Playroom",
+   "summary": "Winnie's Playroom is an event venue in Brookfield, IL at 9039 Monroe Avenue, Brookfield, IL 60513. Website: https://winniesplayroom.com/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/winnies-playroom-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/winnies-playroom-brookfield.json",
+   "address": {
+    "streetAddress": "9039 Monroe Avenue",
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "postalCode": "60513",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "zip": "60513",
+   "geo": {
+    "lat": 41.8292941,
+    "lon": -87.8486973
+   },
+   "website": "https://winniesplayroom.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13577889274",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 81,
    "sponsored": false,
    "slug": "wirth-picnic-pavillion-minneapolis",
    "name": "Wirth Picnic Pavillion",
@@ -755,7 +2719,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 23,
+   "position": 82,
    "sponsored": false,
    "slug": "youth-building-at-lions-park-shakopee",
    "name": "Youth Building at Lions Park",
@@ -788,7 +2752,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 24,
+   "position": 83,
    "sponsored": false,
    "slug": "blacksmith-house-minneapolis",
    "name": "Blacksmith House",
@@ -819,7 +2783,38 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 25,
+   "position": 84,
+   "sponsored": false,
+   "slug": "canvas-chicago",
+   "name": "Canvas",
+   "summary": "Canvas is an event venue in Chicago, IL at 1336 West Fulton Street, Chicago, IL. Website: https://www.ever-events.com/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/canvas-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/canvas-chicago.json",
+   "address": {
+    "streetAddress": "1336 West Fulton Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8868338,
+    "lon": -87.6602373
+   },
+   "website": "https://www.ever-events.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13844706396",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 85,
    "sponsored": false,
    "slug": "cedars-hall-minneapolis",
    "name": "Cedars Hall",
@@ -850,7 +2845,38 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 26,
+   "position": 86,
+   "sponsored": false,
+   "slug": "galleria-marchetti-chicago",
+   "name": "Galleria Marchetti",
+   "summary": "Galleria Marchetti is an event venue in Chicago, IL at 825 West Erie Street, Chicago, IL. Website: https://www.galleriamarchetti.com/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/galleria-marchetti-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/galleria-marchetti-chicago.json",
+   "address": {
+    "streetAddress": "825 West Erie Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.893169,
+    "lon": -87.6485131
+   },
+   "website": "https://www.galleriamarchetti.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/210308172",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 87,
    "sponsored": false,
    "slug": "machine-shop-minneapolis",
    "name": "Machine Shop",
@@ -881,7 +2907,190 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 27,
+   "position": 88,
+   "sponsored": false,
+   "slug": "night-city-chicago",
+   "name": "Night City",
+   "summary": "Night City is an event venue in Chicago, IL at 3650 West Wrightwood Avenue, Chicago, IL. Website: https://nightcity.games/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/night-city-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/night-city-chicago.json",
+   "address": {
+    "streetAddress": "3650 West Wrightwood Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9283695,
+    "lon": -87.7190776
+   },
+   "website": "https://nightcity.games/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12996637901",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 89,
+   "sponsored": false,
+   "slug": "elements-at-water-street-naperville",
+   "name": "Elements at Water Street",
+   "summary": "Elements at Water Street is an event venue in Naperville, IL. Website: https://www.elementsnaperville.com/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/elements-at-water-street-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/elements-at-water-street-naperville.json",
+   "address": {
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7712592,
+    "lon": -88.1503011
+   },
+   "website": "https://www.elementsnaperville.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9057718709",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 90,
+   "sponsored": false,
+   "slug": "peterson-clubrooms-chicago",
+   "name": "Peterson Clubrooms",
+   "summary": "Peterson Clubrooms is an event venue in Chicago, IL. Website: https://www.chicagoparkdistrict.com/parks-facilities/peterson-clubrooms.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/peterson-clubrooms-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/peterson-clubrooms-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9861788,
+    "lon": -87.7266032
+   },
+   "website": "https://www.chicagoparkdistrict.com/parks-facilities/peterson-clubrooms",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13735924636",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 91,
+   "sponsored": false,
+   "slug": "south-shore-dining-room-chicago",
+   "name": "South Shore Dining Room",
+   "summary": "South Shore Dining Room is an event venue in Chicago, IL. Website: https://www.chicagoparkdistrict.com/parks-facilities/south-shore-dining-room.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/south-shore-dining-room-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/south-shore-dining-room-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7687033,
+    "lon": -87.5644367
+   },
+   "website": "https://www.chicagoparkdistrict.com/parks-facilities/south-shore-dining-room",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1447224121",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 92,
+   "sponsored": false,
+   "slug": "south-shore-solarium-chicago",
+   "name": "South Shore Solarium",
+   "summary": "South Shore Solarium is an event venue in Chicago, IL. Website: https://www.chicagoparkdistrict.com/parks-facilities/south-shore-solarium.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/south-shore-solarium-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/south-shore-solarium-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7684218,
+    "lon": -87.5637232
+   },
+   "website": "https://www.chicagoparkdistrict.com/parks-facilities/south-shore-solarium",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1447224120",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 93,
+   "sponsored": false,
+   "slug": "a-p-o-chicago",
+   "name": "A. P. O",
+   "summary": "A. P. O is an event venue in Chicago, IL at 1436-1440 West 18th Street, Chicago, IL 60608.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/a-p-o-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/a-p-o-chicago.json",
+   "address": {
+    "streetAddress": "1436-1440 West 18th Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60608",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60608",
+   "geo": {
+    "lat": 41.8581149,
+    "lon": -87.6628609
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/209809961",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 94,
    "sponsored": false,
    "slug": "abyssinia-center-minneapolis",
    "name": "Abyssinia Center",
@@ -913,7 +3122,135 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 28,
+   "position": 95,
+   "sponsored": false,
+   "slug": "avenue-912-griffith",
+   "name": "Avenue 912",
+   "summary": "Avenue 912 is an event venue in Griffith, IN at 202 East Ridge Road, Griffith, IN 46319.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/avenue-912-griffith/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/avenue-912-griffith.json",
+   "address": {
+    "streetAddress": "202 East Ridge Road",
+    "addressLocality": "Griffith",
+    "addressRegion": "IN",
+    "postalCode": "46319",
+    "addressCountry": "US"
+   },
+   "city": "Griffith",
+   "state": "IN",
+   "zip": "46319",
+   "geo": {
+    "lat": 41.5526062,
+    "lon": -87.4287293
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/917267498",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 96,
+   "sponsored": false,
+   "slug": "avondale-music-hall-chicago",
+   "name": "Avondale Music Hall",
+   "summary": "Avondale Music Hall is an event venue in Chicago, IL at 3336 North Milwaukee Avenue, Chicago, IL 60641.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/avondale-music-hall-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/avondale-music-hall-chicago.json",
+   "address": {
+    "streetAddress": "3336 North Milwaukee Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60641",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60641",
+   "geo": {
+    "lat": 41.9417562,
+    "lon": -87.7285539
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6711086204",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 97,
+   "sponsored": false,
+   "slug": "azteca-de-oro-joliet",
+   "name": "Azteca de Oro",
+   "summary": "Azteca de Oro is an event venue in Joliet, IL at 1013 Collins Street, Joliet, IL 60432.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/azteca-de-oro-joliet/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/azteca-de-oro-joliet.json",
+   "address": {
+    "streetAddress": "1013 Collins Street",
+    "addressLocality": "Joliet",
+    "addressRegion": "IL",
+    "postalCode": "60432",
+    "addressCountry": "US"
+   },
+   "city": "Joliet",
+   "state": "IL",
+   "zip": "60432",
+   "geo": {
+    "lat": 41.5432148,
+    "lon": -88.0731757
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/961796208",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 98,
+   "sponsored": false,
+   "slug": "banquets-at-the-mayors-mansion-chicago",
+   "name": "Banquets at the Mayor's Mansion",
+   "summary": "Banquets at the Mayor's Mansion is an event venue in Chicago, IL at 5433 South Harlem Avenue, Chicago, IL 60638.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/banquets-at-the-mayors-mansion-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/banquets-at-the-mayors-mansion-chicago.json",
+   "address": {
+    "streetAddress": "5433 South Harlem Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60638",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60638",
+   "geo": {
+    "lat": 41.7927733,
+    "lon": -87.8011504
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/163255667",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 99,
    "sponsored": false,
    "slug": "banquets-of-minnesota-fridley",
    "name": "Banquets of Minnesota",
@@ -945,7 +3282,583 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 29,
+   "position": 100,
+   "sponsored": false,
+   "slug": "beachems-blissful-events-brookfield",
+   "name": "Beachems Blissful Events",
+   "summary": "Beachems Blissful Events is an event venue in Brookfield, IL at 3736 Grand Boulevard, Brookfield, IL 60513.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/beachems-blissful-events-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/beachems-blissful-events-brookfield.json",
+   "address": {
+    "streetAddress": "3736 Grand Boulevard",
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "postalCode": "60513",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "zip": "60513",
+   "geo": {
+    "lat": 41.8227957,
+    "lon": -87.8450881
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9735798723",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 101,
+   "sponsored": false,
+   "slug": "belvedere-elk-grove-village",
+   "name": "Belvedere",
+   "summary": "Belvedere is an event venue in Elk Grove Village, IL at 1170 West Devon Avenue, Elk Grove Village, IL 60007.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/belvedere-elk-grove-village/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/belvedere-elk-grove-village.json",
+   "address": {
+    "streetAddress": "1170 West Devon Avenue",
+    "addressLocality": "Elk Grove Village",
+    "addressRegion": "IL",
+    "postalCode": "60007",
+    "addressCountry": "US"
+   },
+   "city": "Elk Grove Village",
+   "state": "IL",
+   "zip": "60007",
+   "geo": {
+    "lat": 41.9938356,
+    "lon": -88.0303102
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1241748795",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 102,
+   "sponsored": false,
+   "slug": "byline-bank-aragon-ballroom-chicago",
+   "name": "Byline Bank Aragon Ballroom",
+   "summary": "Byline Bank Aragon Ballroom is an event venue in Chicago, IL at 1106 West Lawrence Avenue, Chicago, IL 60640.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/byline-bank-aragon-ballroom-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/byline-bank-aragon-ballroom-chicago.json",
+   "address": {
+    "streetAddress": "1106 West Lawrence Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60640",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60640",
+   "geo": {
+    "lat": 41.9694311,
+    "lon": -87.6580259
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/31293839",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 103,
+   "sponsored": false,
+   "slug": "caf-brauer-south-pond-refectory-chicago",
+   "name": "Café Brauer (South Pond Refectory)",
+   "summary": "Café Brauer (South Pond Refectory) is an event venue in Chicago, IL at 2021 North Stockton Drive, Chicago, IL 60614.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/caf-brauer-south-pond-refectory-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/caf-brauer-south-pond-refectory-chicago.json",
+   "address": {
+    "streetAddress": "2021 North Stockton Drive",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60614",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60614",
+   "geo": {
+    "lat": 41.9190969,
+    "lon": -87.63389
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/24826112",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 104,
+   "sponsored": false,
+   "slug": "cahn-auditorium-evanston",
+   "name": "Cahn Auditorium",
+   "summary": "Cahn Auditorium is an event venue in Evanston, IL at 600 Emerson Street, Evanston, IL 60208.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cahn-auditorium-evanston/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cahn-auditorium-evanston.json",
+   "address": {
+    "streetAddress": "600 Emerson Street",
+    "addressLocality": "Evanston",
+    "addressRegion": "IL",
+    "postalCode": "60208",
+    "addressCountry": "US"
+   },
+   "city": "Evanston",
+   "state": "IL",
+   "zip": "60208",
+   "geo": {
+    "lat": 42.0518403,
+    "lon": -87.6778468
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1360690337",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 105,
+   "sponsored": false,
+   "slug": "carlisle-banquets-lombard",
+   "name": "Carlisle Banquets",
+   "summary": "Carlisle Banquets is an event venue in Lombard, IL at 435 East Butterfield Road, Lombard, IL 60148.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/carlisle-banquets-lombard/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/carlisle-banquets-lombard.json",
+   "address": {
+    "streetAddress": "435 East Butterfield Road",
+    "addressLocality": "Lombard",
+    "addressRegion": "IL",
+    "postalCode": "60148",
+    "addressCountry": "US"
+   },
+   "city": "Lombard",
+   "state": "IL",
+   "zip": "60148",
+   "geo": {
+    "lat": 41.8362979,
+    "lon": -88.0054635
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/770782456",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 106,
+   "sponsored": false,
+   "slug": "chateau-ritz-niles",
+   "name": "Chateau Ritz",
+   "summary": "Chateau Ritz is an event venue in Niles, IL at 9100 Milwaukee Avenue, Niles, IL 60714.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chateau-ritz-niles/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chateau-ritz-niles.json",
+   "address": {
+    "streetAddress": "9100 Milwaukee Avenue",
+    "addressLocality": "Niles",
+    "addressRegion": "IL",
+    "postalCode": "60714",
+    "addressCountry": "US"
+   },
+   "city": "Niles",
+   "state": "IL",
+   "zip": "60714",
+   "geo": {
+    "lat": 42.0455863,
+    "lon": -87.8321169
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/209097155",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 107,
+   "sponsored": false,
+   "slug": "chetnik-memorial-hall-crown-point",
+   "name": "Chetnik Memorial Hall",
+   "summary": "Chetnik Memorial Hall is an event venue in Crown Point, IN at 1350 Woodview Drive, Crown Point, IN 46307.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chetnik-memorial-hall-crown-point/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chetnik-memorial-hall-crown-point.json",
+   "address": {
+    "streetAddress": "1350 Woodview Drive",
+    "addressLocality": "Crown Point",
+    "addressRegion": "IN",
+    "postalCode": "46307",
+    "addressCountry": "US"
+   },
+   "city": "Crown Point",
+   "state": "IN",
+   "zip": "46307",
+   "geo": {
+    "lat": 41.4769252,
+    "lon": -87.4181754
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1337554432",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 108,
+   "sponsored": false,
+   "slug": "constellation-club-chicago",
+   "name": "Constellation Club",
+   "summary": "Constellation Club is an event venue in Chicago, IL at 3111 North Western Avenue, Chicago, IL 60618.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/constellation-club-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/constellation-club-chicago.json",
+   "address": {
+    "streetAddress": "3111 North Western Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60618",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60618",
+   "geo": {
+    "lat": 41.938104,
+    "lon": -87.6876388
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/209457376",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 109,
+   "sponsored": false,
+   "slug": "dinolfos-banquets-homer-glen",
+   "name": "DiNolfo's Banquets",
+   "summary": "DiNolfo's Banquets is an event venue in Homer Glen, IL at 14447 West 159th Street, Homer Glen, IL 60491.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dinolfos-banquets-homer-glen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dinolfos-banquets-homer-glen.json",
+   "address": {
+    "streetAddress": "14447 West 159th Street",
+    "addressLocality": "Homer Glen",
+    "addressRegion": "IL",
+    "postalCode": "60491",
+    "addressCountry": "US"
+   },
+   "city": "Homer Glen",
+   "state": "IL",
+   "zip": "60491",
+   "geo": {
+    "lat": 41.5983082,
+    "lon": -87.9697053
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1203827015",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 110,
+   "sponsored": false,
+   "slug": "dr-john-l-connor-fellowship-hall-chicago",
+   "name": "Dr. John L. Connor Fellowship Hall",
+   "summary": "Dr. John L. Connor Fellowship Hall is an event venue in Chicago, IL at 7900 South South Chicago Avenue, Chicago, IL 60617.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dr-john-l-connor-fellowship-hall-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dr-john-l-connor-fellowship-hall-chicago.json",
+   "address": {
+    "streetAddress": "7900 South South Chicago Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60617",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60617",
+   "geo": {
+    "lat": 41.7509669,
+    "lon": -87.5852384
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/211122524",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 111,
+   "sponsored": false,
+   "slug": "el-mexico-moderno-ball-room-chicago",
+   "name": "El Mexico Moderno Ball Room",
+   "summary": "El Mexico Moderno Ball Room is an event venue in Chicago, IL at 1645 North Cicero Avenue, Chicago, IL 60639.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/el-mexico-moderno-ball-room-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/el-mexico-moderno-ball-room-chicago.json",
+   "address": {
+    "streetAddress": "1645 North Cicero Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60639",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60639",
+   "geo": {
+    "lat": 41.9110267,
+    "lon": -87.7455596
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/162385705",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 112,
+   "sponsored": false,
+   "slug": "festival-hall-chicago",
+   "name": "Festival Hall",
+   "summary": "Festival Hall is an event venue in Chicago, IL at 700 East Grand Avenue, Chicago, IL 60611.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/festival-hall-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/festival-hall-chicago.json",
+   "address": {
+    "streetAddress": "700 East Grand Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60611",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60611",
+   "geo": {
+    "lat": 41.8917409,
+    "lon": -87.6030413
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/752904676",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 113,
+   "sponsored": false,
+   "slug": "hanging-gardens-banquet-rooms-river-grove",
+   "name": "Hanging Gardens Banquet Rooms",
+   "summary": "Hanging Gardens Banquet Rooms is an event venue in River Grove, IL at 8301 West Belmont Avenue, River Grove, IL 60171.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hanging-gardens-banquet-rooms-river-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hanging-gardens-banquet-rooms-river-grove.json",
+   "address": {
+    "streetAddress": "8301 West Belmont Avenue",
+    "addressLocality": "River Grove",
+    "addressRegion": "IL",
+    "postalCode": "60171",
+    "addressCountry": "US"
+   },
+   "city": "River Grove",
+   "state": "IL",
+   "zip": "60171",
+   "geo": {
+    "lat": 41.9352826,
+    "lon": -87.8338157
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/531664366",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 114,
+   "sponsored": false,
+   "slug": "haymarket-house-chicago",
+   "name": "Haymarket House",
+   "summary": "Haymarket House is an event venue in Chicago, IL at 800 West Buena Avenue, Chicago, IL 60613.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/haymarket-house-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/haymarket-house-chicago.json",
+   "address": {
+    "streetAddress": "800 West Buena Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60613",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60613",
+   "geo": {
+    "lat": 41.958726,
+    "lon": -87.6502
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/210382575",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 115,
+   "sponsored": false,
+   "slug": "hull-house-dining-hall-chicago",
+   "name": "Hull House Dining Hall",
+   "summary": "Hull House Dining Hall is an event venue in Chicago, IL at 800 South Halsted Street, Chicago, IL 60607.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hull-house-dining-hall-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hull-house-dining-hall-chicago.json",
+   "address": {
+    "streetAddress": "800 South Halsted Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60607",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60607",
+   "geo": {
+    "lat": 41.8713689,
+    "lon": -87.6474114
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/148902943",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 116,
+   "sponsored": false,
+   "slug": "joliet-union-station-joliet",
+   "name": "Joliet Union Station",
+   "summary": "Joliet Union Station is an event venue in Joliet, IL at 50 East Jefferson Street, Joliet, IL 60432.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/joliet-union-station-joliet/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/joliet-union-station-joliet.json",
+   "address": {
+    "streetAddress": "50 East Jefferson Street",
+    "addressLocality": "Joliet",
+    "addressRegion": "IL",
+    "postalCode": "60432",
+    "addressCountry": "US"
+   },
+   "city": "Joliet",
+   "state": "IL",
+   "zip": "60432",
+   "geo": {
+    "lat": 41.5244632,
+    "lon": -88.0796802
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/43876076",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 117,
+   "sponsored": false,
+   "slug": "juanitas-restaurant-banquet-hall-chicago",
+   "name": "Juanitas Restaurant Banquet Hall",
+   "summary": "Juanitas Restaurant Banquet Hall is an event venue in Chicago, IL at 6539 West 63rd Street, Chicago, IL 60638.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/juanitas-restaurant-banquet-hall-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/juanitas-restaurant-banquet-hall-chicago.json",
+   "address": {
+    "streetAddress": "6539 West 63rd Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60638",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60638",
+   "geo": {
+    "lat": 41.7774141,
+    "lon": -87.7852434
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/162855894",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 118,
    "sponsored": false,
    "slug": "kellermans-event-center-white-bear-lake",
    "name": "Kellerman's Event Center",
@@ -977,7 +3890,199 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 30,
+   "position": 119,
+   "sponsored": false,
+   "slug": "l-may-creations-event-space-chicago",
+   "name": "L May Creations Event Space",
+   "summary": "L May Creations Event Space is an event venue in Chicago, IL at 5936 West Chicago Avenue, Chicago, IL 60651.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/l-may-creations-event-space-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/l-may-creations-event-space-chicago.json",
+   "address": {
+    "streetAddress": "5936 West Chicago Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60651",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60651",
+   "geo": {
+    "lat": 41.8948851,
+    "lon": -87.7737402
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13653944369",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 120,
+   "sponsored": false,
+   "slug": "layalena-banquets-niles",
+   "name": "Layalena Banquets",
+   "summary": "Layalena Banquets is an event venue in Niles, IL at 8801 North Milwaukee Avenue, Niles, IL 60714.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/layalena-banquets-niles/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/layalena-banquets-niles.json",
+   "address": {
+    "streetAddress": "8801 North Milwaukee Avenue",
+    "addressLocality": "Niles",
+    "addressRegion": "IL",
+    "postalCode": "60714",
+    "addressCountry": "US"
+   },
+   "city": "Niles",
+   "state": "IL",
+   "zip": "60714",
+   "geo": {
+    "lat": 42.0407522,
+    "lon": -87.8263777
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2298691271",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 121,
+   "sponsored": false,
+   "slug": "lido-banquets-chicago",
+   "name": "Lido Banquets",
+   "summary": "Lido Banquets is an event venue in Chicago, IL at 5504 North Milwaukee Avenue, Chicago, IL 60630.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lido-banquets-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lido-banquets-chicago.json",
+   "address": {
+    "streetAddress": "5504 North Milwaukee Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60630",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60630",
+   "geo": {
+    "lat": 41.9815845,
+    "lon": -87.773606
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/163222095",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 122,
+   "sponsored": false,
+   "slug": "loft-21-lincolnshire",
+   "name": "Loft 21",
+   "summary": "Loft 21 is an event venue in Lincolnshire, IL at 1501 North Milwaukee Avenue, Lincolnshire, IL 60069.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/loft-21-lincolnshire/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/loft-21-lincolnshire.json",
+   "address": {
+    "streetAddress": "1501 North Milwaukee Avenue",
+    "addressLocality": "Lincolnshire",
+    "addressRegion": "IL",
+    "postalCode": "60069",
+    "addressCountry": "US"
+   },
+   "city": "Lincolnshire",
+   "state": "IL",
+   "zip": "60069",
+   "geo": {
+    "lat": 42.1774097,
+    "lon": -87.9240692
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/371397988",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 123,
+   "sponsored": false,
+   "slug": "lone-tree-manor-banquet-hall-niles",
+   "name": "Lone Tree Manor Banquet Hall",
+   "summary": "Lone Tree Manor Banquet Hall is an event venue in Niles, IL at 7730 North Milwaukee Avenue, Niles, IL 60714.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lone-tree-manor-banquet-hall-niles/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lone-tree-manor-banquet-hall-niles.json",
+   "address": {
+    "streetAddress": "7730 North Milwaukee Avenue",
+    "addressLocality": "Niles",
+    "addressRegion": "IL",
+    "postalCode": "60714",
+    "addressCountry": "US"
+   },
+   "city": "Niles",
+   "state": "IL",
+   "zip": "60714",
+   "geo": {
+    "lat": 42.0214467,
+    "lon": -87.8102777
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1217682561",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 124,
+   "sponsored": false,
+   "slug": "maggianos-banquets-chicago",
+   "name": "Maggiano's Banquets",
+   "summary": "Maggiano's Banquets is an event venue in Chicago, IL at 111 West Grand Avenue, Chicago, IL 60654.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/maggianos-banquets-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/maggianos-banquets-chicago.json",
+   "address": {
+    "streetAddress": "111 West Grand Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60654",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60654",
+   "geo": {
+    "lat": 41.8913855,
+    "lon": -87.6317672
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/153291625",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 125,
    "sponsored": false,
    "slug": "mansion-at-uptown-minneapolis",
    "name": "Mansion at Uptown",
@@ -1009,7 +4114,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 31,
+   "position": 126,
    "sponsored": false,
    "slug": "mcnamara-alumni-center-minneapolis",
    "name": "McNamara Alumni Center",
@@ -1041,7 +4146,327 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 32,
+   "position": 127,
+   "sponsored": false,
+   "slug": "melrose-place-whiting",
+   "name": "Melrose Place",
+   "summary": "Melrose Place is an event venue in Whiting, IN at 1548 119th Street #100, Whiting, IN 46394.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/melrose-place-whiting/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/melrose-place-whiting.json",
+   "address": {
+    "streetAddress": "1548 119th Street #100",
+    "addressLocality": "Whiting",
+    "addressRegion": "IN",
+    "postalCode": "46394",
+    "addressCountry": "US"
+   },
+   "city": "Whiting",
+   "state": "IN",
+   "zip": "46394",
+   "geo": {
+    "lat": 41.679121,
+    "lon": -87.4908512
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1232448662",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 128,
+   "sponsored": false,
+   "slug": "midway-catering-and-banquet-hall-chicago",
+   "name": "Midway Catering & Banquet Hall",
+   "summary": "Midway Catering & Banquet Hall is an event venue in Chicago, IL at 4222 West 63rd Street, Chicago, IL 60629.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/midway-catering-and-banquet-hall-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/midway-catering-and-banquet-hall-chicago.json",
+   "address": {
+    "streetAddress": "4222 West 63rd Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60629",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60629",
+   "geo": {
+    "lat": 41.7787471,
+    "lon": -87.7287046
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12316331018",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 129,
+   "sponsored": false,
+   "slug": "morettis-unique-events-hoffman-estates",
+   "name": "Moretti's Unique Events",
+   "summary": "Moretti's Unique Events is an event venue in Hoffman Estates, IL at 2525 West Higgins Road, Hoffman Estates, IL 60195.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/morettis-unique-events-hoffman-estates/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/morettis-unique-events-hoffman-estates.json",
+   "address": {
+    "streetAddress": "2525 West Higgins Road",
+    "addressLocality": "Hoffman Estates",
+    "addressRegion": "IL",
+    "postalCode": "60195",
+    "addressCountry": "US"
+   },
+   "city": "Hoffman Estates",
+   "state": "IL",
+   "zip": "60195",
+   "geo": {
+    "lat": 42.0577388,
+    "lon": -88.1425972
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/223782523",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 130,
+   "sponsored": false,
+   "slug": "palmhouse-evanston",
+   "name": "PalmHouse",
+   "summary": "PalmHouse is an event venue in Evanston, IL at 619 Howard Street, Evanston, IL 60202.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/palmhouse-evanston/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/palmhouse-evanston.json",
+   "address": {
+    "streetAddress": "619 Howard Street",
+    "addressLocality": "Evanston",
+    "addressRegion": "IL",
+    "postalCode": "60202",
+    "addressCountry": "US"
+   },
+   "city": "Evanston",
+   "state": "IL",
+   "zip": "60202",
+   "geo": {
+    "lat": 42.0195964,
+    "lon": -87.6788345
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2294091462",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 131,
+   "sponsored": false,
+   "slug": "pick-staiger-concert-hall-evanston",
+   "name": "Pick-Staiger Concert Hall",
+   "summary": "Pick-Staiger Concert Hall is an event venue in Evanston, IL at 50 Arts Circle Drive, Evanston, IL 60208.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pick-staiger-concert-hall-evanston/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pick-staiger-concert-hall-evanston.json",
+   "address": {
+    "streetAddress": "50 Arts Circle Drive",
+    "addressLocality": "Evanston",
+    "addressRegion": "IL",
+    "postalCode": "60208",
+    "addressCountry": "US"
+   },
+   "city": "Evanston",
+   "state": "IL",
+   "zip": "60208",
+   "geo": {
+    "lat": 42.0526967,
+    "lon": -87.6721649
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/33908912",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 132,
+   "sponsored": false,
+   "slug": "ragdale-lake-forest",
+   "name": "Ragdale",
+   "summary": "Ragdale is an event venue in Lake Forest, IL at 1230 North Green Bay Road, Lake Forest, IL 60045.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ragdale-lake-forest/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ragdale-lake-forest.json",
+   "address": {
+    "streetAddress": "1230 North Green Bay Road",
+    "addressLocality": "Lake Forest",
+    "addressRegion": "IL",
+    "postalCode": "60045",
+    "addressCountry": "US"
+   },
+   "city": "Lake Forest",
+   "state": "IL",
+   "zip": "60045",
+   "geo": {
+    "lat": 42.2626956,
+    "lon": -87.850048
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12061668055",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 133,
+   "sponsored": false,
+   "slug": "reserv-chicago",
+   "name": "RESERV",
+   "summary": "RESERV is an event venue in Chicago, IL at 744 South Dearborn Street, Chicago, IL 60605.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/reserv-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/reserv-chicago.json",
+   "address": {
+    "streetAddress": "744 South Dearborn Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60605",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60605",
+   "geo": {
+    "lat": 41.8725063,
+    "lon": -87.6294058
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/843220032",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 134,
+   "sponsored": false,
+   "slug": "revel-motor-row-chicago",
+   "name": "Revel Motor Row",
+   "summary": "Revel Motor Row is an event venue in Chicago, IL at 2400 South Michigan Avenue, Chicago, IL 60616.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/revel-motor-row-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/revel-motor-row-chicago.json",
+   "address": {
+    "streetAddress": "2400 South Michigan Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60616",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60616",
+   "geo": {
+    "lat": 41.8490367,
+    "lon": -87.6241938
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/210538345",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 135,
+   "sponsored": false,
+   "slug": "rockwell-on-the-river-chicago",
+   "name": "Rockwell on the River",
+   "summary": "Rockwell on the River is an event venue in Chicago, IL at 3057 North Rockwell Street, Chicago, IL 60618.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rockwell-on-the-river-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rockwell-on-the-river-chicago.json",
+   "address": {
+    "streetAddress": "3057 North Rockwell Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60618",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60618",
+   "geo": {
+    "lat": 41.9374574,
+    "lon": -87.6924839
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/663601591",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 136,
+   "sponsored": false,
+   "slug": "the-chateau-bu-sche-alsip",
+   "name": "The Chateau Bu-sche",
+   "summary": "The Chateau Bu-sche is an event venue in Alsip, IL at 11535 South Cicero Avenue, Alsip, IL 60803.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-chateau-bu-sche-alsip/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-chateau-bu-sche-alsip.json",
+   "address": {
+    "streetAddress": "11535 South Cicero Avenue",
+    "addressLocality": "Alsip",
+    "addressRegion": "IL",
+    "postalCode": "60803",
+    "addressCountry": "US"
+   },
+   "city": "Alsip",
+   "state": "IL",
+   "zip": "60803",
+   "geo": {
+    "lat": 41.683014,
+    "lon": -87.7380596
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/583769632",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 137,
    "sponsored": false,
    "slug": "the-den-saint-louis-park",
    "name": "The Den",
@@ -1073,7 +4498,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 33,
+   "position": 138,
    "sponsored": false,
    "slug": "the-genesis-event-center-saint-paul",
    "name": "The Genesis Event Center",
@@ -1105,7 +4530,39 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 34,
+   "position": 139,
+   "sponsored": false,
+   "slug": "the-liven-room-niles",
+   "name": "The Liven Room",
+   "summary": "The Liven Room is an event venue in Niles, IL at 7013 North Milwaukee Avenue, Niles, IL 60714.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-liven-room-niles/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-liven-room-niles.json",
+   "address": {
+    "streetAddress": "7013 North Milwaukee Avenue",
+    "addressLocality": "Niles",
+    "addressRegion": "IL",
+    "postalCode": "60714",
+    "addressCountry": "US"
+   },
+   "city": "Niles",
+   "state": "IL",
+   "zip": "60714",
+   "geo": {
+    "lat": 42.0092449,
+    "lon": -87.798204
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1500298263",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 140,
    "sponsored": false,
    "slug": "the-lynhall-minneapolis",
    "name": "The Lynhall",
@@ -1137,7 +4594,101 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 35,
+   "position": 141,
+   "sponsored": false,
+   "slug": "victoria-in-the-park-mount-prospect",
+   "name": "Victoria In The Park",
+   "summary": "Victoria In The Park is an event venue in Mount Prospect, IL at 1700 South Elmhurst Road, Mount Prospect, IL 60056.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/victoria-in-the-park-mount-prospect/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/victoria-in-the-park-mount-prospect.json",
+   "address": {
+    "streetAddress": "1700 South Elmhurst Road",
+    "addressLocality": "Mount Prospect",
+    "addressRegion": "IL",
+    "postalCode": "60056",
+    "addressCountry": "US"
+   },
+   "city": "Mount Prospect",
+   "state": "IL",
+   "zip": "60056",
+   "geo": {
+    "lat": 42.0338556,
+    "lon": -87.9418095
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/59138276",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 142,
+   "sponsored": false,
+   "slug": "wildwood-clubroom-chicago",
+   "name": "Wildwood Clubroom",
+   "summary": "Wildwood Clubroom is an event venue in Chicago, IL at 6950 North Hiawatha Avenue, Chicago, IL 60646.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wildwood-clubroom-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wildwood-clubroom-chicago.json",
+   "address": {
+    "streetAddress": "6950 North Hiawatha Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60646",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60646",
+   "geo": {
+    "lat": 42.0073367,
+    "lon": -87.7789911
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13741140774",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 143,
+   "sponsored": false,
+   "slug": "arthouse-gary",
+   "name": "ArtHouse",
+   "summary": "ArtHouse is an event venue in Gary, IN at 401-27, Gary, IN.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/arthouse-gary/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/arthouse-gary.json",
+   "address": {
+    "streetAddress": "401-27",
+    "addressLocality": "Gary",
+    "addressRegion": "IN",
+    "addressCountry": "US"
+   },
+   "city": "Gary",
+   "state": "IN",
+   "geo": {
+    "lat": 41.6018095,
+    "lon": -87.3318975
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/202820481",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 144,
    "sponsored": false,
    "slug": "equestria-west-at-bavaria-downs-chaska",
    "name": "Equestria West at Bavaria Downs",
@@ -1167,7 +4718,67 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 36,
+   "position": 145,
+   "sponsored": false,
+   "slug": "lincoln-yards-firehouse-chicago",
+   "name": "Lincoln Yards Firehouse",
+   "summary": "Lincoln Yards Firehouse is an event venue in Chicago, IL at 1320 West Concord Place, Chicago, IL.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lincoln-yards-firehouse-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lincoln-yards-firehouse-chicago.json",
+   "address": {
+    "streetAddress": "1320 West Concord Place",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9125346,
+    "lon": -87.6615702
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/210315058",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 146,
+   "sponsored": false,
+   "slug": "windy-city-fieldhouse-chicago",
+   "name": "Windy City Fieldhouse",
+   "summary": "Windy City Fieldhouse is an event venue in Chicago, IL at 2001-2027 North Mendell Street, Chicago, IL.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/windy-city-fieldhouse-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/windy-city-fieldhouse-chicago.json",
+   "address": {
+    "streetAddress": "2001-2027 North Mendell Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9189719,
+    "lon": -87.6664959
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/209868110",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 147,
    "sponsored": false,
    "slug": "21st-century-bank-event-center-rogers",
    "name": "21st Century Bank Event Center",
@@ -1196,7 +4807,123 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 37,
+   "position": 148,
+   "sponsored": false,
+   "slug": "alpine-banquets-darien",
+   "name": "Alpine Banquets",
+   "summary": "Alpine Banquets is an event venue in Darien, IL.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/alpine-banquets-darien/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/alpine-banquets-darien.json",
+   "address": {
+    "addressLocality": "Darien",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Darien",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7375643,
+    "lon": -87.9750383
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/563113505",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 149,
+   "sponsored": false,
+   "slug": "boyer-room-new-trier-township",
+   "name": "Boyer Room",
+   "summary": "Boyer Room is an event venue in New Trier Township, IL.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/boyer-room-new-trier-township/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/boyer-room-new-trier-township.json",
+   "address": {
+    "addressLocality": "New Trier Township",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "New Trier Township",
+   "state": "IL",
+   "geo": {
+    "lat": 42.1488545,
+    "lon": -87.7897299
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1059956626",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 150,
+   "sponsored": false,
+   "slug": "convene-chicago",
+   "name": "Convene",
+   "summary": "Convene is an event venue in Chicago, IL.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/convene-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/convene-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8805323,
+    "lon": -87.635483
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10945121337",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 151,
+   "sponsored": false,
+   "slug": "convene-chicago-n10945307446",
+   "name": "Convene",
+   "summary": "Convene is an event venue in Chicago, IL.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/convene-chicago-n10945307446/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/convene-chicago-n10945307446.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8785723,
+    "lon": -87.6358885
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10945307446",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 152,
    "sponsored": false,
    "slug": "escalon-south-saint-paul",
    "name": "Escalon",
@@ -1225,7 +4952,65 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 38,
+   "position": 153,
+   "sponsored": false,
+   "slug": "garden-chalet-worth",
+   "name": "Garden Chalet",
+   "summary": "Garden Chalet is an event venue in Worth, IL.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/garden-chalet-worth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/garden-chalet-worth.json",
+   "address": {
+    "addressLocality": "Worth",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Worth",
+   "state": "IL",
+   "geo": {
+    "lat": 41.6919285,
+    "lon": -87.77959
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1323674935",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 154,
+   "sponsored": false,
+   "slug": "glen-rowan-house-lake-forest",
+   "name": "Glen Rowan House",
+   "summary": "Glen Rowan House is an event venue in Lake Forest, IL.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/glen-rowan-house-lake-forest/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/glen-rowan-house-lake-forest.json",
+   "address": {
+    "addressLocality": "Lake Forest",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Lake Forest",
+   "state": "IL",
+   "geo": {
+    "lat": 42.2479585,
+    "lon": -87.8310751
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/701721830",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 155,
    "sponsored": false,
    "slug": "hall-a-minneapolis",
    "name": "Hall A",
@@ -1254,7 +5039,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 39,
+   "position": 156,
    "sponsored": false,
    "slug": "hall-b-minneapolis",
    "name": "Hall B",
@@ -1283,7 +5068,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 40,
+   "position": 157,
    "sponsored": false,
    "slug": "hall-c-minneapolis",
    "name": "Hall C",
@@ -1312,7 +5097,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 41,
+   "position": 158,
    "sponsored": false,
    "slug": "hall-d-minneapolis",
    "name": "Hall D",
@@ -1341,7 +5126,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 42,
+   "position": 159,
    "sponsored": false,
    "slug": "hall-e-minneapolis",
    "name": "Hall E",
@@ -1370,7 +5155,36 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 43,
+   "position": 160,
+   "sponsored": false,
+   "slug": "hilton-conference-hall-chicago",
+   "name": "Hilton Conference Hall",
+   "summary": "Hilton Conference Hall is an event venue in Chicago, IL.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hilton-conference-hall-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hilton-conference-hall-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.872175,
+    "lon": -87.6254278
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/147217805",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 161,
    "sponsored": false,
    "slug": "hollywood-minneapolis",
    "name": "Hollywood",
@@ -1399,7 +5213,94 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 44,
+   "position": 162,
+   "sponsored": false,
+   "slug": "jacob-henry-mansion-ballroom-joliet",
+   "name": "Jacob Henry Mansion Ballroom",
+   "summary": "Jacob Henry Mansion Ballroom is an event venue in Joliet, IL.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jacob-henry-mansion-ballroom-joliet/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jacob-henry-mansion-ballroom-joliet.json",
+   "address": {
+    "addressLocality": "Joliet",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Joliet",
+   "state": "IL",
+   "geo": {
+    "lat": 41.5229892,
+    "lon": -88.0751848
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/701120219",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 163,
+   "sponsored": false,
+   "slug": "krehbiel-gallery-northfield-township",
+   "name": "Krehbiel Gallery",
+   "summary": "Krehbiel Gallery is an event venue in Northfield Township, IL.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/krehbiel-gallery-northfield-township/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/krehbiel-gallery-northfield-township.json",
+   "address": {
+    "addressLocality": "Northfield Township",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Northfield Township",
+   "state": "IL",
+   "geo": {
+    "lat": 42.147723,
+    "lon": -87.7903395
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1059956628",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 164,
+   "sponsored": false,
+   "slug": "lakeside-room-northfield-township",
+   "name": "Lakeside Room",
+   "summary": "Lakeside Room is an event venue in Northfield Township, IL.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lakeside-room-northfield-township/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lakeside-room-northfield-township.json",
+   "address": {
+    "addressLocality": "Northfield Township",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Northfield Township",
+   "state": "IL",
+   "geo": {
+    "lat": 42.1489825,
+    "lon": -87.7898551
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1059956627",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 165,
    "sponsored": false,
    "slug": "leopolds-mississippi-gardens-brooklyn-park",
    "name": "Leopold's Mississippi Gardens",
@@ -1428,7 +5329,94 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 45,
+   "position": 166,
+   "sponsored": false,
+   "slug": "mill-creek-banquets-and-catering-wauconda",
+   "name": "Mill Creek Banquets & Catering",
+   "summary": "Mill Creek Banquets & Catering is an event venue in Wauconda, IL.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mill-creek-banquets-and-catering-wauconda/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mill-creek-banquets-and-catering-wauconda.json",
+   "address": {
+    "addressLocality": "Wauconda",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Wauconda",
+   "state": "IL",
+   "geo": {
+    "lat": 42.2575339,
+    "lon": -88.1434815
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1035811669",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 167,
+   "sponsored": false,
+   "slug": "miracle-entertainment-chicago",
+   "name": "Miracle Entertainment",
+   "summary": "Miracle Entertainment is an event venue in Chicago, IL.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/miracle-entertainment-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/miracle-entertainment-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9517525,
+    "lon": -87.7468419
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4090881277",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 168,
+   "sponsored": false,
+   "slug": "present-company-chicago",
+   "name": "Present Company",
+   "summary": "Present Company is an event venue in Chicago, IL.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/present-company-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/present-company-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8957111,
+    "lon": -87.68089
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10800541366",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 169,
    "sponsored": false,
    "slug": "quincy-hall-minneapolis",
    "name": "Quincy Hall",
@@ -1457,7 +5445,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 46,
+   "position": 170,
    "sponsored": false,
    "slug": "rental-facility-minnetrista",
    "name": "Rental Facility",
@@ -1486,7 +5474,123 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 47,
+   "position": 171,
+   "sponsored": false,
+   "slug": "saint-andrew-banquet-hall-bloomingdale",
+   "name": "Saint Andrew Banquet Hall",
+   "summary": "Saint Andrew Banquet Hall is an event venue in Bloomingdale, IL.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/saint-andrew-banquet-hall-bloomingdale/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/saint-andrew-banquet-hall-bloomingdale.json",
+   "address": {
+    "addressLocality": "Bloomingdale",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Bloomingdale",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9345104,
+    "lon": -88.0612887
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1035915625",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 172,
+   "sponsored": false,
+   "slug": "seasonal-exhibit-area-riverside",
+   "name": "Seasonal Exhibit Area",
+   "summary": "Seasonal Exhibit Area is an event venue in Riverside, IL.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/seasonal-exhibit-area-riverside/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/seasonal-exhibit-area-riverside.json",
+   "address": {
+    "addressLocality": "Riverside",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Riverside",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8314812,
+    "lon": -87.8300082
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/relation/18899220",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 173,
+   "sponsored": false,
+   "slug": "skydeck-99-chicago",
+   "name": "Skydeck 99",
+   "summary": "Skydeck 99 is an event venue in Chicago, IL.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/skydeck-99-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/skydeck-99-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8789261,
+    "lon": -87.6360715
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10945307444",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 174,
+   "sponsored": false,
+   "slug": "stage-chicago",
+   "name": "Stage",
+   "summary": "Stage is an event venue in Chicago, IL.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/stage-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/stage-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9057909,
+    "lon": -87.6587445
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1316824000",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 175,
    "sponsored": false,
    "slug": "the-crown-room-banquet-center-rogers",
    "name": "The Crown Room Banquet Center",
@@ -1513,6 +5617,399 @@
    "source": "OpenStreetMap",
    "source_url": "https://www.openstreetmap.org/node/10728333130",
    "last_checked": "2026-10-17"
+  },
+  {
+   "position": 176,
+   "sponsored": false,
+   "slug": "the-fairway-niles",
+   "name": "The Fairway",
+   "summary": "The Fairway is an event venue in Niles, IL.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-fairway-niles/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-fairway-niles.json",
+   "address": {
+    "addressLocality": "Niles",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Niles",
+   "state": "IL",
+   "geo": {
+    "lat": 42.0197649,
+    "lon": -87.7939205
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13056958870",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 177,
+   "sponsored": false,
+   "slug": "the-forge-joliet",
+   "name": "The Forge",
+   "summary": "The Forge is an event venue in Joliet, IL.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-forge-joliet/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-forge-joliet.json",
+   "address": {
+    "addressLocality": "Joliet",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Joliet",
+   "state": "IL",
+   "geo": {
+    "lat": 41.5276967,
+    "lon": -88.0820858
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8051312967",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 178,
+   "sponsored": false,
+   "slug": "the-three-top-lounge-chicago",
+   "name": "The Three Top Lounge",
+   "summary": "The Three Top Lounge is an event venue in Chicago, IL.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-three-top-lounge-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-three-top-lounge-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9065259,
+    "lon": -87.6591423
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/relation/18148243",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 179,
+   "sponsored": false,
+   "slug": "tuscany-falls-banquets-mokena",
+   "name": "Tuscany Falls Banquets",
+   "summary": "Tuscany Falls Banquets is an event venue in Mokena, IL.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tuscany-falls-banquets-mokena/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tuscany-falls-banquets-mokena.json",
+   "address": {
+    "addressLocality": "Mokena",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Mokena",
+   "state": "IL",
+   "geo": {
+    "lat": 41.5424667,
+    "lon": -87.8469934
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/438017698",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 180,
+   "sponsored": false,
+   "slug": "valladolid-banquet-hall-summit",
+   "name": "Valladolid Banquet Hall",
+   "summary": "Valladolid Banquet Hall is an event venue in Summit, IL.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/valladolid-banquet-hall-summit/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/valladolid-banquet-hall-summit.json",
+   "address": {
+    "addressLocality": "Summit",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Summit",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7771892,
+    "lon": -87.8142497
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13577853702",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 181,
+   "sponsored": false,
+   "slug": "white-house-barrington-barrington",
+   "name": "White House Barrington",
+   "summary": "White House Barrington is an event venue in Barrington, IL.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/white-house-barrington-barrington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/white-house-barrington-barrington.json",
+   "address": {
+    "addressLocality": "Barrington",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Barrington",
+   "state": "IL",
+   "geo": {
+    "lat": 42.153859,
+    "lon": -88.1380942
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1134182855",
+   "last_checked": "2026-10-17"
   }
- ]
+ ],
+ "market": {
+  "keyword": "event venues",
+  "slug": "event-venues",
+  "base_keyword": "event venues",
+  "scope": "national",
+  "city": null,
+  "state": null,
+  "category": "Events & weddings",
+  "industry": "Personal Services",
+  "us_monthly_searches": {
+   "value": 220000,
+   "range": [
+    150000,
+    370000
+   ],
+   "method": "estimate",
+   "estimate_method": "median of 58 cited US volumes for 'high'-demand keywords in the local_services research; rounded to 2 significant figures; range = 25th-75th percentile",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "confidence": "low"
+  },
+  "local_monthly_searches": null,
+  "cpc_usd": {
+   "industry_benchmark": "Personal Services",
+   "low_usd": 5.81,
+   "median_usd": 7.17,
+   "high_usd": 7.17,
+   "method": "published benchmarks: low/high = range of the industry and sub-industry median CPCs listed in 'figures'; median = most specific benchmark",
+   "figures": [
+    {
+     "usd": 7.17,
+     "label": "Personal Services median CPC 2026",
+     "source": "wordstream_2026"
+    },
+    {
+     "usd": 5.81,
+     "label": "Personal Services median CPC 2025",
+     "source": "wordstream_2025"
+    }
+   ],
+   "source": "wordstream_2026",
+   "as_of": "2026",
+   "basis_for_value": {
+    "usd": 7.17,
+    "method": "benchmark median CPC",
+    "source": "wordstream_2026"
+   }
+  },
+  "ctr_pct": {
+   "value": 7.69,
+   "label": "Personal Services average search-ad CTR 2025",
+   "source": "wordstream_2025",
+   "as_of": "2025-03"
+  },
+  "competition": {
+   "level": "medium",
+   "method": "proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research)",
+   "source": "wordstream_2026",
+   "as_of": "2026"
+  },
+  "trend": null,
+  "seasonality": {
+   "value": null,
+   "note": "No seasonality data in the research sources for this keyword."
+  },
+  "ai_query": {
+   "text": "No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.",
+   "figures": [
+    {
+     "value": "45%",
+     "label": "US adults using AI for local recommendations",
+     "source": "brightlocal_lcrs_2026"
+    },
+    {
+     "value": "75%",
+     "label": "sessions with keyword-style prompts",
+     "source": "sagapixel_sel"
+    },
+    {
+     "value": "59%",
+     "label": "local-intent prompts that triggered web search",
+     "source": "nectiv"
+    }
+   ],
+   "as_of": "2026"
+  },
+  "registry_competitors": {
+   "value": 181,
+   "slugs": [
+    "21st-century-bank-event-center-rogers",
+    "a-p-o-chicago",
+    "abyssinia-center-minneapolis",
+    "alpine-banquets-darien",
+    "aon-grand-ballroom-chicago",
+    "arthouse-gary",
+    "avenue-912-griffith",
+    "avondale-music-hall-chicago",
+    "azteca-de-oro-joliet",
+    "banquets-at-the-mayors-mansion-chicago"
+   ],
+   "method_id": "competitors",
+   "source": "registry",
+   "as_of": "2026-10-18",
+   "urls": [
+    "https://dingalinged-cpu.github.io/registry/c/21st-century-bank-event-center-rogers/",
+    "https://dingalinged-cpu.github.io/registry/c/a-p-o-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/abyssinia-center-minneapolis/",
+    "https://dingalinged-cpu.github.io/registry/c/alpine-banquets-darien/",
+    "https://dingalinged-cpu.github.io/registry/c/aon-grand-ballroom-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/arthouse-gary/",
+    "https://dingalinged-cpu.github.io/registry/c/avenue-912-griffith/",
+    "https://dingalinged-cpu.github.io/registry/c/avondale-music-hall-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/azteca-de-oro-joliet/",
+    "https://dingalinged-cpu.github.io/registry/c/banquets-at-the-mayors-mansion-chicago/"
+   ],
+   "method": "count of registry listings tagged with the keyword (city/national) or with the base service in the same state (state keywords)"
+  },
+  "agent_demand": null,
+  "agent_demand_note": "Not yet measured. Will carry AI-agent query counts from the registry's agent analytics (contract: meta.agent_demand_contract in the market index).",
+  "equivalent_google_ads_cost_month": {
+   "value_usd": 120000,
+   "method": "estimate",
+   "method_id": "google_ads_equiv",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote."
+  },
+  "search_value_index": {
+   "value_usd": 1600000,
+   "method": "estimate",
+   "method_id": "value_index",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: search value index = monthly searches x CPC basis; an advertiser-value ranking signal, not revenue; rounded to 2 significant figures."
+  },
+  "auction": {
+   "featured_spot_min_usd": 100,
+   "spots_2_to_4_min_usd": 10,
+   "tier": "mid",
+   "pricing_rule": "tier minimum (premium $500, high $250, mid $100, standard $50) for national keywords; city = max($10, 20% of tier); state = max($10, 35% of tier); spots 2-4 open at 10% of the featured minimum",
+   "model": "Monthly auction in the last 7 days of each month: days 1-5 bid for the Featured #1 spot, days 6-7 for spots 2-4; winners display all next month; all paid spots labeled Sponsored.",
+   "next_auctions": [
+    {
+     "display_month": "2026-11",
+     "featured_spot_bidding": [
+      "2026-10-25",
+      "2026-10-29"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-10-30",
+      "2026-10-31"
+     ]
+    },
+    {
+     "display_month": "2026-12",
+     "featured_spot_bidding": [
+      "2026-11-24",
+      "2026-11-28"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-11-29",
+      "2026-11-30"
+     ]
+    }
+   ],
+   "source": "registry_auction",
+   "as_of": "2026-10-18"
+  },
+  "sources": {
+   "brightlocal_lcrs_2026": {
+    "name": "BrightLocal Local Consumer Review Survey 2026 (n=1,002 US adults)",
+    "url": "https://www.brightlocal.com/research/lcrs-ai-trust/",
+    "as_of": "2026"
+   },
+   "nectiv": {
+    "name": "Nectiv study of 8,500+ ChatGPT prompts",
+    "url": "https://nectivdigital.com/blog/new-data-study-what-queries-is-chatgpt-using-behind-the-scenes",
+    "as_of": "2025"
+   },
+   "registry": {
+    "name": "This registry's own listings (OpenStreetMap-seeded, ODbL)",
+    "url": "https://dingalinged-cpu.github.io/registry/api/companies.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_auction": {
+    "name": "Registry keyword auction catalog and rules",
+    "url": "https://dingalinged-cpu.github.io/registry/api/keyword-prices.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_estimate": {
+    "name": "Registry estimate (CC-BY-4.0); method given on each value",
+    "url": "https://dingalinged-cpu.github.io/registry/market/",
+    "as_of": "2026-10-18"
+   },
+   "sagapixel_sel": {
+    "name": "Sagapixel ChatGPT local-services sessions, via Search Engine Land",
+    "url": "https://searchengineland.com/chatgpt-users-keywords-for-local-services-data-467715",
+    "as_of": "2026-01"
+   },
+   "wordstream_2025": {
+    "name": "WordStream Google Ads Benchmarks 2025 (16,446 US campaigns, Apr 2024-Mar 2025; median CPC and CTR by industry)",
+    "url": "https://www.wordstream.com/blog/2025-google-ads-benchmarks",
+    "as_of": "2025-03"
+   },
+   "wordstream_2026": {
+    "name": "LocaliQ/WordStream Search Advertising Benchmarks 2026 (US median CPC by industry)",
+    "url": "https://www.localiq.com/blog/search-advertising-benchmarks",
+    "as_of": "2026"
+   }
+  },
+  "license": {
+   "registry_estimates": "CC-BY-4.0",
+   "url": "https://creativecommons.org/licenses/by/4.0/",
+   "cited_figures": "attribute to the publishers in sources"
+  },
+  "as_of": "2026-10-18",
+  "api": "https://dingalinged-cpu.github.io/registry/api/market/event-venues.json",
+  "rate_card": "https://dingalinged-cpu.github.io/registry/view/market.html#event-venues"
+ }
 }

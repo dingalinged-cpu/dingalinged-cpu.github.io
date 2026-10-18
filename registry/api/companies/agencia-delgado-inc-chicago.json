@@ -1,0 +1,61 @@
+{
+ "slug": "agencia-delgado-inc-chicago",
+ "name": "Agencia Delgado Inc.",
+ "categories": [
+  "tax preparation"
+ ],
+ "keywords": [
+  "tax preparation",
+  "tax preparer",
+  "tax preparation chicago il",
+  "tax preparer chicago il"
+ ],
+ "services": [
+  {
+   "name": "tax preparation",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "tax preparer",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "10112 South Ewing Avenue",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60617",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60617",
+ "geo": {
+  "lat": 41.7115442,
+  "lon": -87.5354708
+ },
+ "phone": "+17733757475",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/12537246743",
+ "osm": {
+  "type": "node",
+  "id": 12537246743,
+  "tags_used": {
+   "office": "tax_advisor"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/agencia-delgado-inc-chicago/",
+ "summary": "Agencia Delgado Inc. is a tax preparation service in Chicago, IL at 10112 South Ewing Avenue, Chicago, IL 60617. Phone: +17733757475.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

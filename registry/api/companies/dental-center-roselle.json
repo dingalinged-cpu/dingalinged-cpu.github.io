@@ -1,0 +1,52 @@
+{
+ "slug": "dental-center-roselle",
+ "name": "Dental Center",
+ "categories": [
+  "dentist"
+ ],
+ "keywords": [
+  "dentist",
+  "dentist roselle il"
+ ],
+ "services": [
+  {
+   "name": "dentist",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Roselle",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Roselle",
+ "state": "IL",
+ "geo": {
+  "lat": 42.0001694,
+  "lon": -88.0596428
+ },
+ "schema_type": "Dentist",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/2709304007",
+ "osm": {
+  "type": "node",
+  "id": 2709304007,
+  "tags_used": {
+   "amenity": "dentist",
+   "healthcare": "dentist"
+  }
+ },
+ "municipality": "Roselle",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/dental-center-roselle/",
+ "summary": "Dental Center is a dentist in Roselle, IL.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

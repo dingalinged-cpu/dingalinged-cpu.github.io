@@ -1,0 +1,23 @@
+LaserAway is a skin care studio in Chicago, IL at 666 North Wells Street, Chicago, IL 60654. Website: https://www.laseraway.com/.
+
+# LaserAway
+
+- Category: facial
+- Services: facial
+- Address: 666 North Wells Street, Chicago, IL 60654
+- City: Chicago
+- State: IL
+- ZIP: 60654
+- Coordinates: 41.8943491, -87.6343467
+- Phone: n/a
+- Website: https://www.laseraway.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/laseraway-chicago/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/laseraway-chicago.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11088315714 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

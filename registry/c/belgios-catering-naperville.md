@@ -1,0 +1,23 @@
+Belgio's Catering is a caterer in Naperville, IL at 416 West 5th Avenue, Naperville, IL 60563. Phone: +16303696100. Website: https://belgios.com/.
+
+# Belgio's Catering
+
+- Category: caterers
+- Services: caterers
+- Address: 416 West 5th Avenue, Naperville, IL 60563
+- City: Naperville
+- State: IL
+- ZIP: 60563
+- Coordinates: 41.7806349, -88.1549621
+- Phone: +16303696100
+- Website: https://belgios.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/belgios-catering-naperville/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/belgios-catering-naperville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/8307889437 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

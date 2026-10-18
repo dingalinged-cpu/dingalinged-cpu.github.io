@@ -1,0 +1,63 @@
+{
+ "slug": "sterling-lawyers-llc-schaumburg",
+ "name": "Sterling Lawyers, LLC",
+ "categories": [
+  "lawyer"
+ ],
+ "keywords": [
+  "lawyer",
+  "attorney",
+  "lawyer schaumburg il",
+  "attorney schaumburg il"
+ ],
+ "services": [
+  {
+   "name": "lawyer",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "attorney",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1821 Walden Office Square ##457",
+  "addressLocality": "Schaumburg",
+  "addressRegion": "IL",
+  "postalCode": "60173",
+  "addressCountry": "US"
+ },
+ "city": "Schaumburg",
+ "state": "IL",
+ "zip": "60173",
+ "geo": {
+  "lat": 42.062195,
+  "lon": -88.0348636
+ },
+ "phone": "+18476412825",
+ "website": "https://www.sterlinglawyers.com/illinois/locations/schaumburg/",
+ "opening_hours": "24/7",
+ "schema_type": "LegalService",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/11034077024",
+ "osm": {
+  "type": "node",
+  "id": 11034077024,
+  "tags_used": {
+   "office": "lawyer"
+  }
+ },
+ "municipality": "Schaumburg",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/sterling-lawyers-llc-schaumburg/",
+ "summary": "Sterling Lawyers, LLC is a lawyer in Schaumburg, IL at 1821 Walden Office Square ##457, Schaumburg, IL 60173. Phone: +18476412825. Website: https://www.sterlinglawyers.com/illinois/locations/schaumburg/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,85 @@
+{
+ "place": "Olympia Fields, IL",
+ "slug": "olympia-fields-il",
+ "count": 2,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "business consultant olympia fields il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/business-consultant-olympia-fields-il.json"
+  },
+  {
+   "keyword": "car wash olympia fields il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-olympia-fields-il.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "nuventra-consulting-olympia-fields",
+   "name": "Nuventra Consulting",
+   "summary": "Nuventra Consulting is a business consultant in Olympia Fields, IL at 20200 Governors Drive #101-HQ302, Olympia Fields, IL 60461. Phone: +18152705533. Website: https://www.nuventraconsulting.com/.",
+   "categories": [
+    "business consultant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/nuventra-consulting-olympia-fields/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/nuventra-consulting-olympia-fields.json",
+   "address": {
+    "streetAddress": "20200 Governors Drive #101-HQ302",
+    "addressLocality": "Olympia Fields",
+    "addressRegion": "IL",
+    "postalCode": "60461",
+    "addressCountry": "US"
+   },
+   "city": "Olympia Fields",
+   "state": "IL",
+   "zip": "60461",
+   "geo": {
+    "lat": 41.52405,
+    "lon": -87.7032676
+   },
+   "phone": "+18152705533",
+   "website": "https://www.nuventraconsulting.com/",
+   "opening_hours": "Mo,Tu,Fr 19:00-22:30; Sa 10:00-18:00; Su 12:00-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13598483185",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "shell-olympia-fields",
+   "name": "Shell",
+   "summary": "Shell is a car wash in Olympia Fields, IL at 2401 Lincoln Highway, Olympia Fields, IL 60461.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/shell-olympia-fields/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/shell-olympia-fields.json",
+   "address": {
+    "streetAddress": "2401 Lincoln Highway",
+    "addressLocality": "Olympia Fields",
+    "addressRegion": "IL",
+    "postalCode": "60461",
+    "addressCountry": "US"
+   },
+   "city": "Olympia Fields",
+   "state": "IL",
+   "zip": "60461",
+   "geo": {
+    "lat": 41.506652,
+    "lon": -87.6751858
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1331682022",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+Marathon is a car wash in Chicago, IL at 9510 South Bennett Avenue, Chicago, IL 60617.
+
+# Marathon
+
+- Category: car wash
+- Services: car wash
+- Address: 9510 South Bennett Avenue, Chicago, IL 60617
+- City: Chicago
+- State: IL
+- ZIP: 60617
+- Coordinates: 41.7219859, -87.5780522
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/marathon-chicago/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/marathon-chicago.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/211277857 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,0 +1,62 @@
+{
+ "slug": "continental-tanker-tech-inc-gary",
+ "name": "Continental Tanker Tech, Inc.",
+ "categories": [
+  "auto repair"
+ ],
+ "keywords": [
+  "auto repair",
+  "mechanic",
+  "auto repair gary in",
+  "mechanic gary in"
+ ],
+ "services": [
+  {
+   "name": "auto repair",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "mechanic",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "3830 West 4th Avenue",
+  "addressLocality": "Gary",
+  "addressRegion": "IN",
+  "postalCode": "46406",
+  "addressCountry": "US"
+ },
+ "city": "Gary",
+ "state": "IN",
+ "zip": "46406",
+ "geo": {
+  "lat": 41.6044037,
+  "lon": -87.3851436
+ },
+ "phone": "+12199778742",
+ "website": "https://cttech.com/repairs/",
+ "schema_type": "AutoRepair",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/1149284866",
+ "osm": {
+  "type": "way",
+  "id": 1149284866,
+  "tags_used": {
+   "shop": "car_repair"
+  }
+ },
+ "municipality": "Gary",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/continental-tanker-tech-inc-gary/",
+ "summary": "Continental Tanker Tech, Inc. is an auto repair shop in Gary, IN at 3830 West 4th Avenue, Gary, IN 46406. Phone: +12199778742. Website: https://cttech.com/repairs/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

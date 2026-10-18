@@ -1,0 +1,63 @@
+{
+ "slug": "h-and-r-block-griffith",
+ "name": "H&R Block",
+ "categories": [
+  "tax preparation"
+ ],
+ "keywords": [
+  "tax preparation",
+  "tax preparer",
+  "tax preparation griffith in",
+  "tax preparer griffith in"
+ ],
+ "services": [
+  {
+   "name": "tax preparation",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "tax preparer",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1175 East Ridge Road",
+  "addressLocality": "Griffith",
+  "addressRegion": "IN",
+  "postalCode": "46319",
+  "addressCountry": "US"
+ },
+ "city": "Griffith",
+ "state": "IN",
+ "zip": "46319",
+ "geo": {
+  "lat": 41.5491981,
+  "lon": -87.4164462
+ },
+ "website": "https://www.hrblock.com/tax-office-near-me/indiana/griffith/14732/",
+ "brand": "H&R Block",
+ "wikidata": "Q5627799",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/8519719246",
+ "osm": {
+  "type": "node",
+  "id": 8519719246,
+  "tags_used": {
+   "office": "tax_advisor"
+  }
+ },
+ "municipality": "Griffith",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/h-and-r-block-griffith/",
+ "summary": "H&R Block is a tax preparation service in Griffith, IN at 1175 East Ridge Road, Griffith, IN 46319. Website: https://www.hrblock.com/tax-office-near-me/indiana/griffith/14732/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

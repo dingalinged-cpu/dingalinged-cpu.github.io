@@ -1,0 +1,54 @@
+{
+ "slug": "cahn-auditorium-evanston",
+ "name": "Cahn Auditorium",
+ "categories": [
+  "event venues"
+ ],
+ "keywords": [
+  "event venues",
+  "event venues evanston il"
+ ],
+ "services": [
+  {
+   "name": "event venues",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "600 Emerson Street",
+  "addressLocality": "Evanston",
+  "addressRegion": "IL",
+  "postalCode": "60208",
+  "addressCountry": "US"
+ },
+ "city": "Evanston",
+ "state": "IL",
+ "zip": "60208",
+ "geo": {
+  "lat": 42.0518403,
+  "lon": -87.6778468
+ },
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/1360690337",
+ "osm": {
+  "type": "way",
+  "id": 1360690337,
+  "tags_used": {
+   "amenity": "events_venue"
+  }
+ },
+ "municipality": "Evanston",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/cahn-auditorium-evanston/",
+ "summary": "Cahn Auditorium is an event venue in Evanston, IL at 600 Emerson Street, Evanston, IL 60208.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

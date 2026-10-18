@@ -1,0 +1,51 @@
+{
+ "slug": "opera-school-of-chicago-chicago",
+ "name": "Opera School of Chicago",
+ "categories": [
+  "music lessons"
+ ],
+ "keywords": [
+  "music lessons",
+  "music lessons chicago il"
+ ],
+ "services": [
+  {
+   "name": "music lessons",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "geo": {
+  "lat": 41.8830166,
+  "lon": -87.6374656
+ },
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/354247979",
+ "osm": {
+  "type": "node",
+  "id": 354247979,
+  "tags_used": {
+   "amenity": "music_school"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/opera-school-of-chicago-chicago/",
+ "summary": "Opera School of Chicago is a music school in Chicago, IL.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

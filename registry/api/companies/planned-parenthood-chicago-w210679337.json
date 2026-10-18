@@ -1,0 +1,55 @@
+{
+ "slug": "planned-parenthood-chicago-w210679337",
+ "name": "Planned Parenthood",
+ "categories": [
+  "therapist"
+ ],
+ "keywords": [
+  "therapist",
+  "therapist chicago il"
+ ],
+ "services": [
+  {
+   "name": "therapist",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1200 North LaSalle Drive",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60610",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60610",
+ "geo": {
+  "lat": 41.9040571,
+  "lon": -87.6333077
+ },
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/210679337",
+ "osm": {
+  "type": "way",
+  "id": 210679337,
+  "tags_used": {
+   "amenity": "clinic",
+   "healthcare": "counselling"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/planned-parenthood-chicago-w210679337/",
+ "summary": "Planned Parenthood is a therapy practice in Chicago, IL at 1200 North LaSalle Drive, Chicago, IL 60610.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

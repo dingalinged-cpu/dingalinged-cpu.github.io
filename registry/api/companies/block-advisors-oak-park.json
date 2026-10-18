@@ -1,0 +1,63 @@
+{
+ "slug": "block-advisors-oak-park",
+ "name": "Block Advisors",
+ "categories": [
+  "tax preparation"
+ ],
+ "keywords": [
+  "tax preparation",
+  "tax preparer",
+  "tax preparation oak park il",
+  "tax preparer oak park il"
+ ],
+ "services": [
+  {
+   "name": "tax preparation",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "tax preparer",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "6429 West North Avenue #106",
+  "addressLocality": "Oak Park",
+  "addressRegion": "IL",
+  "postalCode": "60302",
+  "addressCountry": "US"
+ },
+ "city": "Oak Park",
+ "state": "IL",
+ "zip": "60302",
+ "geo": {
+  "lat": 41.9089252,
+  "lon": -87.786366
+ },
+ "website": "https://www.blockadvisors.com/tax-office-near-me/illinois/oak-park/12703/",
+ "brand": "Block Advisors",
+ "wikidata": "Q64166231",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/13233579229",
+ "osm": {
+  "type": "node",
+  "id": 13233579229,
+  "tags_used": {
+   "office": "tax_advisor"
+  }
+ },
+ "municipality": "Oak Park",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/block-advisors-oak-park/",
+ "summary": "Block Advisors is a tax preparation service in Oak Park, IL at 6429 West North Avenue #106, Oak Park, IL 60302. Website: https://www.blockadvisors.com/tax-office-near-me/illinois/oak-park/12703/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

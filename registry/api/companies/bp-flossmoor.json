@@ -1,0 +1,56 @@
+{
+ "slug": "bp-flossmoor",
+ "name": "BP",
+ "categories": [
+  "car wash"
+ ],
+ "keywords": [
+  "car wash",
+  "car wash flossmoor il"
+ ],
+ "services": [
+  {
+   "name": "car wash",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "3950 Vollmer Road",
+  "addressLocality": "Flossmoor",
+  "addressRegion": "IL",
+  "postalCode": "60422",
+  "addressCountry": "US"
+ },
+ "city": "Flossmoor",
+ "state": "IL",
+ "zip": "60422",
+ "geo": {
+  "lat": 41.5284257,
+  "lon": -87.7121871
+ },
+ "brand": "BP",
+ "wikidata": "Q152057",
+ "schema_type": "AutoWash",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/1025872374",
+ "osm": {
+  "type": "way",
+  "id": 1025872374,
+  "tags_used": {
+   "amenity": "car_wash"
+  }
+ },
+ "municipality": "Flossmoor",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/bp-flossmoor/",
+ "summary": "BP is a car wash in Flossmoor, IL at 3950 Vollmer Road, Flossmoor, IL 60422.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

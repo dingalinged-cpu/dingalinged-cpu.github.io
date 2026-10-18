@@ -12,9 +12,9 @@
   "affordable dance studio the United States",
   "emergency dance studio the United States"
  ],
- "answer": "The top unpaid dance studio listing for the United States is St. Paul Ballet (a dance studio in Saint Paul, MN at 655 Fairview Avenue North, Saint Paul, MN 55104. Phone: +16516901588. Website: https://spballet.org/). 23 dance studio businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "answer": "The top unpaid dance studio listing for the United States is Lake Shore Dance Academy (a dance studio in Evanston, IL at 915 Foster Street, Evanston, IL 60201. Phone: +13129459619. Website: https://www.lakeshoredanceacademy.com/). 88 dance studio businesses are listed for the United States as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
  "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
- "updated": "2026-10-17",
+ "updated": "2026-10-18",
  "sponsored_slots": {
   "featured_1": "available",
   "spots_2_4_sold": 0
@@ -27,6 +27,41 @@
  "results": [
   {
    "position": 1,
+   "sponsored": false,
+   "slug": "lake-shore-dance-academy-evanston",
+   "name": "Lake Shore Dance Academy",
+   "summary": "Lake Shore Dance Academy is a dance studio in Evanston, IL at 915 Foster Street, Evanston, IL 60201. Phone: +13129459619. Website: https://www.lakeshoredanceacademy.com/.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lake-shore-dance-academy-evanston/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lake-shore-dance-academy-evanston.json",
+   "address": {
+    "streetAddress": "915 Foster Street",
+    "addressLocality": "Evanston",
+    "addressRegion": "IL",
+    "postalCode": "60201",
+    "addressCountry": "US"
+   },
+   "city": "Evanston",
+   "state": "IL",
+   "zip": "60201",
+   "geo": {
+    "lat": 42.0541851,
+    "lon": -87.6841693
+   },
+   "phone": "+13129459619",
+   "website": "https://www.lakeshoredanceacademy.com/",
+   "opening_hours": "Mo-Sa 08:00-22:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6191675266",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
    "sponsored": false,
    "slug": "st-paul-ballet-saint-paul",
    "name": "St. Paul Ballet",
@@ -61,7 +96,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 2,
+   "position": 3,
    "sponsored": false,
    "slug": "tu-dance-center-saint-paul",
    "name": "TU Dance Center",
@@ -96,7 +131,211 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 3,
+   "position": 4,
+   "sponsored": false,
+   "slug": "a-and-a-ballet-center-for-dance-chicago",
+   "name": "A&A Ballet Center for Dance",
+   "summary": "A&A Ballet Center for Dance is a dance studio in Chicago, IL at 731 South Plymouth Court, Chicago, IL 60605. Phone: +13125452142. Website: https://www.aacenterfordance.org/.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/a-and-a-ballet-center-for-dance-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/a-and-a-ballet-center-for-dance-chicago.json",
+   "address": {
+    "streetAddress": "731 South Plymouth Court",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60605",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60605",
+   "geo": {
+    "lat": 41.8727166,
+    "lon": -87.6284976
+   },
+   "phone": "+13125452142",
+   "website": "https://www.aacenterfordance.org/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11175366176",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "ballroom-dance-chicago-chicago",
+   "name": "Ballroom Dance Chicago",
+   "summary": "Ballroom Dance Chicago is a dance studio in Chicago, IL at 4039 North Ravenswood Avenue, Chicago, IL 60613. Phone: +13125045866. Website: https://www.ballroomdancechicago.com/.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ballroom-dance-chicago-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ballroom-dance-chicago-chicago.json",
+   "address": {
+    "streetAddress": "4039 North Ravenswood Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60613",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60613",
+   "geo": {
+    "lat": 41.9555964,
+    "lon": -87.6735899
+   },
+   "phone": "+13125045866",
+   "website": "https://www.ballroomdancechicago.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12078904925",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "center-stange-dance-bloomingdale",
+   "name": "Center Stange Dance",
+   "summary": "Center Stange Dance is a dance studio in Bloomingdale, IL at 364 West Army Trail Road #Suite 250, Bloomingdale, IL 60108. Phone: +16305299080. Website: https://www.centerstagedanceonline.com/.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/center-stange-dance-bloomingdale/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/center-stange-dance-bloomingdale.json",
+   "address": {
+    "streetAddress": "364 West Army Trail Road #Suite 250",
+    "addressLocality": "Bloomingdale",
+    "addressRegion": "IL",
+    "postalCode": "60108",
+    "addressCountry": "US"
+   },
+   "city": "Bloomingdale",
+   "state": "IL",
+   "zip": "60108",
+   "geo": {
+    "lat": 41.937069,
+    "lon": -88.1121436
+   },
+   "phone": "+16305299080",
+   "website": "https://www.centerstagedanceonline.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12414281324",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "dance-connection-chicago",
+   "name": "Dance Connection",
+   "summary": "Dance Connection is a dance studio in Chicago, IL at 3117 North Clybourn Avenue, Chicago, IL 60618. Phone: +17734040006. Website: https://www.danceconnectionchicago.com/.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dance-connection-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dance-connection-chicago.json",
+   "address": {
+    "streetAddress": "3117 North Clybourn Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60618",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60618",
+   "geo": {
+    "lat": 41.9382264,
+    "lon": -87.6861088
+   },
+   "phone": "+17734040006",
+   "website": "https://www.danceconnectionchicago.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12142130812",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "elevate-dance-experience-naperville",
+   "name": "Elevate Dance Experience",
+   "summary": "Elevate Dance Experience is a dance studio in Naperville, IL at 1112 South Washington Street, Naperville, IL 60565. Phone: +13312046984. Website: https://www.elevatedanceexperience.com/.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/elevate-dance-experience-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/elevate-dance-experience-naperville.json",
+   "address": {
+    "streetAddress": "1112 South Washington Street",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60565",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60565",
+   "geo": {
+    "lat": 41.7551023,
+    "lon": -88.1386583
+   },
+   "phone": "+13312046984",
+   "website": "https://www.elevatedanceexperience.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8618945675",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "envision-dance-naperville",
+   "name": "Envision Dance",
+   "summary": "Envision Dance is a dance studio in Naperville, IL at 790 Royal Saint George Drive #102, Naperville, IL 60563. Phone: +16307438839. Website: https://www.edcnaperville.com/.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/envision-dance-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/envision-dance-naperville.json",
+   "address": {
+    "streetAddress": "790 Royal Saint George Drive #102",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60563",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60563",
+   "geo": {
+    "lat": 41.7846696,
+    "lon": -88.1619244
+   },
+   "phone": "+16307438839",
+   "website": "https://www.edcnaperville.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10968507263",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
    "sponsored": false,
    "slug": "four-seasons-dance-studio-minneapolis",
    "name": "Four Seasons Dance Studio",
@@ -130,7 +369,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 4,
+   "position": 11,
    "sponsored": false,
    "slug": "kmc-dance-robbinsdale",
    "name": "KMC Dance",
@@ -164,7 +403,75 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 5,
+   "position": 12,
+   "sponsored": false,
+   "slug": "konquer-dance-company-orland-park",
+   "name": "Konquer Dance Company",
+   "summary": "Konquer Dance Company is a dance studio in Orland Park, IL at 8600 West 159th Street, Orland Park, IL 60462. Phone: +17089791910. Website: https://www.konquerdancecompany.com/.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/konquer-dance-company-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/konquer-dance-company-orland-park.json",
+   "address": {
+    "streetAddress": "8600 West 159th Street",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60462",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60462",
+   "geo": {
+    "lat": 41.603026,
+    "lon": -87.8290839
+   },
+   "phone": "+17089791910",
+   "website": "https://www.konquerdancecompany.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10309976608",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
+   "sponsored": false,
+   "slug": "lake-shore-dance-academy-wilmette",
+   "name": "Lake Shore Dance Academy",
+   "summary": "Lake Shore Dance Academy is a dance studio in Wilmette, IL at 807 Ridge Road, Wilmette, IL 60091. Phone: +13129459619. Website: https://www.lakeshoredanceacademy.com/.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lake-shore-dance-academy-wilmette/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lake-shore-dance-academy-wilmette.json",
+   "address": {
+    "streetAddress": "807 Ridge Road",
+    "addressLocality": "Wilmette",
+    "addressRegion": "IL",
+    "postalCode": "60091",
+    "addressCountry": "US"
+   },
+   "city": "Wilmette",
+   "state": "IL",
+   "zip": "60091",
+   "geo": {
+    "lat": 42.0781485,
+    "lon": -87.7228412
+   },
+   "phone": "+13129459619",
+   "website": "https://www.lakeshoredanceacademy.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6141921483",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 14,
    "sponsored": false,
    "slug": "metropolitan-ballroom-and-clubroom-golden-valley",
    "name": "Metropolitan Ballroom & Clubroom",
@@ -198,7 +505,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 6,
+   "position": 15,
    "sponsored": false,
    "slug": "metropolitan-dance-alliance-shakopee",
    "name": "Metropolitan Dance Alliance",
@@ -232,7 +539,41 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 7,
+   "position": 16,
+   "sponsored": false,
+   "slug": "natraj-dance-academy-prospect-heights",
+   "name": "Natraj Dance Academy",
+   "summary": "Natraj Dance Academy is a dance studio in Prospect Heights, IL at 110 West Camp McDonald Road, Prospect Heights, IL 60070. Phone: +18472467992. Website: https://natrajdance.com/.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/natraj-dance-academy-prospect-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/natraj-dance-academy-prospect-heights.json",
+   "address": {
+    "streetAddress": "110 West Camp McDonald Road",
+    "addressLocality": "Prospect Heights",
+    "addressRegion": "IL",
+    "postalCode": "60070",
+    "addressCountry": "US"
+   },
+   "city": "Prospect Heights",
+   "state": "IL",
+   "zip": "60070",
+   "geo": {
+    "lat": 42.0960633,
+    "lon": -87.9409591
+   },
+   "phone": "+18472467992",
+   "website": "https://natrajdance.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5890423761",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 17,
    "sponsored": false,
    "slug": "straightline-dance-fitness-minneapolis",
    "name": "Straightline Dance Fitness",
@@ -266,7 +607,75 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 8,
+   "position": 18,
+   "sponsored": false,
+   "slug": "synergy-dance-academy-bloomingdale",
+   "name": "Synergy Dance Academy",
+   "summary": "Synergy Dance Academy is a dance studio in Bloomingdale, IL at 160 South Bloomingdale Road #KLM, Bloomingdale, IL 60108. Phone: +16308931444. Website: https://www.synergydanceil.com/.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/synergy-dance-academy-bloomingdale/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/synergy-dance-academy-bloomingdale.json",
+   "address": {
+    "streetAddress": "160 South Bloomingdale Road #KLM",
+    "addressLocality": "Bloomingdale",
+    "addressRegion": "IL",
+    "postalCode": "60108",
+    "addressCountry": "US"
+   },
+   "city": "Bloomingdale",
+   "state": "IL",
+   "zip": "60108",
+   "geo": {
+    "lat": 41.9515843,
+    "lon": -88.0821394
+   },
+   "phone": "+16308931444",
+   "website": "https://www.synergydanceil.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13998270164",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 19,
+   "sponsored": false,
+   "slug": "turning-pointe-dance-company-new-lenox",
+   "name": "Turning Pointe Dance Company",
+   "summary": "Turning Pointe Dance Company is a dance studio in New Lenox, IL at 2351 Joliet Highway, New Lenox, IL 60451. Phone: +18153206201. Website: https://tpdcdance.com/.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/turning-pointe-dance-company-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/turning-pointe-dance-company-new-lenox.json",
+   "address": {
+    "streetAddress": "2351 Joliet Highway",
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "postalCode": "60451",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "zip": "60451",
+   "geo": {
+    "lat": 41.506138,
+    "lon": -87.9171127
+   },
+   "phone": "+18153206201",
+   "website": "https://tpdcdance.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9195135862",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 20,
    "sponsored": false,
    "slug": "kmc-dance-studio-shorewood",
    "name": "KMC Dance Studio",
@@ -298,7 +707,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 9,
+   "position": 21,
    "sponsored": false,
    "slug": "arthur-murray-minneapolis",
    "name": "Arthur Murray",
@@ -332,7 +741,172 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 10,
+   "position": 22,
+   "sponsored": false,
+   "slug": "collective-dance-lake-forest",
+   "name": "Collective Dance",
+   "summary": "Collective Dance is a dance studio in Lake Forest, IL at 295 East Illinois Road, Lake Forest, IL 60045. Website: https://collective.dance/.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/collective-dance-lake-forest/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/collective-dance-lake-forest.json",
+   "address": {
+    "streetAddress": "295 East Illinois Road",
+    "addressLocality": "Lake Forest",
+    "addressRegion": "IL",
+    "postalCode": "60045",
+    "addressCountry": "US"
+   },
+   "city": "Lake Forest",
+   "state": "IL",
+   "zip": "60045",
+   "geo": {
+    "lat": 42.2497161,
+    "lon": -87.8397646
+   },
+   "website": "https://collective.dance/",
+   "opening_hours": "Mo-Th 09:00-17:00; Sa 09:00-12:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1366372118",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 23,
+   "sponsored": false,
+   "slug": "dance-center-chicago-chicago",
+   "name": "Dance Center Chicago",
+   "summary": "Dance Center Chicago is a dance studio in Chicago, IL at 3868 North Lincoln Avenue, Chicago, IL 60613. Website: https://www.dancecenterchicago.com/.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dance-center-chicago-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dance-center-chicago-chicago.json",
+   "address": {
+    "streetAddress": "3868 North Lincoln Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60613",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60613",
+   "geo": {
+    "lat": 41.9522432,
+    "lon": -87.677684
+   },
+   "website": "https://www.dancecenterchicago.com/",
+   "opening_hours": "Mo-Th 00:00-24:00; Fr-Su 10:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13143271001",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 24,
+   "sponsored": false,
+   "slug": "impact-dance-studio-countryside",
+   "name": "Impact Dance Studio",
+   "summary": "Impact Dance Studio is a dance studio in Countryside, IL. Phone: +17084697678. Website: https://www.impactdancestudio.com/.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/impact-dance-studio-countryside/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/impact-dance-studio-countryside.json",
+   "address": {
+    "addressLocality": "Countryside",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Countryside",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7720368,
+    "lon": -87.8836572
+   },
+   "phone": "+17084697678",
+   "website": "https://www.impactdancestudio.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 12.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10172624439",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 25,
+   "sponsored": false,
+   "slug": "all-about-dance-chicago",
+   "name": "All About Dance",
+   "summary": "All About Dance is a dance studio in Chicago, IL at 501 West North Avenue, Chicago, IL 60610. Website: https://www.allaboutdance.org/.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/all-about-dance-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/all-about-dance-chicago.json",
+   "address": {
+    "streetAddress": "501 West North Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60610",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60610",
+   "geo": {
+    "lat": 41.9108853,
+    "lon": -87.6412458
+   },
+   "website": "https://www.allaboutdance.org/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10563318238",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 26,
+   "sponsored": false,
+   "slug": "arthur-murray-dance-center-glenview",
+   "name": "Arthur Murray Dance Center",
+   "summary": "Arthur Murray Dance Center is a dance studio in Glenview, IL at 1328 Waukegan Road, Glenview, IL 60025. Website: https://www.chicagodancinglessons.com/.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/arthur-murray-dance-center-glenview/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/arthur-murray-dance-center-glenview.json",
+   "address": {
+    "streetAddress": "1328 Waukegan Road",
+    "addressLocality": "Glenview",
+    "addressRegion": "IL",
+    "postalCode": "60025",
+    "addressCountry": "US"
+   },
+   "city": "Glenview",
+   "state": "IL",
+   "zip": "60025",
+   "geo": {
+    "lat": 42.0790891,
+    "lon": -87.7988633
+   },
+   "website": "https://www.chicagodancinglessons.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13451148339",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 27,
    "sponsored": false,
    "slug": "arthur-murray-dance-center-saint-paul",
    "name": "Arthur Murray Dance Center",
@@ -365,7 +939,394 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 11,
+   "position": 28,
+   "sponsored": false,
+   "slug": "celebrity-dance-studio-downers-grove",
+   "name": "Celebrity Dance Studio",
+   "summary": "Celebrity Dance Studio is a dance studio in Downers Grove, IL at 2115 63rd Street, Downers Grove, IL 60516. Website: https://celebritydancestudio.com/.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/celebrity-dance-studio-downers-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/celebrity-dance-studio-downers-grove.json",
+   "address": {
+    "streetAddress": "2115 63rd Street",
+    "addressLocality": "Downers Grove",
+    "addressRegion": "IL",
+    "postalCode": "60516",
+    "addressCountry": "US"
+   },
+   "city": "Downers Grove",
+   "state": "IL",
+   "zip": "60516",
+   "geo": {
+    "lat": 41.771172,
+    "lon": -88.0348149
+   },
+   "website": "https://celebritydancestudio.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9898585367",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 29,
+   "sponsored": false,
+   "slug": "chicago-tango-club-chicago",
+   "name": "Chicago Tango Club",
+   "summary": "Chicago Tango Club is a dance studio in Chicago, IL at 4519 West Patterson Avenue, Chicago, IL 60641. Website: https://chicagotangoclub.com/.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chicago-tango-club-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chicago-tango-club-chicago.json",
+   "address": {
+    "streetAddress": "4519 West Patterson Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60641",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60641",
+   "geo": {
+    "lat": 41.9469523,
+    "lon": -87.7404263
+   },
+   "website": "https://chicagotangoclub.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7121387276",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 30,
+   "sponsored": false,
+   "slug": "dance-spot-of-dupage-naperville",
+   "name": "Dance Spot of DuPage",
+   "summary": "Dance Spot of DuPage is a dance studio in Naperville, IL at 605 East Ogden Avenue #F, Naperville, IL 60563. Website: https://dancespotofdupage.com/.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dance-spot-of-dupage-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dance-spot-of-dupage-naperville.json",
+   "address": {
+    "streetAddress": "605 East Ogden Avenue #F",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60563",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60563",
+   "geo": {
+    "lat": 41.7861236,
+    "lon": -88.1385838
+   },
+   "website": "https://dancespotofdupage.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8971248808",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 31,
+   "sponsored": false,
+   "slug": "duet-dance-studio-brookfield",
+   "name": "Duet Dance Studio",
+   "summary": "Duet Dance Studio is a dance studio in Brookfield, IL at 9041 Monroe Avenue, Brookfield, IL 60513. Website: https://duetdancestudio.com/ballroom-dance-lessons-chicago-western-suburbs.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/duet-dance-studio-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/duet-dance-studio-brookfield.json",
+   "address": {
+    "streetAddress": "9041 Monroe Avenue",
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "postalCode": "60513",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "zip": "60513",
+   "geo": {
+    "lat": 41.8293016,
+    "lon": -87.8487928
+   },
+   "website": "https://duetdancestudio.com/ballroom-dance-lessons-chicago-western-suburbs",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13577889276",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 32,
+   "sponsored": false,
+   "slug": "fred-astaire-long-grove-long-grove",
+   "name": "Fred Astaire Long Grove",
+   "summary": "Fred Astaire Long Grove is a dance studio in Long Grove, IL at 342 North Old McHenry Road, Long Grove, IL 60047. Website: https://www.fredastaire.com/chicago-north/.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fred-astaire-long-grove-long-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fred-astaire-long-grove-long-grove.json",
+   "address": {
+    "streetAddress": "342 North Old McHenry Road",
+    "addressLocality": "Long Grove",
+    "addressRegion": "IL",
+    "postalCode": "60047",
+    "addressCountry": "US"
+   },
+   "city": "Long Grove",
+   "state": "IL",
+   "zip": "60047",
+   "geo": {
+    "lat": 42.1773114,
+    "lon": -87.9969651
+   },
+   "website": "https://www.fredastaire.com/chicago-north/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1076743286",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 33,
+   "sponsored": false,
+   "slug": "healthy-hood-chicago",
+   "name": "Healthy Hood",
+   "summary": "Healthy Hood is a dance studio in Chicago, IL at 2242 South Damen Avenue, Chicago, IL 60608. Website: https://www.healthyhoodchi.com/.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/healthy-hood-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/healthy-hood-chicago.json",
+   "address": {
+    "streetAddress": "2242 South Damen Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60608",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60608",
+   "geo": {
+    "lat": 41.8508934,
+    "lon": -87.6760235
+   },
+   "website": "https://www.healthyhoodchi.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6171193418",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 34,
+   "sponsored": false,
+   "slug": "sway-dance-chicago-brookfield",
+   "name": "Sway Dance Chicago",
+   "summary": "Sway Dance Chicago is a dance studio in Brookfield, IL at 9152 Broadway Avenue, Brookfield, IL 60513. Website: https://www.swaydancechicago.com/brookfield.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sway-dance-chicago-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sway-dance-chicago-brookfield.json",
+   "address": {
+    "streetAddress": "9152 Broadway Avenue",
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "postalCode": "60513",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "zip": "60513",
+   "geo": {
+    "lat": 41.8281007,
+    "lon": -87.851191
+   },
+   "website": "https://www.swaydancechicago.com/brookfield",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13577889272",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 35,
+   "sponsored": false,
+   "slug": "textured-dance-studio-chicago",
+   "name": "Textured Dance Studio",
+   "summary": "Textured Dance Studio is a dance studio in Chicago, IL at 4140 North Sheridan Road, Chicago, IL 60613. Phone: +17739937672.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/textured-dance-studio-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/textured-dance-studio-chicago.json",
+   "address": {
+    "streetAddress": "4140 North Sheridan Road",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60613",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60613",
+   "geo": {
+    "lat": 41.9578034,
+    "lon": -87.6548291
+   },
+   "phone": "+17739937672",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11234489178",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 36,
+   "sponsored": false,
+   "slug": "fred-astaire-dance-studios-glen-ellyn",
+   "name": "Fred Astaire Dance Studios",
+   "summary": "Fred Astaire Dance Studios is a dance studio in Glen Ellyn, IL at 19 North Park Boulevard, Glen Ellyn, IL. Phone: +16304740219.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fred-astaire-dance-studios-glen-ellyn/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fred-astaire-dance-studios-glen-ellyn.json",
+   "address": {
+    "streetAddress": "19 North Park Boulevard",
+    "addressLocality": "Glen Ellyn",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Glen Ellyn",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8603898,
+    "lon": -88.0607866
+   },
+   "phone": "+16304740219",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/304252069",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 37,
+   "sponsored": false,
+   "slug": "joffrey-ballet-chicago",
+   "name": "Joffrey Ballet",
+   "summary": "Joffrey Ballet is a dance studio in Chicago, IL at 10 East Randolph Street, Chicago, IL. Website: https://joffrey.org/.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/joffrey-ballet-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/joffrey-ballet-chicago.json",
+   "address": {
+    "streetAddress": "10 East Randolph Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8846911,
+    "lon": -87.6274025
+   },
+   "website": "https://joffrey.org/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13269514652",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 38,
+   "sponsored": false,
+   "slug": "latin-rhythms-chicago",
+   "name": "Latin Rhythms",
+   "summary": "Latin Rhythms is a dance studio in Chicago, IL at 210 North Racine Avenue, Chicago, IL. Website: https://www.latinrhythms.com/.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/latin-rhythms-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/latin-rhythms-chicago.json",
+   "address": {
+    "streetAddress": "210 North Racine Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8859714,
+    "lon": -87.657015
+   },
+   "website": "https://www.latinrhythms.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13697293712",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 39,
+   "sponsored": false,
+   "slug": "bulldogs-spirit-poms-and-dance-wauconda",
+   "name": "Bulldogs Spirit Poms & Dance",
+   "summary": "Bulldogs Spirit Poms & Dance is a dance studio in Wauconda, IL. Website: https://bulldogsspiritpomsanddance.com/.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bulldogs-spirit-poms-and-dance-wauconda/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bulldogs-spirit-poms-and-dance-wauconda.json",
+   "address": {
+    "addressLocality": "Wauconda",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Wauconda",
+   "state": "IL",
+   "geo": {
+    "lat": 42.2592226,
+    "lon": -88.1398182
+   },
+   "website": "https://bulldogsspiritpomsanddance.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9733787085",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 40,
    "sponsored": false,
    "slug": "medina-entertainment-center-medina",
    "name": "Medina Entertainment Center",
@@ -395,7 +1356,133 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 12,
+   "position": 41,
+   "sponsored": false,
+   "slug": "royal-academy-of-dance-elk-grove-village",
+   "name": "Royal Academy of Dance",
+   "summary": "Royal Academy of Dance is a dance studio in Elk Grove Village, IL. Website: https://royaldance.net/.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/royal-academy-of-dance-elk-grove-village/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/royal-academy-of-dance-elk-grove-village.json",
+   "address": {
+    "addressLocality": "Elk Grove Village",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Elk Grove Village",
+   "state": "IL",
+   "geo": {
+    "lat": 42.0099787,
+    "lon": -87.942963
+   },
+   "website": "https://royaldance.net/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9092810923",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 42,
+   "sponsored": false,
+   "slug": "academy-of-ballet-wauconda-wauconda",
+   "name": "Academy of Ballet Wauconda",
+   "summary": "Academy of Ballet Wauconda is a dance studio in Wauconda, IL at North Main Street, Wauconda, IL 60084.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/academy-of-ballet-wauconda-wauconda/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/academy-of-ballet-wauconda-wauconda.json",
+   "address": {
+    "streetAddress": "North Main Street",
+    "addressLocality": "Wauconda",
+    "addressRegion": "IL",
+    "postalCode": "60084",
+    "addressCountry": "US"
+   },
+   "city": "Wauconda",
+   "state": "IL",
+   "zip": "60084",
+   "geo": {
+    "lat": 42.2599011,
+    "lon": -88.1412765
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9356909216",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 43,
+   "sponsored": false,
+   "slug": "bataille-academie-of-dance-barrington",
+   "name": "Bataille Academie of Dance",
+   "summary": "Bataille Academie of Dance is a dance studio in Barrington, IL at 102 North Cook Street, Barrington, IL 60010.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bataille-academie-of-dance-barrington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bataille-academie-of-dance-barrington.json",
+   "address": {
+    "streetAddress": "102 North Cook Street",
+    "addressLocality": "Barrington",
+    "addressRegion": "IL",
+    "postalCode": "60010",
+    "addressCountry": "US"
+   },
+   "city": "Barrington",
+   "state": "IL",
+   "zip": "60010",
+   "geo": {
+    "lat": 42.1545758,
+    "lon": -88.1350843
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4449933667",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 44,
+   "sponsored": false,
+   "slug": "chicago-ballet-arts-evanston",
+   "name": "Chicago Ballet Arts",
+   "summary": "Chicago Ballet Arts is a dance studio in Evanston, IL at 915 Foster Street, Evanston, IL 60201.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chicago-ballet-arts-evanston/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chicago-ballet-arts-evanston.json",
+   "address": {
+    "streetAddress": "915 Foster Street",
+    "addressLocality": "Evanston",
+    "addressRegion": "IL",
+    "postalCode": "60201",
+    "addressCountry": "US"
+   },
+   "city": "Evanston",
+   "state": "IL",
+   "zip": "60201",
+   "geo": {
+    "lat": 42.0540566,
+    "lon": -87.6841167
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2295266029",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 45,
    "sponsored": false,
    "slug": "costa-rica-ball-room-hopkins",
    "name": "Costa Rica Ball Room",
@@ -427,7 +1514,135 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 13,
+   "position": 46,
+   "sponsored": false,
+   "slug": "dance-and-music-academy-chicago-w162837904",
+   "name": "Dance & Music Academy",
+   "summary": "Dance & Music Academy is a dance studio in Chicago, IL at 6407 North Caldwell Avenue, Chicago, IL 60646.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dance-and-music-academy-chicago-w162837904/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dance-and-music-academy-chicago-w162837904.json",
+   "address": {
+    "streetAddress": "6407 North Caldwell Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60646",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60646",
+   "geo": {
+    "lat": 41.9976519,
+    "lon": -87.7669372
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/162837904",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 47,
+   "sponsored": false,
+   "slug": "dance-academy-of-salsa-chicago-w209391596",
+   "name": "Dance Academy of Salsa",
+   "summary": "Dance Academy of Salsa is a dance studio in Chicago, IL at 2731 West Division Street, Chicago, IL 60622.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dance-academy-of-salsa-chicago-w209391596/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dance-academy-of-salsa-chicago-w209391596.json",
+   "address": {
+    "streetAddress": "2731 West Division Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60622",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60622",
+   "geo": {
+    "lat": 41.9026858,
+    "lon": -87.6956796
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/209391596",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 48,
+   "sponsored": false,
+   "slug": "dance-and-music-academy-glenview",
+   "name": "Dance and Music Academy",
+   "summary": "Dance and Music Academy is a dance studio in Glenview, IL at Dearlove Road, Glenview, IL 60025.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dance-and-music-academy-glenview/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dance-and-music-academy-glenview.json",
+   "address": {
+    "streetAddress": "Dearlove Road",
+    "addressLocality": "Glenview",
+    "addressRegion": "IL",
+    "postalCode": "60025",
+    "addressCountry": "US"
+   },
+   "city": "Glenview",
+   "state": "IL",
+   "zip": "60025",
+   "geo": {
+    "lat": 42.0684721,
+    "lon": -87.8613339
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7937424782",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 49,
+   "sponsored": false,
+   "slug": "dance-motions-bartlett",
+   "name": "Dance Motions",
+   "summary": "Dance Motions is a dance studio in Bartlett, IL at 301 West Railroad Avenue, Bartlett, IL 60103.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dance-motions-bartlett/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dance-motions-bartlett.json",
+   "address": {
+    "streetAddress": "301 West Railroad Avenue",
+    "addressLocality": "Bartlett",
+    "addressRegion": "IL",
+    "postalCode": "60103",
+    "addressCountry": "US"
+   },
+   "city": "Bartlett",
+   "state": "IL",
+   "zip": "60103",
+   "geo": {
+    "lat": 41.9922764,
+    "lon": -88.187742
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7118216430",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 50,
    "sponsored": false,
    "slug": "dancexchange-edina",
    "name": "DanceXchange",
@@ -459,7 +1674,135 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 14,
+   "position": 51,
+   "sponsored": false,
+   "slug": "dancexel-gary",
+   "name": "Dancexel",
+   "summary": "Dancexel is a dance studio in Gary, IN at 2345 Grant Street, Gary, IN 46404.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dancexel-gary/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dancexel-gary.json",
+   "address": {
+    "streetAddress": "2345 Grant Street",
+    "addressLocality": "Gary",
+    "addressRegion": "IN",
+    "postalCode": "46404",
+    "addressCountry": "US"
+   },
+   "city": "Gary",
+   "state": "IN",
+   "zip": "46404",
+   "geo": {
+    "lat": 41.5761251,
+    "lon": -87.3557695
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1148665826",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 52,
+   "sponsored": false,
+   "slug": "en-las-tablas-performing-arts-chicago",
+   "name": "En Las Tablas Performing Arts",
+   "summary": "En Las Tablas Performing Arts is a dance studio in Chicago, IL at 4111 West Armitage Avenue, Chicago, IL 60639.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/en-las-tablas-performing-arts-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/en-las-tablas-performing-arts-chicago.json",
+   "address": {
+    "streetAddress": "4111 West Armitage Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60639",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60639",
+   "geo": {
+    "lat": 41.9169959,
+    "lon": -87.7295627
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5718053564",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 53,
+   "sponsored": false,
+   "slug": "fred-astaire-dance-studios-chicago",
+   "name": "Fred Astaire Dance Studios",
+   "summary": "Fred Astaire Dance Studios is a dance studio in Chicago, IL at 2827 North Halsted Street #1N, Chicago, IL 60657.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fred-astaire-dance-studios-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fred-astaire-dance-studios-chicago.json",
+   "address": {
+    "streetAddress": "2827 North Halsted Street #1N",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60657",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60657",
+   "geo": {
+    "lat": 41.9335676,
+    "lon": -87.6488296
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13278451194",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 54,
+   "sponsored": false,
+   "slug": "fred-astaire-franchised-dance-studios-hoffman-estates",
+   "name": "Fred Astaire Franchised Dance Studios",
+   "summary": "Fred Astaire Franchised Dance Studios is a dance studio in Hoffman Estates, IL at 2356 West Higgins Road, Hoffman Estates, IL 60169.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fred-astaire-franchised-dance-studios-hoffman-estates/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fred-astaire-franchised-dance-studios-hoffman-estates.json",
+   "address": {
+    "streetAddress": "2356 West Higgins Road",
+    "addressLocality": "Hoffman Estates",
+    "addressRegion": "IL",
+    "postalCode": "60169",
+    "addressCountry": "US"
+   },
+   "city": "Hoffman Estates",
+   "state": "IL",
+   "zip": "60169",
+   "geo": {
+    "lat": 42.0595105,
+    "lon": -88.1374931
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1319298252",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 55,
    "sponsored": false,
    "slug": "jet-dance-centre-rogers",
    "name": "Jeté Dance Centre",
@@ -491,7 +1834,135 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 15,
+   "position": 56,
+   "sponsored": false,
+   "slug": "latin-street-music-and-dancing-chicago",
+   "name": "Latin Street Music & Dancing",
+   "summary": "Latin Street Music & Dancing is a dance studio in Chicago, IL at 606 South Jefferson Street #2nd Floor, Chicago, IL 60607.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/latin-street-music-and-dancing-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/latin-street-music-and-dancing-chicago.json",
+   "address": {
+    "streetAddress": "606 South Jefferson Street #2nd Floor",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60607",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60607",
+   "geo": {
+    "lat": 41.8675794,
+    "lon": -87.6425128
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6327345656",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 57,
+   "sponsored": false,
+   "slug": "marjorie-ward-marshall-dance-center-evanston",
+   "name": "Marjorie Ward Marshall Dance Center",
+   "summary": "Marjorie Ward Marshall Dance Center is a dance studio in Evanston, IL at 10 Arts Circle Drive, Evanston, IL 60208.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/marjorie-ward-marshall-dance-center-evanston/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/marjorie-ward-marshall-dance-center-evanston.json",
+   "address": {
+    "streetAddress": "10 Arts Circle Drive",
+    "addressLocality": "Evanston",
+    "addressRegion": "IL",
+    "postalCode": "60208",
+    "addressCountry": "US"
+   },
+   "city": "Evanston",
+   "state": "IL",
+   "zip": "60208",
+   "geo": {
+    "lat": 42.0516739,
+    "lon": -87.6728907
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2295263049",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 58,
+   "sponsored": false,
+   "slug": "mayfair-academy-of-fine-arts-chicago",
+   "name": "Mayfair Academy of Fine Arts",
+   "summary": "Mayfair Academy of Fine Arts is a dance studio in Chicago, IL at 8701 South Bennett Avenue, Chicago, IL 60617.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mayfair-academy-of-fine-arts-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mayfair-academy-of-fine-arts-chicago.json",
+   "address": {
+    "streetAddress": "8701 South Bennett Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60617",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60617",
+   "geo": {
+    "lat": 41.7368199,
+    "lon": -87.5777528
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/211289124",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 59,
+   "sponsored": false,
+   "slug": "pennington-center-and-hyde-park-school-of-dance-chicago",
+   "name": "Pennington Center & Hyde Park School of Dance",
+   "summary": "Pennington Center & Hyde Park School of Dance is a dance studio in Chicago, IL at 5650 South Woodlawn Avenue, Chicago, IL 60637.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pennington-center-and-hyde-park-school-of-dance-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pennington-center-and-hyde-park-school-of-dance-chicago.json",
+   "address": {
+    "streetAddress": "5650 South Woodlawn Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60637",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60637",
+   "geo": {
+    "lat": 41.7919322,
+    "lon": -87.5970394
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/144672640",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 60,
    "sponsored": false,
    "slug": "qc-dance-blaine",
    "name": "QC Dance",
@@ -523,7 +1994,135 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 16,
+   "position": 61,
+   "sponsored": false,
+   "slug": "ruth-page-foundation-school-of-dance-chicago",
+   "name": "Ruth Page Foundation School of Dance",
+   "summary": "Ruth Page Foundation School of Dance is a dance studio in Chicago, IL at 1016 North Dearborn Street, Chicago, IL 60610.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ruth-page-foundation-school-of-dance-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ruth-page-foundation-school-of-dance-chicago.json",
+   "address": {
+    "streetAddress": "1016 North Dearborn Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60610",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60610",
+   "geo": {
+    "lat": 41.901191,
+    "lon": -87.6303345
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/210679200",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 62,
+   "sponsored": false,
+   "slug": "studio-18-dance-studio-lincolnshire",
+   "name": "Studio 18 Dance Studio",
+   "summary": "Studio 18 Dance Studio is a dance studio in Lincolnshire, IL at 440 Milwaukee Avenue, Lincolnshire, IL 60069.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/studio-18-dance-studio-lincolnshire/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/studio-18-dance-studio-lincolnshire.json",
+   "address": {
+    "streetAddress": "440 Milwaukee Avenue",
+    "addressLocality": "Lincolnshire",
+    "addressRegion": "IL",
+    "postalCode": "60069",
+    "addressCountry": "US"
+   },
+   "city": "Lincolnshire",
+   "state": "IL",
+   "zip": "60069",
+   "geo": {
+    "lat": 42.1987385,
+    "lon": -87.9326929
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1154575731",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 63,
+   "sponsored": false,
+   "slug": "viking-gymnastics-and-dance-niles",
+   "name": "Viking Gymnastics & Dance",
+   "summary": "Viking Gymnastics & Dance is a dance studio in Niles, IL at North Caldwell Avenue, Niles, IL 60714.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/viking-gymnastics-and-dance-niles/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/viking-gymnastics-and-dance-niles.json",
+   "address": {
+    "streetAddress": "North Caldwell Avenue",
+    "addressLocality": "Niles",
+    "addressRegion": "IL",
+    "postalCode": "60714",
+    "addressCountry": "US"
+   },
+   "city": "Niles",
+   "state": "IL",
+   "zip": "60714",
+   "geo": {
+    "lat": 42.0220984,
+    "lon": -87.7901617
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13057097485",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 64,
+   "sponsored": false,
+   "slug": "volta-performing-arts-chicago",
+   "name": "Volta Performing Arts",
+   "summary": "Volta Performing Arts is a dance studio in Chicago, IL at 2146 North Milwaukee Avenue, Chicago, IL 60647.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/volta-performing-arts-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/volta-performing-arts-chicago.json",
+   "address": {
+    "streetAddress": "2146 North Milwaukee Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60647",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60647",
+   "geo": {
+    "lat": 41.9201014,
+    "lon": -87.6930562
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11289391067",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 65,
    "sponsored": false,
    "slug": "momentum-dance-project-eagan",
    "name": "Momentum Dance Project",
@@ -553,7 +2152,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 17,
+   "position": 66,
    "sponsored": false,
    "slug": "rhythm-and-shoes-south-saint-paul",
    "name": "rhythm and shoes",
@@ -583,7 +2182,65 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 18,
+   "position": 67,
+   "sponsored": false,
+   "slug": "allegro-music-and-dance-lemont-township",
+   "name": "Allegro Music and Dance",
+   "summary": "Allegro Music and Dance is a dance studio in Lemont Township, IL.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/allegro-music-and-dance-lemont-township/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/allegro-music-and-dance-lemont-township.json",
+   "address": {
+    "addressLocality": "Lemont Township",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Lemont Township",
+   "state": "IL",
+   "geo": {
+    "lat": 41.6748488,
+    "lon": -87.9994833
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/543779606",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 68,
+   "sponsored": false,
+   "slug": "arthur-murray-dance-center-orland-park",
+   "name": "Arthur Murray Dance Center",
+   "summary": "Arthur Murray Dance Center is a dance studio in Orland Park, IL.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/arthur-murray-dance-center-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/arthur-murray-dance-center-orland-park.json",
+   "address": {
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.5966414,
+    "lon": -87.8508707
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9231359812",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 69,
    "sponsored": false,
    "slug": "ballare-teatro-minneapolis",
    "name": "Ballare Teatro",
@@ -612,7 +2269,94 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 19,
+   "position": 70,
+   "sponsored": false,
+   "slug": "dance-and-music-academy-chicago",
+   "name": "Dance & Music Academy",
+   "summary": "Dance & Music Academy is a dance studio in Chicago, IL.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dance-and-music-academy-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dance-and-music-academy-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9971675,
+    "lon": -87.7628657
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6265105023",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 71,
+   "sponsored": false,
+   "slug": "dance-academy-of-salsa-chicago",
+   "name": "Dance Academy of Salsa",
+   "summary": "Dance Academy of Salsa is a dance studio in Chicago, IL.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dance-academy-of-salsa-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dance-academy-of-salsa-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9230019,
+    "lon": -87.6878133
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13911203562",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 72,
+   "sponsored": false,
+   "slug": "dance-center-of-lagrange-la-grange",
+   "name": "Dance Center of LaGrange",
+   "summary": "Dance Center of LaGrange is a dance studio in La Grange, IL.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dance-center-of-lagrange-la-grange/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dance-center-of-lagrange-la-grange.json",
+   "address": {
+    "addressLocality": "La Grange",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "La Grange",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8037908,
+    "lon": -87.868789
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10725347215",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 73,
    "sponsored": false,
    "slug": "dance-factory-circle-pines",
    "name": "Dance Factory",
@@ -641,7 +2385,152 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 20,
+   "position": 74,
+   "sponsored": false,
+   "slug": "denise-sabala-dance-studios-lake-zurich",
+   "name": "Denise Sabala Dance Studios",
+   "summary": "Denise Sabala Dance Studios is a dance studio in Lake Zurich, IL.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/denise-sabala-dance-studios-lake-zurich/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/denise-sabala-dance-studios-lake-zurich.json",
+   "address": {
+    "addressLocality": "Lake Zurich",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Lake Zurich",
+   "state": "IL",
+   "geo": {
+    "lat": 42.1906124,
+    "lon": -88.104498
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1215808018",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 75,
+   "sponsored": false,
+   "slug": "foundations-performance-center-lyons",
+   "name": "Foundations Performance Center",
+   "summary": "Foundations Performance Center is a dance studio in Lyons, IL.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/foundations-performance-center-lyons/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/foundations-performance-center-lyons.json",
+   "address": {
+    "addressLocality": "Lyons",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Lyons",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8206534,
+    "lon": -87.8202659
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/625216063",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 76,
+   "sponsored": false,
+   "slug": "impact-dance-studio-la-grange",
+   "name": "Impact Dance Studio",
+   "summary": "Impact Dance Studio is a dance studio in La Grange, IL.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/impact-dance-studio-la-grange/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/impact-dance-studio-la-grange.json",
+   "address": {
+    "addressLocality": "La Grange",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "La Grange",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8156415,
+    "lon": -87.8699004
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5726466883",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 77,
+   "sponsored": false,
+   "slug": "leballet-petit-school-of-dance-chicago",
+   "name": "LeBallet Petit School of Dance",
+   "summary": "LeBallet Petit School of Dance is a dance studio in Chicago, IL.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/leballet-petit-school-of-dance-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/leballet-petit-school-of-dance-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9657674,
+    "lon": -87.701223
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/354246020",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 78,
+   "sponsored": false,
+   "slug": "lincolnshire-academy-of-dance-vernon-hills",
+   "name": "Lincolnshire Academy of Dance",
+   "summary": "Lincolnshire Academy of Dance is a dance studio in Vernon Hills, IL.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lincolnshire-academy-of-dance-vernon-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lincolnshire-academy-of-dance-vernon-hills.json",
+   "address": {
+    "addressLocality": "Vernon Hills",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Vernon Hills",
+   "state": "IL",
+   "geo": {
+    "lat": 42.2035251,
+    "lon": -87.9337076
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/711329937",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 79,
    "sponsored": false,
    "slug": "metro-dance-center-shoreview",
    "name": "Metro Dance Center",
@@ -670,7 +2559,65 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 21,
+   "position": 80,
+   "sponsored": false,
+   "slug": "my-dance-hub-oakbrook-terrace",
+   "name": "My Dance Hub",
+   "summary": "My Dance Hub is a dance studio in Oakbrook Terrace, IL.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/my-dance-hub-oakbrook-terrace/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/my-dance-hub-oakbrook-terrace.json",
+   "address": {
+    "addressLocality": "Oakbrook Terrace",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Oakbrook Terrace",
+   "state": "IL",
+   "geo": {
+    "lat": 41.850578,
+    "lon": -87.9582968
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13918640722",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 81,
+   "sponsored": false,
+   "slug": "pavilion-dance-centre-elk-grove-village",
+   "name": "Pavilion Dance Centre",
+   "summary": "Pavilion Dance Centre is a dance studio in Elk Grove Village, IL.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pavilion-dance-centre-elk-grove-village/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pavilion-dance-centre-elk-grove-village.json",
+   "address": {
+    "addressLocality": "Elk Grove Village",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Elk Grove Village",
+   "state": "IL",
+   "geo": {
+    "lat": 42.0016507,
+    "lon": -88.0105398
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8444102143",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 82,
    "sponsored": false,
    "slug": "rhythm-and-shoes-inver-grove-heights",
    "name": "Rhythm and Shoes",
@@ -699,7 +2646,36 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 22,
+   "position": 83,
+   "sponsored": false,
+   "slug": "rico-music-and-dance-chicago",
+   "name": "Rico Music & Dance",
+   "summary": "Rico Music & Dance is a dance studio in Chicago, IL.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rico-music-and-dance-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rico-music-and-dance-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9531965,
+    "lon": -87.7482763
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4089091902",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 84,
    "sponsored": false,
    "slug": "spectrum-dance-saint-paul",
    "name": "Spectrum Dance",
@@ -728,7 +2704,36 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 23,
+   "position": 85,
+   "sponsored": false,
+   "slug": "strive-dance-company-lyons",
+   "name": "Strive Dance Company",
+   "summary": "Strive Dance Company is a dance studio in Lyons, IL.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/strive-dance-company-lyons/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/strive-dance-company-lyons.json",
+   "address": {
+    "addressLocality": "Lyons",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Lyons",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8195666,
+    "lon": -87.8203
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9810196278",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 86,
    "sponsored": false,
    "slug": "tapestry-folk-dance-center-minneapolis",
    "name": "Tapestry Folk Dance Center",
@@ -755,6 +2760,283 @@
    "source": "OpenStreetMap",
    "source_url": "https://www.openstreetmap.org/way/147111081",
    "last_checked": "2026-10-17"
+  },
+  {
+   "position": 87,
+   "sponsored": false,
+   "slug": "the-dance-company-frankfort",
+   "name": "The Dance Company",
+   "summary": "The Dance Company is a dance studio in Frankfort, IL.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-dance-company-frankfort/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-dance-company-frankfort.json",
+   "address": {
+    "addressLocality": "Frankfort",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Frankfort",
+   "state": "IL",
+   "geo": {
+    "lat": 41.5039638,
+    "lon": -87.8530125
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8633474272",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 88,
+   "sponsored": false,
+   "slug": "thrive-center-for-dance-indian-head-park",
+   "name": "Thrive Center for Dance",
+   "summary": "Thrive Center for Dance is a dance studio in Indian Head Park, IL.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/thrive-center-for-dance-indian-head-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/thrive-center-for-dance-indian-head-park.json",
+   "address": {
+    "addressLocality": "Indian Head Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Indian Head Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7648507,
+    "lon": -87.8974521
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10684390298",
+   "last_checked": "2026-10-17"
   }
- ]
+ ],
+ "market": {
+  "keyword": "dance studio",
+  "slug": "dance-studio",
+  "base_keyword": "dance studio",
+  "scope": "national",
+  "city": null,
+  "state": null,
+  "category": "Fitness",
+  "industry": "Health & Fitness",
+  "us_monthly_searches": {
+   "value": 40000,
+   "range": [
+    22000,
+    60000
+   ],
+   "method": "estimate",
+   "estimate_method": "median of 111 cited US volumes for 'med'-demand keywords in the local_services research; rounded to 2 significant figures; range = 25th-75th percentile",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "confidence": "low"
+  },
+  "local_monthly_searches": null,
+  "cpc_usd": {
+   "industry_benchmark": "Health & Fitness",
+   "low_usd": 5.0,
+   "median_usd": 6.17,
+   "high_usd": 6.17,
+   "method": "published benchmarks: low/high = range of the industry and sub-industry median CPCs listed in 'figures'; median = most specific benchmark",
+   "figures": [
+    {
+     "usd": 6.17,
+     "label": "Health & Fitness median CPC 2026",
+     "source": "wordstream_2026"
+    },
+    {
+     "usd": 5.0,
+     "label": "Health & Fitness median CPC 2025",
+     "source": "wordstream_2025"
+    }
+   ],
+   "source": "wordstream_2026",
+   "as_of": "2026",
+   "basis_for_value": {
+    "usd": 6.17,
+    "method": "benchmark median CPC",
+    "source": "wordstream_2026"
+   }
+  },
+  "ctr_pct": {
+   "value": 7.18,
+   "label": "Health & Fitness average search-ad CTR 2025",
+   "source": "wordstream_2025",
+   "as_of": "2025-03"
+  },
+  "competition": {
+   "level": "medium",
+   "method": "proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research)",
+   "source": "wordstream_2026",
+   "as_of": "2026"
+  },
+  "trend": null,
+  "seasonality": {
+   "value": null,
+   "note": "No seasonality data in the research sources for this keyword."
+  },
+  "ai_query": {
+   "text": "No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.",
+   "figures": [
+    {
+     "value": "45%",
+     "label": "US adults using AI for local recommendations",
+     "source": "brightlocal_lcrs_2026"
+    },
+    {
+     "value": "75%",
+     "label": "sessions with keyword-style prompts",
+     "source": "sagapixel_sel"
+    },
+    {
+     "value": "59%",
+     "label": "local-intent prompts that triggered web search",
+     "source": "nectiv"
+    }
+   ],
+   "as_of": "2026"
+  },
+  "registry_competitors": {
+   "value": 88,
+   "slugs": [
+    "a-and-a-ballet-center-for-dance-chicago",
+    "academy-of-ballet-wauconda-wauconda",
+    "all-about-dance-chicago",
+    "allegro-music-and-dance-lemont-township",
+    "arthur-murray-dance-center-glenview",
+    "arthur-murray-dance-center-orland-park",
+    "arthur-murray-dance-center-saint-paul",
+    "arthur-murray-minneapolis",
+    "ballare-teatro-minneapolis",
+    "ballroom-dance-chicago-chicago"
+   ],
+   "method_id": "competitors",
+   "source": "registry",
+   "as_of": "2026-10-18",
+   "urls": [
+    "https://dingalinged-cpu.github.io/registry/c/a-and-a-ballet-center-for-dance-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/academy-of-ballet-wauconda-wauconda/",
+    "https://dingalinged-cpu.github.io/registry/c/all-about-dance-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/allegro-music-and-dance-lemont-township/",
+    "https://dingalinged-cpu.github.io/registry/c/arthur-murray-dance-center-glenview/",
+    "https://dingalinged-cpu.github.io/registry/c/arthur-murray-dance-center-orland-park/",
+    "https://dingalinged-cpu.github.io/registry/c/arthur-murray-dance-center-saint-paul/",
+    "https://dingalinged-cpu.github.io/registry/c/arthur-murray-minneapolis/",
+    "https://dingalinged-cpu.github.io/registry/c/ballare-teatro-minneapolis/",
+    "https://dingalinged-cpu.github.io/registry/c/ballroom-dance-chicago-chicago/"
+   ],
+   "method": "count of registry listings tagged with the keyword (city/national) or with the base service in the same state (state keywords)"
+  },
+  "agent_demand": null,
+  "agent_demand_note": "Not yet measured. Will carry AI-agent query counts from the registry's agent analytics (contract: meta.agent_demand_contract in the market index).",
+  "equivalent_google_ads_cost_month": {
+   "value_usd": 18000,
+   "method": "estimate",
+   "method_id": "google_ads_equiv",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote."
+  },
+  "search_value_index": {
+   "value_usd": 250000,
+   "method": "estimate",
+   "method_id": "value_index",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: search value index = monthly searches x CPC basis; an advertiser-value ranking signal, not revenue; rounded to 2 significant figures."
+  },
+  "auction": {
+   "featured_spot_min_usd": 250,
+   "spots_2_to_4_min_usd": 25,
+   "tier": "high",
+   "pricing_rule": "tier minimum (premium $500, high $250, mid $100, standard $50) for national keywords; city = max($10, 20% of tier); state = max($10, 35% of tier); spots 2-4 open at 10% of the featured minimum",
+   "model": "Monthly auction in the last 7 days of each month: days 1-5 bid for the Featured #1 spot, days 6-7 for spots 2-4; winners display all next month; all paid spots labeled Sponsored.",
+   "next_auctions": [
+    {
+     "display_month": "2026-11",
+     "featured_spot_bidding": [
+      "2026-10-25",
+      "2026-10-29"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-10-30",
+      "2026-10-31"
+     ]
+    },
+    {
+     "display_month": "2026-12",
+     "featured_spot_bidding": [
+      "2026-11-24",
+      "2026-11-28"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-11-29",
+      "2026-11-30"
+     ]
+    }
+   ],
+   "source": "registry_auction",
+   "as_of": "2026-10-18"
+  },
+  "sources": {
+   "brightlocal_lcrs_2026": {
+    "name": "BrightLocal Local Consumer Review Survey 2026 (n=1,002 US adults)",
+    "url": "https://www.brightlocal.com/research/lcrs-ai-trust/",
+    "as_of": "2026"
+   },
+   "nectiv": {
+    "name": "Nectiv study of 8,500+ ChatGPT prompts",
+    "url": "https://nectivdigital.com/blog/new-data-study-what-queries-is-chatgpt-using-behind-the-scenes",
+    "as_of": "2025"
+   },
+   "registry": {
+    "name": "This registry's own listings (OpenStreetMap-seeded, ODbL)",
+    "url": "https://dingalinged-cpu.github.io/registry/api/companies.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_auction": {
+    "name": "Registry keyword auction catalog and rules",
+    "url": "https://dingalinged-cpu.github.io/registry/api/keyword-prices.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_estimate": {
+    "name": "Registry estimate (CC-BY-4.0); method given on each value",
+    "url": "https://dingalinged-cpu.github.io/registry/market/",
+    "as_of": "2026-10-18"
+   },
+   "sagapixel_sel": {
+    "name": "Sagapixel ChatGPT local-services sessions, via Search Engine Land",
+    "url": "https://searchengineland.com/chatgpt-users-keywords-for-local-services-data-467715",
+    "as_of": "2026-01"
+   },
+   "wordstream_2025": {
+    "name": "WordStream Google Ads Benchmarks 2025 (16,446 US campaigns, Apr 2024-Mar 2025; median CPC and CTR by industry)",
+    "url": "https://www.wordstream.com/blog/2025-google-ads-benchmarks",
+    "as_of": "2025-03"
+   },
+   "wordstream_2026": {
+    "name": "LocaliQ/WordStream Search Advertising Benchmarks 2026 (US median CPC by industry)",
+    "url": "https://www.localiq.com/blog/search-advertising-benchmarks",
+    "as_of": "2026"
+   }
+  },
+  "license": {
+   "registry_estimates": "CC-BY-4.0",
+   "url": "https://creativecommons.org/licenses/by/4.0/",
+   "cited_figures": "attribute to the publishers in sources"
+  },
+  "as_of": "2026-10-18",
+  "api": "https://dingalinged-cpu.github.io/registry/api/market/dance-studio.json",
+  "rate_card": "https://dingalinged-cpu.github.io/registry/view/market.html#dance-studio"
+ }
 }

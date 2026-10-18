@@ -1,0 +1,56 @@
+{
+ "slug": "dr-flach-and-associates-family-medicine-western-springs",
+ "name": "Dr. Flach & Associates Family Medicine",
+ "categories": [
+  "pediatrician"
+ ],
+ "keywords": [
+  "pediatrician",
+  "pediatrician western springs il"
+ ],
+ "services": [
+  {
+   "name": "pediatrician",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "512 Hillgrove Avenue",
+  "addressLocality": "Western Springs",
+  "addressRegion": "IL",
+  "postalCode": "60558",
+  "addressCountry": "US"
+ },
+ "city": "Western Springs",
+ "state": "IL",
+ "zip": "60558",
+ "geo": {
+  "lat": 41.8107053,
+  "lon": -87.8956537
+ },
+ "schema_type": "Physician",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/9603287969",
+ "osm": {
+  "type": "node",
+  "id": 9603287969,
+  "tags_used": {
+   "amenity": "doctors",
+   "healthcare": "doctor",
+   "healthcare:speciality": "paediatrics"
+  }
+ },
+ "municipality": "Western Springs",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/dr-flach-and-associates-family-medicine-western-springs/",
+ "summary": "Dr. Flach & Associates Family Medicine is a pediatrician in Western Springs, IL at 512 Hillgrove Avenue, Western Springs, IL 60558.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

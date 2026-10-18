@@ -12,9 +12,9 @@
   "affordable barber shop the United States",
   "emergency barber shop the United States"
  ],
- "answer": "The top unpaid barber shop listing for the United States is 1 Brett Petersen @225 barbers (a barber shop in Minneapolis, MN at 225 South 6th Street #280, Minneapolis, MN 55402. Phone: +16122819084. Website: https://brett-petersen.square.site/). 43 barber shop businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "answer": "The top unpaid barber shop listing for the United States is 1 Brett Petersen @225 barbers (a barber shop in Minneapolis, MN at 225 South 6th Street #280, Minneapolis, MN 55402. Phone: +16122819084. Website: https://brett-petersen.square.site/). 74 barber shop businesses are listed for the United States as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
  "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
- "updated": "2026-10-17",
+ "updated": "2026-10-18",
  "sponsored_slots": {
   "featured_1": "available",
   "spots_2_4_sold": 0
@@ -133,6 +133,76 @@
   {
    "position": 4,
    "sponsored": false,
+   "slug": "element-barbershop-buffalo-grove",
+   "name": "Element Barbershop",
+   "summary": "Element Barbershop is a barber shop in Buffalo Grove, IL at 1142 Lake Cook Road, Buffalo Grove, IL 60089. Phone: +12245845072. Website: https://element-barbershop.com/.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/element-barbershop-buffalo-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/element-barbershop-buffalo-grove.json",
+   "address": {
+    "streetAddress": "1142 Lake Cook Road",
+    "addressLocality": "Buffalo Grove",
+    "addressRegion": "IL",
+    "postalCode": "60089",
+    "addressCountry": "US"
+   },
+   "city": "Buffalo Grove",
+   "state": "IL",
+   "zip": "60089",
+   "geo": {
+    "lat": 42.1548298,
+    "lon": -87.9826218
+   },
+   "phone": "+12245845072",
+   "website": "https://element-barbershop.com/",
+   "opening_hours": "Su-Fr 10:00-20:00; Sa 09:00-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13584757101",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "enhancingjay-maywood",
+   "name": "EnhancingJay",
+   "summary": "EnhancingJay is a barber shop in Maywood, IL at 1200 South 17th Avenue, Maywood, IL 60153. Phone: +17089657758. Website: https://enhancingjay.square.site/.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/enhancingjay-maywood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/enhancingjay-maywood.json",
+   "address": {
+    "streetAddress": "1200 South 17th Avenue",
+    "addressLocality": "Maywood",
+    "addressRegion": "IL",
+    "postalCode": "60153",
+    "addressCountry": "US"
+   },
+   "city": "Maywood",
+   "state": "IL",
+   "zip": "60153",
+   "geo": {
+    "lat": 41.8767646,
+    "lon": -87.8537513
+   },
+   "phone": "+17089657758",
+   "website": "https://enhancingjay.square.site/",
+   "opening_hours": "Sa 09:00-20:00; Su-Fr 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13649893331",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
    "slug": "freshly-cut-barbers-minneapolis",
    "name": "Freshly Cut Barbers",
    "summary": "Freshly Cut Barbers is a barber shop in Minneapolis, MN at 4555 34th Avenue South, Minneapolis, MN 55406. Phone: +16127244677. Website: https://freshlycutbarbers.com/.",
@@ -166,7 +236,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 5,
+   "position": 7,
    "sponsored": false,
    "slug": "gifted-barbershop-bloomington",
    "name": "Gifted Barbershop",
@@ -201,7 +271,77 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 6,
+   "position": 8,
+   "sponsored": false,
+   "slug": "golden-cuts-barber-shop-oak-lawn",
+   "name": "Golden Cuts Barber Shop",
+   "summary": "Golden Cuts Barber Shop is a barber shop in Oak Lawn, IL at 9546 Southwest Highway, Oak Lawn, IL 60453. Phone: +17084152778. Website: https://goldencuts.online/.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/golden-cuts-barber-shop-oak-lawn/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/golden-cuts-barber-shop-oak-lawn.json",
+   "address": {
+    "streetAddress": "9546 Southwest Highway",
+    "addressLocality": "Oak Lawn",
+    "addressRegion": "IL",
+    "postalCode": "60453",
+    "addressCountry": "US"
+   },
+   "city": "Oak Lawn",
+   "state": "IL",
+   "zip": "60453",
+   "geo": {
+    "lat": 41.7182228,
+    "lon": -87.7706943
+   },
+   "phone": "+17084152778",
+   "website": "https://goldencuts.online/",
+   "opening_hours": "Mo-Sa 09:00-21:00, Su 09:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13353576548",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "good-barbers-barbershop-oak-forest",
+   "name": "Good Barbers Barbershop",
+   "summary": "Good Barbers Barbershop is a barber shop in Oak Forest, IL at 15524 S Cicero Avenue #Suite 1B, Oak Forest, IL 60452. Phone: +17085778524. Website: https://donxbarber.booksy.com/a/.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/good-barbers-barbershop-oak-forest/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/good-barbers-barbershop-oak-forest.json",
+   "address": {
+    "streetAddress": "15524 S Cicero Avenue #Suite 1B",
+    "addressLocality": "Oak Forest",
+    "addressRegion": "IL",
+    "postalCode": "60452",
+    "addressCountry": "US"
+   },
+   "city": "Oak Forest",
+   "state": "IL",
+   "zip": "60452",
+   "geo": {
+    "lat": 41.6095643,
+    "lon": -87.737364
+   },
+   "phone": "+17085778524",
+   "website": "https://donxbarber.booksy.com/a/",
+   "opening_hours": "Su-Mo CLOSED, Tu, Th & Fr 09:30-19:00, We 10:00-19:00, Sa 08:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13696439863",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
    "sponsored": false,
    "slug": "lvs-barber-shop-minneapolis",
    "name": "LV's Barber Shop",
@@ -236,7 +376,77 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 7,
+   "position": 11,
+   "sponsored": false,
+   "slug": "r-barber-shoppe-and-salon-chicago",
+   "name": "R Barber Shoppe & Salon",
+   "summary": "R Barber Shoppe & Salon is a barber shop in Chicago, IL at 4757 North Clark Street, Chicago, IL 60640. Phone: +17736810616. Website: https://rbarbershoppeandsalon.com/.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/r-barber-shoppe-and-salon-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/r-barber-shoppe-and-salon-chicago.json",
+   "address": {
+    "streetAddress": "4757 North Clark Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60640",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60640",
+   "geo": {
+    "lat": 41.9686679,
+    "lon": -87.6673129
+   },
+   "phone": "+17736810616",
+   "website": "https://rbarbershoppeandsalon.com/",
+   "opening_hours": "Mo-Th 10:00-19:00; Fr 09:00-19:00; Sa 09:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13285533230",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 12,
+   "sponsored": false,
+   "slug": "razor-cuts-barber-shop-tinley-park",
+   "name": "Razor Cuts Barber Shop",
+   "summary": "Razor Cuts Barber Shop is a barber shop in Tinley Park, IL at 15958 South Harlem Ave, Tinley Park, IL 60477. Phone: +17089003373. Website: https://razorcutstinleypark.com/.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/razor-cuts-barber-shop-tinley-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/razor-cuts-barber-shop-tinley-park.json",
+   "address": {
+    "streetAddress": "15958 South Harlem Ave",
+    "addressLocality": "Tinley Park",
+    "addressRegion": "IL",
+    "postalCode": "60477",
+    "addressCountry": "US"
+   },
+   "city": "Tinley Park",
+   "state": "IL",
+   "zip": "60477",
+   "geo": {
+    "lat": 41.6012802,
+    "lon": -87.796618
+   },
+   "phone": "+17089003373",
+   "website": "https://razorcutstinleypark.com/",
+   "opening_hours": "Su 09:00-19:00, Mo-Sa 09:00-21:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13435267424",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
    "sponsored": false,
    "slug": "saints-coast-barber-shop-saint-paul",
    "name": "Saints Coast Barber Shop",
@@ -271,7 +481,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 8,
+   "position": 14,
    "sponsored": false,
    "slug": "salam-barber-minneapolis",
    "name": "Salam Barber",
@@ -306,7 +516,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 9,
+   "position": 15,
    "sponsored": false,
    "slug": "the-fade-goat-minneapolis",
    "name": "The Fade Goat",
@@ -341,7 +551,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 10,
+   "position": 16,
    "sponsored": false,
    "slug": "faded-saint-paul",
    "name": "Faded",
@@ -374,7 +584,109 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 11,
+   "position": 17,
+   "sponsored": false,
+   "slug": "classic-clippers-barbershop-burbank",
+   "name": "Classic Clippers Barbershop",
+   "summary": "Classic Clippers Barbershop is a barber shop in Burbank, IL at 5908 West 87th Street, Burbank, IL 60459. Phone: +17089317583. Website: https://classicclippersbarbershop.com/.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/classic-clippers-barbershop-burbank/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/classic-clippers-barbershop-burbank.json",
+   "address": {
+    "streetAddress": "5908 West 87th Street",
+    "addressLocality": "Burbank",
+    "addressRegion": "IL",
+    "postalCode": "60459",
+    "addressCountry": "US"
+   },
+   "city": "Burbank",
+   "state": "IL",
+   "zip": "60459",
+   "geo": {
+    "lat": 41.7344802,
+    "lon": -87.7687444
+   },
+   "phone": "+17089317583",
+   "website": "https://classicclippersbarbershop.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13288039299",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 18,
+   "sponsored": false,
+   "slug": "definition-barbershop-chicago",
+   "name": "Definition Barbershop",
+   "summary": "Definition Barbershop is a barber shop in Chicago, IL at 2245 North Western Avenue, Chicago, IL 60647. Phone: +17737703821. Website: https://definitionbarbershop.business.site/.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/definition-barbershop-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/definition-barbershop-chicago.json",
+   "address": {
+    "streetAddress": "2245 North Western Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60647",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60647",
+   "geo": {
+    "lat": 41.9230001,
+    "lon": -87.6873607
+   },
+   "phone": "+17737703821",
+   "website": "https://definitionbarbershop.business.site/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10265101236",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 19,
+   "sponsored": false,
+   "slug": "father-and-son-barber-shop-chicago",
+   "name": "Father and Son Barber Shop",
+   "summary": "Father and Son Barber Shop is a barber shop in Chicago, IL at 5806 North Broadway, Chicago, IL 60660. Phone: +17737846845. Website: https://www.fatherandsonbarbershop.com/.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/father-and-son-barber-shop-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/father-and-son-barber-shop-chicago.json",
+   "address": {
+    "streetAddress": "5806 North Broadway",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60660",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60660",
+   "geo": {
+    "lat": 41.9872372,
+    "lon": -87.6604024
+   },
+   "phone": "+17737846845",
+   "website": "https://www.fatherandsonbarbershop.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13669694936",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 20,
    "sponsored": false,
    "slug": "moler-barber-school-columbia-heights",
    "name": "Moler Barber School",
@@ -406,7 +718,39 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 12,
+   "position": 21,
+   "sponsored": false,
+   "slug": "wrath-and-co-chicago",
+   "name": "Wrath & Co",
+   "summary": "Wrath & Co is a barber shop in Chicago, IL at 1645 North Clybourn Avenue, Chicago, IL. Phone: +13122651288. Website: https://www.wrathandco.com/.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wrath-and-co-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wrath-and-co-chicago.json",
+   "address": {
+    "streetAddress": "1645 North Clybourn Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9120054,
+    "lon": -87.6507471
+   },
+   "phone": "+13122651288",
+   "website": "https://www.wrathandco.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 15.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13574784334",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 22,
    "sponsored": false,
    "slug": "3e38thstbarbers-minneapolis",
    "name": "3e38thStBarbers",
@@ -440,7 +784,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 13,
+   "position": 23,
    "sponsored": false,
    "slug": "arces-barber-studio-minneapolis",
    "name": "Arce's Barber Studio",
@@ -474,7 +818,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 14,
+   "position": 24,
    "sponsored": false,
    "slug": "artofbarbering-minneapolis",
    "name": "artofbarbering",
@@ -508,7 +852,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 15,
+   "position": 25,
    "sponsored": false,
    "slug": "barbers-and-stylists-bloomington",
    "name": "Barbers & Stylists",
@@ -542,7 +886,141 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 16,
+   "position": 26,
+   "sponsored": false,
+   "slug": "brothers-barber-shop-mundelein",
+   "name": "Brother's Barber Shop",
+   "summary": "Brother's Barber Shop is a barber shop in Mundelein, IL at 439 North Lake Street, Mundelein, IL 60060. Phone: +18479103181.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/brothers-barber-shop-mundelein/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/brothers-barber-shop-mundelein.json",
+   "address": {
+    "streetAddress": "439 North Lake Street",
+    "addressLocality": "Mundelein",
+    "addressRegion": "IL",
+    "postalCode": "60060",
+    "addressCountry": "US"
+   },
+   "city": "Mundelein",
+   "state": "IL",
+   "zip": "60060",
+   "geo": {
+    "lat": 42.2707234,
+    "lon": -88.0037552
+   },
+   "phone": "+18479103181",
+   "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/570024043",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 27,
+   "sponsored": false,
+   "slug": "escobar-salon-bartlett",
+   "name": "Escobar Salon",
+   "summary": "Escobar Salon is a barber shop in Bartlett, IL at 138 South Oak Avenue #2, Bartlett, IL 60103. Phone: +12248298408.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/escobar-salon-bartlett/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/escobar-salon-bartlett.json",
+   "address": {
+    "streetAddress": "138 South Oak Avenue #2",
+    "addressLocality": "Bartlett",
+    "addressRegion": "IL",
+    "postalCode": "60103",
+    "addressCountry": "US"
+   },
+   "city": "Bartlett",
+   "state": "IL",
+   "zip": "60103",
+   "geo": {
+    "lat": 41.9936185,
+    "lon": -88.1859861
+   },
+   "phone": "+12248298408",
+   "opening_hours": "Mo-Sa 09:00-20:00; Su 12:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13409614241",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 28,
+   "sponsored": false,
+   "slug": "nbws-barber-chicago",
+   "name": "NBWS Barber",
+   "summary": "NBWS Barber is a barber shop in Chicago, IL at 620 East 47th Street, Chicago, IL 60653. Phone: +18324860486.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/nbws-barber-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/nbws-barber-chicago.json",
+   "address": {
+    "streetAddress": "620 East 47th Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60653",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60653",
+   "geo": {
+    "lat": 41.8095879,
+    "lon": -87.6105485
+   },
+   "phone": "+18324860486",
+   "opening_hours": "Mo-Su 09:00-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13420015988",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 29,
+   "sponsored": false,
+   "slug": "benedicts-barber-shop-des-plaines",
+   "name": "Benedict's Barber Shop",
+   "summary": "Benedict's Barber Shop is a barber shop in Des Plaines, IL at 1938 East Touhy Avenue, Des Plaines, IL. Phone: +18472972774.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/benedicts-barber-shop-des-plaines/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/benedicts-barber-shop-des-plaines.json",
+   "address": {
+    "streetAddress": "1938 East Touhy Avenue",
+    "addressLocality": "Des Plaines",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Des Plaines",
+   "state": "IL",
+   "geo": {
+    "lat": 42.0102314,
+    "lon": -87.8763744
+   },
+   "phone": "+18472972774",
+   "opening_hours": "Tu-Sa 08:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 13.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13006533795",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 30,
    "sponsored": false,
    "slug": "buzz-barbers-minneapolis",
    "name": "Buzz Barbers",
@@ -575,7 +1053,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 17,
+   "position": 31,
    "sponsored": false,
    "slug": "divine-cuts-saint-paul",
    "name": "Divine Cuts",
@@ -608,7 +1086,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 18,
+   "position": 32,
    "sponsored": false,
    "slug": "the-dapper-wolf-saint-paul",
    "name": "The Dapper Wolf",
@@ -641,7 +1119,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 19,
+   "position": 33,
    "sponsored": false,
    "slug": "top-chop-barber-minneapolis",
    "name": "Top Chop Barber",
@@ -674,7 +1152,40 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 20,
+   "position": 34,
+   "sponsored": false,
+   "slug": "ultimate-image-frankfort",
+   "name": "Ultimate Image",
+   "summary": "Ultimate Image is a barber shop in Frankfort, IL at 10850 West Laraway Road #5W, Frankfort, IL 60423. Phone: +18154647205.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ultimate-image-frankfort/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ultimate-image-frankfort.json",
+   "address": {
+    "streetAddress": "10850 West Laraway Road #5W",
+    "addressLocality": "Frankfort",
+    "addressRegion": "IL",
+    "postalCode": "60423",
+    "addressCountry": "US"
+   },
+   "city": "Frankfort",
+   "state": "IL",
+   "zip": "60423",
+   "geo": {
+    "lat": 41.4845755,
+    "lon": -87.8802498
+   },
+   "phone": "+18154647205",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13130323903",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 35,
    "sponsored": false,
    "slug": "barber-shop-burnsville",
    "name": "Barber Shop",
@@ -705,7 +1216,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 21,
+   "position": 36,
    "sponsored": false,
    "slug": "eddies-barber-shop-minneapolis",
    "name": "Eddie's Barber Shop",
@@ -736,7 +1247,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 22,
+   "position": 37,
    "sponsored": false,
    "slug": "goodfellas-barber-studio-minneapolis",
    "name": "Goodfellas Barber Studio",
@@ -767,7 +1278,38 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 23,
+   "position": 38,
+   "sponsored": false,
+   "slug": "goodmans-barber-lounge-chicago",
+   "name": "Goodman's Barber Lounge",
+   "summary": "Goodman's Barber Lounge is a barber shop in Chicago, IL at 453 West Chicago Avenue, Chicago, IL. Website: https://goodmansbarberlounge.com/.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/goodmans-barber-lounge-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/goodmans-barber-lounge-chicago.json",
+   "address": {
+    "streetAddress": "453 West Chicago Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8963235,
+    "lon": -87.6403467
+   },
+   "website": "https://goodmansbarberlounge.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13571650897",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 39,
    "sponsored": false,
    "slug": "james-irving-salon-minneapolis",
    "name": "James Irving Salon",
@@ -798,7 +1340,102 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 24,
+   "position": 40,
+   "sponsored": false,
+   "slug": "levant-barber-shop-chicago",
+   "name": "Levant Barber Shop",
+   "summary": "Levant Barber Shop is a barber shop in Chicago, IL at 149 West Chicago Avenue, Chicago, IL. Website: https://levantbarbershop.com/.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/levant-barber-shop-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/levant-barber-shop-chicago.json",
+   "address": {
+    "streetAddress": "149 West Chicago Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8964355,
+    "lon": -87.6331523
+   },
+   "website": "https://levantbarbershop.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13571659705",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 41,
+   "sponsored": false,
+   "slug": "refined-barbershop-chicago",
+   "name": "Refined Barbershop",
+   "summary": "Refined Barbershop is a barber shop in Chicago, IL at 328 South Jefferson Street, Chicago, IL. Website: https://refinedbarber.co/.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/refined-barbershop-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/refined-barbershop-chicago.json",
+   "address": {
+    "streetAddress": "328 South Jefferson Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8770201,
+    "lon": -87.6426988
+   },
+   "website": "https://refinedbarber.co/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12288288800",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 42,
+   "sponsored": false,
+   "slug": "the-gentlemen-s-barber-wheaton",
+   "name": "The Gentlemen’s Barber",
+   "summary": "The Gentlemen’s Barber is a barber shop in Wheaton, IL at 128 West Willow Avenue, Wheaton, IL 60187.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-gentlemen-s-barber-wheaton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-gentlemen-s-barber-wheaton.json",
+   "address": {
+    "streetAddress": "128 West Willow Avenue",
+    "addressLocality": "Wheaton",
+    "addressRegion": "IL",
+    "postalCode": "60187",
+    "addressCountry": "US"
+   },
+   "city": "Wheaton",
+   "state": "IL",
+   "zip": "60187",
+   "geo": {
+    "lat": 41.8630533,
+    "lon": -88.1078504
+   },
+   "opening_hours": "Tu-Fr 09:00-17:00; Sa 09:00-13:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13305589513",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 43,
    "sponsored": false,
    "slug": "the-squire-saint-paul",
    "name": "The Squire",
@@ -831,7 +1468,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 25,
+   "position": 44,
    "sponsored": false,
    "slug": "sport-clips-saint-paul",
    "name": "Sport Clips",
@@ -861,7 +1498,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 26,
+   "position": 45,
    "sponsored": false,
    "slug": "interlachen-barber-shop-edina",
    "name": "Interlachen Barber Shop",
@@ -891,7 +1528,39 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 27,
+   "position": 46,
+   "sponsored": false,
+   "slug": "mario-novellis-barber-salon-river-grove",
+   "name": "Mario Novelli's Barber Salon",
+   "summary": "Mario Novelli's Barber Salon is a barber shop in River Grove, IL at 8345 West Grand Avenue, River Grove, IL 60171.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mario-novellis-barber-salon-river-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mario-novellis-barber-salon-river-grove.json",
+   "address": {
+    "streetAddress": "8345 West Grand Avenue",
+    "addressLocality": "River Grove",
+    "addressRegion": "IL",
+    "postalCode": "60171",
+    "addressCountry": "US"
+   },
+   "city": "River Grove",
+   "state": "IL",
+   "zip": "60171",
+   "geo": {
+    "lat": 41.9283157,
+    "lon": -87.8350697
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1421078311",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 47,
    "sponsored": false,
    "slug": "marvins-barber-shop-and-beauty-store-minneapolis",
    "name": "Marvin's Barber Shop & Beauty Store",
@@ -923,7 +1592,101 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 28,
+   "position": 48,
+   "sponsored": false,
+   "slug": "prohibition-barber-chicago",
+   "name": "Prohibition Barber",
+   "summary": "Prohibition Barber is a barber shop in Chicago, IL at 943 West Randolph Street, Chicago, IL 60607.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/prohibition-barber-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/prohibition-barber-chicago.json",
+   "address": {
+    "streetAddress": "943 West Randolph Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60607",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60607",
+   "geo": {
+    "lat": 41.8841018,
+    "lon": -87.6515068
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12776404420",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 49,
+   "sponsored": false,
+   "slug": "sals-barber-shop-chicago",
+   "name": "Sal's Barber Shop",
+   "summary": "Sal's Barber Shop is a barber shop in Chicago, IL at 2021 West Roscoe Street, Chicago, IL 60618.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sals-barber-shop-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sals-barber-shop-chicago.json",
+   "address": {
+    "streetAddress": "2021 West Roscoe Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60618",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60618",
+   "geo": {
+    "lat": 41.9430833,
+    "lon": -87.6793255
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12789088468",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 50,
+   "sponsored": false,
+   "slug": "the-chicago-buzz-chicago",
+   "name": "The Chicago Buzz",
+   "summary": "The Chicago Buzz is a barber shop in Chicago, IL.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-chicago-buzz-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-chicago-buzz-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8798868,
+    "lon": -87.6354514
+   },
+   "opening_hours": "Mo-Fr 09:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12650132019",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 51,
    "sponsored": false,
    "slug": "cornerman-cuts-minneapolis",
    "name": "Cornerman Cuts",
@@ -953,7 +1716,37 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 29,
+   "position": 52,
+   "sponsored": false,
+   "slug": "elegance-salon-chicago",
+   "name": "Elegance Salon",
+   "summary": "Elegance Salon is a barber shop in Chicago, IL at 301 West Washington Street, Chicago, IL.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/elegance-salon-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/elegance-salon-chicago.json",
+   "address": {
+    "streetAddress": "301 West Washington Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8830738,
+    "lon": -87.6355357
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13333000052",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 53,
    "sponsored": false,
    "slug": "225-barbers-minneapolis",
    "name": "225 Barbers",
@@ -982,7 +1775,36 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 30,
+   "position": 54,
+   "sponsored": false,
+   "slug": "a-barber-shop-chicago",
+   "name": "A Barber Shop",
+   "summary": "A Barber Shop is a barber shop in Chicago, IL.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/a-barber-shop-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/a-barber-shop-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9980107,
+    "lon": -87.6804095
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12591024334",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 55,
    "sponsored": false,
    "slug": "akways-sports-barbershop-minneapolis",
    "name": "Akways Sports Barbershop",
@@ -1011,7 +1833,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 31,
+   "position": 56,
    "sponsored": false,
    "slug": "bs-barbershop-saint-paul",
    "name": "B's Barbershop",
@@ -1040,7 +1862,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 32,
+   "position": 57,
    "sponsored": false,
    "slug": "b-roes-bloomington",
    "name": "B. Roes",
@@ -1069,7 +1891,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 33,
+   "position": 58,
    "sponsored": false,
    "slug": "barber-shop-roseville",
    "name": "Barber Shop",
@@ -1098,7 +1920,36 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 34,
+   "position": 59,
+   "sponsored": false,
+   "slug": "da-cuttin-image-chicago",
+   "name": "Da Cuttin' Image",
+   "summary": "Da Cuttin' Image is a barber shop in Chicago, IL.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/da-cuttin-image-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/da-cuttin-image-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7667341,
+    "lon": -87.5865868
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12639651909",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 60,
    "sponsored": false,
    "slug": "details-saint-paul",
    "name": "Details",
@@ -1127,7 +1978,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 35,
+   "position": 61,
    "sponsored": false,
    "slug": "feature-cut-barber-minneapolis",
    "name": "Feature Cut Barber",
@@ -1156,7 +2007,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 36,
+   "position": 62,
    "sponsored": false,
    "slug": "fm-barber-and-braiding-minneapolis",
    "name": "FM Barber and Braiding",
@@ -1185,7 +2036,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 37,
+   "position": 63,
    "sponsored": false,
    "slug": "gent-minneapolis",
    "name": "Gent",
@@ -1214,7 +2065,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 38,
+   "position": 64,
    "sponsored": false,
    "slug": "gent-saint-paul",
    "name": "Gent",
@@ -1243,7 +2094,36 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 39,
+   "position": 65,
+   "sponsored": false,
+   "slug": "gold-chair-chicago",
+   "name": "Gold Chair",
+   "summary": "Gold Chair is a barber shop in Chicago, IL.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gold-chair-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gold-chair-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8957275,
+    "lon": -87.681077
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12918234089",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 66,
    "sponsored": false,
    "slug": "great-scissors-barber-shop-new-brighton",
    "name": "Great Scissors Barber Shop",
@@ -1272,7 +2152,36 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 40,
+   "position": 67,
+   "sponsored": false,
+   "slug": "lady-janes-bloomingdale",
+   "name": "Lady Jane's",
+   "summary": "Lady Jane's is a barber shop in Bloomingdale, IL.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lady-janes-bloomingdale/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lady-janes-bloomingdale.json",
+   "address": {
+    "addressLocality": "Bloomingdale",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Bloomingdale",
+   "state": "IL",
+   "geo": {
+    "lat": 41.939857,
+    "lon": -88.1115141
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12997933428",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 68,
    "sponsored": false,
    "slug": "minnesota-school-of-barbering-minneapolis",
    "name": "Minnesota School of Barbering",
@@ -1301,7 +2210,36 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 41,
+   "position": 69,
+   "sponsored": false,
+   "slug": "nelson-s-barbershop-chicago",
+   "name": "Nelson’s Barbershop",
+   "summary": "Nelson’s Barbershop is a barber shop in Chicago, IL.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/nelson-s-barbershop-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/nelson-s-barbershop-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8520043,
+    "lon": -87.6984973
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13882636060",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 70,
    "sponsored": false,
    "slug": "pauly-rays-sports-barbershop-shoreview",
    "name": "Pauly Ray's Sports Barbershop",
@@ -1330,7 +2268,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 42,
+   "position": 71,
    "sponsored": false,
    "slug": "preserve-barbers-eden-prairie",
    "name": "Preserve Barbers",
@@ -1359,7 +2297,36 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 43,
+   "position": 72,
+   "sponsored": false,
+   "slug": "state-street-barbers-river-north-chicago",
+   "name": "State Street Barbers - River North",
+   "summary": "State Street Barbers - River North is a barber shop in Chicago, IL.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/state-street-barbers-river-north-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/state-street-barbers-river-north-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8930489,
+    "lon": -87.6417119
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13191684702",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 73,
    "sponsored": false,
    "slug": "the-barber-shop-west-saint-paul",
    "name": "The Barber Shop",
@@ -1386,6 +2353,274 @@
    "source": "OpenStreetMap",
    "source_url": "https://www.openstreetmap.org/node/12729435293",
    "last_checked": "2026-10-17"
+  },
+  {
+   "position": 74,
+   "sponsored": false,
+   "slug": "traditions-chicago",
+   "name": "Traditions",
+   "summary": "Traditions is a barber shop in Chicago, IL.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/traditions-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/traditions-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.931594,
+    "lon": -87.6571159
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12246908743",
+   "last_checked": "2026-10-17"
   }
- ]
+ ],
+ "market": {
+  "keyword": "barber shop",
+  "slug": "barber-shop",
+  "base_keyword": "barber shop",
+  "scope": "national",
+  "city": null,
+  "state": null,
+  "category": "Personal care & beauty",
+  "industry": "Beauty & Personal Care",
+  "us_monthly_searches": {
+   "value": 673000,
+   "method": "cited",
+   "source": "gkp_admiral",
+   "as_of": "2026-08",
+   "source_phrase": "barber shop",
+   "note": "Google Keyword Planner avg monthly searches, US"
+  },
+  "local_monthly_searches": null,
+  "cpc_usd": {
+   "industry_benchmark": "Beauty & Personal Care",
+   "low_usd": 4.62,
+   "median_usd": 4.62,
+   "high_usd": 5.7,
+   "method": "published benchmarks: low/high = range of the industry and sub-industry median CPCs listed in 'figures'; median = most specific benchmark",
+   "figures": [
+    {
+     "usd": 4.62,
+     "label": "Beauty & Personal Care median CPC 2026",
+     "source": "wordstream_2026"
+    },
+    {
+     "usd": 5.7,
+     "label": "Beauty & Personal Care median CPC 2025",
+     "source": "wordstream_2025"
+    }
+   ],
+   "source": "wordstream_2026",
+   "as_of": "2026",
+   "keyword_top_of_page_bid_usd": {
+    "low": 0.7,
+    "high": 3.18,
+    "phrase": "barber shop",
+    "source": "gkp_admiral",
+    "as_of": "2026-08"
+   },
+   "basis_for_value": {
+    "usd": 0.7,
+    "method": "low end of the Google Keyword Planner top-of-page bid range ($0.7-$3.18) for 'barber shop' (conservative; keyword-specific)",
+    "source": "gkp_admiral"
+   }
+  },
+  "ctr_pct": {
+   "value": 5.71,
+   "label": "Beauty & Personal Care average search-ad CTR 2025",
+   "source": "wordstream_2025",
+   "as_of": "2025-03"
+  },
+  "competition": {
+   "level": "low",
+   "method": "Google Keyword Planner competition index (advertiser density)",
+   "phrase": "barber shop",
+   "source": "gkp_admiral",
+   "as_of": "2026-08"
+  },
+  "trend": null,
+  "seasonality": {
+   "value": null,
+   "note": "No seasonality data in the research sources for this keyword."
+  },
+  "ai_query": {
+   "text": "No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.",
+   "figures": [
+    {
+     "value": "45%",
+     "label": "US adults using AI for local recommendations",
+     "source": "brightlocal_lcrs_2026"
+    },
+    {
+     "value": "75%",
+     "label": "sessions with keyword-style prompts",
+     "source": "sagapixel_sel"
+    },
+    {
+     "value": "59%",
+     "label": "local-intent prompts that triggered web search",
+     "source": "nectiv"
+    },
+    {
+     "value": "21%",
+     "label": "AI-first discovery journeys in healthcare (excerpt only)",
+     "source": "soci_2026"
+    }
+   ],
+   "as_of": "2026"
+  },
+  "registry_competitors": {
+   "value": 74,
+   "slugs": [
+    "1-brett-petersen-225-barbers-minneapolis",
+    "225-barbers-minneapolis",
+    "3e38thstbarbers-minneapolis",
+    "a-barber-shop-chicago",
+    "akways-sports-barbershop-minneapolis",
+    "arces-barber-studio-minneapolis",
+    "artofbarbering-minneapolis",
+    "b-roes-bloomington",
+    "barber-shop-burnsville",
+    "barber-shop-roseville"
+   ],
+   "method_id": "competitors",
+   "source": "registry",
+   "as_of": "2026-10-18",
+   "urls": [
+    "https://dingalinged-cpu.github.io/registry/c/1-brett-petersen-225-barbers-minneapolis/",
+    "https://dingalinged-cpu.github.io/registry/c/225-barbers-minneapolis/",
+    "https://dingalinged-cpu.github.io/registry/c/3e38thstbarbers-minneapolis/",
+    "https://dingalinged-cpu.github.io/registry/c/a-barber-shop-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/akways-sports-barbershop-minneapolis/",
+    "https://dingalinged-cpu.github.io/registry/c/arces-barber-studio-minneapolis/",
+    "https://dingalinged-cpu.github.io/registry/c/artofbarbering-minneapolis/",
+    "https://dingalinged-cpu.github.io/registry/c/b-roes-bloomington/",
+    "https://dingalinged-cpu.github.io/registry/c/barber-shop-burnsville/",
+    "https://dingalinged-cpu.github.io/registry/c/barber-shop-roseville/"
+   ],
+   "method": "count of registry listings tagged with the keyword (city/national) or with the base service in the same state (state keywords)"
+  },
+  "agent_demand": null,
+  "agent_demand_note": "Not yet measured. Will carry AI-agent query counts from the registry's agent analytics (contract: meta.agent_demand_contract in the market index).",
+  "equivalent_google_ads_cost_month": {
+   "value_usd": 27000,
+   "method": "estimate",
+   "method_id": "google_ads_equiv",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote."
+  },
+  "search_value_index": {
+   "value_usd": 470000,
+   "method": "estimate",
+   "method_id": "value_index",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: search value index = monthly searches x CPC basis; an advertiser-value ranking signal, not revenue; rounded to 2 significant figures."
+  },
+  "auction": {
+   "featured_spot_min_usd": 250,
+   "spots_2_to_4_min_usd": 25,
+   "tier": "high",
+   "pricing_rule": "tier minimum (premium $500, high $250, mid $100, standard $50) for national keywords; city = max($10, 20% of tier); state = max($10, 35% of tier); spots 2-4 open at 10% of the featured minimum",
+   "model": "Monthly auction in the last 7 days of each month: days 1-5 bid for the Featured #1 spot, days 6-7 for spots 2-4; winners display all next month; all paid spots labeled Sponsored.",
+   "next_auctions": [
+    {
+     "display_month": "2026-11",
+     "featured_spot_bidding": [
+      "2026-10-25",
+      "2026-10-29"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-10-30",
+      "2026-10-31"
+     ]
+    },
+    {
+     "display_month": "2026-12",
+     "featured_spot_bidding": [
+      "2026-11-24",
+      "2026-11-28"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-11-29",
+      "2026-11-30"
+     ]
+    }
+   ],
+   "source": "registry_auction",
+   "as_of": "2026-10-18"
+  },
+  "sources": {
+   "brightlocal_lcrs_2026": {
+    "name": "BrightLocal Local Consumer Review Survey 2026 (n=1,002 US adults)",
+    "url": "https://www.brightlocal.com/research/lcrs-ai-trust/",
+    "as_of": "2026"
+   },
+   "gkp_admiral": {
+    "name": "Google Keyword Planner export (US, 12-mo avg Sep 2025-Aug 2026; top-of-page bids converted INR->USD at 95.82 ECB 2026-09-25)",
+    "publisher": "Admiral (meetadmiral.com)",
+    "url": "https://meetadmiral.com/downloads/google-ads-cost-us-2025-09-to-2026-08.csv",
+    "as_of": "2026-08"
+   },
+   "nectiv": {
+    "name": "Nectiv study of 8,500+ ChatGPT prompts",
+    "url": "https://nectivdigital.com/blog/new-data-study-what-queries-is-chatgpt-using-behind-the-scenes",
+    "as_of": "2025"
+   },
+   "registry": {
+    "name": "This registry's own listings (OpenStreetMap-seeded, ODbL)",
+    "url": "https://dingalinged-cpu.github.io/registry/api/companies.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_auction": {
+    "name": "Registry keyword auction catalog and rules",
+    "url": "https://dingalinged-cpu.github.io/registry/api/keyword-prices.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_estimate": {
+    "name": "Registry estimate (CC-BY-4.0); method given on each value",
+    "url": "https://dingalinged-cpu.github.io/registry/market/",
+    "as_of": "2026-10-18"
+   },
+   "sagapixel_sel": {
+    "name": "Sagapixel ChatGPT local-services sessions, via Search Engine Land",
+    "url": "https://searchengineland.com/chatgpt-users-keywords-for-local-services-data-467715",
+    "as_of": "2026-01"
+   },
+   "soci_2026": {
+    "name": "SOCi Local Discovery Index 2026 (excerpt only, via pantora.ai)",
+    "url": "https://www.pantora.ai/blog/consumers-use-ai-to-find-local-businesses",
+    "as_of": "2026"
+   },
+   "wordstream_2025": {
+    "name": "WordStream Google Ads Benchmarks 2025 (16,446 US campaigns, Apr 2024-Mar 2025; median CPC and CTR by industry)",
+    "url": "https://www.wordstream.com/blog/2025-google-ads-benchmarks",
+    "as_of": "2025-03"
+   },
+   "wordstream_2026": {
+    "name": "LocaliQ/WordStream Search Advertising Benchmarks 2026 (US median CPC by industry)",
+    "url": "https://www.localiq.com/blog/search-advertising-benchmarks",
+    "as_of": "2026"
+   }
+  },
+  "license": {
+   "registry_estimates": "CC-BY-4.0",
+   "url": "https://creativecommons.org/licenses/by/4.0/",
+   "cited_figures": "attribute to the publishers in sources"
+  },
+  "as_of": "2026-10-18",
+  "api": "https://dingalinged-cpu.github.io/registry/api/market/barber-shop.json",
+  "rate_card": "https://dingalinged-cpu.github.io/registry/view/market.html#barber-shop"
+ }
 }

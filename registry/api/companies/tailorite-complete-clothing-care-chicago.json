@@ -1,0 +1,55 @@
+{
+ "slug": "tailorite-complete-clothing-care-chicago",
+ "name": "Tailorite Complete Clothing Care",
+ "categories": [
+  "dry cleaners"
+ ],
+ "keywords": [
+  "dry cleaners",
+  "dry cleaners chicago il"
+ ],
+ "services": [
+  {
+   "name": "dry cleaners",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "8459 South Cottage Grove Avenue",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60619",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60619",
+ "geo": {
+  "lat": 41.7404309,
+  "lon": -87.604432
+ },
+ "website": "https://tailoriteclothingcare.com/",
+ "schema_type": "DryCleaningOrLaundry",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/12062109887",
+ "osm": {
+  "type": "node",
+  "id": 12062109887,
+  "tags_used": {
+   "shop": "dry_cleaning"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/tailorite-complete-clothing-care-chicago/",
+ "summary": "Tailorite Complete Clothing Care is a dry cleaner in Chicago, IL at 8459 South Cottage Grove Avenue, Chicago, IL 60619. Website: https://tailoriteclothingcare.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

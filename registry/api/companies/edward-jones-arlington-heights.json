@@ -1,0 +1,53 @@
+{
+ "slug": "edward-jones-arlington-heights",
+ "name": "Edward Jones",
+ "categories": [
+  "financial advisor"
+ ],
+ "keywords": [
+  "financial advisor",
+  "financial advisor arlington heights il"
+ ],
+ "services": [
+  {
+   "name": "financial advisor",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Arlington Heights",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Arlington Heights",
+ "state": "IL",
+ "geo": {
+  "lat": 42.0817446,
+  "lon": -87.9833194
+ },
+ "brand": "Edward Jones",
+ "wikidata": "Q5343830",
+ "schema_type": "FinancialService",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/13004844977",
+ "osm": {
+  "type": "node",
+  "id": 13004844977,
+  "tags_used": {
+   "office": "financial_advisor"
+  }
+ },
+ "municipality": "Arlington Heights",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/edward-jones-arlington-heights/",
+ "summary": "Edward Jones is a financial advisor in Arlington Heights, IL.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

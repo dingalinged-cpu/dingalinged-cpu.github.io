@@ -1,0 +1,69 @@
+{
+ "slug": "farmers-insurance-wauconda",
+ "name": "Farmers Insurance",
+ "categories": [
+  "insurance agent"
+ ],
+ "keywords": [
+  "insurance agent",
+  "insurance agency",
+  "insurance agents",
+  "insurance agent wauconda il",
+  "insurance agency wauconda il",
+  "insurance agents wauconda il"
+ ],
+ "services": [
+  {
+   "name": "insurance agent",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "insurance agency",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "insurance agents",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Wauconda",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Wauconda",
+ "state": "IL",
+ "geo": {
+  "lat": 42.258447,
+  "lon": -88.138728
+ },
+ "phone": "+18475265020",
+ "website": "https://agents.farmers.com/il/wauconda/kevin-kirwan",
+ "email": "kkirwan@farmersagent.com",
+ "opening_hours": "Mo-Fr 08:00-17:00; Sa \"by appointment\"",
+ "brand": "Farmers Insurance",
+ "wikidata": "Q1396863",
+ "schema_type": "InsuranceAgency",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/9802943934",
+ "osm": {
+  "type": "node",
+  "id": 9802943934,
+  "tags_used": {
+   "office": "insurance"
+  }
+ },
+ "municipality": "Wauconda",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/farmers-insurance-wauconda/",
+ "summary": "Farmers Insurance is an insurance agent in Wauconda, IL. Phone: +18475265020. Website: https://agents.farmers.com/il/wauconda/kevin-kirwan.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,23 @@
+Autism Assessment, Research, Treatment & Services Center is a therapy practice in Chicago, IL at 1645 West Jackson Boulevard #603, Chicago, IL 60612. Phone: +13129420819. Website: https://www.rush.edu/locations/autism-assessment-research-treatment-services-aarts-center.
+
+# Autism Assessment, Research, Treatment & Services Center
+
+- Category: therapist
+- Services: therapist, pediatrician
+- Address: 1645 West Jackson Boulevard #603, Chicago, IL 60612
+- City: Chicago
+- State: IL
+- ZIP: 60612
+- Coordinates: 41.8771781, -87.6687172
+- Phone: +13129420819
+- Website: https://www.rush.edu/locations/autism-assessment-research-treatment-services-aarts-center
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/autism-assessment-research-treatment-and-services-center-chicago/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/autism-assessment-research-treatment-and-services-center-chicago.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11352719094 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,0 +1,54 @@
+{
+ "slug": "kenwood-liquors-homer-glen",
+ "name": "Kenwood Liquors",
+ "categories": [
+  "liquor store"
+ ],
+ "keywords": [
+  "liquor store",
+  "liquor store homer glen il"
+ ],
+ "services": [
+  {
+   "name": "liquor store",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "12037 West 159th Street",
+  "addressLocality": "Homer Glen",
+  "addressRegion": "IL",
+  "postalCode": "60491",
+  "addressCountry": "US"
+ },
+ "city": "Homer Glen",
+ "state": "IL",
+ "zip": "60491",
+ "geo": {
+  "lat": 41.5992537,
+  "lon": -87.9121025
+ },
+ "schema_type": "LiquorStore",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/519184810",
+ "osm": {
+  "type": "way",
+  "id": 519184810,
+  "tags_used": {
+   "shop": "alcohol"
+  }
+ },
+ "municipality": "Homer Glen",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/kenwood-liquors-homer-glen/",
+ "summary": "Kenwood Liquors is a liquor store in Homer Glen, IL at 12037 West 159th Street, Homer Glen, IL 60491.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -12,9 +12,9 @@
   "affordable tire shop the United States",
   "emergency tire shop the United States"
  ],
- "answer": "The top unpaid tire shop listing for the United States is Bauer Built Tire & Service (a tire shop in Saint Paul, MN at 625 Fairview Avenue North, Saint Paul, MN 55104. Phone: +16516461239. Website: https://www.bauerbuilt.com/). 53 tire shop businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "answer": "The top unpaid tire shop listing for the United States is Alvaro’s Tire Shop (a tire shop in Chicago, IL at 717 North Cicero Avenue, Chicago, IL 60644. Phone: +17736885874. Website: https://alvarostireshop.com/). 131 tire shop businesses are listed for the United States as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
  "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
- "updated": "2026-10-17",
+ "updated": "2026-10-18",
  "sponsored_slots": {
   "featured_1": "available",
   "spots_2_4_sold": 0
@@ -27,6 +27,76 @@
  "results": [
   {
    "position": 1,
+   "sponsored": false,
+   "slug": "alvaro-s-tire-shop-chicago",
+   "name": "Alvaro’s Tire Shop",
+   "summary": "Alvaro’s Tire Shop is a tire shop in Chicago, IL at 717 North Cicero Avenue, Chicago, IL 60644. Phone: +17736885874. Website: https://alvarostireshop.com/.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/alvaro-s-tire-shop-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/alvaro-s-tire-shop-chicago.json",
+   "address": {
+    "streetAddress": "717 North Cicero Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60644",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60644",
+   "geo": {
+    "lat": 41.8937125,
+    "lon": -87.74522
+   },
+   "phone": "+17736885874",
+   "website": "https://alvarostireshop.com/",
+   "opening_hours": "Mo-Sa 08:00-18:30; Su 9:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6726389571",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "archer-premier-tire-shop-chicago",
+   "name": "Archer Premier Tire Shop",
+   "summary": "Archer Premier Tire Shop is a tire shop in Chicago, IL at 4825 South Archer Avenue, Chicago, IL 60632. Phone: +17737354760. Website: https://archerpremiertireshop.com/.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/archer-premier-tire-shop-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/archer-premier-tire-shop-chicago.json",
+   "address": {
+    "streetAddress": "4825 South Archer Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60632",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60632",
+   "geo": {
+    "lat": 41.805518,
+    "lon": -87.7177293
+   },
+   "phone": "+17737354760",
+   "website": "https://archerpremiertireshop.com/",
+   "opening_hours": "Su 09:00-16:00, Mo-Fr 08:00-19:00, Sa 08:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13500806115",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
    "sponsored": false,
    "slug": "bauer-built-tire-and-service-saint-paul",
    "name": "Bauer Built Tire & Service",
@@ -61,7 +131,112 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 2,
+   "position": 4,
+   "sponsored": false,
+   "slug": "belle-tire-naperville",
+   "name": "Belle Tire",
+   "summary": "Belle Tire is a tire shop in Naperville, IL at 1126 East Ogden Avenue, Naperville, IL 60563. Phone: +16303000575. Website: https://www.belletire.com/stores/detail/160/belle-tire-naperville-il.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/belle-tire-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/belle-tire-naperville.json",
+   "address": {
+    "streetAddress": "1126 East Ogden Avenue",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60563",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60563",
+   "geo": {
+    "lat": 41.7924976,
+    "lon": -88.1269734
+   },
+   "phone": "+16303000575",
+   "website": "https://www.belletire.com/stores/detail/160/belle-tire-naperville-il",
+   "opening_hours": "Mo 08:00-20:00; Tu-We 08:00-18:00; Th 08:00-20:00; Fr 08:00-18:00; Sa 08:00-17:00; Su closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1049211782",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "belle-tire-orland-park",
+   "name": "Belle Tire",
+   "summary": "Belle Tire is a tire shop in Orland Park, IL at 9526 West 159th Street, Orland Park, IL 60467. Phone: +17086752240. Website: https://www.belletire.com/stores/detail/169/belle-tire-orland-park-il.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/belle-tire-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/belle-tire-orland-park.json",
+   "address": {
+    "streetAddress": "9526 West 159th Street",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60467",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60467",
+   "geo": {
+    "lat": 41.6018027,
+    "lon": -87.8510905
+   },
+   "phone": "+17086752240",
+   "website": "https://www.belletire.com/stores/detail/169/belle-tire-orland-park-il",
+   "opening_hours": "Mo 08:00-20:00; Tu-We 08:00-18:00; Th 08:00-20:00; Fr 08:00-18:00; Sa 08:00-17:00; Su closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/470090070",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "belle-tire-vernon-hills",
+   "name": "Belle Tire",
+   "summary": "Belle Tire is a tire shop in Vernon Hills, IL at 1810 North Milwaukee Avenue, Vernon Hills, IL 60061. Phone: +18479843055. Website: https://www.belletire.com/stores/detail/207/belle-tire-vernon-hills-il.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/belle-tire-vernon-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/belle-tire-vernon-hills.json",
+   "address": {
+    "streetAddress": "1810 North Milwaukee Avenue",
+    "addressLocality": "Vernon Hills",
+    "addressRegion": "IL",
+    "postalCode": "60061",
+    "addressCountry": "US"
+   },
+   "city": "Vernon Hills",
+   "state": "IL",
+   "zip": "60061",
+   "geo": {
+    "lat": 42.2598892,
+    "lon": -87.9499006
+   },
+   "phone": "+18479843055",
+   "website": "https://www.belletire.com/stores/detail/207/belle-tire-vernon-hills-il",
+   "opening_hours": "Mo 08:00-20:00; Tu-We 08:00-18:00; Th 08:00-20:00; Fr 08:00-18:00; Sa 08:00-17:00; Su closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1198720819",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
    "sponsored": false,
    "slug": "butler-industrial-tire-inc-saint-paul",
    "name": "Butler Industrial Tire, Inc.",
@@ -96,7 +271,77 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 3,
+   "position": 8,
+   "sponsored": false,
+   "slug": "cassidy-tire-naperville",
+   "name": "Cassidy Tire",
+   "summary": "Cassidy Tire is a tire shop in Naperville, IL at 1580 West Ogden Avenue, Naperville, IL 60540. Phone: +16307019724. Website: https://www.cassidytire.com/stores/view/5161/.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cassidy-tire-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cassidy-tire-naperville.json",
+   "address": {
+    "streetAddress": "1580 West Ogden Avenue",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60540",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60540",
+   "geo": {
+    "lat": 41.7673482,
+    "lon": -88.1851078
+   },
+   "phone": "+16307019724",
+   "website": "https://www.cassidytire.com/stores/view/5161/",
+   "opening_hours": "Mo-Fr 07:30-17:30; Sa 08:00-13:00; Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/984933120",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "discount-tire-naperville",
+   "name": "Discount Tire",
+   "summary": "Discount Tire is a tire shop in Naperville, IL at 1117 East Ogden Avenue, Naperville, IL 60563. Phone: +16304280178. Website: https://www.discounttire.com/store/il/naperville/s/1564.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/discount-tire-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/discount-tire-naperville.json",
+   "address": {
+    "streetAddress": "1117 East Ogden Avenue",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60563",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60563",
+   "geo": {
+    "lat": 41.7927014,
+    "lon": -88.1286023
+   },
+   "phone": "+16304280178",
+   "website": "https://www.discounttire.com/store/il/naperville/s/1564",
+   "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/292642525",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
    "sponsored": false,
    "slug": "discount-tire-west-saint-paul",
    "name": "Discount Tire",
@@ -131,7 +376,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 4,
+   "position": 11,
    "sponsored": false,
    "slug": "dred-scott-automotive-bloomington",
    "name": "Dred Scott Automotive",
@@ -166,7 +411,42 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 5,
+   "position": 12,
+   "sponsored": false,
+   "slug": "empire-tire-and-battery-co-orland-park",
+   "name": "Empire Tire and Battery Co",
+   "summary": "Empire Tire and Battery Co is an auto repair shop in Orland Park, IL at 16201 Wolf Road, Orland Park, IL 60467. Phone: +17083496280. Website: https://etabco.net/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/empire-tire-and-battery-co-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/empire-tire-and-battery-co-orland-park.json",
+   "address": {
+    "streetAddress": "16201 Wolf Road",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60467",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60467",
+   "geo": {
+    "lat": 41.5946361,
+    "lon": -87.8887629
+   },
+   "phone": "+17083496280",
+   "website": "https://etabco.net/",
+   "opening_hours": "Mo-Tu,Fr 08:00-17:00; We-Th 08:00-18:00; Sa 07:00-12:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6024259416",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
    "sponsored": false,
    "slug": "ep-auto-tire-and-glass-eden-prairie",
    "name": "EP Auto, Tire & Glass",
@@ -201,7 +481,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 6,
+   "position": 14,
    "sponsored": false,
    "slug": "ep-auto-tire-and-glass-minnetonka",
    "name": "EP Auto, Tire & Glass",
@@ -236,7 +516,112 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 7,
+   "position": 15,
+   "sponsored": false,
+   "slug": "express-oil-change-and-tire-engineers-dyer",
+   "name": "Express Oil Change & Tire Engineers",
+   "summary": "Express Oil Change & Tire Engineers is a tire shop in Dyer, IN at 1339 Joliet Street, Dyer, IN 46311. Phone: +12194407283. Website: https://www.expressoil.com/stores/dyer/in/1700/.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/express-oil-change-and-tire-engineers-dyer/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/express-oil-change-and-tire-engineers-dyer.json",
+   "address": {
+    "streetAddress": "1339 Joliet Street",
+    "addressLocality": "Dyer",
+    "addressRegion": "IN",
+    "postalCode": "46311",
+    "addressCountry": "US"
+   },
+   "city": "Dyer",
+   "state": "IN",
+   "zip": "46311",
+   "geo": {
+    "lat": 41.4919295,
+    "lon": -87.4972001
+   },
+   "phone": "+12194407283",
+   "website": "https://www.expressoil.com/stores/dyer/in/1700/",
+   "opening_hours": "Mo-Fr 08:00-18:00;Sa 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1364848813",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 16,
+   "sponsored": false,
+   "slug": "express-oil-change-and-tire-engineers-westmont",
+   "name": "Express Oil Change & Tire Engineers",
+   "summary": "Express Oil Change & Tire Engineers is a tire shop in Westmont, IL at 25 West 63rd Street, Westmont, IL 60559. Phone: +16305415540. Website: https://www.expressoil.com/stores/westmont/il/1710/.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/express-oil-change-and-tire-engineers-westmont/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/express-oil-change-and-tire-engineers-westmont.json",
+   "address": {
+    "streetAddress": "25 West 63rd Street",
+    "addressLocality": "Westmont",
+    "addressRegion": "IL",
+    "postalCode": "60559",
+    "addressCountry": "US"
+   },
+   "city": "Westmont",
+   "state": "IL",
+   "zip": "60559",
+   "geo": {
+    "lat": 41.7732524,
+    "lon": -87.9761169
+   },
+   "phone": "+16305415540",
+   "website": "https://www.expressoil.com/stores/westmont/il/1710/",
+   "opening_hours": "Mo-Fr 08:00-18:00;Sa 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6522268846",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 17,
+   "sponsored": false,
+   "slug": "firestone-naperville",
+   "name": "Firestone",
+   "summary": "Firestone is an auto repair shop in Naperville, IL at 44 West Gartner Road #112, Naperville, IL 60540. Phone: +13312132589. Website: https://local.firestonecompleteautocare.com/illinois/naperville/44-w-gartner-rd-ste-112/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/firestone-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/firestone-naperville.json",
+   "address": {
+    "streetAddress": "44 West Gartner Road #112",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60540",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60540",
+   "geo": {
+    "lat": 41.754742,
+    "lon": -88.140736
+   },
+   "phone": "+13312132589",
+   "website": "https://local.firestonecompleteautocare.com/illinois/naperville/44-w-gartner-rd-ste-112/",
+   "opening_hours": "Mo-Fr 07:00-19:00; Sa 07:00-18:00; Su 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8591829848",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 18,
    "sponsored": false,
    "slug": "maple-grove-tire-and-service-maple-grove",
    "name": "Maple Grove Tire & Service",
@@ -271,7 +656,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 8,
+   "position": 19,
    "sponsored": false,
    "slug": "midas-roseville",
    "name": "Midas",
@@ -306,7 +691,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 9,
+   "position": 20,
    "sponsored": false,
    "slug": "park-service-saint-paul",
    "name": "Park Service",
@@ -341,7 +726,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 10,
+   "position": 21,
    "sponsored": false,
    "slug": "quick-lane-tire-and-auto-center-roseville",
    "name": "Quick Lane Tire & Auto Center",
@@ -376,7 +761,42 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 11,
+   "position": 22,
+   "sponsored": false,
+   "slug": "route-66-auto-service-willowbrook",
+   "name": "Route 66 Auto Service",
+   "summary": "Route 66 Auto Service is an auto repair shop in Willowbrook, IL at 7551 South Madison Street, Willowbrook, IL 60527. Phone: +16309200905. Website: https://www.rt66autoservice.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/route-66-auto-service-willowbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/route-66-auto-service-willowbrook.json",
+   "address": {
+    "streetAddress": "7551 South Madison Street",
+    "addressLocality": "Willowbrook",
+    "addressRegion": "IL",
+    "postalCode": "60527",
+    "addressCountry": "US"
+   },
+   "city": "Willowbrook",
+   "state": "IL",
+   "zip": "60527",
+   "geo": {
+    "lat": 41.7509443,
+    "lon": -87.9345616
+   },
+   "phone": "+16309200905",
+   "website": "https://www.rt66autoservice.com/",
+   "opening_hours": "Mo-Fr 08:00-17:00; Sa 08:00-12:00; Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12714701631",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 23,
    "sponsored": false,
    "slug": "tires-plus-maple-grove",
    "name": "Tires Plus",
@@ -411,7 +831,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 12,
+   "position": 24,
    "sponsored": false,
    "slug": "tires-plus-roseville-w158810785",
    "name": "Tires Plus",
@@ -444,7 +864,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 13,
+   "position": 25,
    "sponsored": false,
    "slug": "bauer-built-commercial-tires-saint-paul",
    "name": "Bauer Built Commercial Tires",
@@ -478,7 +898,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 14,
+   "position": 26,
    "sponsored": false,
    "slug": "big-o-tires-saint-louis-park",
    "name": "Big O Tires",
@@ -512,7 +932,41 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 15,
+   "position": 27,
+   "sponsored": false,
+   "slug": "discount-tire-bolingbrook",
+   "name": "Discount Tire",
+   "summary": "Discount Tire is a tire shop in Bolingbrook, IL at 785 Boughton Road, Bolingbrook, IL 60440. Phone: +16307830247. Website: https://www.discounttire.com/.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/discount-tire-bolingbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/discount-tire-bolingbrook.json",
+   "address": {
+    "streetAddress": "785 Boughton Road",
+    "addressLocality": "Bolingbrook",
+    "addressRegion": "IL",
+    "postalCode": "60440",
+    "addressCountry": "US"
+   },
+   "city": "Bolingbrook",
+   "state": "IL",
+   "zip": "60440",
+   "geo": {
+    "lat": 41.7233411,
+    "lon": -88.0358315
+   },
+   "phone": "+16307830247",
+   "website": "https://www.discounttire.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/352332532",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 28,
    "sponsored": false,
    "slug": "discount-tire-brooklyn-center",
    "name": "Discount Tire",
@@ -546,7 +1000,109 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 16,
+   "position": 29,
+   "sponsored": false,
+   "slug": "discount-tire-new-lenox",
+   "name": "Discount Tire",
+   "summary": "Discount Tire is a tire shop in New Lenox, IL at 681 East Lincoln Highway, New Lenox, IL 60451. Phone: +18152153054. Website: https://www.discounttire.com/store/il/new-lenox/s/1891.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/discount-tire-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/discount-tire-new-lenox.json",
+   "address": {
+    "streetAddress": "681 East Lincoln Highway",
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "postalCode": "60451",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "zip": "60451",
+   "geo": {
+    "lat": 41.512962,
+    "lon": -87.9493099
+   },
+   "phone": "+18152153054",
+   "website": "https://www.discounttire.com/store/il/new-lenox/s/1891",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/188699619",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 30,
+   "sponsored": false,
+   "slug": "itasca-automotive-repair-itasca",
+   "name": "Itasca Automotive Repair",
+   "summary": "Itasca Automotive Repair is an auto repair shop in Itasca, IL at 210 West Irving Park Road, Itasca, IL 60143. Phone: +16307733373. Website: https://www.itascaauto.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/itasca-automotive-repair-itasca/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/itasca-automotive-repair-itasca.json",
+   "address": {
+    "streetAddress": "210 West Irving Park Road",
+    "addressLocality": "Itasca",
+    "addressRegion": "IL",
+    "postalCode": "60143",
+    "addressCountry": "US"
+   },
+   "city": "Itasca",
+   "state": "IL",
+   "zip": "60143",
+   "geo": {
+    "lat": 41.9712494,
+    "lon": -88.0151141
+   },
+   "phone": "+16307733373",
+   "website": "https://www.itascaauto.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7265229825",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 31,
+   "sponsored": false,
+   "slug": "new-and-used-tires-on-broadway-gary",
+   "name": "New & Used Tires On Broadway",
+   "summary": "New & Used Tires On Broadway is a tire shop in Gary, IN at 1976 Broadway, Gary, IN 46407. Phone: +12198828473. Website: https://newandusedtiresgary.com/.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/new-and-used-tires-on-broadway-gary/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/new-and-used-tires-on-broadway-gary.json",
+   "address": {
+    "streetAddress": "1976 Broadway",
+    "addressLocality": "Gary",
+    "addressRegion": "IN",
+    "postalCode": "46407",
+    "addressCountry": "US"
+   },
+   "city": "Gary",
+   "state": "IN",
+   "zip": "46407",
+   "geo": {
+    "lat": 41.5825897,
+    "lon": -87.3373024
+   },
+   "phone": "+12198828473",
+   "website": "https://newandusedtiresgary.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1145448078",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 32,
    "sponsored": false,
    "slug": "northwestern-tire-co-minneapolis",
    "name": "Northwestern Tire Co",
@@ -580,7 +1136,109 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 17,
+   "position": 33,
+   "sponsored": false,
+   "slug": "s-and-s-tires-and-service-lake-station",
+   "name": "S & S Tires & Service",
+   "summary": "S & S Tires & Service is a tire shop in Lake Station, IN at 233 Central Avenue, Lake Station, IN 46405. Phone: +12199629359. Website: https://sandstiresandservice.com/.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/s-and-s-tires-and-service-lake-station/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/s-and-s-tires-and-service-lake-station.json",
+   "address": {
+    "streetAddress": "233 Central Avenue",
+    "addressLocality": "Lake Station",
+    "addressRegion": "IN",
+    "postalCode": "46405",
+    "addressCountry": "US"
+   },
+   "city": "Lake Station",
+   "state": "IN",
+   "zip": "46405",
+   "geo": {
+    "lat": 41.5704797,
+    "lon": -87.2802276
+   },
+   "phone": "+12199629359",
+   "website": "https://sandstiresandservice.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4287568487",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 34,
+   "sponsored": false,
+   "slug": "stanfa-tire-and-auto-south-holland",
+   "name": "Stanfa Tire and Auto",
+   "summary": "Stanfa Tire and Auto is an auto repair shop in South Holland, IL at 16220 Prince Drive, South Holland, IL 60473. Phone: +17085969292. Website: https://www.stanfatire.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/stanfa-tire-and-auto-south-holland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/stanfa-tire-and-auto-south-holland.json",
+   "address": {
+    "streetAddress": "16220 Prince Drive",
+    "addressLocality": "South Holland",
+    "addressRegion": "IL",
+    "postalCode": "60473",
+    "addressCountry": "US"
+   },
+   "city": "South Holland",
+   "state": "IL",
+   "zip": "60473",
+   "geo": {
+    "lat": 41.6001324,
+    "lon": -87.5879982
+   },
+   "phone": "+17085969292",
+   "website": "https://www.stanfatire.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/237067446",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 35,
+   "sponsored": false,
+   "slug": "the-rim-plug-the-chrome-depot-cicero",
+   "name": "The Rim Plug (The Chrome Depot)",
+   "summary": "The Rim Plug (The Chrome Depot) is a tire shop in Cicero, IL at 1817 South 55th Avenue, Cicero, IL 60804. Phone: +17087763119. Website: https://www.facebook.com/thechromedepot.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-rim-plug-the-chrome-depot-cicero/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-rim-plug-the-chrome-depot-cicero.json",
+   "address": {
+    "streetAddress": "1817 South 55th Avenue",
+    "addressLocality": "Cicero",
+    "addressRegion": "IL",
+    "postalCode": "60804",
+    "addressCountry": "US"
+   },
+   "city": "Cicero",
+   "state": "IL",
+   "zip": "60804",
+   "geo": {
+    "lat": 41.8556067,
+    "lon": -87.7611957
+   },
+   "phone": "+17087763119",
+   "website": "https://www.facebook.com/thechromedepot",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12404106906",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 36,
    "sponsored": false,
    "slug": "tires-plus-plymouth",
    "name": "Tires Plus",
@@ -612,7 +1270,73 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 18,
+   "position": 37,
+   "sponsored": false,
+   "slug": "tredroc-tire-services-griffith",
+   "name": "Tredroc Tire Services",
+   "summary": "Tredroc Tire Services is a tire shop in Griffith, IN at 149 Colfax Street, Griffith, IN. Phone: +12199222200. Website: https://tredroc.com/.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tredroc-tire-services-griffith/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tredroc-tire-services-griffith.json",
+   "address": {
+    "streetAddress": "149 Colfax Street",
+    "addressLocality": "Griffith",
+    "addressRegion": "IN",
+    "addressCountry": "US"
+   },
+   "city": "Griffith",
+   "state": "IN",
+   "geo": {
+    "lat": 41.5209539,
+    "lon": -87.4125191
+   },
+   "phone": "+12199222200",
+   "website": "https://tredroc.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 15.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9203202787",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 38,
+   "sponsored": false,
+   "slug": "cassidy-tire-chicago",
+   "name": "Cassidy Tire",
+   "summary": "Cassidy Tire is a tire shop in Chicago, IL at 1950 West Carroll Avenue, Chicago, IL 60612. Website: https://www.cassidytire.com/stores/view/15138/.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cassidy-tire-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cassidy-tire-chicago.json",
+   "address": {
+    "streetAddress": "1950 West Carroll Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60612",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60612",
+   "geo": {
+    "lat": 41.8878352,
+    "lon": -87.6764344
+   },
+   "website": "https://www.cassidytire.com/stores/view/15138/",
+   "opening_hours": "Mo-Fr 06:30-17:00; Sa 07:00-12:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13301622645",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 39,
    "sponsored": false,
    "slug": "payless-tires-saint-paul-w1474171334",
    "name": "Payless Tires",
@@ -646,7 +1370,305 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 19,
+   "position": 40,
+   "sponsored": false,
+   "slug": "pomps-tire-service-joliet",
+   "name": "Pomp's Tire Service",
+   "summary": "Pomp's Tire Service is a tire shop in Joliet, IL at 927 Gardner Street, Joliet, IL 60433. Phone: +18157267470.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pomps-tire-service-joliet/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pomps-tire-service-joliet.json",
+   "address": {
+    "streetAddress": "927 Gardner Street",
+    "addressLocality": "Joliet",
+    "addressRegion": "IL",
+    "postalCode": "60433",
+    "addressCountry": "US"
+   },
+   "city": "Joliet",
+   "state": "IL",
+   "zip": "60433",
+   "geo": {
+    "lat": 41.5059137,
+    "lon": -88.0787992
+   },
+   "phone": "+18157267470",
+   "opening_hours": "Mo-Fr 07:30-17:30, Sa 08:00-12:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13300612023",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 41,
+   "sponsored": false,
+   "slug": "belle-tire-crestwood",
+   "name": "Belle Tire",
+   "summary": "Belle Tire is a tire shop in Crestwood, IL at 14066 Cicero Avenue, Crestwood, IL 60445. Website: https://www.belletire.com/stores/detail/184/belle-tire-crestwood-il.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/belle-tire-crestwood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/belle-tire-crestwood.json",
+   "address": {
+    "streetAddress": "14066 Cicero Avenue",
+    "addressLocality": "Crestwood",
+    "addressRegion": "IL",
+    "postalCode": "60445",
+    "addressCountry": "US"
+   },
+   "city": "Crestwood",
+   "state": "IL",
+   "zip": "60445",
+   "geo": {
+    "lat": 41.636443,
+    "lon": -87.7382822
+   },
+   "website": "https://www.belletire.com/stores/detail/184/belle-tire-crestwood-il",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1465722729",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 42,
+   "sponsored": false,
+   "slug": "belle-tire-melrose-park",
+   "name": "Belle Tire",
+   "summary": "Belle Tire is a tire shop in Melrose Park, IL at 3225 North Avenue, Melrose Park, IL 60160. Website: https://www.belletire.com/stores/detail/177/belle-tire-melrose-park-il.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/belle-tire-melrose-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/belle-tire-melrose-park.json",
+   "address": {
+    "streetAddress": "3225 North Avenue",
+    "addressLocality": "Melrose Park",
+    "addressRegion": "IL",
+    "postalCode": "60160",
+    "addressCountry": "US"
+   },
+   "city": "Melrose Park",
+   "state": "IL",
+   "zip": "60160",
+   "geo": {
+    "lat": 41.908127,
+    "lon": -87.8746891
+   },
+   "website": "https://www.belletire.com/stores/detail/177/belle-tire-melrose-park-il",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1309504475",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 43,
+   "sponsored": false,
+   "slug": "belle-tire-merrillville",
+   "name": "Belle Tire",
+   "summary": "Belle Tire is a tire shop in Merrillville, IN at 8200 Louisiana Street, Merrillville, IN 46410. Website: https://www.belletire.com/stores/detail/154/belle-tire-merrillville-in.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/belle-tire-merrillville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/belle-tire-merrillville.json",
+   "address": {
+    "streetAddress": "8200 Louisiana Street",
+    "addressLocality": "Merrillville",
+    "addressRegion": "IN",
+    "postalCode": "46410",
+    "addressCountry": "US"
+   },
+   "city": "Merrillville",
+   "state": "IN",
+   "zip": "46410",
+   "geo": {
+    "lat": 41.4703915,
+    "lon": -87.3204868
+   },
+   "website": "https://www.belletire.com/stores/detail/154/belle-tire-merrillville-in",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1374249834",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 44,
+   "sponsored": false,
+   "slug": "costco-tire-center-niles",
+   "name": "Costco Tire Center",
+   "summary": "Costco Tire Center is a tire shop in Niles, IL at 7311 North Melvina Avenue, Niles, IL 60714. Website: https://www.costco.com/warehouse-locations/niles-il-383.html.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/costco-tire-center-niles/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/costco-tire-center-niles.json",
+   "address": {
+    "streetAddress": "7311 North Melvina Avenue",
+    "addressLocality": "Niles",
+    "addressRegion": "IL",
+    "postalCode": "60714",
+    "addressCountry": "US"
+   },
+   "city": "Niles",
+   "state": "IL",
+   "zip": "60714",
+   "geo": {
+    "lat": 42.0150641,
+    "lon": -87.7800149
+   },
+   "website": "https://www.costco.com/warehouse-locations/niles-il-383.html",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12068506991",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 45,
+   "sponsored": false,
+   "slug": "express-tires-cicero",
+   "name": "Express Tires",
+   "summary": "Express Tires is a tire shop in Cicero, IL at 1901 South Laramie Avenue, Cicero, IL 60804. Phone: +17738006428.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/express-tires-cicero/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/express-tires-cicero.json",
+   "address": {
+    "streetAddress": "1901 South Laramie Avenue",
+    "addressLocality": "Cicero",
+    "addressRegion": "IL",
+    "postalCode": "60804",
+    "addressCountry": "US"
+   },
+   "city": "Cicero",
+   "state": "IL",
+   "zip": "60804",
+   "geo": {
+    "lat": 41.8546621,
+    "lon": -87.7536975
+   },
+   "phone": "+17738006428",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11110837108",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 46,
+   "sponsored": false,
+   "slug": "just-tires-deerfield",
+   "name": "Just Tires",
+   "summary": "Just Tires is a tire shop in Deerfield, IL at 25 North Waukegan Road, Deerfield, IL 60015. Website: https://www.justtires.com/en-US/shop/IL/Deerfield/000901270-60015-4901.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/just-tires-deerfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/just-tires-deerfield.json",
+   "address": {
+    "streetAddress": "25 North Waukegan Road",
+    "addressLocality": "Deerfield",
+    "addressRegion": "IL",
+    "postalCode": "60015",
+    "addressCountry": "US"
+   },
+   "city": "Deerfield",
+   "state": "IL",
+   "zip": "60015",
+   "geo": {
+    "lat": 42.1535167,
+    "lon": -87.835347
+   },
+   "website": "https://www.justtires.com/en-US/shop/IL/Deerfield/000901270-60015-4901",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1225723031",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 47,
+   "sponsored": false,
+   "slug": "just-tires-des-plaines",
+   "name": "Just Tires",
+   "summary": "Just Tires is a tire shop in Des Plaines, IL at 1180 East Oakton Street, Des Plaines, IL 60018. Website: https://www.justtires.com/en-US/shop/IL/Des-Plaines/000901267-60018-2034.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/just-tires-des-plaines/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/just-tires-des-plaines.json",
+   "address": {
+    "streetAddress": "1180 East Oakton Street",
+    "addressLocality": "Des Plaines",
+    "addressRegion": "IL",
+    "postalCode": "60018",
+    "addressCountry": "US"
+   },
+   "city": "Des Plaines",
+   "state": "IL",
+   "zip": "60018",
+   "geo": {
+    "lat": 42.0242861,
+    "lon": -87.895247
+   },
+   "website": "https://www.justtires.com/en-US/shop/IL/Des-Plaines/000901267-60018-2034",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/42278942",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 48,
+   "sponsored": false,
+   "slug": "just-tires-lansing",
+   "name": "Just Tires",
+   "summary": "Just Tires is a tire shop in Lansing, IL at 2500 173rd Street, Lansing, IL 60438. Website: https://www.justtires.com/en-US/shop/IL/Lansing/000906120-60438-6021.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/just-tires-lansing/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/just-tires-lansing.json",
+   "address": {
+    "streetAddress": "2500 173rd Street",
+    "addressLocality": "Lansing",
+    "addressRegion": "IL",
+    "postalCode": "60438",
+    "addressCountry": "US"
+   },
+   "city": "Lansing",
+   "state": "IL",
+   "zip": "60438",
+   "geo": {
+    "lat": 41.5815396,
+    "lon": -87.5563733
+   },
+   "website": "https://www.justtires.com/en-US/shop/IL/Lansing/000906120-60438-6021",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1329496131",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 49,
    "sponsored": false,
    "slug": "payless-tires-saint-paul",
    "name": "Payless Tires",
@@ -679,7 +1701,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 20,
+   "position": 50,
    "sponsored": false,
    "slug": "southwest-tire-and-auto-minneapolis",
    "name": "Southwest Tire & Auto",
@@ -712,7 +1734,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 21,
+   "position": 51,
    "sponsored": false,
    "slug": "tires-plus-saint-paul",
    "name": "Tires Plus",
@@ -745,7 +1767,104 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 22,
+   "position": 52,
+   "sponsored": false,
+   "slug": "wentworth-tire-service-calumet-park",
+   "name": "Wentworth Tire Service",
+   "summary": "Wentworth Tire Service is an auto repair shop in Calumet Park, IL at 1529 West 127th Street, Calumet Park, IL 60827. Website: https://www.wentworthtire.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wentworth-tire-service-calumet-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wentworth-tire-service-calumet-park.json",
+   "address": {
+    "streetAddress": "1529 West 127th Street",
+    "addressLocality": "Calumet Park",
+    "addressRegion": "IL",
+    "postalCode": "60827",
+    "addressCountry": "US"
+   },
+   "city": "Calumet Park",
+   "state": "IL",
+   "zip": "60827",
+   "geo": {
+    "lat": 41.6626719,
+    "lon": -87.6593615
+   },
+   "website": "https://www.wentworthtire.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1231768985",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 53,
+   "sponsored": false,
+   "slug": "tires-enterprises-corp-gary",
+   "name": "Tires Enterprises Corp.",
+   "summary": "Tires Enterprises Corp. is a tire shop in Gary, IN at 3716 West Ridge Road, Gary, IN. Phone: +18668074930.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tires-enterprises-corp-gary/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tires-enterprises-corp-gary.json",
+   "address": {
+    "streetAddress": "3716 West Ridge Road",
+    "addressLocality": "Gary",
+    "addressRegion": "IN",
+    "addressCountry": "US"
+   },
+   "city": "Gary",
+   "state": "IN",
+   "geo": {
+    "lat": 41.5489546,
+    "lon": -87.3832176
+   },
+   "phone": "+18668074930",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1331515554",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 54,
+   "sponsored": false,
+   "slug": "last-chance-auto-repair-for-cars-trucks-plainfield",
+   "name": "Last Chance Auto Repair For Cars Trucks",
+   "summary": "Last Chance Auto Repair For Cars Trucks is an auto repair shop in Plainfield, IL at 12052 South Naperville Road, Plainfield, IL 60585.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/last-chance-auto-repair-for-cars-trucks-plainfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/last-chance-auto-repair-for-cars-trucks-plainfield.json",
+   "address": {
+    "streetAddress": "12052 South Naperville Road",
+    "addressLocality": "Plainfield",
+    "addressRegion": "IL",
+    "postalCode": "60585",
+    "addressCountry": "US"
+   },
+   "city": "Plainfield",
+   "state": "IL",
+   "zip": "60585",
+   "geo": {
+    "lat": 41.6619724,
+    "lon": -88.1775959
+   },
+   "opening_hours": "Mo-Su 08:00-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6193807198",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 55,
    "sponsored": false,
    "slug": "tires-plus-minneapolis",
    "name": "Tires Plus",
@@ -778,7 +1897,38 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 23,
+   "position": 56,
+   "sponsored": false,
+   "slug": "just-tires-lake-zurich",
+   "name": "Just Tires",
+   "summary": "Just Tires is a tire shop in Lake Zurich, IL at 175 Quentin Road, Lake Zurich, IL.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/just-tires-lake-zurich/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/just-tires-lake-zurich.json",
+   "address": {
+    "streetAddress": "175 Quentin Road",
+    "addressLocality": "Lake Zurich",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Lake Zurich",
+   "state": "IL",
+   "geo": {
+    "lat": 42.2000607,
+    "lon": -88.0588073
+   },
+   "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 7.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/746489512",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 57,
    "sponsored": false,
    "slug": "bauer-built-eagan",
    "name": "Bauer Built",
@@ -808,7 +1958,199 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 24,
+   "position": 58,
+   "sponsored": false,
+   "slug": "armandos-tire-shop-chicago",
+   "name": "Armando's Tire Shop",
+   "summary": "Armando's Tire Shop is a tire shop in Chicago, IL at 10546 South Torrence Avenue, Chicago, IL 60617.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/armandos-tire-shop-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/armandos-tire-shop-chicago.json",
+   "address": {
+    "streetAddress": "10546 South Torrence Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60617",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60617",
+   "geo": {
+    "lat": 41.7032183,
+    "lon": -87.5598896
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/211270935",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 59,
+   "sponsored": false,
+   "slug": "bridgestone-homewood",
+   "name": "Bridgestone",
+   "summary": "Bridgestone is a tire shop in Homewood, IL at 17935 Halsted Street, Homewood, IL 60430.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bridgestone-homewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bridgestone-homewood.json",
+   "address": {
+    "streetAddress": "17935 Halsted Street",
+    "addressLocality": "Homewood",
+    "addressRegion": "IL",
+    "postalCode": "60430",
+    "addressCountry": "US"
+   },
+   "city": "Homewood",
+   "state": "IL",
+   "zip": "60430",
+   "geo": {
+    "lat": 41.5640612,
+    "lon": -87.6357773
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7716150302",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 60,
+   "sponsored": false,
+   "slug": "bridgestone-midlothian",
+   "name": "Bridgestone",
+   "summary": "Bridgestone is a tire shop in Midlothian, IL at 14740 Pulaski Road, Midlothian, IL 60445.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bridgestone-midlothian/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bridgestone-midlothian.json",
+   "address": {
+    "streetAddress": "14740 Pulaski Road",
+    "addressLocality": "Midlothian",
+    "addressRegion": "IL",
+    "postalCode": "60445",
+    "addressCountry": "US"
+   },
+   "city": "Midlothian",
+   "state": "IL",
+   "zip": "60445",
+   "geo": {
+    "lat": 41.6243139,
+    "lon": -87.7181734
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11430055612",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 61,
+   "sponsored": false,
+   "slug": "bridgestone-oak-lawn",
+   "name": "Bridgestone",
+   "summary": "Bridgestone is a tire shop in Oak Lawn, IL at 10327 South Cicero Avenue, Oak Lawn, IL 60453.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bridgestone-oak-lawn/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bridgestone-oak-lawn.json",
+   "address": {
+    "streetAddress": "10327 South Cicero Avenue",
+    "addressLocality": "Oak Lawn",
+    "addressRegion": "IL",
+    "postalCode": "60453",
+    "addressCountry": "US"
+   },
+   "city": "Oak Lawn",
+   "state": "IL",
+   "zip": "60453",
+   "geo": {
+    "lat": 41.7044732,
+    "lon": -87.7397779
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9658051832",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 62,
+   "sponsored": false,
+   "slug": "cassidy-tire-and-service-lincolnwood",
+   "name": "Cassidy Tire and Service",
+   "summary": "Cassidy Tire and Service is a tire shop in Lincolnwood, IL at 7220 North Cicero Avenue, Lincolnwood, IL 60712.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cassidy-tire-and-service-lincolnwood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cassidy-tire-and-service-lincolnwood.json",
+   "address": {
+    "streetAddress": "7220 North Cicero Avenue",
+    "addressLocality": "Lincolnwood",
+    "addressRegion": "IL",
+    "postalCode": "60712",
+    "addressCountry": "US"
+   },
+   "city": "Lincolnwood",
+   "state": "IL",
+   "zip": "60712",
+   "geo": {
+    "lat": 42.0124142,
+    "lon": -87.748321
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1217682564",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 63,
+   "sponsored": false,
+   "slug": "cassidy-tire-and-service-niles",
+   "name": "Cassidy Tire and Service",
+   "summary": "Cassidy Tire and Service is a tire shop in Niles, IL at 8733 Harlem Avenue, Niles, IL 60714.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cassidy-tire-and-service-niles/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cassidy-tire-and-service-niles.json",
+   "address": {
+    "streetAddress": "8733 Harlem Avenue",
+    "addressLocality": "Niles",
+    "addressRegion": "IL",
+    "postalCode": "60714",
+    "addressCountry": "US"
+   },
+   "city": "Niles",
+   "state": "IL",
+   "zip": "60714",
+   "geo": {
+    "lat": 42.0401863,
+    "lon": -87.8058787
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1111932032",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 64,
    "sponsored": false,
    "slug": "discount-tire-blaine",
    "name": "Discount Tire",
@@ -840,7 +2182,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 25,
+   "position": 65,
    "sponsored": false,
    "slug": "discount-tire-coon-rapids",
    "name": "Discount Tire",
@@ -870,7 +2212,263 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 26,
+   "position": 66,
+   "sponsored": false,
+   "slug": "discount-tire-crestwood",
+   "name": "Discount Tire",
+   "summary": "Discount Tire is a tire shop in Crestwood, IL at 13550 Cicero Avenue, Crestwood, IL 60445.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/discount-tire-crestwood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/discount-tire-crestwood.json",
+   "address": {
+    "streetAddress": "13550 Cicero Avenue",
+    "addressLocality": "Crestwood",
+    "addressRegion": "IL",
+    "postalCode": "60445",
+    "addressCountry": "US"
+   },
+   "city": "Crestwood",
+   "state": "IL",
+   "zip": "60445",
+   "geo": {
+    "lat": 41.6458918,
+    "lon": -87.7387335
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1339650470",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 67,
+   "sponsored": false,
+   "slug": "discount-tire-hanover-park",
+   "name": "Discount Tire",
+   "summary": "Discount Tire is a tire shop in Hanover Park, IL at 1470 East Irving Park Road, Hanover Park, IL 60133.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/discount-tire-hanover-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/discount-tire-hanover-park.json",
+   "address": {
+    "streetAddress": "1470 East Irving Park Road",
+    "addressLocality": "Hanover Park",
+    "addressRegion": "IL",
+    "postalCode": "60133",
+    "addressCountry": "US"
+   },
+   "city": "Hanover Park",
+   "state": "IL",
+   "zip": "60133",
+   "geo": {
+    "lat": 42.0054594,
+    "lon": -88.1429081
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/785990091",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 68,
+   "sponsored": false,
+   "slug": "discount-tire-homer-glen",
+   "name": "Discount Tire",
+   "summary": "Discount Tire is a tire shop in Homer Glen, IL at 14011 South Bell Road, Homer Glen, IL 60491.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/discount-tire-homer-glen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/discount-tire-homer-glen.json",
+   "address": {
+    "streetAddress": "14011 South Bell Road",
+    "addressLocality": "Homer Glen",
+    "addressRegion": "IL",
+    "postalCode": "60491",
+    "addressCountry": "US"
+   },
+   "city": "Homer Glen",
+   "state": "IL",
+   "zip": "60491",
+   "geo": {
+    "lat": 41.6346975,
+    "lon": -87.9305448
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5631145037",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 69,
+   "sponsored": false,
+   "slug": "discount-tire-lombard",
+   "name": "Discount Tire",
+   "summary": "Discount Tire is a tire shop in Lombard, IL at 1060 East Roosevelt Road, Lombard, IL 60148.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/discount-tire-lombard/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/discount-tire-lombard.json",
+   "address": {
+    "streetAddress": "1060 East Roosevelt Road",
+    "addressLocality": "Lombard",
+    "addressRegion": "IL",
+    "postalCode": "60148",
+    "addressCountry": "US"
+   },
+   "city": "Lombard",
+   "state": "IL",
+   "zip": "60148",
+   "geo": {
+    "lat": 41.8609939,
+    "lon": -87.9907148
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/198804794",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 70,
+   "sponsored": false,
+   "slug": "discount-tire-melrose-park",
+   "name": "Discount Tire",
+   "summary": "Discount Tire is a tire shop in Melrose Park, IL at 550 North Avenue, Melrose Park, IL 60160.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/discount-tire-melrose-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/discount-tire-melrose-park.json",
+   "address": {
+    "streetAddress": "550 North Avenue",
+    "addressLocality": "Melrose Park",
+    "addressRegion": "IL",
+    "postalCode": "60160",
+    "addressCountry": "US"
+   },
+   "city": "Melrose Park",
+   "state": "IL",
+   "zip": "60160",
+   "geo": {
+    "lat": 41.9076152,
+    "lon": -87.840751
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1331761680",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 71,
+   "sponsored": false,
+   "slug": "discount-tire-mount-prospect",
+   "name": "Discount Tire",
+   "summary": "Discount Tire is a tire shop in Mount Prospect, IL at 208 East Rand Road, Mount Prospect, IL 60056.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/discount-tire-mount-prospect/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/discount-tire-mount-prospect.json",
+   "address": {
+    "streetAddress": "208 East Rand Road",
+    "addressLocality": "Mount Prospect",
+    "addressRegion": "IL",
+    "postalCode": "60056",
+    "addressCountry": "US"
+   },
+   "city": "Mount Prospect",
+   "state": "IL",
+   "zip": "60056",
+   "geo": {
+    "lat": 42.079026,
+    "lon": -87.9326655
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1221220958",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 72,
+   "sponsored": false,
+   "slug": "discount-tire-oak-lawn",
+   "name": "Discount Tire",
+   "summary": "Discount Tire is a tire shop in Oak Lawn, IL at 6635 West 95th Street, Oak Lawn, IL 60453.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/discount-tire-oak-lawn/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/discount-tire-oak-lawn.json",
+   "address": {
+    "streetAddress": "6635 West 95th Street",
+    "addressLocality": "Oak Lawn",
+    "addressRegion": "IL",
+    "postalCode": "60453",
+    "addressCountry": "US"
+   },
+   "city": "Oak Lawn",
+   "state": "IL",
+   "zip": "60453",
+   "geo": {
+    "lat": 41.7191369,
+    "lon": -87.7864883
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1214359890",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 73,
+   "sponsored": false,
+   "slug": "discount-tire-schaumburg",
+   "name": "Discount Tire",
+   "summary": "Discount Tire is a tire shop in Schaumburg, IL at 400 West Higgins Road, Schaumburg, IL 60195.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/discount-tire-schaumburg/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/discount-tire-schaumburg.json",
+   "address": {
+    "streetAddress": "400 West Higgins Road",
+    "addressLocality": "Schaumburg",
+    "addressRegion": "IL",
+    "postalCode": "60195",
+    "addressCountry": "US"
+   },
+   "city": "Schaumburg",
+   "state": "IL",
+   "zip": "60195",
+   "geo": {
+    "lat": 42.0481422,
+    "lon": -88.090085
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/254649074",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 74,
    "sponsored": false,
    "slug": "discount-tire-shakopee",
    "name": "Discount Tire",
@@ -902,7 +2500,71 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 27,
+   "position": 75,
+   "sponsored": false,
+   "slug": "general-tire-evanston",
+   "name": "General Tire",
+   "summary": "General Tire is a tire shop in Evanston, IL at 2421 Dempster Street, Evanston, IL 60201.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/general-tire-evanston/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/general-tire-evanston.json",
+   "address": {
+    "streetAddress": "2421 Dempster Street",
+    "addressLocality": "Evanston",
+    "addressRegion": "IL",
+    "postalCode": "60201",
+    "addressCountry": "US"
+   },
+   "city": "Evanston",
+   "state": "IL",
+   "zip": "60201",
+   "geo": {
+    "lat": 42.0411503,
+    "lon": -87.7079724
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1425626493",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 76,
+   "sponsored": false,
+   "slug": "goodyear-gary",
+   "name": "Goodyear",
+   "summary": "Goodyear is an auto repair shop in Gary, IN at 2539 Burr Street, Gary, IN 46406.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/goodyear-gary/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/goodyear-gary.json",
+   "address": {
+    "streetAddress": "2539 Burr Street",
+    "addressLocality": "Gary",
+    "addressRegion": "IN",
+    "postalCode": "46406",
+    "addressCountry": "US"
+   },
+   "city": "Gary",
+   "state": "IN",
+   "zip": "46406",
+   "geo": {
+    "lat": 41.5726604,
+    "lon": -87.4008331
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/229466169",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 77,
    "sponsored": false,
    "slug": "home-town-tire-and-service-west-saint-paul",
    "name": "Home Town Tire And Service",
@@ -934,7 +2596,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 28,
+   "position": 78,
    "sponsored": false,
    "slug": "hoosier-tire-north-rogers",
    "name": "Hoosier Tire North",
@@ -966,7 +2628,167 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 29,
+   "position": 79,
+   "sponsored": false,
+   "slug": "just-tires-chicago",
+   "name": "Just Tires",
+   "summary": "Just Tires is a tire shop in Chicago, IL at 4809 North Broadway, Chicago, IL 60640.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/just-tires-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/just-tires-chicago.json",
+   "address": {
+    "streetAddress": "4809 North Broadway",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60640",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60640",
+   "geo": {
+    "lat": 41.9694908,
+    "lon": -87.6593619
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/210382279",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 80,
+   "sponsored": false,
+   "slug": "just-tires-mount-prospect",
+   "name": "Just Tires",
+   "summary": "Just Tires is a tire shop in Mount Prospect, IL at 102 East Kensington Road, Mount Prospect, IL 60056.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/just-tires-mount-prospect/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/just-tires-mount-prospect.json",
+   "address": {
+    "streetAddress": "102 East Kensington Road",
+    "addressLocality": "Mount Prospect",
+    "addressRegion": "IL",
+    "postalCode": "60056",
+    "addressCountry": "US"
+   },
+   "city": "Mount Prospect",
+   "state": "IL",
+   "zip": "60056",
+   "geo": {
+    "lat": 42.0803835,
+    "lon": -87.9346127
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1221219283",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 81,
+   "sponsored": false,
+   "slug": "just-tires-norridge",
+   "name": "Just Tires",
+   "summary": "Just Tires is a tire shop in Norridge, IL at 7213 West Forest Preserve Drive, Norridge, IL 60706.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/just-tires-norridge/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/just-tires-norridge.json",
+   "address": {
+    "streetAddress": "7213 West Forest Preserve Drive",
+    "addressLocality": "Norridge",
+    "addressRegion": "IL",
+    "postalCode": "60706",
+    "addressCountry": "US"
+   },
+   "city": "Norridge",
+   "state": "IL",
+   "zip": "60706",
+   "geo": {
+    "lat": 41.9531292,
+    "lon": -87.8077423
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/217364147",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 82,
+   "sponsored": false,
+   "slug": "just-tires-skokie",
+   "name": "Just Tires",
+   "summary": "Just Tires is a tire shop in Skokie, IL at 3540 West Touhy Avenue, Skokie, IL 60076.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/just-tires-skokie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/just-tires-skokie.json",
+   "address": {
+    "streetAddress": "3540 West Touhy Avenue",
+    "addressLocality": "Skokie",
+    "addressRegion": "IL",
+    "postalCode": "60076",
+    "addressCountry": "US"
+   },
+   "city": "Skokie",
+   "state": "IL",
+   "zip": "60076",
+   "geo": {
+    "lat": 42.012331,
+    "lon": -87.7181499
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1040135401",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 83,
+   "sponsored": false,
+   "slug": "lake-zurich-tire-and-auto-lake-zurich",
+   "name": "Lake Zurich Tire & Auto",
+   "summary": "Lake Zurich Tire & Auto is a tire shop in Lake Zurich, IL at 526 West Main Street, Lake Zurich, IL 60047.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lake-zurich-tire-and-auto-lake-zurich/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lake-zurich-tire-and-auto-lake-zurich.json",
+   "address": {
+    "streetAddress": "526 West Main Street",
+    "addressLocality": "Lake Zurich",
+    "addressRegion": "IL",
+    "postalCode": "60047",
+    "addressCountry": "US"
+   },
+   "city": "Lake Zurich",
+   "state": "IL",
+   "zip": "60047",
+   "geo": {
+    "lat": 42.1907093,
+    "lon": -88.1031709
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1215808017",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 84,
    "sponsored": false,
    "slug": "les-schwab-tire-center-richfield",
    "name": "Les Schwab Tire Center",
@@ -998,7 +2820,135 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 30,
+   "position": 85,
+   "sponsored": false,
+   "slug": "michelin-south-holland",
+   "name": "Michelin",
+   "summary": "Michelin is a tire shop in South Holland, IL at 555 East 162nd Street, South Holland, IL 60473.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/michelin-south-holland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/michelin-south-holland.json",
+   "address": {
+    "streetAddress": "555 East 162nd Street",
+    "addressLocality": "South Holland",
+    "addressRegion": "IL",
+    "postalCode": "60473",
+    "addressCountry": "US"
+   },
+   "city": "South Holland",
+   "state": "IL",
+   "zip": "60473",
+   "geo": {
+    "lat": 41.6002614,
+    "lon": -87.6031621
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1331500044",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 86,
+   "sponsored": false,
+   "slug": "puebla-tire-shop-gary",
+   "name": "Puebla Tire Shop",
+   "summary": "Puebla Tire Shop is a tire shop in Gary, IN at 6178 West 25th Avenue, Gary, IN 46406.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/puebla-tire-shop-gary/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/puebla-tire-shop-gary.json",
+   "address": {
+    "streetAddress": "6178 West 25th Avenue",
+    "addressLocality": "Gary",
+    "addressRegion": "IN",
+    "postalCode": "46406",
+    "addressCountry": "US"
+   },
+   "city": "Gary",
+   "state": "IN",
+   "zip": "46406",
+   "geo": {
+    "lat": 41.5738262,
+    "lon": -87.4127743
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1213472632",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 87,
+   "sponsored": false,
+   "slug": "r-c-b-tire-shop-chicago",
+   "name": "R.C.B Tire Shop",
+   "summary": "R.C.B Tire Shop is a tire shop in Chicago, IL at 9262 South South Chicago Avenue, Chicago, IL 60617.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/r-c-b-tire-shop-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/r-c-b-tire-shop-chicago.json",
+   "address": {
+    "streetAddress": "9262 South South Chicago Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60617",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60617",
+   "geo": {
+    "lat": 41.7267097,
+    "lon": -87.5518991
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/211362498",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 88,
+   "sponsored": false,
+   "slug": "rcb-tire-shop-chicago",
+   "name": "RCB Tire Shop",
+   "summary": "RCB Tire Shop is a tire shop in Chicago, IL at 9415 South Commercial Avenue, Chicago, IL 60617.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rcb-tire-shop-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rcb-tire-shop-chicago.json",
+   "address": {
+    "streetAddress": "9415 South Commercial Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60617",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60617",
+   "geo": {
+    "lat": 41.7240905,
+    "lon": -87.5507424
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/211352909",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 89,
    "sponsored": false,
    "slug": "royal-tire-newport",
    "name": "Royal Tire",
@@ -1030,7 +2980,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 31,
+   "position": 90,
    "sponsored": false,
    "slug": "samaritan-tire-edina",
    "name": "Samaritan Tire",
@@ -1062,7 +3012,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 32,
+   "position": 91,
    "sponsored": false,
    "slug": "the-tire-guy-2-osseo",
    "name": "The Tire Guy 2",
@@ -1094,7 +3044,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 33,
+   "position": 92,
    "sponsored": false,
    "slug": "tires-plus-chanhassen",
    "name": "Tires Plus",
@@ -1126,7 +3076,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 34,
+   "position": 93,
    "sponsored": false,
    "slug": "tires-plus-west-saint-paul",
    "name": "Tires Plus",
@@ -1158,7 +3108,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 35,
+   "position": 94,
    "sponsored": false,
    "slug": "tires-plus-white-bear-lake",
    "name": "Tires Plus",
@@ -1190,7 +3140,39 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 36,
+   "position": 95,
+   "sponsored": false,
+   "slug": "wentworth-tire-service-chicago",
+   "name": "Wentworth Tire Service",
+   "summary": "Wentworth Tire Service is a tire shop in Chicago, IL at 11130 South Corliss Avenue, Chicago, IL 60628.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wentworth-tire-service-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wentworth-tire-service-chicago.json",
+   "address": {
+    "streetAddress": "11130 South Corliss Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60628",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60628",
+   "geo": {
+    "lat": 41.6918015,
+    "lon": -87.6012934
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/210695203",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 96,
    "sponsored": false,
    "slug": "discount-tire-plymouth",
    "name": "Discount Tire",
@@ -1220,7 +3202,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 37,
+   "position": 97,
    "sponsored": false,
    "slug": "pomps-tire-rogers",
    "name": "Pomp's Tire",
@@ -1250,7 +3232,37 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 38,
+   "position": 98,
+   "sponsored": false,
+   "slug": "rv-tire-shop-chicago",
+   "name": "RV Tire Shop",
+   "summary": "RV Tire Shop is a tire shop in Chicago, IL at 3554 West Fullerton Avenue, Chicago, IL.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rv-tire-shop-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rv-tire-shop-chicago.json",
+   "address": {
+    "streetAddress": "3554 West Fullerton Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9248281,
+    "lon": -87.7167216
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/163896647",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 99,
    "sponsored": false,
    "slug": "tires-plus-new-hope",
    "name": "Tires Plus",
@@ -1280,7 +3292,36 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 39,
+   "position": 100,
+   "sponsored": false,
+   "slug": "bauer-built-romeoville",
+   "name": "Bauer Built",
+   "summary": "Bauer Built is a tire shop in Romeoville, IL.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bauer-built-romeoville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bauer-built-romeoville.json",
+   "address": {
+    "addressLocality": "Romeoville",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Romeoville",
+   "state": "IL",
+   "geo": {
+    "lat": 41.6633627,
+    "lon": -88.0720783
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/439960573",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 101,
    "sponsored": false,
    "slug": "big-o-tires-crystal",
    "name": "Big O Tires",
@@ -1309,7 +3350,65 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 40,
+   "position": 102,
+   "sponsored": false,
+   "slug": "bridgestone-chicago",
+   "name": "Bridgestone",
+   "summary": "Bridgestone is a tire shop in Chicago, IL.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bridgestone-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bridgestone-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7949862,
+    "lon": -87.7644511
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7698726647",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 103,
+   "sponsored": false,
+   "slug": "burn-rubber-tire-gary",
+   "name": "Burn Rubber Tire",
+   "summary": "Burn Rubber Tire is a tire shop in Gary, IN.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/burn-rubber-tire-gary/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/burn-rubber-tire-gary.json",
+   "address": {
+    "addressLocality": "Gary",
+    "addressRegion": "IN",
+    "addressCountry": "US"
+   },
+   "city": "Gary",
+   "state": "IN",
+   "geo": {
+    "lat": 41.5805794,
+    "lon": -87.3267836
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10925310624",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 104,
    "sponsored": false,
    "slug": "discount-tire-brooklyn-park",
    "name": "Discount Tire",
@@ -1338,7 +3437,36 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 41,
+   "position": 105,
+   "sponsored": false,
+   "slug": "discount-tire-countryside",
+   "name": "Discount Tire",
+   "summary": "Discount Tire is a tire shop in Countryside, IL.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/discount-tire-countryside/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/discount-tire-countryside.json",
+   "address": {
+    "addressLocality": "Countryside",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Countryside",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7896091,
+    "lon": -87.8680482
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1055483181",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 106,
    "sponsored": false,
    "slug": "discount-tire-eagan",
    "name": "Discount Tire",
@@ -1367,7 +3495,36 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 42,
+   "position": 107,
+   "sponsored": false,
+   "slug": "discount-tire-highland",
+   "name": "Discount Tire",
+   "summary": "Discount Tire is a tire shop in Highland, IN.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/discount-tire-highland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/discount-tire-highland.json",
+   "address": {
+    "addressLocality": "Highland",
+    "addressRegion": "IN",
+    "addressCountry": "US"
+   },
+   "city": "Highland",
+   "state": "IN",
+   "geo": {
+    "lat": 41.5297174,
+    "lon": -87.4722147
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1300120516",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 108,
    "sponsored": false,
    "slug": "discount-tire-inver-grove-heights",
    "name": "Discount Tire",
@@ -1396,7 +3553,36 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 43,
+   "position": 109,
+   "sponsored": false,
+   "slug": "discount-tire-joliet",
+   "name": "Discount Tire",
+   "summary": "Discount Tire is a tire shop in Joliet, IL.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/discount-tire-joliet/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/discount-tire-joliet.json",
+   "address": {
+    "addressLocality": "Joliet",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Joliet",
+   "state": "IL",
+   "geo": {
+    "lat": 41.5773252,
+    "lon": -88.1577663
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/142439025",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 110,
    "sponsored": false,
    "slug": "discount-tire-lino-lakes",
    "name": "Discount Tire",
@@ -1425,7 +3611,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 44,
+   "position": 111,
    "sponsored": false,
    "slug": "discount-tire-maple-grove",
    "name": "Discount Tire",
@@ -1454,7 +3640,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 45,
+   "position": 112,
    "sponsored": false,
    "slug": "discount-tire-maplewood",
    "name": "Discount Tire",
@@ -1483,7 +3669,65 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 46,
+   "position": 113,
+   "sponsored": false,
+   "slug": "discount-tire-matteson",
+   "name": "Discount Tire",
+   "summary": "Discount Tire is a tire shop in Matteson, IL.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/discount-tire-matteson/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/discount-tire-matteson.json",
+   "address": {
+    "addressLocality": "Matteson",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Matteson",
+   "state": "IL",
+   "geo": {
+    "lat": 41.5114104,
+    "lon": -87.7330886
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/245920174",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 114,
+   "sponsored": false,
+   "slug": "discount-tire-merrillville",
+   "name": "Discount Tire",
+   "summary": "Discount Tire is a tire shop in Merrillville, IN.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/discount-tire-merrillville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/discount-tire-merrillville.json",
+   "address": {
+    "addressLocality": "Merrillville",
+    "addressRegion": "IN",
+    "addressCountry": "US"
+   },
+   "city": "Merrillville",
+   "state": "IN",
+   "geo": {
+    "lat": 41.4702417,
+    "lon": -87.3444246
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/702941798",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 115,
    "sponsored": false,
    "slug": "discount-tire-minnetonka",
    "name": "Discount Tire",
@@ -1512,7 +3756,65 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 47,
+   "position": 116,
+   "sponsored": false,
+   "slug": "discount-tire-orland-park",
+   "name": "Discount Tire",
+   "summary": "Discount Tire is a tire shop in Orland Park, IL.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/discount-tire-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/discount-tire-orland-park.json",
+   "address": {
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.6019166,
+    "lon": -87.8495572
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/470090080",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 117,
+   "sponsored": false,
+   "slug": "discount-tire-palatine",
+   "name": "Discount Tire",
+   "summary": "Discount Tire is a tire shop in Palatine, IL.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/discount-tire-palatine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/discount-tire-palatine.json",
+   "address": {
+    "addressLocality": "Palatine",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Palatine",
+   "state": "IL",
+   "geo": {
+    "lat": 42.144394,
+    "lon": -88.0281705
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/120623014",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 118,
    "sponsored": false,
    "slug": "discount-tire-rogers",
    "name": "Discount Tire",
@@ -1541,7 +3843,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 48,
+   "position": 119,
    "sponsored": false,
    "slug": "discount-tire-saint-paul",
    "name": "Discount Tire",
@@ -1570,7 +3872,181 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 49,
+   "position": 120,
+   "sponsored": false,
+   "slug": "hakis-tires-gary",
+   "name": "Haki's Tires",
+   "summary": "Haki's Tires is a tire shop in Gary, IN.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hakis-tires-gary/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hakis-tires-gary.json",
+   "address": {
+    "addressLocality": "Gary",
+    "addressRegion": "IN",
+    "addressCountry": "US"
+   },
+   "city": "Gary",
+   "state": "IN",
+   "geo": {
+    "lat": 41.594337,
+    "lon": -87.2890378
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1325530714",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 121,
+   "sponsored": false,
+   "slug": "harders-service-la-grange",
+   "name": "Harders Service",
+   "summary": "Harders Service is a tire shop in La Grange, IL.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/harders-service-la-grange/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/harders-service-la-grange.json",
+   "address": {
+    "addressLocality": "La Grange",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "La Grange",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8133624,
+    "lon": -87.8792739
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8944618078",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 122,
+   "sponsored": false,
+   "slug": "just-tires-westmont",
+   "name": "Just Tires",
+   "summary": "Just Tires is a tire shop in Westmont, IL.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/just-tires-westmont/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/just-tires-westmont.json",
+   "address": {
+    "addressLocality": "Westmont",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Westmont",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8104688,
+    "lon": -87.9767599
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/606177489",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 123,
+   "sponsored": false,
+   "slug": "luis-and-son-chicago",
+   "name": "Luis & Son",
+   "summary": "Luis & Son is a tire shop in Chicago, IL.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/luis-and-son-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/luis-and-son-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.917391,
+    "lon": -87.7193816
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3649622503",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 124,
+   "sponsored": false,
+   "slug": "pomps-tire-mccook",
+   "name": "Pomp's Tire",
+   "summary": "Pomp's Tire is a tire shop in McCook, IL.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pomps-tire-mccook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pomps-tire-mccook.json",
+   "address": {
+    "addressLocality": "McCook",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "McCook",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8016162,
+    "lon": -87.8273221
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/978825889",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 125,
+   "sponsored": false,
+   "slug": "tire-shop-chicago",
+   "name": "Tire Shop",
+   "summary": "Tire Shop is a tire shop in Chicago, IL.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tire-shop-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tire-shop-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9033833,
+    "lon": -87.6749824
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3659464589",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 126,
    "sponsored": false,
    "slug": "tires-plus-eagan",
    "name": "Tires Plus",
@@ -1599,7 +4075,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 50,
+   "position": 127,
    "sponsored": false,
    "slug": "tires-plus-rogers",
    "name": "Tires Plus",
@@ -1628,7 +4104,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 51,
+   "position": 128,
    "sponsored": false,
    "slug": "tires-plus-roseville",
    "name": "Tires Plus",
@@ -1657,7 +4133,36 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 52,
+   "position": 129,
+   "sponsored": false,
+   "slug": "u-pick-a-tire-store-chicago",
+   "name": "U-Pick-A-Tire Store",
+   "summary": "U-Pick-A-Tire Store is a tire shop in Chicago, IL.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/u-pick-a-tire-store-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/u-pick-a-tire-store-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9253191,
+    "lon": -87.6669067
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12487202484",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 130,
    "sponsored": false,
    "slug": "v-i-p-wheels-and-tires-to-go-saint-paul",
    "name": "V.I.P Wheels & Tires To Go",
@@ -1686,7 +4191,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 53,
+   "position": 131,
    "sponsored": false,
    "slug": "youngstedts-goodyear-chanhassen",
    "name": "Youngstedts Goodyear",
@@ -1714,5 +4219,225 @@
    "source_url": "https://www.openstreetmap.org/way/42850897",
    "last_checked": "2026-10-17"
   }
- ]
+ ],
+ "market": {
+  "keyword": "tire shop",
+  "slug": "tire-shop",
+  "base_keyword": "tire shop",
+  "scope": "national",
+  "city": null,
+  "state": null,
+  "category": "Auto services",
+  "industry": "Automotive: Repair, Service & Parts",
+  "us_monthly_searches": {
+   "value": 550000,
+   "method": "cited",
+   "source": "r_prostarseo-com-en-the-blog-automotive-keyword-list",
+   "as_of": "2026-09",
+   "source_phrase": "tire shop near me",
+   "note": "US monthly searches, Semrush US Sep 2026"
+  },
+  "local_monthly_searches": null,
+  "cpc_usd": {
+   "industry_benchmark": "Automotive: Repair, Service & Parts",
+   "low_usd": 3.9,
+   "median_usd": 4.35,
+   "high_usd": 4.35,
+   "method": "published benchmarks: low/high = range of the industry and sub-industry median CPCs listed in 'figures'; median = most specific benchmark",
+   "figures": [
+    {
+     "usd": 4.35,
+     "label": "Automotive: Repair, Service & Parts median CPC 2026",
+     "source": "wordstream_2026"
+    },
+    {
+     "usd": 3.9,
+     "label": "Automotive: Repair, Service & Parts median CPC 2025",
+     "source": "wordstream_2025"
+    }
+   ],
+   "source": "wordstream_2026",
+   "as_of": "2026",
+   "basis_for_value": {
+    "usd": 4.35,
+    "method": "benchmark median CPC",
+    "source": "wordstream_2026"
+   }
+  },
+  "ctr_pct": {
+   "value": 5.56,
+   "label": "Automotive: Repair, Service & Parts average search-ad CTR 2025",
+   "source": "wordstream_2025",
+   "as_of": "2025-03"
+  },
+  "competition": {
+   "level": "medium",
+   "method": "proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research)",
+   "source": "wordstream_2026",
+   "as_of": "2026"
+  },
+  "trend": null,
+  "seasonality": {
+   "value": null,
+   "note": "No seasonality data in the research sources for this keyword."
+  },
+  "ai_query": {
+   "text": "No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.",
+   "figures": [
+    {
+     "value": "45%",
+     "label": "US adults using AI for local recommendations",
+     "source": "brightlocal_lcrs_2026"
+    },
+    {
+     "value": "75%",
+     "label": "sessions with keyword-style prompts",
+     "source": "sagapixel_sel"
+    },
+    {
+     "value": "59%",
+     "label": "local-intent prompts that triggered web search",
+     "source": "nectiv"
+    }
+   ],
+   "as_of": "2026"
+  },
+  "registry_competitors": {
+   "value": 131,
+   "slugs": [
+    "alvaro-s-tire-shop-chicago",
+    "archer-premier-tire-shop-chicago",
+    "armandos-tire-shop-chicago",
+    "bauer-built-commercial-tires-saint-paul",
+    "bauer-built-eagan",
+    "bauer-built-romeoville",
+    "bauer-built-tire-and-service-saint-paul",
+    "belle-tire-crestwood",
+    "belle-tire-melrose-park",
+    "belle-tire-merrillville"
+   ],
+   "method_id": "competitors",
+   "source": "registry",
+   "as_of": "2026-10-18",
+   "urls": [
+    "https://dingalinged-cpu.github.io/registry/c/alvaro-s-tire-shop-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/archer-premier-tire-shop-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/armandos-tire-shop-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/bauer-built-commercial-tires-saint-paul/",
+    "https://dingalinged-cpu.github.io/registry/c/bauer-built-eagan/",
+    "https://dingalinged-cpu.github.io/registry/c/bauer-built-romeoville/",
+    "https://dingalinged-cpu.github.io/registry/c/bauer-built-tire-and-service-saint-paul/",
+    "https://dingalinged-cpu.github.io/registry/c/belle-tire-crestwood/",
+    "https://dingalinged-cpu.github.io/registry/c/belle-tire-melrose-park/",
+    "https://dingalinged-cpu.github.io/registry/c/belle-tire-merrillville/"
+   ],
+   "method": "count of registry listings tagged with the keyword (city/national) or with the base service in the same state (state keywords)"
+  },
+  "agent_demand": null,
+  "agent_demand_note": "Not yet measured. Will carry AI-agent query counts from the registry's agent analytics (contract: meta.agent_demand_contract in the market index).",
+  "equivalent_google_ads_cost_month": {
+   "value_usd": 130000,
+   "method": "estimate",
+   "method_id": "google_ads_equiv",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote."
+  },
+  "search_value_index": {
+   "value_usd": 2400000,
+   "method": "estimate",
+   "method_id": "value_index",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: search value index = monthly searches x CPC basis; an advertiser-value ranking signal, not revenue; rounded to 2 significant figures."
+  },
+  "auction": {
+   "featured_spot_min_usd": 100,
+   "spots_2_to_4_min_usd": 10,
+   "tier": "mid",
+   "pricing_rule": "tier minimum (premium $500, high $250, mid $100, standard $50) for national keywords; city = max($10, 20% of tier); state = max($10, 35% of tier); spots 2-4 open at 10% of the featured minimum",
+   "model": "Monthly auction in the last 7 days of each month: days 1-5 bid for the Featured #1 spot, days 6-7 for spots 2-4; winners display all next month; all paid spots labeled Sponsored.",
+   "next_auctions": [
+    {
+     "display_month": "2026-11",
+     "featured_spot_bidding": [
+      "2026-10-25",
+      "2026-10-29"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-10-30",
+      "2026-10-31"
+     ]
+    },
+    {
+     "display_month": "2026-12",
+     "featured_spot_bidding": [
+      "2026-11-24",
+      "2026-11-28"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-11-29",
+      "2026-11-30"
+     ]
+    }
+   ],
+   "source": "registry_auction",
+   "as_of": "2026-10-18"
+  },
+  "sources": {
+   "brightlocal_lcrs_2026": {
+    "name": "BrightLocal Local Consumer Review Survey 2026 (n=1,002 US adults)",
+    "url": "https://www.brightlocal.com/research/lcrs-ai-trust/",
+    "as_of": "2026"
+   },
+   "nectiv": {
+    "name": "Nectiv study of 8,500+ ChatGPT prompts",
+    "url": "https://nectivdigital.com/blog/new-data-study-what-queries-is-chatgpt-using-behind-the-scenes",
+    "as_of": "2025"
+   },
+   "r_prostarseo-com-en-the-blog-automotive-keyword-list": {
+    "name": "Semrush US Sep 2026 (via research source)",
+    "url": "https://www.prostarseo.com/en/the-blog/automotive-keyword-list",
+    "as_of": "2026-09"
+   },
+   "registry": {
+    "name": "This registry's own listings (OpenStreetMap-seeded, ODbL)",
+    "url": "https://dingalinged-cpu.github.io/registry/api/companies.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_auction": {
+    "name": "Registry keyword auction catalog and rules",
+    "url": "https://dingalinged-cpu.github.io/registry/api/keyword-prices.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_estimate": {
+    "name": "Registry estimate (CC-BY-4.0); method given on each value",
+    "url": "https://dingalinged-cpu.github.io/registry/market/",
+    "as_of": "2026-10-18"
+   },
+   "sagapixel_sel": {
+    "name": "Sagapixel ChatGPT local-services sessions, via Search Engine Land",
+    "url": "https://searchengineland.com/chatgpt-users-keywords-for-local-services-data-467715",
+    "as_of": "2026-01"
+   },
+   "wordstream_2025": {
+    "name": "WordStream Google Ads Benchmarks 2025 (16,446 US campaigns, Apr 2024-Mar 2025; median CPC and CTR by industry)",
+    "url": "https://www.wordstream.com/blog/2025-google-ads-benchmarks",
+    "as_of": "2025-03"
+   },
+   "wordstream_2026": {
+    "name": "LocaliQ/WordStream Search Advertising Benchmarks 2026 (US median CPC by industry)",
+    "url": "https://www.localiq.com/blog/search-advertising-benchmarks",
+    "as_of": "2026"
+   }
+  },
+  "license": {
+   "registry_estimates": "CC-BY-4.0",
+   "url": "https://creativecommons.org/licenses/by/4.0/",
+   "cited_figures": "attribute to the publishers in sources"
+  },
+  "as_of": "2026-10-18",
+  "api": "https://dingalinged-cpu.github.io/registry/api/market/tire-shop.json",
+  "rate_card": "https://dingalinged-cpu.github.io/registry/view/market.html#tire-shop"
+ }
 }

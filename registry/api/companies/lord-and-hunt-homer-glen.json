@@ -1,0 +1,56 @@
+{
+ "slug": "lord-and-hunt-homer-glen",
+ "name": "Lord & Hunt",
+ "categories": [
+  "jewelry store"
+ ],
+ "keywords": [
+  "jewelry store",
+  "jewelry store homer glen il"
+ ],
+ "services": [
+  {
+   "name": "jewelry store",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "14222 South Bell Road",
+  "addressLocality": "Homer Glen",
+  "addressRegion": "IL",
+  "postalCode": "60491",
+  "addressCountry": "US"
+ },
+ "city": "Homer Glen",
+ "state": "IL",
+ "zip": "60491",
+ "geo": {
+  "lat": 41.630015,
+  "lon": -87.9331143
+ },
+ "phone": "+17087455172",
+ "website": "https://lordandhuntorlandjewelers.com/Lord_and_Hunt_Jewelers/HOME.html",
+ "schema_type": "JewelryStore",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/6901533430",
+ "osm": {
+  "type": "node",
+  "id": 6901533430,
+  "tags_used": {
+   "shop": "jewelry"
+  }
+ },
+ "municipality": "Homer Glen",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/lord-and-hunt-homer-glen/",
+ "summary": "Lord & Hunt is a jewelry store in Homer Glen, IL at 14222 South Bell Road, Homer Glen, IL 60491. Phone: +17087455172. Website: https://lordandhuntorlandjewelers.com/Lord_and_Hunt_Jewelers/HOME.html.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

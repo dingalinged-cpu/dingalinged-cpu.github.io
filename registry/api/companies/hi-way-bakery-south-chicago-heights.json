@@ -1,0 +1,55 @@
+{
+ "slug": "hi-way-bakery-south-chicago-heights",
+ "name": "Hi-Way Bakery",
+ "categories": [
+  "bakery"
+ ],
+ "keywords": [
+  "bakery",
+  "bakery south chicago heights il"
+ ],
+ "services": [
+  {
+   "name": "bakery",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "2633 Chicago Road",
+  "addressLocality": "South Chicago Heights",
+  "addressRegion": "IL",
+  "postalCode": "60411",
+  "addressCountry": "US"
+ },
+ "city": "South Chicago Heights",
+ "state": "IL",
+ "zip": "60411",
+ "geo": {
+  "lat": 41.4903231,
+  "lon": -87.6387251
+ },
+ "website": "https://www.hiwaybakery.com/",
+ "schema_type": "Bakery",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/8244293714",
+ "osm": {
+  "type": "node",
+  "id": 8244293714,
+  "tags_used": {
+   "shop": "bakery"
+  }
+ },
+ "municipality": "South Chicago Heights",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/hi-way-bakery-south-chicago-heights/",
+ "summary": "Hi-Way Bakery is a bakery in South Chicago Heights, IL at 2633 Chicago Road, South Chicago Heights, IL 60411. Website: https://www.hiwaybakery.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

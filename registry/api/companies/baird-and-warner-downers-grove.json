@@ -1,0 +1,61 @@
+{
+ "slug": "baird-and-warner-downers-grove",
+ "name": "Baird & Warner",
+ "categories": [
+  "real estate agent"
+ ],
+ "keywords": [
+  "real estate agent",
+  "realtor",
+  "real estate agent downers grove il",
+  "realtor downers grove il"
+ ],
+ "services": [
+  {
+   "name": "real estate agent",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "realtor",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "724 Ogden Avenue",
+  "addressLocality": "Downers Grove",
+  "addressRegion": "IL",
+  "postalCode": "60515",
+  "addressCountry": "US"
+ },
+ "city": "Downers Grove",
+ "state": "IL",
+ "zip": "60515",
+ "geo": {
+  "lat": 41.8094558,
+  "lon": -88.0034001
+ },
+ "opening_hours": "Mo-Fr 09:00-18:00; Sa-Su closed; PH closed",
+ "schema_type": "RealEstateAgent",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/10295606488",
+ "osm": {
+  "type": "node",
+  "id": 10295606488,
+  "tags_used": {
+   "office": "estate_agent"
+  }
+ },
+ "municipality": "Downers Grove",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/baird-and-warner-downers-grove/",
+ "summary": "Baird & Warner is a real estate agency in Downers Grove, IL at 724 Ogden Avenue, Downers Grove, IL 60515.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,58 @@
+{
+ "slug": "orangetheory-fitness-harwood-heights",
+ "name": "Orangetheory Fitness",
+ "categories": [
+  "gym"
+ ],
+ "keywords": [
+  "gym",
+  "gym harwood heights il"
+ ],
+ "services": [
+  {
+   "name": "gym",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "4747 North Harlem Avenue #G",
+  "addressLocality": "Harwood Heights",
+  "addressRegion": "IL",
+  "postalCode": "60706",
+  "addressCountry": "US"
+ },
+ "city": "Harwood Heights",
+ "state": "IL",
+ "zip": "60706",
+ "geo": {
+  "lat": 41.9667505,
+  "lon": -87.8056981
+ },
+ "phone": "+17084008648",
+ "website": "https://www.orangetheory.com/en-us/locations/illinois/harwood-heights/4747-n-harlem-ave-suite-1115-a/",
+ "brand": "Orangetheory Fitness",
+ "wikidata": "Q25005163",
+ "schema_type": "ExerciseGym",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/9523355789",
+ "osm": {
+  "type": "node",
+  "id": 9523355789,
+  "tags_used": {
+   "leisure": "fitness_centre"
+  }
+ },
+ "municipality": "Harwood Heights",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/orangetheory-fitness-harwood-heights/",
+ "summary": "Orangetheory Fitness is a gym in Harwood Heights, IL at 4747 North Harlem Avenue #G, Harwood Heights, IL 60706. Phone: +17084008648. Website: https://www.orangetheory.com/en-us/locations/illinois/harwood-heights/4747-n-harlem-ave-suite-1115-a/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,23 @@
+Wild Hive Hair is a hair salon in Mokena, IL at 19137 Wolf Road, Mokena, IL 60448. Phone: +17089533358. Website: https://www.vagaro.com/wildhivehair.
+
+# Wild Hive Hair
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 19137 Wolf Road, Mokena, IL 60448
+- City: Mokena
+- State: IL
+- ZIP: 60448
+- Coordinates: 41.5410986, -87.8892627
+- Phone: +17089533358
+- Website: https://www.vagaro.com/wildhivehair
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/wild-hive-hair-mokena/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/wild-hive-hair-mokena.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13306276651 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

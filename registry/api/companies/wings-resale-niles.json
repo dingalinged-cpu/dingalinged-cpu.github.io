@@ -1,0 +1,56 @@
+{
+ "slug": "wings-resale-niles",
+ "name": "WINGS Resale",
+ "categories": [
+  "thrift store"
+ ],
+ "keywords": [
+  "thrift store",
+  "thrift store niles il"
+ ],
+ "services": [
+  {
+   "name": "thrift store",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "8349 West Golf Road",
+  "addressLocality": "Niles",
+  "addressRegion": "IL",
+  "postalCode": "60714",
+  "addressCountry": "US"
+ },
+ "city": "Niles",
+ "state": "IL",
+ "zip": "60714",
+ "geo": {
+  "lat": 42.0540936,
+  "lon": -87.83499
+ },
+ "phone": "+18479651454",
+ "opening_hours": "Su 11:00-16:00; Mo-Fr 10:00-17:00; Sa 10:00-16:00",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/1180501361",
+ "osm": {
+  "type": "way",
+  "id": 1180501361,
+  "tags_used": {
+   "shop": "second_hand"
+  }
+ },
+ "municipality": "Niles",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/wings-resale-niles/",
+ "summary": "WINGS Resale is a thrift store in Niles, IL at 8349 West Golf Road, Niles, IL 60714. Phone: +18479651454.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

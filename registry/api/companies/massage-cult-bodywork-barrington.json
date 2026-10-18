@@ -1,0 +1,62 @@
+{
+ "slug": "massage-cult-bodywork-barrington",
+ "name": "Massage Cult Bodywork",
+ "categories": [
+  "massage"
+ ],
+ "keywords": [
+  "massage",
+  "massage barrington il"
+ ],
+ "services": [
+  {
+   "name": "massage",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "525 West Old Northwest Highway #302C",
+  "addressLocality": "Barrington",
+  "addressRegion": "IL",
+  "postalCode": "60010",
+  "addressCountry": "US"
+ },
+ "city": "Barrington",
+ "state": "IL",
+ "zip": "60010",
+ "geo": {
+  "lat": 42.1618194,
+  "lon": -88.1482601
+ },
+ "phone": "+17735109315",
+ "website": "https://www.massagecult.com/",
+ "email": "contact@massagecult.com",
+ "opening_hours": "Tu-Sa 16:00-19:00",
+ "social": [
+  "https://www.facebook.com/massagecult",
+  "https://www.instagram.com/massagecult"
+ ],
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/13728275096",
+ "osm": {
+  "type": "node",
+  "id": 13728275096,
+  "tags_used": {
+   "shop": "massage"
+  }
+ },
+ "municipality": "Barrington",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/massage-cult-bodywork-barrington/",
+ "summary": "Massage Cult Bodywork is a massage studio in Barrington, IL at 525 West Old Northwest Highway #302C, Barrington, IL 60010. Phone: +17735109315. Website: https://www.massagecult.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

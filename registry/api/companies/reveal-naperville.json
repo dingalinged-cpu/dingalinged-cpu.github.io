@@ -1,0 +1,56 @@
+{
+ "slug": "reveal-naperville",
+ "name": "Reveal",
+ "categories": [
+  "business consultant"
+ ],
+ "keywords": [
+  "business consultant",
+  "business consultant naperville il"
+ ],
+ "services": [
+  {
+   "name": "business consultant",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "230 West Diehl Road",
+  "addressLocality": "Naperville",
+  "addressRegion": "IL",
+  "postalCode": "60563",
+  "addressCountry": "US"
+ },
+ "city": "Naperville",
+ "state": "IL",
+ "zip": "60563",
+ "geo": {
+  "lat": 41.8008837,
+  "lon": -88.1500839
+ },
+ "phone": "+16305711730",
+ "website": "https://www.revealvalue.com/",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/71228821",
+ "osm": {
+  "type": "way",
+  "id": 71228821,
+  "tags_used": {
+   "office": "consulting"
+  }
+ },
+ "municipality": "Naperville",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/reveal-naperville/",
+ "summary": "Reveal is a business consultant in Naperville, IL at 230 West Diehl Road, Naperville, IL 60563. Phone: +16305711730. Website: https://www.revealvalue.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

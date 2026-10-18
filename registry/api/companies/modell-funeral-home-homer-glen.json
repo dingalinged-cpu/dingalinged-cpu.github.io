@@ -1,0 +1,54 @@
+{
+ "slug": "modell-funeral-home-homer-glen",
+ "name": "Modell Funeral Home",
+ "categories": [
+  "funeral home"
+ ],
+ "keywords": [
+  "funeral home",
+  "funeral home homer glen il"
+ ],
+ "services": [
+  {
+   "name": "funeral home",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "12641 West 143rd Street",
+  "addressLocality": "Homer Glen",
+  "addressRegion": "IL",
+  "postalCode": "60491",
+  "addressCountry": "US"
+ },
+ "city": "Homer Glen",
+ "state": "IL",
+ "zip": "60491",
+ "geo": {
+  "lat": 41.6280768,
+  "lon": -87.9276618
+ },
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/518591422",
+ "osm": {
+  "type": "way",
+  "id": 518591422,
+  "tags_used": {
+   "shop": "funeral_directors"
+  }
+ },
+ "municipality": "Homer Glen",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/modell-funeral-home-homer-glen/",
+ "summary": "Modell Funeral Home is a funeral home in Homer Glen, IL at 12641 West 143rd Street, Homer Glen, IL 60491.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,64 @@
+{
+ "slug": "law-offices-of-robert-m-kaplan-p-c-schaumburg",
+ "name": "Law Offices of Robert M. Kaplan, P.C.",
+ "categories": [
+  "lawyer"
+ ],
+ "keywords": [
+  "lawyer",
+  "attorney",
+  "lawyer schaumburg il",
+  "attorney schaumburg il"
+ ],
+ "services": [
+  {
+   "name": "lawyer",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "attorney",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1901 N. Roselle Rd #800",
+  "addressLocality": "Schaumburg",
+  "addressRegion": "IL",
+  "postalCode": "60195",
+  "addressCountry": "US"
+ },
+ "city": "Schaumburg",
+ "state": "IL",
+ "zip": "60195",
+ "geo": {
+  "lat": 42.0254511,
+  "lon": -88.1186359
+ },
+ "phone": "+18478459477",
+ "website": "https://www.robertkaplanlaw.com/",
+ "email": "robertkaplanlaw2014@gmail.com",
+ "opening_hours": "Mo-Fr 09:00-17:00",
+ "schema_type": "LegalService",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/6568928898",
+ "osm": {
+  "type": "node",
+  "id": 6568928898,
+  "tags_used": {
+   "office": "lawyer"
+  }
+ },
+ "municipality": "Schaumburg",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/law-offices-of-robert-m-kaplan-p-c-schaumburg/",
+ "summary": "Law Offices of Robert M. Kaplan, P.C. is a lawyer in Schaumburg, IL at 1901 N. Roselle Rd #800, Schaumburg, IL 60195. Phone: +18478459477. Website: https://www.robertkaplanlaw.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,23 @@
+Pawparazzi Pet Salon is a dog groomer in Hoffman Estates, IL at 2332 West Higgins Road, Hoffman Estates, IL 60169.
+
+# Pawparazzi Pet Salon
+
+- Category: dog groomer
+- Services: dog groomer
+- Address: 2332 West Higgins Road, Hoffman Estates, IL 60169
+- City: Hoffman Estates
+- State: IL
+- ZIP: 60169
+- Coordinates: 42.0596796, -88.1370381
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/pawparazzi-pet-salon-hoffman-estates/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/pawparazzi-pet-salon-hoffman-estates.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1319298251 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,0 +1,56 @@
+{
+ "slug": "la-fitness-chicago-n5106617244",
+ "name": "LA Fitness",
+ "categories": [
+  "gym"
+ ],
+ "keywords": [
+  "gym",
+  "gym chicago il"
+ ],
+ "services": [
+  {
+   "name": "gym",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "3435 South Doctor Martin Luther King Junior Drive",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60616",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60616",
+ "geo": {
+  "lat": 41.8317351,
+  "lon": -87.6150077
+ },
+ "brand": "LA Fitness",
+ "wikidata": "Q6457180",
+ "schema_type": "ExerciseGym",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/5106617244",
+ "osm": {
+  "type": "node",
+  "id": 5106617244,
+  "tags_used": {
+   "leisure": "fitness_centre"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/la-fitness-chicago-n5106617244/",
+ "summary": "LA Fitness is a gym in Chicago, IL at 3435 South Doctor Martin Luther King Junior Drive, Chicago, IL 60616.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

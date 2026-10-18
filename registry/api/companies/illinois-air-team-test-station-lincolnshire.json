@@ -1,0 +1,57 @@
+{
+ "slug": "illinois-air-team-test-station-lincolnshire",
+ "name": "Illinois Air Team Test Station",
+ "categories": [
+  "car inspection"
+ ],
+ "keywords": [
+  "car inspection",
+  "car inspection lincolnshire il"
+ ],
+ "services": [
+  {
+   "name": "car inspection",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "580 Bond Street",
+  "addressLocality": "Lincolnshire",
+  "addressRegion": "IL",
+  "postalCode": "60069",
+  "addressCountry": "US"
+ },
+ "city": "Lincolnshire",
+ "state": "IL",
+ "zip": "60069",
+ "geo": {
+  "lat": 42.1847127,
+  "lon": -87.9476411
+ },
+ "phone": "+18003827933",
+ "website": "https://www.epa.illinois.gov/topics/air-quality/mobile-sources/vehicle-emissions-testing/testing-station-locations/",
+ "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-13:00",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/414040497",
+ "osm": {
+  "type": "way",
+  "id": 414040497,
+  "tags_used": {
+   "amenity": "vehicle_inspection"
+  }
+ },
+ "municipality": "Lincolnshire",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/illinois-air-team-test-station-lincolnshire/",
+ "summary": "Illinois Air Team Test Station is a vehicle inspection station in Lincolnshire, IL at 580 Bond Street, Lincolnshire, IL 60069. Phone: +18003827933. Website: https://www.epa.illinois.gov/topics/air-quality/mobile-sources/vehicle-emissions-testing/testing-station-locations/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,69 @@
+{
+ "slug": "illinois-vehicle-auto-insurance-arlington-heights",
+ "name": "Illinois Vehicle Auto Insurance",
+ "categories": [
+  "insurance agent"
+ ],
+ "keywords": [
+  "insurance agent",
+  "insurance agency",
+  "insurance agents",
+  "insurance agent arlington heights il",
+  "insurance agency arlington heights il",
+  "insurance agents arlington heights il"
+ ],
+ "services": [
+  {
+   "name": "insurance agent",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "insurance agency",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "insurance agents",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1784 West Algonquin Road",
+  "addressLocality": "Arlington Heights",
+  "addressRegion": "IL",
+  "postalCode": "60005",
+  "addressCountry": "US"
+ },
+ "city": "Arlington Heights",
+ "state": "IL",
+ "zip": "60005",
+ "geo": {
+  "lat": 42.0584353,
+  "lon": -88.0066564
+ },
+ "phone": "+18474994000",
+ "website": "https://illinoisvehicle.com/",
+ "opening_hours": "Mo-Fr 9:30-18:00; Sa 9:00-15:00",
+ "schema_type": "InsuranceAgency",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/12626030360",
+ "osm": {
+  "type": "node",
+  "id": 12626030360,
+  "tags_used": {
+   "office": "insurance"
+  }
+ },
+ "municipality": "Arlington Heights",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/illinois-vehicle-auto-insurance-arlington-heights/",
+ "summary": "Illinois Vehicle Auto Insurance is an insurance agent in Arlington Heights, IL at 1784 West Algonquin Road, Arlington Heights, IL 60005. Phone: +18474994000. Website: https://illinoisvehicle.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

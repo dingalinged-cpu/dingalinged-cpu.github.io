@@ -1,0 +1,23 @@
+H&R Block is a tax preparation service in Riverdale, IL at 14312 South Indiana Avenue, Riverdale, IL 60827. Website: https://www.hrblock.com/local-tax-offices/illinois/riverdale/14312-s-indiana/12575/.
+
+# H&R Block
+
+- Category: tax preparation
+- Services: tax preparation, tax preparer
+- Address: 14312 South Indiana Avenue, Riverdale, IL 60827
+- City: Riverdale
+- State: IL
+- ZIP: 60827
+- Coordinates: 41.6347692, -87.6174599
+- Phone: n/a
+- Website: https://www.hrblock.com/local-tax-offices/illinois/riverdale/14312-s-indiana/12575/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/h-and-r-block-riverdale/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/h-and-r-block-riverdale.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1339650364 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

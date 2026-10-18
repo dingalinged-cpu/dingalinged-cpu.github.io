@@ -1,0 +1,51 @@
+{
+ "slug": "ace-car-care-gary",
+ "name": "Ace Car Care",
+ "categories": [
+  "car wash"
+ ],
+ "keywords": [
+  "car wash",
+  "car wash gary in"
+ ],
+ "services": [
+  {
+   "name": "car wash",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Gary",
+  "addressRegion": "IN",
+  "addressCountry": "US"
+ },
+ "city": "Gary",
+ "state": "IN",
+ "geo": {
+  "lat": 41.5720171,
+  "lon": -87.3363569
+ },
+ "schema_type": "AutoWash",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/1150270282",
+ "osm": {
+  "type": "way",
+  "id": 1150270282,
+  "tags_used": {
+   "amenity": "car_wash"
+  }
+ },
+ "municipality": "Gary",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/ace-car-care-gary/",
+ "summary": "Ace Car Care is a car wash in Gary, IN.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

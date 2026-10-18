@@ -1,0 +1,23 @@
+Little Angels is a daycare in Chicago, IL.
+
+# Little Angels
+
+- Category: daycare
+- Services: daycare
+- Address: Chicago, IL
+- City: Chicago
+- State: IL
+- ZIP: n/a
+- Coordinates: 41.9970939, -87.7196581
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/little-angels-chicago/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/little-angels-chicago.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6287498132 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

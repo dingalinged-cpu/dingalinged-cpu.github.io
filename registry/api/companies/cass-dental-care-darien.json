@@ -1,0 +1,57 @@
+{
+ "slug": "cass-dental-care-darien",
+ "name": "Cass Dental Care",
+ "categories": [
+  "dentist"
+ ],
+ "keywords": [
+  "dentist",
+  "dentist darien il"
+ ],
+ "services": [
+  {
+   "name": "dentist",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "7702 Cass Avenue #Suite 210",
+  "addressLocality": "Darien",
+  "addressRegion": "IL",
+  "postalCode": "60561",
+  "addressCountry": "US"
+ },
+ "city": "Darien",
+ "state": "IL",
+ "zip": "60561",
+ "geo": {
+  "lat": 41.749134,
+  "lon": -87.9740837
+ },
+ "phone": "+16308100444",
+ "website": "https://www.cassdentalcare.com/",
+ "schema_type": "Dentist",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/11848580468",
+ "osm": {
+  "type": "node",
+  "id": 11848580468,
+  "tags_used": {
+   "amenity": "dentist",
+   "healthcare": "dentist"
+  }
+ },
+ "municipality": "Darien",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/cass-dental-care-darien/",
+ "summary": "Cass Dental Care is a dentist in Darien, IL at 7702 Cass Avenue #Suite 210, Darien, IL 60561. Phone: +16308100444. Website: https://www.cassdentalcare.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

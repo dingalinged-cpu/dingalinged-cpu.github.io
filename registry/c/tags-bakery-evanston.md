@@ -1,0 +1,23 @@
+Tag's Bakery is a bakery in Evanston, IL at 2010 Central Street, Evanston, IL 60201. Phone: +18473281200. Website: https://www.tagsbakery.com/.
+
+# Tag's Bakery
+
+- Category: bakery
+- Services: bakery
+- Address: 2010 Central Street, Evanston, IL 60201
+- City: Evanston
+- State: IL
+- ZIP: 60201
+- Coordinates: 42.06419, -87.7014273
+- Phone: +18473281200
+- Website: https://www.tagsbakery.com/
+- Email: n/a
+- Opening hours (OSM syntax): Tu-Sa 07:30-15:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/tags-bakery-evanston/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/tags-bakery-evanston.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/2295252565 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

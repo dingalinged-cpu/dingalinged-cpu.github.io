@@ -1,0 +1,55 @@
+{
+ "slug": "krueger-funeral-home-blue-island",
+ "name": "Krueger Funeral Home",
+ "categories": [
+  "funeral home"
+ ],
+ "keywords": [
+  "funeral home",
+  "funeral home blue island il"
+ ],
+ "services": [
+  {
+   "name": "funeral home",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "13050 Greenwood Avenue",
+  "addressLocality": "Blue Island",
+  "addressRegion": "IL",
+  "postalCode": "60406",
+  "addressCountry": "US"
+ },
+ "city": "Blue Island",
+ "state": "IL",
+ "zip": "60406",
+ "geo": {
+  "lat": 41.6556278,
+  "lon": -87.6829452
+ },
+ "website": "https://kruegerfuneral.com/",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/1363947214",
+ "osm": {
+  "type": "way",
+  "id": 1363947214,
+  "tags_used": {
+   "shop": "funeral_directors"
+  }
+ },
+ "municipality": "Blue Island",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/krueger-funeral-home-blue-island/",
+ "summary": "Krueger Funeral Home is a funeral home in Blue Island, IL at 13050 Greenwood Avenue, Blue Island, IL 60406. Website: https://kruegerfuneral.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

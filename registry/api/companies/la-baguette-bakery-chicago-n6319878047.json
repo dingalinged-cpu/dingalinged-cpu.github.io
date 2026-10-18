@@ -1,0 +1,56 @@
+{
+ "slug": "la-baguette-bakery-chicago-n6319878047",
+ "name": "La Baguette Bakery",
+ "categories": [
+  "bakery"
+ ],
+ "keywords": [
+  "bakery",
+  "bakery chicago il"
+ ],
+ "services": [
+  {
+   "name": "bakery",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "5859 South Kedzie Avenue",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60629",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60629",
+ "geo": {
+  "lat": 41.7864585,
+  "lon": -87.7029294
+ },
+ "phone": "+17739250455",
+ "website": "https://labaguettemelrose.com/",
+ "schema_type": "Bakery",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/6319878047",
+ "osm": {
+  "type": "node",
+  "id": 6319878047,
+  "tags_used": {
+   "shop": "bakery"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/la-baguette-bakery-chicago-n6319878047/",
+ "summary": "La Baguette Bakery is a bakery in Chicago, IL at 5859 South Kedzie Avenue, Chicago, IL 60629. Phone: +17739250455. Website: https://labaguettemelrose.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

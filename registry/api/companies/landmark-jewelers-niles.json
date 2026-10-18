@@ -1,0 +1,60 @@
+{
+ "slug": "landmark-jewelers-niles",
+ "name": "Landmark Jewelers",
+ "categories": [
+  "jewelry store"
+ ],
+ "keywords": [
+  "jewelry store",
+  "jewelry store niles il"
+ ],
+ "services": [
+  {
+   "name": "jewelry store",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "8305 West Golf Road",
+  "addressLocality": "Niles",
+  "addressRegion": "IL",
+  "postalCode": "60714",
+  "addressCountry": "US"
+ },
+ "city": "Niles",
+ "state": "IL",
+ "zip": "60714",
+ "geo": {
+  "lat": 42.0521711,
+  "lon": -87.8352653
+ },
+ "phone": "+18475830000",
+ "website": "https://landmarkjewelers.com/",
+ "opening_hours": "Mo, Th-Fr 10:00-16:00; We 13:00-17:00 Sa 10:00-15:00",
+ "social": [
+  "https://www.facebook.com/p/Landmark-Jewelers-100047209815002/"
+ ],
+ "schema_type": "JewelryStore",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/13653920284",
+ "osm": {
+  "type": "node",
+  "id": 13653920284,
+  "tags_used": {
+   "shop": "jewelry"
+  }
+ },
+ "municipality": "Niles",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/landmark-jewelers-niles/",
+ "summary": "Landmark Jewelers is a jewelry store in Niles, IL at 8305 West Golf Road, Niles, IL 60714. Phone: +18475830000. Website: https://landmarkjewelers.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

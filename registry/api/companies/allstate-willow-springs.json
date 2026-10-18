@@ -1,0 +1,69 @@
+{
+ "slug": "allstate-willow-springs",
+ "name": "Allstate",
+ "categories": [
+  "insurance agent"
+ ],
+ "keywords": [
+  "insurance agent",
+  "insurance agency",
+  "insurance agents",
+  "insurance agent willow springs il",
+  "insurance agency willow springs il",
+  "insurance agents willow springs il"
+ ],
+ "services": [
+  {
+   "name": "insurance agent",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "insurance agency",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "insurance agents",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "400 Village Circle #A",
+  "addressLocality": "Willow Springs",
+  "addressRegion": "IL",
+  "postalCode": "60480",
+  "addressCountry": "US"
+ },
+ "city": "Willow Springs",
+ "state": "IL",
+ "zip": "60480",
+ "geo": {
+  "lat": 41.7340117,
+  "lon": -87.8765207
+ },
+ "website": "https://agents.allstate.com/hana-aref-willow-springs-il.html",
+ "brand": "Allstate",
+ "wikidata": "Q2645636",
+ "schema_type": "InsuranceAgency",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/13374876547",
+ "osm": {
+  "type": "node",
+  "id": 13374876547,
+  "tags_used": {
+   "office": "insurance"
+  }
+ },
+ "municipality": "Willow Springs",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/allstate-willow-springs/",
+ "summary": "Allstate is an insurance agent in Willow Springs, IL at 400 Village Circle #A, Willow Springs, IL 60480. Website: https://agents.allstate.com/hana-aref-willow-springs-il.html.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

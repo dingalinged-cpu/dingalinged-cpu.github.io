@@ -1,0 +1,23 @@
+Wheaton Eye Clinic is an eye care practice in Wheaton, IL.
+
+# Wheaton Eye Clinic
+
+- Category: eye doctor
+- Services: eye doctor
+- Address: Wheaton, IL
+- City: Wheaton
+- State: IL
+- ZIP: n/a
+- Coordinates: 41.8850402, -88.1062689
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/wheaton-eye-clinic-wheaton/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/wheaton-eye-clinic-wheaton.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/633133379 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

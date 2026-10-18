@@ -1,0 +1,51 @@
+{
+ "slug": "e-m-food-and-liquor-justice",
+ "name": "E.M. Food & Liquor",
+ "categories": [
+  "liquor store"
+ ],
+ "keywords": [
+  "liquor store",
+  "liquor store justice il"
+ ],
+ "services": [
+  {
+   "name": "liquor store",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Justice",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Justice",
+ "state": "IL",
+ "geo": {
+  "lat": 41.750376,
+  "lon": -87.8381851
+ },
+ "schema_type": "LiquorStore",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/13631164801",
+ "osm": {
+  "type": "node",
+  "id": 13631164801,
+  "tags_used": {
+   "shop": "alcohol"
+  }
+ },
+ "municipality": "Justice",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/e-m-food-and-liquor-justice/",
+ "summary": "E.M. Food & Liquor is a liquor store in Justice, IL.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,23 @@
+Jackson Hewitt is a tax preparation service in Bridgeview, IL at 8717 Harlem Avenue, Bridgeview, IL 60455.
+
+# Jackson Hewitt
+
+- Category: tax preparation
+- Services: tax preparation, tax preparer
+- Address: 8717 Harlem Avenue, Bridgeview, IL 60455
+- City: Bridgeview
+- State: IL
+- ZIP: 60455
+- Coordinates: 41.733141, -87.7984498
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/jackson-hewitt-bridgeview/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/jackson-hewitt-bridgeview.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9063292350 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

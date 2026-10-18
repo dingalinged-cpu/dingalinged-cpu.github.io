@@ -1,0 +1,23 @@
+U-Haul is a self-storage facility in Chicago, IL at 251 East 95th Street, Chicago, IL 60619.
+
+# U-Haul
+
+- Category: storage units
+- Services: storage units
+- Address: 251 East 95th Street, Chicago, IL 60619
+- City: Chicago
+- State: IL
+- ZIP: 60619
+- Coordinates: 41.7215502, -87.6171573
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/u-haul-chicago-w210814781/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/u-haul-chicago-w210814781.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/210814781 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

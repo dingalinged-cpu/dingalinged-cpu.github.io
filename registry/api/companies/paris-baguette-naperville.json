@@ -1,0 +1,58 @@
+{
+ "slug": "paris-baguette-naperville",
+ "name": "Paris Baguette",
+ "categories": [
+  "bakery"
+ ],
+ "keywords": [
+  "bakery",
+  "bakery naperville il"
+ ],
+ "services": [
+  {
+   "name": "bakery",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1295 East Ogden Avenue",
+  "addressLocality": "Naperville",
+  "addressRegion": "IL",
+  "postalCode": "60563",
+  "addressCountry": "US"
+ },
+ "city": "Naperville",
+ "state": "IL",
+ "zip": "60563",
+ "geo": {
+  "lat": 41.7976141,
+  "lon": -88.1231672
+ },
+ "phone": "+16307789800",
+ "website": "https://www.parisbaguette.com/",
+ "brand": "Paris Baguette",
+ "wikidata": "Q62605260",
+ "schema_type": "Bakery",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/12695573640",
+ "osm": {
+  "type": "node",
+  "id": 12695573640,
+  "tags_used": {
+   "shop": "bakery"
+  }
+ },
+ "municipality": "Naperville",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/paris-baguette-naperville/",
+ "summary": "Paris Baguette is a bakery in Naperville, IL at 1295 East Ogden Avenue, Naperville, IL 60563. Phone: +16307789800. Website: https://www.parisbaguette.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

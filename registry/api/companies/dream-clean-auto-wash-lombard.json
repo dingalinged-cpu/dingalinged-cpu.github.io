@@ -1,0 +1,55 @@
+{
+ "slug": "dream-clean-auto-wash-lombard",
+ "name": "Dream Clean Auto Wash",
+ "categories": [
+  "car wash"
+ ],
+ "keywords": [
+  "car wash",
+  "car wash lombard il"
+ ],
+ "services": [
+  {
+   "name": "car wash",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "200 West Roosevelt Road",
+  "addressLocality": "Lombard",
+  "addressRegion": "IL",
+  "postalCode": "60148",
+  "addressCountry": "US"
+ },
+ "city": "Lombard",
+ "state": "IL",
+ "zip": "60148",
+ "geo": {
+  "lat": 41.8604925,
+  "lon": -88.0204577
+ },
+ "opening_hours": "Mo-Su 08:00-20:00",
+ "schema_type": "AutoWash",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/482668927",
+ "osm": {
+  "type": "way",
+  "id": 482668927,
+  "tags_used": {
+   "amenity": "car_wash"
+  }
+ },
+ "municipality": "Lombard",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/dream-clean-auto-wash-lombard/",
+ "summary": "Dream Clean Auto Wash is a car wash in Lombard, IL at 200 West Roosevelt Road, Lombard, IL 60148.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

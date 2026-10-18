@@ -1,0 +1,63 @@
+{
+ "slug": "kats-heating-and-cooling-downers-grove",
+ "name": "Kats Heating and Cooling",
+ "categories": [
+  "hvac repair"
+ ],
+ "keywords": [
+  "hvac repair",
+  "heating and air",
+  "hvac repair downers grove il",
+  "heating and air downers grove il"
+ ],
+ "services": [
+  {
+   "name": "hvac repair",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "heating and air",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1509 Ogden Avenue",
+  "addressLocality": "Downers Grove",
+  "addressRegion": "IL",
+  "postalCode": "60515",
+  "addressCountry": "US"
+ },
+ "city": "Downers Grove",
+ "state": "IL",
+ "zip": "60515",
+ "geo": {
+  "lat": 41.8077325,
+  "lon": -88.0224362
+ },
+ "phone": "+17087106719",
+ "website": "https://www.katsheating.com/",
+ "opening_hours": "24/7",
+ "schema_type": "HVACBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/10720917400",
+ "osm": {
+  "type": "node",
+  "id": 10720917400,
+  "tags_used": {
+   "craft": "hvac"
+  }
+ },
+ "municipality": "Downers Grove",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/kats-heating-and-cooling-downers-grove/",
+ "summary": "Kats Heating and Cooling is a HVAC contractor in Downers Grove, IL at 1509 Ogden Avenue, Downers Grove, IL 60515. Phone: +17087106719. Website: https://www.katsheating.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

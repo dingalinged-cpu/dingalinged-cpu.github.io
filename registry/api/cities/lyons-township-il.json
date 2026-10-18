@@ -1,0 +1,81 @@
+{
+ "place": "Lyons Township, IL",
+ "slug": "lyons-township-il",
+ "count": 2,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "auto repair lyons township il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-lyons-township-il.json"
+  },
+  {
+   "keyword": "mattress store lyons township il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mattress-store-lyons-township-il.json"
+  },
+  {
+   "keyword": "mechanic lyons township il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-lyons-township-il.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "valvoline-lyons-township",
+   "name": "Valvoline",
+   "summary": "Valvoline is an auto repair shop in Lyons Township, IL. Website: https://store.vioc.com/il/lagrangehighlands/oil-change-gr0022.html.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/valvoline-lyons-township/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/valvoline-lyons-township.json",
+   "address": {
+    "addressLocality": "Lyons Township",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Lyons Township",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7897978,
+    "lon": -87.8885597
+   },
+   "website": "https://store.vioc.com/il/lagrangehighlands/oil-change-gr0022.html",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1150636877",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "green-mattress-lyons-township",
+   "name": "Green Mattress",
+   "summary": "Green Mattress is a mattress store in Lyons Township, IL.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/green-mattress-lyons-township/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/green-mattress-lyons-township.json",
+   "address": {
+    "addressLocality": "Lyons Township",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Lyons Township",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7897477,
+    "lon": -87.8891172
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10722087999",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

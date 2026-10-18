@@ -1,0 +1,56 @@
+{
+ "slug": "plum-grove-dental-center-palatine",
+ "name": "Plum Grove Dental Center",
+ "categories": [
+  "dentist"
+ ],
+ "keywords": [
+  "dentist",
+  "dentist palatine il"
+ ],
+ "services": [
+  {
+   "name": "dentist",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Palatine",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Palatine",
+ "state": "IL",
+ "geo": {
+  "lat": 42.1146211,
+  "lon": -88.0440513
+ },
+ "phone": "+18473594700",
+ "website": "https://plumgrovedental.com/",
+ "email": "info@plumgrovedental.com",
+ "opening_hours": "Mo,We-Fr 08:00-17:00; Tu 12:00-20:00; Sa 08:00-12:00 \"alternating Saturdays\"",
+ "schema_type": "Dentist",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/12960297569",
+ "osm": {
+  "type": "node",
+  "id": 12960297569,
+  "tags_used": {
+   "amenity": "dentist",
+   "healthcare": "dentist"
+  }
+ },
+ "municipality": "Palatine",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/plum-grove-dental-center-palatine/",
+ "summary": "Plum Grove Dental Center is a dentist in Palatine, IL. Phone: +18473594700. Website: https://plumgrovedental.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

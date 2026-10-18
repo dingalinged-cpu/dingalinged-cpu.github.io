@@ -1,0 +1,67 @@
+{
+ "slug": "illinois-state-insurance-agency-inc-palatine",
+ "name": "Illinois State Insurance Agency, INC.",
+ "categories": [
+  "insurance agent"
+ ],
+ "keywords": [
+  "insurance agent",
+  "insurance agency",
+  "insurance agents",
+  "insurance agent palatine il",
+  "insurance agency palatine il",
+  "insurance agents palatine il"
+ ],
+ "services": [
+  {
+   "name": "insurance agent",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "insurance agency",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "insurance agents",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1717 North Rand Road",
+  "addressLocality": "Palatine",
+  "addressRegion": "IL",
+  "postalCode": "60074",
+  "addressCountry": "US"
+ },
+ "city": "Palatine",
+ "state": "IL",
+ "zip": "60074",
+ "geo": {
+  "lat": 42.1406417,
+  "lon": -88.0228885
+ },
+ "phone": "+18473584800",
+ "schema_type": "InsuranceAgency",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/6775493665",
+ "osm": {
+  "type": "node",
+  "id": 6775493665,
+  "tags_used": {
+   "office": "insurance"
+  }
+ },
+ "municipality": "Palatine",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/illinois-state-insurance-agency-inc-palatine/",
+ "summary": "Illinois State Insurance Agency, INC. is an insurance agent in Palatine, IL at 1717 North Rand Road, Palatine, IL 60074. Phone: +18473584800.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

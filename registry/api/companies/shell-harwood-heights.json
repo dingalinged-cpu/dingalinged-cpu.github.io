@@ -1,0 +1,56 @@
+{
+ "slug": "shell-harwood-heights",
+ "name": "Shell",
+ "categories": [
+  "car wash"
+ ],
+ "keywords": [
+  "car wash",
+  "car wash harwood heights il"
+ ],
+ "services": [
+  {
+   "name": "car wash",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "7455 West Lawrence Avenue",
+  "addressLocality": "Harwood Heights",
+  "addressRegion": "IL",
+  "postalCode": "60706",
+  "addressCountry": "US"
+ },
+ "city": "Harwood Heights",
+ "state": "IL",
+ "zip": "60706",
+ "geo": {
+  "lat": 41.9666322,
+  "lon": -87.8141377
+ },
+ "brand": "Shell",
+ "wikidata": "Q110716465",
+ "schema_type": "AutoWash",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/1327904491",
+ "osm": {
+  "type": "way",
+  "id": 1327904491,
+  "tags_used": {
+   "amenity": "car_wash"
+  }
+ },
+ "municipality": "Harwood Heights",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/shell-harwood-heights/",
+ "summary": "Shell is a car wash in Harwood Heights, IL at 7455 West Lawrence Avenue, Harwood Heights, IL 60706.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

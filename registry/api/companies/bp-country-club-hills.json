@@ -1,0 +1,56 @@
+{
+ "slug": "bp-country-club-hills",
+ "name": "BP",
+ "categories": [
+  "car wash"
+ ],
+ "keywords": [
+  "car wash",
+  "car wash country club hills il"
+ ],
+ "services": [
+  {
+   "name": "car wash",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "18308 Cicero Avenue",
+  "addressLocality": "Country Club Hills",
+  "addressRegion": "IL",
+  "postalCode": "60478",
+  "addressCountry": "US"
+ },
+ "city": "Country Club Hills",
+ "state": "IL",
+ "zip": "60478",
+ "geo": {
+  "lat": 41.556124,
+  "lon": -87.7338948
+ },
+ "brand": "BP",
+ "wikidata": "Q152057",
+ "schema_type": "AutoWash",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/1336317608",
+ "osm": {
+  "type": "way",
+  "id": 1336317608,
+  "tags_used": {
+   "amenity": "car_wash"
+  }
+ },
+ "municipality": "Country Club Hills",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/bp-country-club-hills/",
+ "summary": "BP is a car wash in Country Club Hills, IL at 18308 Cicero Avenue, Country Club Hills, IL 60478.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

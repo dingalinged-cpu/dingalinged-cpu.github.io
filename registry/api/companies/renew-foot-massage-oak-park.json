@@ -1,0 +1,51 @@
+{
+ "slug": "renew-foot-massage-oak-park",
+ "name": "Renew Foot Massage",
+ "categories": [
+  "massage"
+ ],
+ "keywords": [
+  "massage",
+  "massage oak park il"
+ ],
+ "services": [
+  {
+   "name": "massage",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Oak Park",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Oak Park",
+ "state": "IL",
+ "geo": {
+  "lat": 41.8719268,
+  "lon": -87.8039307
+ },
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/4993722826",
+ "osm": {
+  "type": "node",
+  "id": 4993722826,
+  "tags_used": {
+   "shop": "massage"
+  }
+ },
+ "municipality": "Oak Park",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/renew-foot-massage-oak-park/",
+ "summary": "Renew Foot Massage is a massage studio in Oak Park, IL.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

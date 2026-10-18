@@ -1,4 +1,4 @@
-The top unpaid gym listing for Minneapolis, MN is Anytime Fitness (a gym in Minneapolis, MN at 111 Washington Avenue North #100, Minneapolis, MN 55401. Phone: +16123396655. Website: https://www.anytimefitness.com/gyms/281/minneapolis-mn-55401/). 42 gym businesses are listed for Minneapolis, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Minneapolis, MN is Anytime Fitness (a gym in Minneapolis, MN at 111 Washington Avenue North #100, Minneapolis, MN 55401. Phone: +16123396655. Website: https://www.anytimefitness.com/gyms/281/minneapolis-mn-55401/). 42 gym businesses are listed for Minneapolis, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Minneapolis, MN?
 
@@ -48,5 +48,19 @@ Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked
 40. Anytime Fitness | trust 0.0 | Anytime Fitness is a gym in Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/anytime-fitness-minneapolis-n8947363971/
 41. Basecamp Fitness | trust 0.0 | Basecamp Fitness is a gym in Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/basecamp-fitness-minneapolis/
 42. Paddlesculpt | trust 0.0 | Paddlesculpt is a gym in Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/paddlesculpt-minneapolis/
+
+## Market data (for advertisers and agents)
+- Keyword: gym minneapolis mn | category: Fitness | industry benchmark: Health & Fitness
+- US monthly searches: 1,830,000/mo (cited; Google Keyword Planner export (US, 12-mo avg Sep 2025-Aug 2026; top-of-page bids converted INR->USD at 95.82 ECB 2026-09-25); as of 2026-08; phrase 'gym near me')
+- Local monthly searches (Minneapolis-St. Paul-Bloomington, MN-WI metro): ~20,000 (estimate: estimate: US monthly volume x metro population share (Census V2025 metro pop / US pop 341,784,857); rounded to 2 significant figures. Counts all searches for the service in the metro, not only searches that type this city name.)
+- CPC benchmark: low $5.00, median $6.17, high $6.17 (Health & Fitness median CPC 2026 $6.17 [https://www.localiq.com/blog/search-advertising-benchmarks]; Health & Fitness median CPC 2025 $5.00 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Google Keyword Planner top-of-page bid for 'gym near me': $1.67-$6.14 (as of 2026-08, https://meetadmiral.com/downloads/google-ads-cost-us-2025-09-to-2026-08.csv)
+- Ad competition: medium (Google Keyword Planner competition index (advertiser density))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 42
+- Equivalent Google Ads cost per month: ~$2,400 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/gym.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#gym-minneapolis-mn | Estimates CC-BY-4.0; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

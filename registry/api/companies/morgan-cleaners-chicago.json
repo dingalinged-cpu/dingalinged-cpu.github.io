@@ -1,0 +1,55 @@
+{
+ "slug": "morgan-cleaners-chicago",
+ "name": "Morgan Cleaners",
+ "categories": [
+  "dry cleaners"
+ ],
+ "keywords": [
+  "dry cleaners",
+  "dry cleaners chicago il"
+ ],
+ "services": [
+  {
+   "name": "dry cleaners",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "949 West Madison Street #48",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60607",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60607",
+ "geo": {
+  "lat": 41.8815323,
+  "lon": -87.6518413
+ },
+ "opening_hours": "Mo-Fr 07:00-18:00; Sa 08:00-17:00",
+ "schema_type": "DryCleaningOrLaundry",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/12070081175",
+ "osm": {
+  "type": "node",
+  "id": 12070081175,
+  "tags_used": {
+   "shop": "dry_cleaning"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/morgan-cleaners-chicago/",
+ "summary": "Morgan Cleaners is a dry cleaner in Chicago, IL at 949 West Madison Street #48, Chicago, IL 60607.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

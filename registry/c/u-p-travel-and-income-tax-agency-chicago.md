@@ -1,0 +1,23 @@
+U. P. Travel & Income Tax Agency is a tax preparation service in Chicago, IL at 10510 South Ewing Avenue, Chicago, IL 60617.
+
+# U. P. Travel & Income Tax Agency
+
+- Category: tax preparation
+- Services: tax preparation, tax preparer
+- Address: 10510 South Ewing Avenue, Chicago, IL 60617
+- City: Chicago
+- State: IL
+- ZIP: 60617
+- Coordinates: 41.7041703, -87.5354466
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/u-p-travel-and-income-tax-agency-chicago/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/u-p-travel-and-income-tax-agency-chicago.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12537246924 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

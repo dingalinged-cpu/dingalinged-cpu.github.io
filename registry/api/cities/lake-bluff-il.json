@@ -1,0 +1,49 @@
+{
+ "place": "Lake Bluff, IL",
+ "slug": "lake-bluff-il",
+ "count": 1,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "used cars for sale lake bluff il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/used-cars-for-sale-lake-bluff-il.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "kunes-lakes-chevorlet-lake-bluff",
+   "name": "Kunes Lakes Chevorlet",
+   "summary": "Kunes Lakes Chevorlet is an used car dealer in Lake Bluff, IL at 1 Sherwood Terrace, Lake Bluff, IL 60044. Phone: +18478101975.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kunes-lakes-chevorlet-lake-bluff/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kunes-lakes-chevorlet-lake-bluff.json",
+   "address": {
+    "streetAddress": "1 Sherwood Terrace",
+    "addressLocality": "Lake Bluff",
+    "addressRegion": "IL",
+    "postalCode": "60044",
+    "addressCountry": "US"
+   },
+   "city": "Lake Bluff",
+   "state": "IL",
+   "zip": "60044",
+   "geo": {
+    "lat": 42.2692093,
+    "lon": -87.8661923
+   },
+   "phone": "+18478101975",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/372791844",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

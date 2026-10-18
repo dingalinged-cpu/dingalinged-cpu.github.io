@@ -1,0 +1,54 @@
+{
+ "slug": "emeralds-car-wash-romeoville",
+ "name": "Emerald's Car Wash",
+ "categories": [
+  "car wash"
+ ],
+ "keywords": [
+  "car wash",
+  "car wash romeoville il"
+ ],
+ "services": [
+  {
+   "name": "car wash",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "715 Independence Boulevard",
+  "addressLocality": "Romeoville",
+  "addressRegion": "IL",
+  "postalCode": "60446",
+  "addressCountry": "US"
+ },
+ "city": "Romeoville",
+ "state": "IL",
+ "zip": "60446",
+ "geo": {
+  "lat": 41.655984,
+  "lon": -88.078594
+ },
+ "schema_type": "AutoWash",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/3192265640",
+ "osm": {
+  "type": "node",
+  "id": 3192265640,
+  "tags_used": {
+   "amenity": "car_wash"
+  }
+ },
+ "municipality": "Romeoville",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/emeralds-car-wash-romeoville/",
+ "summary": "Emerald's Car Wash is a car wash in Romeoville, IL at 715 Independence Boulevard, Romeoville, IL 60446.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

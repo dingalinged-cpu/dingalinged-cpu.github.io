@@ -22,7 +22,19 @@
    "format": "jsonl"
   },
   {
+   "path": "city/addison-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/addison-township-il.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/albertville-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/alsip-il.jsonl",
    "format": "jsonl"
   },
   {
@@ -38,11 +50,79 @@
    "format": "jsonl"
   },
   {
+   "path": "city/arlington-heights-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/bannockburn-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/barrington-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/barrington-township-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/bartlett-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/bedford-park-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/bellwood-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/bensenville-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/berkeley-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/berwyn-il.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/blaine-mn.jsonl",
    "format": "jsonl"
   },
   {
+   "path": "city/bloomingdale-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/bloomingdale-township-il.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/bloomington-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/blue-island-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/bolingbrook-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/bridgeview-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/broadview-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/brookfield-il.jsonl",
    "format": "jsonl"
   },
   {
@@ -54,7 +134,35 @@
    "format": "jsonl"
   },
   {
+   "path": "city/buffalo-grove-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/burbank-il.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/burnsville-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/burr-ridge-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/calumet-city-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/calumet-park-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/calumet-township-in.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/carol-stream-il.jsonl",
    "format": "jsonl"
   },
   {
@@ -74,7 +182,27 @@
    "format": "jsonl"
   },
   {
+   "path": "city/chicago-heights-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/chicago-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/chicago-ridge-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/cicero-il.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/circle-pines-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/clarendon-hills-il.jsonl",
    "format": "jsonl"
   },
   {
@@ -94,7 +222,35 @@
    "format": "jsonl"
   },
   {
+   "path": "city/country-club-hills-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/countryside-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/crest-hill-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/crestwood-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/crete-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/crown-point-in.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/crystal-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/darien-il.jsonl",
    "format": "jsonl"
   },
   {
@@ -102,7 +258,43 @@
    "format": "jsonl"
   },
   {
+   "path": "city/deer-park-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/deerfield-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/des-plaines-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/dixmoor-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/dolton-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/downers-grove-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/dyer-in.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/eagan-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/east-chicago-in.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/east-hazel-crest-il.jsonl",
    "format": "jsonl"
   },
   {
@@ -114,6 +306,38 @@
    "format": "jsonl"
   },
   {
+   "path": "city/ela-township-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/elk-grove-township-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/elk-grove-village-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/elmhurst-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/elmwood-park-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/elwood-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/evanston-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/evergreen-park-il.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/excelsior-mn.jsonl",
    "format": "jsonl"
   },
@@ -122,7 +346,19 @@
    "format": "jsonl"
   },
   {
+   "path": "city/flossmoor-il.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/forest-lake-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/forest-park-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/forest-view-il.jsonl",
    "format": "jsonl"
   },
   {
@@ -130,7 +366,39 @@
    "format": "jsonl"
   },
   {
+   "path": "city/frankfort-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/franklin-park-il.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/fridley-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/gary-in.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/glen-ellyn-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/glencoe-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/glendale-heights-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/glenview-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/glenwood-il.jsonl",
    "format": "jsonl"
   },
   {
@@ -146,11 +414,87 @@
    "format": "jsonl"
   },
   {
+   "path": "city/griffith-in.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/ham-lake-mn.jsonl",
    "format": "jsonl"
   },
   {
+   "path": "city/hammond-in.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/hanover-park-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/harvey-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/harwood-heights-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/hawthorn-woods-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/hazel-crest-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/hickory-hills-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/highland-in.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/highland-park-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/highwood-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/hillside-il.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/hilltop-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/hinsdale-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/hobart-in.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/hodgkins-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/hoffman-estates-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/homer-glen-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/hometown-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/homewood-il.jsonl",
    "format": "jsonl"
   },
   {
@@ -162,7 +506,67 @@
    "format": "jsonl"
   },
   {
+   "path": "city/indian-creek-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/indian-head-park-il.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/inver-grove-heights-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/island-lake-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/itasca-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/joliet-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/justice-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/kenilworth-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/kildeer-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/la-grange-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/la-grange-park-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/lake-bluff-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/lake-forest-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/lake-station-in.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/lake-zurich-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/lansing-il.jsonl",
    "format": "jsonl"
   },
   {
@@ -170,7 +574,31 @@
    "format": "jsonl"
   },
   {
+   "path": "city/lemont-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/lemont-township-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/leyden-township-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/libertyville-il.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/lilydale-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/lincolnshire-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/lincolnwood-il.jsonl",
    "format": "jsonl"
   },
   {
@@ -178,7 +606,23 @@
    "format": "jsonl"
   },
   {
+   "path": "city/lisle-il.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/little-canada-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/lockport-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/lombard-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/long-grove-il.jsonl",
    "format": "jsonl"
   },
   {
@@ -190,7 +634,27 @@
    "format": "jsonl"
   },
   {
+   "path": "city/lynwood-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/lyons-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/lyons-township-il.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/mahtomedi-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/maine-township-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/manhattan-il.jsonl",
    "format": "jsonl"
   },
   {
@@ -206,6 +670,22 @@
    "format": "jsonl"
   },
   {
+   "path": "city/markham-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/matteson-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/maywood-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/mccook-il.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/medicine-lake-mn.jsonl",
    "format": "jsonl"
   },
@@ -214,7 +694,23 @@
    "format": "jsonl"
   },
   {
+   "path": "city/melrose-park-il.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/mendota-heights-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/merrillville-in.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/merrionette-park-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/midlothian-il.jsonl",
    "format": "jsonl"
   },
   {
@@ -230,11 +726,39 @@
    "format": "jsonl"
   },
   {
+   "path": "city/mokena-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/monee-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/morton-grove-il.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/mound-mn.jsonl",
    "format": "jsonl"
   },
   {
    "path": "city/mounds-view-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/mount-prospect-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/mundelein-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/munster-in.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/naperville-il.jsonl",
    "format": "jsonl"
   },
   {
@@ -246,7 +770,27 @@
    "format": "jsonl"
   },
   {
+   "path": "city/new-lenox-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/new-trier-township-il.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/newport-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/niles-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/norridge-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/north-barrington-il.jsonl",
    "format": "jsonl"
   },
   {
@@ -254,11 +798,63 @@
    "format": "jsonl"
   },
   {
+   "path": "city/north-riverside-il.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/north-saint-paul-mn.jsonl",
    "format": "jsonl"
   },
   {
+   "path": "city/northbrook-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/northfield-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/northfield-township-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/northlake-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/oak-brook-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/oak-forest-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/oak-lawn-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/oak-park-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/oakbrook-terrace-il.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/oakdale-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/olympia-fields-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/orland-hills-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/orland-park-il.jsonl",
    "format": "jsonl"
   },
   {
@@ -270,7 +866,51 @@
    "format": "jsonl"
   },
   {
+   "path": "city/palatine-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/palos-heights-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/palos-hills-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/palos-park-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/park-forest-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/park-ridge-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/phoenix-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/plainfield-il.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/plymouth-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/posen-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/prospect-heights-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/proviso-township-il.jsonl",
    "format": "jsonl"
   },
   {
@@ -278,7 +918,39 @@
    "format": "jsonl"
   },
   {
+   "path": "city/rich-township-il.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/richfield-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/richton-park-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/river-forest-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/river-grove-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/riverdale-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/riverside-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/riverwoods-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/robbins-il.jsonl",
    "format": "jsonl"
   },
   {
@@ -295,6 +967,22 @@
   },
   {
    "path": "city/rogers-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/rolling-meadows-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/romeoville-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/roselle-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/rosemont-il.jsonl",
    "format": "jsonl"
   },
   {
@@ -326,6 +1014,22 @@
    "format": "jsonl"
   },
   {
+   "path": "city/schaumburg-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/schaumburg-township-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/schererville-in.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/schiller-park-il.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/shakopee-mn.jsonl",
    "format": "jsonl"
   },
@@ -335,6 +1039,22 @@
   },
   {
    "path": "city/shorewood-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/skokie-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/south-barrington-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/south-chicago-heights-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/south-holland-il.jsonl",
    "format": "jsonl"
   },
   {
@@ -350,7 +1070,43 @@
    "format": "jsonl"
   },
   {
+   "path": "city/st-john-in.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/steger-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/stickney-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/stickney-township-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/stone-park-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/streamwood-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/summit-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/tinley-park-il.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/tonka-bay-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/university-park-il.jsonl",
    "format": "jsonl"
   },
   {
@@ -358,7 +1114,23 @@
    "format": "jsonl"
   },
   {
+   "path": "city/vernon-hills-il.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/victoria-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/villa-park-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/warrenville-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/wauconda-il.jsonl",
    "format": "jsonl"
   },
   {
@@ -370,6 +1142,34 @@
    "format": "jsonl"
   },
   {
+   "path": "city/westchester-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/western-springs-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/westmont-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/wheatland-township-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/wheaton-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/wheeling-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/wheeling-township-il.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/white-bear-lake-mn.jsonl",
    "format": "jsonl"
   },
@@ -378,7 +1178,47 @@
    "format": "jsonl"
   },
   {
+   "path": "city/whiting-in.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/willow-springs-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/willowbrook-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/wilmette-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/winfield-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/winnetka-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/wood-dale-il.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/woodbury-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/woodridge-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/worth-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/worth-township-il.jsonl",
    "format": "jsonl"
   },
   {
@@ -399,6 +1239,10 @@
   },
   {
    "path": "category/assisted-living.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/audiologist.jsonl",
    "format": "jsonl"
   },
   {
@@ -426,6 +1270,10 @@
    "format": "jsonl"
   },
   {
+   "path": "category/cabinet-installation.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "category/car-inspection.jsonl",
    "format": "jsonl"
   },
@@ -442,7 +1290,15 @@
    "format": "jsonl"
   },
   {
+   "path": "category/chimney-sweep.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "category/chiropractor.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/computer-repair.jsonl",
    "format": "jsonl"
   },
   {
@@ -479,6 +1335,10 @@
   },
   {
    "path": "category/dog-groomer.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/driveway-paving.jsonl",
    "format": "jsonl"
   },
   {
@@ -634,6 +1494,10 @@
    "format": "jsonl"
   },
   {
+   "path": "category/orthodontist.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "category/orthopedic-surgeon.jsonl",
    "format": "jsonl"
   },
@@ -746,6 +1610,10 @@
    "format": "jsonl"
   },
   {
+   "path": "category/tile-installation.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "category/tire-shop.jsonl",
    "format": "jsonl"
   },
@@ -776,7 +1644,32 @@
   {
    "path": "category/yoga-classes.jsonl",
    "format": "jsonl"
+  },
+  {
+   "path": "keyword_metrics.csv",
+   "format": "csv",
+   "licenses": [
+    {
+     "name": "CC-BY-4.0",
+     "path": "https://creativecommons.org/licenses/by/4.0/"
+    }
+   ],
+   "description": "Keyword market metrics (search volume, CPC, competition, auction prices); card: keyword_metrics.md"
+  },
+  {
+   "path": "keyword_metrics.jsonl",
+   "format": "jsonl",
+   "licenses": [
+    {
+     "name": "CC-BY-4.0",
+     "path": "https://creativecommons.org/licenses/by/4.0/"
+    }
+   ]
+  },
+  {
+   "path": "keyword_metrics_sources.json",
+   "format": "json"
   }
  ],
- "updated": "2026-10-17"
+ "updated": "2026-10-18"
 }

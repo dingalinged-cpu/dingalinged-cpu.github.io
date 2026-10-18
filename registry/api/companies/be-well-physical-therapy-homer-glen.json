@@ -1,0 +1,54 @@
+{
+ "slug": "be-well-physical-therapy-homer-glen",
+ "name": "Be Well Physical Therapy",
+ "categories": [
+  "physical therapy"
+ ],
+ "keywords": [
+  "physical therapy",
+  "physical therapy homer glen il"
+ ],
+ "services": [
+  {
+   "name": "physical therapy",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "12509 West 159th Street",
+  "addressLocality": "Homer Glen",
+  "addressRegion": "IL",
+  "postalCode": "60491",
+  "addressCountry": "US"
+ },
+ "city": "Homer Glen",
+ "state": "IL",
+ "zip": "60491",
+ "geo": {
+  "lat": 41.5996745,
+  "lon": -87.9229609
+ },
+ "schema_type": "Physiotherapy",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/11158136515",
+ "osm": {
+  "type": "node",
+  "id": 11158136515,
+  "tags_used": {
+   "healthcare": "physiotherapist"
+  }
+ },
+ "municipality": "Homer Glen",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/be-well-physical-therapy-homer-glen/",
+ "summary": "Be Well Physical Therapy is a physical therapy clinic in Homer Glen, IL at 12509 West 159th Street, Homer Glen, IL 60491.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

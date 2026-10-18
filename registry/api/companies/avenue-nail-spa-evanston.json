@@ -1,0 +1,55 @@
+{
+ "slug": "avenue-nail-spa-evanston",
+ "name": "Avenue Nail Spa",
+ "categories": [
+  "nail salon"
+ ],
+ "keywords": [
+  "nail salon",
+  "nail salon evanston il"
+ ],
+ "services": [
+  {
+   "name": "nail salon",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1239 Chicago Avenue",
+  "addressLocality": "Evanston",
+  "addressRegion": "IL",
+  "postalCode": "60202",
+  "addressCountry": "US"
+ },
+ "city": "Evanston",
+ "state": "IL",
+ "zip": "60202",
+ "geo": {
+  "lat": 42.0405861,
+  "lon": -87.6803336
+ },
+ "schema_type": "NailSalon",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/2212088886",
+ "osm": {
+  "type": "node",
+  "id": 2212088886,
+  "tags_used": {
+   "shop": "beauty",
+   "beauty": "nails"
+  }
+ },
+ "municipality": "Evanston",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/avenue-nail-spa-evanston/",
+ "summary": "Avenue Nail Spa is a nail salon in Evanston, IL at 1239 Chicago Avenue, Evanston, IL 60202.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

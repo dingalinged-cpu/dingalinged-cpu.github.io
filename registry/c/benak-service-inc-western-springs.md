@@ -1,0 +1,23 @@
+Benak Service, Inc. is an auto repair shop in Western Springs, IL at 701 Burlington Avenue, Western Springs, IL 60558. Phone: +17082464813. Website: https://www.benakservice.com/.
+
+# Benak Service, Inc.
+
+- Category: auto repair
+- Services: auto repair, mechanic, oil change
+- Address: 701 Burlington Avenue, Western Springs, IL 60558
+- City: Western Springs
+- State: IL
+- ZIP: 60558
+- Coordinates: 41.8094154, -87.8976667
+- Phone: +17082464813
+- Website: https://www.benakservice.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/benak-service-inc-western-springs/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/benak-service-inc-western-springs.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9603239075 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

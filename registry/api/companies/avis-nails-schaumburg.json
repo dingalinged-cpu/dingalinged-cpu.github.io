@@ -1,0 +1,57 @@
+{
+ "slug": "avis-nails-schaumburg",
+ "name": "Avis Nails",
+ "categories": [
+  "nail salon"
+ ],
+ "keywords": [
+  "nail salon",
+  "nail salon schaumburg il"
+ ],
+ "services": [
+  {
+   "name": "nail salon",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "5 Woodfield Mall #G126",
+  "addressLocality": "Schaumburg",
+  "addressRegion": "IL",
+  "postalCode": "60173",
+  "addressCountry": "US"
+ },
+ "city": "Schaumburg",
+ "state": "IL",
+ "zip": "60173",
+ "geo": {
+  "lat": 42.0456185,
+  "lon": -88.0371299
+ },
+ "phone": "+18474138810",
+ "website": "https://avisnails.net/",
+ "schema_type": "NailSalon",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/5332459371",
+ "osm": {
+  "type": "node",
+  "id": 5332459371,
+  "tags_used": {
+   "shop": "beauty",
+   "beauty": "nails"
+  }
+ },
+ "municipality": "Schaumburg",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/avis-nails-schaumburg/",
+ "summary": "Avis Nails is a nail salon in Schaumburg, IL at 5 Woodfield Mall #G126, Schaumburg, IL 60173. Phone: +18474138810. Website: https://avisnails.net/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

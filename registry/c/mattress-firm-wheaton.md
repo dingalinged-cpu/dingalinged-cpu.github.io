@@ -1,0 +1,23 @@
+Mattress Firm is a mattress store in Wheaton, IL at 22 Danada Square West, Wheaton, IL 60189. Phone: +16306684955. Website: https://www.mattressfirm.com/en-us/stores/il/wheaton/119168/.
+
+# Mattress Firm
+
+- Category: mattress store
+- Services: mattress store
+- Address: 22 Danada Square West, Wheaton, IL 60189
+- City: Wheaton
+- State: IL
+- ZIP: 60189
+- Coordinates: 41.8296078, -88.1007918
+- Phone: +16306684955
+- Website: https://www.mattressfirm.com/en-us/stores/il/wheaton/119168/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/mattress-firm-wheaton/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-wheaton.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9276601530 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

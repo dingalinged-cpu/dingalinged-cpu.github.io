@@ -1,0 +1,56 @@
+{
+ "slug": "speedy-wash-east-chicago",
+ "name": "Speedy Wash",
+ "categories": [
+  "car wash"
+ ],
+ "keywords": [
+  "car wash",
+  "car wash east chicago in"
+ ],
+ "services": [
+  {
+   "name": "car wash",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "3956 Guthrie Street",
+  "addressLocality": "East Chicago",
+  "addressRegion": "IN",
+  "postalCode": "46312",
+  "addressCountry": "US"
+ },
+ "city": "East Chicago",
+ "state": "IN",
+ "zip": "46312",
+ "geo": {
+  "lat": 41.6406065,
+  "lon": -87.4334513
+ },
+ "brand": "Speedway",
+ "wikidata": "Q7575683",
+ "schema_type": "AutoWash",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/991003724",
+ "osm": {
+  "type": "way",
+  "id": 991003724,
+  "tags_used": {
+   "amenity": "car_wash"
+  }
+ },
+ "municipality": "East Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/speedy-wash-east-chicago/",
+ "summary": "Speedy Wash is a car wash in East Chicago, IN at 3956 Guthrie Street, East Chicago, IN 46312.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

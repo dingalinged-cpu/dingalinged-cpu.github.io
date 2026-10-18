@@ -1,0 +1,64 @@
+{
+ "slug": "cinnaholic-chicago",
+ "name": "Cinnaholic",
+ "categories": [
+  "bakery"
+ ],
+ "keywords": [
+  "bakery",
+  "bakery chicago il"
+ ],
+ "services": [
+  {
+   "name": "bakery",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1254 South Canal Street",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60607",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60607",
+ "geo": {
+  "lat": 41.8656985,
+  "lon": -87.6401985
+ },
+ "phone": "+12245757655",
+ "website": "https://locations.cinnaholic.com/ll/us/il/chicago/130/",
+ "email": "cinnaholicsouthloop@gmail.com",
+ "opening_hours": "Fr-We 11:00-21:00",
+ "social": [
+  "https://cinnaholic.chicago.southloop/",
+  "https://cinnaholic.southloop/"
+ ],
+ "brand": "Cinnaholic",
+ "wikidata": "Q48965480",
+ "schema_type": "Bakery",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/13396939774",
+ "osm": {
+  "type": "node",
+  "id": 13396939774,
+  "tags_used": {
+   "shop": "bakery"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/cinnaholic-chicago/",
+ "summary": "Cinnaholic is a bakery in Chicago, IL at 1254 South Canal Street, Chicago, IL 60607. Phone: +12245757655. Website: https://locations.cinnaholic.com/ll/us/il/chicago/130/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,59 @@
+{
+ "slug": "life-time-bloomingdale",
+ "name": "Life Time",
+ "categories": [
+  "gym"
+ ],
+ "keywords": [
+  "gym",
+  "gym bloomingdale il"
+ ],
+ "services": [
+  {
+   "name": "gym",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "455 Scott Drive",
+  "addressLocality": "Bloomingdale",
+  "addressRegion": "IL",
+  "postalCode": "60108",
+  "addressCountry": "US"
+ },
+ "city": "Bloomingdale",
+ "state": "IL",
+ "zip": "60108",
+ "geo": {
+  "lat": 41.9447251,
+  "lon": -88.1229184
+ },
+ "phone": "+16305824100",
+ "website": "https://www.lifetime.life/life-time-locations/il-bloomingdale.html",
+ "opening_hours": "24/7",
+ "brand": "Life Time",
+ "wikidata": "Q6545004",
+ "schema_type": "ExerciseGym",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/298735484",
+ "osm": {
+  "type": "way",
+  "id": 298735484,
+  "tags_used": {
+   "leisure": "fitness_centre"
+  }
+ },
+ "municipality": "Bloomingdale",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/life-time-bloomingdale/",
+ "summary": "Life Time is a gym in Bloomingdale, IL at 455 Scott Drive, Bloomingdale, IL 60108. Phone: +16305824100. Website: https://www.lifetime.life/life-time-locations/il-bloomingdale.html.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,51 @@
+{
+ "slug": "kennedys-martial-arts-academy-elk-grove-village",
+ "name": "Kennedy's Martial Arts Academy",
+ "categories": [
+  "martial arts"
+ ],
+ "keywords": [
+  "martial arts",
+  "martial arts elk grove village il"
+ ],
+ "services": [
+  {
+   "name": "martial arts",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Elk Grove Village",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Elk Grove Village",
+ "state": "IL",
+ "geo": {
+  "lat": 42.0026899,
+  "lon": -88.0309448
+ },
+ "schema_type": "SportsActivityLocation",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/14006830633",
+ "osm": {
+  "type": "node",
+  "id": 14006830633,
+  "tags_used": {
+   "amenity": "dojo"
+  }
+ },
+ "municipality": "Elk Grove Village",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/kennedys-martial-arts-academy-elk-grove-village/",
+ "summary": "Kennedy's Martial Arts Academy is a martial arts school in Elk Grove Village, IL.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

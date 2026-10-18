@@ -1,0 +1,23 @@
+Mox Multisport is a bike shop in Chicago, IL at 648 West Randolph Street, Chicago, IL. Phone: +13124669111. Website: https://www.moxmultisport.com/.
+
+# Mox Multisport
+
+- Category: bike shop
+- Services: bike shop
+- Address: 648 West Randolph Street, Chicago, IL
+- City: Chicago
+- State: IL
+- ZIP: n/a
+- Coordinates: 41.8846759, -87.6447217
+- Phone: +13124669111
+- Website: https://www.moxmultisport.com/
+- Email: moxmultisport@gmail.com
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/mox-multisport-chicago/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/mox-multisport-chicago.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13103819428 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,0 +1,58 @@
+{
+ "slug": "robin-l-ferguson-dds-chicago",
+ "name": "Robin L. Ferguson DDS",
+ "categories": [
+  "dentist"
+ ],
+ "keywords": [
+  "dentist",
+  "dentist chicago il"
+ ],
+ "services": [
+  {
+   "name": "dentist",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "820 East 87th Street #201",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60619",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60619",
+ "geo": {
+  "lat": 41.7369523,
+  "lon": -87.6039382
+ },
+ "phone": "+17734889075",
+ "website": "https://robinfergusondds.com/",
+ "schema_type": "Dentist",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/13048810280",
+ "osm": {
+  "type": "node",
+  "id": 13048810280,
+  "tags_used": {
+   "amenity": "dentist",
+   "healthcare": "dentist",
+   "healthcare:speciality": "dentist"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/robin-l-ferguson-dds-chicago/",
+ "summary": "Robin L. Ferguson DDS is a dentist in Chicago, IL at 820 East 87th Street #201, Chicago, IL 60619. Phone: +17734889075. Website: https://robinfergusondds.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

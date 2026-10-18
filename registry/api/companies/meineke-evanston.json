@@ -1,0 +1,62 @@
+{
+ "slug": "meineke-evanston",
+ "name": "Meineke",
+ "categories": [
+  "auto repair"
+ ],
+ "keywords": [
+  "auto repair",
+  "mechanic",
+  "auto repair evanston il",
+  "mechanic evanston il"
+ ],
+ "services": [
+  {
+   "name": "auto repair",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "mechanic",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1975 Green Bay Road",
+  "addressLocality": "Evanston",
+  "addressRegion": "IL",
+  "postalCode": "60201",
+  "addressCountry": "US"
+ },
+ "city": "Evanston",
+ "state": "IL",
+ "zip": "60201",
+ "geo": {
+  "lat": 42.0539787,
+  "lon": -87.6900352
+ },
+ "brand": "Meineke",
+ "wikidata": "Q6810159",
+ "schema_type": "AutoRepair",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/173484284",
+ "osm": {
+  "type": "way",
+  "id": 173484284,
+  "tags_used": {
+   "shop": "car_repair"
+  }
+ },
+ "municipality": "Evanston",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/meineke-evanston/",
+ "summary": "Meineke is an auto repair shop in Evanston, IL at 1975 Green Bay Road, Evanston, IL 60201.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

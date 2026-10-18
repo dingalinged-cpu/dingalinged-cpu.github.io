@@ -1,0 +1,62 @@
+{
+ "slug": "salon-811-western-springs",
+ "name": "Salon 811",
+ "categories": [
+  "hair salon"
+ ],
+ "keywords": [
+  "hair salon",
+  "haircut",
+  "hair salon western springs il",
+  "haircut western springs il"
+ ],
+ "services": [
+  {
+   "name": "hair salon",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "haircut",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "811 Burlington Avenue",
+  "addressLocality": "Western Springs",
+  "addressRegion": "IL",
+  "postalCode": "60558",
+  "addressCountry": "US"
+ },
+ "city": "Western Springs",
+ "state": "IL",
+ "zip": "60558",
+ "geo": {
+  "lat": 41.8091331,
+  "lon": -87.8993396
+ },
+ "phone": "+17082462770",
+ "website": "https://www.salon811.com/",
+ "schema_type": "HairSalon",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/9603184571",
+ "osm": {
+  "type": "node",
+  "id": 9603184571,
+  "tags_used": {
+   "shop": "hairdresser"
+  }
+ },
+ "municipality": "Western Springs",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/salon-811-western-springs/",
+ "summary": "Salon 811 is a hair salon in Western Springs, IL at 811 Burlington Avenue, Western Springs, IL 60558. Phone: +17082462770. Website: https://www.salon811.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

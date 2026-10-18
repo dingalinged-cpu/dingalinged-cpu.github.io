@@ -1,0 +1,23 @@
+Studio Three Lincoln Park is a gym in Chicago, IL at 2401 North Halsted Street, Chicago, IL 60614. Phone: +13123000777. Website: https://studiothree.com/studio/lincoln-park/.
+
+# Studio Three Lincoln Park
+
+- Category: gym
+- Services: gym
+- Address: 2401 North Halsted Street, Chicago, IL 60614
+- City: Chicago
+- State: IL
+- ZIP: 60614
+- Coordinates: 41.9256366, -87.6485561
+- Phone: +13123000777
+- Website: https://studiothree.com/studio/lincoln-park/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/studio-three-lincoln-park-chicago/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/studio-three-lincoln-park-chicago.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13167827987 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

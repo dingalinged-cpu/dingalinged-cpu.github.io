@@ -1,0 +1,61 @@
+{
+ "slug": "elegance-salon-and-barbershop-evanston",
+ "name": "Elegance Salon & Barbershop",
+ "categories": [
+  "hair salon"
+ ],
+ "keywords": [
+  "hair salon",
+  "haircut",
+  "hair salon evanston il",
+  "haircut evanston il"
+ ],
+ "services": [
+  {
+   "name": "hair salon",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "haircut",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1704 Sherman Avenue",
+  "addressLocality": "Evanston",
+  "addressRegion": "IL",
+  "postalCode": "60201",
+  "addressCountry": "US"
+ },
+ "city": "Evanston",
+ "state": "IL",
+ "zip": "60201",
+ "geo": {
+  "lat": 42.0487252,
+  "lon": -87.6820721
+ },
+ "opening_hours": "Mo-Fr 09:00-21:00; Sa 08:00-20:00; Su 09:00-17:00",
+ "schema_type": "HairSalon",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/2295226436",
+ "osm": {
+  "type": "node",
+  "id": 2295226436,
+  "tags_used": {
+   "shop": "hairdresser"
+  }
+ },
+ "municipality": "Evanston",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/elegance-salon-and-barbershop-evanston/",
+ "summary": "Elegance Salon & Barbershop is a hair salon in Evanston, IL at 1704 Sherman Avenue, Evanston, IL 60201.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

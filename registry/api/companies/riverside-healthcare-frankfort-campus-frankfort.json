@@ -1,0 +1,64 @@
+{
+ "slug": "riverside-healthcare-frankfort-campus-frankfort",
+ "name": "Riverside Healthcare Frankfort Campus",
+ "categories": [
+  "family doctor"
+ ],
+ "keywords": [
+  "family doctor",
+  "primary care physician",
+  "family doctor frankfort il",
+  "primary care physician frankfort il"
+ ],
+ "services": [
+  {
+   "name": "family doctor",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "primary care physician",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "23120 South La Grange Road",
+  "addressLocality": "Frankfort",
+  "addressRegion": "IL",
+  "postalCode": "60423",
+  "addressCountry": "US"
+ },
+ "city": "Frankfort",
+ "state": "IL",
+ "zip": "60423",
+ "geo": {
+  "lat": 41.4689982,
+  "lon": -87.8842969
+ },
+ "phone": "+18154645440",
+ "website": "https://www.riversidehealthcare.org/location/riverside-healthcare-frankfort-campus",
+ "schema_type": "Physician",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/1475402694",
+ "osm": {
+  "type": "way",
+  "id": 1475402694,
+  "tags_used": {
+   "amenity": "clinic",
+   "healthcare": "clinic",
+   "healthcare:speciality": "general"
+  }
+ },
+ "municipality": "Frankfort",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/riverside-healthcare-frankfort-campus-frankfort/",
+ "summary": "Riverside Healthcare Frankfort Campus is a family medicine practice in Frankfort, IL at 23120 South La Grange Road, Frankfort, IL 60423. Phone: +18154645440. Website: https://www.riversidehealthcare.org/location/riverside-healthcare-frankfort-campus.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,156 @@
+{
+ "title": "Keyword market data: Clarendon Hills, IL",
+ "description": "Top Clarendon Hills, IL service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
+ "updated": "2026-10-18",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are in the JSON and dataset. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "place": "Clarendon Hills, IL",
+ "geography": "Chicago-Naperville-Elgin, IL-IN metro",
+ "keywords": 3,
+ "lists": {
+  "by_volume": [
+   {
+    "keyword": "insurance agency clarendon hills il",
+    "slug": "insurance-agency-clarendon-hills-il",
+    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-clarendon-hills-il/",
+    "us_monthly_searches": 90500,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 2500,
+    "cpc_basis_usd": 3.39,
+    "cpc_median_usd": 3.39,
+    "search_value_index_usd": 8500,
+    "equivalent_google_ads_cost_month_usd": 710,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 1,
+    "ranked_by": "by_volume"
+   },
+   {
+    "keyword": "insurance agents clarendon hills il",
+    "slug": "insurance-agents-clarendon-hills-il",
+    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-clarendon-hills-il/",
+    "us_monthly_searches": 49500,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 1400,
+    "cpc_basis_usd": 3.39,
+    "cpc_median_usd": 3.39,
+    "search_value_index_usd": 4700,
+    "equivalent_google_ads_cost_month_usd": 400,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 1,
+    "ranked_by": "by_volume"
+   },
+   {
+    "keyword": "insurance agent clarendon hills il",
+    "slug": "insurance-agent-clarendon-hills-il",
+    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-clarendon-hills-il/",
+    "us_monthly_searches": 40500,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 1100,
+    "cpc_basis_usd": 3.39,
+    "cpc_median_usd": 3.39,
+    "search_value_index_usd": 3700,
+    "equivalent_google_ads_cost_month_usd": 310,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_volume"
+   }
+  ],
+  "by_cpc": [
+   {
+    "keyword": "insurance agency clarendon hills il",
+    "slug": "insurance-agency-clarendon-hills-il",
+    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-clarendon-hills-il/",
+    "us_monthly_searches": 90500,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 2500,
+    "cpc_basis_usd": 3.39,
+    "cpc_median_usd": 3.39,
+    "search_value_index_usd": 8500,
+    "equivalent_google_ads_cost_month_usd": 710,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "insurance agent clarendon hills il",
+    "slug": "insurance-agent-clarendon-hills-il",
+    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-clarendon-hills-il/",
+    "us_monthly_searches": 40500,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 1100,
+    "cpc_basis_usd": 3.39,
+    "cpc_median_usd": 3.39,
+    "search_value_index_usd": 3700,
+    "equivalent_google_ads_cost_month_usd": 310,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "insurance agents clarendon hills il",
+    "slug": "insurance-agents-clarendon-hills-il",
+    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-clarendon-hills-il/",
+    "us_monthly_searches": 49500,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 1400,
+    "cpc_basis_usd": 3.39,
+    "cpc_median_usd": 3.39,
+    "search_value_index_usd": 4700,
+    "equivalent_google_ads_cost_month_usd": 400,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   }
+  ],
+  "by_value": [
+   {
+    "keyword": "insurance agency clarendon hills il",
+    "slug": "insurance-agency-clarendon-hills-il",
+    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-clarendon-hills-il/",
+    "us_monthly_searches": 90500,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 2500,
+    "cpc_basis_usd": 3.39,
+    "cpc_median_usd": 3.39,
+    "search_value_index_usd": 8500,
+    "equivalent_google_ads_cost_month_usd": 710,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 1,
+    "ranked_by": "by_value"
+   },
+   {
+    "keyword": "insurance agents clarendon hills il",
+    "slug": "insurance-agents-clarendon-hills-il",
+    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-clarendon-hills-il/",
+    "us_monthly_searches": 49500,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 1400,
+    "cpc_basis_usd": 3.39,
+    "cpc_median_usd": 3.39,
+    "search_value_index_usd": 4700,
+    "equivalent_google_ads_cost_month_usd": 400,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 1,
+    "ranked_by": "by_value"
+   },
+   {
+    "keyword": "insurance agent clarendon hills il",
+    "slug": "insurance-agent-clarendon-hills-il",
+    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-clarendon-hills-il/",
+    "us_monthly_searches": 40500,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 1100,
+    "cpc_basis_usd": 3.39,
+    "cpc_median_usd": 3.39,
+    "search_value_index_usd": 3700,
+    "equivalent_google_ads_cost_month_usd": 310,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_value"
+   }
+  ]
+ },
+ "license": {
+  "registry_estimates": "CC-BY-4.0",
+  "url": "https://creativecommons.org/licenses/by/4.0/"
+ }
+}

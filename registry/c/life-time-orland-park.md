@@ -1,0 +1,23 @@
+Life Time is a gym in Orland Park, IL at 16333 South La Grange Road, Orland Park, IL 60467. Phone: +17083640300. Website: https://www.lifetime.life/life-time-locations/il-orland-park.html.
+
+# Life Time
+
+- Category: gym
+- Services: gym
+- Address: 16333 South La Grange Road, Orland Park, IL 60467
+- City: Orland Park
+- State: IL
+- ZIP: 60467
+- Coordinates: 41.5933786, -87.8501434
+- Phone: +17083640300
+- Website: https://www.lifetime.life/life-time-locations/il-orland-park.html
+- Email: n/a
+- Opening hours (OSM syntax): 24/7
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/life-time-orland-park/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/life-time-orland-park.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/247676283 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

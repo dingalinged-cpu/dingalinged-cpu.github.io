@@ -1,0 +1,23 @@
+Jiffy Lube is an auto repair shop in Bolingbrook, IL at 101 Brook Court, Bolingbrook, IL 60440.
+
+# Jiffy Lube
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 101 Brook Court, Bolingbrook, IL 60440
+- City: Bolingbrook
+- State: IL
+- ZIP: 60440
+- Coordinates: 41.7040904, -88.0688986
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/jiffy-lube-bolingbrook/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/jiffy-lube-bolingbrook.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1421020590 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

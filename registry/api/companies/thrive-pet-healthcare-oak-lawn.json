@@ -1,0 +1,54 @@
+{
+ "slug": "thrive-pet-healthcare-oak-lawn",
+ "name": "Thrive Pet Healthcare",
+ "categories": [
+  "vet"
+ ],
+ "keywords": [
+  "vet",
+  "vet oak lawn il"
+ ],
+ "services": [
+  {
+   "name": "vet",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "9701 South Cicero Avenue",
+  "addressLocality": "Oak Lawn",
+  "addressRegion": "IL",
+  "postalCode": "60453",
+  "addressCountry": "US"
+ },
+ "city": "Oak Lawn",
+ "state": "IL",
+ "zip": "60453",
+ "geo": {
+  "lat": 41.7163386,
+  "lon": -87.7402924
+ },
+ "schema_type": "VeterinaryCare",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/235068813",
+ "osm": {
+  "type": "way",
+  "id": 235068813,
+  "tags_used": {
+   "amenity": "veterinary"
+  }
+ },
+ "municipality": "Oak Lawn",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/thrive-pet-healthcare-oak-lawn/",
+ "summary": "Thrive Pet Healthcare is a veterinarian in Oak Lawn, IL at 9701 South Cicero Avenue, Oak Lawn, IL 60453.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

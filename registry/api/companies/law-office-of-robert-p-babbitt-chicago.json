@@ -1,0 +1,59 @@
+{
+ "slug": "law-office-of-robert-p-babbitt-chicago",
+ "name": "Law Office of Robert P Babbitt",
+ "categories": [
+  "lawyer"
+ ],
+ "keywords": [
+  "lawyer",
+  "attorney",
+  "lawyer chicago il",
+  "attorney chicago il"
+ ],
+ "services": [
+  {
+   "name": "lawyer",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "attorney",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "6121 North Northwest Highway #104",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "geo": {
+  "lat": 41.9930043,
+  "lon": -87.799625
+ },
+ "phone": "+17737750151",
+ "schema_type": "LegalService",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/8608070402",
+ "osm": {
+  "type": "node",
+  "id": 8608070402,
+  "tags_used": {
+   "office": "lawyer"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/law-office-of-robert-p-babbitt-chicago/",
+ "summary": "Law Office of Robert P Babbitt is a lawyer in Chicago, IL at 6121 North Northwest Highway #104, Chicago, IL. Phone: +17737750151.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

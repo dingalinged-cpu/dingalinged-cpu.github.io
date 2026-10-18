@@ -1,0 +1,56 @@
+{
+ "slug": "michelle-s-ballroom-chicago",
+ "name": "Michelle’s Ballroom",
+ "categories": [
+  "event venues"
+ ],
+ "keywords": [
+  "event venues",
+  "event venues chicago il"
+ ],
+ "services": [
+  {
+   "name": "event venues",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "2800 West Belmont Avenue",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60618",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60618",
+ "geo": {
+  "lat": 41.9395133,
+  "lon": -87.6980627
+ },
+ "phone": "+17734781828",
+ "website": "https://michellesballroom.com/",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/10908928653",
+ "osm": {
+  "type": "node",
+  "id": 10908928653,
+  "tags_used": {
+   "amenity": "events_venue"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/michelle-s-ballroom-chicago/",
+ "summary": "Michelle’s Ballroom is an event venue in Chicago, IL at 2800 West Belmont Avenue, Chicago, IL 60618. Phone: +17734781828. Website: https://michellesballroom.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

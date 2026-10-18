@@ -1,0 +1,70 @@
+{
+ "slug": "bob-carters-auto-body-inc-downers-grove",
+ "name": "Bob Carter's Auto Body Inc",
+ "categories": [
+  "auto repair"
+ ],
+ "keywords": [
+  "auto repair",
+  "mechanic",
+  "auto body shop",
+  "auto repair downers grove il",
+  "mechanic downers grove il",
+  "auto body shop downers grove il"
+ ],
+ "services": [
+  {
+   "name": "auto repair",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "mechanic",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "auto body shop",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "4309 Fairview Avenue",
+  "addressLocality": "Downers Grove",
+  "addressRegion": "IL",
+  "postalCode": "60515",
+  "addressCountry": "US"
+ },
+ "city": "Downers Grove",
+ "state": "IL",
+ "zip": "60515",
+ "geo": {
+  "lat": 41.8090382,
+  "lon": -87.9948786
+ },
+ "phone": "+16308523578",
+ "website": "https://bobcartersautobody.com/",
+ "email": "bcautobody@gmail.com",
+ "opening_hours": "Mo-Fr 08:00-17:30",
+ "schema_type": "AutoRepair",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/850669638",
+ "osm": {
+  "type": "way",
+  "id": 850669638,
+  "tags_used": {
+   "shop": "car_repair"
+  }
+ },
+ "municipality": "Downers Grove",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/bob-carters-auto-body-inc-downers-grove/",
+ "summary": "Bob Carter's Auto Body Inc is an auto repair shop in Downers Grove, IL at 4309 Fairview Avenue, Downers Grove, IL 60515. Phone: +16308523578. Website: https://bobcartersautobody.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

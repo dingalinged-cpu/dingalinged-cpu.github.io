@@ -1,0 +1,58 @@
+{
+ "slug": "beya-wax-bar-midlothian",
+ "name": "Beya Wax Bar",
+ "categories": [
+  "waxing"
+ ],
+ "keywords": [
+  "waxing",
+  "waxing midlothian il"
+ ],
+ "services": [
+  {
+   "name": "waxing",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "4708 147th Street #Suite 1",
+  "addressLocality": "Midlothian",
+  "addressRegion": "IL",
+  "postalCode": "60445",
+  "addressCountry": "US"
+ },
+ "city": "Midlothian",
+ "state": "IL",
+ "zip": "60445",
+ "geo": {
+  "lat": 41.6260177,
+  "lon": -87.7353336
+ },
+ "phone": "+17082386040",
+ "website": "https://www.beyawaxbar.com/",
+ "opening_hours": "Tu-Fr 10:00-18:00; Sa 10:00-14:00",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/7955717500",
+ "osm": {
+  "type": "node",
+  "id": 7955717500,
+  "tags_used": {
+   "shop": "beauty",
+   "beauty": "hair_removal;waxing"
+  }
+ },
+ "municipality": "Midlothian",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/beya-wax-bar-midlothian/",
+ "summary": "Beya Wax Bar is a waxing salon in Midlothian, IL at 4708 147th Street #Suite 1, Midlothian, IL 60445. Phone: +17082386040. Website: https://www.beyawaxbar.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

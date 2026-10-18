@@ -1,0 +1,56 @@
+{
+ "slug": "mobil-morton-grove",
+ "name": "Mobil",
+ "categories": [
+  "car wash"
+ ],
+ "keywords": [
+  "car wash",
+  "car wash morton grove il"
+ ],
+ "services": [
+  {
+   "name": "car wash",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "9544 North Waukegan Road",
+  "addressLocality": "Morton Grove",
+  "addressRegion": "IL",
+  "postalCode": "60053",
+  "addressCountry": "US"
+ },
+ "city": "Morton Grove",
+ "state": "IL",
+ "zip": "60053",
+ "geo": {
+  "lat": 42.0545265,
+  "lon": -87.8000342
+ },
+ "brand": "Mobil",
+ "wikidata": "Q109676002",
+ "schema_type": "AutoWash",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/983294002",
+ "osm": {
+  "type": "way",
+  "id": 983294002,
+  "tags_used": {
+   "amenity": "car_wash"
+  }
+ },
+ "municipality": "Morton Grove",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/mobil-morton-grove/",
+ "summary": "Mobil is a car wash in Morton Grove, IL at 9544 North Waukegan Road, Morton Grove, IL 60053.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

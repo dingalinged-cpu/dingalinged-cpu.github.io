@@ -1,0 +1,55 @@
+{
+ "slug": "goodspeed-cycles-homewood",
+ "name": "GoodSpeed Cycles",
+ "categories": [
+  "bike shop"
+ ],
+ "keywords": [
+  "bike shop",
+  "bike shop homewood il"
+ ],
+ "services": [
+  {
+   "name": "bike shop",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "2125 183rd Street",
+  "addressLocality": "Homewood",
+  "addressRegion": "IL",
+  "postalCode": "60430",
+  "addressCountry": "US"
+ },
+ "city": "Homewood",
+ "state": "IL",
+ "zip": "60430",
+ "geo": {
+  "lat": 41.557088,
+  "lon": -87.6687092
+ },
+ "website": "https://www.goodspeedcycles.com/",
+ "schema_type": "BikeStore",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/13252667071",
+ "osm": {
+  "type": "node",
+  "id": 13252667071,
+  "tags_used": {
+   "shop": "bicycle"
+  }
+ },
+ "municipality": "Homewood",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/goodspeed-cycles-homewood/",
+ "summary": "GoodSpeed Cycles is a bike shop in Homewood, IL at 2125 183rd Street, Homewood, IL 60430. Website: https://www.goodspeedcycles.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,55 @@
+{
+ "slug": "diva-magical-nails-elmwood-park",
+ "name": "Diva Magical Nails",
+ "categories": [
+  "nail salon"
+ ],
+ "keywords": [
+  "nail salon",
+  "nail salon elmwood park il"
+ ],
+ "services": [
+  {
+   "name": "nail salon",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "2524 North Harlem Avenue",
+  "addressLocality": "Elmwood Park",
+  "addressRegion": "IL",
+  "postalCode": "60707",
+  "addressCountry": "US"
+ },
+ "city": "Elmwood Park",
+ "state": "IL",
+ "zip": "60707",
+ "geo": {
+  "lat": 41.9263524,
+  "lon": -87.8065274
+ },
+ "schema_type": "NailSalon",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/8914311536",
+ "osm": {
+  "type": "node",
+  "id": 8914311536,
+  "tags_used": {
+   "shop": "beauty",
+   "beauty": "nails"
+  }
+ },
+ "municipality": "Elmwood Park",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/diva-magical-nails-elmwood-park/",
+ "summary": "Diva Magical Nails is a nail salon in Elmwood Park, IL at 2524 North Harlem Avenue, Elmwood Park, IL 60707.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

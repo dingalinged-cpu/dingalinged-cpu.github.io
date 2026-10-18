@@ -1,0 +1,58 @@
+{
+ "slug": "rush-pediatric-primary-care-chicago",
+ "name": "RUSH Pediatric Primary Care",
+ "categories": [
+  "pediatrician"
+ ],
+ "keywords": [
+  "pediatrician",
+  "pediatrician chicago il"
+ ],
+ "services": [
+  {
+   "name": "pediatrician",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1645 West Jackson Boulevard #200",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60612",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60612",
+ "geo": {
+  "lat": 41.8771862,
+  "lon": -87.6682042
+ },
+ "phone": "+13129423034",
+ "website": "https://www.rush.edu/kids/services/pediatric-primary-care",
+ "schema_type": "Physician",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/11352719093",
+ "osm": {
+  "type": "node",
+  "id": 11352719093,
+  "tags_used": {
+   "amenity": "doctors",
+   "healthcare": "doctor",
+   "healthcare:speciality": "paediatrics"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/rush-pediatric-primary-care-chicago/",
+ "summary": "RUSH Pediatric Primary Care is a pediatrician in Chicago, IL at 1645 West Jackson Boulevard #200, Chicago, IL 60612. Phone: +13129423034. Website: https://www.rush.edu/kids/services/pediatric-primary-care.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

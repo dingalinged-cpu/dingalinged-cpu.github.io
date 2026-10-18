@@ -1,0 +1,57 @@
+{
+ "slug": "bk-jewelry-naperville",
+ "name": "BK Jewelry",
+ "categories": [
+  "jewelry store"
+ ],
+ "keywords": [
+  "jewelry store",
+  "jewelry store naperville il"
+ ],
+ "services": [
+  {
+   "name": "jewelry store",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "105 West Jefferson Avenue",
+  "addressLocality": "Naperville",
+  "addressRegion": "IL",
+  "postalCode": "60540",
+  "addressCountry": "US"
+ },
+ "city": "Naperville",
+ "state": "IL",
+ "zip": "60540",
+ "geo": {
+  "lat": 41.7730915,
+  "lon": -88.1498233
+ },
+ "phone": "+16309838557",
+ "website": "https://www.bkjewelry.net/",
+ "opening_hours": "Mo off; Tu-Fr 10:00-17:00; Sa 10:00-16:00; Su 12:00-15:00",
+ "schema_type": "JewelryStore",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/8937194107",
+ "osm": {
+  "type": "node",
+  "id": 8937194107,
+  "tags_used": {
+   "shop": "jewelry"
+  }
+ },
+ "municipality": "Naperville",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/bk-jewelry-naperville/",
+ "summary": "BK Jewelry is a jewelry store in Naperville, IL at 105 West Jefferson Avenue, Naperville, IL 60540. Phone: +16309838557. Website: https://www.bkjewelry.net/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

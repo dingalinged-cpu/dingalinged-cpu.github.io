@@ -1,0 +1,64 @@
+{
+ "slug": "santana-law-office-p-c-northlake",
+ "name": "Santana Law Office P.C.",
+ "categories": [
+  "lawyer"
+ ],
+ "keywords": [
+  "lawyer",
+  "attorney",
+  "lawyer northlake il",
+  "attorney northlake il"
+ ],
+ "services": [
+  {
+   "name": "lawyer",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "attorney",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "236 East North Avenue",
+  "addressLocality": "Northlake",
+  "addressRegion": "IL",
+  "postalCode": "60164",
+  "addressCountry": "US"
+ },
+ "city": "Northlake",
+ "state": "IL",
+ "zip": "60164",
+ "geo": {
+  "lat": 41.9077042,
+  "lon": -87.8941138
+ },
+ "phone": "+17088361111",
+ "website": "https://santanalawofficepc.com/",
+ "email": "gus@santanalawpc.com",
+ "opening_hours": "Mo-Fr 09:00-18:00",
+ "schema_type": "LegalService",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/13271248695",
+ "osm": {
+  "type": "node",
+  "id": 13271248695,
+  "tags_used": {
+   "office": "lawyer"
+  }
+ },
+ "municipality": "Northlake",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/santana-law-office-p-c-northlake/",
+ "summary": "Santana Law Office P.C. is a lawyer in Northlake, IL at 236 East North Avenue, Northlake, IL 60164. Phone: +17088361111. Website: https://santanalawofficepc.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

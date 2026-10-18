@@ -12,9 +12,9 @@
   "affordable phone repair the United States",
   "emergency phone repair the United States"
  ],
- "answer": "The top unpaid phone repair listing for the United States is Cell Phone Repair (a phone repair shop in Eden Prairie, MN at 11611 Leona Road #B, Eden Prairie, MN 55344. Phone: +19524528100. Website: https://cpr-edenprairie.com/). 5 phone repair businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "answer": "The top unpaid phone repair listing for the United States is Asurion Tech Repair & Solutions (a phone repair shop in Berwyn, IL at 7044 West Cermak Road, Berwyn, IL 60402. Phone: +17083175743. Website: https://www.asurion.com/repairs/tech/locations/berwyn/). 24 phone repair businesses are listed for the United States as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
  "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
- "updated": "2026-10-17",
+ "updated": "2026-10-18",
  "sponsored_slots": {
   "featured_1": "available",
   "spots_2_4_sold": 0
@@ -27,6 +27,76 @@
  "results": [
   {
    "position": 1,
+   "sponsored": false,
+   "slug": "asurion-tech-repair-and-solutions-berwyn",
+   "name": "Asurion Tech Repair & Solutions",
+   "summary": "Asurion Tech Repair & Solutions is a phone repair shop in Berwyn, IL at 7044 West Cermak Road, Berwyn, IL 60402. Phone: +17083175743. Website: https://www.asurion.com/repairs/tech/locations/berwyn/.",
+   "categories": [
+    "phone repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/asurion-tech-repair-and-solutions-berwyn/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/asurion-tech-repair-and-solutions-berwyn.json",
+   "address": {
+    "streetAddress": "7044 West Cermak Road",
+    "addressLocality": "Berwyn",
+    "addressRegion": "IL",
+    "postalCode": "60402",
+    "addressCountry": "US"
+   },
+   "city": "Berwyn",
+   "state": "IL",
+   "zip": "60402",
+   "geo": {
+    "lat": 41.8507286,
+    "lon": -87.8006662
+   },
+   "phone": "+17083175743",
+   "website": "https://www.asurion.com/repairs/tech/locations/berwyn/",
+   "opening_hours": "Mo-Sa 10:00-19:00; Su 12:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1195935889",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "asurion-tech-repair-and-solutions-chicago-n12684918025",
+   "name": "Asurion Tech Repair & Solutions",
+   "summary": "Asurion Tech Repair & Solutions is a phone repair shop in Chicago, IL at 3176 North Clark Street, Chicago, IL 60657. Phone: +17738802181. Website: https://www.ubreakifix.com/locations/lakeview/.",
+   "categories": [
+    "phone repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/asurion-tech-repair-and-solutions-chicago-n12684918025/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/asurion-tech-repair-and-solutions-chicago-n12684918025.json",
+   "address": {
+    "streetAddress": "3176 North Clark Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60657",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60657",
+   "geo": {
+    "lat": 41.9397201,
+    "lon": -87.650726
+   },
+   "phone": "+17738802181",
+   "website": "https://www.ubreakifix.com/locations/lakeview/",
+   "opening_hours": "Mo-Sa 10:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12684918025",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
    "sponsored": false,
    "slug": "cell-phone-repair-eden-prairie",
    "name": "Cell Phone Repair",
@@ -61,7 +131,77 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 2,
+   "position": 4,
+   "sponsored": false,
+   "slug": "ubreakifix-chicago",
+   "name": "uBreakiFix",
+   "summary": "uBreakiFix is a phone repair shop in Chicago, IL at 106 West Chicago Avenue, Chicago, IL 60654. Phone: +13127761039. Website: https://www.asurion.com/repairs/tech/locations/rivernorth/.",
+   "categories": [
+    "phone repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ubreakifix-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ubreakifix-chicago.json",
+   "address": {
+    "streetAddress": "106 West Chicago Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60654",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60654",
+   "geo": {
+    "lat": 41.8968132,
+    "lon": -87.6316849
+   },
+   "phone": "+13127761039",
+   "website": "https://www.asurion.com/repairs/tech/locations/rivernorth/",
+   "opening_hours": "Mo-Sa 10:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12117588147",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "ubreakifix-naperville",
+   "name": "uBreakiFix",
+   "summary": "uBreakiFix is a phone repair shop in Naperville, IL at 118 South Webster Street, Naperville, IL 60540. Phone: +13314724292. Website: https://www.ubreakifix.com/locations/naperville.",
+   "categories": [
+    "phone repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ubreakifix-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ubreakifix-naperville.json",
+   "address": {
+    "streetAddress": "118 South Webster Street",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60540",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60540",
+   "geo": {
+    "lat": 41.7734699,
+    "lon": -88.1510061
+   },
+   "phone": "+13314724292",
+   "website": "https://www.ubreakifix.com/locations/naperville",
+   "opening_hours": "Mo-Sa 10:00-19:00; Su 12:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6510200550",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
    "sponsored": false,
    "slug": "cpr-cell-phone-repair-minneapolis",
    "name": "CPR Cell Phone Repair",
@@ -95,7 +235,40 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 3,
+   "position": 7,
+   "sponsored": false,
+   "slug": "asurion-tech-repair-and-solutions-chicago",
+   "name": "Asurion Tech Repair & Solutions",
+   "summary": "Asurion Tech Repair & Solutions is a phone repair shop in Chicago, IL at 1465 West Chicago Avenue, Chicago, IL 60642. Website: https://www.ubreakifix.com/.",
+   "categories": [
+    "phone repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/asurion-tech-repair-and-solutions-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/asurion-tech-repair-and-solutions-chicago.json",
+   "address": {
+    "streetAddress": "1465 West Chicago Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60642",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60642",
+   "geo": {
+    "lat": 41.8959728,
+    "lon": -87.6649301
+   },
+   "website": "https://www.ubreakifix.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9962776678",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
    "sponsored": false,
    "slug": "asurion-tech-repair-and-solutions-minneapolis",
    "name": "Asurion Tech Repair & Solutions",
@@ -126,7 +299,106 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 4,
+   "position": 9,
+   "sponsored": false,
+   "slug": "tech-box-chicago",
+   "name": "Tech Box",
+   "summary": "Tech Box is a phone repair shop in Chicago, IL at 1623 East 55th Street, Chicago, IL 60615. Phone: +17732675588.",
+   "categories": [
+    "phone repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tech-box-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tech-box-chicago.json",
+   "address": {
+    "streetAddress": "1623 East 55th Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60615",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60615",
+   "geo": {
+    "lat": 41.7950824,
+    "lon": -87.5856557
+   },
+   "phone": "+17732675588",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5973189579",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "ubreakifix-darien",
+   "name": "uBreakiFix",
+   "summary": "uBreakiFix is a phone repair shop in Darien, IL at 7531 Lemont Road #B, Darien, IL 60561. Phone: +16303246076.",
+   "categories": [
+    "phone repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ubreakifix-darien/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ubreakifix-darien.json",
+   "address": {
+    "streetAddress": "7531 Lemont Road #B",
+    "addressLocality": "Darien",
+    "addressRegion": "IL",
+    "postalCode": "60561",
+    "addressCountry": "US"
+   },
+   "city": "Darien",
+   "state": "IL",
+   "zip": "60561",
+   "geo": {
+    "lat": 41.749019,
+    "lon": -88.0121097
+   },
+   "phone": "+16303246076",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8989207174",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 11,
+   "sponsored": false,
+   "slug": "asurion-tech-repair-and-solutions-oak-lawn",
+   "name": "Asurion Tech Repair & Solutions",
+   "summary": "Asurion Tech Repair & Solutions is a phone repair shop in Oak Lawn, IL at 5126 West 95th Street, Oak Lawn, IL 60453.",
+   "categories": [
+    "phone repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/asurion-tech-repair-and-solutions-oak-lawn/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/asurion-tech-repair-and-solutions-oak-lawn.json",
+   "address": {
+    "streetAddress": "5126 West 95th Street",
+    "addressLocality": "Oak Lawn",
+    "addressRegion": "IL",
+    "postalCode": "60453",
+    "addressCountry": "US"
+   },
+   "city": "Oak Lawn",
+   "state": "IL",
+   "zip": "60453",
+   "geo": {
+    "lat": 41.7203545,
+    "lon": -87.7490382
+   },
+   "opening_hours": "Mo-Sa 10:00-19:00; Su 12:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10740590458",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 12,
    "sponsored": false,
    "slug": "fixology-minneapolis",
    "name": "Fixology",
@@ -156,7 +428,312 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 5,
+   "position": 13,
+   "sponsored": false,
+   "slug": "asurion-tech-repair-and-solutions-chicago-n10967423271",
+   "name": "Asurion Tech Repair & Solutions",
+   "summary": "Asurion Tech Repair & Solutions is a phone repair shop in Chicago, IL at 1240 South Canal Street, Chicago, IL 60607.",
+   "categories": [
+    "phone repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/asurion-tech-repair-and-solutions-chicago-n10967423271/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/asurion-tech-repair-and-solutions-chicago-n10967423271.json",
+   "address": {
+    "streetAddress": "1240 South Canal Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60607",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60607",
+   "geo": {
+    "lat": 41.8660607,
+    "lon": -87.6402059
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10967423271",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 14,
+   "sponsored": false,
+   "slug": "cell-phone-repair-new-lenox",
+   "name": "Cell Phone Repair",
+   "summary": "Cell Phone Repair is a phone repair shop in New Lenox, IL at 1820 East Lincoln Highway, New Lenox, IL 60451.",
+   "categories": [
+    "phone repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cell-phone-repair-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cell-phone-repair-new-lenox.json",
+   "address": {
+    "streetAddress": "1820 East Lincoln Highway",
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "postalCode": "60451",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "zip": "60451",
+   "geo": {
+    "lat": 41.5110117,
+    "lon": -87.9312324
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9195011862",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 15,
+   "sponsored": false,
+   "slug": "cell-phone-repair-orland-park",
+   "name": "Cell Phone Repair",
+   "summary": "Cell Phone Repair is a phone repair shop in Orland Park, IL at 15864 South La Grange Road #D1A, Orland Park, IL 60462.",
+   "categories": [
+    "phone repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cell-phone-repair-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cell-phone-repair-orland-park.json",
+   "address": {
+    "streetAddress": "15864 South La Grange Road #D1A",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60462",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60462",
+   "geo": {
+    "lat": 41.6027248,
+    "lon": -87.8542503
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9231360171",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 16,
+   "sponsored": false,
+   "slug": "ubreakifix-norridge",
+   "name": "uBreakiFix",
+   "summary": "uBreakiFix is a phone repair shop in Norridge, IL at 7235 West Forest Preserve Drive, Norridge, IL 60706.",
+   "categories": [
+    "phone repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ubreakifix-norridge/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ubreakifix-norridge.json",
+   "address": {
+    "streetAddress": "7235 West Forest Preserve Drive",
+    "addressLocality": "Norridge",
+    "addressRegion": "IL",
+    "postalCode": "60706",
+    "addressCountry": "US"
+   },
+   "city": "Norridge",
+   "state": "IL",
+   "zip": "60706",
+   "geo": {
+    "lat": 41.9528985,
+    "lon": -87.8088773
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/217364105",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 17,
+   "sponsored": false,
+   "slug": "ubreakifix-northbrook",
+   "name": "uBreakiFix",
+   "summary": "uBreakiFix is a phone repair shop in Northbrook, IL at 239 Skokie Boulevard, Northbrook, IL 60062.",
+   "categories": [
+    "phone repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ubreakifix-northbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ubreakifix-northbrook.json",
+   "address": {
+    "streetAddress": "239 Skokie Boulevard",
+    "addressLocality": "Northbrook",
+    "addressRegion": "IL",
+    "postalCode": "60062",
+    "addressCountry": "US"
+   },
+   "city": "Northbrook",
+   "state": "IL",
+   "zip": "60062",
+   "geo": {
+    "lat": 42.1485909,
+    "lon": -87.7981062
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1186166603",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 18,
+   "sponsored": false,
+   "slug": "cell-phone-repair-chicago",
+   "name": "Cell Phone Repair",
+   "summary": "Cell Phone Repair is a phone repair shop in Chicago, IL.",
+   "categories": [
+    "phone repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cell-phone-repair-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cell-phone-repair-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8818667,
+    "lon": -87.6504458
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13001886596",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 19,
+   "sponsored": false,
+   "slug": "cell-phone-repair-merrillville",
+   "name": "Cell Phone Repair",
+   "summary": "Cell Phone Repair is a phone repair shop in Merrillville, IN.",
+   "categories": [
+    "phone repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cell-phone-repair-merrillville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cell-phone-repair-merrillville.json",
+   "address": {
+    "addressLocality": "Merrillville",
+    "addressRegion": "IN",
+    "addressCountry": "US"
+   },
+   "city": "Merrillville",
+   "state": "IN",
+   "geo": {
+    "lat": 41.4725144,
+    "lon": -87.3834781
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/747474002",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 20,
+   "sponsored": false,
+   "slug": "ipro-repairs-and-accessories-rosemont",
+   "name": "IPro Repairs and Accessories",
+   "summary": "IPro Repairs and Accessories is a phone repair shop in Rosemont, IL.",
+   "categories": [
+    "phone repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ipro-repairs-and-accessories-rosemont/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ipro-repairs-and-accessories-rosemont.json",
+   "address": {
+    "addressLocality": "Rosemont",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Rosemont",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9742794,
+    "lon": -87.8667732
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13733376622",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 21,
+   "sponsored": false,
+   "slug": "ubreakifix-highland",
+   "name": "uBreakiFix",
+   "summary": "uBreakiFix is a phone repair shop in Highland, IN.",
+   "categories": [
+    "phone repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ubreakifix-highland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ubreakifix-highland.json",
+   "address": {
+    "addressLocality": "Highland",
+    "addressRegion": "IN",
+    "addressCountry": "US"
+   },
+   "city": "Highland",
+   "state": "IN",
+   "geo": {
+    "lat": 41.523401,
+    "lon": -87.4729317
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9315958277",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 22,
+   "sponsored": false,
+   "slug": "ubreakifix-libertyville",
+   "name": "uBreakiFix",
+   "summary": "uBreakiFix is a phone repair shop in Libertyville, IL.",
+   "categories": [
+    "phone repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ubreakifix-libertyville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ubreakifix-libertyville.json",
+   "address": {
+    "addressLocality": "Libertyville",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Libertyville",
+   "state": "IL",
+   "geo": {
+    "lat": 42.2612781,
+    "lon": -87.9465989
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10032726190",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 23,
    "sponsored": false,
    "slug": "ubreakifix-minnetonka",
    "name": "uBreakiFix",
@@ -183,6 +760,254 @@
    "source": "OpenStreetMap",
    "source_url": "https://www.openstreetmap.org/node/11098487969",
    "last_checked": "2026-10-17"
+  },
+  {
+   "position": 24,
+   "sponsored": false,
+   "slug": "ubreakifix-niles",
+   "name": "uBreakiFix",
+   "summary": "uBreakiFix is a phone repair shop in Niles, IL.",
+   "categories": [
+    "phone repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ubreakifix-niles/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ubreakifix-niles.json",
+   "address": {
+    "addressLocality": "Niles",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Niles",
+   "state": "IL",
+   "geo": {
+    "lat": 42.0550008,
+    "lon": -87.8351797
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13687686321",
+   "last_checked": "2026-10-17"
   }
- ]
+ ],
+ "market": {
+  "keyword": "phone repair",
+  "slug": "phone-repair",
+  "base_keyword": "phone repair",
+  "scope": "national",
+  "city": null,
+  "state": null,
+  "category": "Professional & financial services - Tech repair",
+  "industry": "Finance & Insurance",
+  "us_monthly_searches": {
+   "value": 220000,
+   "range": [
+    150000,
+    370000
+   ],
+   "method": "estimate",
+   "estimate_method": "median of 58 cited US volumes for 'high'-demand keywords in the local_services research; rounded to 2 significant figures; range = 25th-75th percentile",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "confidence": "low"
+  },
+  "local_monthly_searches": null,
+  "cpc_usd": {
+   "industry_benchmark": "Finance & Insurance",
+   "low_usd": 3.39,
+   "median_usd": 3.39,
+   "high_usd": 3.46,
+   "method": "published benchmarks: low/high = range of the industry and sub-industry median CPCs listed in 'figures'; median = most specific benchmark",
+   "figures": [
+    {
+     "usd": 3.39,
+     "label": "Finance & Insurance median CPC 2026",
+     "source": "wordstream_2026"
+    },
+    {
+     "usd": 3.46,
+     "label": "Finance & Insurance median CPC 2025",
+     "source": "wordstream_2025"
+    }
+   ],
+   "source": "wordstream_2026",
+   "as_of": "2026",
+   "basis_for_value": {
+    "usd": 3.39,
+    "method": "benchmark median CPC",
+    "source": "wordstream_2026"
+   }
+  },
+  "ctr_pct": {
+   "value": 8.33,
+   "label": "Finance & Insurance average search-ad CTR 2025",
+   "source": "wordstream_2025",
+   "as_of": "2025-03"
+  },
+  "competition": {
+   "level": "low",
+   "method": "proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research)",
+   "source": "wordstream_2026",
+   "as_of": "2026"
+  },
+  "trend": null,
+  "seasonality": {
+   "value": null,
+   "note": "No seasonality data in the research sources for this keyword."
+  },
+  "ai_query": {
+   "text": "No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.",
+   "figures": [
+    {
+     "value": "45%",
+     "label": "US adults using AI for local recommendations",
+     "source": "brightlocal_lcrs_2026"
+    },
+    {
+     "value": "75%",
+     "label": "sessions with keyword-style prompts",
+     "source": "sagapixel_sel"
+    },
+    {
+     "value": "59%",
+     "label": "local-intent prompts that triggered web search",
+     "source": "nectiv"
+    }
+   ],
+   "as_of": "2026"
+  },
+  "registry_competitors": {
+   "value": 24,
+   "slugs": [
+    "asurion-tech-repair-and-solutions-berwyn",
+    "asurion-tech-repair-and-solutions-chicago",
+    "asurion-tech-repair-and-solutions-chicago-n10967423271",
+    "asurion-tech-repair-and-solutions-chicago-n12684918025",
+    "asurion-tech-repair-and-solutions-minneapolis",
+    "asurion-tech-repair-and-solutions-oak-lawn",
+    "cell-phone-repair-chicago",
+    "cell-phone-repair-eden-prairie",
+    "cell-phone-repair-merrillville",
+    "cell-phone-repair-new-lenox"
+   ],
+   "method_id": "competitors",
+   "source": "registry",
+   "as_of": "2026-10-18",
+   "urls": [
+    "https://dingalinged-cpu.github.io/registry/c/asurion-tech-repair-and-solutions-berwyn/",
+    "https://dingalinged-cpu.github.io/registry/c/asurion-tech-repair-and-solutions-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/asurion-tech-repair-and-solutions-chicago-n10967423271/",
+    "https://dingalinged-cpu.github.io/registry/c/asurion-tech-repair-and-solutions-chicago-n12684918025/",
+    "https://dingalinged-cpu.github.io/registry/c/asurion-tech-repair-and-solutions-minneapolis/",
+    "https://dingalinged-cpu.github.io/registry/c/asurion-tech-repair-and-solutions-oak-lawn/",
+    "https://dingalinged-cpu.github.io/registry/c/cell-phone-repair-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/cell-phone-repair-eden-prairie/",
+    "https://dingalinged-cpu.github.io/registry/c/cell-phone-repair-merrillville/",
+    "https://dingalinged-cpu.github.io/registry/c/cell-phone-repair-new-lenox/"
+   ],
+   "method": "count of registry listings tagged with the keyword (city/national) or with the base service in the same state (state keywords)"
+  },
+  "agent_demand": null,
+  "agent_demand_note": "Not yet measured. Will carry AI-agent query counts from the registry's agent analytics (contract: meta.agent_demand_contract in the market index).",
+  "equivalent_google_ads_cost_month": {
+   "value_usd": 62000,
+   "method": "estimate",
+   "method_id": "google_ads_equiv",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote."
+  },
+  "search_value_index": {
+   "value_usd": 750000,
+   "method": "estimate",
+   "method_id": "value_index",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: search value index = monthly searches x CPC basis; an advertiser-value ranking signal, not revenue; rounded to 2 significant figures."
+  },
+  "auction": {
+   "featured_spot_min_usd": 250,
+   "spots_2_to_4_min_usd": 25,
+   "tier": "high",
+   "pricing_rule": "tier minimum (premium $500, high $250, mid $100, standard $50) for national keywords; city = max($10, 20% of tier); state = max($10, 35% of tier); spots 2-4 open at 10% of the featured minimum",
+   "model": "Monthly auction in the last 7 days of each month: days 1-5 bid for the Featured #1 spot, days 6-7 for spots 2-4; winners display all next month; all paid spots labeled Sponsored.",
+   "next_auctions": [
+    {
+     "display_month": "2026-11",
+     "featured_spot_bidding": [
+      "2026-10-25",
+      "2026-10-29"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-10-30",
+      "2026-10-31"
+     ]
+    },
+    {
+     "display_month": "2026-12",
+     "featured_spot_bidding": [
+      "2026-11-24",
+      "2026-11-28"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-11-29",
+      "2026-11-30"
+     ]
+    }
+   ],
+   "source": "registry_auction",
+   "as_of": "2026-10-18"
+  },
+  "sources": {
+   "brightlocal_lcrs_2026": {
+    "name": "BrightLocal Local Consumer Review Survey 2026 (n=1,002 US adults)",
+    "url": "https://www.brightlocal.com/research/lcrs-ai-trust/",
+    "as_of": "2026"
+   },
+   "nectiv": {
+    "name": "Nectiv study of 8,500+ ChatGPT prompts",
+    "url": "https://nectivdigital.com/blog/new-data-study-what-queries-is-chatgpt-using-behind-the-scenes",
+    "as_of": "2025"
+   },
+   "registry": {
+    "name": "This registry's own listings (OpenStreetMap-seeded, ODbL)",
+    "url": "https://dingalinged-cpu.github.io/registry/api/companies.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_auction": {
+    "name": "Registry keyword auction catalog and rules",
+    "url": "https://dingalinged-cpu.github.io/registry/api/keyword-prices.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_estimate": {
+    "name": "Registry estimate (CC-BY-4.0); method given on each value",
+    "url": "https://dingalinged-cpu.github.io/registry/market/",
+    "as_of": "2026-10-18"
+   },
+   "sagapixel_sel": {
+    "name": "Sagapixel ChatGPT local-services sessions, via Search Engine Land",
+    "url": "https://searchengineland.com/chatgpt-users-keywords-for-local-services-data-467715",
+    "as_of": "2026-01"
+   },
+   "wordstream_2025": {
+    "name": "WordStream Google Ads Benchmarks 2025 (16,446 US campaigns, Apr 2024-Mar 2025; median CPC and CTR by industry)",
+    "url": "https://www.wordstream.com/blog/2025-google-ads-benchmarks",
+    "as_of": "2025-03"
+   },
+   "wordstream_2026": {
+    "name": "LocaliQ/WordStream Search Advertising Benchmarks 2026 (US median CPC by industry)",
+    "url": "https://www.localiq.com/blog/search-advertising-benchmarks",
+    "as_of": "2026"
+   }
+  },
+  "license": {
+   "registry_estimates": "CC-BY-4.0",
+   "url": "https://creativecommons.org/licenses/by/4.0/",
+   "cited_figures": "attribute to the publishers in sources"
+  },
+  "as_of": "2026-10-18",
+  "api": "https://dingalinged-cpu.github.io/registry/api/market/phone-repair.json",
+  "rate_card": "https://dingalinged-cpu.github.io/registry/view/market.html#phone-repair"
+ }
 }

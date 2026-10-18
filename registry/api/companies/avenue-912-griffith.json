@@ -1,0 +1,54 @@
+{
+ "slug": "avenue-912-griffith",
+ "name": "Avenue 912",
+ "categories": [
+  "event venues"
+ ],
+ "keywords": [
+  "event venues",
+  "event venues griffith in"
+ ],
+ "services": [
+  {
+   "name": "event venues",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "202 East Ridge Road",
+  "addressLocality": "Griffith",
+  "addressRegion": "IN",
+  "postalCode": "46319",
+  "addressCountry": "US"
+ },
+ "city": "Griffith",
+ "state": "IN",
+ "zip": "46319",
+ "geo": {
+  "lat": 41.5526062,
+  "lon": -87.4287293
+ },
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/917267498",
+ "osm": {
+  "type": "way",
+  "id": 917267498,
+  "tags_used": {
+   "amenity": "events_venue"
+  }
+ },
+ "municipality": "Griffith",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/avenue-912-griffith/",
+ "summary": "Avenue 912 is an event venue in Griffith, IN at 202 East Ridge Road, Griffith, IN 46319.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

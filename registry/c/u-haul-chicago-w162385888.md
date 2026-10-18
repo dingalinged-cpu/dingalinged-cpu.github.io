@@ -1,0 +1,23 @@
+U-Haul is a self-storage facility in Chicago, IL at 1700 North Cicero Avenue, Chicago, IL 60639.
+
+# U-Haul
+
+- Category: storage units
+- Services: storage units
+- Address: 1700 North Cicero Avenue, Chicago, IL 60639
+- City: Chicago
+- State: IL
+- ZIP: 60639
+- Coordinates: 41.9119112, -87.7463365
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/u-haul-chicago-w162385888/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/u-haul-chicago-w162385888.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/162385888 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

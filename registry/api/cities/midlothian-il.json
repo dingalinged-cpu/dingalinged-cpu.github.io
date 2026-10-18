@@ -1,0 +1,411 @@
+{
+ "place": "Midlothian, IL",
+ "slug": "midlothian-il",
+ "count": 11,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "auto repair midlothian il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-midlothian-il.json"
+  },
+  {
+   "keyword": "car wash midlothian il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-midlothian-il.json"
+  },
+  {
+   "keyword": "insurance agency midlothian il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-midlothian-il.json"
+  },
+  {
+   "keyword": "insurance agent midlothian il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-midlothian-il.json"
+  },
+  {
+   "keyword": "insurance agents midlothian il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-midlothian-il.json"
+  },
+  {
+   "keyword": "mechanic midlothian il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-midlothian-il.json"
+  },
+  {
+   "keyword": "nail salon midlothian il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/nail-salon-midlothian-il.json"
+  },
+  {
+   "keyword": "oil change midlothian il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/oil-change-midlothian-il.json"
+  },
+  {
+   "keyword": "preschool midlothian il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/preschool-midlothian-il.json"
+  },
+  {
+   "keyword": "storage units midlothian il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/storage-units-midlothian-il.json"
+  },
+  {
+   "keyword": "tax preparation midlothian il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tax-preparation-midlothian-il.json"
+  },
+  {
+   "keyword": "tax preparer midlothian il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tax-preparer-midlothian-il.json"
+  },
+  {
+   "keyword": "tire shop midlothian il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tire-shop-midlothian-il.json"
+  },
+  {
+   "keyword": "used cars for sale midlothian il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/used-cars-for-sale-midlothian-il.json"
+  },
+  {
+   "keyword": "waxing midlothian il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/waxing-midlothian-il.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "beya-wax-bar-midlothian",
+   "name": "Beya Wax Bar",
+   "summary": "Beya Wax Bar is a waxing salon in Midlothian, IL at 4708 147th Street #Suite 1, Midlothian, IL 60445. Phone: +17082386040. Website: https://www.beyawaxbar.com/.",
+   "categories": [
+    "waxing"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/beya-wax-bar-midlothian/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/beya-wax-bar-midlothian.json",
+   "address": {
+    "streetAddress": "4708 147th Street #Suite 1",
+    "addressLocality": "Midlothian",
+    "addressRegion": "IL",
+    "postalCode": "60445",
+    "addressCountry": "US"
+   },
+   "city": "Midlothian",
+   "state": "IL",
+   "zip": "60445",
+   "geo": {
+    "lat": 41.6260177,
+    "lon": -87.7353336
+   },
+   "phone": "+17082386040",
+   "website": "https://www.beyawaxbar.com/",
+   "opening_hours": "Tu-Fr 10:00-18:00; Sa 10:00-14:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7955717500",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "insurance-navy-brokers-midlothian",
+   "name": "Insurance Navy Brokers",
+   "summary": "Insurance Navy Brokers is an insurance agent in Midlothian, IL at 14653 South Cicero Avenue, Midlothian, IL 60445. Phone: +17084891200. Website: https://www.insurancenavy.com/locations/il/midlothian/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/insurance-navy-brokers-midlothian/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/insurance-navy-brokers-midlothian.json",
+   "address": {
+    "streetAddress": "14653 South Cicero Avenue",
+    "addressLocality": "Midlothian",
+    "addressRegion": "IL",
+    "postalCode": "60445",
+    "addressCountry": "US"
+   },
+   "city": "Midlothian",
+   "state": "IL",
+   "zip": "60445",
+   "geo": {
+    "lat": 41.625681,
+    "lon": -87.7367996
+   },
+   "phone": "+17084891200",
+   "website": "https://www.insurancenavy.com/locations/il/midlothian/",
+   "opening_hours": "Mo-Sa 10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8595599069",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "shic-boutique-midlothian",
+   "name": "Shic Boutique",
+   "summary": "Shic Boutique is a nail salon in Midlothian, IL at 14736 Pulaski Road, Midlothian, IL 60445. Phone: +17088978067. Website: https://shicboutique.com/.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/shic-boutique-midlothian/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/shic-boutique-midlothian.json",
+   "address": {
+    "streetAddress": "14736 Pulaski Road",
+    "addressLocality": "Midlothian",
+    "addressRegion": "IL",
+    "postalCode": "60445",
+    "addressCountry": "US"
+   },
+   "city": "Midlothian",
+   "state": "IL",
+   "zip": "60445",
+   "geo": {
+    "lat": 41.624401,
+    "lon": -87.7178777
+   },
+   "phone": "+17088978067",
+   "website": "https://shicboutique.com/",
+   "opening_hours": "Tu-Fr 09:00-18:00; Sa 07:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8113395849",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "h-and-r-block-midlothian",
+   "name": "H&R Block",
+   "summary": "H&R Block is a tax preparation service in Midlothian, IL at 4820 147th Street, Midlothian, IL 60445. Website: https://www.hrblock.com/local-tax-offices/illinois/midlothian/4820-w-147th-st/12582/.",
+   "categories": [
+    "tax preparation"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/h-and-r-block-midlothian/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/h-and-r-block-midlothian.json",
+   "address": {
+    "streetAddress": "4820 147th Street",
+    "addressLocality": "Midlothian",
+    "addressRegion": "IL",
+    "postalCode": "60445",
+    "addressCountry": "US"
+   },
+   "city": "Midlothian",
+   "state": "IL",
+   "zip": "60445",
+   "geo": {
+    "lat": 41.6236768,
+    "lon": -87.7385198
+   },
+   "website": "https://www.hrblock.com/local-tax-offices/illinois/midlothian/4820-w-147th-st/12582/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12392072476",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "bridgestone-midlothian",
+   "name": "Bridgestone",
+   "summary": "Bridgestone is a tire shop in Midlothian, IL at 14740 Pulaski Road, Midlothian, IL 60445.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bridgestone-midlothian/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bridgestone-midlothian.json",
+   "address": {
+    "streetAddress": "14740 Pulaski Road",
+    "addressLocality": "Midlothian",
+    "addressRegion": "IL",
+    "postalCode": "60445",
+    "addressCountry": "US"
+   },
+   "city": "Midlothian",
+   "state": "IL",
+   "zip": "60445",
+   "geo": {
+    "lat": 41.6243139,
+    "lon": -87.7181734
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11430055612",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "drivetime-midlothian",
+   "name": "DriveTime",
+   "summary": "DriveTime is an used car dealer in Midlothian, IL at 14500 South Cicero Avenue, Midlothian, IL 60445.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/drivetime-midlothian/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/drivetime-midlothian.json",
+   "address": {
+    "streetAddress": "14500 South Cicero Avenue",
+    "addressLocality": "Midlothian",
+    "addressRegion": "IL",
+    "postalCode": "60445",
+    "addressCountry": "US"
+   },
+   "city": "Midlothian",
+   "state": "IL",
+   "zip": "60445",
+   "geo": {
+    "lat": 41.6284422,
+    "lon": -87.7380704
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1135280830",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "extra-space-storage-midlothian",
+   "name": "Extra Space Storage",
+   "summary": "Extra Space Storage is a self-storage facility in Midlothian, IL at 3657 147th Street, Midlothian, IL 60445.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/extra-space-storage-midlothian/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/extra-space-storage-midlothian.json",
+   "address": {
+    "streetAddress": "3657 147th Street",
+    "addressLocality": "Midlothian",
+    "addressRegion": "IL",
+    "postalCode": "60445",
+    "addressCountry": "US"
+   },
+   "city": "Midlothian",
+   "state": "IL",
+   "zip": "60445",
+   "geo": {
+    "lat": 41.6252147,
+    "lon": -87.7100917
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1026070875",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "firestone-midlothian",
+   "name": "Firestone",
+   "summary": "Firestone is an auto repair shop in Midlothian, IL at 14740 Pulaski Road, Midlothian, IL 60445.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/firestone-midlothian/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/firestone-midlothian.json",
+   "address": {
+    "streetAddress": "14740 Pulaski Road",
+    "addressLocality": "Midlothian",
+    "addressRegion": "IL",
+    "postalCode": "60445",
+    "addressCountry": "US"
+   },
+   "city": "Midlothian",
+   "state": "IL",
+   "zip": "60445",
+   "geo": {
+    "lat": 41.6242035,
+    "lon": -87.7181495
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/870997065",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "mobil-midlothian",
+   "name": "Mobil",
+   "summary": "Mobil is a car wash in Midlothian, IL at 14640 Cicero Avenue, Midlothian, IL 60445.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mobil-midlothian/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mobil-midlothian.json",
+   "address": {
+    "streetAddress": "14640 Cicero Avenue",
+    "addressLocality": "Midlothian",
+    "addressRegion": "IL",
+    "postalCode": "60445",
+    "addressCountry": "US"
+   },
+   "city": "Midlothian",
+   "state": "IL",
+   "zip": "60445",
+   "geo": {
+    "lat": 41.6258317,
+    "lon": -87.7383183
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1339650435",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "take-5-oil-change-midlothian",
+   "name": "Take 5 Oil Change",
+   "summary": "Take 5 Oil Change is an auto repair shop in Midlothian, IL at 14701 Cicero Avenue, Midlothian, IL 60445.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/take-5-oil-change-midlothian/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/take-5-oil-change-midlothian.json",
+   "address": {
+    "streetAddress": "14701 Cicero Avenue",
+    "addressLocality": "Midlothian",
+    "addressRegion": "IL",
+    "postalCode": "60445",
+    "addressCountry": "US"
+   },
+   "city": "Midlothian",
+   "state": "IL",
+   "zip": "60445",
+   "geo": {
+    "lat": 41.6248793,
+    "lon": -87.7367349
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1339650437",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "spaulding-school-midlothian",
+   "name": "Spaulding School",
+   "summary": "Spaulding School is a preschool in Midlothian, IL.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/spaulding-school-midlothian/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/spaulding-school-midlothian.json",
+   "address": {
+    "addressLocality": "Midlothian",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Midlothian",
+   "state": "IL",
+   "geo": {
+    "lat": 41.623307,
+    "lon": -87.7006135
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1444391656",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

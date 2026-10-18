@@ -1,0 +1,609 @@
+{
+ "place": "Munster, IN",
+ "slug": "munster-in",
+ "count": 18,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "car wash munster in",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-munster-in.json"
+  },
+  {
+   "keyword": "dentist munster in",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-munster-in.json"
+  },
+  {
+   "keyword": "dry cleaners munster in",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dry-cleaners-munster-in.json"
+  },
+  {
+   "keyword": "gym munster in",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-munster-in.json"
+  },
+  {
+   "keyword": "hair salon munster in",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-munster-in.json"
+  },
+  {
+   "keyword": "haircut munster in",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-munster-in.json"
+  },
+  {
+   "keyword": "insurance agency munster in",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-munster-in.json"
+  },
+  {
+   "keyword": "insurance agent munster in",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-munster-in.json"
+  },
+  {
+   "keyword": "insurance agents munster in",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-munster-in.json"
+  },
+  {
+   "keyword": "landscaping munster in",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/landscaping-munster-in.json"
+  },
+  {
+   "keyword": "mattress store munster in",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mattress-store-munster-in.json"
+  },
+  {
+   "keyword": "physical therapy munster in",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/physical-therapy-munster-in.json"
+  },
+  {
+   "keyword": "printing services munster in",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/printing-services-munster-in.json"
+  },
+  {
+   "keyword": "storage units munster in",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/storage-units-munster-in.json"
+  },
+  {
+   "keyword": "therapist munster in",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/therapist-munster-in.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "anytime-fitness-munster",
+   "name": "Anytime Fitness",
+   "summary": "Anytime Fitness is a gym in Munster, IN at 821 Main Street, Munster, IN 46321. Phone: +12193158828. Website: https://www.anytimefitness.com/gyms/4195/munster-in-46321/.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/anytime-fitness-munster/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/anytime-fitness-munster.json",
+   "address": {
+    "streetAddress": "821 Main Street",
+    "addressLocality": "Munster",
+    "addressRegion": "IN",
+    "postalCode": "46321",
+    "addressCountry": "US"
+   },
+   "city": "Munster",
+   "state": "IN",
+   "zip": "46321",
+   "geo": {
+    "lat": 41.5232915,
+    "lon": -87.5073031
+   },
+   "phone": "+12193158828",
+   "website": "https://www.anytimefitness.com/gyms/4195/munster-in-46321/",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1242292120",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "proscapes-landscape-service-llc-munster",
+   "name": "Proscapes Landscape Service LLC",
+   "summary": "Proscapes Landscape Service LLC is a landscaping company in Munster, IN at 8654 Hohman Avenue, Munster, IN 46321. Phone: +12198361186. Website: https://www.proscapeslandscapeservllc.com/.",
+   "categories": [
+    "landscaping"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/proscapes-landscape-service-llc-munster/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/proscapes-landscape-service-llc-munster.json",
+   "address": {
+    "streetAddress": "8654 Hohman Avenue",
+    "addressLocality": "Munster",
+    "addressRegion": "IN",
+    "postalCode": "46321",
+    "addressCountry": "US"
+   },
+   "city": "Munster",
+   "state": "IN",
+   "zip": "46321",
+   "geo": {
+    "lat": 41.5554377,
+    "lon": -87.5226076
+   },
+   "phone": "+12198361186",
+   "website": "https://www.proscapeslandscapeservllc.com/",
+   "opening_hours": "Mo-Fr 08:00-17:00; Sa 08:00-12:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5758534238",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "mattress-firm-munster",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Munster, IN at 8219 Calumet Avenue, Munster, IN 46321. Phone: +12198365872. Website: https://www.mattressfirm.com/en-us/stores/in/munster/119051/.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-munster/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-munster.json",
+   "address": {
+    "streetAddress": "8219 Calumet Avenue",
+    "addressLocality": "Munster",
+    "addressRegion": "IN",
+    "postalCode": "46321",
+    "addressCountry": "US"
+   },
+   "city": "Munster",
+   "state": "IN",
+   "zip": "46321",
+   "geo": {
+    "lat": 41.563755,
+    "lon": -87.5084925
+   },
+   "phone": "+12198365872",
+   "website": "https://www.mattressfirm.com/en-us/stores/in/munster/119051/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6417785977",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "hair-cuttery-munster",
+   "name": "Hair Cuttery",
+   "summary": "Hair Cuttery is a hair salon in Munster, IN at 7944 Calumet Avenue, Munster, IN 46321. Website: https://locations.haircuttery.com/in/munster/7944-calumet-ave.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hair-cuttery-munster/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hair-cuttery-munster.json",
+   "address": {
+    "streetAddress": "7944 Calumet Avenue",
+    "addressLocality": "Munster",
+    "addressRegion": "IN",
+    "postalCode": "46321",
+    "addressCountry": "US"
+   },
+   "city": "Munster",
+   "state": "IN",
+   "zip": "46321",
+   "geo": {
+    "lat": 41.5684528,
+    "lon": -87.5094361
+   },
+   "website": "https://locations.haircuttery.com/in/munster/7944-calumet-ave",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12639386323",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "premier-physical-therapy-munster",
+   "name": "Premier Physical Therapy",
+   "summary": "Premier Physical Therapy is a physical therapy clinic in Munster, IN at 8159 Calumet Avenue, Munster, IN 46321. Phone: +12198362800.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/premier-physical-therapy-munster/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/premier-physical-therapy-munster.json",
+   "address": {
+    "streetAddress": "8159 Calumet Avenue",
+    "addressLocality": "Munster",
+    "addressRegion": "IN",
+    "postalCode": "46321",
+    "addressCountry": "US"
+   },
+   "city": "Munster",
+   "state": "IN",
+   "zip": "46321",
+   "geo": {
+    "lat": 41.5643248,
+    "lon": -87.5084919
+   },
+   "phone": "+12198362800",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6417785971",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "athletico-physical-therapy-munster",
+   "name": "Athletico Physical Therapy",
+   "summary": "Athletico Physical Therapy is a physical therapy clinic in Munster, IN at 7967 Calumet Avenue, Munster, IN 46321.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/athletico-physical-therapy-munster/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/athletico-physical-therapy-munster.json",
+   "address": {
+    "streetAddress": "7967 Calumet Avenue",
+    "addressLocality": "Munster",
+    "addressRegion": "IN",
+    "postalCode": "46321",
+    "addressCountry": "US"
+   },
+   "city": "Munster",
+   "state": "IN",
+   "zip": "46321",
+   "geo": {
+    "lat": 41.5682959,
+    "lon": -87.5073794
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9025667776",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "bp-munster",
+   "name": "BP",
+   "summary": "BP is a car wash in Munster, IN at 10444 Calumet Avenue, Munster, IN 46321.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bp-munster/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bp-munster.json",
+   "address": {
+    "streetAddress": "10444 Calumet Avenue",
+    "addressLocality": "Munster",
+    "addressRegion": "IN",
+    "postalCode": "46321",
+    "addressCountry": "US"
+   },
+   "city": "Munster",
+   "state": "IN",
+   "zip": "46321",
+   "geo": {
+    "lat": 41.5231294,
+    "lon": -87.5102231
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1242292123",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "cd-one-price-cleaners-munster",
+   "name": "CD One Price Cleaners",
+   "summary": "CD One Price Cleaners is a dry cleaner in Munster, IN at 7948 Calumet Avenue, Munster, IN 46321.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cd-one-price-cleaners-munster/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cd-one-price-cleaners-munster.json",
+   "address": {
+    "streetAddress": "7948 Calumet Avenue",
+    "addressLocality": "Munster",
+    "addressRegion": "IN",
+    "postalCode": "46321",
+    "addressCountry": "US"
+   },
+   "city": "Munster",
+   "state": "IN",
+   "zip": "46321",
+   "geo": {
+    "lat": 41.568361,
+    "lon": -87.5094386
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12639386325",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "circle-k-munster",
+   "name": "Circle K",
+   "summary": "Circle K is a car wash in Munster, IN at 10 45th Street, Munster, IN 46321.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/circle-k-munster/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/circle-k-munster.json",
+   "address": {
+    "streetAddress": "10 45th Street",
+    "addressLocality": "Munster",
+    "addressRegion": "IN",
+    "postalCode": "46321",
+    "addressCountry": "US"
+   },
+   "city": "Munster",
+   "state": "IN",
+   "zip": "46321",
+   "geo": {
+    "lat": 41.5419335,
+    "lon": -87.5250022
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1329760888",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "great-clips-munster",
+   "name": "Great Clips",
+   "summary": "Great Clips is a hair salon in Munster, IN at 7963 Calumet Avenue, Munster, IN 46321.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/great-clips-munster/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/great-clips-munster.json",
+   "address": {
+    "streetAddress": "7963 Calumet Avenue",
+    "addressLocality": "Munster",
+    "addressRegion": "IN",
+    "postalCode": "46321",
+    "addressCountry": "US"
+   },
+   "city": "Munster",
+   "state": "IN",
+   "zip": "46321",
+   "geo": {
+    "lat": 41.5683558,
+    "lon": -87.507381
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9025667767",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "marathon-munster",
+   "name": "Marathon",
+   "summary": "Marathon is a car wash in Munster, IN at 9451 Calumet Avenue, Munster, IN 46321.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/marathon-munster/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/marathon-munster.json",
+   "address": {
+    "streetAddress": "9451 Calumet Avenue",
+    "addressLocality": "Munster",
+    "addressRegion": "IN",
+    "postalCode": "46321",
+    "addressCountry": "US"
+   },
+   "city": "Munster",
+   "state": "IN",
+   "zip": "46321",
+   "geo": {
+    "lat": 41.5423395,
+    "lon": -87.5083703
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1364848779",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "public-storage-munster",
+   "name": "Public Storage",
+   "summary": "Public Storage is a self-storage facility in Munster, IN at 230 45th Street, Munster, IN 46321.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/public-storage-munster/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/public-storage-munster.json",
+   "address": {
+    "streetAddress": "230 45th Street",
+    "addressLocality": "Munster",
+    "addressRegion": "IN",
+    "postalCode": "46321",
+    "addressCountry": "US"
+   },
+   "city": "Munster",
+   "state": "IN",
+   "zip": "46321",
+   "geo": {
+    "lat": 41.5423103,
+    "lon": -87.5233789
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1264659750",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "ww-studio-munster",
+   "name": "WW Studio",
+   "summary": "WW Studio is a therapy practice in Munster, IN at 7959 Calumet Avenue, Munster, IN 46321.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ww-studio-munster/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ww-studio-munster.json",
+   "address": {
+    "streetAddress": "7959 Calumet Avenue",
+    "addressLocality": "Munster",
+    "addressRegion": "IN",
+    "postalCode": "46321",
+    "addressCountry": "US"
+   },
+   "city": "Munster",
+   "state": "IN",
+   "zip": "46321",
+   "geo": {
+    "lat": 41.5684572,
+    "lon": -87.5073779
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9025667768",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "aac-munster",
+   "name": "AAC",
+   "summary": "AAC is a dentist in Munster, IN.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/aac-munster/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/aac-munster.json",
+   "address": {
+    "addressLocality": "Munster",
+    "addressRegion": "IN",
+    "addressCountry": "US"
+   },
+   "city": "Munster",
+   "state": "IN",
+   "geo": {
+    "lat": 41.5642733,
+    "lon": -87.5084919
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6417785972",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "anthem-munster",
+   "name": "Anthem",
+   "summary": "Anthem is an insurance agent in Munster, IN.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/anthem-munster/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/anthem-munster.json",
+   "address": {
+    "addressLocality": "Munster",
+    "addressRegion": "IN",
+    "addressCountry": "US"
+   },
+   "city": "Munster",
+   "state": "IN",
+   "geo": {
+    "lat": 41.5638692,
+    "lon": -87.5084987
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6417785976",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "lansing-cleaners-munster",
+   "name": "Lansing Cleaners",
+   "summary": "Lansing Cleaners is a dry cleaner in Munster, IN.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lansing-cleaners-munster/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lansing-cleaners-munster.json",
+   "address": {
+    "addressLocality": "Munster",
+    "addressRegion": "IN",
+    "addressCountry": "US"
+   },
+   "city": "Munster",
+   "state": "IN",
+   "geo": {
+    "lat": 41.5581483,
+    "lon": -87.4883411
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3790995547",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "miss-print-munster",
+   "name": "Miss Print",
+   "summary": "Miss Print is a printing service in Munster, IN.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/miss-print-munster/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/miss-print-munster.json",
+   "address": {
+    "addressLocality": "Munster",
+    "addressRegion": "IN",
+    "addressCountry": "US"
+   },
+   "city": "Munster",
+   "state": "IN",
+   "geo": {
+    "lat": 41.5629964,
+    "lon": -87.5091821
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6417786791",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "speedy-wash-munster",
+   "name": "Speedy Wash",
+   "summary": "Speedy Wash is a car wash in Munster, IN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/speedy-wash-munster/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/speedy-wash-munster.json",
+   "address": {
+    "addressLocality": "Munster",
+    "addressRegion": "IN",
+    "addressCountry": "US"
+   },
+   "city": "Munster",
+   "state": "IN",
+   "geo": {
+    "lat": 41.5386999,
+    "lon": -87.5096412
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12478574869",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

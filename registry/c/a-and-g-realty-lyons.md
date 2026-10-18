@@ -1,0 +1,23 @@
+A&G Realty is a real estate agency in Lyons, IL.
+
+# A&G Realty
+
+- Category: real estate agent
+- Services: real estate agent, realtor
+- Address: Lyons, IL
+- City: Lyons
+- State: IL
+- ZIP: n/a
+- Coordinates: 41.8160104, -87.8356471
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/a-and-g-realty-lyons/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/a-and-g-realty-lyons.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9511123777 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

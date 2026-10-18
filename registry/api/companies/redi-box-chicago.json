@@ -1,0 +1,63 @@
+{
+ "slug": "redi-box-chicago",
+ "name": "Redi-Box",
+ "categories": [
+  "movers"
+ ],
+ "keywords": [
+  "movers",
+  "moving company",
+  "movers chicago il",
+  "moving company chicago il"
+ ],
+ "services": [
+  {
+   "name": "movers",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "moving company",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1046 West Kinzie Street #349",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60642",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60642",
+ "geo": {
+  "lat": 41.8890773,
+  "lon": -87.6541437
+ },
+ "phone": "+12243667334",
+ "website": "https://www.redi-box.com/",
+ "email": "info@redi-box.com",
+ "schema_type": "MovingCompany",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/10556638784",
+ "osm": {
+  "type": "node",
+  "id": 10556638784,
+  "tags_used": {
+   "office": "moving_company"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/redi-box-chicago/",
+ "summary": "Redi-Box is a moving company in Chicago, IL at 1046 West Kinzie Street #349, Chicago, IL 60642. Phone: +12243667334. Website: https://www.redi-box.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

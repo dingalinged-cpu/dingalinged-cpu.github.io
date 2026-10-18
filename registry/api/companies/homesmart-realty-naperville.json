@@ -1,0 +1,62 @@
+{
+ "slug": "homesmart-realty-naperville",
+ "name": "HomeSmart Realty",
+ "categories": [
+  "real estate agent"
+ ],
+ "keywords": [
+  "real estate agent",
+  "realtor",
+  "real estate agent naperville il",
+  "realtor naperville il"
+ ],
+ "services": [
+  {
+   "name": "real estate agent",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "realtor",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "651 North Washington Street",
+  "addressLocality": "Naperville",
+  "addressRegion": "IL",
+  "postalCode": "60563",
+  "addressCountry": "US"
+ },
+ "city": "Naperville",
+ "state": "IL",
+ "zip": "60563",
+ "geo": {
+  "lat": 41.7833681,
+  "lon": -88.147698
+ },
+ "phone": "+16305780002",
+ "website": "https://homesmart.com/real-estate-office/office/naperville-il/naperville---homesmart-realty-group/hs0032",
+ "schema_type": "RealEstateAgent",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/8498743294",
+ "osm": {
+  "type": "node",
+  "id": 8498743294,
+  "tags_used": {
+   "office": "estate_agent"
+  }
+ },
+ "municipality": "Naperville",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/homesmart-realty-naperville/",
+ "summary": "HomeSmart Realty is a real estate agency in Naperville, IL at 651 North Washington Street, Naperville, IL 60563. Phone: +16305780002. Website: https://homesmart.com/real-estate-office/office/naperville-il/naperville---homesmart-realty-group/hs0032.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

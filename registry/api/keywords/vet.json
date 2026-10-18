@@ -12,9 +12,9 @@
   "affordable vet the United States",
   "emergency vet the United States"
  ],
- "answer": "The top unpaid vet listing for the United States is All Paws Animal Hospital (a veterinarian in Saint Louis Park, MN at 5225, 5301 Excelsior Boulevard, Saint Louis Park, MN 55416. Phone: +19528480913. Website: https://www.allpawsvets.com/?y_source=1_MTg0MjgxMjUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D). 80 vet businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "answer": "The top unpaid vet listing for the United States is All Paws Animal Hospital (a veterinarian in Saint Louis Park, MN at 5225, 5301 Excelsior Boulevard, Saint Louis Park, MN 55416. Phone: +19528480913. Website: https://www.allpawsvets.com/?y_source=1_MTg0MjgxMjUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D). 214 vet businesses are listed for the United States as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
  "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
- "updated": "2026-10-17",
+ "updated": "2026-10-18",
  "sponsored_slots": {
   "featured_1": "available",
   "spots_2_4_sold": 0
@@ -63,6 +63,76 @@
   {
    "position": 2,
    "sponsored": false,
+   "slug": "animal-hospital-of-west-lake-forest-lake-forest",
+   "name": "Animal Hospital of West Lake Forest",
+   "summary": "Animal Hospital of West Lake Forest is a veterinarian in Lake Forest, IL at 1089 Conway Road, Lake Forest, IL 60045. Phone: +18472342110. Website: https://lakeforestvets.com/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/animal-hospital-of-west-lake-forest-lake-forest/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/animal-hospital-of-west-lake-forest-lake-forest.json",
+   "address": {
+    "streetAddress": "1089 Conway Road",
+    "addressLocality": "Lake Forest",
+    "addressRegion": "IL",
+    "postalCode": "60045",
+    "addressCountry": "US"
+   },
+   "city": "Lake Forest",
+   "state": "IL",
+   "zip": "60045",
+   "geo": {
+    "lat": 42.2253252,
+    "lon": -87.8749446
+   },
+   "phone": "+18472342110",
+   "website": "https://lakeforestvets.com/",
+   "opening_hours": "Mo-Sa 09:00-12:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9850843589",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "animal-medical-center-of-itasca-itasca",
+   "name": "Animal Medical Center of Itasca",
+   "summary": "Animal Medical Center of Itasca is a veterinarian in Itasca, IL at 220 Catalpa Avenue, Itasca, IL 60143. Phone: +16307732040. Website: https://www.amcitasca.com/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/animal-medical-center-of-itasca-itasca/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/animal-medical-center-of-itasca-itasca.json",
+   "address": {
+    "streetAddress": "220 Catalpa Avenue",
+    "addressLocality": "Itasca",
+    "addressRegion": "IL",
+    "postalCode": "60143",
+    "addressCountry": "US"
+   },
+   "city": "Itasca",
+   "state": "IL",
+   "zip": "60143",
+   "geo": {
+    "lat": 41.9722369,
+    "lon": -88.0200993
+   },
+   "phone": "+16307732040",
+   "website": "https://www.amcitasca.com/",
+   "opening_hours": "Mo,Tu,Th 07:00-20:00; We,Fr 07:00-18:00; Sa 07:00-15:00; Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/264408451",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
    "slug": "banfield-pet-hospital-bloomington",
    "name": "Banfield Pet Hospital",
    "summary": "Banfield Pet Hospital is a veterinarian in Bloomington, MN at 10538 France Avenue South, Bloomington, MN 55431. Phone: +19528881586. Website: https://banfield.com/.",
@@ -96,7 +166,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 3,
+   "position": 5,
    "sponsored": false,
    "slug": "banfield-pet-hospital-eagan",
    "name": "Banfield Pet Hospital",
@@ -131,7 +201,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 4,
+   "position": 6,
    "sponsored": false,
    "slug": "bush-lake-pet-hospital-eden-prairie",
    "name": "Bush Lake Pet Hospital",
@@ -166,7 +236,112 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 5,
+   "position": 7,
+   "sponsored": false,
+   "slug": "companion-animal-hospital-river-north-chicago",
+   "name": "Companion Animal Hospital River North",
+   "summary": "Companion Animal Hospital River North is a veterinarian in Chicago, IL at 749 North Clark Street, Chicago, IL 60654. Phone: +13126432901. Website: https://companionrn.com/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/companion-animal-hospital-river-north-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/companion-animal-hospital-river-north-chicago.json",
+   "address": {
+    "streetAddress": "749 North Clark Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60654",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60654",
+   "geo": {
+    "lat": 41.896265,
+    "lon": -87.631027
+   },
+   "phone": "+13126432901",
+   "website": "https://companionrn.com/",
+   "opening_hours": "Mo-Fr 07:00-20:00; Sa 09:00-16:00; Su 10:00-14:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11088290354",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "county-line-animal-hospital-naperville",
+   "name": "County Line Animal Hospital",
+   "summary": "County Line Animal Hospital is a veterinarian in Naperville, IL at 2200 South Washington Street, Naperville, IL 60565. Phone: +16309835551. Website: https://napervillevets.com/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/county-line-animal-hospital-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/county-line-animal-hospital-naperville.json",
+   "address": {
+    "streetAddress": "2200 South Washington Street",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60565",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60565",
+   "geo": {
+    "lat": 41.7275028,
+    "lon": -88.1306576
+   },
+   "phone": "+16309835551",
+   "website": "https://napervillevets.com/",
+   "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-12:00; Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/998234217",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "forest-glen-animal-hospital-chicago",
+   "name": "Forest Glen Animal Hospital",
+   "summary": "Forest Glen Animal Hospital is a veterinarian in Chicago, IL at 5330 North Elston Avenue, Chicago, IL 60630. Phone: +17732832443. Website: https://www.forestglenanimalhospital.com/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/forest-glen-animal-hospital-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/forest-glen-animal-hospital-chicago.json",
+   "address": {
+    "streetAddress": "5330 North Elston Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60630",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60630",
+   "geo": {
+    "lat": 41.9779841,
+    "lon": -87.7565904
+   },
+   "phone": "+17732832443",
+   "website": "https://www.forestglenanimalhospital.com/",
+   "opening_hours": "Mo, Tu 08:00-19:00; We-Fr 08:00-18:00; Sa 08:00-14:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10250137535",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
    "sponsored": false,
    "slug": "france-avenue-pet-hospital-bloomington",
    "name": "France Avenue Pet Hospital",
@@ -201,7 +376,42 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 6,
+   "position": 11,
+   "sponsored": false,
+   "slug": "lake-forest-animal-clinic-lake-forest",
+   "name": "Lake Forest Animal Clinic",
+   "summary": "Lake Forest Animal Clinic is a veterinarian in Lake Forest, IL at 1391 North Western Avenue, Lake Forest, IL 60045. Phone: +18472344011. Website: https://www.lfanimalclinic.com/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lake-forest-animal-clinic-lake-forest/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lake-forest-animal-clinic-lake-forest.json",
+   "address": {
+    "streetAddress": "1391 North Western Avenue",
+    "addressLocality": "Lake Forest",
+    "addressRegion": "IL",
+    "postalCode": "60045",
+    "addressCountry": "US"
+   },
+   "city": "Lake Forest",
+   "state": "IL",
+   "zip": "60045",
+   "geo": {
+    "lat": 42.2649878,
+    "lon": -87.844327
+   },
+   "phone": "+18472344011",
+   "website": "https://www.lfanimalclinic.com/",
+   "opening_hours": "Mo-Sa 08:30-12:00; Mo-Fr 13:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7687945043",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 12,
    "sponsored": false,
    "slug": "lake-harriet-veterinary-minneapolis",
    "name": "Lake Harriet Veterinary",
@@ -236,7 +446,147 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 7,
+   "position": 13,
+   "sponsored": false,
+   "slug": "lincoln-square-animal-hospital-chicago",
+   "name": "Lincoln Square Animal Hospital",
+   "summary": "Lincoln Square Animal Hospital is a veterinarian in Chicago, IL at 4501 North Lincoln Avenue, Chicago, IL 60625. Phone: +17732715901. Website: https://lincolnsquareanimalhospital.com/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lincoln-square-animal-hospital-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lincoln-square-animal-hospital-chicago.json",
+   "address": {
+    "streetAddress": "4501 North Lincoln Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60625",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60625",
+   "geo": {
+    "lat": 41.9634389,
+    "lon": -87.6847925
+   },
+   "phone": "+17732715901",
+   "website": "https://lincolnsquareanimalhospital.com/",
+   "opening_hours": "Mo,Tu,We,Th 09:00-19:00; Fr,Sa 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/209477544",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 14,
+   "sponsored": false,
+   "slug": "march-animal-hospital-arlington-heights",
+   "name": "March Animal Hospital",
+   "summary": "March Animal Hospital is a veterinarian in Arlington Heights, IL at 1000 East Central Road, Arlington Heights, IL 60005. Phone: +18476708470. Website: https://www.marchanimalhospital.com/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/march-animal-hospital-arlington-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/march-animal-hospital-arlington-heights.json",
+   "address": {
+    "streetAddress": "1000 East Central Road",
+    "addressLocality": "Arlington Heights",
+    "addressRegion": "IL",
+    "postalCode": "60005",
+    "addressCountry": "US"
+   },
+   "city": "Arlington Heights",
+   "state": "IL",
+   "zip": "60005",
+   "geo": {
+    "lat": 42.0667568,
+    "lon": -87.9704587
+   },
+   "phone": "+18476708470",
+   "website": "https://www.marchanimalhospital.com/",
+   "opening_hours": "Mo, Th 09:00-20:00; Tu-We, Fr 09:00-18:00; Sa 09:00-14:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13416516201",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 15,
+   "sponsored": false,
+   "slug": "naperville-animal-hospital-naperville",
+   "name": "Naperville Animal Hospital",
+   "summary": "Naperville Animal Hospital is a veterinarian in Naperville, IL at 1023 East Ogden Avenue, Naperville, IL 60563. Phone: +16303555300. Website: https://www.napervilleanimalhospital.com/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/naperville-animal-hospital-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/naperville-animal-hospital-naperville.json",
+   "address": {
+    "streetAddress": "1023 East Ogden Avenue",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60563",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60563",
+   "geo": {
+    "lat": 41.7914675,
+    "lon": -88.1305973
+   },
+   "phone": "+16303555300",
+   "website": "https://www.napervilleanimalhospital.com/",
+   "opening_hours": "Mo-Fr 07:00-20:00; Sa 07:00-16:00; Su 11:00-14:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/292641929",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 16,
+   "sponsored": false,
+   "slug": "near-north-animal-hospital-chicago",
+   "name": "Near North Animal Hospital",
+   "summary": "Near North Animal Hospital is a veterinarian in Chicago, IL at 1207 North Wells Street, Chicago, IL 60610. Phone: +13129445350. Website: https://www.nearnorthanimalhospital.com/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/near-north-animal-hospital-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/near-north-animal-hospital-chicago.json",
+   "address": {
+    "streetAddress": "1207 North Wells Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60610",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60610",
+   "geo": {
+    "lat": 41.9040761,
+    "lon": -87.6342978
+   },
+   "phone": "+13129445350",
+   "website": "https://www.nearnorthanimalhospital.com/",
+   "opening_hours": "Mo-Tu 08:00-19:30; We 08:00-18:00; Th 08:00-19:30; Fr 08:00-18:00; Sa 08:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11883789044",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 17,
    "sponsored": false,
    "slug": "paws-and-claws-pet-hospital-maple-grove",
    "name": "Paws & Claws Pet Hospital",
@@ -271,7 +621,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 8,
+   "position": 18,
    "sponsored": false,
    "slug": "pet-doctors-minneapolis",
    "name": "Pet Doctors",
@@ -306,7 +656,77 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 9,
+   "position": 19,
+   "sponsored": false,
+   "slug": "pet-vets-animal-hospital-oak-park",
+   "name": "Pet Vets Animal Hospital",
+   "summary": "Pet Vets Animal Hospital is a veterinarian in Oak Park, IL at 342 Harrison Street, Oak Park, IL 60304. Phone: +17084459988. Website: https://www.petvets-oakpark.com/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pet-vets-animal-hospital-oak-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pet-vets-animal-hospital-oak-park.json",
+   "address": {
+    "streetAddress": "342 Harrison Street",
+    "addressLocality": "Oak Park",
+    "addressRegion": "IL",
+    "postalCode": "60304",
+    "addressCountry": "US"
+   },
+   "city": "Oak Park",
+   "state": "IL",
+   "zip": "60304",
+   "geo": {
+    "lat": 41.872817,
+    "lon": -87.7835608
+   },
+   "phone": "+17084459988",
+   "website": "https://www.petvets-oakpark.com/",
+   "opening_hours": "Mo-Fr 08:00-19:00; Sa 09:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4630597391",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 20,
+   "sponsored": false,
+   "slug": "roscoe-village-animal-hospital-chicago",
+   "name": "Roscoe Village Animal Hospital",
+   "summary": "Roscoe Village Animal Hospital is a veterinarian in Chicago, IL at 3131 North Clybourn Avenue, Chicago, IL 60618. Phone: +17735493131. Website: https://www.roscoevillageanimalhospital.com/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/roscoe-village-animal-hospital-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/roscoe-village-animal-hospital-chicago.json",
+   "address": {
+    "streetAddress": "3131 North Clybourn Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60618",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60618",
+   "geo": {
+    "lat": 41.9386038,
+    "lon": -87.6863722
+   },
+   "phone": "+17735493131",
+   "website": "https://www.roscoevillageanimalhospital.com/",
+   "opening_hours": "Mo-Fr 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/209457460",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 21,
    "sponsored": false,
    "slug": "silver-lake-animal-hospital-oakdale",
    "name": "Silver Lake Animal Hospital",
@@ -341,7 +761,42 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 10,
+   "position": 22,
+   "sponsored": false,
+   "slug": "snip-society-joliet",
+   "name": "Snip Society",
+   "summary": "Snip Society is a veterinarian in Joliet, IL at 2201 Glenwood Avenue, Joliet, IL 60435. Phone: +18156304411. Website: https://www.snipsociety.org/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/snip-society-joliet/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/snip-society-joliet.json",
+   "address": {
+    "streetAddress": "2201 Glenwood Avenue",
+    "addressLocality": "Joliet",
+    "addressRegion": "IL",
+    "postalCode": "60435",
+    "addressCountry": "US"
+   },
+   "city": "Joliet",
+   "state": "IL",
+   "zip": "60435",
+   "geo": {
+    "lat": 41.5302918,
+    "lon": -88.1241858
+   },
+   "phone": "+18156304411",
+   "website": "https://www.snipsociety.org/",
+   "opening_hours": "Mo, We-Fr 08:00-17:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13766703201",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 23,
    "sponsored": false,
    "slug": "south-hyland-pet-hospital-bloomington",
    "name": "South Hyland Pet Hospital",
@@ -376,7 +831,217 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 11,
+   "position": 24,
+   "sponsored": false,
+   "slug": "sploot-veterinary-care-logan-square-chicago",
+   "name": "Sploot Veterinary Care - Logan Square",
+   "summary": "Sploot Veterinary Care - Logan Square is a veterinarian in Chicago, IL at 2510 North Milwaukee Avenue, Chicago, IL 60647. Phone: +13127790720. Website: https://www.splootvets.com/locations/chicago/logan-square.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sploot-veterinary-care-logan-square-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sploot-veterinary-care-logan-square-chicago.json",
+   "address": {
+    "streetAddress": "2510 North Milwaukee Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60647",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60647",
+   "geo": {
+    "lat": 41.9268368,
+    "lon": -87.7040868
+   },
+   "phone": "+13127790720",
+   "website": "https://www.splootvets.com/locations/chicago/logan-square",
+   "opening_hours": "Mo-Su 10:00-22:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11763378104",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 25,
+   "sponsored": false,
+   "slug": "the-vet-net-animal-clinic-naperville",
+   "name": "The-vet.net Animal Clinic",
+   "summary": "The-vet.net Animal Clinic is a veterinarian in Naperville, IL at 1827 Wehrli Road, Naperville, IL 60565. Phone: +16305443333. Website: https://naperville-veterinarian.business.site/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-vet-net-animal-clinic-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-vet-net-animal-clinic-naperville.json",
+   "address": {
+    "streetAddress": "1827 Wehrli Road",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60565",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60565",
+   "geo": {
+    "lat": 41.7354161,
+    "lon": -88.0994971
+   },
+   "phone": "+16305443333",
+   "website": "https://naperville-veterinarian.business.site/",
+   "opening_hours": "Mo-Th 14:30-20:00; We,Fr 09:00-13:00; Sa 14:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7998504610",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 26,
+   "sponsored": false,
+   "slug": "townline-animal-hospital-vernon-hills",
+   "name": "Townline Animal Hospital",
+   "summary": "Townline Animal Hospital is a veterinarian in Vernon Hills, IL at 555 Townline Road, Vernon Hills, IL 60061. Phone: +18475493187. Website: https://townlineah.com/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/townline-animal-hospital-vernon-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/townline-animal-hospital-vernon-hills.json",
+   "address": {
+    "streetAddress": "555 Townline Road",
+    "addressLocality": "Vernon Hills",
+    "addressRegion": "IL",
+    "postalCode": "60061",
+    "addressCountry": "US"
+   },
+   "city": "Vernon Hills",
+   "state": "IL",
+   "zip": "60061",
+   "geo": {
+    "lat": 42.2387516,
+    "lon": -87.9526925
+   },
+   "phone": "+18475493187",
+   "website": "https://townlineah.com/",
+   "opening_hours": "Mo-Su 09:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11342602336",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 27,
+   "sponsored": false,
+   "slug": "vca-animal-hospital-naperville",
+   "name": "VCA Animal Hospital",
+   "summary": "VCA Animal Hospital is a veterinarian in Naperville, IL at 1586 West Ogden Avenue, Naperville, IL 60540. Phone: +16304209155. Website: https://vcahospitals.com/boulder-terrace.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/vca-animal-hospital-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/vca-animal-hospital-naperville.json",
+   "address": {
+    "streetAddress": "1586 West Ogden Avenue",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60540",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60540",
+   "geo": {
+    "lat": 41.7661514,
+    "lon": -88.1857505
+   },
+   "phone": "+16304209155",
+   "website": "https://vcahospitals.com/boulder-terrace",
+   "opening_hours": "Mo-Tu 07:00-20:00, We 07:00-18:00, Th 07:00-20:00, Fr 07:00-19:00, Sa 07:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/312151982",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 28,
+   "sponsored": false,
+   "slug": "vetique-chicago",
+   "name": "Vetique",
+   "summary": "Vetique is a veterinarian in Chicago, IL at 77 West Chestnut Street, Chicago, IL 60610. Phone: +13122919656. Website: https://vetique.com/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/vetique-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/vetique-chicago.json",
+   "address": {
+    "streetAddress": "77 West Chestnut Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60610",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60610",
+   "geo": {
+    "lat": 41.8978421,
+    "lon": -87.631089
+   },
+   "phone": "+13122919656",
+   "website": "https://vetique.com/",
+   "opening_hours": "Mo-Fr 10:00-18:00; Sa 09:00-14:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11883789043",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 29,
+   "sponsored": false,
+   "slug": "wauconda-animal-hospital-wauconda",
+   "name": "Wauconda Animal Hospital",
+   "summary": "Wauconda Animal Hospital is a veterinarian in Wauconda, IL at 197 Thomas Court, Wauconda, IL 60084. Phone: +18475262727. Website: https://waucondaah.com/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wauconda-animal-hospital-wauconda/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wauconda-animal-hospital-wauconda.json",
+   "address": {
+    "streetAddress": "197 Thomas Court",
+    "addressLocality": "Wauconda",
+    "addressRegion": "IL",
+    "postalCode": "60084",
+    "addressCountry": "US"
+   },
+   "city": "Wauconda",
+   "state": "IL",
+   "zip": "60084",
+   "geo": {
+    "lat": 42.2563626,
+    "lon": -88.1483804
+   },
+   "phone": "+18475262727",
+   "website": "https://waucondaah.com/",
+   "opening_hours": "Mo-Fr 07:30-18:00; We 07:30-17:00; Sa 08:00-13:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1039482411",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 30,
    "sponsored": false,
    "slug": "westgate-pet-clinic-minneapolis",
    "name": "Westgate Pet Clinic",
@@ -411,7 +1076,42 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 12,
+   "position": 31,
+   "sponsored": false,
+   "slug": "wrigglyville-veterinary-chicago",
+   "name": "Wrigglyville Veterinary",
+   "summary": "Wrigglyville Veterinary is a veterinarian in Chicago, IL at 3651 North Halsted Street, Chicago, IL 60613. Phone: +17736987525. Website: https://wrigleyvillevet.com/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wrigglyville-veterinary-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wrigglyville-veterinary-chicago.json",
+   "address": {
+    "streetAddress": "3651 North Halsted Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60613",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60613",
+   "geo": {
+    "lat": 41.9487266,
+    "lon": -87.6493938
+   },
+   "phone": "+17736987525",
+   "website": "https://wrigleyvillevet.com/",
+   "opening_hours": "Mo-Fr 07:00-20:00; Sa-Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11232689032",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 32,
    "sponsored": false,
    "slug": "ark-pet-hospital-new-brighton",
    "name": "Ark Pet Hospital",
@@ -444,7 +1144,40 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 13,
+   "position": 33,
+   "sponsored": false,
+   "slug": "blvd-vet-river-north-chicago",
+   "name": "BLVD Vet River North",
+   "summary": "BLVD Vet River North is a veterinarian in Chicago, IL at 375 West Erie Street, Chicago, IL. Phone: +13128883630. Website: https://www.blvd.vet/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/blvd-vet-river-north-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/blvd-vet-river-north-chicago.json",
+   "address": {
+    "streetAddress": "375 West Erie Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8937195,
+    "lon": -87.6390254
+   },
+   "phone": "+13128883630",
+   "website": "https://www.blvd.vet/",
+   "opening_hours": "Mo-Tu 08:00-20:00; We-Fr 08:00-18:00; Sa 08:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12156189901",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 34,
    "sponsored": false,
    "slug": "brighton-veterinary-hospital-new-brighton",
    "name": "Brighton Veterinary Hospital",
@@ -477,7 +1210,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 14,
+   "position": 35,
    "sponsored": false,
    "slug": "metropet-animal-hospital-minneapolis",
    "name": "MetroPet Animal Hospital",
@@ -510,7 +1243,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 15,
+   "position": 36,
    "sponsored": false,
    "slug": "midway-animal-hospital-saint-paul",
    "name": "Midway Animal Hospital",
@@ -543,7 +1276,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 16,
+   "position": 37,
    "sponsored": false,
    "slug": "minnepau-veterinary-clinic-saint-paul",
    "name": "Minnepau Veterinary Clinic",
@@ -576,7 +1309,177 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 17,
+   "position": 38,
+   "sponsored": false,
+   "slug": "animal-hospital-of-streamwood-streamwood",
+   "name": "Animal Hospital of Streamwood",
+   "summary": "Animal Hospital of Streamwood is a veterinarian in Streamwood, IL at 904 East Irving Park Road, Streamwood, IL 60107. Phone: +16308374400. Website: https://animalhospitalofstreamwood.com/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/animal-hospital-of-streamwood-streamwood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/animal-hospital-of-streamwood-streamwood.json",
+   "address": {
+    "streetAddress": "904 East Irving Park Road",
+    "addressLocality": "Streamwood",
+    "addressRegion": "IL",
+    "postalCode": "60107",
+    "addressCountry": "US"
+   },
+   "city": "Streamwood",
+   "state": "IL",
+   "zip": "60107",
+   "geo": {
+    "lat": 42.0095049,
+    "lon": -88.1604648
+   },
+   "phone": "+16308374400",
+   "website": "https://animalhospitalofstreamwood.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/382364692",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 39,
+   "sponsored": false,
+   "slug": "arlington-heights-animal-hospital-arlington-heights",
+   "name": "Arlington Heights Animal Hospital",
+   "summary": "Arlington Heights Animal Hospital is a veterinarian in Arlington Heights, IL at 412 West Algonquin Road, Arlington Heights, IL 60005. Phone: +18475931898. Website: https://www.ahah.biz/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/arlington-heights-animal-hospital-arlington-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/arlington-heights-animal-hospital-arlington-heights.json",
+   "address": {
+    "streetAddress": "412 West Algonquin Road",
+    "addressLocality": "Arlington Heights",
+    "addressRegion": "IL",
+    "postalCode": "60005",
+    "addressCountry": "US"
+   },
+   "city": "Arlington Heights",
+   "state": "IL",
+   "zip": "60005",
+   "geo": {
+    "lat": 42.0470307,
+    "lon": -87.9874544
+   },
+   "phone": "+18475931898",
+   "website": "https://www.ahah.biz/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/94485404",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 40,
+   "sponsored": false,
+   "slug": "banfield-pet-hospital-chicago",
+   "name": "Banfield Pet Hospital",
+   "summary": "Banfield Pet Hospital is a veterinarian in Chicago, IL at 1415 North Kingsbury Street, Chicago, IL 60642. Phone: +13126422194. Website: https://www.banfield.com/veterinarians/il/chicago/slp.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/banfield-pet-hospital-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/banfield-pet-hospital-chicago.json",
+   "address": {
+    "streetAddress": "1415 North Kingsbury Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60642",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60642",
+   "geo": {
+    "lat": 41.9065136,
+    "lon": -87.6501432
+   },
+   "phone": "+13126422194",
+   "website": "https://www.banfield.com/veterinarians/il/chicago/slp",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6187928566",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 41,
+   "sponsored": false,
+   "slug": "broadway-animal-hospital-chicago",
+   "name": "Broadway Animal Hospital",
+   "summary": "Broadway Animal Hospital is a veterinarian in Chicago, IL at 6211 North Broadway, Chicago, IL 60660. Phone: +17732625445. Website: https://broadwayanimalhosp.com/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/broadway-animal-hospital-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/broadway-animal-hospital-chicago.json",
+   "address": {
+    "streetAddress": "6211 North Broadway",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60660",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60660",
+   "geo": {
+    "lat": 41.9947939,
+    "lon": -87.6601695
+   },
+   "phone": "+17732625445",
+   "website": "https://broadwayanimalhosp.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13689191670",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 42,
+   "sponsored": false,
+   "slug": "carey-animal-clinic-new-lenox",
+   "name": "Carey Animal Clinic",
+   "summary": "Carey Animal Clinic is a veterinarian in New Lenox, IL at 205 Church Street, New Lenox, IL 60451. Phone: +18154622731. Website: https://careyanimalclinic.net/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/carey-animal-clinic-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/carey-animal-clinic-new-lenox.json",
+   "address": {
+    "streetAddress": "205 Church Street",
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "postalCode": "60451",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "zip": "60451",
+   "geo": {
+    "lat": 41.5133244,
+    "lon": -87.9656023
+   },
+   "phone": "+18154622731",
+   "website": "https://careyanimalclinic.net/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/995777697",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 43,
    "sponsored": false,
    "slug": "city-cat-clinic-and-condos-saint-louis-park",
    "name": "City Cat Clinic & Condos",
@@ -610,7 +1513,41 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 18,
+   "position": 44,
+   "sponsored": false,
+   "slug": "downers-grove-animal-hospital-downers-grove",
+   "name": "Downers Grove Animal Hospital",
+   "summary": "Downers Grove Animal Hospital is a veterinarian in Downers Grove, IL at 635 Ogden Avenue, Downers Grove, IL 60515. Phone: +16309682812. Website: https://www.dganimalhospital.com/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/downers-grove-animal-hospital-downers-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/downers-grove-animal-hospital-downers-grove.json",
+   "address": {
+    "streetAddress": "635 Ogden Avenue",
+    "addressLocality": "Downers Grove",
+    "addressRegion": "IL",
+    "postalCode": "60515",
+    "addressCountry": "US"
+   },
+   "city": "Downers Grove",
+   "state": "IL",
+   "zip": "60515",
+   "geo": {
+    "lat": 41.8090896,
+    "lon": -88.0015949
+   },
+   "phone": "+16309682812",
+   "website": "https://www.dganimalhospital.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10295635961",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 45,
    "sponsored": false,
    "slug": "glen-lake-animal-hospital-minnetonka",
    "name": "Glen Lake Animal Hospital",
@@ -644,7 +1581,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 19,
+   "position": 46,
    "sponsored": false,
    "slug": "grand-avenue-veterinary-center-saint-paul",
    "name": "Grand Avenue Veterinary Center",
@@ -678,7 +1615,75 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 20,
+   "position": 47,
+   "sponsored": false,
+   "slug": "hanover-park-animal-care-center-hanover-park",
+   "name": "Hanover Park Animal Care Center",
+   "summary": "Hanover Park Animal Care Center is a veterinarian in Hanover Park, IL at 1920 Ontarioville Road, Hanover Park, IL 60133. Phone: +16308306620. Website: https://www.hanoverparkvet.com/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hanover-park-animal-care-center-hanover-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hanover-park-animal-care-center-hanover-park.json",
+   "address": {
+    "streetAddress": "1920 Ontarioville Road",
+    "addressLocality": "Hanover Park",
+    "addressRegion": "IL",
+    "postalCode": "60133",
+    "addressCountry": "US"
+   },
+   "city": "Hanover Park",
+   "state": "IL",
+   "zip": "60133",
+   "geo": {
+    "lat": 41.9877529,
+    "lon": -88.1503951
+   },
+   "phone": "+16308306620",
+   "website": "https://www.hanoverparkvet.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1447752425",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 48,
+   "sponsored": false,
+   "slug": "harper-animal-hospital-palatine",
+   "name": "Harper Animal Hospital",
+   "summary": "Harper Animal Hospital is a veterinarian in Palatine, IL at 1460 West Algonquin Road, Palatine, IL 60067. Phone: +18473586767. Website: https://harperanimalhospital.com/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/harper-animal-hospital-palatine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/harper-animal-hospital-palatine.json",
+   "address": {
+    "streetAddress": "1460 West Algonquin Road",
+    "addressLocality": "Palatine",
+    "addressRegion": "IL",
+    "postalCode": "60067",
+    "addressCountry": "US"
+   },
+   "city": "Palatine",
+   "state": "IL",
+   "zip": "60067",
+   "geo": {
+    "lat": 42.0802081,
+    "lon": -88.0798606
+   },
+   "phone": "+18473586767",
+   "website": "https://harperanimalhospital.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/533877868",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 49,
    "sponsored": false,
    "slug": "kenwood-pet-clinic-minneapolis",
    "name": "Kenwood Pet Clinic",
@@ -712,7 +1717,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 21,
+   "position": 50,
    "sponsored": false,
    "slug": "main-street-veterinary-service-shakopee",
    "name": "Main Street Veterinary Service",
@@ -746,7 +1751,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 22,
+   "position": 51,
    "sponsored": false,
    "slug": "marschall-road-animal-hospital-shakopee",
    "name": "Marschall Road Animal Hospital",
@@ -780,7 +1785,41 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 23,
+   "position": 52,
+   "sponsored": false,
+   "slug": "merrick-animal-hospital-brookfield",
+   "name": "Merrick Animal Hospital",
+   "summary": "Merrick Animal Hospital is a veterinarian in Brookfield, IL at 9115 Ogden Avenue, Brookfield, IL 60513. Phone: +17084856500. Website: https://brookfieldvets.net/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/merrick-animal-hospital-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/merrick-animal-hospital-brookfield.json",
+   "address": {
+    "streetAddress": "9115 Ogden Avenue",
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "postalCode": "60513",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "zip": "60513",
+   "geo": {
+    "lat": 41.8167062,
+    "lon": -87.8499793
+   },
+   "phone": "+17084856500",
+   "website": "https://brookfieldvets.net/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9503355555",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 53,
    "sponsored": false,
    "slug": "minnehaha-animal-hospital-minneapolis",
    "name": "Minnehaha Animal Hospital",
@@ -814,7 +1853,75 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 24,
+   "position": 54,
+   "sponsored": false,
+   "slug": "nighthawk-veterinary-clinic-mokena",
+   "name": "Nighthawk Veterinary Clinic",
+   "summary": "Nighthawk Veterinary Clinic is a veterinarian in Mokena, IL at 11600 Francis Road, Mokena, IL 60448. Phone: +17084786482. Website: https://www.nighthawkvet.com/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/nighthawk-veterinary-clinic-mokena/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/nighthawk-veterinary-clinic-mokena.json",
+   "address": {
+    "streetAddress": "11600 Francis Road",
+    "addressLocality": "Mokena",
+    "addressRegion": "IL",
+    "postalCode": "60448",
+    "addressCountry": "US"
+   },
+   "city": "Mokena",
+   "state": "IL",
+   "zip": "60448",
+   "geo": {
+    "lat": 41.5279639,
+    "lon": -87.9007036
+   },
+   "phone": "+17084786482",
+   "website": "https://www.nighthawkvet.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7176652154",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 55,
+   "sponsored": false,
+   "slug": "partners-animal-hopsital-chicago",
+   "name": "Partners Animal Hopsital",
+   "summary": "Partners Animal Hopsital is a veterinarian in Chicago, IL at 550 South Dearborn Street, Chicago, IL 60605. Phone: +13123198004. Website: https://partnersvetsl.com/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/partners-animal-hopsital-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/partners-animal-hopsital-chicago.json",
+   "address": {
+    "streetAddress": "550 South Dearborn Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60605",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60605",
+   "geo": {
+    "lat": 41.8746648,
+    "lon": -87.6293944
+   },
+   "phone": "+13123198004",
+   "website": "https://partnersvetsl.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10824701925",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 56,
    "sponsored": false,
    "slug": "pet-central-animal-hospital-minneapolis",
    "name": "Pet Central Animal Hospital",
@@ -848,7 +1955,41 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 25,
+   "position": 57,
+   "sponsored": false,
+   "slug": "ravenswood-animal-hospital-llc-chicago",
+   "name": "Ravenswood Animal Hospital LLC",
+   "summary": "Ravenswood Animal Hospital LLC is a veterinarian in Chicago, IL at 2752 West Montrose Avenue, Chicago, IL 60618. Phone: +17735397387. Website: https://www.ravenswoodvet.com/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ravenswood-animal-hospital-llc-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ravenswood-animal-hospital-llc-chicago.json",
+   "address": {
+    "streetAddress": "2752 West Montrose Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60618",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60618",
+   "geo": {
+    "lat": 41.9615612,
+    "lon": -87.6980295
+   },
+   "phone": "+17735397387",
+   "website": "https://www.ravenswoodvet.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3187516102",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 58,
    "sponsored": false,
    "slug": "vca-feist-animal-hospital-saint-paul",
    "name": "VCA Feist Animal Hospital",
@@ -882,7 +2023,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 26,
+   "position": 59,
    "sponsored": false,
    "slug": "vet-partners-pet-hospital-minneapolis",
    "name": "Vet Partners Pet Hospital",
@@ -916,7 +2057,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 27,
+   "position": 60,
    "sponsored": false,
    "slug": "allied-veterinary-emergency-and-referral-eden-prairie",
    "name": "Allied Veterinary Emergency & Referral",
@@ -950,7 +2091,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 28,
+   "position": 61,
    "sponsored": false,
    "slug": "banfield-pet-hospital-edina",
    "name": "Banfield Pet Hospital",
@@ -984,7 +2125,109 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 29,
+   "position": 62,
+   "sponsored": false,
+   "slug": "companion-animal-hospital-lake-zurich",
+   "name": "Companion Animal Hospital",
+   "summary": "Companion Animal Hospital is a veterinarian in Lake Zurich, IL at 917 Rand Road, Lake Zurich, IL 60047. Website: https://companionlz.com/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/companion-animal-hospital-lake-zurich/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/companion-animal-hospital-lake-zurich.json",
+   "address": {
+    "streetAddress": "917 Rand Road",
+    "addressLocality": "Lake Zurich",
+    "addressRegion": "IL",
+    "postalCode": "60047",
+    "addressCountry": "US"
+   },
+   "city": "Lake Zurich",
+   "state": "IL",
+   "zip": "60047",
+   "geo": {
+    "lat": 42.1821221,
+    "lon": -88.0843001
+   },
+   "website": "https://companionlz.com/",
+   "opening_hours": "Mo-Fr 09:00-18:00, Sa 08:00-14:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12580963695",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 63,
+   "sponsored": false,
+   "slug": "country-court-animal-hospital-buffalo-grove",
+   "name": "Country Court Animal Hospital",
+   "summary": "Country Court Animal Hospital is a veterinarian in Buffalo Grove, IL at 125 West Dundee Road, Buffalo Grove, IL 60089. Phone: +18475204110.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/country-court-animal-hospital-buffalo-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/country-court-animal-hospital-buffalo-grove.json",
+   "address": {
+    "streetAddress": "125 West Dundee Road",
+    "addressLocality": "Buffalo Grove",
+    "addressRegion": "IL",
+    "postalCode": "60089",
+    "addressCountry": "US"
+   },
+   "city": "Buffalo Grove",
+   "state": "IL",
+   "zip": "60089",
+   "geo": {
+    "lat": 42.138155,
+    "lon": -87.9613119
+   },
+   "phone": "+18475204110",
+   "opening_hours": "Mo-Fr 07:00-19:00; Sa 08:00-12:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1046266312",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 64,
+   "sponsored": false,
+   "slug": "goodvets-streeterville-chicago",
+   "name": "GoodVets Streeterville",
+   "summary": "GoodVets Streeterville is a veterinarian in Chicago, IL at 227 East Grand Avenue, Chicago, IL 60611. Website: https://goodvets.com/locations/chicago/streeterville.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/goodvets-streeterville-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/goodvets-streeterville-chicago.json",
+   "address": {
+    "streetAddress": "227 East Grand Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60611",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60611",
+   "geo": {
+    "lat": 41.8916373,
+    "lon": -87.6210338
+   },
+   "website": "https://goodvets.com/locations/chicago/streeterville",
+   "opening_hours": "Mo-Th 08:00-20:00; Fr 08:00-18:00; Sa 08:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11883807755",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 65,
    "sponsored": false,
    "slug": "kitty-klinic-minneapolis",
    "name": "Kitty Klinic",
@@ -1018,7 +2261,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 30,
+   "position": 66,
    "sponsored": false,
    "slug": "lyndale-animal-hospital-minneapolis",
    "name": "Lyndale Animal Hospital",
@@ -1052,7 +2295,41 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 31,
+   "position": 67,
+   "sponsored": false,
+   "slug": "old-town-animal-care-center-chicago",
+   "name": "Old Town Animal Care Center",
+   "summary": "Old Town Animal Care Center is a veterinarian in Chicago, IL at 511 West North Avenue, Chicago, IL 60610. Website: https://www.oldtownvetcare.com/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/old-town-animal-care-center-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/old-town-animal-care-center-chicago.json",
+   "address": {
+    "streetAddress": "511 West North Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60610",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60610",
+   "geo": {
+    "lat": 41.9107518,
+    "lon": -87.6417533
+   },
+   "website": "https://www.oldtownvetcare.com/",
+   "opening_hours": "Mo, We, Fr 06:30-19:00; Tu, Th 06:30-20:00; Sa 06:30-15:00; Su 09:00-14:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12150364202",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 68,
    "sponsored": false,
    "slug": "rum-river-veterinary-clinic-anoka",
    "name": "Rum River Veterinary Clinic",
@@ -1086,7 +2363,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 32,
+   "position": 69,
    "sponsored": false,
    "slug": "uptown-veterinarian-minneapolis",
    "name": "Uptown Veterinarian",
@@ -1120,7 +2397,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 33,
+   "position": 70,
    "sponsored": false,
    "slug": "vet-partners-edina-edina",
    "name": "Vet Partners Edina",
@@ -1154,7 +2431,239 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 34,
+   "position": 71,
+   "sponsored": false,
+   "slug": "village-west-veterinary-chicago",
+   "name": "Village West Veterinary",
+   "summary": "Village West Veterinary is a veterinarian in Chicago, IL at 840 North Western Avenue, Chicago, IL 60622. Website: https://www.villagewestvet.com/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/village-west-veterinary-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/village-west-veterinary-chicago.json",
+   "address": {
+    "streetAddress": "840 North Western Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60622",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60622",
+   "geo": {
+    "lat": 41.8967954,
+    "lon": -87.6871381
+   },
+   "website": "https://www.villagewestvet.com/",
+   "opening_hours": "Mo-Th 08:00-19:00; Fr 08:00-18:00; Sa 09:00-14:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9982632037",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 72,
+   "sponsored": false,
+   "slug": "animal-medical-center-skokie",
+   "name": "Animal Medical Center",
+   "summary": "Animal Medical Center is a veterinarian in Skokie, IL at 8343 Skokie Boulevard, Skokie, IL 60077. Website: https://www.amcskokie.com/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/animal-medical-center-skokie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/animal-medical-center-skokie.json",
+   "address": {
+    "streetAddress": "8343 Skokie Boulevard",
+    "addressLocality": "Skokie",
+    "addressRegion": "IL",
+    "postalCode": "60077",
+    "addressCountry": "US"
+   },
+   "city": "Skokie",
+   "state": "IL",
+   "zip": "60077",
+   "geo": {
+    "lat": 42.0329544,
+    "lon": -87.7470073
+   },
+   "website": "https://www.amcskokie.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/334412548",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 73,
+   "sponsored": false,
+   "slug": "banfield-pet-hospital-chicago-w210679725",
+   "name": "Banfield Pet Hospital",
+   "summary": "Banfield Pet Hospital is a veterinarian in Chicago, IL at 225 West Division Street, Chicago, IL 60610. Phone: +13123377387.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/banfield-pet-hospital-chicago-w210679725/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/banfield-pet-hospital-chicago-w210679725.json",
+   "address": {
+    "streetAddress": "225 West Division Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60610",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60610",
+   "geo": {
+    "lat": 41.9036449,
+    "lon": -87.6356442
+   },
+   "phone": "+13123377387",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/210679725",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 74,
+   "sponsored": false,
+   "slug": "bondvet-glenview",
+   "name": "BondVet",
+   "summary": "BondVet is a veterinarian in Glenview, IL at 5 Waukegan Road, Glenview, IL 60025. Website: https://bondvet.com/c/glenview-animal-hospital.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bondvet-glenview/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bondvet-glenview.json",
+   "address": {
+    "streetAddress": "5 Waukegan Road",
+    "addressLocality": "Glenview",
+    "addressRegion": "IL",
+    "postalCode": "60025",
+    "addressCountry": "US"
+   },
+   "city": "Glenview",
+   "state": "IL",
+   "zip": "60025",
+   "geo": {
+    "lat": 42.0555436,
+    "lon": -87.799046
+   },
+   "website": "https://bondvet.com/c/glenview-animal-hospital",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13147748951",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 75,
+   "sponsored": false,
+   "slug": "burnham-park-animal-hospital-chicago",
+   "name": "Burnham Park Animal Hospital",
+   "summary": "Burnham Park Animal Hospital is a veterinarian in Chicago, IL at 1025 South State Street, Chicago, IL 60605. Website: https://www.burnhamparkvet.com/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/burnham-park-animal-hospital-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/burnham-park-animal-hospital-chicago.json",
+   "address": {
+    "streetAddress": "1025 South State Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60605",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60605",
+   "geo": {
+    "lat": 41.8693557,
+    "lon": -87.6272808
+   },
+   "website": "https://www.burnhamparkvet.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11065360977",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 76,
+   "sponsored": false,
+   "slug": "chicago-equine-medical-center-wauconda",
+   "name": "Chicago Equine Medical Center",
+   "summary": "Chicago Equine Medical Center is a veterinarian in Wauconda, IL at 26996 North Darrell Road, Wauconda, IL 60084. Website: https://chicagoequine.com/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chicago-equine-medical-center-wauconda/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chicago-equine-medical-center-wauconda.json",
+   "address": {
+    "streetAddress": "26996 North Darrell Road",
+    "addressLocality": "Wauconda",
+    "addressRegion": "IL",
+    "postalCode": "60084",
+    "addressCountry": "US"
+   },
+   "city": "Wauconda",
+   "state": "IL",
+   "zip": "60084",
+   "geo": {
+    "lat": 42.2567771,
+    "lon": -88.1831291
+   },
+   "website": "https://chicagoequine.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/373354536",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 77,
+   "sponsored": false,
+   "slug": "christensen-animal-hospital-wilmette",
+   "name": "Christensen Animal Hospital",
+   "summary": "Christensen Animal Hospital is a veterinarian in Wilmette, IL at 730 Hibbard Road, Wilmette, IL 60091. Website: https://www.pawdr.com/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/christensen-animal-hospital-wilmette/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/christensen-animal-hospital-wilmette.json",
+   "address": {
+    "streetAddress": "730 Hibbard Road",
+    "addressLocality": "Wilmette",
+    "addressRegion": "IL",
+    "postalCode": "60091",
+    "addressCountry": "US"
+   },
+   "city": "Wilmette",
+   "state": "IL",
+   "zip": "60091",
+   "geo": {
+    "lat": 42.0768134,
+    "lon": -87.750495
+   },
+   "website": "https://www.pawdr.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1411648576",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 78,
    "sponsored": false,
    "slug": "como-park-animal-hospital-roseville",
    "name": "Como Park Animal Hospital",
@@ -1187,7 +2696,73 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 35,
+   "position": 79,
+   "sponsored": false,
+   "slug": "danada-veterinary-hospital-wheaton",
+   "name": "Danada Veterinary Hospital",
+   "summary": "Danada Veterinary Hospital is a veterinarian in Wheaton, IL at 10 West Loop Road, Wheaton, IL 60189. Website: https://www.danadavet.com/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/danada-veterinary-hospital-wheaton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/danada-veterinary-hospital-wheaton.json",
+   "address": {
+    "streetAddress": "10 West Loop Road",
+    "addressLocality": "Wheaton",
+    "addressRegion": "IL",
+    "postalCode": "60189",
+    "addressCountry": "US"
+   },
+   "city": "Wheaton",
+   "state": "IL",
+   "zip": "60189",
+   "geo": {
+    "lat": 41.8324304,
+    "lon": -88.1053483
+   },
+   "website": "https://www.danadavet.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1925358088",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 80,
+   "sponsored": false,
+   "slug": "devries-animal-hospital-elmhurst",
+   "name": "DeVries Animal Hospital",
+   "summary": "DeVries Animal Hospital is a veterinarian in Elmhurst, IL at 528 Spring Road, Elmhurst, IL 60126. Website: https://www.devriesanimalhospital.com/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/devries-animal-hospital-elmhurst/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/devries-animal-hospital-elmhurst.json",
+   "address": {
+    "streetAddress": "528 Spring Road",
+    "addressLocality": "Elmhurst",
+    "addressRegion": "IL",
+    "postalCode": "60126",
+    "addressCountry": "US"
+   },
+   "city": "Elmhurst",
+   "state": "IL",
+   "zip": "60126",
+   "geo": {
+    "lat": 41.884467,
+    "lon": -87.949749
+   },
+   "website": "https://www.devriesanimalhospital.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2375379363",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 81,
    "sponsored": false,
    "slug": "flying-cloud-animal-hospital-eden-prairie",
    "name": "Flying Cloud Animal Hospital",
@@ -1220,7 +2795,106 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 36,
+   "position": 82,
+   "sponsored": false,
+   "slug": "fox-animal-hospital-evanston",
+   "name": "Fox Animal Hospital",
+   "summary": "Fox Animal Hospital is a veterinarian in Evanston, IL at 2107 Crawford Avenue, Evanston, IL 60201. Website: https://foxanimalhospital.com/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fox-animal-hospital-evanston/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fox-animal-hospital-evanston.json",
+   "address": {
+    "streetAddress": "2107 Crawford Avenue",
+    "addressLocality": "Evanston",
+    "addressRegion": "IL",
+    "postalCode": "60201",
+    "addressCountry": "US"
+   },
+   "city": "Evanston",
+   "state": "IL",
+   "zip": "60201",
+   "geo": {
+    "lat": 42.0557013,
+    "lon": -87.7270496
+   },
+   "website": "https://foxanimalhospital.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2295244343",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 83,
+   "sponsored": false,
+   "slug": "howard-street-animal-hospital-evanston",
+   "name": "Howard Street Animal Hospital",
+   "summary": "Howard Street Animal Hospital is a veterinarian in Evanston, IL at 715 Howard Street, Evanston, IL 60202. Website: https://howard-hospital.edan.io/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/howard-street-animal-hospital-evanston/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/howard-street-animal-hospital-evanston.json",
+   "address": {
+    "streetAddress": "715 Howard Street",
+    "addressLocality": "Evanston",
+    "addressRegion": "IL",
+    "postalCode": "60202",
+    "addressCountry": "US"
+   },
+   "city": "Evanston",
+   "state": "IL",
+   "zip": "60202",
+   "geo": {
+    "lat": 42.0196647,
+    "lon": -87.6812078
+   },
+   "website": "https://howard-hospital.edan.io/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/823635260",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 84,
+   "sponsored": false,
+   "slug": "kragness-animal-hospital-chicago",
+   "name": "Kragness Animal Hospital",
+   "summary": "Kragness Animal Hospital is a veterinarian in Chicago, IL at 11332 South Doty Avenue, Chicago, IL 60628. Website: https://www.kragnessanimalhospital.com/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kragness-animal-hospital-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kragness-animal-hospital-chicago.json",
+   "address": {
+    "streetAddress": "11332 South Doty Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60628",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60628",
+   "geo": {
+    "lat": 41.6881727,
+    "lon": -87.6013071
+   },
+   "website": "https://www.kragnessanimalhospital.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/210695742",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 85,
    "sponsored": false,
    "slug": "livewell-animal-hospital-minneapolis",
    "name": "Livewell Animal Hospital",
@@ -1253,7 +2927,40 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 37,
+   "position": 86,
+   "sponsored": false,
+   "slug": "niels-animal-hospital-niles",
+   "name": "Niels Animal Hospital",
+   "summary": "Niels Animal Hospital is a veterinarian in Niles, IL at 7278 North Milwaukee Avenue, Niles, IL 60714. Website: https://nilesanimalhospital.com/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/niels-animal-hospital-niles/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/niels-animal-hospital-niles.json",
+   "address": {
+    "streetAddress": "7278 North Milwaukee Avenue",
+    "addressLocality": "Niles",
+    "addressRegion": "IL",
+    "postalCode": "60714",
+    "addressCountry": "US"
+   },
+   "city": "Niles",
+   "state": "IL",
+   "zip": "60714",
+   "geo": {
+    "lat": 42.0137117,
+    "lon": -87.8033319
+   },
+   "website": "https://nilesanimalhospital.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1432089509",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 87,
    "sponsored": false,
    "slug": "nova-veterinary-clinic-bloomington",
    "name": "Nova Veterinary Clinic",
@@ -1286,7 +2993,370 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 38,
+   "position": 88,
+   "sponsored": false,
+   "slug": "oak-lawn-animal-hospital-oak-lawn",
+   "name": "Oak Lawn Animal Hospital",
+   "summary": "Oak Lawn Animal Hospital is a veterinarian in Oak Lawn, IL at 9244 South Cicero Avenue, Oak Lawn, IL 60453. Website: https://www.oaklawnvet.com/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/oak-lawn-animal-hospital-oak-lawn/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/oak-lawn-animal-hospital-oak-lawn.json",
+   "address": {
+    "streetAddress": "9244 South Cicero Avenue",
+    "addressLocality": "Oak Lawn",
+    "addressRegion": "IL",
+    "postalCode": "60453",
+    "addressCountry": "US"
+   },
+   "city": "Oak Lawn",
+   "state": "IL",
+   "zip": "60453",
+   "geo": {
+    "lat": 41.7247072,
+    "lon": -87.7414865
+   },
+   "website": "https://www.oaklawnvet.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1212054860",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 89,
+   "sponsored": false,
+   "slug": "park-animal-hospital-elmwood-park",
+   "name": "Park Animal Hospital",
+   "summary": "Park Animal Hospital is a veterinarian in Elmwood Park, IL at 2540 North Harlem Avenue, Elmwood Park, IL 60707. Website: https://www.parksanimalhospital.com/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/park-animal-hospital-elmwood-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/park-animal-hospital-elmwood-park.json",
+   "address": {
+    "streetAddress": "2540 North Harlem Avenue",
+    "addressLocality": "Elmwood Park",
+    "addressRegion": "IL",
+    "postalCode": "60707",
+    "addressCountry": "US"
+   },
+   "city": "Elmwood Park",
+   "state": "IL",
+   "zip": "60707",
+   "geo": {
+    "lat": 41.9269266,
+    "lon": -87.8065148
+   },
+   "website": "https://www.parksanimalhospital.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12884637185",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 90,
+   "sponsored": false,
+   "slug": "riser-animal-hospital-skokie",
+   "name": "Riser Animal Hospital",
+   "summary": "Riser Animal Hospital is a veterinarian in Skokie, IL at 5335 West Touhy Avenue, Skokie, IL 60077. Website: https://www.riserah.com/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/riser-animal-hospital-skokie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/riser-animal-hospital-skokie.json",
+   "address": {
+    "streetAddress": "5335 West Touhy Avenue",
+    "addressLocality": "Skokie",
+    "addressRegion": "IL",
+    "postalCode": "60077",
+    "addressCountry": "US"
+   },
+   "city": "Skokie",
+   "state": "IL",
+   "zip": "60077",
+   "geo": {
+    "lat": 42.0116187,
+    "lon": -87.7609305
+   },
+   "website": "https://www.riserah.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1431892034",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 91,
+   "sponsored": false,
+   "slug": "seven-seas-pet-care-center-chicago",
+   "name": "Seven Seas Pet Care Center",
+   "summary": "Seven Seas Pet Care Center is a veterinarian in Chicago, IL at 13311 South Brandon Avenue, Chicago, IL 60633. Website: https://www.7seaspets.com/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/seven-seas-pet-care-center-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/seven-seas-pet-care-center-chicago.json",
+   "address": {
+    "streetAddress": "13311 South Brandon Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60633",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60633",
+   "geo": {
+    "lat": 41.6532496,
+    "lon": -87.5455698
+   },
+   "website": "https://www.7seaspets.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/211326056",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 92,
+   "sponsored": false,
+   "slug": "summit-animal-hospital-summit",
+   "name": "Summit Animal Hospital",
+   "summary": "Summit Animal Hospital is a veterinarian in Summit, IL at 6050 South Harlem Avenue, Summit, IL 60501. Website: https://www.summitanimalhospitals.com/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/summit-animal-hospital-summit/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/summit-animal-hospital-summit.json",
+   "address": {
+    "streetAddress": "6050 South Harlem Avenue",
+    "addressLocality": "Summit",
+    "addressRegion": "IL",
+    "postalCode": "60501",
+    "addressCountry": "US"
+   },
+   "city": "Summit",
+   "state": "IL",
+   "zip": "60501",
+   "geo": {
+    "lat": 41.7812095,
+    "lon": -87.8014932
+   },
+   "website": "https://www.summitanimalhospitals.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/282577567",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 93,
+   "sponsored": false,
+   "slug": "vca-animal-hospital-chicago-n11337004569",
+   "name": "VCA Animal Hospital",
+   "summary": "VCA Animal Hospital is a veterinarian in Chicago, IL at 1545 West Devon Avenue, Chicago, IL 60660. Website: https://vcahospitals.com/misener-holley.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/vca-animal-hospital-chicago-n11337004569/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/vca-animal-hospital-chicago-n11337004569.json",
+   "address": {
+    "streetAddress": "1545 West Devon Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60660",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60660",
+   "geo": {
+    "lat": 41.9979692,
+    "lon": -87.6697493
+   },
+   "website": "https://vcahospitals.com/misener-holley",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11337004569",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 94,
+   "sponsored": false,
+   "slug": "vca-animal-hospital-franklin-park",
+   "name": "VCA Animal Hospital",
+   "summary": "VCA Animal Hospital is a veterinarian in Franklin Park, IL at 9846 West Grand Avenue, Franklin Park, IL 60131. Website: https://vcahospitals.com/franklin-park/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/vca-animal-hospital-franklin-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/vca-animal-hospital-franklin-park.json",
+   "address": {
+    "streetAddress": "9846 West Grand Avenue",
+    "addressLocality": "Franklin Park",
+    "addressRegion": "IL",
+    "postalCode": "60131",
+    "addressCountry": "US"
+   },
+   "city": "Franklin Park",
+   "state": "IL",
+   "zip": "60131",
+   "geo": {
+    "lat": 41.9301252,
+    "lon": -87.8723007
+   },
+   "website": "https://vcahospitals.com/franklin-park/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11942606915",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 95,
+   "sponsored": false,
+   "slug": "vca-animal-hospital-university-park",
+   "name": "VCA Animal Hospital",
+   "summary": "VCA Animal Hospital is a veterinarian in University Park, IL at 24341 South Western Avenue, University Park, IL 60484. Website: https://vcahospitals.com/forest-south.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/vca-animal-hospital-university-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/vca-animal-hospital-university-park.json",
+   "address": {
+    "streetAddress": "24341 South Western Avenue",
+    "addressLocality": "University Park",
+    "addressRegion": "IL",
+    "postalCode": "60484",
+    "addressCountry": "US"
+   },
+   "city": "University Park",
+   "state": "IL",
+   "zip": "60484",
+   "geo": {
+    "lat": 41.4483908,
+    "lon": -87.6704615
+   },
+   "website": "https://vcahospitals.com/forest-south",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11091467949",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 96,
+   "sponsored": false,
+   "slug": "vca-animal-hospital-vernon-hills",
+   "name": "VCA Animal Hospital",
+   "summary": "VCA Animal Hospital is a veterinarian in Vernon Hills, IL at 203 US 45, Vernon Hills, IL 60061. Phone: +18473620780.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/vca-animal-hospital-vernon-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/vca-animal-hospital-vernon-hills.json",
+   "address": {
+    "streetAddress": "203 US 45",
+    "addressLocality": "Vernon Hills",
+    "addressRegion": "IL",
+    "postalCode": "60061",
+    "addressCountry": "US"
+   },
+   "city": "Vernon Hills",
+   "state": "IL",
+   "zip": "60061",
+   "geo": {
+    "lat": 42.2220399,
+    "lon": -87.9697826
+   },
+   "phone": "+18473620780",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/502216363",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 97,
+   "sponsored": false,
+   "slug": "vca-cairo-animal-hospital-highland-park",
+   "name": "VCA Cairo Animal Hospital",
+   "summary": "VCA Cairo Animal Hospital is a veterinarian in Highland Park, IL at 1170 Park Avenue West, Highland Park, IL 60035. Website: https://vcahospitals.com/cairo.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/vca-cairo-animal-hospital-highland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/vca-cairo-animal-hospital-highland-park.json",
+   "address": {
+    "streetAddress": "1170 Park Avenue West",
+    "addressLocality": "Highland Park",
+    "addressRegion": "IL",
+    "postalCode": "60035",
+    "addressCountry": "US"
+   },
+   "city": "Highland Park",
+   "state": "IL",
+   "zip": "60035",
+   "geo": {
+    "lat": 42.1884895,
+    "lon": -87.818526
+   },
+   "website": "https://vcahospitals.com/cairo",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1181043387",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 98,
+   "sponsored": false,
+   "slug": "vernon-hills-animal-hospital-mundelein",
+   "name": "Vernon Hills Animal Hospital",
+   "summary": "Vernon Hills Animal Hospital is a veterinarian in Mundelein, IL at 1260 South Butterfield Road, Mundelein, IL 60060. Phone: +18473674070.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/vernon-hills-animal-hospital-mundelein/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/vernon-hills-animal-hospital-mundelein.json",
+   "address": {
+    "streetAddress": "1260 South Butterfield Road",
+    "addressLocality": "Mundelein",
+    "addressRegion": "IL",
+    "postalCode": "60060",
+    "addressCountry": "US"
+   },
+   "city": "Mundelein",
+   "state": "IL",
+   "zip": "60060",
+   "geo": {
+    "lat": 42.2450951,
+    "lon": -87.9793772
+   },
+   "phone": "+18473674070",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1327929659",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 99,
    "sponsored": false,
    "slug": "century-animal-clinic-maplewood",
    "name": "Century Animal Clinic",
@@ -1317,7 +3387,73 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 39,
+   "position": 100,
+   "sponsored": false,
+   "slug": "goodvets-chicago",
+   "name": "GoodVets",
+   "summary": "GoodVets is a veterinarian in Chicago, IL at 901 West Jackson Boulevard, Chicago, IL 60607.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/goodvets-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/goodvets-chicago.json",
+   "address": {
+    "streetAddress": "901 West Jackson Boulevard",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60607",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60607",
+   "geo": {
+    "lat": 41.8777753,
+    "lon": -87.6499469
+   },
+   "opening_hours": "Mo-Fr 08:00-18:00; Sa-Su 08:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11949220389",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 101,
+   "sponsored": false,
+   "slug": "medvet-chicago-chicago",
+   "name": "MedVet Chicago",
+   "summary": "MedVet Chicago is a veterinarian in Chicago, IL at 3305 North California Avenue, Chicago, IL 60618.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/medvet-chicago-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/medvet-chicago-chicago.json",
+   "address": {
+    "streetAddress": "3305 North California Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60618",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60618",
+   "geo": {
+    "lat": 41.9423443,
+    "lon": -87.6968746
+   },
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8223104137",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 102,
    "sponsored": false,
    "slug": "edinburgh-pet-health-center-brooklyn-park",
    "name": "Edinburgh Pet Health Center",
@@ -1347,7 +3483,167 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 40,
+   "position": 103,
+   "sponsored": false,
+   "slug": "all-creatures-animal-hospital-lake-zurich",
+   "name": "All Creatures Animal Hospital",
+   "summary": "All Creatures Animal Hospital is a veterinarian in Lake Zurich, IL at 1210 Main Street, Lake Zurich, IL 60047.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/all-creatures-animal-hospital-lake-zurich/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/all-creatures-animal-hospital-lake-zurich.json",
+   "address": {
+    "streetAddress": "1210 Main Street",
+    "addressLocality": "Lake Zurich",
+    "addressRegion": "IL",
+    "postalCode": "60047",
+    "addressCountry": "US"
+   },
+   "city": "Lake Zurich",
+   "state": "IL",
+   "zip": "60047",
+   "geo": {
+    "lat": 42.1978853,
+    "lon": -88.0637991
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1215608824",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 104,
+   "sponsored": false,
+   "slug": "animal-911-skokie",
+   "name": "Animal 911",
+   "summary": "Animal 911 is a veterinarian in Skokie, IL at Dempster Street, Skokie, IL 60076.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/animal-911-skokie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/animal-911-skokie.json",
+   "address": {
+    "streetAddress": "Dempster Street",
+    "addressLocality": "Skokie",
+    "addressRegion": "IL",
+    "postalCode": "60076",
+    "addressCountry": "US"
+   },
+   "city": "Skokie",
+   "state": "IL",
+   "zip": "60076",
+   "geo": {
+    "lat": 42.0404636,
+    "lon": -87.7220377
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1428167689",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 105,
+   "sponsored": false,
+   "slug": "animal-care-center-of-buffalo-grove-buffalo-grove",
+   "name": "Animal Care Center of Buffalo Grove",
+   "summary": "Animal Care Center of Buffalo Grove is a veterinarian in Buffalo Grove, IL at 600 McHenry Road, Buffalo Grove, IL 60089.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/animal-care-center-of-buffalo-grove-buffalo-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/animal-care-center-of-buffalo-grove-buffalo-grove.json",
+   "address": {
+    "streetAddress": "600 McHenry Road",
+    "addressLocality": "Buffalo Grove",
+    "addressRegion": "IL",
+    "postalCode": "60089",
+    "addressCountry": "US"
+   },
+   "city": "Buffalo Grove",
+   "state": "IL",
+   "zip": "60089",
+   "geo": {
+    "lat": 42.1633314,
+    "lon": -87.9658281
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/319018246",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 106,
+   "sponsored": false,
+   "slug": "animal-care-clinic-of-homer-glen-homer-glen",
+   "name": "Animal Care Clinic of Homer Glen",
+   "summary": "Animal Care Clinic of Homer Glen is a veterinarian in Homer Glen, IL at 13061 West 143rd Street, Homer Glen, IL 60491.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/animal-care-clinic-of-homer-glen-homer-glen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/animal-care-clinic-of-homer-glen-homer-glen.json",
+   "address": {
+    "streetAddress": "13061 West 143rd Street",
+    "addressLocality": "Homer Glen",
+    "addressRegion": "IL",
+    "postalCode": "60491",
+    "addressCountry": "US"
+   },
+   "city": "Homer Glen",
+   "state": "IL",
+   "zip": "60491",
+   "geo": {
+    "lat": 41.6286585,
+    "lon": -87.9379684
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/517809220",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 107,
+   "sponsored": false,
+   "slug": "anti-cruelty-society-chicago",
+   "name": "Anti-Cruelty Society",
+   "summary": "Anti-Cruelty Society is a veterinarian in Chicago, IL at 153 West Grand Avenue, Chicago, IL 60654.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/anti-cruelty-society-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/anti-cruelty-society-chicago.json",
+   "address": {
+    "streetAddress": "153 West Grand Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60654",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60654",
+   "geo": {
+    "lat": 41.8913679,
+    "lon": -87.63305
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/210679604",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 108,
    "sponsored": false,
    "slug": "apache-animal-hospital-saint-anthony",
    "name": "Apache Animal Hospital",
@@ -1379,7 +3675,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 41,
+   "position": 109,
    "sponsored": false,
    "slug": "arcade-animal-hospital-saint-paul",
    "name": "Arcade Animal Hospital",
@@ -1411,7 +3707,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 42,
+   "position": 110,
    "sponsored": false,
    "slug": "arden-shoreview-animal-hospital-saint-paul",
    "name": "Arden Shoreview Animal Hospital",
@@ -1443,7 +3739,103 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 43,
+   "position": 111,
+   "sponsored": false,
+   "slug": "avondale-animal-hospital-chicago",
+   "name": "Avondale Animal Hospital",
+   "summary": "Avondale Animal Hospital is a veterinarian in Chicago, IL at 6146 North Northwest Highway, Chicago, IL 60631.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/avondale-animal-hospital-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/avondale-animal-hospital-chicago.json",
+   "address": {
+    "streetAddress": "6146 North Northwest Highway",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60631",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60631",
+   "geo": {
+    "lat": 41.9932115,
+    "lon": -87.8008747
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/163331399",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 112,
+   "sponsored": false,
+   "slug": "banfield-pet-hospital-chicago-n10045011965",
+   "name": "Banfield Pet Hospital",
+   "summary": "Banfield Pet Hospital is a veterinarian in Chicago, IL at 645 West Roosevelt Road, Chicago, IL 60607.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/banfield-pet-hospital-chicago-n10045011965/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/banfield-pet-hospital-chicago-n10045011965.json",
+   "address": {
+    "streetAddress": "645 West Roosevelt Road",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60607",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60607",
+   "geo": {
+    "lat": 41.8669839,
+    "lon": -87.6439065
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10045011965",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 113,
+   "sponsored": false,
+   "slug": "banfield-pet-hospital-crestwood",
+   "name": "Banfield Pet Hospital",
+   "summary": "Banfield Pet Hospital is a veterinarian in Crestwood, IL at 4975 Cal Sag Road, Crestwood, IL 60445.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/banfield-pet-hospital-crestwood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/banfield-pet-hospital-crestwood.json",
+   "address": {
+    "streetAddress": "4975 Cal Sag Road",
+    "addressLocality": "Crestwood",
+    "addressRegion": "IL",
+    "postalCode": "60445",
+    "addressCountry": "US"
+   },
+   "city": "Crestwood",
+   "state": "IL",
+   "zip": "60445",
+   "geo": {
+    "lat": 41.6541148,
+    "lon": -87.7441697
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11642991464",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 114,
    "sponsored": false,
    "slug": "banfield-pet-hospital-minneapolis",
    "name": "Banfield Pet Hospital",
@@ -1473,7 +3865,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 44,
+   "position": 115,
    "sponsored": false,
    "slug": "banfield-pet-hospital-richfield",
    "name": "Banfield Pet Hospital",
@@ -1503,7 +3895,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 45,
+   "position": 116,
    "sponsored": false,
    "slug": "banfield-pet-hospital-roseville",
    "name": "Banfield Pet Hospital",
@@ -1535,7 +3927,135 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 46,
+   "position": 117,
+   "sponsored": false,
+   "slug": "banfield-pet-hospital-schererville",
+   "name": "Banfield Pet Hospital",
+   "summary": "Banfield Pet Hospital is a veterinarian in Schererville, IN at 711 Indianapolis Boulevard, Schererville, IN 46375.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/banfield-pet-hospital-schererville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/banfield-pet-hospital-schererville.json",
+   "address": {
+    "streetAddress": "711 Indianapolis Boulevard",
+    "addressLocality": "Schererville",
+    "addressRegion": "IN",
+    "postalCode": "46375",
+    "addressCountry": "US"
+   },
+   "city": "Schererville",
+   "state": "IN",
+   "zip": "46375",
+   "geo": {
+    "lat": 41.5112269,
+    "lon": -87.4689081
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11673410725",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 118,
+   "sponsored": false,
+   "slug": "banfield-pet-hospital-skokie",
+   "name": "Banfield Pet Hospital",
+   "summary": "Banfield Pet Hospital is a veterinarian in Skokie, IL at 5485 West Touhy Avenue #17, Skokie, IL 60077.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/banfield-pet-hospital-skokie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/banfield-pet-hospital-skokie.json",
+   "address": {
+    "streetAddress": "5485 West Touhy Avenue #17",
+    "addressLocality": "Skokie",
+    "addressRegion": "IL",
+    "postalCode": "60077",
+    "addressCountry": "US"
+   },
+   "city": "Skokie",
+   "state": "IL",
+   "zip": "60077",
+   "geo": {
+    "lat": 42.0104298,
+    "lon": -87.7656699
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13161397114",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 119,
+   "sponsored": false,
+   "slug": "barrington-animal-hospital-barrington",
+   "name": "Barrington Animal Hospital",
+   "summary": "Barrington Animal Hospital is a veterinarian in Barrington, IL at 216 South Northwest Highway, Barrington, IL 60010.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/barrington-animal-hospital-barrington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/barrington-animal-hospital-barrington.json",
+   "address": {
+    "streetAddress": "216 South Northwest Highway",
+    "addressLocality": "Barrington",
+    "addressRegion": "IL",
+    "postalCode": "60010",
+    "addressCountry": "US"
+   },
+   "city": "Barrington",
+   "state": "IL",
+   "zip": "60010",
+   "geo": {
+    "lat": 42.1516667,
+    "lon": -88.12858
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4449933674",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 120,
+   "sponsored": false,
+   "slug": "belmont-animal-hospital-chicago",
+   "name": "Belmont Animal Hospital",
+   "summary": "Belmont Animal Hospital is a veterinarian in Chicago, IL at 1212 West Belmont Avenue, Chicago, IL 60657.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/belmont-animal-hospital-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/belmont-animal-hospital-chicago.json",
+   "address": {
+    "streetAddress": "1212 West Belmont Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60657",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60657",
+   "geo": {
+    "lat": 41.9400986,
+    "lon": -87.6595991
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/210325308",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 121,
    "sponsored": false,
    "slug": "bluepearl-arden-hills",
    "name": "BluePearl",
@@ -1567,7 +4087,71 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 47,
+   "position": 122,
+   "sponsored": false,
+   "slug": "bramer-animal-hospital-evanston",
+   "name": "Bramer Animal Hospital",
+   "summary": "Bramer Animal Hospital is a veterinarian in Evanston, IL at 1021 Davis Street, Evanston, IL 60201.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bramer-animal-hospital-evanston/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bramer-animal-hospital-evanston.json",
+   "address": {
+    "streetAddress": "1021 Davis Street",
+    "addressLocality": "Evanston",
+    "addressRegion": "IL",
+    "postalCode": "60201",
+    "addressCountry": "US"
+   },
+   "city": "Evanston",
+   "state": "IL",
+   "zip": "60201",
+   "geo": {
+    "lat": 42.04739,
+    "lon": -87.686099
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/168370530",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 123,
+   "sponsored": false,
+   "slug": "brighton-park-animal-hospital-chicago",
+   "name": "Brighton Park Animal Hospital",
+   "summary": "Brighton Park Animal Hospital is a veterinarian in Chicago, IL at 3779 South Archer Avenue, Chicago, IL 60632.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/brighton-park-animal-hospital-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/brighton-park-animal-hospital-chicago.json",
+   "address": {
+    "streetAddress": "3779 South Archer Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60632",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60632",
+   "geo": {
+    "lat": 41.8245899,
+    "lon": -87.6867187
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/165150812",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 124,
    "sponsored": false,
    "slug": "broadway-robbinsdale-animal-hospital-minneapolis",
    "name": "Broadway Robbinsdale Animal Hospital",
@@ -1599,7 +4183,135 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 48,
+   "position": 125,
+   "sponsored": false,
+   "slug": "bronzeville-animal-clinic-chicago",
+   "name": "Bronzeville Animal Clinic",
+   "summary": "Bronzeville Animal Clinic is a veterinarian in Chicago, IL at 203 East 31st Street, Chicago, IL 60616.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bronzeville-animal-clinic-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bronzeville-animal-clinic-chicago.json",
+   "address": {
+    "streetAddress": "203 East 31st Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60616",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60616",
+   "geo": {
+    "lat": 41.8382198,
+    "lon": -87.6217386
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12165975100",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 126,
+   "sponsored": false,
+   "slug": "carol-stream-animal-hospital-carol-stream",
+   "name": "Carol Stream Animal Hospital",
+   "summary": "Carol Stream Animal Hospital is a veterinarian in Carol Stream, IL at 140 West Elk Trail, Carol Stream, IL 60188.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/carol-stream-animal-hospital-carol-stream/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/carol-stream-animal-hospital-carol-stream.json",
+   "address": {
+    "streetAddress": "140 West Elk Trail",
+    "addressLocality": "Carol Stream",
+    "addressRegion": "IL",
+    "postalCode": "60188",
+    "addressCountry": "US"
+   },
+   "city": "Carol Stream",
+   "state": "IL",
+   "zip": "60188",
+   "geo": {
+    "lat": 41.9243197,
+    "lon": -88.1233207
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/901427834",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 127,
+   "sponsored": false,
+   "slug": "chicago-cat-clinic-chicago",
+   "name": "Chicago Cat Clinic",
+   "summary": "Chicago Cat Clinic is a veterinarian in Chicago, IL at 5301 West Devon Avenue, Chicago, IL 60646.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chicago-cat-clinic-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chicago-cat-clinic-chicago.json",
+   "address": {
+    "streetAddress": "5301 West Devon Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60646",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60646",
+   "geo": {
+    "lat": 41.997121,
+    "lon": -87.761135
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/162836587",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 128,
+   "sponsored": false,
+   "slug": "chicago-exotics-animal-hospital-skokie",
+   "name": "Chicago Exotics Animal Hospital",
+   "summary": "Chicago Exotics Animal Hospital is a veterinarian in Skokie, IL at 3757 Dempster Street, Skokie, IL 60076.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chicago-exotics-animal-hospital-skokie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chicago-exotics-animal-hospital-skokie.json",
+   "address": {
+    "streetAddress": "3757 Dempster Street",
+    "addressLocality": "Skokie",
+    "addressRegion": "IL",
+    "postalCode": "60076",
+    "addressCountry": "US"
+   },
+   "city": "Skokie",
+   "state": "IL",
+   "zip": "60076",
+   "geo": {
+    "lat": 42.0404336,
+    "lon": -87.7227863
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13064347997",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 129,
    "sponsored": false,
    "slug": "cliff-lake-veterinary-clinic-eagan",
    "name": "Cliff Lake Veterinary Clinic",
@@ -1631,7 +4343,103 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 49,
+   "position": 130,
+   "sponsored": false,
+   "slug": "colonial-manor-animal-hospital-homer-glen",
+   "name": "Colonial Manor Animal Hospital",
+   "summary": "Colonial Manor Animal Hospital is a veterinarian in Homer Glen, IL at 13726 West 159th Street, Homer Glen, IL 60491.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/colonial-manor-animal-hospital-homer-glen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/colonial-manor-animal-hospital-homer-glen.json",
+   "address": {
+    "streetAddress": "13726 West 159th Street",
+    "addressLocality": "Homer Glen",
+    "addressRegion": "IL",
+    "postalCode": "60491",
+    "addressCountry": "US"
+   },
+   "city": "Homer Glen",
+   "state": "IL",
+   "zip": "60491",
+   "geo": {
+    "lat": 41.6000534,
+    "lon": -87.9527694
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1201821936",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 131,
+   "sponsored": false,
+   "slug": "companion-animal-hospital-of-norridge-norridge",
+   "name": "Companion Animal Hospital of Norridge",
+   "summary": "Companion Animal Hospital of Norridge is a veterinarian in Norridge, IL at 4321 North Harlem Avenue, Norridge, IL 60706.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/companion-animal-hospital-of-norridge-norridge/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/companion-animal-hospital-of-norridge-norridge.json",
+   "address": {
+    "streetAddress": "4321 North Harlem Avenue",
+    "addressLocality": "Norridge",
+    "addressRegion": "IL",
+    "postalCode": "60706",
+    "addressCountry": "US"
+   },
+   "city": "Norridge",
+   "state": "IL",
+   "zip": "60706",
+   "geo": {
+    "lat": 41.9593935,
+    "lon": -87.8069034
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/878421849",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 132,
+   "sponsored": false,
+   "slug": "des-plaines-valley-animal-hospital-buffalo-grove",
+   "name": "Des Plaines Valley Animal Hospital",
+   "summary": "Des Plaines Valley Animal Hospital is a veterinarian in Buffalo Grove, IL at 155 North Milwaukee Avenue, Buffalo Grove, IL 60089.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/des-plaines-valley-animal-hospital-buffalo-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/des-plaines-valley-animal-hospital-buffalo-grove.json",
+   "address": {
+    "streetAddress": "155 North Milwaukee Avenue",
+    "addressLocality": "Buffalo Grove",
+    "addressRegion": "IL",
+    "postalCode": "60089",
+    "addressCountry": "US"
+   },
+   "city": "Buffalo Grove",
+   "state": "IL",
+   "zip": "60089",
+   "geo": {
+    "lat": 42.1551772,
+    "lon": -87.9153883
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1221541550",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 133,
    "sponsored": false,
    "slug": "douglas-animal-hospital-osseo",
    "name": "Douglas Animal Hospital",
@@ -1663,7 +4471,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 50,
+   "position": 134,
    "sponsored": false,
    "slug": "eagan-pet-clinic-eagan",
    "name": "Eagan Pet Clinic",
@@ -1695,7 +4503,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 51,
+   "position": 135,
    "sponsored": false,
    "slug": "east-lake-animal-clinic-minneapolis",
    "name": "East Lake Animal Clinic",
@@ -1727,7 +4535,167 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 52,
+   "position": 136,
+   "sponsored": false,
+   "slug": "elk-grove-veterinary-specialty-and-emergency-elk-grove-village",
+   "name": "Elk Grove Veterinary Specialty & Emergency",
+   "summary": "Elk Grove Veterinary Specialty & Emergency is a veterinarian in Elk Grove Village, IL at 1050 Bonaventure Drive, Elk Grove Village, IL 60007.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/elk-grove-veterinary-specialty-and-emergency-elk-grove-village/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/elk-grove-veterinary-specialty-and-emergency-elk-grove-village.json",
+   "address": {
+    "streetAddress": "1050 Bonaventure Drive",
+    "addressLocality": "Elk Grove Village",
+    "addressRegion": "IL",
+    "postalCode": "60007",
+    "addressCountry": "US"
+   },
+   "city": "Elk Grove Village",
+   "state": "IL",
+   "zip": "60007",
+   "geo": {
+    "lat": 41.9941652,
+    "lon": -88.0270814
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1241748813",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 137,
+   "sponsored": false,
+   "slug": "evanston-animal-hospital-evanston",
+   "name": "Evanston Animal Hospital",
+   "summary": "Evanston Animal Hospital is a veterinarian in Evanston, IL at 516 Dempster Street, Evanston, IL 60202.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/evanston-animal-hospital-evanston/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/evanston-animal-hospital-evanston.json",
+   "address": {
+    "streetAddress": "516 Dempster Street",
+    "addressLocality": "Evanston",
+    "addressRegion": "IL",
+    "postalCode": "60202",
+    "addressCountry": "US"
+   },
+   "city": "Evanston",
+   "state": "IL",
+   "zip": "60202",
+   "geo": {
+    "lat": 42.041026,
+    "lon": -87.6799209
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/213941793",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 138,
+   "sponsored": false,
+   "slug": "finan-animal-hospital-woodridge",
+   "name": "Finan Animal Hospital",
+   "summary": "Finan Animal Hospital is a veterinarian in Woodridge, IL at Lemont Road, Woodridge, IL 60516.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/finan-animal-hospital-woodridge/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/finan-animal-hospital-woodridge.json",
+   "address": {
+    "streetAddress": "Lemont Road",
+    "addressLocality": "Woodridge",
+    "addressRegion": "IL",
+    "postalCode": "60516",
+    "addressCountry": "US"
+   },
+   "city": "Woodridge",
+   "state": "IL",
+   "zip": "60516",
+   "geo": {
+    "lat": 41.743377,
+    "lon": -88.0125602
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13574435302",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 139,
+   "sponsored": false,
+   "slug": "golf-rose-animal-hospital-schaumburg",
+   "name": "Golf Rose Animal Hospital",
+   "summary": "Golf Rose Animal Hospital is a veterinarian in Schaumburg, IL at 51 Remington Road, Schaumburg, IL 60173.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/golf-rose-animal-hospital-schaumburg/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/golf-rose-animal-hospital-schaumburg.json",
+   "address": {
+    "streetAddress": "51 Remington Road",
+    "addressLocality": "Schaumburg",
+    "addressRegion": "IL",
+    "postalCode": "60173",
+    "addressCountry": "US"
+   },
+   "city": "Schaumburg",
+   "state": "IL",
+   "zip": "60173",
+   "geo": {
+    "lat": 42.0527121,
+    "lon": -88.0781656
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/643512413",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 140,
+   "sponsored": false,
+   "slug": "hyde-park-animal-hospital-chicago",
+   "name": "Hyde Park Animal Hospital",
+   "summary": "Hyde Park Animal Hospital is a veterinarian in Chicago, IL at 6937 South Stony Island Avenue, Chicago, IL 60649.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hyde-park-animal-hospital-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hyde-park-animal-hospital-chicago.json",
+   "address": {
+    "streetAddress": "6937 South Stony Island Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60649",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60649",
+   "geo": {
+    "lat": 41.7686614,
+    "lon": -87.5856243
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/446617851",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 141,
    "sponsored": false,
    "slug": "inver-grove-heights-animal-hospital-inver-grove-heights",
    "name": "Inver Grove Heights Animal Hospital",
@@ -1759,7 +4727,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 53,
+   "position": 142,
    "sponsored": false,
    "slug": "lake-animal-hospital-white-bear-township",
    "name": "Lake Animal Hospital",
@@ -1791,7 +4759,71 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 54,
+   "position": 143,
+   "sponsored": false,
+   "slug": "logan-square-animal-hospital-chicago",
+   "name": "Logan Square Animal Hospital",
+   "summary": "Logan Square Animal Hospital is a veterinarian in Chicago, IL at 2543 North Milwaukee Avenue, Chicago, IL 60647.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/logan-square-animal-hospital-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/logan-square-animal-hospital-chicago.json",
+   "address": {
+    "streetAddress": "2543 North Milwaukee Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60647",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60647",
+   "geo": {
+    "lat": 41.9275891,
+    "lon": -87.7047107
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3551784088",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 144,
+   "sponsored": false,
+   "slug": "metropolitan-veterinary-clinic-chicago",
+   "name": "Metropolitan Veterinary Clinic",
+   "summary": "Metropolitan Veterinary Clinic is a veterinarian in Chicago, IL at 1556 South Michigan Avenue #100, Chicago, IL 60605.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/metropolitan-veterinary-clinic-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/metropolitan-veterinary-clinic-chicago.json",
+   "address": {
+    "streetAddress": "1556 South Michigan Avenue #100",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60605",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60605",
+   "geo": {
+    "lat": 41.8603445,
+    "lon": -87.6243795
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12871473871",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 145,
    "sponsored": false,
    "slug": "nokomis-pet-clinic-minneapolis",
    "name": "Nokomis Pet Clinic",
@@ -1823,7 +4855,39 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 55,
+   "position": 146,
+   "sponsored": false,
+   "slug": "oz-animal-hospital-chicago",
+   "name": "Oz Animal Hospital",
+   "summary": "Oz Animal Hospital is a veterinarian in Chicago, IL at 620 West Webster Avenue, Chicago, IL 60614.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/oz-animal-hospital-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/oz-animal-hospital-chicago.json",
+   "address": {
+    "streetAddress": "620 West Webster Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60614",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60614",
+   "geo": {
+    "lat": 41.9220263,
+    "lon": -87.6445715
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9929776582",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 147,
    "sponsored": false,
    "slug": "pilot-knob-animal-hospital-eagan",
    "name": "Pilot Knob Animal Hospital",
@@ -1855,7 +4919,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 56,
+   "position": 148,
    "sponsored": false,
    "slug": "plymouth-heights-pet-hospital-new-hope",
    "name": "Plymouth Heights Pet Hospital",
@@ -1887,7 +4951,103 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 57,
+   "position": 149,
+   "sponsored": false,
+   "slug": "preiser-animal-hospital-northbrook",
+   "name": "Preiser Animal Hospital",
+   "summary": "Preiser Animal Hospital is a veterinarian in Northbrook, IL at 2975 Milwaukee Avenue, Northbrook, IL 60062.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/preiser-animal-hospital-northbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/preiser-animal-hospital-northbrook.json",
+   "address": {
+    "streetAddress": "2975 Milwaukee Avenue",
+    "addressLocality": "Northbrook",
+    "addressRegion": "IL",
+    "postalCode": "60062",
+    "addressCountry": "US"
+   },
+   "city": "Northbrook",
+   "state": "IL",
+   "zip": "60062",
+   "geo": {
+    "lat": 42.0991867,
+    "lon": -87.88105
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/148282838",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 150,
+   "sponsored": false,
+   "slug": "randhurst-animal-hospital-mount-prospect",
+   "name": "Randhurst Animal Hospital",
+   "summary": "Randhurst Animal Hospital is a veterinarian in Mount Prospect, IL at 212 East Rand Road, Mount Prospect, IL 60056.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/randhurst-animal-hospital-mount-prospect/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/randhurst-animal-hospital-mount-prospect.json",
+   "address": {
+    "streetAddress": "212 East Rand Road",
+    "addressLocality": "Mount Prospect",
+    "addressRegion": "IL",
+    "postalCode": "60056",
+    "addressCountry": "US"
+   },
+   "city": "Mount Prospect",
+   "state": "IL",
+   "zip": "60056",
+   "geo": {
+    "lat": 42.0786637,
+    "lon": -87.9323859
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1221221067",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 151,
+   "sponsored": false,
+   "slug": "river-forest-animal-hospital-river-forest",
+   "name": "River Forest Animal Hospital",
+   "summary": "River Forest Animal Hospital is a veterinarian in River Forest, IL at 7515 Lake Street, River Forest, IL 60305.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/river-forest-animal-hospital-river-forest/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/river-forest-animal-hospital-river-forest.json",
+   "address": {
+    "streetAddress": "7515 Lake Street",
+    "addressLocality": "River Forest",
+    "addressRegion": "IL",
+    "postalCode": "60305",
+    "addressCountry": "US"
+   },
+   "city": "River Forest",
+   "state": "IL",
+   "zip": "60305",
+   "geo": {
+    "lat": 41.8873375,
+    "lon": -87.8120686
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/477410959",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 152,
    "sponsored": false,
    "slug": "skadron-animal-hospital-west-saint-paul",
    "name": "Skadron Animal Hospital",
@@ -1919,7 +5079,39 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 58,
+   "position": 153,
+   "sponsored": false,
+   "slug": "skokie-animal-hospital-skokie",
+   "name": "Skokie Animal Hospital",
+   "summary": "Skokie Animal Hospital is a veterinarian in Skokie, IL at 7550 Lincoln Avenue, Skokie, IL 60077.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/skokie-animal-hospital-skokie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/skokie-animal-hospital-skokie.json",
+   "address": {
+    "streetAddress": "7550 Lincoln Avenue",
+    "addressLocality": "Skokie",
+    "addressRegion": "IL",
+    "postalCode": "60077",
+    "addressCountry": "US"
+   },
+   "city": "Skokie",
+   "state": "IL",
+   "zip": "60077",
+   "geo": {
+    "lat": 42.0182645,
+    "lon": -87.7481055
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/429751696",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 154,
    "sponsored": false,
    "slug": "southview-animal-hospital-inver-grove-heights",
    "name": "Southview Animal Hospital",
@@ -1951,7 +5143,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 59,
+   "position": 155,
    "sponsored": false,
    "slug": "st-boni-pet-hospital-saint-bonifacius",
    "name": "St Boni Pet Hospital",
@@ -1983,7 +5175,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 60,
+   "position": 156,
    "sponsored": false,
    "slug": "tails-of-persia-pet-spa-minneapolis",
    "name": "Tails Of Persia Pet Spa",
@@ -2015,7 +5207,167 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 61,
+   "position": 157,
+   "sponsored": false,
+   "slug": "thrive-pet-healthcare-oak-lawn",
+   "name": "Thrive Pet Healthcare",
+   "summary": "Thrive Pet Healthcare is a veterinarian in Oak Lawn, IL at 9701 South Cicero Avenue, Oak Lawn, IL 60453.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/thrive-pet-healthcare-oak-lawn/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/thrive-pet-healthcare-oak-lawn.json",
+   "address": {
+    "streetAddress": "9701 South Cicero Avenue",
+    "addressLocality": "Oak Lawn",
+    "addressRegion": "IL",
+    "postalCode": "60453",
+    "addressCountry": "US"
+   },
+   "city": "Oak Lawn",
+   "state": "IL",
+   "zip": "60453",
+   "geo": {
+    "lat": 41.7163386,
+    "lon": -87.7402924
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/235068813",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 158,
+   "sponsored": false,
+   "slug": "touhy-animal-hospital-park-ridge",
+   "name": "Touhy Animal Hospital",
+   "summary": "Touhy Animal Hospital is a veterinarian in Park Ridge, IL at West Touhy Avenue, Park Ridge, IL 60068.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/touhy-animal-hospital-park-ridge/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/touhy-animal-hospital-park-ridge.json",
+   "address": {
+    "streetAddress": "West Touhy Avenue",
+    "addressLocality": "Park Ridge",
+    "addressRegion": "IL",
+    "postalCode": "60068",
+    "addressCountry": "US"
+   },
+   "city": "Park Ridge",
+   "state": "IL",
+   "zip": "60068",
+   "geo": {
+    "lat": 42.0101036,
+    "lon": -87.8561185
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/518956733",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 159,
+   "sponsored": false,
+   "slug": "vca-animal-hospital-berwyn",
+   "name": "VCA Animal Hospital",
+   "summary": "VCA Animal Hospital is a veterinarian in Berwyn, IL at 2845 South Harlem Avenue, Berwyn, IL 60402.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/vca-animal-hospital-berwyn/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/vca-animal-hospital-berwyn.json",
+   "address": {
+    "streetAddress": "2845 South Harlem Avenue",
+    "addressLocality": "Berwyn",
+    "addressRegion": "IL",
+    "postalCode": "60402",
+    "addressCountry": "US"
+   },
+   "city": "Berwyn",
+   "state": "IL",
+   "zip": "60402",
+   "geo": {
+    "lat": 41.8396986,
+    "lon": -87.8028521
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1126747287",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 160,
+   "sponsored": false,
+   "slug": "vca-animal-hospital-chicago",
+   "name": "VCA Animal Hospital",
+   "summary": "VCA Animal Hospital is a veterinarian in Chicago, IL at 2851 West Irving Park Road, Chicago, IL 60618.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/vca-animal-hospital-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/vca-animal-hospital-chicago.json",
+   "address": {
+    "streetAddress": "2851 West Irving Park Road",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60618",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60618",
+   "geo": {
+    "lat": 41.9535742,
+    "lon": -87.700306
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3291788174",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 161,
+   "sponsored": false,
+   "slug": "vca-lake-shore-animal-hospital-chicago",
+   "name": "VCA Lake Shore Animal Hospital",
+   "summary": "VCA Lake Shore Animal Hospital is a veterinarian in Chicago, IL at 960 West Chicago Avenue, Chicago, IL 60642.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/vca-lake-shore-animal-hospital-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/vca-lake-shore-animal-hospital-chicago.json",
+   "address": {
+    "streetAddress": "960 West Chicago Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60642",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60642",
+   "geo": {
+    "lat": 41.8965674,
+    "lon": -87.6521308
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/210308479",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 162,
    "sponsored": false,
    "slug": "vet-eye-pros-eagan",
    "name": "Vet Eye Pros",
@@ -2047,7 +5399,195 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 62,
+   "position": 163,
+   "sponsored": false,
+   "slug": "veterinary-emergency-group-chicago-n13474977203",
+   "name": "Veterinary Emergency Group",
+   "summary": "Veterinary Emergency Group is a veterinarian in Chicago, IL at 1114 South Clinton Street #B-C, Chicago, IL 60607.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/veterinary-emergency-group-chicago-n13474977203/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/veterinary-emergency-group-chicago-n13474977203.json",
+   "address": {
+    "streetAddress": "1114 South Clinton Street #B-C",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60607",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60607",
+   "geo": {
+    "lat": 41.8683546,
+    "lon": -87.6410624
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13474977203",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 164,
+   "sponsored": false,
+   "slug": "village-veterinary-practice-western-springs",
+   "name": "Village Veterinary Practice",
+   "summary": "Village Veterinary Practice is a veterinarian in Western Springs, IL at 500 Hillgrove Avenue, Western Springs, IL 60558.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/village-veterinary-practice-western-springs/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/village-veterinary-practice-western-springs.json",
+   "address": {
+    "streetAddress": "500 Hillgrove Avenue",
+    "addressLocality": "Western Springs",
+    "addressRegion": "IL",
+    "postalCode": "60558",
+    "addressCountry": "US"
+   },
+   "city": "Western Springs",
+   "state": "IL",
+   "zip": "60558",
+   "geo": {
+    "lat": 41.8108382,
+    "lon": -87.8952796
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9603287971",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 165,
+   "sponsored": false,
+   "slug": "vsx-veterinary-surgery-chicago",
+   "name": "VSx Veterinary Surgery",
+   "summary": "VSx Veterinary Surgery is a veterinarian in Chicago, IL at 2015-2025 West Irving Park Road, Chicago, IL 60618.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/vsx-veterinary-surgery-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/vsx-veterinary-surgery-chicago.json",
+   "address": {
+    "streetAddress": "2015-2025 West Irving Park Road",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60618",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60618",
+   "geo": {
+    "lat": 41.953967,
+    "lon": -87.6796696
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13143196002",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 166,
+   "sponsored": false,
+   "slug": "west-loop-veterinary-care-chicago",
+   "name": "West Loop Veterinary Care",
+   "summary": "West Loop Veterinary Care is a veterinarian in Chicago, IL at 815 West Randolph Street, Chicago, IL 60607.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/west-loop-veterinary-care-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/west-loop-veterinary-care-chicago.json",
+   "address": {
+    "streetAddress": "815 West Randolph Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60607",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60607",
+   "geo": {
+    "lat": 41.8841047,
+    "lon": -87.6482305
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1504713100",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 167,
+   "sponsored": false,
+   "slug": "abbot-animal-hospital-chicago",
+   "name": "Abbot Animal Hospital",
+   "summary": "Abbot Animal Hospital is a veterinarian in Chicago, IL at 6721 West Archer Avenue, Chicago, IL.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/abbot-animal-hospital-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/abbot-animal-hospital-chicago.json",
+   "address": {
+    "streetAddress": "6721 West Archer Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7919763,
+    "lon": -87.7900611
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/162849209",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 168,
+   "sponsored": false,
+   "slug": "animal-advocate-pet-hospital-chicago",
+   "name": "Animal Advocate Pet Hospital",
+   "summary": "Animal Advocate Pet Hospital is a veterinarian in Chicago, IL at 1061 West Jackson Boulevard #A, Chicago, IL.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/animal-advocate-pet-hospital-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/animal-advocate-pet-hospital-chicago.json",
+   "address": {
+    "streetAddress": "1061 West Jackson Boulevard #A",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8776968,
+    "lon": -87.6543974
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12424738441",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 169,
    "sponsored": false,
    "slug": "banfield-pet-hospital-saint-paul",
    "name": "Banfield Pet Hospital",
@@ -2077,7 +5617,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 63,
+   "position": 170,
    "sponsored": false,
    "slug": "blaine-area-pet-hospital-blaine",
    "name": "Blaine Area Pet Hospital",
@@ -2107,7 +5647,67 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 64,
+   "position": 171,
+   "sponsored": false,
+   "slug": "lovet-pet-health-care-chicago",
+   "name": "Lovet Pet Health Care",
+   "summary": "Lovet Pet Health Care is a veterinarian in Chicago, IL at 802 West Fulton Market, Chicago, IL.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lovet-pet-health-care-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lovet-pet-health-care-chicago.json",
+   "address": {
+    "streetAddress": "802 West Fulton Market",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8869739,
+    "lon": -87.6478067
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12481098295",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 172,
+   "sponsored": false,
+   "slug": "north-center-animal-hospital-chicago",
+   "name": "North Center Animal Hospital",
+   "summary": "North Center Animal Hospital is a veterinarian in Chicago, IL at 1800-1808 West Addison Street, Chicago, IL.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/north-center-animal-hospital-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/north-center-animal-hospital-chicago.json",
+   "address": {
+    "streetAddress": "1800-1808 West Addison Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9470536,
+    "lon": -87.6743634
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13157190801",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 173,
    "sponsored": false,
    "slug": "pomeroys-animal-hospital-saint-paul",
    "name": "Pomeroy's Animal Hospital",
@@ -2137,7 +5737,37 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 65,
+   "position": 174,
+   "sponsored": false,
+   "slug": "precious-bond-animal-hospital-chicago",
+   "name": "Precious Bond Animal Hospital",
+   "summary": "Precious Bond Animal Hospital is a veterinarian in Chicago, IL at 3901 North Lincoln Avenue, Chicago, IL.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/precious-bond-animal-hospital-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/precious-bond-animal-hospital-chicago.json",
+   "address": {
+    "streetAddress": "3901 North Lincoln Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9525159,
+    "lon": -87.6774261
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13147944703",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 175,
    "sponsored": false,
    "slug": "rockford-veterinary-clinic-rockford",
    "name": "Rockford Veterinary Clinic",
@@ -2167,7 +5797,37 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 66,
+   "position": 176,
+   "sponsored": false,
+   "slug": "veterinary-emergency-group-chicago",
+   "name": "Veterinary Emergency Group",
+   "summary": "Veterinary Emergency Group is a veterinarian in Chicago, IL at 755 West North Avenue, Chicago, IL.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/veterinary-emergency-group-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/veterinary-emergency-group-chicago.json",
+   "address": {
+    "streetAddress": "755 West North Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9107376,
+    "lon": -87.6477159
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10049890211",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 177,
    "sponsored": false,
    "slug": "access-veterinary-care-crystal",
    "name": "Access Veterinary Care",
@@ -2196,7 +5856,36 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 67,
+   "position": 178,
+   "sponsored": false,
+   "slug": "animal-clinic-of-romeoville-romeoville",
+   "name": "Animal Clinic of Romeoville",
+   "summary": "Animal Clinic of Romeoville is a veterinarian in Romeoville, IL.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/animal-clinic-of-romeoville-romeoville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/animal-clinic-of-romeoville-romeoville.json",
+   "address": {
+    "addressLocality": "Romeoville",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Romeoville",
+   "state": "IL",
+   "geo": {
+    "lat": 41.6396236,
+    "lon": -88.0826296
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5430006230",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 179,
    "sponsored": false,
    "slug": "animal-hospital-shoreview",
    "name": "Animal Hospital",
@@ -2225,7 +5914,94 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 68,
+   "position": 180,
+   "sponsored": false,
+   "slug": "animal-hospital-western-springs",
+   "name": "Animal Hospital",
+   "summary": "Animal Hospital is a veterinarian in Western Springs, IL.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/animal-hospital-western-springs/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/animal-hospital-western-springs.json",
+   "address": {
+    "addressLocality": "Western Springs",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Western Springs",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7894394,
+    "lon": -87.8986786
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12769321501",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 181,
+   "sponsored": false,
+   "slug": "animal-medical-center-orland-park",
+   "name": "Animal Medical Center",
+   "summary": "Animal Medical Center is a veterinarian in Orland Park, IL.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/animal-medical-center-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/animal-medical-center-orland-park.json",
+   "address": {
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.5947779,
+    "lon": -87.8533987
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1000064854",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 182,
+   "sponsored": false,
+   "slug": "arbor-animal-hospital-la-grange-park",
+   "name": "Arbor Animal Hospital",
+   "summary": "Arbor Animal Hospital is a veterinarian in La Grange Park, IL.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/arbor-animal-hospital-la-grange-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/arbor-animal-hospital-la-grange-park.json",
+   "address": {
+    "addressLocality": "La Grange Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "La Grange Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8340765,
+    "lon": -87.8734506
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/996473289",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 183,
    "sponsored": false,
    "slug": "banfield-pet-hospital-minnetonka",
    "name": "Banfield Pet Hospital",
@@ -2254,7 +6030,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 69,
+   "position": 184,
    "sponsored": false,
    "slug": "banfield-pet-hospital-minnetonka-n11098487980",
    "name": "Banfield Pet Hospital",
@@ -2283,7 +6059,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 70,
+   "position": 185,
    "sponsored": false,
    "slug": "bass-lake-pet-hospital-new-hope",
    "name": "Bass Lake Pet Hospital",
@@ -2312,7 +6088,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 71,
+   "position": 186,
    "sponsored": false,
    "slug": "blue-cross-animal-hospital-minneapolis",
    "name": "Blue Cross Animal Hospital",
@@ -2341,7 +6117,152 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 72,
+   "position": 187,
+   "sponsored": false,
+   "slug": "bond-vet-chicago",
+   "name": "Bond Vet",
+   "summary": "Bond Vet is a veterinarian in Chicago, IL.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bond-vet-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bond-vet-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8815376,
+    "lon": -87.6491294
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12282640324",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 188,
+   "sponsored": false,
+   "slug": "boughton-square-animal-clinic-bolingbrook",
+   "name": "Boughton Square Animal Clinic",
+   "summary": "Boughton Square Animal Clinic is a veterinarian in Bolingbrook, IL.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/boughton-square-animal-clinic-bolingbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/boughton-square-animal-clinic-bolingbrook.json",
+   "address": {
+    "addressLocality": "Bolingbrook",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Bolingbrook",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7015279,
+    "lon": -88.0668768
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12379200083",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 189,
+   "sponsored": false,
+   "slug": "boulevard-veterinary-chicago",
+   "name": "Boulevard Veterinary",
+   "summary": "Boulevard Veterinary is a veterinarian in Chicago, IL.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/boulevard-veterinary-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/boulevard-veterinary-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9329957,
+    "lon": -87.6419053
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13579020009",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 190,
+   "sponsored": false,
+   "slug": "buffalo-grove-animal-hospital-buffalo-grove",
+   "name": "Buffalo Grove Animal Hospital",
+   "summary": "Buffalo Grove Animal Hospital is a veterinarian in Buffalo Grove, IL.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/buffalo-grove-animal-hospital-buffalo-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/buffalo-grove-animal-hospital-buffalo-grove.json",
+   "address": {
+    "addressLocality": "Buffalo Grove",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Buffalo Grove",
+   "state": "IL",
+   "geo": {
+    "lat": 42.1387371,
+    "lon": -87.9826427
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/919604733",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 191,
+   "sponsored": false,
+   "slug": "carlson-animal-hospital-oak-park",
+   "name": "Carlson Animal Hospital",
+   "summary": "Carlson Animal Hospital is a veterinarian in Oak Park, IL.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/carlson-animal-hospital-oak-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/carlson-animal-hospital-oak-park.json",
+   "address": {
+    "addressLocality": "Oak Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Oak Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8889439,
+    "lon": -87.7853712
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/771974700",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 192,
    "sponsored": false,
    "slug": "champlin-park-pet-hospital-champlin",
    "name": "Champlin Park Pet Hospital",
@@ -2370,7 +6291,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 73,
+   "position": 193,
    "sponsored": false,
    "slug": "companion-animal-hospital-eagan",
    "name": "Companion Animal Hospital",
@@ -2399,7 +6320,181 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 74,
+   "position": 194,
+   "sponsored": false,
+   "slug": "countryside-veterinary-center-countryside",
+   "name": "Countryside Veterinary Center",
+   "summary": "Countryside Veterinary Center is a veterinarian in Countryside, IL.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/countryside-veterinary-center-countryside/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/countryside-veterinary-center-countryside.json",
+   "address": {
+    "addressLocality": "Countryside",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Countryside",
+   "state": "IL",
+   "geo": {
+    "lat": 41.78985,
+    "lon": -87.865111
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/543768993",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 195,
+   "sponsored": false,
+   "slug": "czs-vetranary-hospital-brookfield",
+   "name": "CZS Vetranary Hospital",
+   "summary": "CZS Vetranary Hospital is a veterinarian in Brookfield, IL.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/czs-vetranary-hospital-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/czs-vetranary-hospital-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8307556,
+    "lon": -87.8370676
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/31466823",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 196,
+   "sponsored": false,
+   "slug": "des-plaines-veterenaty-hospital-des-plaines",
+   "name": "Des Plaines Veterenaty Hospital",
+   "summary": "Des Plaines Veterenaty Hospital is a veterinarian in Des Plaines, IL.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/des-plaines-veterenaty-hospital-des-plaines/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/des-plaines-veterenaty-hospital-des-plaines.json",
+   "address": {
+    "addressLocality": "Des Plaines",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Des Plaines",
+   "state": "IL",
+   "geo": {
+    "lat": 42.0231178,
+    "lon": -87.9082607
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/431429142",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 197,
+   "sponsored": false,
+   "slug": "elk-grove-pet-clinic-elk-grove-village",
+   "name": "Elk Grove Pet Clinic",
+   "summary": "Elk Grove Pet Clinic is a veterinarian in Elk Grove Village, IL.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/elk-grove-pet-clinic-elk-grove-village/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/elk-grove-pet-clinic-elk-grove-village.json",
+   "address": {
+    "addressLocality": "Elk Grove Village",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Elk Grove Village",
+   "state": "IL",
+   "geo": {
+    "lat": 42.0073759,
+    "lon": -88.0446638
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13998776116",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 198,
+   "sponsored": false,
+   "slug": "ellis-veterinary-clinic-chicago",
+   "name": "Ellis Veterinary Clinic",
+   "summary": "Ellis Veterinary Clinic is a veterinarian in Chicago, IL.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ellis-veterinary-clinic-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ellis-veterinary-clinic-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8931748,
+    "lon": -87.6865426
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10172440989",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 199,
+   "sponsored": false,
+   "slug": "family-pet-animal-hospital-chicago",
+   "name": "Family Pet Animal Hospital",
+   "summary": "Family Pet Animal Hospital is a veterinarian in Chicago, IL.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/family-pet-animal-hospital-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/family-pet-animal-hospital-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9214436,
+    "lon": -87.6634286
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/463772275",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 200,
    "sponsored": false,
    "slug": "fort-road-animal-clinic-saint-paul",
    "name": "Fort Road Animal Clinic",
@@ -2428,7 +6523,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 75,
+   "position": 201,
    "sponsored": false,
    "slug": "golden-veterinary-care-wayzata",
    "name": "Golden Veterinary Care",
@@ -2457,7 +6552,36 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 76,
+   "position": 202,
+   "sponsored": false,
+   "slug": "green-paws-la-grange",
+   "name": "Green Paws",
+   "summary": "Green Paws is a veterinarian in La Grange, IL.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/green-paws-la-grange/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/green-paws-la-grange.json",
+   "address": {
+    "addressLocality": "La Grange",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "La Grange",
+   "state": "IL",
+   "geo": {
+    "lat": 41.802595,
+    "lon": -87.8689543
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10725347212",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 203,
    "sponsored": false,
    "slug": "hopkins-pet-hospital-hopkins",
    "name": "Hopkins Pet Hospital",
@@ -2486,7 +6610,65 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 77,
+   "position": 204,
+   "sponsored": false,
+   "slug": "lombard-animal-clinic-lombard",
+   "name": "Lombard Animal Clinic",
+   "summary": "Lombard Animal Clinic is a veterinarian in Lombard, IL.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lombard-animal-clinic-lombard/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lombard-animal-clinic-lombard.json",
+   "address": {
+    "addressLocality": "Lombard",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Lombard",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8745421,
+    "lon": -88.0178092
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3588597322",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 205,
+   "sponsored": false,
+   "slug": "moneka-animal-clinic-mokena",
+   "name": "Moneka Animal Clinic",
+   "summary": "Moneka Animal Clinic is a veterinarian in Mokena, IL.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/moneka-animal-clinic-mokena/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/moneka-animal-clinic-mokena.json",
+   "address": {
+    "addressLocality": "Mokena",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Mokena",
+   "state": "IL",
+   "geo": {
+    "lat": 41.5426138,
+    "lon": -87.8477613
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/438017697",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 206,
    "sponsored": false,
    "slug": "new-hope-animal-hospital-new-hope",
    "name": "New Hope Animal Hospital",
@@ -2515,7 +6697,36 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 78,
+   "position": 207,
+   "sponsored": false,
+   "slug": "pets-first-chicago",
+   "name": "Pets First",
+   "summary": "Pets First is a veterinarian in Chicago, IL.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pets-first-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pets-first-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9436974,
+    "lon": -87.6448975
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5694736437",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 208,
    "sponsored": false,
    "slug": "scenic-hills-animal-hospital-saint-paul",
    "name": "Scenic Hills Animal Hospital",
@@ -2544,7 +6755,36 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 79,
+   "position": 209,
+   "sponsored": false,
+   "slug": "spring-valley-veterinary-clinic-schaumburg",
+   "name": "Spring Valley Veterinary Clinic",
+   "summary": "Spring Valley Veterinary Clinic is a veterinarian in Schaumburg, IL.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/spring-valley-veterinary-clinic-schaumburg/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/spring-valley-veterinary-clinic-schaumburg.json",
+   "address": {
+    "addressLocality": "Schaumburg",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Schaumburg",
+   "state": "IL",
+   "geo": {
+    "lat": 42.025047,
+    "lon": -88.0794308
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/688474195",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 210,
    "sponsored": false,
    "slug": "village-animal-hospital-minnetonka",
    "name": "Village Animal Hospital",
@@ -2573,7 +6813,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 80,
+   "position": 211,
    "sponsored": false,
    "slug": "wellhaven-pet-health-maple-grove",
    "name": "WellHaven Pet Health",
@@ -2600,6 +6840,313 @@
    "source": "OpenStreetMap",
    "source_url": "https://www.openstreetmap.org/node/5752836960",
    "last_checked": "2026-10-17"
+  },
+  {
+   "position": 212,
+   "sponsored": false,
+   "slug": "wheaton-cat-clinic-wheaton",
+   "name": "Wheaton Cat Clinic",
+   "summary": "Wheaton Cat Clinic is a veterinarian in Wheaton, IL.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wheaton-cat-clinic-wheaton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wheaton-cat-clinic-wheaton.json",
+   "address": {
+    "addressLocality": "Wheaton",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Wheaton",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8686141,
+    "lon": -88.0913972
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/305286043",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 213,
+   "sponsored": false,
+   "slug": "wicker-park-veterinary-clinic-chicago",
+   "name": "Wicker Park Veterinary Clinic",
+   "summary": "Wicker Park Veterinary Clinic is a veterinarian in Chicago, IL.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wicker-park-veterinary-clinic-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wicker-park-veterinary-clinic-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9028966,
+    "lon": -87.6660127
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3652941310",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 214,
+   "sponsored": false,
+   "slug": "willowbrook-wildlife-hospital-glen-ellyn",
+   "name": "Willowbrook Wildlife Hospital",
+   "summary": "Willowbrook Wildlife Hospital is a veterinarian in Glen Ellyn, IL.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/willowbrook-wildlife-hospital-glen-ellyn/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/willowbrook-wildlife-hospital-glen-ellyn.json",
+   "address": {
+    "addressLocality": "Glen Ellyn",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Glen Ellyn",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8430721,
+    "lon": -88.0616504
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/426415756",
+   "last_checked": "2026-10-17"
   }
- ]
+ ],
+ "market": {
+  "keyword": "vet",
+  "slug": "vet",
+  "base_keyword": "vet",
+  "scope": "national",
+  "city": null,
+  "state": null,
+  "category": "Pets",
+  "industry": "Animals & Pets",
+  "us_monthly_searches": {
+   "value": 550000,
+   "method": "cited",
+   "source": "r_savogroup-com-seo-services-veterinarians",
+   "as_of": "2026-07",
+   "source_phrase": "vet near me",
+   "note": "US monthly searches, Semrush US Jul 2026"
+  },
+  "local_monthly_searches": null,
+  "cpc_usd": {
+   "industry_benchmark": "Animals & Pets",
+   "low_usd": 3.97,
+   "median_usd": 4.06,
+   "high_usd": 4.06,
+   "method": "published benchmarks: low/high = range of the industry and sub-industry median CPCs listed in 'figures'; median = most specific benchmark",
+   "figures": [
+    {
+     "usd": 4.06,
+     "label": "Animals & Pets median CPC 2026",
+     "source": "wordstream_2026"
+    },
+    {
+     "usd": 3.97,
+     "label": "Animals & Pets median CPC 2025",
+     "source": "wordstream_2025"
+    }
+   ],
+   "source": "wordstream_2026",
+   "as_of": "2026",
+   "basis_for_value": {
+    "usd": 4.06,
+    "method": "benchmark median CPC",
+    "source": "wordstream_2026"
+   }
+  },
+  "ctr_pct": {
+   "value": 6.58,
+   "label": "Animals & Pets average search-ad CTR 2025",
+   "source": "wordstream_2025",
+   "as_of": "2025-03"
+  },
+  "competition": {
+   "level": "medium",
+   "method": "proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research)",
+   "source": "wordstream_2026",
+   "as_of": "2026"
+  },
+  "trend": null,
+  "seasonality": {
+   "value": null,
+   "note": "No seasonality data in the research sources for this keyword."
+  },
+  "ai_query": {
+   "text": "No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.",
+   "figures": [
+    {
+     "value": "45%",
+     "label": "US adults using AI for local recommendations",
+     "source": "brightlocal_lcrs_2026"
+    },
+    {
+     "value": "75%",
+     "label": "sessions with keyword-style prompts",
+     "source": "sagapixel_sel"
+    },
+    {
+     "value": "59%",
+     "label": "local-intent prompts that triggered web search",
+     "source": "nectiv"
+    }
+   ],
+   "as_of": "2026"
+  },
+  "registry_competitors": {
+   "value": 214,
+   "slugs": [
+    "abbot-animal-hospital-chicago",
+    "access-veterinary-care-crystal",
+    "all-creatures-animal-hospital-lake-zurich",
+    "all-paws-animal-hospital-saint-louis-park",
+    "allied-veterinary-emergency-and-referral-eden-prairie",
+    "animal-911-skokie",
+    "animal-advocate-pet-hospital-chicago",
+    "animal-care-center-of-buffalo-grove-buffalo-grove",
+    "animal-care-clinic-of-homer-glen-homer-glen",
+    "animal-clinic-of-romeoville-romeoville"
+   ],
+   "method_id": "competitors",
+   "source": "registry",
+   "as_of": "2026-10-18",
+   "urls": [
+    "https://dingalinged-cpu.github.io/registry/c/abbot-animal-hospital-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/access-veterinary-care-crystal/",
+    "https://dingalinged-cpu.github.io/registry/c/all-creatures-animal-hospital-lake-zurich/",
+    "https://dingalinged-cpu.github.io/registry/c/all-paws-animal-hospital-saint-louis-park/",
+    "https://dingalinged-cpu.github.io/registry/c/allied-veterinary-emergency-and-referral-eden-prairie/",
+    "https://dingalinged-cpu.github.io/registry/c/animal-911-skokie/",
+    "https://dingalinged-cpu.github.io/registry/c/animal-advocate-pet-hospital-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/animal-care-center-of-buffalo-grove-buffalo-grove/",
+    "https://dingalinged-cpu.github.io/registry/c/animal-care-clinic-of-homer-glen-homer-glen/",
+    "https://dingalinged-cpu.github.io/registry/c/animal-clinic-of-romeoville-romeoville/"
+   ],
+   "method": "count of registry listings tagged with the keyword (city/national) or with the base service in the same state (state keywords)"
+  },
+  "agent_demand": null,
+  "agent_demand_note": "Not yet measured. Will carry AI-agent query counts from the registry's agent analytics (contract: meta.agent_demand_contract in the market index).",
+  "equivalent_google_ads_cost_month": {
+   "value_usd": 150000,
+   "method": "estimate",
+   "method_id": "google_ads_equiv",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote."
+  },
+  "search_value_index": {
+   "value_usd": 2200000,
+   "method": "estimate",
+   "method_id": "value_index",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: search value index = monthly searches x CPC basis; an advertiser-value ranking signal, not revenue; rounded to 2 significant figures."
+  },
+  "auction": {
+   "featured_spot_min_usd": 100,
+   "spots_2_to_4_min_usd": 10,
+   "tier": "mid",
+   "pricing_rule": "tier minimum (premium $500, high $250, mid $100, standard $50) for national keywords; city = max($10, 20% of tier); state = max($10, 35% of tier); spots 2-4 open at 10% of the featured minimum",
+   "model": "Monthly auction in the last 7 days of each month: days 1-5 bid for the Featured #1 spot, days 6-7 for spots 2-4; winners display all next month; all paid spots labeled Sponsored.",
+   "next_auctions": [
+    {
+     "display_month": "2026-11",
+     "featured_spot_bidding": [
+      "2026-10-25",
+      "2026-10-29"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-10-30",
+      "2026-10-31"
+     ]
+    },
+    {
+     "display_month": "2026-12",
+     "featured_spot_bidding": [
+      "2026-11-24",
+      "2026-11-28"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-11-29",
+      "2026-11-30"
+     ]
+    }
+   ],
+   "source": "registry_auction",
+   "as_of": "2026-10-18"
+  },
+  "sources": {
+   "brightlocal_lcrs_2026": {
+    "name": "BrightLocal Local Consumer Review Survey 2026 (n=1,002 US adults)",
+    "url": "https://www.brightlocal.com/research/lcrs-ai-trust/",
+    "as_of": "2026"
+   },
+   "nectiv": {
+    "name": "Nectiv study of 8,500+ ChatGPT prompts",
+    "url": "https://nectivdigital.com/blog/new-data-study-what-queries-is-chatgpt-using-behind-the-scenes",
+    "as_of": "2025"
+   },
+   "r_savogroup-com-seo-services-veterinarians": {
+    "name": "Semrush US Jul 2026 (via research source)",
+    "url": "https://savogroup.com/seo-services/veterinarians/",
+    "as_of": "2026-07"
+   },
+   "registry": {
+    "name": "This registry's own listings (OpenStreetMap-seeded, ODbL)",
+    "url": "https://dingalinged-cpu.github.io/registry/api/companies.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_auction": {
+    "name": "Registry keyword auction catalog and rules",
+    "url": "https://dingalinged-cpu.github.io/registry/api/keyword-prices.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_estimate": {
+    "name": "Registry estimate (CC-BY-4.0); method given on each value",
+    "url": "https://dingalinged-cpu.github.io/registry/market/",
+    "as_of": "2026-10-18"
+   },
+   "sagapixel_sel": {
+    "name": "Sagapixel ChatGPT local-services sessions, via Search Engine Land",
+    "url": "https://searchengineland.com/chatgpt-users-keywords-for-local-services-data-467715",
+    "as_of": "2026-01"
+   },
+   "wordstream_2025": {
+    "name": "WordStream Google Ads Benchmarks 2025 (16,446 US campaigns, Apr 2024-Mar 2025; median CPC and CTR by industry)",
+    "url": "https://www.wordstream.com/blog/2025-google-ads-benchmarks",
+    "as_of": "2025-03"
+   },
+   "wordstream_2026": {
+    "name": "LocaliQ/WordStream Search Advertising Benchmarks 2026 (US median CPC by industry)",
+    "url": "https://www.localiq.com/blog/search-advertising-benchmarks",
+    "as_of": "2026"
+   }
+  },
+  "license": {
+   "registry_estimates": "CC-BY-4.0",
+   "url": "https://creativecommons.org/licenses/by/4.0/",
+   "cited_figures": "attribute to the publishers in sources"
+  },
+  "as_of": "2026-10-18",
+  "api": "https://dingalinged-cpu.github.io/registry/api/market/vet.json",
+  "rate_card": "https://dingalinged-cpu.github.io/registry/view/market.html#vet"
+ }
 }

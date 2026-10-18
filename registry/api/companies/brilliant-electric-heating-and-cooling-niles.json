@@ -1,0 +1,62 @@
+{
+ "slug": "brilliant-electric-heating-and-cooling-niles",
+ "name": "Brilliant Electric Heating & Cooling",
+ "categories": [
+  "hvac repair"
+ ],
+ "keywords": [
+  "hvac repair",
+  "heating and air",
+  "hvac repair niles il",
+  "heating and air niles il"
+ ],
+ "services": [
+  {
+   "name": "hvac repair",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "heating and air",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "7501 North Waukegan Road",
+  "addressLocality": "Niles",
+  "addressRegion": "IL",
+  "postalCode": "60714",
+  "addressCountry": "US"
+ },
+ "city": "Niles",
+ "state": "IL",
+ "zip": "60714",
+ "geo": {
+  "lat": 42.0172006,
+  "lon": -87.8023769
+ },
+ "phone": "+18475882533",
+ "website": "https://callbrilliant.com/",
+ "schema_type": "HVACBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/4272300438",
+ "osm": {
+  "type": "node",
+  "id": 4272300438,
+  "tags_used": {
+   "craft": "hvac"
+  }
+ },
+ "municipality": "Niles",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/brilliant-electric-heating-and-cooling-niles/",
+ "summary": "Brilliant Electric Heating & Cooling is a HVAC contractor in Niles, IL at 7501 North Waukegan Road, Niles, IL 60714. Phone: +18475882533. Website: https://callbrilliant.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

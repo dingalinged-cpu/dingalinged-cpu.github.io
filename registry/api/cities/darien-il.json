@@ -1,0 +1,1263 @@
+{
+ "place": "Darien, IL",
+ "slug": "darien-il",
+ "count": 38,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "auto repair darien il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-darien-il.json"
+  },
+  {
+   "keyword": "bakery darien il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/bakery-darien-il.json"
+  },
+  {
+   "keyword": "car wash darien il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-darien-il.json"
+  },
+  {
+   "keyword": "computer repair darien il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/computer-repair-darien-il.json"
+  },
+  {
+   "keyword": "dentist darien il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-darien-il.json"
+  },
+  {
+   "keyword": "dermatologist darien il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dermatologist-darien-il.json"
+  },
+  {
+   "keyword": "dog boarding darien il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dog-boarding-darien-il.json"
+  },
+  {
+   "keyword": "dry cleaners darien il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dry-cleaners-darien-il.json"
+  },
+  {
+   "keyword": "event venues darien il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/event-venues-darien-il.json"
+  },
+  {
+   "keyword": "eye doctor darien il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/eye-doctor-darien-il.json"
+  },
+  {
+   "keyword": "gift shop darien il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gift-shop-darien-il.json"
+  },
+  {
+   "keyword": "gym darien il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-darien-il.json"
+  },
+  {
+   "keyword": "hair salon darien il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-darien-il.json"
+  },
+  {
+   "keyword": "haircut darien il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-darien-il.json"
+  },
+  {
+   "keyword": "insurance agency darien il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-darien-il.json"
+  },
+  {
+   "keyword": "insurance agent darien il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-darien-il.json"
+  },
+  {
+   "keyword": "insurance agents darien il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-darien-il.json"
+  },
+  {
+   "keyword": "liquor store darien il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/liquor-store-darien-il.json"
+  },
+  {
+   "keyword": "martial arts darien il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/martial-arts-darien-il.json"
+  },
+  {
+   "keyword": "massage darien il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/massage-darien-il.json"
+  },
+  {
+   "keyword": "mattress store darien il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mattress-store-darien-il.json"
+  },
+  {
+   "keyword": "mechanic darien il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-darien-il.json"
+  },
+  {
+   "keyword": "nail salon darien il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/nail-salon-darien-il.json"
+  },
+  {
+   "keyword": "pet store darien il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/pet-store-darien-il.json"
+  },
+  {
+   "keyword": "phone repair darien il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/phone-repair-darien-il.json"
+  },
+  {
+   "keyword": "physical therapy darien il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/physical-therapy-darien-il.json"
+  },
+  {
+   "keyword": "therapist darien il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/therapist-darien-il.json"
+  },
+  {
+   "keyword": "thrift store darien il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/thrift-store-darien-il.json"
+  },
+  {
+   "keyword": "waxing darien il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/waxing-darien-il.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "petsmart-darien",
+   "name": "PetSmart",
+   "summary": "PetSmart is a pet store in Darien, IL at 2153 75th Street, Darien, IL 60561. Phone: +16302711223. Website: https://www.petsmart.com/stores/us/il/darien-store0422.html.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petsmart-darien/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petsmart-darien.json",
+   "address": {
+    "streetAddress": "2153 75th Street",
+    "addressLocality": "Darien",
+    "addressRegion": "IL",
+    "postalCode": "60561",
+    "addressCountry": "US"
+   },
+   "city": "Darien",
+   "state": "IL",
+   "zip": "60561",
+   "geo": {
+    "lat": 41.7492031,
+    "lon": -87.9979772
+   },
+   "phone": "+16302711223",
+   "website": "https://www.petsmart.com/stores/us/il/darien-store0422.html",
+   "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8989223780",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "avolve-fitness-darien",
+   "name": "Avolve Fitness",
+   "summary": "Avolve Fitness is a gym in Darien, IL at 7516 South Cass Avenue, Darien, IL 60561. Phone: +13317774770. Website: https://avolvefitness.com/.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/avolve-fitness-darien/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/avolve-fitness-darien.json",
+   "address": {
+    "streetAddress": "7516 South Cass Avenue",
+    "addressLocality": "Darien",
+    "addressRegion": "IL",
+    "postalCode": "60561",
+    "addressCountry": "US"
+   },
+   "city": "Darien",
+   "state": "IL",
+   "zip": "60561",
+   "geo": {
+    "lat": 41.7507091,
+    "lon": -87.9757296
+   },
+   "phone": "+13317774770",
+   "website": "https://avolvefitness.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9455379488",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "cass-dental-care-darien",
+   "name": "Cass Dental Care",
+   "summary": "Cass Dental Care is a dentist in Darien, IL at 7702 Cass Avenue #Suite 210, Darien, IL 60561. Phone: +16308100444. Website: https://www.cassdentalcare.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cass-dental-care-darien/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cass-dental-care-darien.json",
+   "address": {
+    "streetAddress": "7702 Cass Avenue #Suite 210",
+    "addressLocality": "Darien",
+    "addressRegion": "IL",
+    "postalCode": "60561",
+    "addressCountry": "US"
+   },
+   "city": "Darien",
+   "state": "IL",
+   "zip": "60561",
+   "geo": {
+    "lat": 41.749134,
+    "lon": -87.9740837
+   },
+   "phone": "+16308100444",
+   "website": "https://www.cassdentalcare.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11848580468",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "cd-one-price-cleaners-darien",
+   "name": "CD One Price Cleaners",
+   "summary": "CD One Price Cleaners is a dry cleaner in Darien, IL at 2425 75th Street, Darien, IL 60561. Phone: +16309106715. Website: https://www.cdonepricecleaners.com/locations/illinois/darien.aspx.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cd-one-price-cleaners-darien/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cd-one-price-cleaners-darien.json",
+   "address": {
+    "streetAddress": "2425 75th Street",
+    "addressLocality": "Darien",
+    "addressRegion": "IL",
+    "postalCode": "60561",
+    "addressCountry": "US"
+   },
+   "city": "Darien",
+   "state": "IL",
+   "zip": "60561",
+   "geo": {
+    "lat": 41.7506566,
+    "lon": -88.0043842
+   },
+   "phone": "+16309106715",
+   "website": "https://www.cdonepricecleaners.com/locations/illinois/darien.aspx",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9455440622",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "darien-tobacco-wine-and-liquors-darien",
+   "name": "Darien Tobacco Wine & Liquors",
+   "summary": "Darien Tobacco Wine & Liquors is a liquor store in Darien, IL at 7516 South Cass Avenue, Darien, IL 60561. Phone: +16305415751. Website: https://gotoliquorstore.com/.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/darien-tobacco-wine-and-liquors-darien/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/darien-tobacco-wine-and-liquors-darien.json",
+   "address": {
+    "streetAddress": "7516 South Cass Avenue",
+    "addressLocality": "Darien",
+    "addressRegion": "IL",
+    "postalCode": "60561",
+    "addressCountry": "US"
+   },
+   "city": "Darien",
+   "state": "IL",
+   "zip": "60561",
+   "geo": {
+    "lat": 41.7505386,
+    "lon": -87.9751906
+   },
+   "phone": "+16305415751",
+   "website": "https://gotoliquorstore.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9455398534",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "great-clips-darien",
+   "name": "Great Clips",
+   "summary": "Great Clips is a hair salon in Darien, IL at 2133 75th Street, Darien, IL 60561. Phone: +16309630632. Website: https://www.greatclips.com/salons/2120.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/great-clips-darien/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/great-clips-darien.json",
+   "address": {
+    "streetAddress": "2133 75th Street",
+    "addressLocality": "Darien",
+    "addressRegion": "IL",
+    "postalCode": "60561",
+    "addressCountry": "US"
+   },
+   "city": "Darien",
+   "state": "IL",
+   "zip": "60561",
+   "geo": {
+    "lat": 41.7491779,
+    "lon": -87.9974353
+   },
+   "phone": "+16309630632",
+   "website": "https://www.greatclips.com/salons/2120",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9888936095",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "jenny-craig-darien",
+   "name": "Jenny Craig",
+   "summary": "Jenny Craig is a therapy practice in Darien, IL at 2145 75th Street, Darien, IL 60561. Phone: +18667064042. Website: https://locations.jennycraig.com/il/darien/weight-loss-center-213.html.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jenny-craig-darien/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jenny-craig-darien.json",
+   "address": {
+    "streetAddress": "2145 75th Street",
+    "addressLocality": "Darien",
+    "addressRegion": "IL",
+    "postalCode": "60561",
+    "addressCountry": "US"
+   },
+   "city": "Darien",
+   "state": "IL",
+   "zip": "60561",
+   "geo": {
+    "lat": 41.7491789,
+    "lon": -87.997654
+   },
+   "phone": "+18667064042",
+   "website": "https://locations.jennycraig.com/il/darien/weight-loss-center-213.html",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9888936094",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "massage-envy-darien",
+   "name": "Massage Envy",
+   "summary": "Massage Envy is a massage studio in Darien, IL at 2445 75th Street, Darien, IL 60561. Phone: +16309104500. Website: https://locations.massageenvy.com/illinois/darien/2445-75th-street-unit-e.html.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/massage-envy-darien/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/massage-envy-darien.json",
+   "address": {
+    "streetAddress": "2445 75th Street",
+    "addressLocality": "Darien",
+    "addressRegion": "IL",
+    "postalCode": "60561",
+    "addressCountry": "US"
+   },
+   "city": "Darien",
+   "state": "IL",
+   "zip": "60561",
+   "geo": {
+    "lat": 41.750687,
+    "lon": -88.0050901
+   },
+   "phone": "+16309104500",
+   "website": "https://locations.massageenvy.com/illinois/darien/2445-75th-street-unit-e.html",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9455440627",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "nuwave-dental-and-orthodontics-darien",
+   "name": "NuWave Dental & Orthodontics",
+   "summary": "NuWave Dental & Orthodontics is a dentist in Darien, IL at 7533 South Cass Avenue, Darien, IL 60561. Phone: +16305416986. Website: https://nuwavedental.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/nuwave-dental-and-orthodontics-darien/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/nuwave-dental-and-orthodontics-darien.json",
+   "address": {
+    "streetAddress": "7533 South Cass Avenue",
+    "addressLocality": "Darien",
+    "addressRegion": "IL",
+    "postalCode": "60561",
+    "addressCountry": "US"
+   },
+   "city": "Darien",
+   "state": "IL",
+   "zip": "60561",
+   "geo": {
+    "lat": 41.750168,
+    "lon": -87.9733287
+   },
+   "phone": "+16305416986",
+   "website": "https://nuwavedental.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9455398123",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "pro-nails-darien",
+   "name": "Pro Nails",
+   "summary": "Pro Nails is a nail salon in Darien, IL at 7533 South Cass Avenue, Darien, IL 60561. Phone: +16302978087. Website: https://pronailsdarien.com/.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pro-nails-darien/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pro-nails-darien.json",
+   "address": {
+    "streetAddress": "7533 South Cass Avenue",
+    "addressLocality": "Darien",
+    "addressRegion": "IL",
+    "postalCode": "60561",
+    "addressCountry": "US"
+   },
+   "city": "Darien",
+   "state": "IL",
+   "zip": "60561",
+   "geo": {
+    "lat": 41.7502824,
+    "lon": -87.9733348
+   },
+   "phone": "+16302978087",
+   "website": "https://pronailsdarien.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9455343443",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "sakura-massage-darien",
+   "name": "Sakura Massage",
+   "summary": "Sakura Massage is a massage studio in Darien, IL at 2121 75th Street, Darien, IL 60561. Phone: +16306358888. Website: https://sakuramassage888.com/.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sakura-massage-darien/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sakura-massage-darien.json",
+   "address": {
+    "streetAddress": "2121 75th Street",
+    "addressLocality": "Darien",
+    "addressRegion": "IL",
+    "postalCode": "60561",
+    "addressCountry": "US"
+   },
+   "city": "Darien",
+   "state": "IL",
+   "zip": "60561",
+   "geo": {
+    "lat": 41.7491821,
+    "lon": -87.997202
+   },
+   "phone": "+16306358888",
+   "website": "https://sakuramassage888.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8989223777",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "smiles-on-cass-darien",
+   "name": "Smiles On Cass",
+   "summary": "Smiles On Cass is a dentist in Darien, IL at 7339 South Cass Avenue, Darien, IL 60561. Phone: +13314819302. Website: https://smilesoncass.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/smiles-on-cass-darien/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/smiles-on-cass-darien.json",
+   "address": {
+    "streetAddress": "7339 South Cass Avenue",
+    "addressLocality": "Darien",
+    "addressRegion": "IL",
+    "postalCode": "60561",
+    "addressCountry": "US"
+   },
+   "city": "Darien",
+   "state": "IL",
+   "zip": "60561",
+   "geo": {
+    "lat": 41.7533983,
+    "lon": -87.9723354
+   },
+   "phone": "+13314819302",
+   "website": "https://smilesoncass.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9455440001",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "sport-clips-darien",
+   "name": "Sport Clips",
+   "summary": "Sport Clips is a hair salon in Darien, IL at 2445 75th Street, Darien, IL 60561. Phone: +16303959532. Website: https://www.haircutmendarienil.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sport-clips-darien/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sport-clips-darien.json",
+   "address": {
+    "streetAddress": "2445 75th Street",
+    "addressLocality": "Darien",
+    "addressRegion": "IL",
+    "postalCode": "60561",
+    "addressCountry": "US"
+   },
+   "city": "Darien",
+   "state": "IL",
+   "zip": "60561",
+   "geo": {
+    "lat": 41.750688,
+    "lon": -88.0048254
+   },
+   "phone": "+16303959532",
+   "website": "https://www.haircutmendarienil.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9455440624",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "the-dog-district-darien",
+   "name": "The Dog District",
+   "summary": "The Dog District is a dog boarding facility in Darien, IL at 1100 North Frontage Road, Darien, IL 60561. Phone: +16305416660. Website: https://www.dogdistrictdarien.com/.",
+   "categories": [
+    "dog boarding"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-dog-district-darien/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-dog-district-darien.json",
+   "address": {
+    "streetAddress": "1100 North Frontage Road",
+    "addressLocality": "Darien",
+    "addressRegion": "IL",
+    "postalCode": "60561",
+    "addressCountry": "US"
+   },
+   "city": "Darien",
+   "state": "IL",
+   "zip": "60561",
+   "geo": {
+    "lat": 41.7349261,
+    "lon": -87.9710578
+   },
+   "phone": "+16305416660",
+   "website": "https://www.dogdistrictdarien.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/566815536",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "darien-university-dermatology-and-vein-clinic-darien",
+   "name": "Darien University Dermatology And Vein Clinic",
+   "summary": "Darien University Dermatology And Vein Clinic is a dermatologist in Darien, IL at 8110 S Cass Avenue, Darien, IL 60561. Website: https://university-dermatology.com/.",
+   "categories": [
+    "dermatologist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/darien-university-dermatology-and-vein-clinic-darien/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/darien-university-dermatology-and-vein-clinic-darien.json",
+   "address": {
+    "streetAddress": "8110 S Cass Avenue",
+    "addressLocality": "Darien",
+    "addressRegion": "IL",
+    "postalCode": "60561",
+    "addressCountry": "US"
+   },
+   "city": "Darien",
+   "state": "IL",
+   "zip": "60561",
+   "geo": {
+    "lat": 41.7406176,
+    "lon": -87.9741741
+   },
+   "website": "https://university-dermatology.com/",
+   "opening_hours": "Mo-Fr 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1248248076",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "darien-eye-specialists-darien",
+   "name": "Darien Eye Specialists",
+   "summary": "Darien Eye Specialists is an eye care practice in Darien, IL. Phone: +16309689440. Website: https://www.darieneyespecialists.com/.",
+   "categories": [
+    "eye doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/darien-eye-specialists-darien/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/darien-eye-specialists-darien.json",
+   "address": {
+    "addressLocality": "Darien",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Darien",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7503318,
+    "lon": -87.9757244
+   },
+   "phone": "+16309689440",
+   "website": "https://www.darieneyespecialists.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 12.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9455379489",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "brookhaven-salon-studios-darien",
+   "name": "Brookhaven Salon Studios",
+   "summary": "Brookhaven Salon Studios is a hair salon in Darien, IL at 7516 South Cass Avenue, Darien, IL 60561. Phone: +16306631152.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/brookhaven-salon-studios-darien/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/brookhaven-salon-studios-darien.json",
+   "address": {
+    "streetAddress": "7516 South Cass Avenue",
+    "addressLocality": "Darien",
+    "addressRegion": "IL",
+    "postalCode": "60561",
+    "addressCountry": "US"
+   },
+   "city": "Darien",
+   "state": "IL",
+   "zip": "60561",
+   "geo": {
+    "lat": 41.7504354,
+    "lon": -87.975479
+   },
+   "phone": "+16306631152",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9455398533",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "ct-nails-ltd-darien",
+   "name": "CT Nails Ltd",
+   "summary": "CT Nails Ltd is a nail salon in Darien, IL at 2445 75th Street, Darien, IL 60561. Phone: +16304273492.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ct-nails-ltd-darien/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ct-nails-ltd-darien.json",
+   "address": {
+    "streetAddress": "2445 75th Street",
+    "addressLocality": "Darien",
+    "addressRegion": "IL",
+    "postalCode": "60561",
+    "addressCountry": "US"
+   },
+   "city": "Darien",
+   "state": "IL",
+   "zip": "60561",
+   "geo": {
+    "lat": 41.750688,
+    "lon": -88.0048792
+   },
+   "phone": "+16304273492",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9455440625",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "magic-touch-cleaners-darien",
+   "name": "Magic Touch Cleaners",
+   "summary": "Magic Touch Cleaners is a dry cleaner in Darien, IL at 7516 Cass Avenue, Darien, IL 60561. Phone: +16309682394.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/magic-touch-cleaners-darien/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/magic-touch-cleaners-darien.json",
+   "address": {
+    "streetAddress": "7516 Cass Avenue",
+    "addressLocality": "Darien",
+    "addressRegion": "IL",
+    "postalCode": "60561",
+    "addressCountry": "US"
+   },
+   "city": "Darien",
+   "state": "IL",
+   "zip": "60561",
+   "geo": {
+    "lat": 41.7504961,
+    "lon": -87.9753279
+   },
+   "phone": "+16309682394",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9455398535",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "tt-nails-darien",
+   "name": "TT Nails",
+   "summary": "TT Nails is a nail salon in Darien, IL at 7516 South Cass Avenue, Darien, IL 60561. Phone: +16303227928.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tt-nails-darien/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tt-nails-darien.json",
+   "address": {
+    "streetAddress": "7516 South Cass Avenue",
+    "addressLocality": "Darien",
+    "addressRegion": "IL",
+    "postalCode": "60561",
+    "addressCountry": "US"
+   },
+   "city": "Darien",
+   "state": "IL",
+   "zip": "60561",
+   "geo": {
+    "lat": 41.7503886,
+    "lon": -87.9755965
+   },
+   "phone": "+16303227928",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9455398532",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "ubreakifix-darien",
+   "name": "uBreakiFix",
+   "summary": "uBreakiFix is a phone repair shop in Darien, IL at 7531 Lemont Road #B, Darien, IL 60561. Phone: +16303246076.",
+   "categories": [
+    "phone repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ubreakifix-darien/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ubreakifix-darien.json",
+   "address": {
+    "streetAddress": "7531 Lemont Road #B",
+    "addressLocality": "Darien",
+    "addressRegion": "IL",
+    "postalCode": "60561",
+    "addressCountry": "US"
+   },
+   "city": "Darien",
+   "state": "IL",
+   "zip": "60561",
+   "geo": {
+    "lat": 41.749019,
+    "lon": -88.0121097
+   },
+   "phone": "+16303246076",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8989207174",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "c-j-nails-darien",
+   "name": "C.J Nails",
+   "summary": "C.J Nails is a nail salon in Darien, IL at 7511 Lemont Road, Darien, IL 60561.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/c-j-nails-darien/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/c-j-nails-darien.json",
+   "address": {
+    "streetAddress": "7511 Lemont Road",
+    "addressLocality": "Darien",
+    "addressRegion": "IL",
+    "postalCode": "60561",
+    "addressCountry": "US"
+   },
+   "city": "Darien",
+   "state": "IL",
+   "zip": "60561",
+   "geo": {
+    "lat": 41.7491708,
+    "lon": -88.0098367
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5256928059",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "elite-smiles-dental-care-darien",
+   "name": "Elite Smiles Dental Care",
+   "summary": "Elite Smiles Dental Care is a dentist in Darien, IL at 7531 Lemont Road, Darien, IL 60561.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/elite-smiles-dental-care-darien/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/elite-smiles-dental-care-darien.json",
+   "address": {
+    "streetAddress": "7531 Lemont Road",
+    "addressLocality": "Darien",
+    "addressRegion": "IL",
+    "postalCode": "60561",
+    "addressCountry": "US"
+   },
+   "city": "Darien",
+   "state": "IL",
+   "zip": "60561",
+   "geo": {
+    "lat": 41.748959,
+    "lon": -88.0121097
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8989217324",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "the-salvation-army-darien",
+   "name": "The Salvation Army",
+   "summary": "The Salvation Army is a thrift store in Darien, IL at 7511 Lemont Road #180, Darien, IL 60561.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-salvation-army-darien/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-salvation-army-darien.json",
+   "address": {
+    "streetAddress": "7511 Lemont Road #180",
+    "addressLocality": "Darien",
+    "addressRegion": "IL",
+    "postalCode": "60561",
+    "addressCountry": "US"
+   },
+   "city": "Darien",
+   "state": "IL",
+   "zip": "60561",
+   "geo": {
+    "lat": 41.7487755,
+    "lon": -88.0112799
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5256928067",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "alpine-banquets-darien",
+   "name": "Alpine Banquets",
+   "summary": "Alpine Banquets is an event venue in Darien, IL.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/alpine-banquets-darien/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/alpine-banquets-darien.json",
+   "address": {
+    "addressLocality": "Darien",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Darien",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7375643,
+    "lon": -87.9750383
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/563113505",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "ati-physical-therapy-darien",
+   "name": "ATI Physical Therapy",
+   "summary": "ATI Physical Therapy is a physical therapy clinic in Darien, IL.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ati-physical-therapy-darien/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ati-physical-therapy-darien.json",
+   "address": {
+    "addressLocality": "Darien",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Darien",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7484364,
+    "lon": -88.0121239
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5256928070",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "card-frenzy-darien",
+   "name": "Card Frenzy",
+   "summary": "Card Frenzy is a gift shop in Darien, IL.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/card-frenzy-darien/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/card-frenzy-darien.json",
+   "address": {
+    "addressLocality": "Darien",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Darien",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7494541,
+    "lon": -88.0098573
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5256928056",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "chucks-import-darien",
+   "name": "Chuck's Import",
+   "summary": "Chuck's Import is an auto repair shop in Darien, IL.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chucks-import-darien/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chucks-import-darien.json",
+   "address": {
+    "addressLocality": "Darien",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Darien",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7514148,
+    "lon": -87.9698835
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/549826215",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "darian-liquor-darien",
+   "name": "Darian Liquor",
+   "summary": "Darian Liquor is a liquor store in Darien, IL.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/darian-liquor-darien/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/darian-liquor-darien.json",
+   "address": {
+    "addressLocality": "Darien",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Darien",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7404374,
+    "lon": -87.9720725
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13519801951",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "edible-arrangements-darien",
+   "name": "Edible Arrangements",
+   "summary": "Edible Arrangements is a gift shop in Darien, IL.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edible-arrangements-darien/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edible-arrangements-darien.json",
+   "address": {
+    "addressLocality": "Darien",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Darien",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7487749,
+    "lon": -88.0119796
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5256928031",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "kingery-dental-darien",
+   "name": "Kingery Dental",
+   "summary": "Kingery Dental is a dentist in Darien, IL.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kingery-dental-darien/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kingery-dental-darien.json",
+   "address": {
+    "addressLocality": "Darien",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Darien",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7666078,
+    "lon": -87.9458536
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1424848310",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "lady-janes-haircuts-for-men-darien",
+   "name": "Lady Jane's Haircuts for Men",
+   "summary": "Lady Jane's Haircuts for Men is a hair salon in Darien, IL.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lady-janes-haircuts-for-men-darien/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lady-janes-haircuts-for-men-darien.json",
+   "address": {
+    "addressLocality": "Darien",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Darien",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7506878,
+    "lon": -87.9733196
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9455369396",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "lyon-car-wash-darien",
+   "name": "Lyon Car Wash",
+   "summary": "Lyon Car Wash is a car wash in Darien, IL.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lyon-car-wash-darien/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lyon-car-wash-darien.json",
+   "address": {
+    "addressLocality": "Darien",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Darien",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7510757,
+    "lon": -87.970554
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/549826214",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "mattress-firm-darien",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Darien, IL.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-darien/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-darien.json",
+   "address": {
+    "addressLocality": "Darien",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Darien",
+   "state": "IL",
+   "geo": {
+    "lat": 41.749152,
+    "lon": -88.0120572
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5256927988",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "silvias-bakery-darien",
+   "name": "Silvia's Bakery",
+   "summary": "Silvia's Bakery is a bakery in Darien, IL.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/silvias-bakery-darien/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/silvias-bakery-darien.json",
+   "address": {
+    "addressLocality": "Darien",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Darien",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7406133,
+    "lon": -87.9720798
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13519801945",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "speedy-wash-darien",
+   "name": "Speedy Wash",
+   "summary": "Speedy Wash is a car wash in Darien, IL.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/speedy-wash-darien/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/speedy-wash-darien.json",
+   "address": {
+    "addressLocality": "Darien",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Darien",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7005726,
+    "lon": -88.0072284
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/544408702",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "synder-insurance-and-financial-services-darien",
+   "name": "Synder Insurance and Financial Services",
+   "summary": "Synder Insurance and Financial Services is an insurance agent in Darien, IL.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/synder-insurance-and-financial-services-darien/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/synder-insurance-and-financial-services-darien.json",
+   "address": {
+    "addressLocality": "Darien",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Darien",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7514107,
+    "lon": -87.9704109
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/549826217",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "taekwondo-usa-darien",
+   "name": "Taekwondo USA",
+   "summary": "Taekwondo USA is a martial arts school in Darien, IL.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/taekwondo-usa-darien/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/taekwondo-usa-darien.json",
+   "address": {
+    "addressLocality": "Darien",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Darien",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7501406,
+    "lon": -87.9748423
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12758564912",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

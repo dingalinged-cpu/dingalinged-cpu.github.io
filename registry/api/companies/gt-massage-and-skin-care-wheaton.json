@@ -1,0 +1,62 @@
+{
+ "slug": "gt-massage-and-skin-care-wheaton",
+ "name": "GT Massage & Skin Care",
+ "categories": [
+  "massage"
+ ],
+ "keywords": [
+  "massage",
+  "massage wheaton il"
+ ],
+ "services": [
+  {
+   "name": "massage",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "300 East Roosevelt Road #110",
+  "addressLocality": "Wheaton",
+  "addressRegion": "IL",
+  "postalCode": "60187",
+  "addressCountry": "US"
+ },
+ "city": "Wheaton",
+ "state": "IL",
+ "zip": "60187",
+ "geo": {
+  "lat": 41.8585257,
+  "lon": -88.1018828
+ },
+ "phone": "+16302922061",
+ "website": "https://gtmassageandskincare.com/",
+ "email": "gtmassage620@gmail.com",
+ "opening_hours": "Mo-Th 11:30-20:00; Fr 09:00-17:00; Sa 08:00-15:30",
+ "social": [
+  "https://www.facebook.com/GtMassageSkinCare",
+  "https://x.com/GT_Massage_Skin"
+ ],
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/13462350232",
+ "osm": {
+  "type": "node",
+  "id": 13462350232,
+  "tags_used": {
+   "shop": "massage"
+  }
+ },
+ "municipality": "Wheaton",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/gt-massage-and-skin-care-wheaton/",
+ "summary": "GT Massage & Skin Care is a massage studio in Wheaton, IL at 300 East Roosevelt Road #110, Wheaton, IL 60187. Phone: +16302922061. Website: https://gtmassageandskincare.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

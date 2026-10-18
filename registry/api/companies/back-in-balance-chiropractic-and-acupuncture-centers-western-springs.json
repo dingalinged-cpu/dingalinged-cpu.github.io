@@ -1,0 +1,57 @@
+{
+ "slug": "back-in-balance-chiropractic-and-acupuncture-centers-western-springs",
+ "name": "Back In Balance Chiropractic & Acupuncture Centers",
+ "categories": [
+  "chiropractor"
+ ],
+ "keywords": [
+  "chiropractor",
+  "chiropractor western springs il"
+ ],
+ "services": [
+  {
+   "name": "chiropractor",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "518 Hillgrove Avenue #275",
+  "addressLocality": "Western Springs",
+  "addressRegion": "IL",
+  "postalCode": "60558",
+  "addressCountry": "US"
+ },
+ "city": "Western Springs",
+ "state": "IL",
+ "zip": "60558",
+ "geo": {
+  "lat": 41.8106611,
+  "lon": -87.8960288
+ },
+ "phone": "+17085888270",
+ "website": "https://www.bibchiropractic.com/western-springs/",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/9603287967",
+ "osm": {
+  "type": "node",
+  "id": 9603287967,
+  "tags_used": {
+   "healthcare": "alternative",
+   "healthcare:speciality": "chiropractic"
+  }
+ },
+ "municipality": "Western Springs",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/back-in-balance-chiropractic-and-acupuncture-centers-western-springs/",
+ "summary": "Back In Balance Chiropractic & Acupuncture Centers is a chiropractor in Western Springs, IL at 518 Hillgrove Avenue #275, Western Springs, IL 60558. Phone: +17085888270. Website: https://www.bibchiropractic.com/western-springs/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

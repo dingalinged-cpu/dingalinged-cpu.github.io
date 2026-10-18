@@ -1,0 +1,54 @@
+{
+ "slug": "fourstar-fit-whiting",
+ "name": "FourStar Fit",
+ "categories": [
+  "gym"
+ ],
+ "keywords": [
+  "gym",
+  "gym whiting in"
+ ],
+ "services": [
+  {
+   "name": "gym",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1916 Indianapolis Boulevard",
+  "addressLocality": "Whiting",
+  "addressRegion": "IN",
+  "postalCode": "46394",
+  "addressCountry": "US"
+ },
+ "city": "Whiting",
+ "state": "IN",
+ "zip": "46394",
+ "geo": {
+  "lat": 41.6786896,
+  "lon": -87.4989718
+ },
+ "schema_type": "ExerciseGym",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/1233085007",
+ "osm": {
+  "type": "way",
+  "id": 1233085007,
+  "tags_used": {
+   "leisure": "fitness_centre"
+  }
+ },
+ "municipality": "Whiting",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/fourstar-fit-whiting/",
+ "summary": "FourStar Fit is a gym in Whiting, IN at 1916 Indianapolis Boulevard, Whiting, IN 46394.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

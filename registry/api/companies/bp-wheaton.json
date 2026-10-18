@@ -1,0 +1,53 @@
+{
+ "slug": "bp-wheaton",
+ "name": "BP",
+ "categories": [
+  "car wash"
+ ],
+ "keywords": [
+  "car wash",
+  "car wash wheaton il"
+ ],
+ "services": [
+  {
+   "name": "car wash",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Wheaton",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Wheaton",
+ "state": "IL",
+ "geo": {
+  "lat": 41.829788,
+  "lon": -88.0971242
+ },
+ "brand": "BP",
+ "wikidata": "Q152057",
+ "schema_type": "AutoWash",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/1063076181",
+ "osm": {
+  "type": "way",
+  "id": 1063076181,
+  "tags_used": {
+   "amenity": "car_wash"
+  }
+ },
+ "municipality": "Wheaton",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/bp-wheaton/",
+ "summary": "BP is a car wash in Wheaton, IL.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

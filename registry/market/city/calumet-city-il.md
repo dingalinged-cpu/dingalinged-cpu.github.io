@@ -1,0 +1,47 @@
+Keyword market for Calumet City, IL: 14 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Chicago-Naperville-Elgin, IL-IN metro (US volume x population share).
+
+# Top keywords in Calumet City, IL
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are in the JSON and dataset. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json
+
+## By monthly searches
+1. car wash calumet city il | searches/mo 51,000 (est) | CPC $4.35 | value $220,000 | Google Ads equiv $12,000/mo | our featured min $20/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/car-wash-calumet-city-il/
+2. dentist calumet city il | searches/mo 51,000 (est) | CPC $4.70 | value $240,000 | Google Ads equiv $13,000/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/dentist-calumet-city-il/
+3. oil change calumet city il | searches/mo 51,000 (est) | CPC $4.35 | value $220,000 | Google Ads equiv $12,000/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/oil-change-calumet-city-il/
+4. mechanic calumet city il | searches/mo 19,000 (est) | CPC $4.35 | value $83,000 | Google Ads equiv $4,600/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/mechanic-calumet-city-il/
+5. auto repair calumet city il | searches/mo 8,300 (est) | CPC $4.35 | value $36,000 | Google Ads equiv $2,000/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/auto-repair-calumet-city-il/
+6. insurance agency calumet city il | searches/mo 2,500 (est) | CPC $3.39 | value $8,500 | Google Ads equiv $710/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/insurance-agency-calumet-city-il/
+7. tax preparation calumet city il | searches/mo 2,000 (est) | CPC $3.25 | value $6,500 | Google Ads equiv $540/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/tax-preparation-calumet-city-il/
+8. tax preparer calumet city il | searches/mo 1,700 (est) | CPC $5.87 | value $10,000 | Google Ads equiv $560/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/tax-preparer-calumet-city-il/
+9. insurance agents calumet city il | searches/mo 1,400 (est) | CPC $3.39 | value $4,700 | Google Ads equiv $400/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/insurance-agents-calumet-city-il/
+10. insurance agent calumet city il | searches/mo 1,100 (est) | CPC $3.39 | value $3,700 | Google Ads equiv $310/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/insurance-agent-calumet-city-il/
+
+## By CPC
+1. storage units calumet city il | searches/mo 6,100 (est) | CPC $8.33 | value $51,000 | Google Ads equiv $3,200/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/storage-units-calumet-city-il/
+2. tax preparer calumet city il | searches/mo 1,700 (est) | CPC $5.87 | value $10,000 | Google Ads equiv $560/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/tax-preparer-calumet-city-il/
+3. physical therapy calumet city il | searches/mo 6,100 (est) | CPC $4.76 | value $29,000 | Google Ads equiv $2,000/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/physical-therapy-calumet-city-il/
+4. dentist calumet city il | searches/mo 51,000 (est) | CPC $4.70 | value $240,000 | Google Ads equiv $13,000/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/dentist-calumet-city-il/
+5. auto repair calumet city il | searches/mo 8,300 (est) | CPC $4.35 | value $36,000 | Google Ads equiv $2,000/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/auto-repair-calumet-city-il/
+6. car wash calumet city il | searches/mo 51,000 (est) | CPC $4.35 | value $220,000 | Google Ads equiv $12,000/mo | our featured min $20/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/car-wash-calumet-city-il/
+7. mechanic calumet city il | searches/mo 19,000 (est) | CPC $4.35 | value $83,000 | Google Ads equiv $4,600/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/mechanic-calumet-city-il/
+8. oil change calumet city il | searches/mo 51,000 (est) | CPC $4.35 | value $220,000 | Google Ads equiv $12,000/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/oil-change-calumet-city-il/
+9. furniture store calumet city il | searches/mo 3,900 (est) | CPC $4.14 | value $16,000 | Google Ads equiv $1,400/mo | our featured min $10/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/furniture-store-calumet-city-il/
+10. jewelry store calumet city il | searches/mo 3,900 (est) | CPC $4.14 | value $16,000 | Google Ads equiv $1,400/mo | our featured min $10/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/jewelry-store-calumet-city-il/
+11. insurance agency calumet city il | searches/mo 2,500 (est) | CPC $3.39 | value $8,500 | Google Ads equiv $710/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/insurance-agency-calumet-city-il/
+12. insurance agent calumet city il | searches/mo 1,100 (est) | CPC $3.39 | value $3,700 | Google Ads equiv $310/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/insurance-agent-calumet-city-il/
+13. insurance agents calumet city il | searches/mo 1,400 (est) | CPC $3.39 | value $4,700 | Google Ads equiv $400/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/insurance-agents-calumet-city-il/
+14. tax preparation calumet city il | searches/mo 2,000 (est) | CPC $3.25 | value $6,500 | Google Ads equiv $540/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/tax-preparation-calumet-city-il/
+
+## By value (searches x CPC)
+1. dentist calumet city il | searches/mo 51,000 (est) | CPC $4.70 | value $240,000 | Google Ads equiv $13,000/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/dentist-calumet-city-il/
+2. car wash calumet city il | searches/mo 51,000 (est) | CPC $4.35 | value $220,000 | Google Ads equiv $12,000/mo | our featured min $20/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/car-wash-calumet-city-il/
+3. oil change calumet city il | searches/mo 51,000 (est) | CPC $4.35 | value $220,000 | Google Ads equiv $12,000/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/oil-change-calumet-city-il/
+4. mechanic calumet city il | searches/mo 19,000 (est) | CPC $4.35 | value $83,000 | Google Ads equiv $4,600/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/mechanic-calumet-city-il/
+5. auto repair calumet city il | searches/mo 8,300 (est) | CPC $4.35 | value $36,000 | Google Ads equiv $2,000/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/auto-repair-calumet-city-il/
+6. tax preparer calumet city il | searches/mo 1,700 (est) | CPC $5.87 | value $10,000 | Google Ads equiv $560/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/tax-preparer-calumet-city-il/
+7. insurance agency calumet city il | searches/mo 2,500 (est) | CPC $3.39 | value $8,500 | Google Ads equiv $710/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/insurance-agency-calumet-city-il/
+8. tax preparation calumet city il | searches/mo 2,000 (est) | CPC $3.25 | value $6,500 | Google Ads equiv $540/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/tax-preparation-calumet-city-il/
+9. insurance agents calumet city il | searches/mo 1,400 (est) | CPC $3.39 | value $4,700 | Google Ads equiv $400/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/insurance-agents-calumet-city-il/
+10. insurance agent calumet city il | searches/mo 1,100 (est) | CPC $3.39 | value $3,700 | Google Ads equiv $310/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/insurance-agent-calumet-city-il/
+
+All market data: https://dingalinged-cpu.github.io/registry/market/ | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html

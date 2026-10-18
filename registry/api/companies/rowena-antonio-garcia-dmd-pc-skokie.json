@@ -1,0 +1,56 @@
+{
+ "slug": "rowena-antonio-garcia-dmd-pc-skokie",
+ "name": "Rowena Antonio-Garcia DMD, PC",
+ "categories": [
+  "dentist"
+ ],
+ "keywords": [
+  "dentist",
+  "dentist skokie il"
+ ],
+ "services": [
+  {
+   "name": "dentist",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "4905 Oakton Street",
+  "addressLocality": "Skokie",
+  "addressRegion": "IL",
+  "postalCode": "60077",
+  "addressCountry": "US"
+ },
+ "city": "Skokie",
+ "state": "IL",
+ "zip": "60077",
+ "geo": {
+  "lat": 42.0260846,
+  "lon": -87.7503485
+ },
+ "website": "https://www.ragdental.org/",
+ "schema_type": "Dentist",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/704236244",
+ "osm": {
+  "type": "way",
+  "id": 704236244,
+  "tags_used": {
+   "amenity": "dentist",
+   "healthcare": "dentist"
+  }
+ },
+ "municipality": "Skokie",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/rowena-antonio-garcia-dmd-pc-skokie/",
+ "summary": "Rowena Antonio-Garcia DMD, PC is a dentist in Skokie, IL at 4905 Oakton Street, Skokie, IL 60077. Website: https://www.ragdental.org/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

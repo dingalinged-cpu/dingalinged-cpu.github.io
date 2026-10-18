@@ -1,0 +1,59 @@
+{
+ "slug": "anytime-fitness-glenwood",
+ "name": "Anytime Fitness",
+ "categories": [
+  "gym"
+ ],
+ "keywords": [
+  "gym",
+  "gym glenwood il"
+ ],
+ "services": [
+  {
+   "name": "gym",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "18345 Halsted Street",
+  "addressLocality": "Glenwood",
+  "addressRegion": "IL",
+  "postalCode": "60425",
+  "addressCountry": "US"
+ },
+ "city": "Glenwood",
+ "state": "IL",
+ "zip": "60425",
+ "geo": {
+  "lat": 41.55616,
+  "lon": -87.6354887
+ },
+ "phone": "+17083604200",
+ "website": "https://www.anytimefitness.com/gyms/4392/glenwood-il-60425/",
+ "opening_hours": "24/7",
+ "brand": "Anytime Fitness",
+ "wikidata": "Q4778364",
+ "schema_type": "ExerciseGym",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/7716125881",
+ "osm": {
+  "type": "node",
+  "id": 7716125881,
+  "tags_used": {
+   "leisure": "fitness_centre"
+  }
+ },
+ "municipality": "Glenwood",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/anytime-fitness-glenwood/",
+ "summary": "Anytime Fitness is a gym in Glenwood, IL at 18345 Halsted Street, Glenwood, IL 60425. Phone: +17083604200. Website: https://www.anytimefitness.com/gyms/4392/glenwood-il-60425/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

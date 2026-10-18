@@ -1,0 +1,23 @@
+Wag Hotels is a dog boarding facility in Chicago, IL.
+
+# Wag Hotels
+
+- Category: dog boarding
+- Services: dog boarding
+- Address: Chicago, IL
+- City: Chicago
+- State: IL
+- ZIP: n/a
+- Coordinates: 41.9222775, -87.6656557
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/wag-hotels-chicago/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/wag-hotels-chicago.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12463885045 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

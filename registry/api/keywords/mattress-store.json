@@ -12,9 +12,9 @@
   "affordable mattress store the United States",
   "emergency mattress store the United States"
  ],
- "answer": "The top unpaid mattress store listing for the United States is Mattress Firm (a mattress store in Minneapolis, MN at 1001 West Lake Street, Minneapolis, MN 55408. Phone: +16128279022. Website: https://www.mattressfirm.com/en-us/stores/mn/minneapolis/080037/). 25 mattress store businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "answer": "The top unpaid mattress store listing for the United States is American Mattress (a mattress store in Bloomingdale, IL at 336 West Army Trail Road, Bloomingdale, IL 60108. Phone: +16305828500. Website: https://www.americanmattress.com/pages/american-mattress-bloomingdale-il). 122 mattress store businesses are listed for the United States as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
  "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
- "updated": "2026-10-17",
+ "updated": "2026-10-18",
  "sponsored_slots": {
   "featured_1": "available",
   "spots_2_4_sold": 0
@@ -27,6 +27,181 @@
  "results": [
   {
    "position": 1,
+   "sponsored": false,
+   "slug": "american-mattress-bloomingdale",
+   "name": "American Mattress",
+   "summary": "American Mattress is a mattress store in Bloomingdale, IL at 336 West Army Trail Road, Bloomingdale, IL 60108. Phone: +16305828500. Website: https://www.americanmattress.com/pages/american-mattress-bloomingdale-il.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/american-mattress-bloomingdale/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/american-mattress-bloomingdale.json",
+   "address": {
+    "streetAddress": "336 West Army Trail Road",
+    "addressLocality": "Bloomingdale",
+    "addressRegion": "IL",
+    "postalCode": "60108",
+    "addressCountry": "US"
+   },
+   "city": "Bloomingdale",
+   "state": "IL",
+   "zip": "60108",
+   "geo": {
+    "lat": 41.9386114,
+    "lon": -88.108747
+   },
+   "phone": "+16305828500",
+   "website": "https://www.americanmattress.com/pages/american-mattress-bloomingdale-il",
+   "opening_hours": "Mo, Tu, Th, Fr 10:00-19:30; We, Su 11:00-18:00; Sa 10:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/850669892",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "american-mattress-buffalo-grove",
+   "name": "American Mattress",
+   "summary": "American Mattress is a mattress store in Buffalo Grove, IL at 197 McHenry Road, Buffalo Grove, IL 60089. Phone: +12246762466. Website: https://www.americanmattress.com/.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/american-mattress-buffalo-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/american-mattress-buffalo-grove.json",
+   "address": {
+    "streetAddress": "197 McHenry Road",
+    "addressLocality": "Buffalo Grove",
+    "addressRegion": "IL",
+    "postalCode": "60089",
+    "addressCountry": "US"
+   },
+   "city": "Buffalo Grove",
+   "state": "IL",
+   "zip": "60089",
+   "geo": {
+    "lat": 42.1563141,
+    "lon": -87.9593152
+   },
+   "phone": "+12246762466",
+   "website": "https://www.americanmattress.com/",
+   "opening_hours": "Mo-Tu 10:00-19:30; We 11:00-18:00; Th-Fr 10:00-19:30; Sa 10:00-19:00; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/371533013",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "futons-n-more-chicago",
+   "name": "Futons-N-More",
+   "summary": "Futons-N-More is a mattress store in Chicago, IL at 919 West Irving Park Road, Chicago, IL 60613. Phone: +17733247083. Website: https://www.futonsnmoreconnect.com/.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/futons-n-more-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/futons-n-more-chicago.json",
+   "address": {
+    "streetAddress": "919 West Irving Park Road",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60613",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60613",
+   "geo": {
+    "lat": 41.9543583,
+    "lon": -87.6531706
+   },
+   "phone": "+17733247083",
+   "website": "https://www.futonsnmoreconnect.com/",
+   "opening_hours": "Mo-Fr 11:00-19:00; Sa 10:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10309684745",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "mattress-firm-chicago-n7394007639",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Chicago, IL at 5232 North Broadway, Chicago, IL 60640. Phone: +17739897232. Website: https://www.mattressfirm.com/en-us/stores/il/chicago/119138/.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-chicago-n7394007639/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-chicago-n7394007639.json",
+   "address": {
+    "streetAddress": "5232 North Broadway",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60640",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60640",
+   "geo": {
+    "lat": 41.977377,
+    "lon": -87.6604299
+   },
+   "phone": "+17739897232",
+   "website": "https://www.mattressfirm.com/en-us/stores/il/chicago/119138/",
+   "opening_hours": "Mo-Sa 10:00-20:00; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7394007639",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "mattress-firm-lombard",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Lombard, IL at 2770 South Highland Avenue #106, Lombard, IL 60148. Phone: +16304952118. Website: https://www.mattressfirm.com/en-us/stores/il/lombard/119004/.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-lombard/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-lombard.json",
+   "address": {
+    "streetAddress": "2770 South Highland Avenue #106",
+    "addressLocality": "Lombard",
+    "addressRegion": "IL",
+    "postalCode": "60148",
+    "addressCountry": "US"
+   },
+   "city": "Lombard",
+   "state": "IL",
+   "zip": "60148",
+   "geo": {
+    "lat": 41.837098,
+    "lon": -88.0130717
+   },
+   "phone": "+16304952118",
+   "website": "https://www.mattressfirm.com/en-us/stores/il/lombard/119004/",
+   "opening_hours": "Mo-Sa 10:00-20:00; Su 10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/197990899",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
    "sponsored": false,
    "slug": "mattress-firm-minneapolis",
    "name": "Mattress Firm",
@@ -61,7 +236,42 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 2,
+   "position": 7,
+   "sponsored": false,
+   "slug": "mattress-warehouse-arlington-heights",
+   "name": "Mattress Warehouse",
+   "summary": "Mattress Warehouse is a mattress store in Arlington Heights, IL at 1007 East Rand Road, Arlington Heights, IL 60004. Phone: +18478188389. Website: https://mattresswarehouse.com/store-locator/mattress-warehouse-of-arlington_heights-5521-arlington_heights-illinois.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-warehouse-arlington-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-warehouse-arlington-heights.json",
+   "address": {
+    "streetAddress": "1007 East Rand Road",
+    "addressLocality": "Arlington Heights",
+    "addressRegion": "IL",
+    "postalCode": "60004",
+    "addressCountry": "US"
+   },
+   "city": "Arlington Heights",
+   "state": "IL",
+   "zip": "60004",
+   "geo": {
+    "lat": 42.1058704,
+    "lon": -87.9709759
+   },
+   "phone": "+18478188389",
+   "website": "https://mattresswarehouse.com/store-locator/mattress-warehouse-of-arlington_heights-5521-arlington_heights-illinois",
+   "opening_hours": "Mo-Sa 10:00-20:00; Su 10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13417270601",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
    "sponsored": false,
    "slug": "original-mattress-factory-eagan",
    "name": "Original Mattress Factory",
@@ -96,7 +306,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 3,
+   "position": 9,
    "sponsored": false,
    "slug": "original-mattress-factory-maple-grove",
    "name": "Original Mattress Factory",
@@ -131,7 +341,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 4,
+   "position": 10,
    "sponsored": false,
    "slug": "slumberland-clearance-center-saint-louis-park",
    "name": "Slumberland Clearance Center",
@@ -166,7 +376,110 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 5,
+   "position": 11,
+   "sponsored": false,
+   "slug": "verlo-mattress-naperville",
+   "name": "Verlo Mattress",
+   "summary": "Verlo Mattress is a mattress store in Naperville, IL at 422 West 5th Avenue, Naperville, IL 60563. Phone: +16309619191. Website: https://verlo.com/naperville-il/.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/verlo-mattress-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/verlo-mattress-naperville.json",
+   "address": {
+    "streetAddress": "422 West 5th Avenue",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60563",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60563",
+   "geo": {
+    "lat": 41.7806199,
+    "lon": -88.1552987
+   },
+   "phone": "+16309619191",
+   "website": "https://verlo.com/naperville-il/",
+   "opening_hours": "Mo-Fr 10:00-20:00; Sa 10:00-18:00; Su 11:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8307889439",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 12,
+   "sponsored": false,
+   "slug": "american-matress-lemont-township",
+   "name": "American Matress",
+   "summary": "American Matress is a mattress store in Lemont Township, IL at 1217 State Street, Lemont Township, IL 60439. Phone: +16302431075. Website: https://www.americanmattress.com/.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/american-matress-lemont-township/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/american-matress-lemont-township.json",
+   "address": {
+    "streetAddress": "1217 State Street",
+    "addressLocality": "Lemont Township",
+    "addressRegion": "IL",
+    "postalCode": "60439",
+    "addressCountry": "US"
+   },
+   "city": "Lemont Township",
+   "state": "IL",
+   "zip": "60439",
+   "geo": {
+    "lat": 41.655808,
+    "lon": -87.999276
+   },
+   "phone": "+16302431075",
+   "website": "https://www.americanmattress.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3216766561",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
+   "sponsored": false,
+   "slug": "hassleless-mattress-skokie",
+   "name": "HassleLess Mattress",
+   "summary": "HassleLess Mattress is a mattress store in Skokie, IL at 9300 Skokie Boulevard, Skokie, IL 60077. Phone: +18887776434. Website: https://www.hassleless.com/locations/skokie-mattress-showroom.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hassleless-mattress-skokie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hassleless-mattress-skokie.json",
+   "address": {
+    "streetAddress": "9300 Skokie Boulevard",
+    "addressLocality": "Skokie",
+    "addressRegion": "IL",
+    "postalCode": "60077",
+    "addressCountry": "US"
+   },
+   "city": "Skokie",
+   "state": "IL",
+   "zip": "60077",
+   "geo": {
+    "lat": 42.0498921,
+    "lon": -87.7474192
+   },
+   "phone": "+18887776434",
+   "website": "https://www.hassleless.com/locations/skokie-mattress-showroom",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12580438590",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 14,
    "sponsored": false,
    "slug": "leggett-and-platt-inc-saint-paul",
    "name": "Leggett & Platt, Inc.",
@@ -200,7 +513,551 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 6,
+   "position": 15,
+   "sponsored": false,
+   "slug": "mattress-firm-addison",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Addison, IL at 1008 North Rowhling Road #400, Addison, IL 60101. Phone: +16308892349. Website: https://www.mattressfirm.com/en-us/stores/il/addison/119016/.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-addison/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-addison.json",
+   "address": {
+    "streetAddress": "1008 North Rowhling Road #400",
+    "addressLocality": "Addison",
+    "addressRegion": "IL",
+    "postalCode": "60101",
+    "addressCountry": "US"
+   },
+   "city": "Addison",
+   "state": "IL",
+   "zip": "60101",
+   "geo": {
+    "lat": 41.9473574,
+    "lon": -88.0330273
+   },
+   "phone": "+16308892349",
+   "website": "https://www.mattressfirm.com/en-us/stores/il/addison/119016/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/206747287",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 16,
+   "sponsored": false,
+   "slug": "mattress-firm-arlington-heights",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Arlington Heights, IL at 348 East Rand Road, Arlington Heights, IL 60004. Phone: +18474830106. Website: https://www.mattressfirm.com/en-us/stores/il/arlington-heights/119170/.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-arlington-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-arlington-heights.json",
+   "address": {
+    "streetAddress": "348 East Rand Road",
+    "addressLocality": "Arlington Heights",
+    "addressRegion": "IL",
+    "postalCode": "60004",
+    "addressCountry": "US"
+   },
+   "city": "Arlington Heights",
+   "state": "IL",
+   "zip": "60004",
+   "geo": {
+    "lat": 42.1126042,
+    "lon": -87.9782258
+   },
+   "phone": "+18474830106",
+   "website": "https://www.mattressfirm.com/en-us/stores/il/arlington-heights/119170/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5413184917",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 17,
+   "sponsored": false,
+   "slug": "mattress-firm-berwyn",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Berwyn, IL at 7112 West Cermak Road, Berwyn, IL 60402. Phone: +13127816431. Website: https://www.mattressfirm.com/en-us/stores/il/berwyn/119154/.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-berwyn/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-berwyn.json",
+   "address": {
+    "streetAddress": "7112 West Cermak Road",
+    "addressLocality": "Berwyn",
+    "addressRegion": "IL",
+    "postalCode": "60402",
+    "addressCountry": "US"
+   },
+   "city": "Berwyn",
+   "state": "IL",
+   "zip": "60402",
+   "geo": {
+    "lat": 41.8507034,
+    "lon": -87.8018211
+   },
+   "phone": "+13127816431",
+   "website": "https://www.mattressfirm.com/en-us/stores/il/berwyn/119154/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7551089455",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 18,
+   "sponsored": false,
+   "slug": "mattress-firm-chicago",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Chicago, IL at 3650 North Western Avenue #B, Chicago, IL 60618. Phone: +17738681424. Website: https://www.mattressfirm.com/en-us/stores/il/chicago/119129/.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-chicago.json",
+   "address": {
+    "streetAddress": "3650 North Western Avenue #B",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60618",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60618",
+   "geo": {
+    "lat": 41.9483046,
+    "lon": -87.6885856
+   },
+   "phone": "+17738681424",
+   "website": "https://www.mattressfirm.com/en-us/stores/il/chicago/119129/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4240308926",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 19,
+   "sponsored": false,
+   "slug": "mattress-firm-chicago-n10157571620",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Chicago, IL at 1702 North Milwaukee Avenue, Chicago, IL 60647. Phone: +17734868008. Website: https://www.mattressfirm.com/en-us/stores/il/chicago/119161/.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-chicago-n10157571620/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-chicago-n10157571620.json",
+   "address": {
+    "streetAddress": "1702 North Milwaukee Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60647",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60647",
+   "geo": {
+    "lat": 41.9121652,
+    "lon": -87.6806559
+   },
+   "phone": "+17734868008",
+   "website": "https://www.mattressfirm.com/en-us/stores/il/chicago/119161/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10157571620",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 20,
+   "sponsored": false,
+   "slug": "mattress-firm-chicago-n11819694558",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Chicago, IL at 2566 North Elston Avenue #A, Chicago, IL 60647. Phone: +17737723269. Website: https://www.mattressfirm.com/en-us/stores/il/chicago/119166/.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-chicago-n11819694558/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-chicago-n11819694558.json",
+   "address": {
+    "streetAddress": "2566 North Elston Avenue #A",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60647",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60647",
+   "geo": {
+    "lat": 41.9278725,
+    "lon": -87.6820122
+   },
+   "phone": "+17737723269",
+   "website": "https://www.mattressfirm.com/en-us/stores/il/chicago/119166/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11819694558",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 21,
+   "sponsored": false,
+   "slug": "mattress-firm-chicago-n11819718926",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Chicago, IL at 2029 North Clybourn Avenue, Chicago, IL 60614. Phone: +17733480628. Website: https://www.mattressfirm.com/en-us/stores/il/chicago/119093/.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-chicago-n11819718926/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-chicago-n11819718926.json",
+   "address": {
+    "streetAddress": "2029 North Clybourn Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60614",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60614",
+   "geo": {
+    "lat": 41.9186982,
+    "lon": -87.659728
+   },
+   "phone": "+17733480628",
+   "website": "https://www.mattressfirm.com/en-us/stores/il/chicago/119093/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11819718926",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 22,
+   "sponsored": false,
+   "slug": "mattress-firm-chicago-n11869869974",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Chicago, IL at 4116 South Pulaski Road, Chicago, IL 60632. Phone: +17732545000. Website: https://www.mattressfirm.com/en-us/stores/il/chicago/119159/.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-chicago-n11869869974/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-chicago-n11869869974.json",
+   "address": {
+    "streetAddress": "4116 South Pulaski Road",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60632",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60632",
+   "geo": {
+    "lat": 41.8174154,
+    "lon": -87.7242124
+   },
+   "phone": "+17732545000",
+   "website": "https://www.mattressfirm.com/en-us/stores/il/chicago/119159/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11869869974",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 23,
+   "sponsored": false,
+   "slug": "mattress-firm-chicago-n7786449744",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Chicago, IL at 7561 South Cicero Avenue, Chicago, IL 60652. Phone: +18324185197. Website: https://www.mattressfirm.com/en-us/stores/il/chicago/119167/.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-chicago-n7786449744/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-chicago-n7786449744.json",
+   "address": {
+    "streetAddress": "7561 South Cicero Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60652",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60652",
+   "geo": {
+    "lat": 41.7548682,
+    "lon": -87.7406577
+   },
+   "phone": "+18324185197",
+   "website": "https://www.mattressfirm.com/en-us/stores/il/chicago/119167/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7786449744",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 24,
+   "sponsored": false,
+   "slug": "mattress-firm-chicago-n8117903928",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Chicago, IL at 500 West Roosevelt Road, Chicago, IL 60607. Phone: +13123601804. Website: https://www.mattressfirm.com/en-us/stores/il/chicago/119015/.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-chicago-n8117903928/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-chicago-n8117903928.json",
+   "address": {
+    "streetAddress": "500 West Roosevelt Road",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60607",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60607",
+   "geo": {
+    "lat": 41.8674558,
+    "lon": -87.6396901
+   },
+   "phone": "+13123601804",
+   "website": "https://www.mattressfirm.com/en-us/stores/il/chicago/119015/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8117903928",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 25,
+   "sponsored": false,
+   "slug": "mattress-firm-chicago-n8218171816",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Chicago, IL at 3145 South Ashland Avenue, Chicago, IL 60608. Phone: +17738471499. Website: https://www.mattressfirm.com/en-us/stores/il/chicago/119182/.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-chicago-n8218171816/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-chicago-n8218171816.json",
+   "address": {
+    "streetAddress": "3145 South Ashland Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60608",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60608",
+   "geo": {
+    "lat": 41.8378678,
+    "lon": -87.6643226
+   },
+   "phone": "+17738471499",
+   "website": "https://www.mattressfirm.com/en-us/stores/il/chicago/119182/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8218171816",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 26,
+   "sponsored": false,
+   "slug": "mattress-firm-chicago-w163047117",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Chicago, IL at 6353 West Fullerton Avenue, Chicago, IL 60639. Phone: +17736373490. Website: https://www.mattressfirm.com/en-us/stores/il/chicago/119005/.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-chicago-w163047117/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-chicago-w163047117.json",
+   "address": {
+    "streetAddress": "6353 West Fullerton Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60639",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60639",
+   "geo": {
+    "lat": 41.9233859,
+    "lon": -87.7850036
+   },
+   "phone": "+17736373490",
+   "website": "https://www.mattressfirm.com/en-us/stores/il/chicago/119005/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/163047117",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 27,
+   "sponsored": false,
+   "slug": "mattress-firm-countryside",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Countryside, IL at 9900 Joliet Road, Countryside, IL 60525. Phone: +17083544610. Website: https://www.mattressfirm.com/en-us/stores/il/countryside/119002/.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-countryside/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-countryside.json",
+   "address": {
+    "streetAddress": "9900 Joliet Road",
+    "addressLocality": "Countryside",
+    "addressRegion": "IL",
+    "postalCode": "60525",
+    "addressCountry": "US"
+   },
+   "city": "Countryside",
+   "state": "IL",
+   "zip": "60525",
+   "geo": {
+    "lat": 41.7806551,
+    "lon": -87.8646951
+   },
+   "phone": "+17083544610",
+   "website": "https://www.mattressfirm.com/en-us/stores/il/countryside/119002/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/554956311",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 28,
+   "sponsored": false,
+   "slug": "mattress-firm-crestwood",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Crestwood, IL at 13235 Cicero Avenue, Crestwood, IL 60418. Phone: +17083855660. Website: https://www.mattressfirm.com/en-us/stores/il/crestwood/119162/.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-crestwood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-crestwood.json",
+   "address": {
+    "streetAddress": "13235 Cicero Avenue",
+    "addressLocality": "Crestwood",
+    "addressRegion": "IL",
+    "postalCode": "60418",
+    "addressCountry": "US"
+   },
+   "city": "Crestwood",
+   "state": "IL",
+   "zip": "60418",
+   "geo": {
+    "lat": 41.651081,
+    "lon": -87.7376048
+   },
+   "phone": "+17083855660",
+   "website": "https://www.mattressfirm.com/en-us/stores/il/crestwood/119162/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8530992003",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 29,
+   "sponsored": false,
+   "slug": "mattress-firm-deerfield",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Deerfield, IL at 210 South Waukegan Road, Deerfield, IL 60015. Phone: +18472724615. Website: https://www.mattressfirm.com/en-us/stores/il/deerfield/119135/.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-deerfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-deerfield.json",
+   "address": {
+    "streetAddress": "210 South Waukegan Road",
+    "addressLocality": "Deerfield",
+    "addressRegion": "IL",
+    "postalCode": "60015",
+    "addressCountry": "US"
+   },
+   "city": "Deerfield",
+   "state": "IL",
+   "zip": "60015",
+   "geo": {
+    "lat": 42.1496427,
+    "lon": -87.8339727
+   },
+   "phone": "+18472724615",
+   "website": "https://www.mattressfirm.com/en-us/stores/il/deerfield/119135/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1082976776",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 30,
+   "sponsored": false,
+   "slug": "mattress-firm-downers-grove",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Downers Grove, IL at 1546 75th Street, Downers Grove, IL 60516. Phone: +16309641648. Website: https://www.mattressfirm.com/en-us/stores/il/downers-grove/119191/.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-downers-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-downers-grove.json",
+   "address": {
+    "streetAddress": "1546 75th Street",
+    "addressLocality": "Downers Grove",
+    "addressRegion": "IL",
+    "postalCode": "60516",
+    "addressCountry": "US"
+   },
+   "city": "Downers Grove",
+   "state": "IL",
+   "zip": "60516",
+   "geo": {
+    "lat": 41.7514999,
+    "lon": -88.019022
+   },
+   "phone": "+16309641648",
+   "website": "https://www.mattressfirm.com/en-us/stores/il/downers-grove/119191/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/543806932",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 31,
    "sponsored": false,
    "slug": "mattress-firm-eden-prairie",
    "name": "Mattress Firm",
@@ -234,7 +1091,177 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 7,
+   "position": 32,
+   "sponsored": false,
+   "slug": "mattress-firm-evergreen-park",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Evergreen Park, IL at 2442 West 95th Street, Evergreen Park, IL 60805. Phone: +17083460616. Website: https://www.mattressfirm.com/en-us/stores/il/evergreen-park/119133/.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-evergreen-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-evergreen-park.json",
+   "address": {
+    "streetAddress": "2442 West 95th Street",
+    "addressLocality": "Evergreen Park",
+    "addressRegion": "IL",
+    "postalCode": "60805",
+    "addressCountry": "US"
+   },
+   "city": "Evergreen Park",
+   "state": "IL",
+   "zip": "60805",
+   "geo": {
+    "lat": 41.7212055,
+    "lon": -87.6829946
+   },
+   "phone": "+17083460616",
+   "website": "https://www.mattressfirm.com/en-us/stores/il/evergreen-park/119133/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7161491670",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 33,
+   "sponsored": false,
+   "slug": "mattress-firm-glenview",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Glenview, IL at 2221 Willow Road, Glenview, IL 60025. Phone: +18476577306. Website: https://www.mattressfirm.com/en-us/stores/il/glenview/119264/.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-glenview/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-glenview.json",
+   "address": {
+    "streetAddress": "2221 Willow Road",
+    "addressLocality": "Glenview",
+    "addressRegion": "IL",
+    "postalCode": "60025",
+    "addressCountry": "US"
+   },
+   "city": "Glenview",
+   "state": "IL",
+   "zip": "60025",
+   "geo": {
+    "lat": 42.1022336,
+    "lon": -87.8122541
+   },
+   "phone": "+18476577306",
+   "website": "https://www.mattressfirm.com/en-us/stores/il/glenview/119264/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9416013382",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 34,
+   "sponsored": false,
+   "slug": "mattress-firm-homewood",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Homewood, IL at 17577 Halsted Street, Homewood, IL 60430. Phone: +17089224690. Website: https://www.mattressfirm.com/en-us/stores/il/homewood/119116/.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-homewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-homewood.json",
+   "address": {
+    "streetAddress": "17577 Halsted Street",
+    "addressLocality": "Homewood",
+    "addressRegion": "IL",
+    "postalCode": "60430",
+    "addressCountry": "US"
+   },
+   "city": "Homewood",
+   "state": "IL",
+   "zip": "60430",
+   "geo": {
+    "lat": 41.5700835,
+    "lon": -87.6356687
+   },
+   "phone": "+17089224690",
+   "website": "https://www.mattressfirm.com/en-us/stores/il/homewood/119116/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7716150334",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 35,
+   "sponsored": false,
+   "slug": "mattress-firm-kildeer",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Kildeer, IL at 20505 North Rand Road, Kildeer, IL 60047. Phone: +18474384401. Website: https://www.mattressfirm.com/en-us/stores/il/kildeer/119101/.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-kildeer/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-kildeer.json",
+   "address": {
+    "streetAddress": "20505 North Rand Road",
+    "addressLocality": "Kildeer",
+    "addressRegion": "IL",
+    "postalCode": "60047",
+    "addressCountry": "US"
+   },
+   "city": "Kildeer",
+   "state": "IL",
+   "zip": "60047",
+   "geo": {
+    "lat": 42.1632842,
+    "lon": -88.0516035
+   },
+   "phone": "+18474384401",
+   "website": "https://www.mattressfirm.com/en-us/stores/il/kildeer/119101/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/28032454",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 36,
+   "sponsored": false,
+   "slug": "mattress-firm-lockport",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Lockport, IL at 16453 West 159th Street, Lockport, IL 60441. Phone: +18158381161. Website: https://www.mattressfirm.com/en-us/stores/il/lockport/119146/.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-lockport/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-lockport.json",
+   "address": {
+    "streetAddress": "16453 West 159th Street",
+    "addressLocality": "Lockport",
+    "addressRegion": "IL",
+    "postalCode": "60441",
+    "addressCountry": "US"
+   },
+   "city": "Lockport",
+   "state": "IL",
+   "zip": "60441",
+   "geo": {
+    "lat": 41.597174,
+    "lon": -88.018627
+   },
+   "phone": "+18158381161",
+   "website": "https://www.mattressfirm.com/en-us/stores/il/lockport/119146/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11983795890",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 37,
    "sponsored": false,
    "slug": "mattress-firm-maple-grove",
    "name": "Mattress Firm",
@@ -268,7 +1295,415 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 8,
+   "position": 38,
+   "sponsored": false,
+   "slug": "mattress-firm-matteson",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Matteson, IL at 4800 211th Street, Matteson, IL 60443. Phone: +17086790783. Website: https://www.mattressfirm.com/en-us/stores/il/matteson/119224/.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-matteson/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-matteson.json",
+   "address": {
+    "streetAddress": "4800 211th Street",
+    "addressLocality": "Matteson",
+    "addressRegion": "IL",
+    "postalCode": "60443",
+    "addressCountry": "US"
+   },
+   "city": "Matteson",
+   "state": "IL",
+   "zip": "60443",
+   "geo": {
+    "lat": 41.5065604,
+    "lon": -87.7336865
+   },
+   "phone": "+17086790783",
+   "website": "https://www.mattressfirm.com/en-us/stores/il/matteson/119224/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7845233863",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 39,
+   "sponsored": false,
+   "slug": "mattress-firm-merrillville",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Merrillville, IN at 1307 East 79th Avenue, Merrillville, IN 46410. Phone: +12197695643. Website: https://www.mattressfirm.com/en-us/stores/in/merrillville/119226/.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-merrillville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-merrillville.json",
+   "address": {
+    "streetAddress": "1307 East 79th Avenue",
+    "addressLocality": "Merrillville",
+    "addressRegion": "IN",
+    "postalCode": "46410",
+    "addressCountry": "US"
+   },
+   "city": "Merrillville",
+   "state": "IN",
+   "zip": "46410",
+   "geo": {
+    "lat": 41.473415,
+    "lon": -87.3224508
+   },
+   "phone": "+12197695643",
+   "website": "https://www.mattressfirm.com/en-us/stores/in/merrillville/119226/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/821965914",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 40,
+   "sponsored": false,
+   "slug": "mattress-firm-mount-prospect",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Mount Prospect, IL at 1020 East Central Road, Mount Prospect, IL 60056. Phone: +18478188782. Website: https://www.mattressfirm.com/en-us/stores/il/mount-prospect/119142/.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-mount-prospect/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-mount-prospect.json",
+   "address": {
+    "streetAddress": "1020 East Central Road",
+    "addressLocality": "Mount Prospect",
+    "addressRegion": "IL",
+    "postalCode": "60056",
+    "addressCountry": "US"
+   },
+   "city": "Mount Prospect",
+   "state": "IL",
+   "zip": "60056",
+   "geo": {
+    "lat": 42.0665197,
+    "lon": -87.9220008
+   },
+   "phone": "+18478188782",
+   "website": "https://www.mattressfirm.com/en-us/stores/il/mount-prospect/119142/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1171896990",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 41,
+   "sponsored": false,
+   "slug": "mattress-firm-munster",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Munster, IN at 8219 Calumet Avenue, Munster, IN 46321. Phone: +12198365872. Website: https://www.mattressfirm.com/en-us/stores/in/munster/119051/.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-munster/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-munster.json",
+   "address": {
+    "streetAddress": "8219 Calumet Avenue",
+    "addressLocality": "Munster",
+    "addressRegion": "IN",
+    "postalCode": "46321",
+    "addressCountry": "US"
+   },
+   "city": "Munster",
+   "state": "IN",
+   "zip": "46321",
+   "geo": {
+    "lat": 41.563755,
+    "lon": -87.5084925
+   },
+   "phone": "+12198365872",
+   "website": "https://www.mattressfirm.com/en-us/stores/in/munster/119051/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6417785977",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 42,
+   "sponsored": false,
+   "slug": "mattress-firm-new-lenox",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in New Lenox, IL at 581 East Lincoln Highway, New Lenox, IL 60451. Phone: +18154630244. Website: https://www.mattressfirm.com/en-us/stores/il/new-lenox/119115/.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-new-lenox.json",
+   "address": {
+    "streetAddress": "581 East Lincoln Highway",
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "postalCode": "60451",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "zip": "60451",
+   "geo": {
+    "lat": 41.512811,
+    "lon": -87.9534722
+   },
+   "phone": "+18154630244",
+   "website": "https://www.mattressfirm.com/en-us/stores/il/new-lenox/119115/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7178476293",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 43,
+   "sponsored": false,
+   "slug": "mattress-firm-norridge",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Norridge, IL at 4311 North Harlem Avenue, Norridge, IL 60706. Phone: +17084578677. Website: https://www.mattressfirm.com/en-us/stores/il/norridge/119130/.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-norridge/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-norridge.json",
+   "address": {
+    "streetAddress": "4311 North Harlem Avenue",
+    "addressLocality": "Norridge",
+    "addressRegion": "IL",
+    "postalCode": "60706",
+    "addressCountry": "US"
+   },
+   "city": "Norridge",
+   "state": "IL",
+   "zip": "60706",
+   "geo": {
+    "lat": 41.9590787,
+    "lon": -87.8068624
+   },
+   "phone": "+17084578677",
+   "website": "https://www.mattressfirm.com/en-us/stores/il/norridge/119130/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1303166622",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 44,
+   "sponsored": false,
+   "slug": "mattress-firm-northbrook",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Northbrook, IL at 788 Skokie Boulevard, Northbrook, IL 60062. Phone: +18472724773. Website: https://www.mattressfirm.com/en-us/stores/il/northbrook/119228/.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-northbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-northbrook.json",
+   "address": {
+    "streetAddress": "788 Skokie Boulevard",
+    "addressLocality": "Northbrook",
+    "addressRegion": "IL",
+    "postalCode": "60062",
+    "addressCountry": "US"
+   },
+   "city": "Northbrook",
+   "state": "IL",
+   "zip": "60062",
+   "geo": {
+    "lat": 42.1387986,
+    "lon": -87.7929463
+   },
+   "phone": "+18472724773",
+   "website": "https://www.mattressfirm.com/en-us/stores/il/northbrook/119228/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12009503270",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 45,
+   "sponsored": false,
+   "slug": "mattress-firm-oak-lawn",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Oak Lawn, IL at 4803 West 95th Street, Oak Lawn, IL 60453. Phone: +17084241193. Website: https://www.mattressfirm.com/en-us/stores/il/oak-lawn/119061/.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-oak-lawn/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-oak-lawn.json",
+   "address": {
+    "streetAddress": "4803 West 95th Street",
+    "addressLocality": "Oak Lawn",
+    "addressRegion": "IL",
+    "postalCode": "60453",
+    "addressCountry": "US"
+   },
+   "city": "Oak Lawn",
+   "state": "IL",
+   "zip": "60453",
+   "geo": {
+    "lat": 41.719827,
+    "lon": -87.7411038
+   },
+   "phone": "+17084241193",
+   "website": "https://www.mattressfirm.com/en-us/stores/il/oak-lawn/119061/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11429823716",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 46,
+   "sponsored": false,
+   "slug": "mattress-firm-oak-lawn-w1178779100",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Oak Lawn, IL at 6343 West 95th Street, Oak Lawn, IL 60453. Phone: +17083469678. Website: https://www.mattressfirm.com/en-us/stores/il/oak-lawn/119120/.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-oak-lawn-w1178779100/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-oak-lawn-w1178779100.json",
+   "address": {
+    "streetAddress": "6343 West 95th Street",
+    "addressLocality": "Oak Lawn",
+    "addressRegion": "IL",
+    "postalCode": "60453",
+    "addressCountry": "US"
+   },
+   "city": "Oak Lawn",
+   "state": "IL",
+   "zip": "60453",
+   "geo": {
+    "lat": 41.7193793,
+    "lon": -87.7789779
+   },
+   "phone": "+17083469678",
+   "website": "https://www.mattressfirm.com/en-us/stores/il/oak-lawn/119120/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1178779100",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 47,
+   "sponsored": false,
+   "slug": "mattress-firm-orland-park",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Orland Park, IL at 7170 West 159th Street #A, Orland Park, IL 60462. Phone: +17084297690. Website: https://www.mattressfirm.com/en-us/stores/il/orland-park/119165/.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-orland-park.json",
+   "address": {
+    "streetAddress": "7170 West 159th Street #A",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60462",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60462",
+   "geo": {
+    "lat": 41.6026942,
+    "lon": -87.7937052
+   },
+   "phone": "+17084297690",
+   "website": "https://www.mattressfirm.com/en-us/stores/il/orland-park/119165/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8279453728",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 48,
+   "sponsored": false,
+   "slug": "mattress-firm-orland-park-w838367934",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Orland Park, IL at 15898 South LaGrange Road, Orland Park, IL 60467. Phone: +17084603499. Website: https://www.mattressfirm.com/en-us/stores/il/orland-park/119153/.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-orland-park-w838367934/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-orland-park-w838367934.json",
+   "address": {
+    "streetAddress": "15898 South LaGrange Road",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60467",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60467",
+   "geo": {
+    "lat": 41.6016892,
+    "lon": -87.8533138
+   },
+   "phone": "+17084603499",
+   "website": "https://www.mattressfirm.com/en-us/stores/il/orland-park/119153/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/838367934",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 49,
+   "sponsored": false,
+   "slug": "mattress-firm-park-ridge",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Park Ridge, IL at 116 South Northwest Highway, Park Ridge, IL 60068. Phone: +12245050216. Website: https://www.mattressfirm.com/en-us/stores/il/park-ridge/119277/.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-park-ridge/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-park-ridge.json",
+   "address": {
+    "streetAddress": "116 South Northwest Highway",
+    "addressLocality": "Park Ridge",
+    "addressRegion": "IL",
+    "postalCode": "60068",
+    "addressCountry": "US"
+   },
+   "city": "Park Ridge",
+   "state": "IL",
+   "zip": "60068",
+   "geo": {
+    "lat": 42.0097139,
+    "lon": -87.8274687
+   },
+   "phone": "+12245050216",
+   "website": "https://www.mattressfirm.com/en-us/stores/il/park-ridge/119277/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8095729988",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 50,
    "sponsored": false,
    "slug": "mattress-firm-roseville",
    "name": "Mattress Firm",
@@ -302,7 +1737,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 9,
+   "position": 51,
    "sponsored": false,
    "slug": "mattress-firm-saint-louis-park",
    "name": "Mattress Firm",
@@ -336,7 +1771,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 10,
+   "position": 52,
    "sponsored": false,
    "slug": "mattress-firm-saint-paul",
    "name": "Mattress Firm",
@@ -370,7 +1805,245 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 11,
+   "position": 53,
+   "sponsored": false,
+   "slug": "mattress-firm-schaumburg-w252040085",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Schaumburg, IL at 62 East Golf Road, Schaumburg, IL 60173. Phone: +18478820208. Website: https://www.mattressfirm.com/en-us/stores/il/schaumburg/119069/.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-schaumburg-w252040085/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-schaumburg-w252040085.json",
+   "address": {
+    "streetAddress": "62 East Golf Road",
+    "addressLocality": "Schaumburg",
+    "addressRegion": "IL",
+    "postalCode": "60173",
+    "addressCountry": "US"
+   },
+   "city": "Schaumburg",
+   "state": "IL",
+   "zip": "60173",
+   "geo": {
+    "lat": 42.0500442,
+    "lon": -88.0777302
+   },
+   "phone": "+18478820208",
+   "website": "https://www.mattressfirm.com/en-us/stores/il/schaumburg/119069/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/252040085",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 54,
+   "sponsored": false,
+   "slug": "mattress-firm-skokie",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Skokie, IL at 3556 West Touhy Avenue, Skokie, IL 60076. Phone: +18476741649. Website: https://www.mattressfirm.com/stores/il/skokie/mattress-stores-skokie-il-60076-8267.html.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-skokie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-skokie.json",
+   "address": {
+    "streetAddress": "3556 West Touhy Avenue",
+    "addressLocality": "Skokie",
+    "addressRegion": "IL",
+    "postalCode": "60076",
+    "addressCountry": "US"
+   },
+   "city": "Skokie",
+   "state": "IL",
+   "zip": "60076",
+   "geo": {
+    "lat": 42.0122161,
+    "lon": -87.7185785
+   },
+   "phone": "+18476741649",
+   "website": "https://www.mattressfirm.com/stores/il/skokie/mattress-stores-skokie-il-60076-8267.html",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7340166342",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 55,
+   "sponsored": false,
+   "slug": "mattress-firm-skokie-w338953845",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Skokie, IL at 9540 Skokie Boulevard, Skokie, IL 60077. Phone: +18477631852. Website: https://www.mattressfirm.com/en-us/stores/il/skokie/119001/.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-skokie-w338953845/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-skokie-w338953845.json",
+   "address": {
+    "streetAddress": "9540 Skokie Boulevard",
+    "addressLocality": "Skokie",
+    "addressRegion": "IL",
+    "postalCode": "60077",
+    "addressCountry": "US"
+   },
+   "city": "Skokie",
+   "state": "IL",
+   "zip": "60077",
+   "geo": {
+    "lat": 42.0546172,
+    "lon": -87.7471872
+   },
+   "phone": "+18477631852",
+   "website": "https://www.mattressfirm.com/en-us/stores/il/skokie/119001/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/338953845",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 56,
+   "sponsored": false,
+   "slug": "mattress-firm-tinley-park",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Tinley Park, IL at 7256 West 191st Street, Tinley Park, IL 60487. Phone: +18154642490. Website: https://www.mattressfirm.com/en-us/stores/il/tinley-park/119259/.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-tinley-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-tinley-park.json",
+   "address": {
+    "streetAddress": "7256 West 191st Street",
+    "addressLocality": "Tinley Park",
+    "addressRegion": "IL",
+    "postalCode": "60487",
+    "addressCountry": "US"
+   },
+   "city": "Tinley Park",
+   "state": "IL",
+   "zip": "60487",
+   "geo": {
+    "lat": 41.5477785,
+    "lon": -87.7941334
+   },
+   "phone": "+18154642490",
+   "website": "https://www.mattressfirm.com/en-us/stores/il/tinley-park/119259/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8370768968",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 57,
+   "sponsored": false,
+   "slug": "mattress-firm-wheaton",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Wheaton, IL at 22 Danada Square West, Wheaton, IL 60189. Phone: +16306684955. Website: https://www.mattressfirm.com/en-us/stores/il/wheaton/119168/.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-wheaton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-wheaton.json",
+   "address": {
+    "streetAddress": "22 Danada Square West",
+    "addressLocality": "Wheaton",
+    "addressRegion": "IL",
+    "postalCode": "60189",
+    "addressCountry": "US"
+   },
+   "city": "Wheaton",
+   "state": "IL",
+   "zip": "60189",
+   "geo": {
+    "lat": 41.8296078,
+    "lon": -88.1007918
+   },
+   "phone": "+16306684955",
+   "website": "https://www.mattressfirm.com/en-us/stores/il/wheaton/119168/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9276601530",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 58,
+   "sponsored": false,
+   "slug": "mattress-firm-wilmette",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Wilmette, IL at 3217 Lake Avenue #3C, Wilmette, IL 60091. Phone: +18472563040. Website: https://www.mattressfirm.com/en-us/stores/il/wilmette/119275/.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-wilmette/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-wilmette.json",
+   "address": {
+    "streetAddress": "3217 Lake Avenue #3C",
+    "addressLocality": "Wilmette",
+    "addressRegion": "IL",
+    "postalCode": "60091",
+    "addressCountry": "US"
+   },
+   "city": "Wilmette",
+   "state": "IL",
+   "zip": "60091",
+   "geo": {
+    "lat": 42.0792739,
+    "lon": -87.7551708
+   },
+   "phone": "+18472563040",
+   "website": "https://www.mattressfirm.com/en-us/stores/il/wilmette/119275/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7429055160",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 59,
+   "sponsored": false,
+   "slug": "mattress-firm-woodridge",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Woodridge, IL at 2027 West 87th Street #A, Woodridge, IL 60517. Phone: +16309720939. Website: https://www.mattressfirm.com/en-us/stores/il/woodridge/119137/.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-woodridge/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-woodridge.json",
+   "address": {
+    "streetAddress": "2027 West 87th Street #A",
+    "addressLocality": "Woodridge",
+    "addressRegion": "IL",
+    "postalCode": "60517",
+    "addressCountry": "US"
+   },
+   "city": "Woodridge",
+   "state": "IL",
+   "zip": "60517",
+   "geo": {
+    "lat": 41.7263869,
+    "lon": -88.0297347
+   },
+   "phone": "+16309720939",
+   "website": "https://www.mattressfirm.com/en-us/stores/il/woodridge/119137/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5429243558",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 60,
    "sponsored": false,
    "slug": "restwell-mattress-factory-saint-louis-park",
    "name": "Restwell Mattress Factory",
@@ -404,7 +2077,41 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 12,
+   "position": 61,
+   "sponsored": false,
+   "slug": "mattress-firm-mount-prospect-w1221219282",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Mount Prospect, IL at 2 East Rand Road, Mount Prospect, IL 60056. Phone: +18478189690.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-mount-prospect-w1221219282/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-mount-prospect-w1221219282.json",
+   "address": {
+    "streetAddress": "2 East Rand Road",
+    "addressLocality": "Mount Prospect",
+    "addressRegion": "IL",
+    "postalCode": "60056",
+    "addressCountry": "US"
+   },
+   "city": "Mount Prospect",
+   "state": "IL",
+   "zip": "60056",
+   "geo": {
+    "lat": 42.0804162,
+    "lon": -87.9349333
+   },
+   "phone": "+18478189690",
+   "opening_hours": "Mo-Sa 07:00-21:00; Su 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1221219282",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 62,
    "sponsored": false,
    "slug": "sleep-concepts-minneapolis",
    "name": "Sleep Concepts",
@@ -438,7 +2145,40 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 13,
+   "position": 63,
+   "sponsored": false,
+   "slug": "american-mattress-northbrook",
+   "name": "American Mattress",
+   "summary": "American Mattress is a mattress store in Northbrook, IL at 51 Skokie Boulevard, Northbrook, IL 60062. Website: https://www.americanmattress.com/pages/american-mattress-northbrook-il.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/american-mattress-northbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/american-mattress-northbrook.json",
+   "address": {
+    "streetAddress": "51 Skokie Boulevard",
+    "addressLocality": "Northbrook",
+    "addressRegion": "IL",
+    "postalCode": "60062",
+    "addressCountry": "US"
+   },
+   "city": "Northbrook",
+   "state": "IL",
+   "zip": "60062",
+   "geo": {
+    "lat": 42.1513196,
+    "lon": -87.7996569
+   },
+   "website": "https://www.americanmattress.com/pages/american-mattress-northbrook-il",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/442141839",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 64,
    "sponsored": false,
    "slug": "mattress-firm-edina",
    "name": "Mattress Firm",
@@ -471,7 +2211,393 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 14,
+   "position": 65,
+   "sponsored": false,
+   "slug": "mattress-firm-joliet",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Joliet, IL at 3200 North Essington Road, Joliet, IL 60435. Phone: +18152542330.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-joliet/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-joliet.json",
+   "address": {
+    "streetAddress": "3200 North Essington Road",
+    "addressLocality": "Joliet",
+    "addressRegion": "IL",
+    "postalCode": "60435",
+    "addressCountry": "US"
+   },
+   "city": "Joliet",
+   "state": "IL",
+   "zip": "60435",
+   "geo": {
+    "lat": 41.5806619,
+    "lon": -88.1614467
+   },
+   "phone": "+18152542330",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/521940128",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 66,
+   "sponsored": false,
+   "slug": "mattress-prime-chicago",
+   "name": "Mattress Prime",
+   "summary": "Mattress Prime is a mattress store in Chicago, IL at 6170 North Lincoln Avenue, Chicago, IL 60659.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-prime-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-prime-chicago.json",
+   "address": {
+    "streetAddress": "6170 North Lincoln Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60659",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60659",
+   "geo": {
+    "lat": 41.9940285,
+    "lon": -87.7138082
+   },
+   "opening_hours": "Mo-Fr 10:00-19:00; Su 10:00-18:00,12:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/165036551",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 67,
+   "sponsored": false,
+   "slug": "american-matress-bolingbrook",
+   "name": "American Matress",
+   "summary": "American Matress is a mattress store in Bolingbrook, IL at 220 North Weber Road, Bolingbrook, IL 60440.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/american-matress-bolingbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/american-matress-bolingbrook.json",
+   "address": {
+    "streetAddress": "220 North Weber Road",
+    "addressLocality": "Bolingbrook",
+    "addressRegion": "IL",
+    "postalCode": "60440",
+    "addressCountry": "US"
+   },
+   "city": "Bolingbrook",
+   "state": "IL",
+   "zip": "60440",
+   "geo": {
+    "lat": 41.7018704,
+    "lon": -88.1244209
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4501777116",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 68,
+   "sponsored": false,
+   "slug": "american-mattress-chicago",
+   "name": "American Mattress",
+   "summary": "American Mattress is a mattress store in Chicago, IL at 1953 North Clyburn Avenue #A, Chicago, IL 60614.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/american-mattress-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/american-mattress-chicago.json",
+   "address": {
+    "streetAddress": "1953 North Clyburn Avenue #A",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60614",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60614",
+   "geo": {
+    "lat": 41.9164326,
+    "lon": -87.6568447
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10559914286",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 69,
+   "sponsored": false,
+   "slug": "american-mattress-niles",
+   "name": "American Mattress",
+   "summary": "American Mattress is a mattress store in Niles, IL at 7203 West Dempster Street, Niles, IL 60714.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/american-mattress-niles/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/american-mattress-niles.json",
+   "address": {
+    "streetAddress": "7203 West Dempster Street",
+    "addressLocality": "Niles",
+    "addressRegion": "IL",
+    "postalCode": "60714",
+    "addressCountry": "US"
+   },
+   "city": "Niles",
+   "state": "IL",
+   "zip": "60714",
+   "geo": {
+    "lat": 42.0398223,
+    "lon": -87.8066952
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6259462600",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 70,
+   "sponsored": false,
+   "slug": "american-mattress-oak-park",
+   "name": "American Mattress",
+   "summary": "American Mattress is a mattress store in Oak Park, IL at 7123 West North Avenue, Oak Park, IL 60302.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/american-mattress-oak-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/american-mattress-oak-park.json",
+   "address": {
+    "streetAddress": "7123 West North Avenue",
+    "addressLocality": "Oak Park",
+    "addressRegion": "IL",
+    "postalCode": "60302",
+    "addressCountry": "US"
+   },
+   "city": "Oak Park",
+   "state": "IL",
+   "zip": "60302",
+   "geo": {
+    "lat": 41.9082988,
+    "lon": -87.8054741
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7150384188",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 71,
+   "sponsored": false,
+   "slug": "american-mattress-schaumburg",
+   "name": "American Mattress",
+   "summary": "American Mattress is a mattress store in Schaumburg, IL at 35 East Golf Road, Schaumburg, IL 60173.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/american-mattress-schaumburg/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/american-mattress-schaumburg.json",
+   "address": {
+    "streetAddress": "35 East Golf Road",
+    "addressLocality": "Schaumburg",
+    "addressRegion": "IL",
+    "postalCode": "60173",
+    "addressCountry": "US"
+   },
+   "city": "Schaumburg",
+   "state": "IL",
+   "zip": "60173",
+   "geo": {
+    "lat": 42.0489691,
+    "lon": -88.0784153
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/242545705",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 72,
+   "sponsored": false,
+   "slug": "american-mattress-skokie",
+   "name": "American Mattress",
+   "summary": "American Mattress is a mattress store in Skokie, IL at 9340 Skokie Boulevard, Skokie, IL 60077.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/american-mattress-skokie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/american-mattress-skokie.json",
+   "address": {
+    "streetAddress": "9340 Skokie Boulevard",
+    "addressLocality": "Skokie",
+    "addressRegion": "IL",
+    "postalCode": "60077",
+    "addressCountry": "US"
+   },
+   "city": "Skokie",
+   "state": "IL",
+   "zip": "60077",
+   "geo": {
+    "lat": 42.0510002,
+    "lon": -87.7473793
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10731588941",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 73,
+   "sponsored": false,
+   "slug": "american-mattress-vernon-hills",
+   "name": "American Mattress",
+   "summary": "American Mattress is a mattress store in Vernon Hills, IL at 447 N Milwaukee Ave, Vernon Hills, IL 60061.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/american-mattress-vernon-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/american-mattress-vernon-hills.json",
+   "address": {
+    "streetAddress": "447 N Milwaukee Ave",
+    "addressLocality": "Vernon Hills",
+    "addressRegion": "IL",
+    "postalCode": "60061",
+    "addressCountry": "US"
+   },
+   "city": "Vernon Hills",
+   "state": "IL",
+   "zip": "60061",
+   "geo": {
+    "lat": 42.2344205,
+    "lon": -87.9425493
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7209138243",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 74,
+   "sponsored": false,
+   "slug": "bedding-experts-clearance-center-chicago",
+   "name": "Bedding Experts Clearance Center",
+   "summary": "Bedding Experts Clearance Center is a mattress store in Chicago, IL at 6019 North Lincoln Avenue, Chicago, IL 60659.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bedding-experts-clearance-center-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bedding-experts-clearance-center-chicago.json",
+   "address": {
+    "streetAddress": "6019 North Lincoln Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60659",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60659",
+   "geo": {
+    "lat": 41.9910211,
+    "lon": -87.7076658
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/156785062",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 75,
+   "sponsored": false,
+   "slug": "hassleless-mattress-chicago",
+   "name": "HassleLess Mattress",
+   "summary": "HassleLess Mattress is a mattress store in Chicago, IL at 1747 North Sheffield Avenue, Chicago, IL 60614.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hassleless-mattress-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hassleless-mattress-chicago.json",
+   "address": {
+    "streetAddress": "1747 North Sheffield Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60614",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60614",
+   "geo": {
+    "lat": 41.9130551,
+    "lon": -87.652941
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10559793196",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 76,
+   "sponsored": false,
+   "slug": "hassleless-mattress-vernon-hills",
+   "name": "HassleLess Mattress",
+   "summary": "HassleLess Mattress is a mattress store in Vernon Hills, IL at 375 North Milwaukee Ave, Vernon Hills, IL 60061.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hassleless-mattress-vernon-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hassleless-mattress-vernon-hills.json",
+   "address": {
+    "streetAddress": "375 North Milwaukee Ave",
+    "addressLocality": "Vernon Hills",
+    "addressRegion": "IL",
+    "postalCode": "60061",
+    "addressCountry": "US"
+   },
+   "city": "Vernon Hills",
+   "state": "IL",
+   "zip": "60061",
+   "geo": {
+    "lat": 42.2326642,
+    "lon": -87.9422894
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6491927082",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 77,
    "sponsored": false,
    "slug": "mattress-firm-blaine",
    "name": "Mattress Firm",
@@ -503,7 +2629,39 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 15,
+   "position": 78,
+   "sponsored": false,
+   "slug": "mattress-firm-chicago-n5466044651",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Chicago, IL at 1525 East 87th Street, Chicago, IL 60619.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-chicago-n5466044651/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-chicago-n5466044651.json",
+   "address": {
+    "streetAddress": "1525 East 87th Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60619",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60619",
+   "geo": {
+    "lat": 41.7365957,
+    "lon": -87.5871263
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5466044651",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 79,
    "sponsored": false,
    "slug": "mattress-giant-west-saint-paul",
    "name": "Mattress Giant",
@@ -535,7 +2693,39 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 16,
+   "position": 80,
+   "sponsored": false,
+   "slug": "mattress-overstock-lombard",
+   "name": "Mattress Overstock",
+   "summary": "Mattress Overstock is a mattress store in Lombard, IL at 1208 East Roosevelt Road, Lombard, IL 60148.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-overstock-lombard/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-overstock-lombard.json",
+   "address": {
+    "streetAddress": "1208 East Roosevelt Road",
+    "addressLocality": "Lombard",
+    "addressRegion": "IL",
+    "postalCode": "60148",
+    "addressCountry": "US"
+   },
+   "city": "Lombard",
+   "state": "IL",
+   "zip": "60148",
+   "geo": {
+    "lat": 41.8608564,
+    "lon": -87.9868647
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/198804805",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 81,
    "sponsored": false,
    "slug": "online-mattress-showroom-minneapolis",
    "name": "Online Mattress Showroom",
@@ -565,7 +2755,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 17,
+   "position": 82,
    "sponsored": false,
    "slug": "sleep-better-saint-paul",
    "name": "Sleep Better",
@@ -597,7 +2787,133 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 18,
+   "position": 83,
+   "sponsored": false,
+   "slug": "sleep-number-chicago",
+   "name": "Sleep Number",
+   "summary": "Sleep Number is a mattress store in Chicago, IL.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sleep-number-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sleep-number-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9139356,
+    "lon": -87.6534343
+   },
+   "opening_hours": "Mo-Th 10:00-19:00; Fr,Sa 10:00-20:00; Su 11:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10559947559",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 84,
+   "sponsored": false,
+   "slug": "sleep-number-deerfield",
+   "name": "Sleep Number",
+   "summary": "Sleep Number is a mattress store in Deerfield, IL at 60 South Waukegan Road #B, Deerfield, IL 60015.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sleep-number-deerfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sleep-number-deerfield.json",
+   "address": {
+    "streetAddress": "60 South Waukegan Road #B",
+    "addressLocality": "Deerfield",
+    "addressRegion": "IL",
+    "postalCode": "60015",
+    "addressCountry": "US"
+   },
+   "city": "Deerfield",
+   "state": "IL",
+   "zip": "60015",
+   "geo": {
+    "lat": 42.1523816,
+    "lon": -87.8360015
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6700630936",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 85,
+   "sponsored": false,
+   "slug": "sleep-number-orland-park",
+   "name": "Sleep Number",
+   "summary": "Sleep Number is a mattress store in Orland Park, IL at 15631 South La Grange Road, Orland Park, IL 60462.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sleep-number-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sleep-number-orland-park.json",
+   "address": {
+    "streetAddress": "15631 South La Grange Road",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60462",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60462",
+   "geo": {
+    "lat": 41.6058925,
+    "lon": -87.8525752
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9233983148",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 86,
+   "sponsored": false,
+   "slug": "tempur-pedic-chicago",
+   "name": "Tempur-Pedic",
+   "summary": "Tempur-Pedic is a mattress store in Chicago, IL at 2191 North Clybourn Avenue, Chicago, IL 60614.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tempur-pedic-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tempur-pedic-chicago.json",
+   "address": {
+    "streetAddress": "2191 North Clybourn Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60614",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60614",
+   "geo": {
+    "lat": 41.9213991,
+    "lon": -87.6637804
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12075844625",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 87,
    "sponsored": false,
    "slug": "the-original-mattres-factory-chanhassen",
    "name": "The Original Mattres Factory",
@@ -629,7 +2945,37 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 19,
+   "position": 88,
+   "sponsored": false,
+   "slug": "casper-chicago",
+   "name": "Casper",
+   "summary": "Casper is a mattress store in Chicago, IL at 821 West Fulton Street, Chicago, IL.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/casper-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/casper-chicago.json",
+   "address": {
+    "streetAddress": "821 West Fulton Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8866425,
+    "lon": -87.6484079
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12963715227",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 89,
    "sponsored": false,
    "slug": "sleep-number-roseville",
    "name": "Sleep Number",
@@ -659,7 +3005,356 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 20,
+   "position": 90,
+   "sponsored": false,
+   "slug": "sleep-number-schaumburg",
+   "name": "Sleep Number",
+   "summary": "Sleep Number is a mattress store in Schaumburg, IL at 1412 East Golf Road, Schaumburg, IL.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sleep-number-schaumburg/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sleep-number-schaumburg.json",
+   "address": {
+    "streetAddress": "1412 East Golf Road",
+    "addressLocality": "Schaumburg",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Schaumburg",
+   "state": "IL",
+   "geo": {
+    "lat": 42.0514465,
+    "lon": -88.0443854
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13033809517",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 91,
+   "sponsored": false,
+   "slug": "american-mattress-chicago-n12590967483",
+   "name": "American Mattress",
+   "summary": "American Mattress is a mattress store in Chicago, IL.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/american-mattress-chicago-n12590967483/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/american-mattress-chicago-n12590967483.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9684418,
+    "lon": -87.6891669
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12590967483",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 92,
+   "sponsored": false,
+   "slug": "american-mattress-chicago-n12829224263",
+   "name": "American Mattress",
+   "summary": "American Mattress is a mattress store in Chicago, IL.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/american-mattress-chicago-n12829224263/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/american-mattress-chicago-n12829224263.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9532529,
+    "lon": -87.7475245
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12829224263",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 93,
+   "sponsored": false,
+   "slug": "american-mattress-countryside",
+   "name": "American Mattress",
+   "summary": "American Mattress is a mattress store in Countryside, IL.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/american-mattress-countryside/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/american-mattress-countryside.json",
+   "address": {
+    "addressLocality": "Countryside",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Countryside",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7857686,
+    "lon": -87.8679767
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9698553752",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 94,
+   "sponsored": false,
+   "slug": "american-mattress-des-plaines",
+   "name": "American Mattress",
+   "summary": "American Mattress is a mattress store in Des Plaines, IL.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/american-mattress-des-plaines/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/american-mattress-des-plaines.json",
+   "address": {
+    "addressLocality": "Des Plaines",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Des Plaines",
+   "state": "IL",
+   "geo": {
+    "lat": 42.0408644,
+    "lon": -87.888021
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6263019994",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 95,
+   "sponsored": false,
+   "slug": "casper-oak-brook",
+   "name": "Casper",
+   "summary": "Casper is a mattress store in Oak Brook, IL.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/casper-oak-brook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/casper-oak-brook.json",
+   "address": {
+    "addressLocality": "Oak Brook",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Oak Brook",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8491802,
+    "lon": -87.9525279
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9380966173",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 96,
+   "sponsored": false,
+   "slug": "casper-vernon-hills",
+   "name": "Casper",
+   "summary": "Casper is a mattress store in Vernon Hills, IL.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/casper-vernon-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/casper-vernon-hills.json",
+   "address": {
+    "addressLocality": "Vernon Hills",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Vernon Hills",
+   "state": "IL",
+   "geo": {
+    "lat": 42.2417603,
+    "lon": -87.9431845
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/687473912",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 97,
+   "sponsored": false,
+   "slug": "discount-mattress-chicago",
+   "name": "Discount Mattress",
+   "summary": "Discount Mattress is a mattress store in Chicago, IL.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/discount-mattress-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/discount-mattress-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9532429,
+    "lon": -87.7891509
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12829236303",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 98,
+   "sponsored": false,
+   "slug": "green-mattress-lyons-township",
+   "name": "Green Mattress",
+   "summary": "Green Mattress is a mattress store in Lyons Township, IL.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/green-mattress-lyons-township/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/green-mattress-lyons-township.json",
+   "address": {
+    "addressLocality": "Lyons Township",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Lyons Township",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7897477,
+    "lon": -87.8891172
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10722087999",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 99,
+   "sponsored": false,
+   "slug": "mattress-firm-arlington-heights-n5862002221",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Arlington Heights, IL.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-arlington-heights-n5862002221/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-arlington-heights-n5862002221.json",
+   "address": {
+    "addressLocality": "Arlington Heights",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Arlington Heights",
+   "state": "IL",
+   "geo": {
+    "lat": 42.1120698,
+    "lon": -87.9813103
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5862002221",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 100,
+   "sponsored": false,
+   "slug": "mattress-firm-bannockburn",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Bannockburn, IL.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-bannockburn/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-bannockburn.json",
+   "address": {
+    "addressLocality": "Bannockburn",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Bannockburn",
+   "state": "IL",
+   "geo": {
+    "lat": 42.1995354,
+    "lon": -87.8599031
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13806622952",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 101,
+   "sponsored": false,
+   "slug": "mattress-firm-darien",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Darien, IL.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-darien/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-darien.json",
+   "address": {
+    "addressLocality": "Darien",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Darien",
+   "state": "IL",
+   "geo": {
+    "lat": 41.749152,
+    "lon": -88.0120572
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5256927988",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 102,
    "sponsored": false,
    "slug": "mattress-firm-eden-prairie-w47230083",
    "name": "Mattress Firm",
@@ -688,7 +3383,123 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 21,
+   "position": 103,
+   "sponsored": false,
+   "slug": "mattress-firm-elmhurst",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Elmhurst, IL.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-elmhurst/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-elmhurst.json",
+   "address": {
+    "addressLocality": "Elmhurst",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Elmhurst",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9059918,
+    "lon": -87.9645567
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5762544059",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 104,
+   "sponsored": false,
+   "slug": "mattress-firm-hoffman-estates",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Hoffman Estates, IL.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-hoffman-estates/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-hoffman-estates.json",
+   "address": {
+    "addressLocality": "Hoffman Estates",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Hoffman Estates",
+   "state": "IL",
+   "geo": {
+    "lat": 42.048992,
+    "lon": -88.0790039
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3772038084",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 105,
+   "sponsored": false,
+   "slug": "mattress-firm-romeoville",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Romeoville, IL.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-romeoville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-romeoville.json",
+   "address": {
+    "addressLocality": "Romeoville",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Romeoville",
+   "state": "IL",
+   "geo": {
+    "lat": 41.6164461,
+    "lon": -88.12277
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3779552296",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 106,
+   "sponsored": false,
+   "slug": "mattress-firm-schaumburg",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Schaumburg, IL.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-schaumburg/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-schaumburg.json",
+   "address": {
+    "addressLocality": "Schaumburg",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Schaumburg",
+   "state": "IL",
+   "geo": {
+    "lat": 42.0499432,
+    "lon": -88.0790521
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/239535184",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 107,
    "sponsored": false,
    "slug": "mattress-firm-west-saint-paul",
    "name": "Mattress Firm",
@@ -717,7 +3528,239 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 22,
+   "position": 108,
+   "sponsored": false,
+   "slug": "mattress-outlet-gary",
+   "name": "Mattress Outlet",
+   "summary": "Mattress Outlet is a mattress store in Gary, IN.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-outlet-gary/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-outlet-gary.json",
+   "address": {
+    "addressLocality": "Gary",
+    "addressRegion": "IN",
+    "addressCountry": "US"
+   },
+   "city": "Gary",
+   "state": "IN",
+   "geo": {
+    "lat": 41.5585419,
+    "lon": -87.3564688
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10801944965",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 109,
+   "sponsored": false,
+   "slug": "north-shore-bedding-northbrook",
+   "name": "North Shore Bedding",
+   "summary": "North Shore Bedding is a mattress store in Northbrook, IL.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/north-shore-bedding-northbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/north-shore-bedding-northbrook.json",
+   "address": {
+    "addressLocality": "Northbrook",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Northbrook",
+   "state": "IL",
+   "geo": {
+    "lat": 42.107178,
+    "lon": -87.802841
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7662695768",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 110,
+   "sponsored": false,
+   "slug": "purple-skokie",
+   "name": "Purple",
+   "summary": "Purple is a mattress store in Skokie, IL.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/purple-skokie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/purple-skokie.json",
+   "address": {
+    "addressLocality": "Skokie",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Skokie",
+   "state": "IL",
+   "geo": {
+    "lat": 42.060174,
+    "lon": -87.7491819
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10179187407",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 111,
+   "sponsored": false,
+   "slug": "sleep-haven-mattresses-chicago",
+   "name": "Sleep Haven Mattresses",
+   "summary": "Sleep Haven Mattresses is a mattress store in Chicago, IL.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sleep-haven-mattresses-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sleep-haven-mattresses-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9528878,
+    "lon": -87.7769694
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12829191866",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 112,
+   "sponsored": false,
+   "slug": "sleep-number-bolingbrook",
+   "name": "Sleep Number",
+   "summary": "Sleep Number is a mattress store in Bolingbrook, IL.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sleep-number-bolingbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sleep-number-bolingbrook.json",
+   "address": {
+    "addressLocality": "Bolingbrook",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Bolingbrook",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7260293,
+    "lon": -88.0309356
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12379233733",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 113,
+   "sponsored": false,
+   "slug": "sleep-number-deer-park",
+   "name": "Sleep Number",
+   "summary": "Sleep Number is a mattress store in Deer Park, IL.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sleep-number-deer-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sleep-number-deer-park.json",
+   "address": {
+    "addressLocality": "Deer Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Deer Park",
+   "state": "IL",
+   "geo": {
+    "lat": 42.1617886,
+    "lon": -88.0535976
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10220471900",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 114,
+   "sponsored": false,
+   "slug": "sleep-number-hobart",
+   "name": "Sleep Number",
+   "summary": "Sleep Number is a mattress store in Hobart, IN.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sleep-number-hobart/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sleep-number-hobart.json",
+   "address": {
+    "addressLocality": "Hobart",
+    "addressRegion": "IN",
+    "addressCountry": "US"
+   },
+   "city": "Hobart",
+   "state": "IN",
+   "geo": {
+    "lat": 41.4718203,
+    "lon": -87.3148446
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9959057469",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 115,
+   "sponsored": false,
+   "slug": "sleep-number-joliet",
+   "name": "Sleep Number",
+   "summary": "Sleep Number is a mattress store in Joliet, IL.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sleep-number-joliet/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sleep-number-joliet.json",
+   "address": {
+    "addressLocality": "Joliet",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Joliet",
+   "state": "IL",
+   "geo": {
+    "lat": 41.5749351,
+    "lon": -88.1544073
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9397766206",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 116,
    "sponsored": false,
    "slug": "sleep-number-maple-grove",
    "name": "Sleep Number",
@@ -746,7 +3789,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 23,
+   "position": 117,
    "sponsored": false,
    "slug": "sleep-number-maplewood",
    "name": "Sleep Number",
@@ -775,7 +3818,94 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 24,
+   "position": 118,
+   "sponsored": false,
+   "slug": "sleep-number-oak-brook",
+   "name": "Sleep Number",
+   "summary": "Sleep Number is a mattress store in Oak Brook, IL.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sleep-number-oak-brook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sleep-number-oak-brook.json",
+   "address": {
+    "addressLocality": "Oak Brook",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Oak Brook",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8410997,
+    "lon": -87.9934133
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6336532333",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 119,
+   "sponsored": false,
+   "slug": "sleep-number-skokie",
+   "name": "Sleep Number",
+   "summary": "Sleep Number is a mattress store in Skokie, IL.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sleep-number-skokie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sleep-number-skokie.json",
+   "address": {
+    "addressLocality": "Skokie",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Skokie",
+   "state": "IL",
+   "geo": {
+    "lat": 42.0608627,
+    "lon": -87.7481177
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7536470654",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 120,
+   "sponsored": false,
+   "slug": "sleep-number-vernon-hills",
+   "name": "Sleep Number",
+   "summary": "Sleep Number is a mattress store in Vernon Hills, IL.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sleep-number-vernon-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sleep-number-vernon-hills.json",
+   "address": {
+    "addressLocality": "Vernon Hills",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Vernon Hills",
+   "state": "IL",
+   "geo": {
+    "lat": 42.24087,
+    "lon": -87.9479598
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/965629484",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 121,
    "sponsored": false,
    "slug": "slumberland-bloomington",
    "name": "Slumberland",
@@ -804,7 +3934,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 25,
+   "position": 122,
    "sponsored": false,
    "slug": "the-original-mattress-factory-fridley",
    "name": "The Original Mattress Factory",
@@ -832,5 +3962,224 @@
    "source_url": "https://www.openstreetmap.org/node/9699363758",
    "last_checked": "2026-10-17"
   }
- ]
+ ],
+ "market": {
+  "keyword": "mattress store",
+  "slug": "mattress-store",
+  "base_keyword": "mattress store",
+  "scope": "national",
+  "city": null,
+  "state": null,
+  "category": "ecommerce_retail",
+  "industry": "Shopping, Collectibles & Gifts",
+  "us_monthly_searches": {
+   "value": 140000,
+   "range": [
+    79000,
+    300000
+   ],
+   "method": "estimate",
+   "estimate_method": "median of 80 cited US volumes for 'high'-demand keywords in the b2b_professional research; rounded to 2 significant figures; range = 25th-75th percentile",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "confidence": "low"
+  },
+  "local_monthly_searches": null,
+  "cpc_usd": {
+   "industry_benchmark": "Shopping, Collectibles & Gifts",
+   "low_usd": 3.49,
+   "median_usd": 4.14,
+   "high_usd": 4.14,
+   "method": "published benchmarks: low/high = range of the industry and sub-industry median CPCs listed in 'figures'; median = most specific benchmark",
+   "figures": [
+    {
+     "usd": 4.14,
+     "label": "Shopping, Collectibles & Gifts median CPC 2026",
+     "source": "wordstream_2026"
+    },
+    {
+     "usd": 3.49,
+     "label": "Shopping, Collectibles & Gifts median CPC 2025",
+     "source": "wordstream_2025"
+    }
+   ],
+   "source": "wordstream_2026",
+   "as_of": "2026",
+   "basis_for_value": {
+    "usd": 4.14,
+    "method": "benchmark median CPC",
+    "source": "wordstream_2026"
+   }
+  },
+  "ctr_pct": {
+   "value": 8.92,
+   "label": "Shopping, Collectibles & Gifts average search-ad CTR 2025",
+   "source": "wordstream_2025",
+   "as_of": "2025-03"
+  },
+  "competition": {
+   "level": "medium",
+   "method": "proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research)",
+   "source": "wordstream_2026",
+   "as_of": "2026"
+  },
+  "trend": null,
+  "seasonality": {
+   "value": null,
+   "note": "No seasonality data in the research sources for this keyword."
+  },
+  "ai_query": {
+   "text": "No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.",
+   "figures": [
+    {
+     "value": "45%",
+     "label": "US adults using AI for local recommendations",
+     "source": "brightlocal_lcrs_2026"
+    },
+    {
+     "value": "75%",
+     "label": "sessions with keyword-style prompts",
+     "source": "sagapixel_sel"
+    },
+    {
+     "value": "59%",
+     "label": "local-intent prompts that triggered web search",
+     "source": "nectiv"
+    }
+   ],
+   "as_of": "2026"
+  },
+  "registry_competitors": {
+   "value": 122,
+   "slugs": [
+    "american-matress-bolingbrook",
+    "american-matress-lemont-township",
+    "american-mattress-bloomingdale",
+    "american-mattress-buffalo-grove",
+    "american-mattress-chicago",
+    "american-mattress-chicago-n12590967483",
+    "american-mattress-chicago-n12829224263",
+    "american-mattress-countryside",
+    "american-mattress-des-plaines",
+    "american-mattress-niles"
+   ],
+   "method_id": "competitors",
+   "source": "registry",
+   "as_of": "2026-10-18",
+   "urls": [
+    "https://dingalinged-cpu.github.io/registry/c/american-matress-bolingbrook/",
+    "https://dingalinged-cpu.github.io/registry/c/american-matress-lemont-township/",
+    "https://dingalinged-cpu.github.io/registry/c/american-mattress-bloomingdale/",
+    "https://dingalinged-cpu.github.io/registry/c/american-mattress-buffalo-grove/",
+    "https://dingalinged-cpu.github.io/registry/c/american-mattress-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/american-mattress-chicago-n12590967483/",
+    "https://dingalinged-cpu.github.io/registry/c/american-mattress-chicago-n12829224263/",
+    "https://dingalinged-cpu.github.io/registry/c/american-mattress-countryside/",
+    "https://dingalinged-cpu.github.io/registry/c/american-mattress-des-plaines/",
+    "https://dingalinged-cpu.github.io/registry/c/american-mattress-niles/"
+   ],
+   "method": "count of registry listings tagged with the keyword (city/national) or with the base service in the same state (state keywords)"
+  },
+  "agent_demand": null,
+  "agent_demand_note": "Not yet measured. Will carry AI-agent query counts from the registry's agent analytics (contract: meta.agent_demand_contract in the market index).",
+  "equivalent_google_ads_cost_month": {
+   "value_usd": 52000,
+   "method": "estimate",
+   "method_id": "google_ads_equiv",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote."
+  },
+  "search_value_index": {
+   "value_usd": 580000,
+   "method": "estimate",
+   "method_id": "value_index",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: search value index = monthly searches x CPC basis; an advertiser-value ranking signal, not revenue; rounded to 2 significant figures."
+  },
+  "auction": {
+   "featured_spot_min_usd": 50,
+   "spots_2_to_4_min_usd": 5,
+   "tier": "standard",
+   "pricing_rule": "tier minimum (premium $500, high $250, mid $100, standard $50) for national keywords; city = max($10, 20% of tier); state = max($10, 35% of tier); spots 2-4 open at 10% of the featured minimum",
+   "model": "Monthly auction in the last 7 days of each month: days 1-5 bid for the Featured #1 spot, days 6-7 for spots 2-4; winners display all next month; all paid spots labeled Sponsored.",
+   "next_auctions": [
+    {
+     "display_month": "2026-11",
+     "featured_spot_bidding": [
+      "2026-10-25",
+      "2026-10-29"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-10-30",
+      "2026-10-31"
+     ]
+    },
+    {
+     "display_month": "2026-12",
+     "featured_spot_bidding": [
+      "2026-11-24",
+      "2026-11-28"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-11-29",
+      "2026-11-30"
+     ]
+    }
+   ],
+   "source": "registry_auction",
+   "as_of": "2026-10-18"
+  },
+  "sources": {
+   "brightlocal_lcrs_2026": {
+    "name": "BrightLocal Local Consumer Review Survey 2026 (n=1,002 US adults)",
+    "url": "https://www.brightlocal.com/research/lcrs-ai-trust/",
+    "as_of": "2026"
+   },
+   "nectiv": {
+    "name": "Nectiv study of 8,500+ ChatGPT prompts",
+    "url": "https://nectivdigital.com/blog/new-data-study-what-queries-is-chatgpt-using-behind-the-scenes",
+    "as_of": "2025"
+   },
+   "registry": {
+    "name": "This registry's own listings (OpenStreetMap-seeded, ODbL)",
+    "url": "https://dingalinged-cpu.github.io/registry/api/companies.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_auction": {
+    "name": "Registry keyword auction catalog and rules",
+    "url": "https://dingalinged-cpu.github.io/registry/api/keyword-prices.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_estimate": {
+    "name": "Registry estimate (CC-BY-4.0); method given on each value",
+    "url": "https://dingalinged-cpu.github.io/registry/market/",
+    "as_of": "2026-10-18"
+   },
+   "sagapixel_sel": {
+    "name": "Sagapixel ChatGPT local-services sessions, via Search Engine Land",
+    "url": "https://searchengineland.com/chatgpt-users-keywords-for-local-services-data-467715",
+    "as_of": "2026-01"
+   },
+   "wordstream_2025": {
+    "name": "WordStream Google Ads Benchmarks 2025 (16,446 US campaigns, Apr 2024-Mar 2025; median CPC and CTR by industry)",
+    "url": "https://www.wordstream.com/blog/2025-google-ads-benchmarks",
+    "as_of": "2025-03"
+   },
+   "wordstream_2026": {
+    "name": "LocaliQ/WordStream Search Advertising Benchmarks 2026 (US median CPC by industry)",
+    "url": "https://www.localiq.com/blog/search-advertising-benchmarks",
+    "as_of": "2026"
+   }
+  },
+  "license": {
+   "registry_estimates": "CC-BY-4.0",
+   "url": "https://creativecommons.org/licenses/by/4.0/",
+   "cited_figures": "attribute to the publishers in sources"
+  },
+  "as_of": "2026-10-18",
+  "api": "https://dingalinged-cpu.github.io/registry/api/market/mattress-store.json",
+  "rate_card": "https://dingalinged-cpu.github.io/registry/view/market.html#mattress-store"
+ }
 }

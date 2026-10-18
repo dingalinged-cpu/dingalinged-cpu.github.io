@@ -1,0 +1,23 @@
+Taylor Wine And Spirits is a liquor store in Chicago, IL at 1455 West Taylor Street, Chicago, IL 60607.
+
+# Taylor Wine And Spirits
+
+- Category: liquor store
+- Services: liquor store
+- Address: 1455 West Taylor Street, Chicago, IL 60607
+- City: Chicago
+- State: IL
+- ZIP: 60607
+- Coordinates: 41.8691444, -87.6637929
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/taylor-wine-and-spirits-chicago/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/taylor-wine-and-spirits-chicago.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/7554525985 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

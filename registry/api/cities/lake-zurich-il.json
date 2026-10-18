@@ -1,0 +1,1278 @@
+{
+ "place": "Lake Zurich, IL",
+ "slug": "lake-zurich-il",
+ "count": 39,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "accountant lake zurich il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/accountant-lake-zurich-il.json"
+  },
+  {
+   "keyword": "accounting services lake zurich il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/accounting-services-lake-zurich-il.json"
+  },
+  {
+   "keyword": "assisted living lake zurich il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/assisted-living-lake-zurich-il.json"
+  },
+  {
+   "keyword": "bakery lake zurich il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/bakery-lake-zurich-il.json"
+  },
+  {
+   "keyword": "bike shop lake zurich il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/bike-shop-lake-zurich-il.json"
+  },
+  {
+   "keyword": "dance studio lake zurich il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dance-studio-lake-zurich-il.json"
+  },
+  {
+   "keyword": "dentist lake zurich il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-lake-zurich-il.json"
+  },
+  {
+   "keyword": "dog boarding lake zurich il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dog-boarding-lake-zurich-il.json"
+  },
+  {
+   "keyword": "dry cleaners lake zurich il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dry-cleaners-lake-zurich-il.json"
+  },
+  {
+   "keyword": "financial advisor lake zurich il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/financial-advisor-lake-zurich-il.json"
+  },
+  {
+   "keyword": "funeral home lake zurich il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/funeral-home-lake-zurich-il.json"
+  },
+  {
+   "keyword": "furniture store lake zurich il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/furniture-store-lake-zurich-il.json"
+  },
+  {
+   "keyword": "gym lake zurich il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-lake-zurich-il.json"
+  },
+  {
+   "keyword": "hair salon lake zurich il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-lake-zurich-il.json"
+  },
+  {
+   "keyword": "haircut lake zurich il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-lake-zurich-il.json"
+  },
+  {
+   "keyword": "liquor store lake zurich il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/liquor-store-lake-zurich-il.json"
+  },
+  {
+   "keyword": "pet store lake zurich il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/pet-store-lake-zurich-il.json"
+  },
+  {
+   "keyword": "physical therapy lake zurich il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/physical-therapy-lake-zurich-il.json"
+  },
+  {
+   "keyword": "preschool lake zurich il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/preschool-lake-zurich-il.json"
+  },
+  {
+   "keyword": "printing services lake zurich il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/printing-services-lake-zurich-il.json"
+  },
+  {
+   "keyword": "roofer lake zurich il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/roofer-lake-zurich-il.json"
+  },
+  {
+   "keyword": "roofing contractor lake zurich il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/roofing-contractor-lake-zurich-il.json"
+  },
+  {
+   "keyword": "storage units lake zurich il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/storage-units-lake-zurich-il.json"
+  },
+  {
+   "keyword": "thrift store lake zurich il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/thrift-store-lake-zurich-il.json"
+  },
+  {
+   "keyword": "tire shop lake zurich il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tire-shop-lake-zurich-il.json"
+  },
+  {
+   "keyword": "vet lake zurich il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/vet-lake-zurich-il.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "apr-s-pastry-and-bakery-lake-zurich",
+   "name": "Après Pastry & Bakery",
+   "summary": "Après Pastry & Bakery is a bakery in Lake Zurich, IL at 17 South Old Rand Road, Lake Zurich, IL 60047. Phone: +18473201909. Website: https://aprespastry.com/.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/apr-s-pastry-and-bakery-lake-zurich/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/apr-s-pastry-and-bakery-lake-zurich.json",
+   "address": {
+    "streetAddress": "17 South Old Rand Road",
+    "addressLocality": "Lake Zurich",
+    "addressRegion": "IL",
+    "postalCode": "60047",
+    "addressCountry": "US"
+   },
+   "city": "Lake Zurich",
+   "state": "IL",
+   "zip": "60047",
+   "geo": {
+    "lat": 42.1965369,
+    "lon": -88.0928876
+   },
+   "phone": "+18473201909",
+   "website": "https://aprespastry.com/",
+   "opening_hours": "We-Sa 07:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1467124526",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "kaizen-cpas-advisors-lake-zurich",
+   "name": "Kaizen CPAs + Advisors",
+   "summary": "Kaizen CPAs + Advisors is an accountant in Lake Zurich, IL at 765 Ela Rd #310, Lake Zurich, IL 60047. Phone: +18473956000. Website: https://www.kaizencpas.com/.",
+   "categories": [
+    "accountant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kaizen-cpas-advisors-lake-zurich/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kaizen-cpas-advisors-lake-zurich.json",
+   "address": {
+    "streetAddress": "765 Ela Rd #310",
+    "addressLocality": "Lake Zurich",
+    "addressRegion": "IL",
+    "postalCode": "60047",
+    "addressCountry": "US"
+   },
+   "city": "Lake Zurich",
+   "state": "IL",
+   "zip": "60047",
+   "geo": {
+    "lat": 42.1838214,
+    "lon": -88.102433
+   },
+   "phone": "+18473956000",
+   "website": "https://www.kaizencpas.com/",
+   "opening_hours": "Mo-Fr 9:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10040843773",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "shake-guys-lake-zurich",
+   "name": "Shake Guys",
+   "summary": "Shake Guys is a roofer in Lake Zurich, IL at 550 IL-22, Lake Zurich, IL 60047. Phone: +18472782272. Website: https://shakeguys.com/.",
+   "categories": [
+    "roofer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/shake-guys-lake-zurich/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/shake-guys-lake-zurich.json",
+   "address": {
+    "streetAddress": "550 IL-22",
+    "addressLocality": "Lake Zurich",
+    "addressRegion": "IL",
+    "postalCode": "60047",
+    "addressCountry": "US"
+   },
+   "city": "Lake Zurich",
+   "state": "IL",
+   "zip": "60047",
+   "geo": {
+    "lat": 42.1982341,
+    "lon": -88.0733515
+   },
+   "phone": "+18472782272",
+   "website": "https://shakeguys.com/",
+   "opening_hours": "Mo-Fr 08:00-16:00; Sa-Su closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11158570532",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "the-kirt-locker-lake-zurich",
+   "name": "The Kirt Locker",
+   "summary": "The Kirt Locker is a gym in Lake Zurich, IL at 765 Ela Road #107, Lake Zurich, IL 60047. Phone: +12243160138. Website: https://thekirtlocker.com/.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-kirt-locker-lake-zurich/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-kirt-locker-lake-zurich.json",
+   "address": {
+    "streetAddress": "765 Ela Road #107",
+    "addressLocality": "Lake Zurich",
+    "addressRegion": "IL",
+    "postalCode": "60047",
+    "addressCountry": "US"
+   },
+   "city": "Lake Zurich",
+   "state": "IL",
+   "zip": "60047",
+   "geo": {
+    "lat": 42.1838034,
+    "lon": -88.1024487
+   },
+   "phone": "+12243160138",
+   "website": "https://thekirtlocker.com/",
+   "opening_hours": "Mo-Fr 05:00-20:00; Sa 08:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13394120566",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "binnys-beverage-depot-lake-zurich",
+   "name": "Binny's Beverage Depot",
+   "summary": "Binny's Beverage Depot is a liquor store in Lake Zurich, IL. Phone: +18474381437. Website: https://www.binnys.com/store-locator/lake-zurich/.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/binnys-beverage-depot-lake-zurich/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/binnys-beverage-depot-lake-zurich.json",
+   "address": {
+    "addressLocality": "Lake Zurich",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Lake Zurich",
+   "state": "IL",
+   "geo": {
+    "lat": 42.1808193,
+    "lon": -88.0826373
+   },
+   "phone": "+18474381437",
+   "website": "https://www.binnys.com/store-locator/lake-zurich/",
+   "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4450340397",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "crossfit-lake-zurich",
+   "name": "CrossFit",
+   "summary": "CrossFit is a gym in Lake Zurich, IL at 519 Tesler Rd, Lake Zurich, IL 60047. Phone: +12242861299. Website: https://crossfitlykos.com/.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/crossfit-lake-zurich/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/crossfit-lake-zurich.json",
+   "address": {
+    "streetAddress": "519 Tesler Rd",
+    "addressLocality": "Lake Zurich",
+    "addressRegion": "IL",
+    "postalCode": "60047",
+    "addressCountry": "US"
+   },
+   "city": "Lake Zurich",
+   "state": "IL",
+   "zip": "60047",
+   "geo": {
+    "lat": 42.2070501,
+    "lon": -88.0682649
+   },
+   "phone": "+12242861299",
+   "website": "https://crossfitlykos.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4962816021",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "diamond-dental-service-lake-zurich",
+   "name": "Diamond Dental Service",
+   "summary": "Diamond Dental Service is a dentist in Lake Zurich, IL at 754 South Rand Road, Lake Zurich, IL 60047. Phone: +18478471816. Website: https://diamonddentalservice.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/diamond-dental-service-lake-zurich/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/diamond-dental-service-lake-zurich.json",
+   "address": {
+    "streetAddress": "754 South Rand Road",
+    "addressLocality": "Lake Zurich",
+    "addressRegion": "IL",
+    "postalCode": "60047",
+    "addressCountry": "US"
+   },
+   "city": "Lake Zurich",
+   "state": "IL",
+   "zip": "60047",
+   "geo": {
+    "lat": 42.1857641,
+    "lon": -88.089709
+   },
+   "phone": "+18478471816",
+   "website": "https://diamonddentalservice.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4565012293",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "cd-one-price-cleaners-lake-zurich",
+   "name": "CD One Price Cleaners",
+   "summary": "CD One Price Cleaners is a dry cleaner in Lake Zurich, IL at 488 South Rand Road, Lake Zurich, IL 60047. Phone: +12246624851.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cd-one-price-cleaners-lake-zurich/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cd-one-price-cleaners-lake-zurich.json",
+   "address": {
+    "streetAddress": "488 South Rand Road",
+    "addressLocality": "Lake Zurich",
+    "addressRegion": "IL",
+    "postalCode": "60047",
+    "addressCountry": "US"
+   },
+   "city": "Lake Zurich",
+   "state": "IL",
+   "zip": "60047",
+   "geo": {
+    "lat": 42.1887137,
+    "lon": -88.1040446
+   },
+   "phone": "+12246624851",
+   "opening_hours": "Mo-Sa 07:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13379291001",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "companion-animal-hospital-lake-zurich",
+   "name": "Companion Animal Hospital",
+   "summary": "Companion Animal Hospital is a veterinarian in Lake Zurich, IL at 917 Rand Road, Lake Zurich, IL 60047. Website: https://companionlz.com/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/companion-animal-hospital-lake-zurich/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/companion-animal-hospital-lake-zurich.json",
+   "address": {
+    "streetAddress": "917 Rand Road",
+    "addressLocality": "Lake Zurich",
+    "addressRegion": "IL",
+    "postalCode": "60047",
+    "addressCountry": "US"
+   },
+   "city": "Lake Zurich",
+   "state": "IL",
+   "zip": "60047",
+   "geo": {
+    "lat": 42.1821221,
+    "lon": -88.0843001
+   },
+   "website": "https://companionlz.com/",
+   "opening_hours": "Mo-Fr 09:00-18:00, Sa 08:00-14:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12580963695",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "goodwill-lake-zurich",
+   "name": "Goodwill",
+   "summary": "Goodwill is a thrift store in Lake Zurich, IL at 746 South Rand Road, Lake Zurich, IL 60047. Phone: +18475500769.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/goodwill-lake-zurich/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/goodwill-lake-zurich.json",
+   "address": {
+    "streetAddress": "746 South Rand Road",
+    "addressLocality": "Lake Zurich",
+    "addressRegion": "IL",
+    "postalCode": "60047",
+    "addressCountry": "US"
+   },
+   "city": "Lake Zurich",
+   "state": "IL",
+   "zip": "60047",
+   "geo": {
+    "lat": 42.1857342,
+    "lon": -88.0902468
+   },
+   "phone": "+18475500769",
+   "opening_hours": "Mo-Sa 09:00-19:00; Su 09:00-17:00; PH \"varies\"",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11002305445",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "petco-lake-zurich",
+   "name": "Petco",
+   "summary": "Petco is a pet store in Lake Zurich, IL at 787 West Main Street, Lake Zurich, IL 60047. Phone: +18475506760.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petco-lake-zurich/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petco-lake-zurich.json",
+   "address": {
+    "streetAddress": "787 West Main Street",
+    "addressLocality": "Lake Zurich",
+    "addressRegion": "IL",
+    "postalCode": "60047",
+    "addressCountry": "US"
+   },
+   "city": "Lake Zurich",
+   "state": "IL",
+   "zip": "60047",
+   "geo": {
+    "lat": 42.1893349,
+    "lon": -88.1100648
+   },
+   "phone": "+18475506760",
+   "opening_hours": "Mo-Sa 09:00-21:00; Su 09:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13448171398",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "sound-garden-learning-center-lake-zurich",
+   "name": "Sound Garden Learning Center",
+   "summary": "Sound Garden Learning Center is a preschool in Lake Zurich, IL at 116 Lions Drive, Lake Zurich, IL 60047. Phone: +18474382440.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sound-garden-learning-center-lake-zurich/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sound-garden-learning-center-lake-zurich.json",
+   "address": {
+    "streetAddress": "116 Lions Drive",
+    "addressLocality": "Lake Zurich",
+    "addressRegion": "IL",
+    "postalCode": "60047",
+    "addressCountry": "US"
+   },
+   "city": "Lake Zurich",
+   "state": "IL",
+   "zip": "60047",
+   "geo": {
+    "lat": 42.1977234,
+    "lon": -88.0909408
+   },
+   "phone": "+18474382440",
+   "opening_hours": "Mo-Fr 07:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13991290101",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "barrett-accounting-and-tax-llc-lake-zurich",
+   "name": "Barrett Accounting & Tax LLC",
+   "summary": "Barrett Accounting & Tax LLC is an accountant in Lake Zurich, IL. Phone: +18475500788. Website: https://barrettaccountingandtax.com/.",
+   "categories": [
+    "accountant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/barrett-accounting-and-tax-llc-lake-zurich/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/barrett-accounting-and-tax-llc-lake-zurich.json",
+   "address": {
+    "addressLocality": "Lake Zurich",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Lake Zurich",
+   "state": "IL",
+   "geo": {
+    "lat": 42.1958367,
+    "lon": -88.0915341
+   },
+   "phone": "+18475500788",
+   "website": "https://barrettaccountingandtax.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 12.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13610534278",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "acostas-home-consignment-lake-zurich",
+   "name": "Acosta's Home Consignment",
+   "summary": "Acosta's Home Consignment is a furniture store in Lake Zurich, IL at 540 Cortland Drive, Lake Zurich, IL 60047. Website: https://acostashome.com/.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/acostas-home-consignment-lake-zurich/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/acostas-home-consignment-lake-zurich.json",
+   "address": {
+    "streetAddress": "540 Cortland Drive",
+    "addressLocality": "Lake Zurich",
+    "addressRegion": "IL",
+    "postalCode": "60047",
+    "addressCountry": "US"
+   },
+   "city": "Lake Zurich",
+   "state": "IL",
+   "zip": "60047",
+   "geo": {
+    "lat": 42.1896468,
+    "lon": -88.1106356
+   },
+   "website": "https://acostashome.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1215608826",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "charles-schwab-lake-zurich",
+   "name": "Charles Schwab",
+   "summary": "Charles Schwab is a financial advisor in Lake Zurich, IL at 430 Rand Road #140, Lake Zurich, IL 60047. Phone: +18477198260.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/charles-schwab-lake-zurich/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/charles-schwab-lake-zurich.json",
+   "address": {
+    "streetAddress": "430 Rand Road #140",
+    "addressLocality": "Lake Zurich",
+    "addressRegion": "IL",
+    "postalCode": "60047",
+    "addressCountry": "US"
+   },
+   "city": "Lake Zurich",
+   "state": "IL",
+   "zip": "60047",
+   "geo": {
+    "lat": 42.1912367,
+    "lon": -88.1071738
+   },
+   "phone": "+18477198260",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12569824297",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "life-time-lake-zurich",
+   "name": "Life Time",
+   "summary": "Life Time is a gym in Lake Zurich, IL at 400 North Rand Road, Lake Zurich, IL 60047. Website: https://www.lifetime.life/life-time-locations/il-lake-zurich.html.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/life-time-lake-zurich/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/life-time-lake-zurich.json",
+   "address": {
+    "streetAddress": "400 North Rand Road",
+    "addressLocality": "Lake Zurich",
+    "addressRegion": "IL",
+    "postalCode": "60047",
+    "addressCountry": "US"
+   },
+   "city": "Lake Zurich",
+   "state": "IL",
+   "zip": "60047",
+   "geo": {
+    "lat": 42.2041854,
+    "lon": -88.1103799
+   },
+   "website": "https://www.lifetime.life/life-time-locations/il-lake-zurich.html",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1215594688",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "the-salvation-army-lake-zurich",
+   "name": "The Salvation Army",
+   "summary": "The Salvation Army is a thrift store in Lake Zurich, IL at 795 West Main Street, Lake Zurich, IL 60047.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-salvation-army-lake-zurich/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-salvation-army-lake-zurich.json",
+   "address": {
+    "streetAddress": "795 West Main Street",
+    "addressLocality": "Lake Zurich",
+    "addressRegion": "IL",
+    "postalCode": "60047",
+    "addressCountry": "US"
+   },
+   "city": "Lake Zurich",
+   "state": "IL",
+   "zip": "60047",
+   "geo": {
+    "lat": 42.1895878,
+    "lon": -88.1100827
+   },
+   "opening_hours": "Mo-Sa 10:00-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13448171397",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "just-tires-lake-zurich",
+   "name": "Just Tires",
+   "summary": "Just Tires is a tire shop in Lake Zurich, IL at 175 Quentin Road, Lake Zurich, IL.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/just-tires-lake-zurich/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/just-tires-lake-zurich.json",
+   "address": {
+    "streetAddress": "175 Quentin Road",
+    "addressLocality": "Lake Zurich",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Lake Zurich",
+   "state": "IL",
+   "geo": {
+    "lat": 42.2000607,
+    "lon": -88.0588073
+   },
+   "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 7.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/746489512",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "oakview-pet-resort-lake-zurich",
+   "name": "Oakview Pet Resort",
+   "summary": "Oakview Pet Resort is a dog boarding facility in Lake Zurich, IL. Website: https://www.oakviewpetresort.com/.",
+   "categories": [
+    "dog boarding"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/oakview-pet-resort-lake-zurich/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/oakview-pet-resort-lake-zurich.json",
+   "address": {
+    "addressLocality": "Lake Zurich",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Lake Zurich",
+   "state": "IL",
+   "geo": {
+    "lat": 42.1899568,
+    "lon": -88.1100949
+   },
+   "website": "https://www.oakviewpetresort.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1215608825",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "ahlgrim-family-funeral-services-lake-zurich",
+   "name": "Ahlgrim Family Funeral Services",
+   "summary": "Ahlgrim Family Funeral Services is a funeral home in Lake Zurich, IL at 415 South Buesching Road, Lake Zurich, IL 60047.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ahlgrim-family-funeral-services-lake-zurich/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ahlgrim-family-funeral-services-lake-zurich.json",
+   "address": {
+    "streetAddress": "415 South Buesching Road",
+    "addressLocality": "Lake Zurich",
+    "addressRegion": "IL",
+    "postalCode": "60047",
+    "addressCountry": "US"
+   },
+   "city": "Lake Zurich",
+   "state": "IL",
+   "zip": "60047",
+   "geo": {
+    "lat": 42.1909244,
+    "lon": -88.0829002
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/906015160",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "all-creatures-animal-hospital-lake-zurich",
+   "name": "All Creatures Animal Hospital",
+   "summary": "All Creatures Animal Hospital is a veterinarian in Lake Zurich, IL at 1210 Main Street, Lake Zurich, IL 60047.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/all-creatures-animal-hospital-lake-zurich/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/all-creatures-animal-hospital-lake-zurich.json",
+   "address": {
+    "streetAddress": "1210 Main Street",
+    "addressLocality": "Lake Zurich",
+    "addressRegion": "IL",
+    "postalCode": "60047",
+    "addressCountry": "US"
+   },
+   "city": "Lake Zurich",
+   "state": "IL",
+   "zip": "60047",
+   "geo": {
+    "lat": 42.1978853,
+    "lon": -88.0637991
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1215608824",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "davenport-family-funeral-homes-and-crematory-lake-zurich",
+   "name": "Davenport Family Funeral Homes and Crematory",
+   "summary": "Davenport Family Funeral Homes and Crematory is a funeral home in Lake Zurich, IL at 941 South Old Rand Road, Lake Zurich, IL 60047.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/davenport-family-funeral-homes-and-crematory-lake-zurich/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/davenport-family-funeral-homes-and-crematory-lake-zurich.json",
+   "address": {
+    "streetAddress": "941 South Old Rand Road",
+    "addressLocality": "Lake Zurich",
+    "addressRegion": "IL",
+    "postalCode": "60047",
+    "addressCountry": "US"
+   },
+   "city": "Lake Zurich",
+   "state": "IL",
+   "zip": "60047",
+   "geo": {
+    "lat": 42.1812506,
+    "lon": -88.0793173
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1215596561",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "extra-space-storage-lake-zurich",
+   "name": "Extra Space Storage",
+   "summary": "Extra Space Storage is a self-storage facility in Lake Zurich, IL at 300 Main Street, Lake Zurich, IL 60047.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/extra-space-storage-lake-zurich/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/extra-space-storage-lake-zurich.json",
+   "address": {
+    "streetAddress": "300 Main Street",
+    "addressLocality": "Lake Zurich",
+    "addressRegion": "IL",
+    "postalCode": "60047",
+    "addressCountry": "US"
+   },
+   "city": "Lake Zurich",
+   "state": "IL",
+   "zip": "60047",
+   "geo": {
+    "lat": 42.1985221,
+    "lon": -88.0811825
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/849412752",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "george-garner-cyclery-lake-zurich",
+   "name": "George Garner Cyclery",
+   "summary": "George Garner Cyclery is a bike shop in Lake Zurich, IL at Ela Road, Lake Zurich, IL 60047.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/george-garner-cyclery-lake-zurich/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/george-garner-cyclery-lake-zurich.json",
+   "address": {
+    "streetAddress": "Ela Road",
+    "addressLocality": "Lake Zurich",
+    "addressRegion": "IL",
+    "postalCode": "60047",
+    "addressCountry": "US"
+   },
+   "city": "Lake Zurich",
+   "state": "IL",
+   "zip": "60047",
+   "geo": {
+    "lat": 42.1884795,
+    "lon": -88.102059
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/447981825",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "lake-zurich-tire-and-auto-lake-zurich",
+   "name": "Lake Zurich Tire & Auto",
+   "summary": "Lake Zurich Tire & Auto is a tire shop in Lake Zurich, IL at 526 West Main Street, Lake Zurich, IL 60047.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lake-zurich-tire-and-auto-lake-zurich/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lake-zurich-tire-and-auto-lake-zurich.json",
+   "address": {
+    "streetAddress": "526 West Main Street",
+    "addressLocality": "Lake Zurich",
+    "addressRegion": "IL",
+    "postalCode": "60047",
+    "addressCountry": "US"
+   },
+   "city": "Lake Zurich",
+   "state": "IL",
+   "zip": "60047",
+   "geo": {
+    "lat": 42.1907093,
+    "lon": -88.1031709
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1215808017",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "planet-fitness-lake-zurich",
+   "name": "Planet Fitness",
+   "summary": "Planet Fitness is a gym in Lake Zurich, IL at 935 South Rand Road, Lake Zurich, IL 60047.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/planet-fitness-lake-zurich/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/planet-fitness-lake-zurich.json",
+   "address": {
+    "streetAddress": "935 South Rand Road",
+    "addressLocality": "Lake Zurich",
+    "addressRegion": "IL",
+    "postalCode": "60047",
+    "addressCountry": "US"
+   },
+   "city": "Lake Zurich",
+   "state": "IL",
+   "zip": "60047",
+   "geo": {
+    "lat": 42.1813043,
+    "lon": -88.0840043
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11264804651",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "tutor-time-lake-zurich",
+   "name": "Tutor Time",
+   "summary": "Tutor Time is a preschool in Lake Zurich, IL at 759 South Rand Road, Lake Zurich, IL 60047.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tutor-time-lake-zurich/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tutor-time-lake-zurich.json",
+   "address": {
+    "streetAddress": "759 South Rand Road",
+    "addressLocality": "Lake Zurich",
+    "addressRegion": "IL",
+    "postalCode": "60047",
+    "addressCountry": "US"
+   },
+   "city": "Lake Zurich",
+   "state": "IL",
+   "zip": "60047",
+   "geo": {
+    "lat": 42.1836065,
+    "lon": -88.0940339
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/447980621",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "ati-physical-therapy-lake-zurich",
+   "name": "ATI Physical Therapy",
+   "summary": "ATI Physical Therapy is a physical therapy clinic in Lake Zurich, IL.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ati-physical-therapy-lake-zurich/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ati-physical-therapy-lake-zurich.json",
+   "address": {
+    "addressLocality": "Lake Zurich",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Lake Zurich",
+   "state": "IL",
+   "geo": {
+    "lat": 42.189919,
+    "lon": -88.1045
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10887515589",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "avantara-lake-zurich",
+   "name": "Avantara",
+   "summary": "Avantara is an assisted living facility in Lake Zurich, IL.",
+   "categories": [
+    "assisted living"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/avantara-lake-zurich/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/avantara-lake-zurich.json",
+   "address": {
+    "addressLocality": "Lake Zurich",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Lake Zurich",
+   "state": "IL",
+   "geo": {
+    "lat": 42.1824612,
+    "lon": -88.0819296
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/447973830",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "denise-sabala-dance-studios-lake-zurich",
+   "name": "Denise Sabala Dance Studios",
+   "summary": "Denise Sabala Dance Studios is a dance studio in Lake Zurich, IL.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/denise-sabala-dance-studios-lake-zurich/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/denise-sabala-dance-studios-lake-zurich.json",
+   "address": {
+    "addressLocality": "Lake Zurich",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Lake Zurich",
+   "state": "IL",
+   "geo": {
+    "lat": 42.1906124,
+    "lon": -88.104498
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1215808018",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "farmer-poklop-hoppa-and-co-lake-zurich",
+   "name": "Farmer, Poklop, Hoppa & Co",
+   "summary": "Farmer, Poklop, Hoppa & Co is an accountant in Lake Zurich, IL.",
+   "categories": [
+    "accountant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/farmer-poklop-hoppa-and-co-lake-zurich/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/farmer-poklop-hoppa-and-co-lake-zurich.json",
+   "address": {
+    "addressLocality": "Lake Zurich",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Lake Zurich",
+   "state": "IL",
+   "geo": {
+    "lat": 42.1801994,
+    "lon": -88.0776498
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1215808036",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "fedex-office-lake-zurich",
+   "name": "FedEx Office",
+   "summary": "FedEx Office is a printing service in Lake Zurich, IL.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fedex-office-lake-zurich/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fedex-office-lake-zurich.json",
+   "address": {
+    "addressLocality": "Lake Zurich",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Lake Zurich",
+   "state": "IL",
+   "geo": {
+    "lat": 42.1899667,
+    "lon": -88.1086909
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/447973862",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "great-clips-lake-zurich",
+   "name": "Great Clips",
+   "summary": "Great Clips is a hair salon in Lake Zurich, IL.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/great-clips-lake-zurich/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/great-clips-lake-zurich.json",
+   "address": {
+    "addressLocality": "Lake Zurich",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Lake Zurich",
+   "state": "IL",
+   "geo": {
+    "lat": 42.1857645,
+    "lon": -88.0912779
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11002305448",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "great-clips-lake-zurich-n11264800236",
+   "name": "Great Clips",
+   "summary": "Great Clips is a hair salon in Lake Zurich, IL.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/great-clips-lake-zurich-n11264800236/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/great-clips-lake-zurich-n11264800236.json",
+   "address": {
+    "addressLocality": "Lake Zurich",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Lake Zurich",
+   "state": "IL",
+   "geo": {
+    "lat": 42.1889044,
+    "lon": -88.1069615
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11264800236",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "la-fitness-lake-zurich",
+   "name": "LA Fitness",
+   "summary": "LA Fitness is a gym in Lake Zurich, IL.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/la-fitness-lake-zurich/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/la-fitness-lake-zurich.json",
+   "address": {
+    "addressLocality": "Lake Zurich",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Lake Zurich",
+   "state": "IL",
+   "geo": {
+    "lat": 42.1834875,
+    "lon": -88.0901176
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/447973831",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "stephens-dentistry-lake-zurich",
+   "name": "Stephens Dentistry",
+   "summary": "Stephens Dentistry is a dentist in Lake Zurich, IL.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/stephens-dentistry-lake-zurich/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/stephens-dentistry-lake-zurich.json",
+   "address": {
+    "addressLocality": "Lake Zurich",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Lake Zurich",
+   "state": "IL",
+   "geo": {
+    "lat": 42.1898648,
+    "lon": -88.1041059
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10887515590",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "the-auberge-lake-zurich",
+   "name": "The Auberge",
+   "summary": "The Auberge is an assisted living facility in Lake Zurich, IL.",
+   "categories": [
+    "assisted living"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-auberge-lake-zurich/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-auberge-lake-zurich.json",
+   "address": {
+    "addressLocality": "Lake Zurich",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Lake Zurich",
+   "state": "IL",
+   "geo": {
+    "lat": 42.1820574,
+    "lon": -88.0784685
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11264804669",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "touch-of-sweets-bakery-and-cafe-lake-zurich",
+   "name": "Touch of Sweets Bakery & Cafe",
+   "summary": "Touch of Sweets Bakery & Cafe is a bakery in Lake Zurich, IL.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/touch-of-sweets-bakery-and-cafe-lake-zurich/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/touch-of-sweets-bakery-and-cafe-lake-zurich.json",
+   "address": {
+    "addressLocality": "Lake Zurich",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Lake Zurich",
+   "state": "IL",
+   "geo": {
+    "lat": 42.185733,
+    "lon": -88.0887327
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9768338172",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "zurich-meadows-senior-apartments-lake-zurich",
+   "name": "Zurich Meadows Senior Apartments",
+   "summary": "Zurich Meadows Senior Apartments is an assisted living facility in Lake Zurich, IL.",
+   "categories": [
+    "assisted living"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/zurich-meadows-senior-apartments-lake-zurich/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/zurich-meadows-senior-apartments-lake-zurich.json",
+   "address": {
+    "addressLocality": "Lake Zurich",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Lake Zurich",
+   "state": "IL",
+   "geo": {
+    "lat": 42.1933109,
+    "lon": -88.08568
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1215596560",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

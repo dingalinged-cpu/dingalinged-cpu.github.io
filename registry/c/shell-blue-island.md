@@ -1,0 +1,23 @@
+Shell is a car wash in Blue Island, IL at 3196 West 127th Street, Blue Island, IL 60406.
+
+# Shell
+
+- Category: car wash
+- Services: car wash
+- Address: 3196 West 127th Street, Blue Island, IL 60406
+- City: Blue Island
+- State: IL
+- ZIP: 60406
+- Coordinates: 41.6631816, -87.6993877
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/shell-blue-island/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/shell-blue-island.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1372129571 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

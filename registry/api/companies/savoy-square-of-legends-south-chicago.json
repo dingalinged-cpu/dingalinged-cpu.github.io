@@ -1,0 +1,61 @@
+{
+ "slug": "savoy-square-of-legends-south-chicago",
+ "name": "Savoy Square of Legends South",
+ "categories": [
+  "property management company"
+ ],
+ "keywords": [
+  "property management company",
+  "property management companies",
+  "property management company chicago il",
+  "property management companies chicago il"
+ ],
+ "services": [
+  {
+   "name": "property management company",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "property management companies",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "4448 South State Street",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60609",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60609",
+ "geo": {
+  "lat": 41.8133057,
+  "lon": -87.6266533
+ },
+ "website": "https://www.liveatsavoysquare.com/",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/230774743",
+ "osm": {
+  "type": "way",
+  "id": 230774743,
+  "tags_used": {
+   "office": "property_management"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/savoy-square-of-legends-south-chicago/",
+ "summary": "Savoy Square of Legends South is a property management company in Chicago, IL at 4448 South State Street, Chicago, IL 60609. Website: https://www.liveatsavoysquare.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

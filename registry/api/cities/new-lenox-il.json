@@ -1,0 +1,2217 @@
+{
+ "place": "New Lenox, IL",
+ "slug": "new-lenox-il",
+ "count": 66,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "auto body shop new lenox il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-body-shop-new-lenox-il.json"
+  },
+  {
+   "keyword": "auto repair new lenox il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-new-lenox-il.json"
+  },
+  {
+   "keyword": "brake repair new lenox il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/brake-repair-new-lenox-il.json"
+  },
+  {
+   "keyword": "car wash new lenox il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-new-lenox-il.json"
+  },
+  {
+   "keyword": "chiropractor new lenox il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/chiropractor-new-lenox-il.json"
+  },
+  {
+   "keyword": "dance studio new lenox il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dance-studio-new-lenox-il.json"
+  },
+  {
+   "keyword": "dentist new lenox il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-new-lenox-il.json"
+  },
+  {
+   "keyword": "driving school new lenox il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/driving-school-new-lenox-il.json"
+  },
+  {
+   "keyword": "dry cleaners new lenox il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dry-cleaners-new-lenox-il.json"
+  },
+  {
+   "keyword": "eye doctor new lenox il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/eye-doctor-new-lenox-il.json"
+  },
+  {
+   "keyword": "family doctor new lenox il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/family-doctor-new-lenox-il.json"
+  },
+  {
+   "keyword": "flooring companies new lenox il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/flooring-companies-new-lenox-il.json"
+  },
+  {
+   "keyword": "florist new lenox il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/florist-new-lenox-il.json"
+  },
+  {
+   "keyword": "gym new lenox il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-new-lenox-il.json"
+  },
+  {
+   "keyword": "hair salon new lenox il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-new-lenox-il.json"
+  },
+  {
+   "keyword": "haircut new lenox il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-new-lenox-il.json"
+  },
+  {
+   "keyword": "insurance agency new lenox il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-new-lenox-il.json"
+  },
+  {
+   "keyword": "insurance agent new lenox il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-new-lenox-il.json"
+  },
+  {
+   "keyword": "insurance agents new lenox il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-new-lenox-il.json"
+  },
+  {
+   "keyword": "jewelry store new lenox il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/jewelry-store-new-lenox-il.json"
+  },
+  {
+   "keyword": "liquor store new lenox il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/liquor-store-new-lenox-il.json"
+  },
+  {
+   "keyword": "martial arts new lenox il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/martial-arts-new-lenox-il.json"
+  },
+  {
+   "keyword": "mattress store new lenox il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mattress-store-new-lenox-il.json"
+  },
+  {
+   "keyword": "mechanic new lenox il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-new-lenox-il.json"
+  },
+  {
+   "keyword": "nail salon new lenox il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/nail-salon-new-lenox-il.json"
+  },
+  {
+   "keyword": "ob gyn new lenox il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/ob-gyn-new-lenox-il.json"
+  },
+  {
+   "keyword": "oil change new lenox il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/oil-change-new-lenox-il.json"
+  },
+  {
+   "keyword": "painters new lenox il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/painters-new-lenox-il.json"
+  },
+  {
+   "keyword": "pediatrician new lenox il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/pediatrician-new-lenox-il.json"
+  },
+  {
+   "keyword": "pet store new lenox il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/pet-store-new-lenox-il.json"
+  },
+  {
+   "keyword": "phone repair new lenox il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/phone-repair-new-lenox-il.json"
+  },
+  {
+   "keyword": "physical therapy new lenox il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/physical-therapy-new-lenox-il.json"
+  },
+  {
+   "keyword": "preschool new lenox il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/preschool-new-lenox-il.json"
+  },
+  {
+   "keyword": "primary care physician new lenox il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/primary-care-physician-new-lenox-il.json"
+  },
+  {
+   "keyword": "real estate agent new lenox il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/real-estate-agent-new-lenox-il.json"
+  },
+  {
+   "keyword": "realtor new lenox il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/realtor-new-lenox-il.json"
+  },
+  {
+   "keyword": "tax preparation new lenox il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tax-preparation-new-lenox-il.json"
+  },
+  {
+   "keyword": "tax preparer new lenox il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tax-preparer-new-lenox-il.json"
+  },
+  {
+   "keyword": "therapist new lenox il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/therapist-new-lenox-il.json"
+  },
+  {
+   "keyword": "thrift store new lenox il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/thrift-store-new-lenox-il.json"
+  },
+  {
+   "keyword": "tire shop new lenox il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tire-shop-new-lenox-il.json"
+  },
+  {
+   "keyword": "vet new lenox il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/vet-new-lenox-il.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "crash-champions-collision-repair-new-lenox",
+   "name": "Crash Champions Collision Repair",
+   "summary": "Crash Champions Collision Repair is an auto repair shop in New Lenox, IL at 1429 East Lincoln Highway, New Lenox, IL 60451. Phone: +18154850000. Website: https://crashchampions.com/locations/crash-champions-new-lenox.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/crash-champions-collision-repair-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/crash-champions-collision-repair-new-lenox.json",
+   "address": {
+    "streetAddress": "1429 East Lincoln Highway",
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "postalCode": "60451",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "zip": "60451",
+   "geo": {
+    "lat": 41.5132646,
+    "lon": -87.9381393
+   },
+   "phone": "+18154850000",
+   "website": "https://crashchampions.com/locations/crash-champions-new-lenox",
+   "opening_hours": "Mo-Fr 08:00-17:00, Sa 09:00-12:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/995777663",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "petco-new-lenox",
+   "name": "Petco",
+   "summary": "Petco is a pet store in New Lenox, IL at 495 East Lincoln Highway, New Lenox, IL 60451. Phone: +18154620639. Website: https://stores.petco.com/il/newlenox/pet-supplies-newlenox-il-2604.html.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petco-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petco-new-lenox.json",
+   "address": {
+    "streetAddress": "495 East Lincoln Highway",
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "postalCode": "60451",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "zip": "60451",
+   "geo": {
+    "lat": 41.514323,
+    "lon": -87.9549965
+   },
+   "phone": "+18154620639",
+   "website": "https://stores.petco.com/il/newlenox/pet-supplies-newlenox-il-2604.html",
+   "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7178471769",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "premier-occupational-health-at-silver-cross-new-lenox",
+   "name": "Premier Occupational Health at Silver Cross",
+   "summary": "Premier Occupational Health at Silver Cross is a family medicine practice in New Lenox, IL at 1851 Silver Cross Boulevard #110, New Lenox, IL 60451. Phone: +18153003060. Website: https://www.silvercross.org/locations/profile/occupational-health/.",
+   "categories": [
+    "family doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/premier-occupational-health-at-silver-cross-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/premier-occupational-health-at-silver-cross-new-lenox.json",
+   "address": {
+    "streetAddress": "1851 Silver Cross Boulevard #110",
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "postalCode": "60451",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "zip": "60451",
+   "geo": {
+    "lat": 41.5432841,
+    "lon": -87.9846636
+   },
+   "phone": "+18153003060",
+   "website": "https://www.silvercross.org/locations/profile/occupational-health/",
+   "opening_hours": "Mo-Fr 07:30-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13111167399",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "quality-cleaners-new-lenox",
+   "name": "Quality Cleaners",
+   "summary": "Quality Cleaners is a dry cleaner in New Lenox, IL at 13150 East Lincoln Highway, New Lenox, IL 60451. Phone: +18154854422. Website: https://welkersqualitycleaners.business.site/.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/quality-cleaners-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/quality-cleaners-new-lenox.json",
+   "address": {
+    "streetAddress": "13150 East Lincoln Highway",
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "postalCode": "60451",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "zip": "60451",
+   "geo": {
+    "lat": 41.5127829,
+    "lon": -87.9355982
+   },
+   "phone": "+18154854422",
+   "website": "https://welkersqualitycleaners.business.site/",
+   "opening_hours": "Mo-Fr 08:00-18:00, Sa 08:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9195011824",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "re-claim-fitness-new-lenox",
+   "name": "Re|Claim Fitness",
+   "summary": "Re|Claim Fitness is a gym in New Lenox, IL at 1325 East Lincoln Highway, New Lenox, IL 60451. Phone: +18154638500. Website: https://reclaimfitness.com/.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/re-claim-fitness-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/re-claim-fitness-new-lenox.json",
+   "address": {
+    "streetAddress": "1325 East Lincoln Highway",
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "postalCode": "60451",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "zip": "60451",
+   "geo": {
+    "lat": 41.5131225,
+    "lon": -87.9407386
+   },
+   "phone": "+18154638500",
+   "website": "https://reclaimfitness.com/",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/995777664",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "suite-hub-new-lenox",
+   "name": "Suite Hub",
+   "summary": "Suite Hub is a hair salon in New Lenox, IL at 352 West Maple Street, New Lenox, IL 60451. Phone: +17089060641. Website: https://mysuitehub.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/suite-hub-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/suite-hub-new-lenox.json",
+   "address": {
+    "streetAddress": "352 West Maple Street",
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "postalCode": "60451",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "zip": "60451",
+   "geo": {
+    "lat": 41.5159611,
+    "lon": -87.9768394
+   },
+   "phone": "+17089060641",
+   "website": "https://mysuitehub.com/",
+   "opening_hours": "09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12394962259",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "take-5-oil-change-new-lenox",
+   "name": "Take 5 Oil Change",
+   "summary": "Take 5 Oil Change is an auto repair shop in New Lenox, IL at 442 East Lincoln Highway, New Lenox, IL 60451. Phone: +18157836024. Website: https://www.take5.com/locations/oil-change/illinois/new-lenox/31488/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/take-5-oil-change-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/take-5-oil-change-new-lenox.json",
+   "address": {
+    "streetAddress": "442 East Lincoln Highway",
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "postalCode": "60451",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "zip": "60451",
+   "geo": {
+    "lat": 41.5119786,
+    "lon": -87.9545299
+   },
+   "phone": "+18157836024",
+   "website": "https://www.take5.com/locations/oil-change/illinois/new-lenox/31488/",
+   "opening_hours": "Mo-Sa 07:00-19:00, Su 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1447956593",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "top-driver-new-lenox",
+   "name": "Top Driver",
+   "summary": "Top Driver is a driving school in New Lenox, IL at 1800 East Lincoln Highway, New Lenox, IL 60451. Phone: +18003748373. Website: https://www.topdriver.com/driving-school/new-lenox/.",
+   "categories": [
+    "driving school"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/top-driver-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/top-driver-new-lenox.json",
+   "address": {
+    "streetAddress": "1800 East Lincoln Highway",
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "postalCode": "60451",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "zip": "60451",
+   "geo": {
+    "lat": 41.5110637,
+    "lon": -87.9315451
+   },
+   "phone": "+18003748373",
+   "website": "https://www.topdriver.com/driving-school/new-lenox/",
+   "opening_hours": "Mo-Fr 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9195011859",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "allstate-new-lenox",
+   "name": "Allstate",
+   "summary": "Allstate is an insurance agent in New Lenox, IL at 600 East Lincoln Highway, New Lenox, IL 60451. Phone: +18154855600. Website: https://agents.allstate.com/dean-de-angelis-new-lenox-il.html.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/allstate-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/allstate-new-lenox.json",
+   "address": {
+    "streetAddress": "600 East Lincoln Highway",
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "postalCode": "60451",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "zip": "60451",
+   "geo": {
+    "lat": 41.5120013,
+    "lon": -87.9526173
+   },
+   "phone": "+18154855600",
+   "website": "https://agents.allstate.com/dean-de-angelis-new-lenox-il.html",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9194994486",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "candice-l-givvons-dds-new-lenox",
+   "name": "Candice L. Givvons, DDS",
+   "summary": "Candice L. Givvons, DDS is a dentist in New Lenox, IL at 2449 East Joliet Highway, New Lenox, IL 60451. Phone: +18154852536. Website: https://www.doctorgibbons.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/candice-l-givvons-dds-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/candice-l-givvons-dds-new-lenox.json",
+   "address": {
+    "streetAddress": "2449 East Joliet Highway",
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "postalCode": "60451",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "zip": "60451",
+   "geo": {
+    "lat": 41.5069258,
+    "lon": -87.917062
+   },
+   "phone": "+18154852536",
+   "website": "https://www.doctorgibbons.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9195135858",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "carey-animal-clinic-new-lenox",
+   "name": "Carey Animal Clinic",
+   "summary": "Carey Animal Clinic is a veterinarian in New Lenox, IL at 205 Church Street, New Lenox, IL 60451. Phone: +18154622731. Website: https://careyanimalclinic.net/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/carey-animal-clinic-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/carey-animal-clinic-new-lenox.json",
+   "address": {
+    "streetAddress": "205 Church Street",
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "postalCode": "60451",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "zip": "60451",
+   "geo": {
+    "lat": 41.5133244,
+    "lon": -87.9656023
+   },
+   "phone": "+18154622731",
+   "website": "https://careyanimalclinic.net/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/995777697",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "century-21-new-lenox",
+   "name": "Century 21",
+   "summary": "Century 21 is a real estate agency in New Lenox, IL at 208 North Cedar Road, New Lenox, IL 60451. Phone: +18154854421. Website: https://www.c21pride.com/Home.aspx.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/century-21-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/century-21-new-lenox.json",
+   "address": {
+    "streetAddress": "208 North Cedar Road",
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "postalCode": "60451",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "zip": "60451",
+   "geo": {
+    "lat": 41.5134661,
+    "lon": -87.9662126
+   },
+   "phone": "+18154854421",
+   "website": "https://www.c21pride.com/Home.aspx",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/995777699",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "classy-nails-and-spa-new-lenox",
+   "name": "Classy Nails & Spa",
+   "summary": "Classy Nails & Spa is a nail salon in New Lenox, IL at 645 East Lincoln Highway, New Lenox, IL 60451. Phone: +18152909999. Website: https://classynails.net/.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/classy-nails-and-spa-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/classy-nails-and-spa-new-lenox.json",
+   "address": {
+    "streetAddress": "645 East Lincoln Highway",
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "postalCode": "60451",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "zip": "60451",
+   "geo": {
+    "lat": 41.5128548,
+    "lon": -87.9507539
+   },
+   "phone": "+18152909999",
+   "website": "https://classynails.net/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9195011817",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "discount-tire-new-lenox",
+   "name": "Discount Tire",
+   "summary": "Discount Tire is a tire shop in New Lenox, IL at 681 East Lincoln Highway, New Lenox, IL 60451. Phone: +18152153054. Website: https://www.discounttire.com/store/il/new-lenox/s/1891.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/discount-tire-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/discount-tire-new-lenox.json",
+   "address": {
+    "streetAddress": "681 East Lincoln Highway",
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "postalCode": "60451",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "zip": "60451",
+   "geo": {
+    "lat": 41.512962,
+    "lon": -87.9493099
+   },
+   "phone": "+18152153054",
+   "website": "https://www.discounttire.com/store/il/new-lenox/s/1891",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/188699619",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "fantastic-sams-new-lenox",
+   "name": "Fantastic Sams",
+   "summary": "Fantastic Sams is a hair salon in New Lenox, IL at 280 East Lincoln Highway, New Lenox, IL 60451. Phone: +18154621755. Website: https://www.fantasticsams.com/about/regions/chicago-il/fantastic-sams-new-lenox-il.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fantastic-sams-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fantastic-sams-new-lenox.json",
+   "address": {
+    "streetAddress": "280 East Lincoln Highway",
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "postalCode": "60451",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "zip": "60451",
+   "geo": {
+    "lat": 41.5120623,
+    "lon": -87.9610213
+   },
+   "phone": "+18154621755",
+   "website": "https://www.fantasticsams.com/about/regions/chicago-il/fantastic-sams-new-lenox-il",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9195012202",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "great-clips-new-lenox",
+   "name": "Great Clips",
+   "summary": "Great Clips is a hair salon in New Lenox, IL at 523 East Lincoln Highway, New Lenox, IL 60451. Phone: +18154630274. Website: https://www.greatclips.com/salons/1469.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/great-clips-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/great-clips-new-lenox.json",
+   "address": {
+    "streetAddress": "523 East Lincoln Highway",
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "postalCode": "60451",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "zip": "60451",
+   "geo": {
+    "lat": 41.5128117,
+    "lon": -87.9548992
+   },
+   "phone": "+18154630274",
+   "website": "https://www.greatclips.com/salons/1469",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7178471777",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "integrated-physical-medicine-of-new-lenox-new-lenox",
+   "name": "Integrated Physical Medicine of New Lenox",
+   "summary": "Integrated Physical Medicine of New Lenox is a chiropractor in New Lenox, IL at 2499 Joliet Highway, New Lenox, IL 60451. Phone: +18157178355. Website: https://www.ipmhealthcare.com/new-lenox.html.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/integrated-physical-medicine-of-new-lenox-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/integrated-physical-medicine-of-new-lenox-new-lenox.json",
+   "address": {
+    "streetAddress": "2499 Joliet Highway",
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "postalCode": "60451",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "zip": "60451",
+   "geo": {
+    "lat": 41.5071158,
+    "lon": -87.9167804
+   },
+   "phone": "+18157178355",
+   "website": "https://www.ipmhealthcare.com/new-lenox.html",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9195135856",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "jointpro-physical-therapy-new-lenox",
+   "name": "JointPro Physical Therapy",
+   "summary": "JointPro Physical Therapy is a physical therapy clinic in New Lenox, IL at 1405 East Lincoln Highway, New Lenox, IL 60451. Phone: +18152158200. Website: https://www.jointpropt.com/.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jointpro-physical-therapy-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jointpro-physical-therapy-new-lenox.json",
+   "address": {
+    "streetAddress": "1405 East Lincoln Highway",
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "postalCode": "60451",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "zip": "60451",
+   "geo": {
+    "lat": 41.5130483,
+    "lon": -87.9392335
+   },
+   "phone": "+18152158200",
+   "website": "https://www.jointpropt.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9195011942",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "kay-jewelers-new-lenox",
+   "name": "Kay Jewelers",
+   "summary": "Kay Jewelers is a jewelry store in New Lenox, IL at 515 East Lincoln Highway, New Lenox, IL 60451. Phone: +18153202013. Website: https://stores.kay.com/il/new-lenox/515-e--lincoln-highway.html.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kay-jewelers-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kay-jewelers-new-lenox.json",
+   "address": {
+    "streetAddress": "515 East Lincoln Highway",
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "postalCode": "60451",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "zip": "60451",
+   "geo": {
+    "lat": 41.5128088,
+    "lon": -87.9551197
+   },
+   "phone": "+18153202013",
+   "website": "https://stores.kay.com/il/new-lenox/515-e--lincoln-highway.html",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7178471775",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "kim-phillips-cris-realty-new-lenox",
+   "name": "Kim Phillips CRIS Realty",
+   "summary": "Kim Phillips CRIS Realty is a real estate agency in New Lenox, IL at 1200 East Lincoln Highway, New Lenox, IL 60451. Phone: +18159540650. Website: https://homeasap.com/kimphillips2.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kim-phillips-cris-realty-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kim-phillips-cris-realty-new-lenox.json",
+   "address": {
+    "streetAddress": "1200 East Lincoln Highway",
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "postalCode": "60451",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "zip": "60451",
+   "geo": {
+    "lat": 41.5122092,
+    "lon": -87.9420818
+   },
+   "phone": "+18159540650",
+   "website": "https://homeasap.com/kimphillips2",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/995777669",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "luxe-nail-lounge-new-lenox",
+   "name": "Luxe Nail Lounge",
+   "summary": "Luxe Nail Lounge is a nail salon in New Lenox, IL at 426 East Lincoln Highway, New Lenox, IL 60451. Phone: +17798033325. Website: https://theluxenaillounge.com/.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/luxe-nail-lounge-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/luxe-nail-lounge-new-lenox.json",
+   "address": {
+    "streetAddress": "426 East Lincoln Highway",
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "postalCode": "60451",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "zip": "60451",
+   "geo": {
+    "lat": 41.5118359,
+    "lon": -87.9555148
+   },
+   "phone": "+17798033325",
+   "website": "https://theluxenaillounge.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9195012122",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "mattress-firm-new-lenox",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in New Lenox, IL at 581 East Lincoln Highway, New Lenox, IL 60451. Phone: +18154630244. Website: https://www.mattressfirm.com/en-us/stores/il/new-lenox/119115/.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-new-lenox.json",
+   "address": {
+    "streetAddress": "581 East Lincoln Highway",
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "postalCode": "60451",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "zip": "60451",
+   "geo": {
+    "lat": 41.512811,
+    "lon": -87.9534722
+   },
+   "phone": "+18154630244",
+   "website": "https://www.mattressfirm.com/en-us/stores/il/new-lenox/119115/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7178476293",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "mavis-tires-and-brakes-new-lenox",
+   "name": "Mavis Tires & Brakes",
+   "summary": "Mavis Tires & Brakes is an auto repair shop in New Lenox, IL at 2460 Lincoln Highway, New Lenox, IL 60451. Phone: +18152427438. Website: https://www.mavistire.com/locations/new-lenox-il.asp.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mavis-tires-and-brakes-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mavis-tires-and-brakes-new-lenox.json",
+   "address": {
+    "streetAddress": "2460 Lincoln Highway",
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "postalCode": "60451",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "zip": "60451",
+   "geo": {
+    "lat": 41.5081739,
+    "lon": -87.9180162
+   },
+   "phone": "+18152427438",
+   "website": "https://www.mavistire.com/locations/new-lenox-il.asp",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/995791070",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "midwest-wheelz-new-lenox",
+   "name": "Midwest Wheelz",
+   "summary": "Midwest Wheelz is an auto repair shop in New Lenox, IL at 290 East Lincoln Highway, New Lenox, IL 60451. Phone: +18153206104. Website: https://www.midwestwheelzreviews.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/midwest-wheelz-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/midwest-wheelz-new-lenox.json",
+   "address": {
+    "streetAddress": "290 East Lincoln Highway",
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "postalCode": "60451",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "zip": "60451",
+   "geo": {
+    "lat": 41.5119324,
+    "lon": -87.96072
+   },
+   "phone": "+18153206104",
+   "website": "https://www.midwestwheelzreviews.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/995777688",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "morningstars-treasure-chest-new-lenox",
+   "name": "MorningStar's Treasure Chest",
+   "summary": "MorningStar's Treasure Chest is a thrift store in New Lenox, IL at 2571 Lincoln Highway, New Lenox, IL 60451. Phone: +18154623007. Website: https://morningstarmission.org/thrift-stores/.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/morningstars-treasure-chest-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/morningstars-treasure-chest-new-lenox.json",
+   "address": {
+    "streetAddress": "2571 Lincoln Highway",
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "postalCode": "60451",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "zip": "60451",
+   "geo": {
+    "lat": 41.5085661,
+    "lon": -87.9163749
+   },
+   "phone": "+18154623007",
+   "website": "https://morningstarmission.org/thrift-stores/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9195135894",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "pep-boys-new-lenox",
+   "name": "Pep Boys",
+   "summary": "Pep Boys is an auto repair shop in New Lenox, IL at 631 East Lincoln Highway, New Lenox, IL 60451. Phone: +18154624380. Website: https://stores.pepboys.com/il/new-lenox/631-east-lincoln-hwy.html.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pep-boys-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pep-boys-new-lenox.json",
+   "address": {
+    "streetAddress": "631 East Lincoln Highway",
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "postalCode": "60451",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "zip": "60451",
+   "geo": {
+    "lat": 41.5129711,
+    "lon": -87.9515476
+   },
+   "phone": "+18154624380",
+   "website": "https://stores.pepboys.com/il/new-lenox/631-east-lincoln-hwy.html",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/768990691",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "physicians-immediate-care-new-lenox",
+   "name": "Physicians Immediate Care",
+   "summary": "Physicians Immediate Care is a pediatrician in New Lenox, IL at 621 East Lincoln Highway, New Lenox, IL 60451. Phone: +18159075955. Website: https://physiciansimmediatecare.com/clinic/new-lenox/.",
+   "categories": [
+    "pediatrician"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/physicians-immediate-care-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/physicians-immediate-care-new-lenox.json",
+   "address": {
+    "streetAddress": "621 East Lincoln Highway",
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "postalCode": "60451",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "zip": "60451",
+   "geo": {
+    "lat": 41.5129078,
+    "lon": -87.9519655
+   },
+   "phone": "+18159075955",
+   "website": "https://physiciansimmediatecare.com/clinic/new-lenox/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/188699544",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "simon-philips-mens-hair-salon-new-lenox",
+   "name": "Simon Philips Men's Hair Salon",
+   "summary": "Simon Philips Men's Hair Salon is a hair salon in New Lenox, IL at 306 West Maple Street, New Lenox, IL 60451. Phone: +18157178706. Website: https://simonphilipsmenshairsalon.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/simon-philips-mens-hair-salon-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/simon-philips-mens-hair-salon-new-lenox.json",
+   "address": {
+    "streetAddress": "306 West Maple Street",
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "postalCode": "60451",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "zip": "60451",
+   "geo": {
+    "lat": 41.5141055,
+    "lon": -87.9698365
+   },
+   "phone": "+18157178706",
+   "website": "https://simonphilipsmenshairsalon.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1306998304",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "sport-clips-new-lenox",
+   "name": "Sport Clips",
+   "summary": "Sport Clips is a hair salon in New Lenox, IL at 420 East Lincoln Highway, New Lenox, IL 60451. Phone: +18154627400. Website: https://haircutmennewlenoxil.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sport-clips-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sport-clips-new-lenox.json",
+   "address": {
+    "streetAddress": "420 East Lincoln Highway",
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "postalCode": "60451",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "zip": "60451",
+   "geo": {
+    "lat": 41.5118451,
+    "lon": -87.9556861
+   },
+   "phone": "+18154627400",
+   "website": "https://haircutmennewlenoxil.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9195012120",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "studio-10-salon-suites-new-lenox",
+   "name": "Studio 10 Salon Suites",
+   "summary": "Studio 10 Salon Suites is a hair salon in New Lenox, IL at 278 East Lincoln Highway, New Lenox, IL 60451. Phone: +18156413647. Website: https://www.studio10salonsuites.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/studio-10-salon-suites-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/studio-10-salon-suites-new-lenox.json",
+   "address": {
+    "streetAddress": "278 East Lincoln Highway",
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "postalCode": "60451",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "zip": "60451",
+   "geo": {
+    "lat": 41.5112593,
+    "lon": -87.9613911
+   },
+   "phone": "+18156413647",
+   "website": "https://www.studio10salonsuites.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/995777690",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "the-tooth-company-new-lenox",
+   "name": "The Tooth Company",
+   "summary": "The Tooth Company is a dentist in New Lenox, IL at 424 East Lincoln Highway, New Lenox, IL 60451. Phone: +18157178089. Website: https://www.thetoothcompanydental.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-tooth-company-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-tooth-company-new-lenox.json",
+   "address": {
+    "streetAddress": "424 East Lincoln Highway",
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "postalCode": "60451",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "zip": "60451",
+   "geo": {
+    "lat": 41.5118481,
+    "lon": -87.9556276
+   },
+   "phone": "+18157178089",
+   "website": "https://www.thetoothcompanydental.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9195012121",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "tire-zone-and-auto-repair-new-lenox",
+   "name": "Tire Zone & Auto Repair",
+   "summary": "Tire Zone & Auto Repair is an auto repair shop in New Lenox, IL at 204 North Cedar Road, New Lenox, IL 60451. Phone: +17087229974. Website: https://tirezoneandautorep.wixsite.com/tirezone.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tire-zone-and-auto-repair-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tire-zone-and-auto-repair-new-lenox.json",
+   "address": {
+    "streetAddress": "204 North Cedar Road",
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "postalCode": "60451",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "zip": "60451",
+   "geo": {
+    "lat": 41.5132666,
+    "lon": -87.9659646
+   },
+   "phone": "+17087229974",
+   "website": "https://tirezoneandautorep.wixsite.com/tirezone",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/995777700",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "turning-pointe-dance-company-new-lenox",
+   "name": "Turning Pointe Dance Company",
+   "summary": "Turning Pointe Dance Company is a dance studio in New Lenox, IL at 2351 Joliet Highway, New Lenox, IL 60451. Phone: +18153206201. Website: https://tpdcdance.com/.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/turning-pointe-dance-company-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/turning-pointe-dance-company-new-lenox.json",
+   "address": {
+    "streetAddress": "2351 Joliet Highway",
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "postalCode": "60451",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "zip": "60451",
+   "geo": {
+    "lat": 41.506138,
+    "lon": -87.9171127
+   },
+   "phone": "+18153206201",
+   "website": "https://tpdcdance.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9195135862",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "zembar-jewelrs-new-lenox",
+   "name": "Zembar Jewelrs",
+   "summary": "Zembar Jewelrs is a jewelry store in New Lenox, IL at 2457 East Joliet Highway, New Lenox, IL 60451. Phone: +18154857280. Website: https://www.zembarjeweler.com/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/zembar-jewelrs-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/zembar-jewelrs-new-lenox.json",
+   "address": {
+    "streetAddress": "2457 East Joliet Highway",
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "postalCode": "60451",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "zip": "60451",
+   "geo": {
+    "lat": 41.5069619,
+    "lon": -87.9170646
+   },
+   "phone": "+18154857280",
+   "website": "https://www.zembarjeweler.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9195135857",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "windy-city-coating-new-lenox",
+   "name": "Windy City Coating",
+   "summary": "Windy City Coating is a flooring company in New Lenox, IL at 1030 South Cedar Road, New Lenox, IL 60451. Phone: +17088202000.",
+   "categories": [
+    "flooring companies"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/windy-city-coating-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/windy-city-coating-new-lenox.json",
+   "address": {
+    "streetAddress": "1030 South Cedar Road",
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "postalCode": "60451",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "zip": "60451",
+   "geo": {
+    "lat": 41.4958183,
+    "lon": -87.9648258
+   },
+   "phone": "+17088202000",
+   "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-12:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13089403636",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "lancaster-eye-care-new-lenox",
+   "name": "Lancaster Eye Care",
+   "summary": "Lancaster Eye Care is an eye care practice in New Lenox, IL. Phone: +18154853431. Website: https://www.drjohnlancaster.com/.",
+   "categories": [
+    "eye doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lancaster-eye-care-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lancaster-eye-care-new-lenox.json",
+   "address": {
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "geo": {
+    "lat": 41.5118032,
+    "lon": -87.9571854
+   },
+   "phone": "+18154853431",
+   "website": "https://www.drjohnlancaster.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 12.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/995777685",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "bella-fiori-flower-shop-new-lenox",
+   "name": "Bella Fiori Flower Shop",
+   "summary": "Bella Fiori Flower Shop is a florist in New Lenox, IL at 1888 East Lincoln Highway, New Lenox, IL 60451. Phone: +18154638330.",
+   "categories": [
+    "florist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bella-fiori-flower-shop-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bella-fiori-flower-shop-new-lenox.json",
+   "address": {
+    "streetAddress": "1888 East Lincoln Highway",
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "postalCode": "60451",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "zip": "60451",
+   "geo": {
+    "lat": 41.5108081,
+    "lon": -87.9301731
+   },
+   "phone": "+18154638330",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9195011871",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "dragon-fire-karate-new-lenox",
+   "name": "Dragon Fire Karate",
+   "summary": "Dragon Fire Karate is a martial arts school in New Lenox, IL at 132 West Illinois Highway, New Lenox, IL 60451. Phone: +17082595409.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dragon-fire-karate-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dragon-fire-karate-new-lenox.json",
+   "address": {
+    "streetAddress": "132 West Illinois Highway",
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "postalCode": "60451",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "zip": "60451",
+   "geo": {
+    "lat": 41.4971429,
+    "lon": -87.9663352
+   },
+   "phone": "+17082595409",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7657641719",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "h-and-r-block-new-lenox",
+   "name": "H&R Block",
+   "summary": "H&R Block is a tax preparation service in New Lenox, IL at 1816 East Lincoln Highway, New Lenox, IL 60451. Phone: +18154631208.",
+   "categories": [
+    "tax preparation"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/h-and-r-block-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/h-and-r-block-new-lenox.json",
+   "address": {
+    "streetAddress": "1816 East Lincoln Highway",
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "postalCode": "60451",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "zip": "60451",
+   "geo": {
+    "lat": 41.5110229,
+    "lon": -87.9312922
+   },
+   "phone": "+18154631208",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9195011863",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "hanancy-nail-salon-new-lenox",
+   "name": "Hanancy Nail Salon",
+   "summary": "Hanancy Nail Salon is a nail salon in New Lenox, IL at West Illinois Highway, New Lenox, IL 60451. Phone: +18154630998.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hanancy-nail-salon-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hanancy-nail-salon-new-lenox.json",
+   "address": {
+    "streetAddress": "West Illinois Highway",
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "postalCode": "60451",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "zip": "60451",
+   "geo": {
+    "lat": 41.4971464,
+    "lon": -87.9664143
+   },
+   "phone": "+18154630998",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7657641707",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "hickory-creek-family-dentistry-new-lenox",
+   "name": "Hickory Creek Family Dentistry",
+   "summary": "Hickory Creek Family Dentistry is a dentist in New Lenox, IL at 561 East Lincoln Highway, New Lenox, IL 60451. Website: https://www.hickorycreekfamilydentistry.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hickory-creek-family-dentistry-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hickory-creek-family-dentistry-new-lenox.json",
+   "address": {
+    "streetAddress": "561 East Lincoln Highway",
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "postalCode": "60451",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "zip": "60451",
+   "geo": {
+    "lat": 41.5128064,
+    "lon": -87.9542092
+   },
+   "website": "https://www.hickorycreekfamilydentistry.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7178476291",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "lincolnway-dental-associates-new-lenox",
+   "name": "Lincolnway Dental Associates",
+   "summary": "Lincolnway Dental Associates is a dentist in New Lenox, IL at 1804 East Lincoln Highway, New Lenox, IL 60451. Phone: +18154624838.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lincolnway-dental-associates-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lincolnway-dental-associates-new-lenox.json",
+   "address": {
+    "streetAddress": "1804 East Lincoln Highway",
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "postalCode": "60451",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "zip": "60451",
+   "geo": {
+    "lat": 41.5110606,
+    "lon": -87.9314554
+   },
+   "phone": "+18154624838",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9195011864",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "queen-bees-buzz-and-mens-cuts-new-lenox",
+   "name": "Queen Bees Buzz and Men's Cuts",
+   "summary": "Queen Bees Buzz and Men's Cuts is a hair salon in New Lenox, IL at 328 East Lincoln Highway, New Lenox, IL 60451. Phone: +17083084211.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/queen-bees-buzz-and-mens-cuts-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/queen-bees-buzz-and-mens-cuts-new-lenox.json",
+   "address": {
+    "streetAddress": "328 East Lincoln Highway",
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "postalCode": "60451",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "zip": "60451",
+   "geo": {
+    "lat": 41.5118957,
+    "lon": -87.9590822
+   },
+   "phone": "+17083084211",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9195012179",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "united-liquor-new-lenox",
+   "name": "United Liquor",
+   "summary": "United Liquor is a liquor store in New Lenox, IL at 148 West Illinois Highway, New Lenox, IL 60451. Phone: +18154639490.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/united-liquor-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/united-liquor-new-lenox.json",
+   "address": {
+    "streetAddress": "148 West Illinois Highway",
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "postalCode": "60451",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "zip": "60451",
+   "geo": {
+    "lat": 41.497157,
+    "lon": -87.9665446
+   },
+   "phone": "+18154639490",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7657640882",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "best-buy-tire-and-auto-new-lenox",
+   "name": "Best Buy Tire & Auto",
+   "summary": "Best Buy Tire & Auto is an auto repair shop in New Lenox, IL. Phone: +18154628473.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/best-buy-tire-and-auto-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/best-buy-tire-and-auto-new-lenox.json",
+   "address": {
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "postalCode": "60451",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "zip": "60451",
+   "geo": {
+    "lat": 41.5121491,
+    "lon": -87.9411348
+   },
+   "phone": "+18154628473",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 7.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/995777668",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "associated-orthodontists-new-lenox",
+   "name": "Associated Orthodontists",
+   "summary": "Associated Orthodontists is a dentist in New Lenox, IL at 1860 East Lincoln Highway, New Lenox, IL 60451.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/associated-orthodontists-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/associated-orthodontists-new-lenox.json",
+   "address": {
+    "streetAddress": "1860 East Lincoln Highway",
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "postalCode": "60451",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "zip": "60451",
+   "geo": {
+    "lat": 41.5109008,
+    "lon": -87.9306041
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9195011867",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "cell-phone-repair-new-lenox",
+   "name": "Cell Phone Repair",
+   "summary": "Cell Phone Repair is a phone repair shop in New Lenox, IL at 1820 East Lincoln Highway, New Lenox, IL 60451.",
+   "categories": [
+    "phone repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cell-phone-repair-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cell-phone-repair-new-lenox.json",
+   "address": {
+    "streetAddress": "1820 East Lincoln Highway",
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "postalCode": "60451",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "zip": "60451",
+   "geo": {
+    "lat": 41.5110117,
+    "lon": -87.9312324
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9195011862",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "charles-marris-salon-new-lenox",
+   "name": "Charles Marris Salon",
+   "summary": "Charles Marris Salon is a hair salon in New Lenox, IL at 1832 East Lincoln Highway, New Lenox, IL 60451.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/charles-marris-salon-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/charles-marris-salon-new-lenox.json",
+   "address": {
+    "streetAddress": "1832 East Lincoln Highway",
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "postalCode": "60451",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "zip": "60451",
+   "geo": {
+    "lat": 41.5109883,
+    "lon": -87.9310855
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9195011861",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "coldwell-banker-new-lenox",
+   "name": "Coldwell Banker",
+   "summary": "Coldwell Banker is a real estate agency in New Lenox, IL at 1413 East Lincoln Highway, New Lenox, IL 60451.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/coldwell-banker-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/coldwell-banker-new-lenox.json",
+   "address": {
+    "streetAddress": "1413 East Lincoln Highway",
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "postalCode": "60451",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "zip": "60451",
+   "geo": {
+    "lat": 41.5132051,
+    "lon": -87.9391927
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9195011943",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "color-it-new-lenox",
+   "name": "Color It",
+   "summary": "Color It is a painting contractor in New Lenox, IL at 308 West Maple Street, New Lenox, IL 60451.",
+   "categories": [
+    "painters"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/color-it-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/color-it-new-lenox.json",
+   "address": {
+    "streetAddress": "308 West Maple Street",
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "postalCode": "60451",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "zip": "60451",
+   "geo": {
+    "lat": 41.5141184,
+    "lon": -87.9700253
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1306998302",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "cornerstone-jeweler-new-lenox",
+   "name": "Cornerstone Jeweler",
+   "summary": "Cornerstone Jeweler is a jewelry store in New Lenox, IL at 1876 East Lincoln Highway, New Lenox, IL 60451.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cornerstone-jeweler-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cornerstone-jeweler-new-lenox.json",
+   "address": {
+    "streetAddress": "1876 East Lincoln Highway",
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "postalCode": "60451",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "zip": "60451",
+   "geo": {
+    "lat": 41.5108509,
+    "lon": -87.9304042
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9195011869",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "fullers-car-wash-new-lenox",
+   "name": "Fullers Car Wash",
+   "summary": "Fullers Car Wash is a car wash in New Lenox, IL at 1725 East Lincoln Highway, New Lenox, IL 60451.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fullers-car-wash-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fullers-car-wash-new-lenox.json",
+   "address": {
+    "streetAddress": "1725 East Lincoln Highway",
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "postalCode": "60451",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "zip": "60451",
+   "geo": {
+    "lat": 41.5122389,
+    "lon": -87.9325028
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4114686300",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "new-lenox-food-and-liquor-new-lenox",
+   "name": "New Lenox Food & Liquor",
+   "summary": "New Lenox Food & Liquor is a liquor store in New Lenox, IL at 13410 Maple Road, New Lenox, IL 60448.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/new-lenox-food-and-liquor-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/new-lenox-food-and-liquor-new-lenox.json",
+   "address": {
+    "streetAddress": "13410 Maple Road",
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "postalCode": "60448",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "zip": "60448",
+   "geo": {
+    "lat": 41.5490379,
+    "lon": -87.9431757
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1207913572",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "speedy-wash-new-lenox",
+   "name": "Speedy Wash",
+   "summary": "Speedy Wash is a car wash in New Lenox, IL at 939 South Cedar Road, New Lenox, IL 60451.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/speedy-wash-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/speedy-wash-new-lenox.json",
+   "address": {
+    "streetAddress": "939 South Cedar Road",
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "postalCode": "60451",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "zip": "60451",
+   "geo": {
+    "lat": 41.498146,
+    "lon": -87.9660222
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/820099790",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "spencer-trail-school-new-lenox",
+   "name": "Spencer Trail School",
+   "summary": "Spencer Trail School is a preschool in New Lenox, IL at 1701 Spencer Road, New Lenox, IL 60423.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/spencer-trail-school-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/spencer-trail-school-new-lenox.json",
+   "address": {
+    "streetAddress": "1701 Spencer Road",
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "postalCode": "60423",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "zip": "60423",
+   "geo": {
+    "lat": 41.4892501,
+    "lon": -87.9422121
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1834925521",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "ww-studio-new-lenox",
+   "name": "WW Studio",
+   "summary": "WW Studio is a therapy practice in New Lenox, IL at 418 Nelson Road, New Lenox, IL 60451.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ww-studio-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ww-studio-new-lenox.json",
+   "address": {
+    "streetAddress": "418 Nelson Road",
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "postalCode": "60451",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "zip": "60451",
+   "geo": {
+    "lat": 41.5171034,
+    "lon": -87.9846878
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8128008176",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "andrews-and-co-realty-new-lenox",
+   "name": "Andrews & Co. Realty",
+   "summary": "Andrews & Co. Realty is a real estate agency in New Lenox, IL.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/andrews-and-co-realty-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/andrews-and-co-realty-new-lenox.json",
+   "address": {
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "geo": {
+    "lat": 41.5134995,
+    "lon": -87.9655825
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/995777698",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "ati-physical-therapy-new-lenox",
+   "name": "ATI Physical Therapy",
+   "summary": "ATI Physical Therapy is a physical therapy clinic in New Lenox, IL.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ati-physical-therapy-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ati-physical-therapy-new-lenox.json",
+   "address": {
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "geo": {
+    "lat": 41.5078014,
+    "lon": -87.9171711
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9195135832",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "car-wash-new-lenox",
+   "name": "Car Wash",
+   "summary": "Car Wash is a car wash in New Lenox, IL.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/car-wash-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/car-wash-new-lenox.json",
+   "address": {
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "geo": {
+    "lat": 41.5118397,
+    "lon": -87.9471148
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1211889494",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "circle-k-new-lenox",
+   "name": "Circle K",
+   "summary": "Circle K is a car wash in New Lenox, IL.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/circle-k-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/circle-k-new-lenox.json",
+   "address": {
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "geo": {
+    "lat": 41.5183107,
+    "lon": -87.9866258
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/872842246",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "goodwill-new-lenox",
+   "name": "Goodwill",
+   "summary": "Goodwill is a thrift store in New Lenox, IL.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/goodwill-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/goodwill-new-lenox.json",
+   "address": {
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "geo": {
+    "lat": 41.5140872,
+    "lon": -87.9566473
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/188698974",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "la-fitness-new-lenox",
+   "name": "LA Fitness",
+   "summary": "LA Fitness is a gym in New Lenox, IL.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/la-fitness-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/la-fitness-new-lenox.json",
+   "address": {
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "geo": {
+    "lat": 41.5099167,
+    "lon": -87.9182049
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/636459875",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "planet-fitness-new-lenox",
+   "name": "Planet Fitness",
+   "summary": "Planet Fitness is a gym in New Lenox, IL.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/planet-fitness-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/planet-fitness-new-lenox.json",
+   "address": {
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "geo": {
+    "lat": 41.5171729,
+    "lon": -87.9828499
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11742170969",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "speedway-new-lenox",
+   "name": "Speedway",
+   "summary": "Speedway is a car wash in New Lenox, IL.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/speedway-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/speedway-new-lenox.json",
+   "address": {
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "geo": {
+    "lat": 41.4825955,
+    "lon": -87.9559453
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/806667528",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "supercuts-new-lenox",
+   "name": "Supercuts",
+   "summary": "Supercuts is a hair salon in New Lenox, IL.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/supercuts-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/supercuts-new-lenox.json",
+   "address": {
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "geo": {
+    "lat": 41.5078032,
+    "lon": -87.9170151
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9195135831",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "the-womens-center-new-lenox",
+   "name": "The Women's Center",
+   "summary": "The Women's Center is an OB-GYN practice in New Lenox, IL.",
+   "categories": [
+    "ob gyn"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-womens-center-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-womens-center-new-lenox.json",
+   "address": {
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "geo": {
+    "lat": 41.511422,
+    "lon": -87.9564195
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9195012139",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

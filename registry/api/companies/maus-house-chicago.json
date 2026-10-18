@@ -1,0 +1,55 @@
+{
+ "slug": "maus-house-chicago",
+ "name": "Mau's House",
+ "categories": [
+  "dog groomer"
+ ],
+ "keywords": [
+  "dog groomer",
+  "dog groomer chicago il"
+ ],
+ "services": [
+  {
+   "name": "dog groomer",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "901 South Plymouth Court",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60605",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60605",
+ "geo": {
+  "lat": 41.8703099,
+  "lon": -87.628389
+ },
+ "phone": "+13127220057",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/6323222488",
+ "osm": {
+  "type": "node",
+  "id": 6323222488,
+  "tags_used": {
+   "shop": "pet_grooming"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/maus-house-chicago/",
+ "summary": "Mau's House is a dog groomer in Chicago, IL at 901 South Plymouth Court, Chicago, IL 60605. Phone: +13127220057.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,63 @@
+{
+ "slug": "illinois-skin-center-chicago",
+ "name": "Illinois Skin Center",
+ "categories": [
+  "dermatologist"
+ ],
+ "keywords": [
+  "dermatologist",
+  "dermatologist chicago il"
+ ],
+ "services": [
+  {
+   "name": "dermatologist",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "2202 North Halsted Street #1",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60614",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60614",
+ "geo": {
+  "lat": 41.9220105,
+  "lon": -87.6488386
+ },
+ "phone": "+13126005826",
+ "website": "https://www.ilskin.com/",
+ "email": "frontdesk@ilskin.com",
+ "opening_hours": "Mo,Tu,We,Fr 15:00-19:00; Sa 12:00-15:00",
+ "social": [
+  "https://www.instagram.com/ilskincenter"
+ ],
+ "schema_type": "Physician",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/13688794118",
+ "osm": {
+  "type": "node",
+  "id": 13688794118,
+  "tags_used": {
+   "amenity": "doctors",
+   "healthcare": "doctor",
+   "healthcare:speciality": "dermatology"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/illinois-skin-center-chicago/",
+ "summary": "Illinois Skin Center is a dermatologist in Chicago, IL at 2202 North Halsted Street #1, Chicago, IL 60614. Phone: +13126005826. Website: https://www.ilskin.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,53 @@
+{
+ "slug": "hallmark-vernon-hills",
+ "name": "Hallmark",
+ "categories": [
+  "gift shop"
+ ],
+ "keywords": [
+  "gift shop",
+  "gift shop vernon hills il"
+ ],
+ "services": [
+  {
+   "name": "gift shop",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Vernon Hills",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Vernon Hills",
+ "state": "IL",
+ "geo": {
+  "lat": 42.237135,
+  "lon": -87.941665
+ },
+ "brand": "Hallmark",
+ "wikidata": "Q1521910",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/11824704794",
+ "osm": {
+  "type": "node",
+  "id": 11824704794,
+  "tags_used": {
+   "shop": "gift"
+  }
+ },
+ "municipality": "Vernon Hills",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/hallmark-vernon-hills/",
+ "summary": "Hallmark is a gift shop in Vernon Hills, IL.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

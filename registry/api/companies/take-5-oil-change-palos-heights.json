@@ -1,0 +1,69 @@
+{
+ "slug": "take-5-oil-change-palos-heights",
+ "name": "Take 5 Oil Change",
+ "categories": [
+  "auto repair"
+ ],
+ "keywords": [
+  "auto repair",
+  "mechanic",
+  "oil change",
+  "auto repair palos heights il",
+  "mechanic palos heights il",
+  "oil change palos heights il"
+ ],
+ "services": [
+  {
+   "name": "auto repair",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "mechanic",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "oil change",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "12861 Harlem Avenue",
+  "addressLocality": "Palos Heights",
+  "addressRegion": "IL",
+  "postalCode": "60463",
+  "addressCountry": "US"
+ },
+ "city": "Palos Heights",
+ "state": "IL",
+ "zip": "60463",
+ "geo": {
+  "lat": 41.6585749,
+  "lon": -87.7955999
+ },
+ "website": "https://www.take5.com/locations/oil-change/illinois/palos-heights/31288/",
+ "brand": "Take 5",
+ "wikidata": "Q112359190",
+ "schema_type": "AutoRepair",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/1483108307",
+ "osm": {
+  "type": "way",
+  "id": 1483108307,
+  "tags_used": {
+   "shop": "car_repair"
+  }
+ },
+ "municipality": "Palos Heights",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/take-5-oil-change-palos-heights/",
+ "summary": "Take 5 Oil Change is an auto repair shop in Palos Heights, IL at 12861 Harlem Avenue, Palos Heights, IL 60463. Website: https://www.take5.com/locations/oil-change/illinois/palos-heights/31288/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

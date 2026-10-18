@@ -1,0 +1,56 @@
+{
+ "slug": "crossfit-lincolnwood",
+ "name": "CrossFit",
+ "categories": [
+  "gym"
+ ],
+ "keywords": [
+  "gym",
+  "gym lincolnwood il"
+ ],
+ "services": [
+  {
+   "name": "gym",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "7001 Central Park Avenue",
+  "addressLocality": "Lincolnwood",
+  "addressRegion": "IL",
+  "postalCode": "60712",
+  "addressCountry": "US"
+ },
+ "city": "Lincolnwood",
+ "state": "IL",
+ "zip": "60712",
+ "geo": {
+  "lat": 42.0085041,
+  "lon": -87.7180473
+ },
+ "brand": "CrossFit",
+ "wikidata": "Q2072840",
+ "schema_type": "ExerciseGym",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/13000888017",
+ "osm": {
+  "type": "node",
+  "id": 13000888017,
+  "tags_used": {
+   "leisure": "fitness_centre"
+  }
+ },
+ "municipality": "Lincolnwood",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/crossfit-lincolnwood/",
+ "summary": "CrossFit is a gym in Lincolnwood, IL at 7001 Central Park Avenue, Lincolnwood, IL 60712.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

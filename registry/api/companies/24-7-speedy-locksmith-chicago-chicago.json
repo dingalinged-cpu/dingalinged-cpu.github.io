@@ -1,0 +1,62 @@
+{
+ "slug": "24-7-speedy-locksmith-chicago-chicago",
+ "name": "24/7 Speedy Locksmith Chicago",
+ "categories": [
+  "locksmith"
+ ],
+ "keywords": [
+  "locksmith",
+  "locksmith chicago il"
+ ],
+ "services": [
+  {
+   "name": "locksmith",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1000 West Cullerton Street",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60608",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60608",
+ "geo": {
+  "lat": 41.8554488,
+  "lon": -87.6516558
+ },
+ "phone": "+13122853790",
+ "website": "https://www.chilocksmith.com/",
+ "email": "chilocksmith@gmail.com",
+ "opening_hours": "24/7",
+ "social": [
+  "https://www.facebook.com/247SpeedyLocksmith/",
+  "https://twitter.com/locksmithchi?lang=en"
+ ],
+ "schema_type": "Locksmith",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/210221630",
+ "osm": {
+  "type": "way",
+  "id": 210221630,
+  "tags_used": {
+   "shop": "locksmith"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/24-7-speedy-locksmith-chicago-chicago/",
+ "summary": "24/7 Speedy Locksmith Chicago is a locksmith in Chicago, IL at 1000 West Cullerton Street, Chicago, IL 60608. Phone: +13122853790. Website: https://www.chilocksmith.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,23 @@
+Asurion Tech Repair & Solutions is a phone repair shop in Oak Lawn, IL at 5126 West 95th Street, Oak Lawn, IL 60453.
+
+# Asurion Tech Repair & Solutions
+
+- Category: phone repair
+- Services: phone repair, computer repair, appliance repair
+- Address: 5126 West 95th Street, Oak Lawn, IL 60453
+- City: Oak Lawn
+- State: IL
+- ZIP: 60453
+- Coordinates: 41.7203545, -87.7490382
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 10:00-19:00; Su 12:00-17:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/asurion-tech-repair-and-solutions-oak-lawn/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/asurion-tech-repair-and-solutions-oak-lawn.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10740590458 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

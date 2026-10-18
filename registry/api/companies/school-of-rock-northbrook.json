@@ -1,0 +1,53 @@
+{
+ "slug": "school-of-rock-northbrook",
+ "name": "School of Rock",
+ "categories": [
+  "music lessons"
+ ],
+ "keywords": [
+  "music lessons",
+  "music lessons northbrook il"
+ ],
+ "services": [
+  {
+   "name": "music lessons",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Northbrook",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Northbrook",
+ "state": "IL",
+ "geo": {
+  "lat": 42.1371798,
+  "lon": -87.8569132
+ },
+ "brand": "School of Rock",
+ "wikidata": "Q7756376",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/9422179676",
+ "osm": {
+  "type": "node",
+  "id": 9422179676,
+  "tags_used": {
+   "amenity": "music_school"
+  }
+ },
+ "municipality": "Northbrook",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/school-of-rock-northbrook/",
+ "summary": "School of Rock is a music school in Northbrook, IL.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

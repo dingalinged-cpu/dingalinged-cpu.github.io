@@ -1,0 +1,57 @@
+{
+ "slug": "dental-care-of-oak-park-oak-park",
+ "name": "Dental Care of Oak Park",
+ "categories": [
+  "dentist"
+ ],
+ "keywords": [
+  "dentist",
+  "dentist oak park il"
+ ],
+ "services": [
+  {
+   "name": "dentist",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "101 South Oak Park Avenue",
+  "addressLocality": "Oak Park",
+  "addressRegion": "IL",
+  "postalCode": "60302",
+  "addressCountry": "US"
+ },
+ "city": "Oak Park",
+ "state": "IL",
+ "zip": "60302",
+ "geo": {
+  "lat": 41.8867791,
+  "lon": -87.7946352
+ },
+ "phone": "+17083860960",
+ "website": "https://dentalcareop.com/",
+ "schema_type": "Dentist",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/13457020986",
+ "osm": {
+  "type": "node",
+  "id": 13457020986,
+  "tags_used": {
+   "amenity": "dentist",
+   "healthcare": "dentist"
+  }
+ },
+ "municipality": "Oak Park",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/dental-care-of-oak-park-oak-park/",
+ "summary": "Dental Care of Oak Park is a dentist in Oak Park, IL at 101 South Oak Park Avenue, Oak Park, IL 60302. Phone: +17083860960. Website: https://dentalcareop.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

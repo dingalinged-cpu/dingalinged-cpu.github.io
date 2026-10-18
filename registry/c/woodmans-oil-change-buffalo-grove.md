@@ -1,0 +1,23 @@
+Woodman's Oil Change is an auto repair shop in Buffalo Grove, IL.
+
+# Woodman's Oil Change
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: Buffalo Grove, IL
+- City: Buffalo Grove
+- State: IL
+- ZIP: n/a
+- Coordinates: 42.1684561, -87.9258723
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/woodmans-oil-change-buffalo-grove/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/woodmans-oil-change-buffalo-grove.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/966267518 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

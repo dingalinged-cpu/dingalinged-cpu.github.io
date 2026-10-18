@@ -1,0 +1,51 @@
+{
+ "slug": "manheim-chicago-auto-auction-matteson",
+ "name": "Manheim Chicago Auto Auction",
+ "categories": [
+  "used cars for sale"
+ ],
+ "keywords": [
+  "used cars for sale",
+  "used cars for sale matteson il"
+ ],
+ "services": [
+  {
+   "name": "used cars for sale",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Matteson",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Matteson",
+ "state": "IL",
+ "geo": {
+  "lat": 41.5184169,
+  "lon": -87.7784278
+ },
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/4366704165",
+ "osm": {
+  "type": "node",
+  "id": 4366704165,
+  "tags_used": {
+   "shop": "car"
+  }
+ },
+ "municipality": "Matteson",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/manheim-chicago-auto-auction-matteson/",
+ "summary": "Manheim Chicago Auto Auction is an used car dealer in Matteson, IL.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

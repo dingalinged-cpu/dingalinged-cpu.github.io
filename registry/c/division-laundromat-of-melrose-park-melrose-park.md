@@ -1,0 +1,23 @@
+Division Laundromat of Melrose Park is a dentist in Melrose Park, IL at 1620 Division Street, Melrose Park, IL 60160.
+
+# Division Laundromat of Melrose Park
+
+- Category: dentist
+- Services: dentist
+- Address: 1620 Division Street, Melrose Park, IL 60160
+- City: Melrose Park
+- State: IL
+- ZIP: 60160
+- Coordinates: 41.9004288, -87.8541394
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/division-laundromat-of-melrose-park-melrose-park/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/division-laundromat-of-melrose-park-melrose-park.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13156115103 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

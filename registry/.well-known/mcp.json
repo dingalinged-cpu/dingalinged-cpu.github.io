@@ -7,7 +7,8 @@
   "get_company",
   "list_keywords",
   "keyword_price",
-  "auction_schedule"
+  "auction_schedule",
+  "keyword_market"
  ],
  "source": "agent_server/server.py"
 }

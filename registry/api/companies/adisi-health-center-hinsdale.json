@@ -1,0 +1,62 @@
+{
+ "slug": "adisi-health-center-hinsdale",
+ "name": "Adisi Health Center",
+ "categories": [
+  "chiropractor"
+ ],
+ "keywords": [
+  "chiropractor",
+  "chiropractor hinsdale il"
+ ],
+ "services": [
+  {
+   "name": "chiropractor",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "534 West Chestnut Street #240",
+  "addressLocality": "Hinsdale",
+  "addressRegion": "IL",
+  "postalCode": "60521",
+  "addressCountry": "US"
+ },
+ "city": "Hinsdale",
+ "state": "IL",
+ "zip": "60521",
+ "geo": {
+  "lat": 41.8011739,
+  "lon": -87.9384321
+ },
+ "phone": "+16308871900",
+ "website": "https://adisihealth.com/",
+ "email": "drpetzel@adisihealth.com",
+ "opening_hours": "Mo-Th 10:00-19:00",
+ "social": [
+  "https://www.facebook.com/NeighborhoodHealth"
+ ],
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/13649938839",
+ "osm": {
+  "type": "node",
+  "id": 13649938839,
+  "tags_used": {
+   "healthcare": "alternative",
+   "healthcare:speciality": "chiropractic"
+  }
+ },
+ "municipality": "Hinsdale",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/adisi-health-center-hinsdale/",
+ "summary": "Adisi Health Center is a chiropractor in Hinsdale, IL at 534 West Chestnut Street #240, Hinsdale, IL 60521. Phone: +16308871900. Website: https://adisihealth.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

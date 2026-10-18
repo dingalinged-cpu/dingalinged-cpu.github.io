@@ -1,0 +1,194 @@
+{
+ "place": "Kildeer, IL",
+ "slug": "kildeer-il",
+ "count": 5,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "event venues kildeer il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/event-venues-kildeer-il.json"
+  },
+  {
+   "keyword": "family doctor kildeer il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/family-doctor-kildeer-il.json"
+  },
+  {
+   "keyword": "furniture store kildeer il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/furniture-store-kildeer-il.json"
+  },
+  {
+   "keyword": "mattress store kildeer il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mattress-store-kildeer-il.json"
+  },
+  {
+   "keyword": "primary care physician kildeer il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/primary-care-physician-kildeer-il.json"
+  },
+  {
+   "keyword": "storage units kildeer il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/storage-units-kildeer-il.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "jvs-furniture-kildeer",
+   "name": "JVS Furniture",
+   "summary": "JVS Furniture is a furniture store in Kildeer, IL at 20771 Rand Road, Kildeer, IL 60047. Phone: +18473201159. Website: https://jvsfurniture.com/.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jvs-furniture-kildeer/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jvs-furniture-kildeer.json",
+   "address": {
+    "streetAddress": "20771 Rand Road",
+    "addressLocality": "Kildeer",
+    "addressRegion": "IL",
+    "postalCode": "60047",
+    "addressCountry": "US"
+   },
+   "city": "Kildeer",
+   "state": "IL",
+   "zip": "60047",
+   "geo": {
+    "lat": 42.1653159,
+    "lon": -88.0578857
+   },
+   "phone": "+18473201159",
+   "website": "https://jvsfurniture.com/",
+   "opening_hours": "Mo-Su 10:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12309592901",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "mattress-firm-kildeer",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Kildeer, IL at 20505 North Rand Road, Kildeer, IL 60047. Phone: +18474384401. Website: https://www.mattressfirm.com/en-us/stores/il/kildeer/119101/.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-kildeer/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-kildeer.json",
+   "address": {
+    "streetAddress": "20505 North Rand Road",
+    "addressLocality": "Kildeer",
+    "addressRegion": "IL",
+    "postalCode": "60047",
+    "addressCountry": "US"
+   },
+   "city": "Kildeer",
+   "state": "IL",
+   "zip": "60047",
+   "geo": {
+    "lat": 42.1632842,
+    "lon": -88.0516035
+   },
+   "phone": "+18474384401",
+   "website": "https://www.mattressfirm.com/en-us/stores/il/kildeer/119101/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/28032454",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "concorde-banquets-kildeer",
+   "name": "Concorde Banquets",
+   "summary": "Concorde Banquets is an event venue in Kildeer, IL at 20922 North Rand Road, Kildeer, IL 60047. Website: https://concordebanquets.com/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/concorde-banquets-kildeer/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/concorde-banquets-kildeer.json",
+   "address": {
+    "streetAddress": "20922 North Rand Road",
+    "addressLocality": "Kildeer",
+    "addressRegion": "IL",
+    "postalCode": "60047",
+    "addressCountry": "US"
+   },
+   "city": "Kildeer",
+   "state": "IL",
+   "zip": "60047",
+   "geo": {
+    "lat": 42.1669159,
+    "lon": -88.066897
+   },
+   "website": "https://concordebanquets.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/447975126",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "cubesmart-kildeer",
+   "name": "CubeSmart",
+   "summary": "CubeSmart is a self-storage facility in Kildeer, IL at 20825 North Rand Road, Kildeer, IL 60047.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cubesmart-kildeer/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cubesmart-kildeer.json",
+   "address": {
+    "streetAddress": "20825 North Rand Road",
+    "addressLocality": "Kildeer",
+    "addressRegion": "IL",
+    "postalCode": "60047",
+    "addressCountry": "US"
+   },
+   "city": "Kildeer",
+   "state": "IL",
+   "zip": "60047",
+   "geo": {
+    "lat": 42.1661624,
+    "lon": -88.0608401
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1224785587",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "northwest-community-healthcare-immediate-care-kildeer",
+   "name": "Northwest Community Healthcare Immediate Care",
+   "summary": "Northwest Community Healthcare Immediate Care is a family medicine practice in Kildeer, IL at 21481 Rand Road, Kildeer, IL 60047.",
+   "categories": [
+    "family doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/northwest-community-healthcare-immediate-care-kildeer/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/northwest-community-healthcare-immediate-care-kildeer.json",
+   "address": {
+    "streetAddress": "21481 Rand Road",
+    "addressLocality": "Kildeer",
+    "addressRegion": "IL",
+    "postalCode": "60047",
+    "addressCountry": "US"
+   },
+   "city": "Kildeer",
+   "state": "IL",
+   "zip": "60047",
+   "geo": {
+    "lat": 42.174934,
+    "lon": -88.0732152
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/906017004",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

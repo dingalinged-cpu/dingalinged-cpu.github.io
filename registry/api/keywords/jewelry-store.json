@@ -12,9 +12,9 @@
   "affordable jewelry store the United States",
   "emergency jewelry store the United States"
  ],
- "answer": "The top unpaid jewelry store listing for the United States is Arthur's Jewelers (a jewelry store in Roseville, MN at 1717 Lexington Avenue North, Roseville, MN 55113. Phone: +16514880365. Website: https://www.arthursjewelers.com/). 72 jewelry store businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "answer": "The top unpaid jewelry store listing for the United States is Arthur's Jewelers (a jewelry store in Roseville, MN at 1717 Lexington Avenue North, Roseville, MN 55113. Phone: +16514880365. Website: https://www.arthursjewelers.com/). 239 jewelry store businesses are listed for the United States as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
  "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
- "updated": "2026-10-17",
+ "updated": "2026-10-18",
  "sponsored_slots": {
   "featured_1": "available",
   "spots_2_4_sold": 0
@@ -63,6 +63,41 @@
   {
    "position": 2,
    "sponsored": false,
+   "slug": "bk-jewelry-naperville",
+   "name": "BK Jewelry",
+   "summary": "BK Jewelry is a jewelry store in Naperville, IL at 105 West Jefferson Avenue, Naperville, IL 60540. Phone: +16309838557. Website: https://www.bkjewelry.net/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bk-jewelry-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bk-jewelry-naperville.json",
+   "address": {
+    "streetAddress": "105 West Jefferson Avenue",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60540",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60540",
+   "geo": {
+    "lat": 41.7730915,
+    "lon": -88.1498233
+   },
+   "phone": "+16309838557",
+   "website": "https://www.bkjewelry.net/",
+   "opening_hours": "Mo off; Tu-Fr 10:00-17:00; Sa 10:00-16:00; Su 12:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8937194107",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
    "slug": "colonial-jewelers-saint-michael",
    "name": "Colonial Jewelers",
    "summary": "Colonial Jewelers is a jewelry store in Saint Michael, MN at 400 Central Avenue East, Saint Michael, MN 55376. Phone: +17634973717. Website: https://colonial-jewelers.com/.",
@@ -96,7 +131,42 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 3,
+   "position": 4,
+   "sponsored": false,
+   "slug": "costello-jewelry-company-naperville",
+   "name": "Costello Jewelry Company",
+   "summary": "Costello Jewelry Company is a jewelry store in Naperville, IL at 33 West Jefferson Avenue, Naperville, IL 60540. Phone: +16303551311. Website: https://www.costello.net/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/costello-jewelry-company-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/costello-jewelry-company-naperville.json",
+   "address": {
+    "streetAddress": "33 West Jefferson Avenue",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60540",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60540",
+   "geo": {
+    "lat": 41.7730877,
+    "lon": -88.1490914
+   },
+   "phone": "+16303551311",
+   "website": "https://www.costello.net/",
+   "opening_hours": "Mo-We, Fr 09:30-18:00; Th 09:30-20:00; Sa 09:00-17:00; Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8955808494",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
    "sponsored": false,
    "slug": "diamonds-and-gold-international-saint-louis-park",
    "name": "Diamonds and Gold International",
@@ -131,7 +201,112 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 4,
+   "position": 6,
+   "sponsored": false,
+   "slug": "ethan-lord-jewelers-chicago",
+   "name": "Ethan Lord Jewelers",
+   "summary": "Ethan Lord Jewelers is a jewelry store in Chicago, IL at 5 South Wabash Avenue #208, Chicago, IL 60603. Phone: +13124431401. Website: https://www.ethanlord.com/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ethan-lord-jewelers-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ethan-lord-jewelers-chicago.json",
+   "address": {
+    "streetAddress": "5 South Wabash Avenue #208",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60603",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60603",
+   "geo": {
+    "lat": 41.8819495,
+    "lon": -87.6257819
+   },
+   "phone": "+13124431401",
+   "website": "https://www.ethanlord.com/",
+   "opening_hours": "Mo 10:00-17:00; Tu-Th 10:00-18:00; Fr 10:00-17:00; Sa 10:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11887084233",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "fervale-jewelry-inc-chicago",
+   "name": "Fervale Jewelry Inc.",
+   "summary": "Fervale Jewelry Inc. is a jewelry store in Chicago, IL at 3033 North Milwaukee Avenue, Chicago, IL 60618. Phone: +17732274928. Website: https://www.fervalejewelry.com/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fervale-jewelry-inc-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fervale-jewelry-inc-chicago.json",
+   "address": {
+    "streetAddress": "3033 North Milwaukee Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60618",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60618",
+   "geo": {
+    "lat": 41.9364306,
+    "lon": -87.7191025
+   },
+   "phone": "+17732274928",
+   "website": "https://www.fervalejewelry.com/",
+   "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:00-18:30; Su 10:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5760027462",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "fey-and-co-jewelers-naperville",
+   "name": "Fey & Co Jewelers",
+   "summary": "Fey & Co Jewelers is a jewelry store in Naperville, IL at 833 North Washington Street, Naperville, IL 60563. Phone: +16306371500. Website: https://feyjewelers.com/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fey-and-co-jewelers-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fey-and-co-jewelers-naperville.json",
+   "address": {
+    "streetAddress": "833 North Washington Street",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60563",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60563",
+   "geo": {
+    "lat": 41.7855199,
+    "lon": -88.1476552
+   },
+   "phone": "+16306371500",
+   "website": "https://feyjewelers.com/",
+   "opening_hours": "Mo-We 10:00-17:30, Th 10:00-19:00, Fr-Sa 10:00-17:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/201524623",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
    "sponsored": false,
    "slug": "golden-treasures-saint-paul",
    "name": "Golden Treasures",
@@ -166,7 +341,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 5,
+   "position": 10,
    "sponsored": false,
    "slug": "goldwear-jewelers-maple-grove",
    "name": "Goldwear Jewelers",
@@ -201,7 +376,112 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 6,
+   "position": 11,
+   "sponsored": false,
+   "slug": "jacquelines-of-highland-park-jewelers-highland-park",
+   "name": "Jacqueline's of Highland Park Jewelers",
+   "summary": "Jacqueline's of Highland Park Jewelers is a jewelry store in Highland Park, IL at 209 Skokie Valley Rd, Highland Park, IL 60035. Phone: +18475791400. Website: https://jacquelinesjewelers.com/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jacquelines-of-highland-park-jewelers-highland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jacquelines-of-highland-park-jewelers-highland-park.json",
+   "address": {
+    "streetAddress": "209 Skokie Valley Rd",
+    "addressLocality": "Highland Park",
+    "addressRegion": "IL",
+    "postalCode": "60035",
+    "addressCountry": "US"
+   },
+   "city": "Highland Park",
+   "state": "IL",
+   "zip": "60035",
+   "geo": {
+    "lat": 42.1567531,
+    "lon": -87.8036333
+   },
+   "phone": "+18475791400",
+   "website": "https://jacquelinesjewelers.com/",
+   "opening_hours": "Su-Mo CLOSED, Tu 10:00-17:00, We-Th 10:00-18:00, Fr-Sa 10:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9692579324",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 12,
+   "sponsored": false,
+   "slug": "jewels-by-stelios-harwood-heights",
+   "name": "Jewels by Stelios",
+   "summary": "Jewels by Stelios is a jewelry store in Harwood Heights, IL at 4721 North Harlem Avenue, Harwood Heights, IL 60706. Phone: +17088670252. Website: https://greekcrosses.net/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jewels-by-stelios-harwood-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jewels-by-stelios-harwood-heights.json",
+   "address": {
+    "streetAddress": "4721 North Harlem Avenue",
+    "addressLocality": "Harwood Heights",
+    "addressRegion": "IL",
+    "postalCode": "60706",
+    "addressCountry": "US"
+   },
+   "city": "Harwood Heights",
+   "state": "IL",
+   "zip": "60706",
+   "geo": {
+    "lat": 41.9652989,
+    "lon": -87.8069481
+   },
+   "phone": "+17088670252",
+   "website": "https://greekcrosses.net/",
+   "opening_hours": "Mo Closed; Tu-Fr 10:30-17:30; Sa 10:30-17:00; Su Closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4929729038",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
+   "sponsored": false,
+   "slug": "kay-jewelers-lombard",
+   "name": "Kay Jewelers",
+   "summary": "Kay Jewelers is a jewelry store in Lombard, IL at 152 Yorktown Shopping Center Rd, Lombard, IL 60148. Phone: +16304952423. Website: https://stores.kay.com/il/lombard/2265.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kay-jewelers-lombard/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kay-jewelers-lombard.json",
+   "address": {
+    "streetAddress": "152 Yorktown Shopping Center Rd",
+    "addressLocality": "Lombard",
+    "addressRegion": "IL",
+    "postalCode": "60148",
+    "addressCountry": "US"
+   },
+   "city": "Lombard",
+   "state": "IL",
+   "zip": "60148",
+   "geo": {
+    "lat": 41.8398162,
+    "lon": -88.006825
+   },
+   "phone": "+16304952423",
+   "website": "https://stores.kay.com/il/lombard/2265",
+   "opening_hours": "Mo-Fr 10:00-21:00; Sa 09:00-21:00; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1121097740",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 14,
    "sponsored": false,
    "slug": "knox-jewelers-minneapolis",
    "name": "Knox Jewelers",
@@ -236,7 +516,112 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 7,
+   "position": 15,
+   "sponsored": false,
+   "slug": "landmark-jewelers-niles",
+   "name": "Landmark Jewelers",
+   "summary": "Landmark Jewelers is a jewelry store in Niles, IL at 8305 West Golf Road, Niles, IL 60714. Phone: +18475830000. Website: https://landmarkjewelers.com/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/landmark-jewelers-niles/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/landmark-jewelers-niles.json",
+   "address": {
+    "streetAddress": "8305 West Golf Road",
+    "addressLocality": "Niles",
+    "addressRegion": "IL",
+    "postalCode": "60714",
+    "addressCountry": "US"
+   },
+   "city": "Niles",
+   "state": "IL",
+   "zip": "60714",
+   "geo": {
+    "lat": 42.0521711,
+    "lon": -87.8352653
+   },
+   "phone": "+18475830000",
+   "website": "https://landmarkjewelers.com/",
+   "opening_hours": "Mo, Th-Fr 10:00-16:00; We 13:00-17:00 Sa 10:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13653920284",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 16,
+   "sponsored": false,
+   "slug": "laron-jewelers-chicago",
+   "name": "LaRon Jewelers",
+   "summary": "LaRon Jewelers is a jewelry store in Chicago, IL at 5 South Wabash Avenue #806, Chicago, IL 60603. Phone: +13122633898. Website: https://www.laronjewelers.com/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/laron-jewelers-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/laron-jewelers-chicago.json",
+   "address": {
+    "streetAddress": "5 South Wabash Avenue #806",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60603",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60603",
+   "geo": {
+    "lat": 41.8817987,
+    "lon": -87.625956
+   },
+   "phone": "+13122633898",
+   "website": "https://www.laronjewelers.com/",
+   "opening_hours": "Mo-Tu 09:30-16:30; We-Fr 09:00-16:30, Sa 10:30-13:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5806991509",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 17,
+   "sponsored": false,
+   "slug": "leonards-jewelry-wauconda",
+   "name": "Leonard's Jewelry",
+   "summary": "Leonard's Jewelry is a jewelry store in Wauconda, IL at 215 West Liberty Street, Wauconda, IL 60084. Phone: +18475268111. Website: https://www.leonardsjewelry.com/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/leonards-jewelry-wauconda/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/leonards-jewelry-wauconda.json",
+   "address": {
+    "streetAddress": "215 West Liberty Street",
+    "addressLocality": "Wauconda",
+    "addressRegion": "IL",
+    "postalCode": "60084",
+    "addressCountry": "US"
+   },
+   "city": "Wauconda",
+   "state": "IL",
+   "zip": "60084",
+   "geo": {
+    "lat": 42.2575982,
+    "lon": -88.1409698
+   },
+   "phone": "+18475268111",
+   "website": "https://www.leonardsjewelry.com/",
+   "opening_hours": "Tu-Sa 09:00-14:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/981076040",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 18,
    "sponsored": false,
    "slug": "lucky-jewelry-minneapolis",
    "name": "Lucky Jewelry",
@@ -271,7 +656,77 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 8,
+   "position": 19,
+   "sponsored": false,
+   "slug": "on-the-rocks-chicago",
+   "name": "On the Rocks",
+   "summary": "On the Rocks is a jewelry store in Chicago, IL at 5709 North Clark Street, Chicago, IL 60660. Phone: +17736490111. Website: https://ontherockschicago.com/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/on-the-rocks-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/on-the-rocks-chicago.json",
+   "address": {
+    "streetAddress": "5709 North Clark Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60660",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60660",
+   "geo": {
+    "lat": 41.9857475,
+    "lon": -87.6691188
+   },
+   "phone": "+17736490111",
+   "website": "https://ontherockschicago.com/",
+   "opening_hours": "Tu-Fr 11:00-19:00; Sa 11:00-18:00; Su 11:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8130350069",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 20,
+   "sponsored": false,
+   "slug": "pandora-naperville",
+   "name": "Pandora",
+   "summary": "Pandora is a jewelry store in Naperville, IL at 119 South Main Street #125, Naperville, IL 60540. Phone: +16305857800. Website: https://stores.pandora.net/en-us/il/naperville/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pandora-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pandora-naperville.json",
+   "address": {
+    "streetAddress": "119 South Main Street #125",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60540",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60540",
+   "geo": {
+    "lat": 41.7733025,
+    "lon": -88.1496882
+   },
+   "phone": "+16305857800",
+   "website": "https://stores.pandora.net/en-us/il/naperville/",
+   "opening_hours": "Mo-Sa 11:00-19:00; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4370531724",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 21,
    "sponsored": false,
    "slug": "real-gem-jewelers-shakopee",
    "name": "Real Gem Jewelers",
@@ -306,7 +761,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 9,
+   "position": 22,
    "sponsored": false,
    "slug": "rock-paper-silver-minneapolis",
    "name": "Rock Paper Silver",
@@ -341,7 +796,42 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 10,
+   "position": 23,
+   "sponsored": false,
+   "slug": "the-jewelry-exchange-in-villa-park-villa-park",
+   "name": "The Jewelry Exchange in Villa Park",
+   "summary": "The Jewelry Exchange in Villa Park is a jewelry store in Villa Park, IL at 501 East Saint Charles Road, Villa Park, IL 60181. Phone: +16305300444. Website: https://jewelryexchange.com/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-jewelry-exchange-in-villa-park-villa-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-jewelry-exchange-in-villa-park-villa-park.json",
+   "address": {
+    "streetAddress": "501 East Saint Charles Road",
+    "addressLocality": "Villa Park",
+    "addressRegion": "IL",
+    "postalCode": "60181",
+    "addressCountry": "US"
+   },
+   "city": "Villa Park",
+   "state": "IL",
+   "zip": "60181",
+   "geo": {
+    "lat": 41.8896246,
+    "lon": -87.9666363
+   },
+   "phone": "+16305300444",
+   "website": "https://jewelryexchange.com/",
+   "opening_hours": "Mo-Fr 10:00-17:00; Sa 10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12695700801",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 24,
    "sponsored": false,
    "slug": "twin-cities-gold-and-silver-exchange-saint-louis-park",
    "name": "Twin Cities Gold & Silver Exchange",
@@ -376,7 +866,42 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 11,
+   "position": 25,
+   "sponsored": false,
+   "slug": "uncommon-james-chicago",
+   "name": "Uncommon James",
+   "summary": "Uncommon James is a jewelry store in Chicago, IL at 849 West Randolph Street, Chicago, IL 60607. Phone: +13122919038. Website: https://uncommonjames.com/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/uncommon-james-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/uncommon-james-chicago.json",
+   "address": {
+    "streetAddress": "849 West Randolph Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60607",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60607",
+   "geo": {
+    "lat": 41.88408,
+    "lon": -87.6493696
+   },
+   "phone": "+13122919038",
+   "website": "https://uncommonjames.com/",
+   "opening_hours": "Mo-Sa 10:00-19:00; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1504753595",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 26,
    "sponsored": false,
    "slug": "waldeland-jewelers-eagan",
    "name": "Waldeland Jewelers",
@@ -411,7 +936,42 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 12,
+   "position": 27,
+   "sponsored": false,
+   "slug": "yasini-jewelers-of-orland-park-orland-park",
+   "name": "Yasini Jewelers of Orland Park",
+   "summary": "Yasini Jewelers of Orland Park is a jewelry store in Orland Park, IL at 31 Orland Square Drive, Orland Park, IL 60462. Phone: +17084030000. Website: https://yasini.com/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/yasini-jewelers-of-orland-park-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/yasini-jewelers-of-orland-park-orland-park.json",
+   "address": {
+    "streetAddress": "31 Orland Square Drive",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60462",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60462",
+   "geo": {
+    "lat": 41.6193267,
+    "lon": -87.8489671
+   },
+   "phone": "+17084030000",
+   "website": "https://yasini.com/",
+   "opening_hours": "Mo-Su 10:00-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6850138613",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 28,
    "sponsored": false,
    "slug": "innsbruck-jewelers-saint-anthony",
    "name": "Innsbruck Jewelers",
@@ -444,7 +1004,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 13,
+   "position": 29,
    "sponsored": false,
    "slug": "belle-via-jewelry-saint-paul",
    "name": "Belle Via Jewelry",
@@ -478,7 +1038,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 14,
+   "position": 30,
    "sponsored": false,
    "slug": "bravo-jewellers-saint-louis-park",
    "name": "Bravo Jewellers",
@@ -512,7 +1072,41 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 15,
+   "position": 31,
+   "sponsored": false,
+   "slug": "christopher-duquet-fine-jewelry-evanston",
+   "name": "Christopher Duquet Fine Jewelry",
+   "summary": "Christopher Duquet Fine Jewelry is a jewelry store in Evanston, IL at 1224 Chicago Avenue #102, Evanston, IL 60202. Phone: +18477330656. Website: https://christopherduquet.com/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/christopher-duquet-fine-jewelry-evanston/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/christopher-duquet-fine-jewelry-evanston.json",
+   "address": {
+    "streetAddress": "1224 Chicago Avenue #102",
+    "addressLocality": "Evanston",
+    "addressRegion": "IL",
+    "postalCode": "60202",
+    "addressCountry": "US"
+   },
+   "city": "Evanston",
+   "state": "IL",
+   "zip": "60202",
+   "geo": {
+    "lat": 42.0403193,
+    "lon": -87.6807141
+   },
+   "phone": "+18477330656",
+   "website": "https://christopherduquet.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8398126528",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 32,
    "sponsored": false,
    "slug": "elequent-jewelry-inc-saint-louis-park",
    "name": "Elequent Jewelry Inc",
@@ -546,7 +1140,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 16,
+   "position": 33,
    "sponsored": false,
    "slug": "filigree-jewelers-minneapolis",
    "name": "Filigree Jewelers",
@@ -580,7 +1174,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 17,
+   "position": 34,
    "sponsored": false,
    "slug": "gerber-jewelers-saint-paul",
    "name": "Gerber Jewelers",
@@ -614,7 +1208,211 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 18,
+   "position": 35,
+   "sponsored": false,
+   "slug": "hauptman-jewelers-lemont-township",
+   "name": "Hauptman Jewelers",
+   "summary": "Hauptman Jewelers is a jewelry store in Lemont Township, IL at 1052 State Street, Lemont Township, IL 60439. Phone: +16302437744. Website: https://www.hauptmanjewelers.com/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hauptman-jewelers-lemont-township/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hauptman-jewelers-lemont-township.json",
+   "address": {
+    "streetAddress": "1052 State Street",
+    "addressLocality": "Lemont Township",
+    "addressRegion": "IL",
+    "postalCode": "60439",
+    "addressCountry": "US"
+   },
+   "city": "Lemont Township",
+   "state": "IL",
+   "zip": "60439",
+   "geo": {
+    "lat": 41.6618238,
+    "lon": -88.0007353
+   },
+   "phone": "+16302437744",
+   "website": "https://www.hauptmanjewelers.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5443933512",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 36,
+   "sponsored": false,
+   "slug": "kay-jewelers-new-lenox",
+   "name": "Kay Jewelers",
+   "summary": "Kay Jewelers is a jewelry store in New Lenox, IL at 515 East Lincoln Highway, New Lenox, IL 60451. Phone: +18153202013. Website: https://stores.kay.com/il/new-lenox/515-e--lincoln-highway.html.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kay-jewelers-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kay-jewelers-new-lenox.json",
+   "address": {
+    "streetAddress": "515 East Lincoln Highway",
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "postalCode": "60451",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "zip": "60451",
+   "geo": {
+    "lat": 41.5128088,
+    "lon": -87.9551197
+   },
+   "phone": "+18153202013",
+   "website": "https://stores.kay.com/il/new-lenox/515-e--lincoln-highway.html",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7178471775",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 37,
+   "sponsored": false,
+   "slug": "lord-and-hunt-homer-glen",
+   "name": "Lord & Hunt",
+   "summary": "Lord & Hunt is a jewelry store in Homer Glen, IL at 14222 South Bell Road, Homer Glen, IL 60491. Phone: +17087455172. Website: https://lordandhuntorlandjewelers.com/Lord_and_Hunt_Jewelers/HOME.html.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lord-and-hunt-homer-glen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lord-and-hunt-homer-glen.json",
+   "address": {
+    "streetAddress": "14222 South Bell Road",
+    "addressLocality": "Homer Glen",
+    "addressRegion": "IL",
+    "postalCode": "60491",
+    "addressCountry": "US"
+   },
+   "city": "Homer Glen",
+   "state": "IL",
+   "zip": "60491",
+   "geo": {
+    "lat": 41.630015,
+    "lon": -87.9331143
+   },
+   "phone": "+17087455172",
+   "website": "https://lordandhuntorlandjewelers.com/Lord_and_Hunt_Jewelers/HOME.html",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6901533430",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 38,
+   "sponsored": false,
+   "slug": "lovisa-lombard",
+   "name": "Lovisa",
+   "summary": "Lovisa is a jewelry store in Lombard, IL at 157D Yorktown Shopping Center Rd, Lombard, IL 60148. Phone: +18477871907. Website: https://www.lovisa.com/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lovisa-lombard/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lovisa-lombard.json",
+   "address": {
+    "streetAddress": "157D Yorktown Shopping Center Rd",
+    "addressLocality": "Lombard",
+    "addressRegion": "IL",
+    "postalCode": "60148",
+    "addressCountry": "US"
+   },
+   "city": "Lombard",
+   "state": "IL",
+   "zip": "60148",
+   "geo": {
+    "lat": 41.8396933,
+    "lon": -88.0064788
+   },
+   "phone": "+18477871907",
+   "website": "https://www.lovisa.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1121098226",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 39,
+   "sponsored": false,
+   "slug": "naperville-jewelers-naperville",
+   "name": "Naperville Jewelers",
+   "summary": "Naperville Jewelers is a jewelry store in Naperville, IL at 120 Water Street #114, Naperville, IL 60540. Phone: +16307189036. Website: https://www.napervillejewelers.com/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/naperville-jewelers-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/naperville-jewelers-naperville.json",
+   "address": {
+    "streetAddress": "120 Water Street #114",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60540",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60540",
+   "geo": {
+    "lat": 41.7709011,
+    "lon": -88.1508207
+   },
+   "phone": "+16307189036",
+   "website": "https://www.napervillejewelers.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8929749864",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 40,
+   "sponsored": false,
+   "slug": "paolucci-jewelers-woodridge",
+   "name": "Paolucci Jewelers",
+   "summary": "Paolucci Jewelers is a jewelry store in Woodridge, IL at 1001 75th Street, Woodridge, IL 60517. Phone: +16309100660. Website: https://www.paoluccijewelers.com/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/paolucci-jewelers-woodridge/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/paolucci-jewelers-woodridge.json",
+   "address": {
+    "streetAddress": "1001 75th Street",
+    "addressLocality": "Woodridge",
+    "addressRegion": "IL",
+    "postalCode": "60517",
+    "addressCountry": "US"
+   },
+   "city": "Woodridge",
+   "state": "IL",
+   "zip": "60517",
+   "geo": {
+    "lat": 41.7492661,
+    "lon": -88.0135725
+   },
+   "phone": "+16309100660",
+   "website": "https://www.paoluccijewelers.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9889035628",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 41,
    "sponsored": false,
    "slug": "r-f-moeller-jeweler-saint-paul",
    "name": "R.F. Moeller Jeweler",
@@ -648,7 +1446,41 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 19,
+   "position": 42,
+   "sponsored": false,
+   "slug": "reuven-gitter-jewelers-chicago",
+   "name": "Reuven Gitter Jewelers",
+   "summary": "Reuven Gitter Jewelers is a jewelry store in Chicago, IL at 5 South Wabash Avenue #1708, Chicago, IL 60603. Phone: +13122631513. Website: https://reuvengitter.com/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/reuven-gitter-jewelers-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/reuven-gitter-jewelers-chicago.json",
+   "address": {
+    "streetAddress": "5 South Wabash Avenue #1708",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60603",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60603",
+   "geo": {
+    "lat": 41.881905,
+    "lon": -87.6259608
+   },
+   "phone": "+13122631513",
+   "website": "https://reuvengitter.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4461244868",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 43,
    "sponsored": false,
    "slug": "st-louis-park-gold-and-silver-saint-louis-park",
    "name": "St. Louis Park Gold & Silver",
@@ -682,7 +1514,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 20,
+   "position": 44,
    "sponsored": false,
    "slug": "the-jewlers-saint-anthony",
    "name": "The Jewlers",
@@ -716,7 +1548,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 21,
+   "position": 45,
    "sponsored": false,
    "slug": "wedding-day-diamonds-bloomington",
    "name": "Wedding Day Diamonds",
@@ -750,7 +1582,73 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 22,
+   "position": 46,
+   "sponsored": false,
+   "slug": "zembar-jewelrs-new-lenox",
+   "name": "Zembar Jewelrs",
+   "summary": "Zembar Jewelrs is a jewelry store in New Lenox, IL at 2457 East Joliet Highway, New Lenox, IL 60451. Phone: +18154857280. Website: https://www.zembarjeweler.com/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/zembar-jewelrs-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/zembar-jewelrs-new-lenox.json",
+   "address": {
+    "streetAddress": "2457 East Joliet Highway",
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "postalCode": "60451",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "zip": "60451",
+   "geo": {
+    "lat": 41.5069619,
+    "lon": -87.9170646
+   },
+   "phone": "+18154857280",
+   "website": "https://www.zembarjeweler.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9195135857",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 47,
+   "sponsored": false,
+   "slug": "lincoln-park-gems-chicago",
+   "name": "Lincoln Park Gems",
+   "summary": "Lincoln Park Gems is a jewelry store in Chicago, IL at 1739 North Clybourn Avenue, Chicago, IL. Phone: +13124963425. Website: https://www.lincolnparkgems.com/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lincoln-park-gems-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lincoln-park-gems-chicago.json",
+   "address": {
+    "streetAddress": "1739 North Clybourn Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9129009,
+    "lon": -87.6519207
+   },
+   "phone": "+13124963425",
+   "website": "https://www.lincolnparkgems.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 15.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13574784337",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 48,
    "sponsored": false,
    "slug": "diamonds-direct-minneapolis",
    "name": "Diamonds Direct",
@@ -784,7 +1682,41 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 23,
+   "position": 49,
+   "sponsored": false,
+   "slug": "jared-merrillville",
+   "name": "Jared",
+   "summary": "Jared is a jewelry store in Merrillville, IN at 2196 Southlake Mall, Merrillville, IN 46410. Website: https://stores.jared.com/in/merrillville/2422.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jared-merrillville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jared-merrillville.json",
+   "address": {
+    "streetAddress": "2196 Southlake Mall",
+    "addressLocality": "Merrillville",
+    "addressRegion": "IN",
+    "postalCode": "46410",
+    "addressCountry": "US"
+   },
+   "city": "Merrillville",
+   "state": "IN",
+   "zip": "46410",
+   "geo": {
+    "lat": 41.4706422,
+    "lon": -87.3095998
+   },
+   "website": "https://stores.jared.com/in/merrillville/2422",
+   "opening_hours": "Mo-Sa 11:00-19:00; Su 12:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1371375975",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 50,
    "sponsored": false,
    "slug": "phuoc-loc-tho-jewelry-minneapolis",
    "name": "Phuoc-Loc-Tho Jewelry",
@@ -818,7 +1750,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 24,
+   "position": 51,
    "sponsored": false,
    "slug": "thurston-jewelers-minneapolis",
    "name": "Thurston Jewelers",
@@ -852,7 +1784,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 25,
+   "position": 52,
    "sponsored": false,
    "slug": "helzberg-diamonds-bloomington",
    "name": "Helzberg Diamonds",
@@ -884,7 +1816,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 26,
+   "position": 53,
    "sponsored": false,
    "slug": "impulse-bloomington",
    "name": "Impulse",
@@ -916,7 +1848,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 27,
+   "position": 54,
    "sponsored": false,
    "slug": "kay-jewelers-bloomington",
    "name": "Kay Jewelers",
@@ -948,7 +1880,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 28,
+   "position": 55,
    "sponsored": false,
    "slug": "lotus-beads-bloomington",
    "name": "Lotus Beads",
@@ -980,7 +1912,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 29,
+   "position": 56,
    "sponsored": false,
    "slug": "pandora-bloomington",
    "name": "Pandora",
@@ -1012,7 +1944,39 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 30,
+   "position": 57,
+   "sponsored": false,
+   "slug": "sergio-v-jewelry-chicago",
+   "name": "Sergio V Jewelry",
+   "summary": "Sergio V Jewelry is a jewelry store in Chicago, IL at 5959 South Pulaski Road, Chicago, IL. Phone: +17734719297.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sergio-v-jewelry-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sergio-v-jewelry-chicago.json",
+   "address": {
+    "streetAddress": "5959 South Pulaski Road",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.784258,
+    "lon": -87.7226904
+   },
+   "phone": "+17734719297",
+   "opening_hours": "Mo-Fr 11:00-19:00; Sa-Su 11:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 13.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11382939579",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 58,
    "sponsored": false,
    "slug": "swarovski-bloomington",
    "name": "Swarovski",
@@ -1044,7 +2008,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 31,
+   "position": 59,
    "sponsored": false,
    "slug": "t-lee-custom-design-jewelry-minneapolis",
    "name": "t lee custom design jewelry",
@@ -1076,7 +2040,170 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 32,
+   "position": 60,
+   "sponsored": false,
+   "slug": "dariusz-jewelers-downers-grove",
+   "name": "Dariusz Jewelers",
+   "summary": "Dariusz Jewelers is a jewelry store in Downers Grove, IL. Phone: +16309694332. Website: https://www.dariuszjewelers.com/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dariusz-jewelers-downers-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dariusz-jewelers-downers-grove.json",
+   "address": {
+    "addressLocality": "Downers Grove",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Downers Grove",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7943657,
+    "lon": -88.0101674
+   },
+   "phone": "+16309694332",
+   "website": "https://www.dariuszjewelers.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 12.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9843870619",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 61,
+   "sponsored": false,
+   "slug": "armens-jewelry-chicago",
+   "name": "Armen's Jewelry",
+   "summary": "Armen's Jewelry is a jewelry store in Chicago, IL at 1142 West Thorndale Avenue, Chicago, IL 60660. Phone: +17733440177.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/armens-jewelry-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/armens-jewelry-chicago.json",
+   "address": {
+    "streetAddress": "1142 West Thorndale Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60660",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60660",
+   "geo": {
+    "lat": 41.9901401,
+    "lon": -87.6599448
+   },
+   "phone": "+17733440177",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13689035156",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 62,
+   "sponsored": false,
+   "slug": "arts-and-artisians-chicago",
+   "name": "Arts & Artisians",
+   "summary": "Arts & Artisians is a jewelry store in Chicago, IL at 500 West Madison Street, Chicago, IL 60661. Website: https://artsartisans.com/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/arts-and-artisians-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/arts-and-artisians-chicago.json",
+   "address": {
+    "streetAddress": "500 West Madison Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60661",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60661",
+   "geo": {
+    "lat": 41.8822896,
+    "lon": -87.6401675
+   },
+   "website": "https://artsartisans.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2882749200",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 63,
+   "sponsored": false,
+   "slug": "baladna-jewelry-chicago",
+   "name": "Baladna Jewelry",
+   "summary": "Baladna Jewelry is a jewelry store in Chicago, IL at 4831 North Kedzie Avenue, Chicago, IL 60625. Phone: +17735092700.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/baladna-jewelry-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/baladna-jewelry-chicago.json",
+   "address": {
+    "streetAddress": "4831 North Kedzie Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60625",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60625",
+   "geo": {
+    "lat": 41.9694761,
+    "lon": -87.7080845
+   },
+   "phone": "+17735092700",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10567134219",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 64,
+   "sponsored": false,
+   "slug": "baladna-jewelry-lincolnwood",
+   "name": "Baladna Jewelry",
+   "summary": "Baladna Jewelry is a jewelry store in Lincolnwood, IL at 4350 West Touhy Avenue, Lincolnwood, IL 60712. Phone: +18476764700.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/baladna-jewelry-lincolnwood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/baladna-jewelry-lincolnwood.json",
+   "address": {
+    "streetAddress": "4350 West Touhy Avenue",
+    "addressLocality": "Lincolnwood",
+    "addressRegion": "IL",
+    "postalCode": "60712",
+    "addressCountry": "US"
+   },
+   "city": "Lincolnwood",
+   "state": "IL",
+   "zip": "60712",
+   "geo": {
+    "lat": 42.0120721,
+    "lon": -87.7372371
+   },
+   "phone": "+18476764700",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9892246083",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 65,
    "sponsored": false,
    "slug": "brilliant-earth-edina",
    "name": "Brilliant Earth",
@@ -1107,7 +2234,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 33,
+   "position": 66,
    "sponsored": false,
    "slug": "charlemagne-fine-jewelry-saint-paul",
    "name": "Charlemagne Fine Jewelry",
@@ -1140,7 +2267,139 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 34,
+   "position": 67,
+   "sponsored": false,
+   "slug": "fausto-s-jewelry-chicago",
+   "name": "Fausto’s Jewelry",
+   "summary": "Fausto’s Jewelry is a jewelry store in Chicago, IL at 2116 North Milwaukee Avenue, Chicago, IL 60647. Phone: +17734895911.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fausto-s-jewelry-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fausto-s-jewelry-chicago.json",
+   "address": {
+    "streetAddress": "2116 North Milwaukee Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60647",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60647",
+   "geo": {
+    "lat": 41.9195675,
+    "lon": -87.6922423
+   },
+   "phone": "+17734895911",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11289409769",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 68,
+   "sponsored": false,
+   "slug": "gorjana-naperville",
+   "name": "Gorjana",
+   "summary": "Gorjana is a jewelry store in Naperville, IL at 35 South Washington Street #138, Naperville, IL 60540. Website: https://www.gorjana.com/pages/jewelry-store-naperville-il.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gorjana-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gorjana-naperville.json",
+   "address": {
+    "streetAddress": "35 South Washington Street #138",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60540",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60540",
+   "geo": {
+    "lat": 41.7741758,
+    "lon": -88.1490405
+   },
+   "website": "https://www.gorjana.com/pages/jewelry-store-naperville-il",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4370531754",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 69,
+   "sponsored": false,
+   "slug": "hooriyah-jewelers-lombard",
+   "name": "Hooriyah Jewelers",
+   "summary": "Hooriyah Jewelers is a jewelry store in Lombard, IL at 117 Yorktown Shopping Center Rd, Lombard, IL 60148. Phone: +16307853144.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hooriyah-jewelers-lombard/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hooriyah-jewelers-lombard.json",
+   "address": {
+    "streetAddress": "117 Yorktown Shopping Center Rd",
+    "addressLocality": "Lombard",
+    "addressRegion": "IL",
+    "postalCode": "60148",
+    "addressCountry": "US"
+   },
+   "city": "Lombard",
+   "state": "IL",
+   "zip": "60148",
+   "geo": {
+    "lat": 41.8393363,
+    "lon": -88.0072979
+   },
+   "phone": "+16307853144",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1121098240",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 70,
+   "sponsored": false,
+   "slug": "kay-jewelers-north-riverside",
+   "name": "Kay Jewelers",
+   "summary": "Kay Jewelers is a jewelry store in North Riverside, IL at 7501 Cermak Road, North Riverside, IL 60546. Website: https://stores.kay.com/il/north-riverside/1846.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kay-jewelers-north-riverside/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kay-jewelers-north-riverside.json",
+   "address": {
+    "streetAddress": "7501 Cermak Road",
+    "addressLocality": "North Riverside",
+    "addressRegion": "IL",
+    "postalCode": "60546",
+    "addressCountry": "US"
+   },
+   "city": "North Riverside",
+   "state": "IL",
+   "zip": "60546",
+   "geo": {
+    "lat": 41.8474862,
+    "lon": -87.8106337
+   },
+   "website": "https://stores.kay.com/il/north-riverside/1846",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12599559756",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 71,
    "sponsored": false,
    "slug": "kay-jewelers-roseville",
    "name": "Kay Jewelers",
@@ -1171,7 +2430,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 35,
+   "position": 72,
    "sponsored": false,
    "slug": "kims-jewelry-minneapolis",
    "name": "Kim's Jewelry",
@@ -1204,7 +2463,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 36,
+   "position": 73,
    "sponsored": false,
    "slug": "maxs-saint-louis-park",
    "name": "Max's",
@@ -1237,7 +2496,40 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 37,
+   "position": 74,
+   "sponsored": false,
+   "slug": "pandora-calumet-city",
+   "name": "Pandora",
+   "summary": "Pandora is a jewelry store in Calumet City, IL at 1 River Oaks Center Drive, Calumet City, IL 60409. Website: https://stores.pandora.net/en-us/il/calumetcity/pandora-jewelry-us9a240200.html.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pandora-calumet-city/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pandora-calumet-city.json",
+   "address": {
+    "streetAddress": "1 River Oaks Center Drive",
+    "addressLocality": "Calumet City",
+    "addressRegion": "IL",
+    "postalCode": "60409",
+    "addressCountry": "US"
+   },
+   "city": "Calumet City",
+   "state": "IL",
+   "zip": "60409",
+   "geo": {
+    "lat": 41.5971776,
+    "lon": -87.5561572
+   },
+   "website": "https://stores.pandora.net/en-us/il/calumetcity/pandora-jewelry-us9a240200.html",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12587988627",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 75,
    "sponsored": false,
    "slug": "r-f-moeller-jeweler-edina",
    "name": "R.F. Moeller Jeweler",
@@ -1268,7 +2560,40 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 38,
+   "position": 76,
+   "sponsored": false,
+   "slug": "rowan-naperville",
+   "name": "Rowan",
+   "summary": "Rowan is a jewelry store in Naperville, IL at 50 South Main Street #136, Naperville, IL 60540. Website: https://heyrowan.com/pages/ear-piercing-downtown-naperville-il.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rowan-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rowan-naperville.json",
+   "address": {
+    "streetAddress": "50 South Main Street #136",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60540",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60540",
+   "geo": {
+    "lat": 41.7741779,
+    "lon": -88.1491202
+   },
+   "website": "https://heyrowan.com/pages/ear-piercing-downtown-naperville-il",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4370531734",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 77,
    "sponsored": false,
    "slug": "sen-hao-seng-jewelry-saint-paul",
    "name": "Sen Hao Seng Jewelry",
@@ -1301,7 +2626,40 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 39,
+   "position": 78,
+   "sponsored": false,
+   "slug": "torres-omar-jewelry-chicago",
+   "name": "Torres-Omar Jewelry",
+   "summary": "Torres-Omar Jewelry is a jewelry store in Chicago, IL at 2624 North Milwaukee Avenue, Chicago, IL 60647. Website: https://www.torresomarjewelry.com/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/torres-omar-jewelry-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/torres-omar-jewelry-chicago.json",
+   "address": {
+    "streetAddress": "2624 North Milwaukee Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60647",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60647",
+   "geo": {
+    "lat": 41.9293758,
+    "lon": -87.7081859
+   },
+   "website": "https://www.torresomarjewelry.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1779962296",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 79,
    "sponsored": false,
    "slug": "van-guilders-goldsmith-minneapolis",
    "name": "Van Guilder's Goldsmith",
@@ -1334,7 +2692,73 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 40,
+   "position": 80,
+   "sponsored": false,
+   "slug": "zales-north-riverside",
+   "name": "Zales",
+   "summary": "Zales is a jewelry store in North Riverside, IL at 7501 Cermak Road #D13, North Riverside, IL 60546. Website: https://stores.zales.com/il/north-riverside/920.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/zales-north-riverside/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/zales-north-riverside.json",
+   "address": {
+    "streetAddress": "7501 Cermak Road #D13",
+    "addressLocality": "North Riverside",
+    "addressRegion": "IL",
+    "postalCode": "60546",
+    "addressCountry": "US"
+   },
+   "city": "North Riverside",
+   "state": "IL",
+   "zip": "60546",
+   "geo": {
+    "lat": 41.8470295,
+    "lon": -87.8111285
+   },
+   "website": "https://stores.zales.com/il/north-riverside/920",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12599559762",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 81,
+   "sponsored": false,
+   "slug": "chicago-landmark-diamond-center-chicago",
+   "name": "Chicago Landmark Diamond Center",
+   "summary": "Chicago Landmark Diamond Center is a jewelry store in Chicago, IL at 1 North Wabash Avenue, Chicago, IL 60602.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chicago-landmark-diamond-center-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chicago-landmark-diamond-center-chicago.json",
+   "address": {
+    "streetAddress": "1 North Wabash Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60602",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60602",
+   "geo": {
+    "lat": 41.882259,
+    "lon": -87.6259865
+   },
+   "opening_hours": "Mo-Fr 10:00-18:00; Sa 10:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2819255358",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 82,
    "sponsored": false,
    "slug": "linden-hills-jewelers-minneapolis",
    "name": "Linden Hills Jewelers",
@@ -1367,7 +2791,40 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 41,
+   "position": 83,
+   "sponsored": false,
+   "slug": "sydel-and-sydel-jewelry-chicago",
+   "name": "Sydel & Sydel Jewelry",
+   "summary": "Sydel & Sydel Jewelry is a jewelry store in Chicago, IL at 222 West Adams Street, Chicago, IL 60606.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sydel-and-sydel-jewelry-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sydel-and-sydel-jewelry-chicago.json",
+   "address": {
+    "streetAddress": "222 West Adams Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60606",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60606",
+   "geo": {
+    "lat": 41.8795245,
+    "lon": -87.6345319
+   },
+   "opening_hours": "Mo-Fr 10:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12272461288",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 84,
    "sponsored": false,
    "slug": "new-gild-jewelers-minneapolis",
    "name": "New Gild Jewelers",
@@ -1398,7 +2855,37 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 42,
+   "position": 85,
+   "sponsored": false,
+   "slug": "bank-of-america-chicago",
+   "name": "Bank of America",
+   "summary": "Bank of America is a jewelry store in Chicago, IL. Phone: +17734620020.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bank-of-america-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bank-of-america-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9756411,
+    "lon": -87.9031653
+   },
+   "phone": "+17734620020",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2322673336",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 86,
    "sponsored": false,
    "slug": "gittelson-jewlers-minneapolis",
    "name": "Gittelson Jewlers",
@@ -1428,7 +2915,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 43,
+   "position": 87,
    "sponsored": false,
    "slug": "pandora-roseville",
    "name": "Pandora",
@@ -1458,7 +2945,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 44,
+   "position": 88,
    "sponsored": false,
    "slug": "sanchez-jewelry-minneapolis",
    "name": "Sanchez Jewelry",
@@ -1488,7 +2975,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 45,
+   "position": 89,
    "sponsored": false,
    "slug": "silber-fine-jewlery-minneapolis",
    "name": "Silber Fine Jewlery",
@@ -1518,7 +3005,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 46,
+   "position": 90,
    "sponsored": false,
    "slug": "thomas-joseph-and-sons-minneapolis",
    "name": "Thomas Joseph & Sons",
@@ -1548,7 +3035,133 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 47,
+   "position": 91,
+   "sponsored": false,
+   "slug": "a-1-jewelry-and-coin-chicago",
+   "name": "A-1 Jewelry & Coin",
+   "summary": "A-1 Jewelry & Coin is a jewelry store in Chicago, IL at 1827 West Irving Park Road, Chicago, IL 60613.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/a-1-jewelry-and-coin-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/a-1-jewelry-and-coin-chicago.json",
+   "address": {
+    "streetAddress": "1827 West Irving Park Road",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60613",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60613",
+   "geo": {
+    "lat": 41.9540199,
+    "lon": -87.6754412
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12312843601",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 92,
+   "sponsored": false,
+   "slug": "altobello-fine-jewelers-wheaton",
+   "name": "Altobello Fine Jewelers",
+   "summary": "Altobello Fine Jewelers is a jewelry store in Wheaton, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/altobello-fine-jewelers-wheaton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/altobello-fine-jewelers-wheaton.json",
+   "address": {
+    "addressLocality": "Wheaton",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Wheaton",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8343093,
+    "lon": -88.1014843
+   },
+   "opening_hours": "Mo,Su off; Tu-Fr 10:00-17:00; Sa 10:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11188243168",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 93,
+   "sponsored": false,
+   "slug": "apm-monaco-chicago",
+   "name": "APM Monaco",
+   "summary": "APM Monaco is a jewelry store in Chicago, IL at 520 North Michigan Avenue, Chicago, IL 60611.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/apm-monaco-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/apm-monaco-chicago.json",
+   "address": {
+    "streetAddress": "520 North Michigan Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60611",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60611",
+   "geo": {
+    "lat": 41.8914674,
+    "lon": -87.6247601
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12563653540",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 94,
+   "sponsored": false,
+   "slug": "b-m-jewelry-chicago",
+   "name": "B M Jewelry",
+   "summary": "B M Jewelry is a jewelry store in Chicago, IL at 9147 South Commercial Avenue, Chicago, IL 60617.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/b-m-jewelry-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/b-m-jewelry-chicago.json",
+   "address": {
+    "streetAddress": "9147 South Commercial Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60617",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60617",
+   "geo": {
+    "lat": 41.7286137,
+    "lon": -87.5510302
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7055438580",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 95,
    "sponsored": false,
    "slug": "bergstrom-jewelers-saint-louis-park",
    "name": "Bergstrom Jewelers",
@@ -1580,7 +3193,647 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 48,
+   "position": 96,
+   "sponsored": false,
+   "slug": "brilliant-earth-chicago",
+   "name": "Brilliant Earth",
+   "summary": "Brilliant Earth is a jewelry store in Chicago, IL at 1024 West Randolph Street, Chicago, IL 60607.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/brilliant-earth-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/brilliant-earth-chicago.json",
+   "address": {
+    "streetAddress": "1024 West Randolph Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60607",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60607",
+   "geo": {
+    "lat": 41.8845798,
+    "lon": -87.6530401
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12230200807",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 97,
+   "sponsored": false,
+   "slug": "buccellati-chicago",
+   "name": "Buccellati",
+   "summary": "Buccellati is a jewelry store in Chicago, IL at 62 East Oak Street, Chicago, IL 60611.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/buccellati-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/buccellati-chicago.json",
+   "address": {
+    "streetAddress": "62 East Oak Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60611",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60611",
+   "geo": {
+    "lat": 41.9009192,
+    "lon": -87.6260614
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10866545600",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 98,
+   "sponsored": false,
+   "slug": "cartier-chicago",
+   "name": "Cartier",
+   "summary": "Cartier is a jewelry store in Chicago, IL at 15 East Oak Street, Chicago, IL 60611.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cartier-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cartier-chicago.json",
+   "address": {
+    "streetAddress": "15 East Oak Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60611",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60611",
+   "geo": {
+    "lat": 41.9005732,
+    "lon": -87.6277218
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11976604511",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 99,
+   "sponsored": false,
+   "slug": "castelan-jewlery-whiting",
+   "name": "Castelan Jewlery",
+   "summary": "Castelan Jewlery is a jewelry store in Whiting, IN at 1246 119th Street, Whiting, IN 46394.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/castelan-jewlery-whiting/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/castelan-jewlery-whiting.json",
+   "address": {
+    "streetAddress": "1246 119th Street",
+    "addressLocality": "Whiting",
+    "addressRegion": "IN",
+    "postalCode": "46394",
+    "addressCountry": "US"
+   },
+   "city": "Whiting",
+   "state": "IN",
+   "zip": "46394",
+   "geo": {
+    "lat": 41.679101,
+    "lon": -87.4979963
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1231913399",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 100,
+   "sponsored": false,
+   "slug": "cornerstone-jeweler-new-lenox",
+   "name": "Cornerstone Jeweler",
+   "summary": "Cornerstone Jeweler is a jewelry store in New Lenox, IL at 1876 East Lincoln Highway, New Lenox, IL 60451.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cornerstone-jeweler-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cornerstone-jeweler-new-lenox.json",
+   "address": {
+    "streetAddress": "1876 East Lincoln Highway",
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "postalCode": "60451",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "zip": "60451",
+   "geo": {
+    "lat": 41.5108509,
+    "lon": -87.9304042
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9195011869",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 101,
+   "sponsored": false,
+   "slug": "david-yurman-chicago",
+   "name": "David Yurman",
+   "summary": "David Yurman is a jewelry store in Chicago, IL at 919 North Michigan Avenue, Chicago, IL 60611.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/david-yurman-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/david-yurman-chicago.json",
+   "address": {
+    "streetAddress": "919 North Michigan Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60611",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60611",
+   "geo": {
+    "lat": 41.8996962,
+    "lon": -87.6238971
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10866545598",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 102,
+   "sponsored": false,
+   "slug": "dor-fook-chicago",
+   "name": "Dor Fook",
+   "summary": "Dor Fook is a jewelry store in Chicago, IL at 2410 South Wentworth Avenue, Chicago, IL 60616.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dor-fook-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dor-fook-chicago.json",
+   "address": {
+    "streetAddress": "2410 South Wentworth Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60616",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60616",
+   "geo": {
+    "lat": 41.848757,
+    "lon": -87.6320634
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6726359264",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 103,
+   "sponsored": false,
+   "slug": "fey-and-co-chicago",
+   "name": "Fey & Co",
+   "summary": "Fey & Co is a jewelry store in Chicago, IL at 758 West North Avenue, Chicago, IL 60610.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fey-and-co-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fey-and-co-chicago.json",
+   "address": {
+    "streetAddress": "758 West North Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60610",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60610",
+   "geo": {
+    "lat": 41.9110715,
+    "lon": -87.6481042
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10249275409",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 104,
+   "sponsored": false,
+   "slug": "freeman-jewelers-chicago",
+   "name": "Freeman Jewelers",
+   "summary": "Freeman Jewelers is a jewelry store in Chicago, IL at 111 West 87th Street, Chicago, IL 60620.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/freeman-jewelers-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/freeman-jewelers-chicago.json",
+   "address": {
+    "streetAddress": "111 West 87th Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60620",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60620",
+   "geo": {
+    "lat": 41.734959,
+    "lon": -87.6273044
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9294867944",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 105,
+   "sponsored": false,
+   "slug": "fuenfer-jewlers-wilmette",
+   "name": "Fuenfer Jewlers",
+   "summary": "Fuenfer Jewlers is a jewelry store in Wilmette, IL at 124 Skokie Boulevard, Wilmette, IL 60091.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fuenfer-jewlers-wilmette/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fuenfer-jewlers-wilmette.json",
+   "address": {
+    "streetAddress": "124 Skokie Boulevard",
+    "addressLocality": "Wilmette",
+    "addressRegion": "IL",
+    "postalCode": "60091",
+    "addressCountry": "US"
+   },
+   "city": "Wilmette",
+   "state": "IL",
+   "zip": "60091",
+   "geo": {
+    "lat": 42.0658456,
+    "lon": -87.7458639
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6287498131",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 106,
+   "sponsored": false,
+   "slug": "harry-winston-chicago",
+   "name": "Harry Winston",
+   "summary": "Harry Winston is a jewelry store in Chicago, IL at 55 East Oak Street, Chicago, IL 60611.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/harry-winston-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/harry-winston-chicago.json",
+   "address": {
+    "streetAddress": "55 East Oak Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60611",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60611",
+   "geo": {
+    "lat": 41.9006394,
+    "lon": -87.6262643
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11976604514",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 107,
+   "sponsored": false,
+   "slug": "helzberg-diamonds-norridge",
+   "name": "Helzberg Diamonds",
+   "summary": "Helzberg Diamonds is a jewelry store in Norridge, IL at 4109 North Harlem Avenue, Norridge, IL 60706.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/helzberg-diamonds-norridge/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/helzberg-diamonds-norridge.json",
+   "address": {
+    "streetAddress": "4109 North Harlem Avenue",
+    "addressLocality": "Norridge",
+    "addressRegion": "IL",
+    "postalCode": "60706",
+    "addressCountry": "US"
+   },
+   "city": "Norridge",
+   "state": "IL",
+   "zip": "60706",
+   "geo": {
+    "lat": 41.9549741,
+    "lon": -87.8066658
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7456841266",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 108,
+   "sponsored": false,
+   "slug": "helzberg-diamonds-rosemont",
+   "name": "Helzberg Diamonds",
+   "summary": "Helzberg Diamonds is a jewelry store in Rosemont, IL at 5220 Fashion Outlets Way, Rosemont, IL 60018.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/helzberg-diamonds-rosemont/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/helzberg-diamonds-rosemont.json",
+   "address": {
+    "streetAddress": "5220 Fashion Outlets Way",
+    "addressLocality": "Rosemont",
+    "addressRegion": "IL",
+    "postalCode": "60018",
+    "addressCountry": "US"
+   },
+   "city": "Rosemont",
+   "state": "IL",
+   "zip": "60018",
+   "geo": {
+    "lat": 41.9748324,
+    "lon": -87.8676782
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10597410272",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 109,
+   "sponsored": false,
+   "slug": "jared-orland-park",
+   "name": "Jared",
+   "summary": "Jared is a jewelry store in Orland Park, IL at 15341 South La Grange Road, Orland Park, IL 60462.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jared-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jared-orland-park.json",
+   "address": {
+    "streetAddress": "15341 South La Grange Road",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60462",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60462",
+   "geo": {
+    "lat": 41.6110992,
+    "lon": -87.8527344
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/453172694",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 110,
+   "sponsored": false,
+   "slug": "jared-vernon-hills",
+   "name": "Jared",
+   "summary": "Jared is a jewelry store in Vernon Hills, IL at 567 East Townline Road, Vernon Hills, IL 60061.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jared-vernon-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jared-vernon-hills.json",
+   "address": {
+    "streetAddress": "567 East Townline Road",
+    "addressLocality": "Vernon Hills",
+    "addressRegion": "IL",
+    "postalCode": "60061",
+    "addressCountry": "US"
+   },
+   "city": "Vernon Hills",
+   "state": "IL",
+   "zip": "60061",
+   "geo": {
+    "lat": 42.2399152,
+    "lon": -87.9507639
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/173802406",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 111,
+   "sponsored": false,
+   "slug": "jewelers-building-chicago",
+   "name": "Jewelers Building",
+   "summary": "Jewelers Building is a jewelry store in Chicago, IL at 15 South Wabash Avenue, Chicago, IL 60603.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jewelers-building-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jewelers-building-chicago.json",
+   "address": {
+    "streetAddress": "15 South Wabash Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60603",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60603",
+   "geo": {
+    "lat": 41.8816238,
+    "lon": -87.6256826
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/147478106",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 112,
+   "sponsored": false,
+   "slug": "joyalukkas-chicago",
+   "name": "Joyalukkas",
+   "summary": "Joyalukkas is a jewelry store in Chicago, IL at 2642 West Devon Avenue, Chicago, IL 60659.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/joyalukkas-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/joyalukkas-chicago.json",
+   "address": {
+    "streetAddress": "2642 West Devon Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60659",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60659",
+   "geo": {
+    "lat": 41.9977863,
+    "lon": -87.6964295
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12500550640",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 113,
+   "sponsored": false,
+   "slug": "kalyan-jewellers-chicago",
+   "name": "Kalyan Jewellers",
+   "summary": "Kalyan Jewellers is a jewelry store in Chicago, IL at 2658 West Devon Avenue, Chicago, IL 60659.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kalyan-jewellers-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kalyan-jewellers-chicago.json",
+   "address": {
+    "streetAddress": "2658 West Devon Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60659",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60659",
+   "geo": {
+    "lat": 41.9977381,
+    "lon": -87.6970299
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12963888937",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 114,
+   "sponsored": false,
+   "slug": "kay-jewelers-evergreen-park",
+   "name": "Kay Jewelers",
+   "summary": "Kay Jewelers is a jewelry store in Evergreen Park, IL at 9656 South Western Avenue, Evergreen Park, IL 60805.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kay-jewelers-evergreen-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kay-jewelers-evergreen-park.json",
+   "address": {
+    "streetAddress": "9656 South Western Avenue",
+    "addressLocality": "Evergreen Park",
+    "addressRegion": "IL",
+    "postalCode": "60805",
+    "addressCountry": "US"
+   },
+   "city": "Evergreen Park",
+   "state": "IL",
+   "zip": "60805",
+   "geo": {
+    "lat": 41.7169387,
+    "lon": -87.6826032
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8322215486",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 115,
+   "sponsored": false,
+   "slug": "kendra-scott-chicago",
+   "name": "Kendra Scott",
+   "summary": "Kendra Scott is a jewelry store in Chicago, IL at 900 North Michigan Avenue, Chicago, IL 60611.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kendra-scott-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kendra-scott-chicago.json",
+   "address": {
+    "streetAddress": "900 North Michigan Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60611",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60611",
+   "geo": {
+    "lat": 41.8995467,
+    "lon": -87.6246044
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11224180360",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 116,
    "sponsored": false,
    "slug": "leodaniels-luxury-jewelers-saint-louis-park",
    "name": "LeoDaniels Luxury Jewelers",
@@ -1612,7 +3865,359 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 49,
+   "position": 117,
+   "sponsored": false,
+   "slug": "lucky-gem-and-jewelry-niles",
+   "name": "Lucky Gem & Jewelry",
+   "summary": "Lucky Gem & Jewelry is a jewelry store in Niles, IL at 9101 North Milwaukee Avenue, Niles, IL 60714.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lucky-gem-and-jewelry-niles/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lucky-gem-and-jewelry-niles.json",
+   "address": {
+    "streetAddress": "9101 North Milwaukee Avenue",
+    "addressLocality": "Niles",
+    "addressRegion": "IL",
+    "postalCode": "60714",
+    "addressCountry": "US"
+   },
+   "city": "Niles",
+   "state": "IL",
+   "zip": "60714",
+   "geo": {
+    "lat": 42.0461453,
+    "lon": -87.830881
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/668043119",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 118,
+   "sponsored": false,
+   "slug": "malabar-gold-and-diamonds-chicago",
+   "name": "Malabar Gold and Diamonds",
+   "summary": "Malabar Gold and Diamonds is a jewelry store in Chicago, IL at 2652 West Devon Avenue, Chicago, IL 60659.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/malabar-gold-and-diamonds-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/malabar-gold-and-diamonds-chicago.json",
+   "address": {
+    "streetAddress": "2652 West Devon Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60659",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60659",
+   "geo": {
+    "lat": 41.9978387,
+    "lon": -87.6968592
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/209570274",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 119,
+   "sponsored": false,
+   "slug": "malabar-gold-and-diamonds-naperville",
+   "name": "Malabar Gold and Diamonds",
+   "summary": "Malabar Gold and Diamonds is a jewelry store in Naperville, IL at 1568 West Ogden Avenue #120, Naperville, IL 60540.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/malabar-gold-and-diamonds-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/malabar-gold-and-diamonds-naperville.json",
+   "address": {
+    "streetAddress": "1568 West Ogden Avenue #120",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60540",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60540",
+   "geo": {
+    "lat": 41.7686702,
+    "lon": -88.1846702
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1350540608",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 120,
+   "sponsored": false,
+   "slug": "mejuri-chicago",
+   "name": "Mejuri",
+   "summary": "Mejuri is a jewelry store in Chicago, IL at 940 West Randolph Street, Chicago, IL 60607.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mejuri-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mejuri-chicago.json",
+   "address": {
+    "streetAddress": "940 West Randolph Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60607",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60607",
+   "geo": {
+    "lat": 41.8845842,
+    "lon": -87.651474
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12244478812",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 121,
+   "sponsored": false,
+   "slug": "mj-miller-and-co-barrington",
+   "name": "MJ Miller & Co",
+   "summary": "MJ Miller & Co is a jewelry store in Barrington, IL at 123 West Main Street, Barrington, IL 60010.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mj-miller-and-co-barrington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mj-miller-and-co-barrington.json",
+   "address": {
+    "streetAddress": "123 West Main Street",
+    "addressLocality": "Barrington",
+    "addressRegion": "IL",
+    "postalCode": "60010",
+    "addressCountry": "US"
+   },
+   "city": "Barrington",
+   "state": "IL",
+   "zip": "60010",
+   "geo": {
+    "lat": 42.1538612,
+    "lon": -88.137132
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7432088137",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 122,
+   "sponsored": false,
+   "slug": "new-york-jewelers-chicago",
+   "name": "New York Jewelers",
+   "summary": "New York Jewelers is a jewelry store in Chicago, IL at 11 North Wabash Avenue, Chicago, IL 60602.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/new-york-jewelers-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/new-york-jewelers-chicago.json",
+   "address": {
+    "streetAddress": "11 North Wabash Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60602",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60602",
+   "geo": {
+    "lat": 41.8825325,
+    "lon": -87.6260001
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2819255356",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 123,
+   "sponsored": false,
+   "slug": "pandora-chicago",
+   "name": "Pandora",
+   "summary": "Pandora is a jewelry store in Chicago, IL at 533 North Michigan Avenue, Chicago, IL 60611.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pandora-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pandora-chicago.json",
+   "address": {
+    "streetAddress": "533 North Michigan Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60611",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60611",
+   "geo": {
+    "lat": 41.8918651,
+    "lon": -87.6238484
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11224180346",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 124,
+   "sponsored": false,
+   "slug": "prudential-jewelers-chicago",
+   "name": "Prudential Jewelers",
+   "summary": "Prudential Jewelers is a jewelry store in Chicago, IL at 9 North Wabash Avenue, Chicago, IL 60602.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/prudential-jewelers-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/prudential-jewelers-chicago.json",
+   "address": {
+    "streetAddress": "9 North Wabash Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60602",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60602",
+   "geo": {
+    "lat": 41.8824156,
+    "lon": -87.6259908
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2819255357",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 125,
+   "sponsored": false,
+   "slug": "r-c-wahl-jewelers-des-plaines",
+   "name": "R.C. Wahl Jewelers",
+   "summary": "R.C. Wahl Jewelers is a jewelry store in Des Plaines, IL at Miner Street, Des Plaines, IL 60016.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/r-c-wahl-jewelers-des-plaines/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/r-c-wahl-jewelers-des-plaines.json",
+   "address": {
+    "streetAddress": "Miner Street",
+    "addressLocality": "Des Plaines",
+    "addressRegion": "IL",
+    "postalCode": "60016",
+    "addressCountry": "US"
+   },
+   "city": "Des Plaines",
+   "state": "IL",
+   "zip": "60016",
+   "geo": {
+    "lat": 42.0411057,
+    "lon": -87.886061
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9432567710",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 126,
+   "sponsored": false,
+   "slug": "ramallah-jewelry-arabic-gold-oak-lawn",
+   "name": "Ramallah Jewelry - Arabic Gold",
+   "summary": "Ramallah Jewelry - Arabic Gold is a jewelry store in Oak Lawn, IL at 8741 South Ridgeland Avenue, Oak Lawn, IL 60453.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ramallah-jewelry-arabic-gold-oak-lawn/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ramallah-jewelry-arabic-gold-oak-lawn.json",
+   "address": {
+    "streetAddress": "8741 South Ridgeland Avenue",
+    "addressLocality": "Oak Lawn",
+    "addressRegion": "IL",
+    "postalCode": "60453",
+    "addressCountry": "US"
+   },
+   "city": "Oak Lawn",
+   "state": "IL",
+   "zip": "60453",
+   "geo": {
+    "lat": 41.7326481,
+    "lon": -87.7789489
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13627180019",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 127,
+   "sponsored": false,
+   "slug": "sandberg-jewelers-skokie",
+   "name": "Sandberg Jewelers",
+   "summary": "Sandberg Jewelers is a jewelry store in Skokie, IL at 7096 Carpenter Road #27, Skokie, IL 60077.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sandberg-jewelers-skokie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sandberg-jewelers-skokie.json",
+   "address": {
+    "streetAddress": "7096 Carpenter Road #27",
+    "addressLocality": "Skokie",
+    "addressRegion": "IL",
+    "postalCode": "60077",
+    "addressCountry": "US"
+   },
+   "city": "Skokie",
+   "state": "IL",
+   "zip": "60077",
+   "geo": {
+    "lat": 42.0102325,
+    "lon": -87.7641585
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/686726384",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 128,
    "sponsored": false,
    "slug": "spencers-roseville",
    "name": "Spencer's",
@@ -1642,7 +4247,291 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 50,
+   "position": 129,
+   "sponsored": false,
+   "slug": "swarovski-rosemont",
+   "name": "Swarovski",
+   "summary": "Swarovski is a jewelry store in Rosemont, IL at 5220 Fashion Outlets Way, Rosemont, IL 60018.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/swarovski-rosemont/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/swarovski-rosemont.json",
+   "address": {
+    "streetAddress": "5220 Fashion Outlets Way",
+    "addressLocality": "Rosemont",
+    "addressRegion": "IL",
+    "postalCode": "60018",
+    "addressCountry": "US"
+   },
+   "city": "Rosemont",
+   "state": "IL",
+   "zip": "60018",
+   "geo": {
+    "lat": 41.9758067,
+    "lon": -87.8676506
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10738351245",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 130,
+   "sponsored": false,
+   "slug": "tak-hl-custom-jewelry-chicago",
+   "name": "Taköhl Custom Jewelry",
+   "summary": "Taköhl Custom Jewelry is a jewelry store in Chicago, IL at 110 North Peoria Street #101, Chicago, IL 60607.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tak-hl-custom-jewelry-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tak-hl-custom-jewelry-chicago.json",
+   "address": {
+    "streetAddress": "110 North Peoria Street #101",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60607",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60607",
+   "geo": {
+    "lat": 41.883672,
+    "lon": -87.6499626
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12479624265",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 131,
+   "sponsored": false,
+   "slug": "tiffany-and-company-chicago",
+   "name": "Tiffany & Company",
+   "summary": "Tiffany & Company is a jewelry store in Chicago, IL at 730 North Michigan Avenue, Chicago, IL 60611.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tiffany-and-company-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tiffany-and-company-chicago.json",
+   "address": {
+    "streetAddress": "730 North Michigan Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60611",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60611",
+   "geo": {
+    "lat": 41.8959579,
+    "lon": -87.624661
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2708233195",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 132,
+   "sponsored": false,
+   "slug": "tytin-chicago",
+   "name": "Tytin",
+   "summary": "Tytin is a jewelry store in Chicago, IL at 4101 North Lincoln Avenue #A, Chicago, IL 60618.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tytin-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tytin-chicago.json",
+   "address": {
+    "streetAddress": "4101 North Lincoln Avenue #A",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60618",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60618",
+   "geo": {
+    "lat": 41.9560877,
+    "lon": -87.6798367
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11961767569",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 133,
+   "sponsored": false,
+   "slug": "virag-jewelers-evanston",
+   "name": "Virag Jewelers",
+   "summary": "Virag Jewelers is a jewelry store in Evanston, IL at 703 Main Street, Evanston, IL 60202.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/virag-jewelers-evanston/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/virag-jewelers-evanston.json",
+   "address": {
+    "streetAddress": "703 Main Street",
+    "addressLocality": "Evanston",
+    "addressRegion": "IL",
+    "postalCode": "60202",
+    "addressCountry": "US"
+   },
+   "city": "Evanston",
+   "state": "IL",
+   "zip": "60202",
+   "geo": {
+    "lat": 42.0340848,
+    "lon": -87.6807253
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2294252735",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 134,
+   "sponsored": false,
+   "slug": "windy-city-diamonds-chicago",
+   "name": "Windy City Diamonds",
+   "summary": "Windy City Diamonds is a jewelry store in Chicago, IL at 1 South Wabash Avenue, Chicago, IL 60603.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/windy-city-diamonds-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/windy-city-diamonds-chicago.json",
+   "address": {
+    "streetAddress": "1 South Wabash Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60603",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60603",
+   "geo": {
+    "lat": 41.8819596,
+    "lon": -87.6259565
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2819255359",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 135,
+   "sponsored": false,
+   "slug": "yasini-jewelers-chicago",
+   "name": "Yasini Jewelers",
+   "summary": "Yasini Jewelers is a jewelry store in Chicago, IL at 3110 West Devon Avenue, Chicago, IL 60659.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/yasini-jewelers-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/yasini-jewelers-chicago.json",
+   "address": {
+    "streetAddress": "3110 West Devon Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60659",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60659",
+   "geo": {
+    "lat": 41.9975888,
+    "lon": -87.7074899
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10089743233",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 136,
+   "sponsored": false,
+   "slug": "enid-chicago",
+   "name": "Enid",
+   "summary": "Enid is a jewelry store in Chicago, IL at 2003, Chicago, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/enid-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/enid-chicago.json",
+   "address": {
+    "streetAddress": "2003",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.886614,
+    "lon": -87.677134
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12401128301",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 137,
+   "sponsored": false,
+   "slug": "pias-gems-chicago",
+   "name": "Pia's Gems",
+   "summary": "Pia's Gems is a jewelry store in Chicago, IL at 1 North Wabash Avenue, Chicago, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pias-gems-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pias-gems-chicago.json",
+   "address": {
+    "streetAddress": "1 North Wabash Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8822649,
+    "lon": -87.6258504
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13175279490",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 138,
    "sponsored": false,
    "slug": "wedding-day-diamonds-eden-prairie",
    "name": "Wedding Day Diamonds",
@@ -1672,7 +4561,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 51,
+   "position": 139,
    "sponsored": false,
    "slug": "wedding-day-diamonds-roseville",
    "name": "Wedding Day Diamonds",
@@ -1702,7 +4591,94 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 52,
+   "position": 140,
+   "sponsored": false,
+   "slug": "a-marek-oak-brook",
+   "name": "A. Marek",
+   "summary": "A. Marek is a jewelry store in Oak Brook, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/a-marek-oak-brook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/a-marek-oak-brook.json",
+   "address": {
+    "addressLocality": "Oak Brook",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Oak Brook",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8403606,
+    "lon": -87.9929609
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6336532322",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 141,
+   "sponsored": false,
+   "slug": "alex-and-ani-oak-brook",
+   "name": "Alex and Ani",
+   "summary": "Alex and Ani is a jewelry store in Oak Brook, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/alex-and-ani-oak-brook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/alex-and-ani-oak-brook.json",
+   "address": {
+    "addressLocality": "Oak Brook",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Oak Brook",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8515298,
+    "lon": -87.9528498
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9380997320",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 142,
+   "sponsored": false,
+   "slug": "aurelios-diamante-jewelers-chicago",
+   "name": "Aurelio's Diamante Jewelers",
+   "summary": "Aurelio's Diamante Jewelers is a jewelry store in Chicago, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/aurelios-diamante-jewelers-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/aurelios-diamante-jewelers-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9325968,
+    "lon": -87.7129418
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3649643208",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 143,
    "sponsored": false,
    "slug": "becklund-jewelers-eden-prairie",
    "name": "Becklund Jewelers",
@@ -1731,7 +4707,94 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 53,
+   "position": 144,
+   "sponsored": false,
+   "slug": "bella-cosa-jewelers-willowbrook",
+   "name": "Bella Cosa Jewelers",
+   "summary": "Bella Cosa Jewelers is a jewelry store in Willowbrook, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bella-cosa-jewelers-willowbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bella-cosa-jewelers-willowbrook.json",
+   "address": {
+    "addressLocality": "Willowbrook",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Willowbrook",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7590021,
+    "lon": -87.9435157
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5311289147",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 145,
+   "sponsored": false,
+   "slug": "blue-nile-oak-brook",
+   "name": "Blue Nile",
+   "summary": "Blue Nile is a jewelry store in Oak Brook, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/blue-nile-oak-brook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/blue-nile-oak-brook.json",
+   "address": {
+    "addressLocality": "Oak Brook",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Oak Brook",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8505428,
+    "lon": -87.9535257
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9380966193",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 146,
+   "sponsored": false,
+   "slug": "bryn-mawr-jewelry-co-chicago",
+   "name": "Bryn Mawr Jewelry Co",
+   "summary": "Bryn Mawr Jewelry Co is a jewelry store in Chicago, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bryn-mawr-jewelry-co-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bryn-mawr-jewelry-co-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9755725,
+    "lon": -87.6681933
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12184961749",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 147,
    "sponsored": false,
    "slug": "buchkosky-jewelers-roseville",
    "name": "Buchkosky Jewelers",
@@ -1760,7 +4823,94 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 54,
+   "position": 148,
+   "sponsored": false,
+   "slug": "c-d-peacock-skokie",
+   "name": "C.D. Peacock",
+   "summary": "C.D. Peacock is a jewelry store in Skokie, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/c-d-peacock-skokie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/c-d-peacock-skokie.json",
+   "address": {
+    "addressLocality": "Skokie",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Skokie",
+   "state": "IL",
+   "geo": {
+    "lat": 42.0566558,
+    "lon": -87.7501501
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10179187396",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 149,
+   "sponsored": false,
+   "slug": "catchpenny-barrington",
+   "name": "Catchpenny",
+   "summary": "Catchpenny is a jewelry store in Barrington, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/catchpenny-barrington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/catchpenny-barrington.json",
+   "address": {
+    "addressLocality": "Barrington",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Barrington",
+   "state": "IL",
+   "geo": {
+    "lat": 42.1543292,
+    "lon": -88.135602
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4449933669",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 150,
+   "sponsored": false,
+   "slug": "charmi-jewelry-schaumburg",
+   "name": "Charmi Jewelry",
+   "summary": "Charmi Jewelry is a jewelry store in Schaumburg, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/charmi-jewelry-schaumburg/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/charmi-jewelry-schaumburg.json",
+   "address": {
+    "addressLocality": "Schaumburg",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Schaumburg",
+   "state": "IL",
+   "geo": {
+    "lat": 42.0296186,
+    "lon": -88.0616897
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2320852845",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 151,
    "sponsored": false,
    "slug": "dan-gould-jeweler-anoka",
    "name": "Dan Gould Jeweler",
@@ -1789,7 +4939,65 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 55,
+   "position": 152,
+   "sponsored": false,
+   "slug": "david-yurman-oak-brook",
+   "name": "David Yurman",
+   "summary": "David Yurman is a jewelry store in Oak Brook, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/david-yurman-oak-brook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/david-yurman-oak-brook.json",
+   "address": {
+    "addressLocality": "Oak Brook",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Oak Brook",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8495318,
+    "lon": -87.9520076
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9380966177",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 153,
+   "sponsored": false,
+   "slug": "diamonds-on-wabash-chicago",
+   "name": "Diamonds on Wabash",
+   "summary": "Diamonds on Wabash is a jewelry store in Chicago, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/diamonds-on-wabash-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/diamonds-on-wabash-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8816758,
+    "lon": -87.6259577
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10926007431",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 154,
    "sponsored": false,
    "slug": "eastside-gold-grillz-and-jewlery-saint-paul",
    "name": "Eastside Gold Grillz & Jewlery",
@@ -1818,7 +5026,36 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 56,
+   "position": 155,
+   "sponsored": false,
+   "slug": "european-jewelry-mount-prospect",
+   "name": "European Jewelry",
+   "summary": "European Jewelry is a jewelry store in Mount Prospect, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/european-jewelry-mount-prospect/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/european-jewelry-mount-prospect.json",
+   "address": {
+    "addressLocality": "Mount Prospect",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Mount Prospect",
+   "state": "IL",
+   "geo": {
+    "lat": 42.0634473,
+    "lon": -87.9359462
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6261412669",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 156,
    "sponsored": false,
    "slug": "evergreene-jewelers-minnetonka",
    "name": "EverGreene Jewelers",
@@ -1847,7 +5084,181 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 57,
+   "position": 157,
+   "sponsored": false,
+   "slug": "faustos-jewelry-chicago",
+   "name": "Fausto's Jewelry",
+   "summary": "Fausto's Jewelry is a jewelry store in Chicago, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/faustos-jewelry-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/faustos-jewelry-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9059153,
+    "lon": -87.6702084
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3652928206",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 158,
+   "sponsored": false,
+   "slug": "fiancee-jewelry-chicago",
+   "name": "Fiancee Jewelry",
+   "summary": "Fiancee Jewelry is a jewelry store in Chicago, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fiancee-jewelry-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fiancee-jewelry-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8829424,
+    "lon": -87.626001
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2819258500",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 159,
+   "sponsored": false,
+   "slug": "flaherty-jewelers-arlington-heights",
+   "name": "Flaherty Jewelers",
+   "summary": "Flaherty Jewelers is a jewelry store in Arlington Heights, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/flaherty-jewelers-arlington-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/flaherty-jewelers-arlington-heights.json",
+   "address": {
+    "addressLocality": "Arlington Heights",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Arlington Heights",
+   "state": "IL",
+   "geo": {
+    "lat": 42.0814538,
+    "lon": -87.9825648
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13004850883",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 160,
+   "sponsored": false,
+   "slug": "g-blando-jewelers-brookfield",
+   "name": "G. Blando Jewelers",
+   "summary": "G. Blando Jewelers is a jewelry store in Brookfield, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/g-blando-jewelers-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/g-blando-jewelers-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8268266,
+    "lon": -87.8528014
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9793701285",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 161,
+   "sponsored": false,
+   "slug": "gato-and-sons-chicago",
+   "name": "Gato & Sons",
+   "summary": "Gato & Sons is a jewelry store in Chicago, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gato-and-sons-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gato-and-sons-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9532294,
+    "lon": -87.7492339
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4089091905",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 162,
+   "sponsored": false,
+   "slug": "gold-and-diamond-rosemont",
+   "name": "Gold & Diamond",
+   "summary": "Gold & Diamond is a jewelry store in Rosemont, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gold-and-diamond-rosemont/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gold-and-diamond-rosemont.json",
+   "address": {
+    "addressLocality": "Rosemont",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Rosemont",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9753226,
+    "lon": -87.8677689
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13731720740",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 163,
    "sponsored": false,
    "slug": "goodman-jewelers-maplewood",
    "name": "Goodman Jewelers",
@@ -1876,7 +5287,36 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 58,
+   "position": 164,
+   "sponsored": false,
+   "slug": "guy-blando-indian-head-park",
+   "name": "Guy Blando",
+   "summary": "Guy Blando is a jewelry store in Indian Head Park, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/guy-blando-indian-head-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/guy-blando-indian-head-park.json",
+   "address": {
+    "addressLocality": "Indian Head Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Indian Head Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7643104,
+    "lon": -87.897273
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10684391122",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 165,
    "sponsored": false,
    "slug": "helzberg-diamonds-eagan",
    "name": "Helzberg Diamonds",
@@ -1905,7 +5345,94 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 59,
+   "position": 166,
+   "sponsored": false,
+   "slug": "helzberg-diamonds-joliet",
+   "name": "Helzberg Diamonds",
+   "summary": "Helzberg Diamonds is a jewelry store in Joliet, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/helzberg-diamonds-joliet/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/helzberg-diamonds-joliet.json",
+   "address": {
+    "addressLocality": "Joliet",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Joliet",
+   "state": "IL",
+   "geo": {
+    "lat": 41.5751357,
+    "lon": -88.1545843
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9397766207",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 167,
+   "sponsored": false,
+   "slug": "helzberg-diamonds-oak-brook",
+   "name": "Helzberg Diamonds",
+   "summary": "Helzberg Diamonds is a jewelry store in Oak Brook, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/helzberg-diamonds-oak-brook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/helzberg-diamonds-oak-brook.json",
+   "address": {
+    "addressLocality": "Oak Brook",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Oak Brook",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8410381,
+    "lon": -87.9935849
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3798889319",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 168,
+   "sponsored": false,
+   "slug": "helzberg-diamonds-orland-park",
+   "name": "Helzberg Diamonds",
+   "summary": "Helzberg Diamonds is a jewelry store in Orland Park, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/helzberg-diamonds-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/helzberg-diamonds-orland-park.json",
+   "address": {
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.6191298,
+    "lon": -87.8479321
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10020369374",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 169,
    "sponsored": false,
    "slug": "helzberg-jewelers-maplewood",
    "name": "Helzberg Jewelers",
@@ -1934,7 +5461,65 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 60,
+   "position": 170,
+   "sponsored": false,
+   "slug": "heng-heng-jewelry-chicago",
+   "name": "Heng Heng Jewelry",
+   "summary": "Heng Heng Jewelry is a jewelry store in Chicago, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/heng-heng-jewelry-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/heng-heng-jewelry-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.973407,
+    "lon": -87.6574067
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7152419158",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 171,
+   "sponsored": false,
+   "slug": "hoang-kim-jewelry-chicago",
+   "name": "Hoang Kim Jewelry",
+   "summary": "Hoang Kim Jewelry is a jewelry store in Chicago, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hoang-kim-jewelry-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hoang-kim-jewelry-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9731845,
+    "lon": -87.6560458
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7152419390",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 172,
    "sponsored": false,
    "slug": "hoff-diamonds-maplewood",
    "name": "Hoff Diamonds",
@@ -1963,7 +5548,152 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 61,
+   "position": 173,
+   "sponsored": false,
+   "slug": "house-of-dubai-rosemont",
+   "name": "House of Dubai",
+   "summary": "House of Dubai is a jewelry store in Rosemont, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/house-of-dubai-rosemont/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/house-of-dubai-rosemont.json",
+   "address": {
+    "addressLocality": "Rosemont",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Rosemont",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9742122,
+    "lon": -87.8673213
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13731720768",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 174,
+   "sponsored": false,
+   "slug": "imperial-jewelers-burr-ridge",
+   "name": "Imperial Jewelers",
+   "summary": "Imperial Jewelers is a jewelry store in Burr Ridge, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/imperial-jewelers-burr-ridge/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/imperial-jewelers-burr-ridge.json",
+   "address": {
+    "addressLocality": "Burr Ridge",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Burr Ridge",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7496548,
+    "lon": -87.913477
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10837806879",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 175,
+   "sponsored": false,
+   "slug": "james-and-sons-chicago",
+   "name": "James & Sons",
+   "summary": "James & Sons is a jewelry store in Chicago, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/james-and-sons-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/james-and-sons-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9084015,
+    "lon": -87.6478797
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4191676728",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 176,
+   "sponsored": false,
+   "slug": "james-and-sons-fine-jewelers-orland-park",
+   "name": "James & Sons Fine Jewelers",
+   "summary": "James & Sons Fine Jewelers is a jewelry store in Orland Park, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/james-and-sons-fine-jewelers-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/james-and-sons-fine-jewelers-orland-park.json",
+   "address": {
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.6129728,
+    "lon": -87.8548256
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9234090954",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 177,
+   "sponsored": false,
+   "slug": "jared-bolingbrook",
+   "name": "Jared",
+   "summary": "Jared is a jewelry store in Bolingbrook, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jared-bolingbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jared-bolingbrook.json",
+   "address": {
+    "addressLocality": "Bolingbrook",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Bolingbrook",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7217115,
+    "lon": -88.0399699
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3766121218",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 178,
    "sponsored": false,
    "slug": "jared-edina",
    "name": "Jared",
@@ -1992,7 +5722,36 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 62,
+   "position": 179,
+   "sponsored": false,
+   "slug": "jared-lombard",
+   "name": "Jared",
+   "summary": "Jared is a jewelry store in Lombard, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jared-lombard/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jared-lombard.json",
+   "address": {
+    "addressLocality": "Lombard",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Lombard",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8432023,
+    "lon": -87.9949603
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/543884985",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 180,
    "sponsored": false,
    "slug": "jared-maple-grove",
    "name": "Jared",
@@ -2021,7 +5780,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 63,
+   "position": 181,
    "sponsored": false,
    "slug": "jared-maplewood",
    "name": "Jared",
@@ -2050,7 +5809,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 64,
+   "position": 182,
    "sponsored": false,
    "slug": "javis-gift-shop-inc-minneapolis",
    "name": "Javi's Gift Shop Inc.",
@@ -2079,7 +5838,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 65,
+   "position": 183,
    "sponsored": false,
    "slug": "jewelry-exchange-eagan",
    "name": "Jewelry Exchange",
@@ -2108,7 +5867,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 66,
+   "position": 184,
    "sponsored": false,
    "slug": "johantgen-jewelers-crystal",
    "name": "Johantgen Jewelers",
@@ -2137,7 +5896,152 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 67,
+   "position": 185,
+   "sponsored": false,
+   "slug": "joyeria-bahena-chicago",
+   "name": "Joyeria Bahena",
+   "summary": "Joyeria Bahena is a jewelry store in Chicago, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/joyeria-bahena-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/joyeria-bahena-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9247738,
+    "lon": -87.7166252
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3641096471",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 186,
+   "sponsored": false,
+   "slug": "joyeria-moreiras-chicago",
+   "name": "Joyeria Moreira's",
+   "summary": "Joyeria Moreira's is a jewelry store in Chicago, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/joyeria-moreiras-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/joyeria-moreiras-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9296951,
+    "lon": -87.7086576
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3819173852",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 187,
+   "sponsored": false,
+   "slug": "karat-jewelry-group-hinsdale",
+   "name": "Karat Jewelry Group",
+   "summary": "Karat Jewelry Group is a jewelry store in Hinsdale, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/karat-jewelry-group-hinsdale/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/karat-jewelry-group-hinsdale.json",
+   "address": {
+    "addressLocality": "Hinsdale",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Hinsdale",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8014889,
+    "lon": -87.9280807
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13702499845",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 188,
+   "sponsored": false,
+   "slug": "kay-jewelers-arlington-heights",
+   "name": "Kay Jewelers",
+   "summary": "Kay Jewelers is a jewelry store in Arlington Heights, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kay-jewelers-arlington-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kay-jewelers-arlington-heights.json",
+   "address": {
+    "addressLocality": "Arlington Heights",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Arlington Heights",
+   "state": "IL",
+   "geo": {
+    "lat": 42.112691,
+    "lon": -87.979819
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5413184911",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 189,
+   "sponsored": false,
+   "slug": "kay-jewelers-chicago-ridge",
+   "name": "Kay Jewelers",
+   "summary": "Kay Jewelers is a jewelry store in Chicago Ridge, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kay-jewelers-chicago-ridge/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kay-jewelers-chicago-ridge.json",
+   "address": {
+    "addressLocality": "Chicago Ridge",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago Ridge",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7158501,
+    "lon": -87.7823782
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9654051450",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 190,
    "sponsored": false,
    "slug": "kay-jewelers-eagan",
    "name": "Kay Jewelers",
@@ -2166,7 +6070,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 68,
+   "position": 191,
    "sponsored": false,
    "slug": "kay-jewelers-maplewood",
    "name": "Kay Jewelers",
@@ -2195,7 +6099,442 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 69,
+   "position": 192,
+   "sponsored": false,
+   "slug": "kay-jewelers-norridge",
+   "name": "Kay Jewelers",
+   "summary": "Kay Jewelers is a jewelry store in Norridge, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kay-jewelers-norridge/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kay-jewelers-norridge.json",
+   "address": {
+    "addressLocality": "Norridge",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Norridge",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9563563,
+    "lon": -87.8084679
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7456845097",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 193,
+   "sponsored": false,
+   "slug": "kay-jewelers-tinley-park",
+   "name": "Kay Jewelers",
+   "summary": "Kay Jewelers is a jewelry store in Tinley Park, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kay-jewelers-tinley-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kay-jewelers-tinley-park.json",
+   "address": {
+    "addressLocality": "Tinley Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Tinley Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.5476179,
+    "lon": -87.7957857
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8370768967",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 194,
+   "sponsored": false,
+   "slug": "khazana-jewelers-westmont",
+   "name": "Khazana Jewelers",
+   "summary": "Khazana Jewelers is a jewelry store in Westmont, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/khazana-jewelers-westmont/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/khazana-jewelers-westmont.json",
+   "address": {
+    "addressLocality": "Westmont",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Westmont",
+   "state": "IL",
+   "geo": {
+    "lat": 41.812271,
+    "lon": -87.9747213
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7246503175",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 195,
+   "sponsored": false,
+   "slug": "kim-hing-jewelry-chicago",
+   "name": "Kim Hing Jewelry",
+   "summary": "Kim Hing Jewelry is a jewelry store in Chicago, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kim-hing-jewelry-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kim-hing-jewelry-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9734061,
+    "lon": -87.6575471
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7152419157",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 196,
+   "sponsored": false,
+   "slug": "kim-long-chicago",
+   "name": "Kim Long",
+   "summary": "Kim Long is a jewelry store in Chicago, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kim-long-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kim-long-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9734103,
+    "lon": -87.6571417
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7152419160",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 197,
+   "sponsored": false,
+   "slug": "kipling1-rosemont",
+   "name": "Kipling1",
+   "summary": "Kipling1 is a jewelry store in Rosemont, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kipling1-rosemont/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kipling1-rosemont.json",
+   "address": {
+    "addressLocality": "Rosemont",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Rosemont",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9762231,
+    "lon": -87.8675905
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13733339638",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 198,
+   "sponsored": false,
+   "slug": "linnea-jewelers-la-grange",
+   "name": "Linnea Jewelers",
+   "summary": "Linnea Jewelers is a jewelry store in La Grange, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/linnea-jewelers-la-grange/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/linnea-jewelers-la-grange.json",
+   "address": {
+    "addressLocality": "La Grange",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "La Grange",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8142729,
+    "lon": -87.8721108
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8944618050",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 199,
+   "sponsored": false,
+   "slug": "long-and-company-jewelers-barrington",
+   "name": "Long & Company Jewelers",
+   "summary": "Long & Company Jewelers is a jewelry store in Barrington, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/long-and-company-jewelers-barrington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/long-and-company-jewelers-barrington.json",
+   "address": {
+    "addressLocality": "Barrington",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Barrington",
+   "state": "IL",
+   "geo": {
+    "lat": 42.1540898,
+    "lon": -88.1358712
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7432088133",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 200,
+   "sponsored": false,
+   "slug": "lovisa-norridge",
+   "name": "Lovisa",
+   "summary": "Lovisa is a jewelry store in Norridge, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lovisa-norridge/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lovisa-norridge.json",
+   "address": {
+    "addressLocality": "Norridge",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Norridge",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9549308,
+    "lon": -87.8087258
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12070169366",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 201,
+   "sponsored": false,
+   "slug": "lovisa-rosemont",
+   "name": "Lovisa",
+   "summary": "Lovisa is a jewelry store in Rosemont, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lovisa-rosemont/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lovisa-rosemont.json",
+   "address": {
+    "addressLocality": "Rosemont",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Rosemont",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9756117,
+    "lon": -87.867656
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13733339689",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 202,
+   "sponsored": false,
+   "slug": "luo-m-jewelers-chicago",
+   "name": "Luo M. Jewelers",
+   "summary": "Luo M. Jewelers is a jewelry store in Chicago, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/luo-m-jewelers-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/luo-m-jewelers-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8827389,
+    "lon": -87.6260097
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2819262303",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 203,
+   "sponsored": false,
+   "slug": "luxe-jewelry-lyons",
+   "name": "Luxe Jewelry",
+   "summary": "Luxe Jewelry is a jewelry store in Lyons, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/luxe-jewelry-lyons/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/luxe-jewelry-lyons.json",
+   "address": {
+    "addressLocality": "Lyons",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Lyons",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8178131,
+    "lon": -87.8240486
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9809916429",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 204,
+   "sponsored": false,
+   "slug": "madrid-jewelry-chicago",
+   "name": "Madrid Jewelry",
+   "summary": "Madrid Jewelry is a jewelry store in Chicago, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/madrid-jewelry-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/madrid-jewelry-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.917202,
+    "lon": -87.7355503
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13318237577",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 205,
+   "sponsored": false,
+   "slug": "marry-me-jewelry-countryside",
+   "name": "Marry Me Jewelry",
+   "summary": "Marry Me Jewelry is a jewelry store in Countryside, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/marry-me-jewelry-countryside/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/marry-me-jewelry-countryside.json",
+   "address": {
+    "addressLocality": "Countryside",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Countryside",
+   "state": "IL",
+   "geo": {
+    "lat": 41.784058,
+    "lon": -87.8713956
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10820133894",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 206,
+   "sponsored": false,
+   "slug": "mon-ami-jewelers-chicago",
+   "name": "Mon Ami Jewelers",
+   "summary": "Mon Ami Jewelers is a jewelry store in Chicago, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mon-ami-jewelers-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mon-ami-jewelers-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8828227,
+    "lon": -87.6260034
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2819262302",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 207,
    "sponsored": false,
    "slug": "ny-jewelry-minneapolis",
    "name": "NY Jewelry",
@@ -2224,7 +6563,355 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 70,
+   "position": 208,
+   "sponsored": false,
+   "slug": "organic-jewelry-brookfield",
+   "name": "Organic Jewelry",
+   "summary": "Organic Jewelry is a jewelry store in Brookfield, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/organic-jewelry-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/organic-jewelry-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8274319,
+    "lon": -87.8521332
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1388275770",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 209,
+   "sponsored": false,
+   "slug": "oscar-and-sons-jewlers-chicago",
+   "name": "Oscar and Sons Jewlers",
+   "summary": "Oscar and Sons Jewlers is a jewelry store in Chicago, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/oscar-and-sons-jewlers-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/oscar-and-sons-jewlers-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8308916,
+    "lon": -87.6452406
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10649886254",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 210,
+   "sponsored": false,
+   "slug": "pandora-chicago-ridge",
+   "name": "Pandora",
+   "summary": "Pandora is a jewelry store in Chicago Ridge, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pandora-chicago-ridge/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pandora-chicago-ridge.json",
+   "address": {
+    "addressLocality": "Chicago Ridge",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago Ridge",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7153364,
+    "lon": -87.7824133
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9654051447",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 211,
+   "sponsored": false,
+   "slug": "pandora-deer-park",
+   "name": "Pandora",
+   "summary": "Pandora is a jewelry store in Deer Park, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pandora-deer-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pandora-deer-park.json",
+   "address": {
+    "addressLocality": "Deer Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Deer Park",
+   "state": "IL",
+   "geo": {
+    "lat": 42.1611116,
+    "lon": -88.0542182
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10220471896",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 212,
+   "sponsored": false,
+   "slug": "pandora-norridge",
+   "name": "Pandora",
+   "summary": "Pandora is a jewelry store in Norridge, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pandora-norridge/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pandora-norridge.json",
+   "address": {
+    "addressLocality": "Norridge",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Norridge",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9557916,
+    "lon": -87.8093389
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10229382992",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 213,
+   "sponsored": false,
+   "slug": "pandora-oak-brook",
+   "name": "Pandora",
+   "summary": "Pandora is a jewelry store in Oak Brook, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pandora-oak-brook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pandora-oak-brook.json",
+   "address": {
+    "addressLocality": "Oak Brook",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Oak Brook",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8519174,
+    "lon": -87.9515784
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9380966212",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 214,
+   "sponsored": false,
+   "slug": "pandora-orland-park",
+   "name": "Pandora",
+   "summary": "Pandora is a jewelry store in Orland Park, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pandora-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pandora-orland-park.json",
+   "address": {
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.6206056,
+    "lon": -87.8491606
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10020369340",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 215,
+   "sponsored": false,
+   "slug": "pandora-rosemont",
+   "name": "Pandora",
+   "summary": "Pandora is a jewelry store in Rosemont, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pandora-rosemont/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pandora-rosemont.json",
+   "address": {
+    "addressLocality": "Rosemont",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Rosemont",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9757106,
+    "lon": -87.8677082
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13731720738",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 216,
+   "sponsored": false,
+   "slug": "pandora-skokie",
+   "name": "Pandora",
+   "summary": "Pandora is a jewelry store in Skokie, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pandora-skokie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pandora-skokie.json",
+   "address": {
+    "addressLocality": "Skokie",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Skokie",
+   "state": "IL",
+   "geo": {
+    "lat": 42.0576989,
+    "lon": -87.749187
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7536470612",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 217,
+   "sponsored": false,
+   "slug": "persin-and-robbin-jewelers-arlington-heights",
+   "name": "Persin & Robbin Jewelers",
+   "summary": "Persin & Robbin Jewelers is a jewelry store in Arlington Heights, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/persin-and-robbin-jewelers-arlington-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/persin-and-robbin-jewelers-arlington-heights.json",
+   "address": {
+    "addressLocality": "Arlington Heights",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Arlington Heights",
+   "state": "IL",
+   "geo": {
+    "lat": 42.0818179,
+    "lon": -87.9833177
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13004844976",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 218,
+   "sponsored": false,
+   "slug": "phnom-penh-jewelry-chicago",
+   "name": "Phnom Penh Jewelry",
+   "summary": "Phnom Penh Jewelry is a jewelry store in Chicago, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/phnom-penh-jewelry-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/phnom-penh-jewelry-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9734064,
+    "lon": -87.6567976
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7152419177",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 219,
+   "sponsored": false,
+   "slug": "raphael-jewelers-glenview",
+   "name": "Raphael Jewelers",
+   "summary": "Raphael Jewelers is a jewelry store in Glenview, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/raphael-jewelers-glenview/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/raphael-jewelers-glenview.json",
+   "address": {
+    "addressLocality": "Glenview",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Glenview",
+   "state": "IL",
+   "geo": {
+    "lat": 42.0723965,
+    "lon": -87.7987033
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6270534659",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 220,
    "sponsored": false,
    "slug": "rogers-and-hollands-roseville",
    "name": "Rogers & Hollands",
@@ -2253,7 +6940,210 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 71,
+   "position": 221,
+   "sponsored": false,
+   "slug": "rogers-and-hollands-jewelers-skokie",
+   "name": "Rogers & Hollands Jewelers",
+   "summary": "Rogers & Hollands Jewelers is a jewelry store in Skokie, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rogers-and-hollands-jewelers-skokie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rogers-and-hollands-jewelers-skokie.json",
+   "address": {
+    "addressLocality": "Skokie",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Skokie",
+   "state": "IL",
+   "geo": {
+    "lat": 42.05739,
+    "lon": -87.7492784
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10179187403",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 222,
+   "sponsored": false,
+   "slug": "silver-corner-rosemont",
+   "name": "Silver Corner",
+   "summary": "Silver Corner is a jewelry store in Rosemont, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/silver-corner-rosemont/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/silver-corner-rosemont.json",
+   "address": {
+    "addressLocality": "Rosemont",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Rosemont",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9760025,
+    "lon": -87.86744
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13733339693",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 223,
+   "sponsored": false,
+   "slug": "smart-jewelers-northbrook",
+   "name": "Smart Jewelers",
+   "summary": "Smart Jewelers is a jewelry store in Northbrook, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/smart-jewelers-northbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/smart-jewelers-northbrook.json",
+   "address": {
+    "addressLocality": "Northbrook",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Northbrook",
+   "state": "IL",
+   "geo": {
+    "lat": 42.1081776,
+    "lon": -87.8027981
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/197107917",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 224,
+   "sponsored": false,
+   "slug": "smart-jewler-highland-park",
+   "name": "Smart Jewler",
+   "summary": "Smart Jewler is a jewelry store in Highland Park, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/smart-jewler-highland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/smart-jewler-highland-park.json",
+   "address": {
+    "addressLocality": "Highland Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Highland Park",
+   "state": "IL",
+   "geo": {
+    "lat": 42.1852715,
+    "lon": -87.7998571
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13194448332",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 225,
+   "sponsored": false,
+   "slug": "spirit-of-the-red-horse-chicago",
+   "name": "Spirit of the Red Horse",
+   "summary": "Spirit of the Red Horse is a jewelry store in Chicago, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/spirit-of-the-red-horse-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/spirit-of-the-red-horse-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9798457,
+    "lon": -87.9099119
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6375025299",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 226,
+   "sponsored": false,
+   "slug": "stanley-brown-jewelist-chicago",
+   "name": "Stanley Brown Jewelist",
+   "summary": "Stanley Brown Jewelist is a jewelry store in Chicago, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/stanley-brown-jewelist-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/stanley-brown-jewelist-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9680532,
+    "lon": -87.6880001
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2673354552",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 227,
+   "sponsored": false,
+   "slug": "stones-jewerly-wheaton",
+   "name": "Stones Jewerly",
+   "summary": "Stones Jewerly is a jewelry store in Wheaton, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/stones-jewerly-wheaton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/stones-jewerly-wheaton.json",
+   "address": {
+    "addressLocality": "Wheaton",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Wheaton",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8651089,
+    "lon": -88.1070566
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/302695977",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 228,
    "sponsored": false,
    "slug": "swarovski-eagan",
    "name": "Swarovski",
@@ -2282,7 +7172,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 72,
+   "position": 229,
    "sponsored": false,
    "slug": "swarovski-fort-snelling-unorganized-territory",
    "name": "Swarovski",
@@ -2309,6 +7199,515 @@
    "source": "OpenStreetMap",
    "source_url": "https://www.openstreetmap.org/node/6387478932",
    "last_checked": "2026-10-17"
+  },
+  {
+   "position": 230,
+   "sponsored": false,
+   "slug": "swarovski-oak-brook",
+   "name": "Swarovski",
+   "summary": "Swarovski is a jewelry store in Oak Brook, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/swarovski-oak-brook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/swarovski-oak-brook.json",
+   "address": {
+    "addressLocality": "Oak Brook",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Oak Brook",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8495035,
+    "lon": -87.9525991
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13685628303",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 231,
+   "sponsored": false,
+   "slug": "swarovski-skokie",
+   "name": "Swarovski",
+   "summary": "Swarovski is a jewelry store in Skokie, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/swarovski-skokie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/swarovski-skokie.json",
+   "address": {
+    "addressLocality": "Skokie",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Skokie",
+   "state": "IL",
+   "geo": {
+    "lat": 42.0595723,
+    "lon": -87.7490564
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7536470633",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 232,
+   "sponsored": false,
+   "slug": "tiffany-and-company-northbrook",
+   "name": "Tiffany & Company",
+   "summary": "Tiffany & Company is a jewelry store in Northbrook, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tiffany-and-company-northbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tiffany-and-company-northbrook.json",
+   "address": {
+    "addressLocality": "Northbrook",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Northbrook",
+   "state": "IL",
+   "geo": {
+    "lat": 42.1507065,
+    "lon": -87.8150249
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9418312152",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 233,
+   "sponsored": false,
+   "slug": "tiffany-and-company-oak-brook",
+   "name": "Tiffany & Company",
+   "summary": "Tiffany & Company is a jewelry store in Oak Brook, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tiffany-and-company-oak-brook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tiffany-and-company-oak-brook.json",
+   "address": {
+    "addressLocality": "Oak Brook",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Oak Brook",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8488685,
+    "lon": -87.9511278
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9380966167",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 234,
+   "sponsored": false,
+   "slug": "tiffany-and-company-skokie",
+   "name": "Tiffany & Company",
+   "summary": "Tiffany & Company is a jewelry store in Skokie, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tiffany-and-company-skokie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tiffany-and-company-skokie.json",
+   "address": {
+    "addressLocality": "Skokie",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Skokie",
+   "state": "IL",
+   "geo": {
+    "lat": 42.0567829,
+    "lon": -87.7500819
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7536470594",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 235,
+   "sponsored": false,
+   "slug": "tresures-jewlers-chicago",
+   "name": "Tresures Jewlers",
+   "summary": "Tresures Jewlers is a jewelry store in Chicago, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tresures-jewlers-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tresures-jewlers-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8680224,
+    "lon": -87.6320658
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1483956917",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 236,
+   "sponsored": false,
+   "slug": "wedding-bands-and-co-chicago",
+   "name": "Wedding Bands & Co.",
+   "summary": "Wedding Bands & Co. is a jewelry store in Chicago, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wedding-bands-and-co-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wedding-bands-and-co-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9006157,
+    "lon": -87.6266533
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2819331002",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 237,
+   "sponsored": false,
+   "slug": "zales-chicago",
+   "name": "Zales",
+   "summary": "Zales is a jewelry store in Chicago, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/zales-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/zales-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9312254,
+    "lon": -87.6772878
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1319742217",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 238,
+   "sponsored": false,
+   "slug": "zales-chicago-ridge",
+   "name": "Zales",
+   "summary": "Zales is a jewelry store in Chicago Ridge, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/zales-chicago-ridge/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/zales-chicago-ridge.json",
+   "address": {
+    "addressLocality": "Chicago Ridge",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago Ridge",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7153452,
+    "lon": -87.7831134
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9654051446",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 239,
+   "sponsored": false,
+   "slug": "zales-norridge",
+   "name": "Zales",
+   "summary": "Zales is a jewelry store in Norridge, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/zales-norridge/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/zales-norridge.json",
+   "address": {
+    "addressLocality": "Norridge",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Norridge",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9540553,
+    "lon": -87.8087452
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10014702717",
+   "last_checked": "2026-10-17"
   }
- ]
+ ],
+ "market": {
+  "keyword": "jewelry store",
+  "slug": "jewelry-store",
+  "base_keyword": "jewelry store",
+  "scope": "national",
+  "city": null,
+  "state": null,
+  "category": "ecommerce_retail",
+  "industry": "Shopping, Collectibles & Gifts",
+  "us_monthly_searches": {
+   "value": 140000,
+   "range": [
+    79000,
+    300000
+   ],
+   "method": "estimate",
+   "estimate_method": "median of 80 cited US volumes for 'high'-demand keywords in the b2b_professional research; rounded to 2 significant figures; range = 25th-75th percentile",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "confidence": "low"
+  },
+  "local_monthly_searches": null,
+  "cpc_usd": {
+   "industry_benchmark": "Shopping, Collectibles & Gifts",
+   "low_usd": 3.49,
+   "median_usd": 4.14,
+   "high_usd": 4.14,
+   "method": "published benchmarks: low/high = range of the industry and sub-industry median CPCs listed in 'figures'; median = most specific benchmark",
+   "figures": [
+    {
+     "usd": 4.14,
+     "label": "Shopping, Collectibles & Gifts median CPC 2026",
+     "source": "wordstream_2026"
+    },
+    {
+     "usd": 3.49,
+     "label": "Shopping, Collectibles & Gifts median CPC 2025",
+     "source": "wordstream_2025"
+    }
+   ],
+   "source": "wordstream_2026",
+   "as_of": "2026",
+   "basis_for_value": {
+    "usd": 4.14,
+    "method": "benchmark median CPC",
+    "source": "wordstream_2026"
+   }
+  },
+  "ctr_pct": {
+   "value": 8.92,
+   "label": "Shopping, Collectibles & Gifts average search-ad CTR 2025",
+   "source": "wordstream_2025",
+   "as_of": "2025-03"
+  },
+  "competition": {
+   "level": "medium",
+   "method": "proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research)",
+   "source": "wordstream_2026",
+   "as_of": "2026"
+  },
+  "trend": null,
+  "seasonality": {
+   "value": null,
+   "note": "No seasonality data in the research sources for this keyword."
+  },
+  "ai_query": {
+   "text": "No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.",
+   "figures": [
+    {
+     "value": "45%",
+     "label": "US adults using AI for local recommendations",
+     "source": "brightlocal_lcrs_2026"
+    },
+    {
+     "value": "75%",
+     "label": "sessions with keyword-style prompts",
+     "source": "sagapixel_sel"
+    },
+    {
+     "value": "59%",
+     "label": "local-intent prompts that triggered web search",
+     "source": "nectiv"
+    }
+   ],
+   "as_of": "2026"
+  },
+  "registry_competitors": {
+   "value": 239,
+   "slugs": [
+    "a-1-jewelry-and-coin-chicago",
+    "a-marek-oak-brook",
+    "alex-and-ani-oak-brook",
+    "altobello-fine-jewelers-wheaton",
+    "apm-monaco-chicago",
+    "armens-jewelry-chicago",
+    "arthurs-jewelers-roseville",
+    "arts-and-artisians-chicago",
+    "aurelios-diamante-jewelers-chicago",
+    "b-m-jewelry-chicago"
+   ],
+   "method_id": "competitors",
+   "source": "registry",
+   "as_of": "2026-10-18",
+   "urls": [
+    "https://dingalinged-cpu.github.io/registry/c/a-1-jewelry-and-coin-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/a-marek-oak-brook/",
+    "https://dingalinged-cpu.github.io/registry/c/alex-and-ani-oak-brook/",
+    "https://dingalinged-cpu.github.io/registry/c/altobello-fine-jewelers-wheaton/",
+    "https://dingalinged-cpu.github.io/registry/c/apm-monaco-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/armens-jewelry-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/arthurs-jewelers-roseville/",
+    "https://dingalinged-cpu.github.io/registry/c/arts-and-artisians-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/aurelios-diamante-jewelers-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/b-m-jewelry-chicago/"
+   ],
+   "method": "count of registry listings tagged with the keyword (city/national) or with the base service in the same state (state keywords)"
+  },
+  "agent_demand": null,
+  "agent_demand_note": "Not yet measured. Will carry AI-agent query counts from the registry's agent analytics (contract: meta.agent_demand_contract in the market index).",
+  "equivalent_google_ads_cost_month": {
+   "value_usd": 52000,
+   "method": "estimate",
+   "method_id": "google_ads_equiv",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote."
+  },
+  "search_value_index": {
+   "value_usd": 580000,
+   "method": "estimate",
+   "method_id": "value_index",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: search value index = monthly searches x CPC basis; an advertiser-value ranking signal, not revenue; rounded to 2 significant figures."
+  },
+  "auction": {
+   "featured_spot_min_usd": 50,
+   "spots_2_to_4_min_usd": 5,
+   "tier": "standard",
+   "pricing_rule": "tier minimum (premium $500, high $250, mid $100, standard $50) for national keywords; city = max($10, 20% of tier); state = max($10, 35% of tier); spots 2-4 open at 10% of the featured minimum",
+   "model": "Monthly auction in the last 7 days of each month: days 1-5 bid for the Featured #1 spot, days 6-7 for spots 2-4; winners display all next month; all paid spots labeled Sponsored.",
+   "next_auctions": [
+    {
+     "display_month": "2026-11",
+     "featured_spot_bidding": [
+      "2026-10-25",
+      "2026-10-29"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-10-30",
+      "2026-10-31"
+     ]
+    },
+    {
+     "display_month": "2026-12",
+     "featured_spot_bidding": [
+      "2026-11-24",
+      "2026-11-28"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-11-29",
+      "2026-11-30"
+     ]
+    }
+   ],
+   "source": "registry_auction",
+   "as_of": "2026-10-18"
+  },
+  "sources": {
+   "brightlocal_lcrs_2026": {
+    "name": "BrightLocal Local Consumer Review Survey 2026 (n=1,002 US adults)",
+    "url": "https://www.brightlocal.com/research/lcrs-ai-trust/",
+    "as_of": "2026"
+   },
+   "nectiv": {
+    "name": "Nectiv study of 8,500+ ChatGPT prompts",
+    "url": "https://nectivdigital.com/blog/new-data-study-what-queries-is-chatgpt-using-behind-the-scenes",
+    "as_of": "2025"
+   },
+   "registry": {
+    "name": "This registry's own listings (OpenStreetMap-seeded, ODbL)",
+    "url": "https://dingalinged-cpu.github.io/registry/api/companies.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_auction": {
+    "name": "Registry keyword auction catalog and rules",
+    "url": "https://dingalinged-cpu.github.io/registry/api/keyword-prices.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_estimate": {
+    "name": "Registry estimate (CC-BY-4.0); method given on each value",
+    "url": "https://dingalinged-cpu.github.io/registry/market/",
+    "as_of": "2026-10-18"
+   },
+   "sagapixel_sel": {
+    "name": "Sagapixel ChatGPT local-services sessions, via Search Engine Land",
+    "url": "https://searchengineland.com/chatgpt-users-keywords-for-local-services-data-467715",
+    "as_of": "2026-01"
+   },
+   "wordstream_2025": {
+    "name": "WordStream Google Ads Benchmarks 2025 (16,446 US campaigns, Apr 2024-Mar 2025; median CPC and CTR by industry)",
+    "url": "https://www.wordstream.com/blog/2025-google-ads-benchmarks",
+    "as_of": "2025-03"
+   },
+   "wordstream_2026": {
+    "name": "LocaliQ/WordStream Search Advertising Benchmarks 2026 (US median CPC by industry)",
+    "url": "https://www.localiq.com/blog/search-advertising-benchmarks",
+    "as_of": "2026"
+   }
+  },
+  "license": {
+   "registry_estimates": "CC-BY-4.0",
+   "url": "https://creativecommons.org/licenses/by/4.0/",
+   "cited_figures": "attribute to the publishers in sources"
+  },
+  "as_of": "2026-10-18",
+  "api": "https://dingalinged-cpu.github.io/registry/api/market/jewelry-store.json",
+  "rate_card": "https://dingalinged-cpu.github.io/registry/view/market.html#jewelry-store"
+ }
 }

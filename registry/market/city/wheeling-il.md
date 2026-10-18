@@ -1,0 +1,54 @@
+Keyword market for Wheeling, IL: 22 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Chicago-Naperville-Elgin, IL-IN metro (US volume x population share).
+
+# Top keywords in Wheeling, IL
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are in the JSON and dataset. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json
+
+## By monthly searches
+1. massage wheeling il | searches/mo 140,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $650,000 | Google Ads equiv $37,000/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/massage-wheeling-il/
+2. car wash wheeling il | searches/mo 51,000 (est) | CPC $4.35 | value $220,000 | Google Ads equiv $12,000/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/car-wash-wheeling-il/
+3. dentist wheeling il | searches/mo 51,000 (est) | CPC $4.70 | value $240,000 | Google Ads equiv $13,000/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/dentist-wheeling-il/
+4. hair salon wheeling il | searches/mo 41,000 (est) | CPC $0.55 | value $23,000 | Google Ads equiv $1,300/mo | our featured min $50/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/hair-salon-wheeling-il/
+5. mechanic wheeling il | searches/mo 19,000 (est) | CPC $4.35 | value $83,000 | Google Ads equiv $4,600/mo | our featured min $20/mo | registry competitors 5 | https://dingalinged-cpu.github.io/registry/k/mechanic-wheeling-il/
+6. haircut wheeling il | searches/mo 10,000 (est) | CPC $4.62 | value $46,000 | Google Ads equiv $2,600/mo | our featured min $50/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/haircut-wheeling-il/
+7. auto repair wheeling il | searches/mo 8,300 (est) | CPC $4.35 | value $36,000 | Google Ads equiv $2,000/mo | our featured min $20/mo | registry competitors 5 | https://dingalinged-cpu.github.io/registry/k/auto-repair-wheeling-il/
+8. real estate agent wheeling il | searches/mo 5,500 (est) | CPC $3.61 | value $20,000 | Google Ads equiv $1,700/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/real-estate-agent-wheeling-il/
+9. insurance agency wheeling il | searches/mo 2,500 (est) | CPC $3.39 | value $8,500 | Google Ads equiv $710/mo | our featured min $100/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/insurance-agency-wheeling-il/
+10. realtor wheeling il | searches/mo 2,500 (est) | CPC $3.70 | value $9,200 | Google Ads equiv $780/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/realtor-wheeling-il/
+11. auto body shop wheeling il | searches/mo 1,700 (est) | CPC $4.35 | value $7,400 | Google Ads equiv $410/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/auto-body-shop-wheeling-il/
+12. insurance agents wheeling il | searches/mo 1,400 (est) | CPC $3.39 | value $4,700 | Google Ads equiv $400/mo | our featured min $100/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/insurance-agents-wheeling-il/
+13. insurance agent wheeling il | searches/mo 1,100 (est) | CPC $3.39 | value $3,700 | Google Ads equiv $310/mo | our featured min $50/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/insurance-agent-wheeling-il/
+
+## By CPC
+1. storage units wheeling il | searches/mo 6,100 (est) | CPC $8.33 | value $51,000 | Google Ads equiv $3,200/mo | our featured min $50/mo | registry competitors 7 | https://dingalinged-cpu.github.io/registry/k/storage-units-wheeling-il/
+2. daycare wheeling il | searches/mo 6,100 (est) | CPC $4.81 | value $29,000 | Google Ads equiv $1,700/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/daycare-wheeling-il/
+3. acupuncture wheeling il | searches/mo 910 (est) | CPC $4.76 | value $4,300 | Google Ads equiv $290/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/acupuncture-wheeling-il/
+4. physical therapy wheeling il | searches/mo 6,100 (est) | CPC $4.76 | value $29,000 | Google Ads equiv $2,000/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/physical-therapy-wheeling-il/
+5. dentist wheeling il | searches/mo 51,000 (est) | CPC $4.70 | value $240,000 | Google Ads equiv $13,000/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/dentist-wheeling-il/
+6. haircut wheeling il | searches/mo 10,000 (est) | CPC $4.62 | value $46,000 | Google Ads equiv $2,600/mo | our featured min $50/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/haircut-wheeling-il/
+7. massage wheeling il | searches/mo 140,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $650,000 | Google Ads equiv $37,000/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/massage-wheeling-il/
+8. auto body shop wheeling il | searches/mo 1,700 (est) | CPC $4.35 | value $7,400 | Google Ads equiv $410/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/auto-body-shop-wheeling-il/
+9. auto repair wheeling il | searches/mo 8,300 (est) | CPC $4.35 | value $36,000 | Google Ads equiv $2,000/mo | our featured min $20/mo | registry competitors 5 | https://dingalinged-cpu.github.io/registry/k/auto-repair-wheeling-il/
+10. car wash wheeling il | searches/mo 51,000 (est) | CPC $4.35 | value $220,000 | Google Ads equiv $12,000/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/car-wash-wheeling-il/
+11. mechanic wheeling il | searches/mo 19,000 (est) | CPC $4.35 | value $83,000 | Google Ads equiv $4,600/mo | our featured min $20/mo | registry competitors 5 | https://dingalinged-cpu.github.io/registry/k/mechanic-wheeling-il/
+12. liquor store wheeling il | searches/mo 3,900 (est) | CPC $4.14 | value $16,000 | Google Ads equiv $1,400/mo | our featured min $10/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/liquor-store-wheeling-il/
+13. used cars for sale wheeling il | searches/mo 3,900 (est) | CPC $4.14 | value $16,000 | Google Ads equiv $1,400/mo | our featured min $10/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-wheeling-il/
+14. realtor wheeling il | searches/mo 2,500 (est) | CPC $3.70 | value $9,200 | Google Ads equiv $780/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/realtor-wheeling-il/
+15. real estate agent wheeling il | searches/mo 5,500 (est) | CPC $3.61 | value $20,000 | Google Ads equiv $1,700/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/real-estate-agent-wheeling-il/
+
+## By value (searches x CPC)
+1. massage wheeling il | searches/mo 140,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $650,000 | Google Ads equiv $37,000/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/massage-wheeling-il/
+2. dentist wheeling il | searches/mo 51,000 (est) | CPC $4.70 | value $240,000 | Google Ads equiv $13,000/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/dentist-wheeling-il/
+3. car wash wheeling il | searches/mo 51,000 (est) | CPC $4.35 | value $220,000 | Google Ads equiv $12,000/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/car-wash-wheeling-il/
+4. mechanic wheeling il | searches/mo 19,000 (est) | CPC $4.35 | value $83,000 | Google Ads equiv $4,600/mo | our featured min $20/mo | registry competitors 5 | https://dingalinged-cpu.github.io/registry/k/mechanic-wheeling-il/
+5. haircut wheeling il | searches/mo 10,000 (est) | CPC $4.62 | value $46,000 | Google Ads equiv $2,600/mo | our featured min $50/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/haircut-wheeling-il/
+6. auto repair wheeling il | searches/mo 8,300 (est) | CPC $4.35 | value $36,000 | Google Ads equiv $2,000/mo | our featured min $20/mo | registry competitors 5 | https://dingalinged-cpu.github.io/registry/k/auto-repair-wheeling-il/
+7. hair salon wheeling il | searches/mo 41,000 (est) | CPC $0.55 | value $23,000 | Google Ads equiv $1,300/mo | our featured min $50/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/hair-salon-wheeling-il/
+8. real estate agent wheeling il | searches/mo 5,500 (est) | CPC $3.61 | value $20,000 | Google Ads equiv $1,700/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/real-estate-agent-wheeling-il/
+9. realtor wheeling il | searches/mo 2,500 (est) | CPC $3.70 | value $9,200 | Google Ads equiv $780/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/realtor-wheeling-il/
+10. insurance agency wheeling il | searches/mo 2,500 (est) | CPC $3.39 | value $8,500 | Google Ads equiv $710/mo | our featured min $100/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/insurance-agency-wheeling-il/
+11. auto body shop wheeling il | searches/mo 1,700 (est) | CPC $4.35 | value $7,400 | Google Ads equiv $410/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/auto-body-shop-wheeling-il/
+12. insurance agents wheeling il | searches/mo 1,400 (est) | CPC $3.39 | value $4,700 | Google Ads equiv $400/mo | our featured min $100/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/insurance-agents-wheeling-il/
+13. insurance agent wheeling il | searches/mo 1,100 (est) | CPC $3.39 | value $3,700 | Google Ads equiv $310/mo | our featured min $50/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/insurance-agent-wheeling-il/
+
+All market data: https://dingalinged-cpu.github.io/registry/market/ | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html

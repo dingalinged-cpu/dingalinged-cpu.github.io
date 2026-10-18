@@ -1,0 +1,57 @@
+{
+ "slug": "renzo-gracie-chicago-brazilian-jiu-jitsu-chicago",
+ "name": "Renzo Gracie Chicago Brazilian Jiu-Jitsu",
+ "categories": [
+  "martial arts"
+ ],
+ "keywords": [
+  "martial arts",
+  "martial arts chicago il"
+ ],
+ "services": [
+  {
+   "name": "martial arts",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "2727 North Lincoln Avenue #2",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60614",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60614",
+ "geo": {
+  "lat": 41.9314478,
+  "lon": -87.6568448
+ },
+ "phone": "+13128774711",
+ "website": "https://renzograciechicago.com/",
+ "schema_type": "SportsActivityLocation",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/7732070033",
+ "osm": {
+  "type": "node",
+  "id": 7732070033,
+  "tags_used": {
+   "leisure": "fitness_centre",
+   "sport": "jiu-jitsu"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/renzo-gracie-chicago-brazilian-jiu-jitsu-chicago/",
+ "summary": "Renzo Gracie Chicago Brazilian Jiu-Jitsu is a martial arts school in Chicago, IL at 2727 North Lincoln Avenue #2, Chicago, IL 60614. Phone: +13128774711. Website: https://renzograciechicago.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

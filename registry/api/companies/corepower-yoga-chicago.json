@@ -1,0 +1,58 @@
+{
+ "slug": "corepower-yoga-chicago",
+ "name": "CorePower Yoga",
+ "categories": [
+  "yoga classes"
+ ],
+ "keywords": [
+  "yoga classes",
+  "yoga classes chicago il"
+ ],
+ "services": [
+  {
+   "name": "yoga classes",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1704 North Milwaukee Avenue #D",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60647",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60647",
+ "geo": {
+  "lat": 41.9125466,
+  "lon": -87.6813642
+ },
+ "website": "https://www.corepoweryoga.com/yoga-studios/il/chicago/bucktown",
+ "brand": "CorePower Yoga",
+ "wikidata": "Q21015663",
+ "schema_type": "SportsActivityLocation",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/3570229767",
+ "osm": {
+  "type": "node",
+  "id": 3570229767,
+  "tags_used": {
+   "leisure": "fitness_centre",
+   "sport": "yoga"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/corepower-yoga-chicago/",
+ "summary": "CorePower Yoga is a yoga studio in Chicago, IL at 1704 North Milwaukee Avenue #D, Chicago, IL 60647. Website: https://www.corepoweryoga.com/yoga-studios/il/chicago/bucktown.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

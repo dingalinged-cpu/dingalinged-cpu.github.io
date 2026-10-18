@@ -1,0 +1,56 @@
+{
+ "slug": "body-tech-total-fitness-joliet",
+ "name": "Body Tech Total Fitness",
+ "categories": [
+  "gym"
+ ],
+ "keywords": [
+  "gym",
+  "gym joliet il"
+ ],
+ "services": [
+  {
+   "name": "gym",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "3585 Hennepin Drive",
+  "addressLocality": "Joliet",
+  "addressRegion": "IL",
+  "postalCode": "60431",
+  "addressCountry": "US"
+ },
+ "city": "Joliet",
+ "state": "IL",
+ "zip": "60431",
+ "geo": {
+  "lat": 41.5736954,
+  "lon": -88.1709775
+ },
+ "phone": "+18154399900",
+ "website": "https://bodytechtotalfitness.com/",
+ "schema_type": "ExerciseGym",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/655493661",
+ "osm": {
+  "type": "way",
+  "id": 655493661,
+  "tags_used": {
+   "leisure": "fitness_centre"
+  }
+ },
+ "municipality": "Joliet",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/body-tech-total-fitness-joliet/",
+ "summary": "Body Tech Total Fitness is a gym in Joliet, IL at 3585 Hennepin Drive, Joliet, IL 60431. Phone: +18154399900. Website: https://bodytechtotalfitness.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

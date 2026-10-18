@@ -1,0 +1,23 @@
+Crimson Design and Construction is a general contractor in Naperville, IL at 528 West 5th Avenue, Naperville, IL 60563. Phone: +16303559070. Website: https://www.crimsondc.com/.
+
+# Crimson Design and Construction
+
+- Category: general contractor
+- Services: general contractor, architect
+- Address: 528 West 5th Avenue, Naperville, IL 60563
+- City: Naperville
+- State: IL
+- ZIP: 60563
+- Coordinates: 41.7805204, -88.1577878
+- Phone: +16303559070
+- Website: https://www.crimsondc.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 08:00-17:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/crimson-design-and-construction-naperville/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/crimson-design-and-construction-naperville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/8323021904 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

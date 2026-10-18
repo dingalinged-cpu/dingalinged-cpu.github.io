@@ -1,0 +1,57 @@
+{
+ "slug": "aspen-dental-morton-grove",
+ "name": "Aspen Dental",
+ "categories": [
+  "dentist"
+ ],
+ "keywords": [
+  "dentist",
+  "dentist morton grove il"
+ ],
+ "services": [
+  {
+   "name": "dentist",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "6821 West Dempster Street",
+  "addressLocality": "Morton Grove",
+  "addressRegion": "IL",
+  "postalCode": "60053",
+  "addressCountry": "US"
+ },
+ "city": "Morton Grove",
+ "state": "IL",
+ "zip": "60053",
+ "geo": {
+  "lat": 42.0404394,
+  "lon": -87.7959927
+ },
+ "brand": "Aspen Dental",
+ "wikidata": "Q4807808",
+ "schema_type": "Dentist",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/7827801358",
+ "osm": {
+  "type": "node",
+  "id": 7827801358,
+  "tags_used": {
+   "amenity": "dentist",
+   "healthcare": "dentist"
+  }
+ },
+ "municipality": "Morton Grove",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/aspen-dental-morton-grove/",
+ "summary": "Aspen Dental is a dentist in Morton Grove, IL at 6821 West Dempster Street, Morton Grove, IL 60053.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

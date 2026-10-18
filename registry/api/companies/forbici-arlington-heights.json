@@ -1,0 +1,63 @@
+{
+ "slug": "forbici-arlington-heights",
+ "name": "Forbici",
+ "categories": [
+  "hair salon"
+ ],
+ "keywords": [
+  "hair salon",
+  "haircut",
+  "hair salon arlington heights il",
+  "haircut arlington heights il"
+ ],
+ "services": [
+  {
+   "name": "hair salon",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "haircut",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "7 South Highland Avenue",
+  "addressLocality": "Arlington Heights",
+  "addressRegion": "IL",
+  "postalCode": "60005",
+  "addressCountry": "US"
+ },
+ "city": "Arlington Heights",
+ "state": "IL",
+ "zip": "60005",
+ "geo": {
+  "lat": 42.0824853,
+  "lon": -87.9852294
+ },
+ "phone": "+18473982887",
+ "website": "https://www.forbicisalonandspa.com/",
+ "opening_hours": "Mo-Th 8:30-21:00; Sa 8:00-16:00",
+ "schema_type": "HairSalon",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/12999787251",
+ "osm": {
+  "type": "node",
+  "id": 12999787251,
+  "tags_used": {
+   "shop": "hairdresser"
+  }
+ },
+ "municipality": "Arlington Heights",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/forbici-arlington-heights/",
+ "summary": "Forbici is a hair salon in Arlington Heights, IL at 7 South Highland Avenue, Arlington Heights, IL 60005. Phone: +18473982887. Website: https://www.forbicisalonandspa.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,4097 @@
+{
+ "place": "Brookfield, IL",
+ "slug": "brookfield-il",
+ "count": 138,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "accountant brookfield il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/accountant-brookfield-il.json"
+  },
+  {
+   "keyword": "accounting services brookfield il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/accounting-services-brookfield-il.json"
+  },
+  {
+   "keyword": "attorney brookfield il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/attorney-brookfield-il.json"
+  },
+  {
+   "keyword": "auto body shop brookfield il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-body-shop-brookfield-il.json"
+  },
+  {
+   "keyword": "auto repair brookfield il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-brookfield-il.json"
+  },
+  {
+   "keyword": "bike shop brookfield il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/bike-shop-brookfield-il.json"
+  },
+  {
+   "keyword": "car wash brookfield il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-brookfield-il.json"
+  },
+  {
+   "keyword": "coworking space brookfield il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/coworking-space-brookfield-il.json"
+  },
+  {
+   "keyword": "dance studio brookfield il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dance-studio-brookfield-il.json"
+  },
+  {
+   "keyword": "daycare brookfield il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/daycare-brookfield-il.json"
+  },
+  {
+   "keyword": "dentist brookfield il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-brookfield-il.json"
+  },
+  {
+   "keyword": "dog groomer brookfield il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dog-groomer-brookfield-il.json"
+  },
+  {
+   "keyword": "driveway paving brookfield il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/driveway-paving-brookfield-il.json"
+  },
+  {
+   "keyword": "dry cleaners brookfield il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dry-cleaners-brookfield-il.json"
+  },
+  {
+   "keyword": "event venues brookfield il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/event-venues-brookfield-il.json"
+  },
+  {
+   "keyword": "eye doctor brookfield il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/eye-doctor-brookfield-il.json"
+  },
+  {
+   "keyword": "financial advisor brookfield il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/financial-advisor-brookfield-il.json"
+  },
+  {
+   "keyword": "flooring companies brookfield il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/flooring-companies-brookfield-il.json"
+  },
+  {
+   "keyword": "florist brookfield il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/florist-brookfield-il.json"
+  },
+  {
+   "keyword": "funeral home brookfield il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/funeral-home-brookfield-il.json"
+  },
+  {
+   "keyword": "gift shop brookfield il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gift-shop-brookfield-il.json"
+  },
+  {
+   "keyword": "gym brookfield il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-brookfield-il.json"
+  },
+  {
+   "keyword": "hair salon brookfield il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-brookfield-il.json"
+  },
+  {
+   "keyword": "haircut brookfield il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-brookfield-il.json"
+  },
+  {
+   "keyword": "insurance agency brookfield il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-brookfield-il.json"
+  },
+  {
+   "keyword": "insurance agent brookfield il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-brookfield-il.json"
+  },
+  {
+   "keyword": "insurance agents brookfield il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-brookfield-il.json"
+  },
+  {
+   "keyword": "jewelry store brookfield il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/jewelry-store-brookfield-il.json"
+  },
+  {
+   "keyword": "landscaping brookfield il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/landscaping-brookfield-il.json"
+  },
+  {
+   "keyword": "lawyer brookfield il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/lawyer-brookfield-il.json"
+  },
+  {
+   "keyword": "liquor store brookfield il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/liquor-store-brookfield-il.json"
+  },
+  {
+   "keyword": "martial arts brookfield il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/martial-arts-brookfield-il.json"
+  },
+  {
+   "keyword": "massage brookfield il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/massage-brookfield-il.json"
+  },
+  {
+   "keyword": "mechanic brookfield il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-brookfield-il.json"
+  },
+  {
+   "keyword": "motorcycle repair brookfield il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/motorcycle-repair-brookfield-il.json"
+  },
+  {
+   "keyword": "music lessons brookfield il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/music-lessons-brookfield-il.json"
+  },
+  {
+   "keyword": "nail salon brookfield il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/nail-salon-brookfield-il.json"
+  },
+  {
+   "keyword": "pet store brookfield il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/pet-store-brookfield-il.json"
+  },
+  {
+   "keyword": "physical therapy brookfield il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/physical-therapy-brookfield-il.json"
+  },
+  {
+   "keyword": "plumber brookfield il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/plumber-brookfield-il.json"
+  },
+  {
+   "keyword": "plumbers brookfield il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/plumbers-brookfield-il.json"
+  },
+  {
+   "keyword": "plumbing services brookfield il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/plumbing-services-brookfield-il.json"
+  },
+  {
+   "keyword": "podiatrist brookfield il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/podiatrist-brookfield-il.json"
+  },
+  {
+   "keyword": "preschool brookfield il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/preschool-brookfield-il.json"
+  },
+  {
+   "keyword": "printing services brookfield il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/printing-services-brookfield-il.json"
+  },
+  {
+   "keyword": "real estate agent brookfield il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/real-estate-agent-brookfield-il.json"
+  },
+  {
+   "keyword": "realtor brookfield il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/realtor-brookfield-il.json"
+  },
+  {
+   "keyword": "roofer brookfield il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/roofer-brookfield-il.json"
+  },
+  {
+   "keyword": "roofing contractor brookfield il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/roofing-contractor-brookfield-il.json"
+  },
+  {
+   "keyword": "staffing agency brookfield il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/staffing-agency-brookfield-il.json"
+  },
+  {
+   "keyword": "tattoo shop brookfield il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tattoo-shop-brookfield-il.json"
+  },
+  {
+   "keyword": "therapist brookfield il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/therapist-brookfield-il.json"
+  },
+  {
+   "keyword": "vet brookfield il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/vet-brookfield-il.json"
+  },
+  {
+   "keyword": "window replacement brookfield il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/window-replacement-brookfield-il.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "a-sound-education-brookfield",
+   "name": "A Sound Education",
+   "summary": "A Sound Education is a music school in Brookfield, IL at 9433 Ogden Avenue, Brookfield, IL 60513. Phone: +17084855074. Website: https://asoundeducation.com/.",
+   "categories": [
+    "music lessons"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/a-sound-education-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/a-sound-education-brookfield.json",
+   "address": {
+    "streetAddress": "9433 Ogden Avenue",
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "postalCode": "60513",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "zip": "60513",
+   "geo": {
+    "lat": 41.8170912,
+    "lon": -87.8565325
+   },
+   "phone": "+17084855074",
+   "website": "https://asoundeducation.com/",
+   "opening_hours": "Mo-Th 12:00-20:00; Fr 12:00-19:00; Sa 10:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9499918966",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "the-loft-at-eight-corners-brookfield",
+   "name": "The Loft at Eight Corners",
+   "summary": "The Loft at Eight Corners is a therapy practice in Brookfield, IL at 9049 Monroe Avenue, Brookfield, IL 60513. Phone: +17088833300. Website: https://loft8corners.org/.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-loft-at-eight-corners-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-loft-at-eight-corners-brookfield.json",
+   "address": {
+    "streetAddress": "9049 Monroe Avenue",
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "postalCode": "60513",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "zip": "60513",
+   "geo": {
+    "lat": 41.8292771,
+    "lon": -87.8489319
+   },
+   "phone": "+17088833300",
+   "website": "https://loft8corners.org/",
+   "opening_hours": "Mo-Su 13:00-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9793717665",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "cutest-dog-brookfield",
+   "name": "Cutest Dog",
+   "summary": "Cutest Dog is a dog groomer in Brookfield, IL at 9448 47th Street, Brookfield, IL 60513. Phone: +17733359499. Website: https://www.instagram.com/p/DPM0d32iWso/.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cutest-dog-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cutest-dog-brookfield.json",
+   "address": {
+    "streetAddress": "9448 47th Street",
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "postalCode": "60513",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "zip": "60513",
+   "geo": {
+    "lat": 41.8055255,
+    "lon": -87.8568524
+   },
+   "phone": "+17733359499",
+   "website": "https://www.instagram.com/p/DPM0d32iWso/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13577889273",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "focus-hub-brookfield",
+   "name": "Focus Hub",
+   "summary": "Focus Hub is a coworking space in Brookfield, IL at 8904 Ogden Avenue, Brookfield, IL 60513. Phone: +17082610933. Website: https://thefocushubb.com/.",
+   "categories": [
+    "coworking space"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/focus-hub-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/focus-hub-brookfield.json",
+   "address": {
+    "streetAddress": "8904 Ogden Avenue",
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "postalCode": "60513",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "zip": "60513",
+   "geo": {
+    "lat": 41.8167744,
+    "lon": -87.8442599
+   },
+   "phone": "+17082610933",
+   "website": "https://thefocushubb.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10733645342",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "johnson-nosek-funeral-home-brookfield",
+   "name": "Johnson-Nosek Funeral Home",
+   "summary": "Johnson-Nosek Funeral Home is a funeral home in Brookfield, IL at Prairie Avenue, Brookfield, IL 60513. Phone: +17084850214. Website: https://www.johnsonnosek.com/.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/johnson-nosek-funeral-home-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/johnson-nosek-funeral-home-brookfield.json",
+   "address": {
+    "streetAddress": "Prairie Avenue",
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "postalCode": "60513",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "zip": "60513",
+   "geo": {
+    "lat": 41.8206188,
+    "lon": -87.8436869
+   },
+   "phone": "+17084850214",
+   "website": "https://www.johnsonnosek.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13645558479",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "law-offices-of-john-shine-brookfield",
+   "name": "Law Offices of John Shine",
+   "summary": "Law Offices of John Shine is a lawyer in Brookfield, IL at 8500 Brookfield Avenue, Brookfield, IL 60513. Phone: +13122911024. Website: https://www.jshinelegal.com/.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/law-offices-of-john-shine-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/law-offices-of-john-shine-brookfield.json",
+   "address": {
+    "streetAddress": "8500 Brookfield Avenue",
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "postalCode": "60513",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "zip": "60513",
+   "geo": {
+    "lat": 41.8247368,
+    "lon": -87.8338277
+   },
+   "phone": "+13122911024",
+   "website": "https://www.jshinelegal.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9735798726",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "merrick-animal-hospital-brookfield",
+   "name": "Merrick Animal Hospital",
+   "summary": "Merrick Animal Hospital is a veterinarian in Brookfield, IL at 9115 Ogden Avenue, Brookfield, IL 60513. Phone: +17084856500. Website: https://brookfieldvets.net/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/merrick-animal-hospital-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/merrick-animal-hospital-brookfield.json",
+   "address": {
+    "streetAddress": "9115 Ogden Avenue",
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "postalCode": "60513",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "zip": "60513",
+   "geo": {
+    "lat": 41.8167062,
+    "lon": -87.8499793
+   },
+   "phone": "+17084856500",
+   "website": "https://brookfieldvets.net/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9503355555",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "npn-flooring-and-installation-brookfield",
+   "name": "NPN Flooring and Installation",
+   "summary": "NPN Flooring and Installation is a flooring company in Brookfield, IL at 9311 Ogden Avenue, Brookfield, IL 60513. Phone: +16302011991. Website: https://npnflooring.com/.",
+   "categories": [
+    "flooring companies"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/npn-flooring-and-installation-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/npn-flooring-and-installation-brookfield.json",
+   "address": {
+    "streetAddress": "9311 Ogden Avenue",
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "postalCode": "60513",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "zip": "60513",
+   "geo": {
+    "lat": 41.8169654,
+    "lon": -87.854423
+   },
+   "phone": "+16302011991",
+   "website": "https://npnflooring.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12026744974",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "the-brookfield-barber-brookfield",
+   "name": "The Brookfield Barber",
+   "summary": "The Brookfield Barber is a hair salon in Brookfield, IL at 8840 Brookfield Avenue, Brookfield, IL 60513. Phone: +17082555746. Website: https://www.thebrookfieldbarber.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-brookfield-barber-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-brookfield-barber-brookfield.json",
+   "address": {
+    "streetAddress": "8840 Brookfield Avenue",
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "postalCode": "60513",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "zip": "60513",
+   "geo": {
+    "lat": 41.822464,
+    "lon": -87.8438365
+   },
+   "phone": "+17082555746",
+   "website": "https://www.thebrookfieldbarber.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9606285757",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "the-shop-salon-and-style-house-brookfield",
+   "name": "The Shop Salon & Style House",
+   "summary": "The Shop Salon & Style House is a hair salon in Brookfield, IL at 3735 Grand Boulevard, Brookfield, IL 60513. Phone: +17082555796. Website: https://www.theshopstylehouse.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-shop-salon-and-style-house-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-shop-salon-and-style-house-brookfield.json",
+   "address": {
+    "streetAddress": "3735 Grand Boulevard",
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "postalCode": "60513",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "zip": "60513",
+   "geo": {
+    "lat": 41.8230884,
+    "lon": -87.8448526
+   },
+   "phone": "+17082555796",
+   "website": "https://www.theshopstylehouse.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9606270578",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "valdicass-brookfield",
+   "name": "Valdicass",
+   "summary": "Valdicass is a window installer in Brookfield, IL at 8920 47th Street, Brookfield, IL 60513. Phone: +17082555231. Website: https://www.valdicass.com/.",
+   "categories": [
+    "window replacement"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/valdicass-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/valdicass-brookfield.json",
+   "address": {
+    "streetAddress": "8920 47th Street",
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "postalCode": "60513",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "zip": "60513",
+   "geo": {
+    "lat": 41.8057741,
+    "lon": -87.8446397
+   },
+   "phone": "+17082555231",
+   "website": "https://www.valdicass.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9511674221",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "veme-hair-and-makeup-salon-brookfield",
+   "name": "VeMe Hair & Makeup Salon",
+   "summary": "VeMe Hair & Makeup Salon is a hair salon in Brookfield, IL at 8847 Ogden Avenue, Brookfield, IL 60513. Phone: +17083789332. Website: https://www.vemehairandmakeupsalon.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/veme-hair-and-makeup-salon-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/veme-hair-and-makeup-salon-brookfield.json",
+   "address": {
+    "streetAddress": "8847 Ogden Avenue",
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "postalCode": "60513",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "zip": "60513",
+   "geo": {
+    "lat": 41.8164013,
+    "lon": -87.8429539
+   },
+   "phone": "+17083789332",
+   "website": "https://www.vemehairandmakeupsalon.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9499927292",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "hollywood-motors-brookfield",
+   "name": "Hollywood Motors",
+   "summary": "Hollywood Motors is an auto repair shop in Brookfield, IL at 3637 Woodside Avenue, Brookfield, IL. Phone: +17084859333. Website: https://www.hollywoodmotorsinc.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hollywood-motors-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hollywood-motors-brookfield.json",
+   "address": {
+    "streetAddress": "3637 Woodside Avenue",
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8250539,
+    "lon": -87.8321212
+   },
+   "phone": "+17084859333",
+   "website": "https://www.hollywoodmotorsinc.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 15.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/615349336",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "goodxtimes-brookfield",
+   "name": "GoodxTimes",
+   "summary": "GoodxTimes is a hair salon in Brookfield, IL. Phone: +17088546001. Website: https://www.goodxtimesbarbershop.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/goodxtimes-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/goodxtimes-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8272375,
+    "lon": -87.8513536
+   },
+   "phone": "+17088546001",
+   "website": "https://www.goodxtimesbarbershop.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 12.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10077516095",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "urban-mutt-brookfield",
+   "name": "Urban Mutt",
+   "summary": "Urban Mutt is a pet store in Brookfield, IL. Phone: +17084848006. Website: https://www.theurbanmuttstore.com/home.html.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/urban-mutt-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/urban-mutt-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8245574,
+    "lon": -87.8347356
+   },
+   "phone": "+17084848006",
+   "website": "https://www.theurbanmuttstore.com/home.html",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 12.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9900481090",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "duet-dance-studio-brookfield",
+   "name": "Duet Dance Studio",
+   "summary": "Duet Dance Studio is a dance studio in Brookfield, IL at 9041 Monroe Avenue, Brookfield, IL 60513. Website: https://duetdancestudio.com/ballroom-dance-lessons-chicago-western-suburbs.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/duet-dance-studio-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/duet-dance-studio-brookfield.json",
+   "address": {
+    "streetAddress": "9041 Monroe Avenue",
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "postalCode": "60513",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "zip": "60513",
+   "geo": {
+    "lat": 41.8293016,
+    "lon": -87.8487928
+   },
+   "website": "https://duetdancestudio.com/ballroom-dance-lessons-chicago-western-suburbs",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13577889276",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "gears2you-brookfield",
+   "name": "Gears2You",
+   "summary": "Gears2You is a bike shop in Brookfield, IL at 9219 Broadway Avenue, Brookfield, IL 60513. Website: https://www.gears2you.com/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gears2you-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gears2you-brookfield.json",
+   "address": {
+    "streetAddress": "9219 Broadway Avenue",
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "postalCode": "60513",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "zip": "60513",
+   "geo": {
+    "lat": 41.8267637,
+    "lon": -87.8521962
+   },
+   "website": "https://www.gears2you.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12633701672",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "heathen-ink-brookfield",
+   "name": "Heathen Ink",
+   "summary": "Heathen Ink is a tattoo shop in Brookfield, IL at 9040 Ogden Avenue, Brookfield, IL 60513. Website: https://www.tattooheathen.com/.",
+   "categories": [
+    "tattoo shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/heathen-ink-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/heathen-ink-brookfield.json",
+   "address": {
+    "streetAddress": "9040 Ogden Avenue",
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "postalCode": "60513",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "zip": "60513",
+   "geo": {
+    "lat": 41.8170324,
+    "lon": -87.8487466
+   },
+   "website": "https://www.tattooheathen.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12026744971",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "ink-your-wear-brookfield",
+   "name": "Ink Your Wear",
+   "summary": "Ink Your Wear is a printing service in Brookfield, IL at 8838 Brookfield Avenue, Brookfield, IL 60513. Website: https://inkyourwear.com/index.html.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ink-your-wear-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ink-your-wear-brookfield.json",
+   "address": {
+    "streetAddress": "8838 Brookfield Avenue",
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "postalCode": "60513",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "zip": "60513",
+   "geo": {
+    "lat": 41.8224669,
+    "lon": -87.8437031
+   },
+   "website": "https://inkyourwear.com/index.html",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12026744969",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "logic-automotive-brookfield",
+   "name": "Logic Automotive",
+   "summary": "Logic Automotive is an auto repair shop in Brookfield, IL. Phone: +17084807400.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/logic-automotive-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/logic-automotive-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8175262,
+    "lon": -87.8566618
+   },
+   "phone": "+17084807400",
+   "opening_hours": "Mo-Fr 07:00-18:00; Sa 07:00-12:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9502897949",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "more-than-hair-brookfield",
+   "name": "More Than Hair",
+   "summary": "More Than Hair is a hair salon in Brookfield, IL at 9242 Broadway Avenue, Brookfield, IL 60513. Phone: +17083879885.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/more-than-hair-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/more-than-hair-brookfield.json",
+   "address": {
+    "streetAddress": "9242 Broadway Avenue",
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "postalCode": "60513",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "zip": "60513",
+   "geo": {
+    "lat": 41.8264362,
+    "lon": -87.8533164
+   },
+   "phone": "+17083879885",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9793701281",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "priority-print-brookfield",
+   "name": "Priority Print",
+   "summary": "Priority Print is a printing service in Brookfield, IL at 9433 Ogden Avenue, Brookfield, IL 60513. Website: https://priorityprintbrookfield.com/.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/priority-print-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/priority-print-brookfield.json",
+   "address": {
+    "streetAddress": "9433 Ogden Avenue",
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "postalCode": "60513",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "zip": "60513",
+   "geo": {
+    "lat": 41.8169153,
+    "lon": -87.85657
+   },
+   "website": "https://priorityprintbrookfield.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9499918965",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "rainy-valentine-studio-brookfield",
+   "name": "Rainy Valentine Studio",
+   "summary": "Rainy Valentine Studio is a tattoo shop in Brookfield, IL at 3743 Grand Boulevard, Brookfield, IL 60513. Website: https://www.davidjosephklinetattoos.com/our-studios.",
+   "categories": [
+    "tattoo shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rainy-valentine-studio-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rainy-valentine-studio-brookfield.json",
+   "address": {
+    "streetAddress": "3743 Grand Boulevard",
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "postalCode": "60513",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "zip": "60513",
+   "geo": {
+    "lat": 41.8229138,
+    "lon": -87.8445856
+   },
+   "website": "https://www.davidjosephklinetattoos.com/our-studios",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12015459878",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "sokol-spirit-family-fitness-brookfield",
+   "name": "Sokol Spirit Family Fitness",
+   "summary": "Sokol Spirit Family Fitness is a gym in Brookfield, IL at 3909 Prairie Avenue, Brookfield, IL 60513. Website: https://www.sokolspirit.org/.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sokol-spirit-family-fitness-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sokol-spirit-family-fitness-brookfield.json",
+   "address": {
+    "streetAddress": "3909 Prairie Avenue",
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "postalCode": "60513",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "zip": "60513",
+   "geo": {
+    "lat": 41.8200919,
+    "lon": -87.8435405
+   },
+   "website": "https://www.sokolspirit.org/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/779995031",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "sway-dance-chicago-brookfield",
+   "name": "Sway Dance Chicago",
+   "summary": "Sway Dance Chicago is a dance studio in Brookfield, IL at 9152 Broadway Avenue, Brookfield, IL 60513. Website: https://www.swaydancechicago.com/brookfield.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sway-dance-chicago-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sway-dance-chicago-brookfield.json",
+   "address": {
+    "streetAddress": "9152 Broadway Avenue",
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "postalCode": "60513",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "zip": "60513",
+   "geo": {
+    "lat": 41.8281007,
+    "lon": -87.851191
+   },
+   "website": "https://www.swaydancechicago.com/brookfield",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13577889272",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "the-style-lounge-brookfield-brookfield",
+   "name": "The Style Lounge Brookfield",
+   "summary": "The Style Lounge Brookfield is a hair salon in Brookfield, IL at 9120 Ogden Avenue, Brookfield, IL 60513. Website: https://thestyleloungebrookfield.mysalononline.com/Contact.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-style-lounge-brookfield-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-style-lounge-brookfield-brookfield.json",
+   "address": {
+    "streetAddress": "9120 Ogden Avenue",
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "postalCode": "60513",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "zip": "60513",
+   "geo": {
+    "lat": 41.8170947,
+    "lon": -87.8503584
+   },
+   "website": "https://thestyleloungebrookfield.mysalononline.com/Contact",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10733645336",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "the-venue-brookfield-brookfield",
+   "name": "The Venue Brookfield",
+   "summary": "The Venue Brookfield is an event venue in Brookfield, IL at 9109 Ogden Avenue, Brookfield, IL 60513. Website: https://www.instagram.com/thevenuebrookfield/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-venue-brookfield-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-venue-brookfield-brookfield.json",
+   "address": {
+    "streetAddress": "9109 Ogden Avenue",
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "postalCode": "60513",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "zip": "60513",
+   "geo": {
+    "lat": 41.8166977,
+    "lon": -87.8496896
+   },
+   "website": "https://www.instagram.com/thevenuebrookfield/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12459185539",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "winnies-playroom-brookfield",
+   "name": "Winnie's Playroom",
+   "summary": "Winnie's Playroom is an event venue in Brookfield, IL at 9039 Monroe Avenue, Brookfield, IL 60513. Website: https://winniesplayroom.com/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/winnies-playroom-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/winnies-playroom-brookfield.json",
+   "address": {
+    "streetAddress": "9039 Monroe Avenue",
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "postalCode": "60513",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "zip": "60513",
+   "geo": {
+    "lat": 41.8292941,
+    "lon": -87.8486973
+   },
+   "website": "https://winniesplayroom.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13577889274",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "state-farm-brookfield-n10733645345",
+   "name": "State Farm",
+   "summary": "State Farm is an insurance agent in Brookfield, IL at 3633 Hollywood Avenue, Brookfield, IL 60513.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/state-farm-brookfield-n10733645345/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/state-farm-brookfield-n10733645345.json",
+   "address": {
+    "streetAddress": "3633 Hollywood Avenue",
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "postalCode": "60513",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "zip": "60513",
+   "geo": {
+    "lat": 41.8250637,
+    "lon": -87.8336348
+   },
+   "opening_hours": "Mo-Fr 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10733645345",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "detail-unlimited-brookfield",
+   "name": "Detail Unlimited",
+   "summary": "Detail Unlimited is a car wash in Brookfield, IL. Website: https://www.detail-unlimited.com/.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/detail-unlimited-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/detail-unlimited-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8058619,
+    "lon": -87.8495808
+   },
+   "website": "https://www.detail-unlimited.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9518398155",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "beachems-blissful-events-brookfield",
+   "name": "Beachems Blissful Events",
+   "summary": "Beachems Blissful Events is an event venue in Brookfield, IL at 3736 Grand Boulevard, Brookfield, IL 60513.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/beachems-blissful-events-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/beachems-blissful-events-brookfield.json",
+   "address": {
+    "streetAddress": "3736 Grand Boulevard",
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "postalCode": "60513",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "zip": "60513",
+   "geo": {
+    "lat": 41.8227957,
+    "lon": -87.8450881
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9735798723",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "brookfield-auto-center-brookfield",
+   "name": "Brookfield Auto Center",
+   "summary": "Brookfield Auto Center is an auto repair shop in Brookfield, IL at 9136 Ogden Avenue, Brookfield, IL 60513.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/brookfield-auto-center-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/brookfield-auto-center-brookfield.json",
+   "address": {
+    "streetAddress": "9136 Ogden Avenue",
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "postalCode": "60513",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "zip": "60513",
+   "geo": {
+    "lat": 41.8172443,
+    "lon": -87.8510279
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1030592034",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "brookfield-oral-surgery-brookfield",
+   "name": "Brookfield Oral Surgery",
+   "summary": "Brookfield Oral Surgery is a dentist in Brookfield, IL at 9240 Broadway Avenue, Brookfield, IL 60513.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/brookfield-oral-surgery-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/brookfield-oral-surgery-brookfield.json",
+   "address": {
+    "streetAddress": "9240 Broadway Avenue",
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "postalCode": "60513",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "zip": "60513",
+   "geo": {
+    "lat": 41.8265024,
+    "lon": -87.8531988
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10733645339",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "get-covered-insurance-agency-brookfield",
+   "name": "Get Covered Insurance Agency",
+   "summary": "Get Covered Insurance Agency is an insurance agent in Brookfield, IL at 9321 Ogden Avenue, Brookfield, IL 60513.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/get-covered-insurance-agency-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/get-covered-insurance-agency-brookfield.json",
+   "address": {
+    "streetAddress": "9321 Ogden Avenue",
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "postalCode": "60513",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "zip": "60513",
+   "geo": {
+    "lat": 41.8169603,
+    "lon": -87.8547821
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12026744973",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "jourdan-and-giannini-dental-brookfield",
+   "name": "Jourdan & Giannini Dental",
+   "summary": "Jourdan & Giannini Dental is a dentist in Brookfield, IL at 9146 Broadway Avenue, Brookfield, IL 60513.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jourdan-and-giannini-dental-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jourdan-and-giannini-dental-brookfield.json",
+   "address": {
+    "streetAddress": "9146 Broadway Avenue",
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "postalCode": "60513",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "zip": "60513",
+   "geo": {
+    "lat": 41.8282633,
+    "lon": -87.8510212
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9793717300",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "goldiloxx-hair-salon-brookfield",
+   "name": "Goldiloxx Hair Salon",
+   "summary": "Goldiloxx Hair Salon is a hair salon in Brookfield, IL at 3734 Prairie, Brookfield, IL.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/goldiloxx-hair-salon-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/goldiloxx-hair-salon-brookfield.json",
+   "address": {
+    "streetAddress": "3734 Prairie",
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8228529,
+    "lon": -87.844183
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9793717171",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "hitzeman-funeral-home-brookfield",
+   "name": "Hitzeman Funeral Home",
+   "summary": "Hitzeman Funeral Home is a funeral home in Brookfield, IL at 9445 31st Street, Brookfield, IL.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hitzeman-funeral-home-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hitzeman-funeral-home-brookfield.json",
+   "address": {
+    "streetAddress": "9445 31st Street",
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8344099,
+    "lon": -87.8587904
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1059066518",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "47th-street-garage-brookfield",
+   "name": "47th Street Garage",
+   "summary": "47th Street Garage is an auto repair shop in Brookfield, IL.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/47th-street-garage-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/47th-street-garage-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8054239,
+    "lon": -87.8592288
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9511674243",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "accurate-automotive-brookfield",
+   "name": "Accurate Automotive",
+   "summary": "Accurate Automotive is an auto repair shop in Brookfield, IL.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/accurate-automotive-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/accurate-automotive-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8055537,
+    "lon": -87.8580651
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9511674241",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "advanced-automotive-care-brookfield",
+   "name": "Advanced Automotive Care",
+   "summary": "Advanced Automotive Care is an auto repair shop in Brookfield, IL.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/advanced-automotive-care-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/advanced-automotive-care-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8171016,
+    "lon": -87.8473302
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1030592107",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "advancements-in-dental-care-brookfield",
+   "name": "Advancements in Dental Care",
+   "summary": "Advancements in Dental Care is a dentist in Brookfield, IL.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/advancements-in-dental-care-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/advancements-in-dental-care-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8268771,
+    "lon": -87.8527382
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9793701284",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "allan-e-power-brookfield",
+   "name": "Allan E. Power",
+   "summary": "Allan E. Power is a plumber in Brookfield, IL.",
+   "categories": [
+    "plumber"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/allan-e-power-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/allan-e-power-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8059768,
+    "lon": -87.8401695
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9518423020",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "allstate-brookfield",
+   "name": "Allstate",
+   "summary": "Allstate is an insurance agent in Brookfield, IL.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/allstate-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/allstate-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8227166,
+    "lon": -87.8443345
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9735798725",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "allstate-brookfield-n9793717168",
+   "name": "Allstate",
+   "summary": "Allstate is an insurance agent in Brookfield, IL.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/allstate-brookfield-n9793717168/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/allstate-brookfield-n9793717168.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.828173,
+    "lon": -87.8519646
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9793717168",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "alphabet-learning-center-brookfield",
+   "name": "Alphabet Learning Center",
+   "summary": "Alphabet Learning Center is a daycare in Brookfield, IL.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/alphabet-learning-center-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/alphabet-learning-center-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8230055,
+    "lon": -87.8453924
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9735798721",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "alphabet-learning-center-brookfield-n9793701286",
+   "name": "Alphabet Learning Center",
+   "summary": "Alphabet Learning Center is a preschool in Brookfield, IL.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/alphabet-learning-center-brookfield-n9793701286/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/alphabet-learning-center-brookfield-n9793701286.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8269697,
+    "lon": -87.8526117
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9793701286",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "american-sokol-brookfield",
+   "name": "American Sokol",
+   "summary": "American Sokol is a gym in Brookfield, IL.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/american-sokol-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/american-sokol-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.817114,
+    "lon": -87.8505801
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9503355564",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "awnings-by-harry-brookfield",
+   "name": "Awnings by Harry",
+   "summary": "Awnings by Harry is a roofer in Brookfield, IL.",
+   "categories": [
+    "roofer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/awnings-by-harry-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/awnings-by-harry-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8168781,
+    "lon": -87.8456716
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9503355568",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "bear-crossing-brookfield",
+   "name": "Bear Crossing",
+   "summary": "Bear Crossing is a gift shop in Brookfield, IL.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bear-crossing-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bear-crossing-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.832428,
+    "lon": -87.8378795
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/260214423",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "bettys-flowers-brookfield",
+   "name": "Betty's Flowers",
+   "summary": "Betty's Flowers is a florist in Brookfield, IL.",
+   "categories": [
+    "florist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bettys-flowers-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bettys-flowers-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8284764,
+    "lon": -87.8507589
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9793717297",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "bluders-tree-service-brookfield",
+   "name": "Bluder's Tree Service",
+   "summary": "Bluder's Tree Service is a landscaping company in Brookfield, IL.",
+   "categories": [
+    "landscaping"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bluders-tree-service-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bluders-tree-service-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8055179,
+    "lon": -87.855441
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9511674236",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "brennan-massage-and-spa-brookfield",
+   "name": "Brennan Massage & Spa",
+   "summary": "Brennan Massage & Spa is a massage studio in Brookfield, IL.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/brennan-massage-and-spa-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/brennan-massage-and-spa-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8236098,
+    "lon": -87.8462135
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9735798717",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "broadway-jims-brookfield",
+   "name": "Broadway Jim's",
+   "summary": "Broadway Jim's is a hair salon in Brookfield, IL.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/broadway-jims-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/broadway-jims-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8270808,
+    "lon": -87.8524626
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9793701293",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "brook-food-and-liquor-brookfield",
+   "name": "Brook Food & Liquor",
+   "summary": "Brook Food & Liquor is a liquor store in Brookfield, IL.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/brook-food-and-liquor-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/brook-food-and-liquor-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8058171,
+    "lon": -87.8467282
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9511674218",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "brookfield-chiropractic-sports-center-brookfield",
+   "name": "Brookfield Chiropractic Sports Center",
+   "summary": "Brookfield Chiropractic Sports Center is a physical therapy clinic in Brookfield, IL.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/brookfield-chiropractic-sports-center-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/brookfield-chiropractic-sports-center-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8282685,
+    "lon": -87.8521419
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9793717169",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "brookfield-express-brookfield",
+   "name": "Brookfield Express",
+   "summary": "Brookfield Express is a car wash in Brookfield, IL.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/brookfield-express-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/brookfield-express-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8171143,
+    "lon": -87.8595674
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5726406901",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "brookfield-eye-care-brookfield",
+   "name": "Brookfield Eye Care",
+   "summary": "Brookfield Eye Care is an eye care practice in Brookfield, IL.",
+   "categories": [
+    "eye doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/brookfield-eye-care-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/brookfield-eye-care-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8166497,
+    "lon": -87.8415127
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9511123764",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "brookfield-liquors-brookfield",
+   "name": "Brookfield Liquors",
+   "summary": "Brookfield Liquors is a liquor store in Brookfield, IL.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/brookfield-liquors-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/brookfield-liquors-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.835211,
+    "lon": -87.8487246
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1059066650",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "brookfield-smiles-brookfield",
+   "name": "Brookfield Smiles",
+   "summary": "Brookfield Smiles is a dentist in Brookfield, IL.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/brookfield-smiles-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/brookfield-smiles-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8167716,
+    "lon": -87.8444034
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9499927263",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "care-roofing-brookfield",
+   "name": "Care Roofing",
+   "summary": "Care Roofing is a roofer in Brookfield, IL.",
+   "categories": [
+    "roofer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/care-roofing-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/care-roofing-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8055316,
+    "lon": -87.8586897
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9511674242",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "carstar-brookfield",
+   "name": "Carstar",
+   "summary": "Carstar is an auto repair shop in Brookfield, IL.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/carstar-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/carstar-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8171676,
+    "lon": -87.8495278
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1030592078",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "castle-performance-brookfield",
+   "name": "Castle Performance",
+   "summary": "Castle Performance is an auto repair shop in Brookfield, IL.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/castle-performance-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/castle-performance-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8169927,
+    "lon": -87.8467984
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1030592106",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "central-auto-rebuilders-brookfield",
+   "name": "Central Auto Rebuilders",
+   "summary": "Central Auto Rebuilders is an auto repair shop in Brookfield, IL.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/central-auto-rebuilders-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/central-auto-rebuilders-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8164823,
+    "lon": -87.8455697
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9503355570",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "coast-gifts-brookfield",
+   "name": "Coast Gifts",
+   "summary": "Coast Gifts is a gift shop in Brookfield, IL.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/coast-gifts-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/coast-gifts-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8310116,
+    "lon": -87.8379368
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12719751740",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "complete-auto-towing-brookfield",
+   "name": "Complete Auto Towing",
+   "summary": "Complete Auto Towing is an auto repair shop in Brookfield, IL.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/complete-auto-towing-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/complete-auto-towing-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8169501,
+    "lon": -87.8454678
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9503355569",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "creative-dental-brookfield",
+   "name": "Creative Dental",
+   "summary": "Creative Dental is a dentist in Brookfield, IL.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/creative-dental-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/creative-dental-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8229999,
+    "lon": -87.8447037
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9735798724",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "crossfit-brookfield",
+   "name": "CrossFit",
+   "summary": "CrossFit is a gym in Brookfield, IL.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/crossfit-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/crossfit-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8064173,
+    "lon": -87.8470922
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9518398156",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "czs-vetranary-hospital-brookfield",
+   "name": "CZS Vetranary Hospital",
+   "summary": "CZS Vetranary Hospital is a veterinarian in Brookfield, IL.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/czs-vetranary-hospital-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/czs-vetranary-hospital-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8307556,
+    "lon": -87.8370676
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/31466823",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "debbies-brookfield",
+   "name": "Debbie's",
+   "summary": "Debbie's is a dog groomer in Brookfield, IL.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/debbies-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/debbies-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8165611,
+    "lon": -87.849352
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9499927456",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "dominck-villa-brookfield",
+   "name": "Dominck Villa",
+   "summary": "Dominck Villa is a lawyer in Brookfield, IL.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dominck-villa-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dominck-villa-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8067482,
+    "lon": -87.8464991
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12026744970",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "douglas-auto-body-brookfield",
+   "name": "Douglas Auto Body",
+   "summary": "Douglas Auto Body is an auto repair shop in Brookfield, IL.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/douglas-auto-body-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/douglas-auto-body-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8178531,
+    "lon": -87.8597363
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9499918970",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "edward-jones-brookfield",
+   "name": "Edward Jones",
+   "summary": "Edward Jones is a financial advisor in Brookfield, IL.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edward-jones-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edward-jones-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8285142,
+    "lon": -87.8506874
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9793717295",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "express-brookfield",
+   "name": "Express",
+   "summary": "Express is a staffing agency in Brookfield, IL.",
+   "categories": [
+    "staffing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/express-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/express-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.817046,
+    "lon": -87.8492819
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9503355556",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "failla-realty-brookfield",
+   "name": "Failla Realty",
+   "summary": "Failla Realty is a real estate agency in Brookfield, IL.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/failla-realty-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/failla-realty-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.828432,
+    "lon": -87.8508305
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9793717296",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "farmers-insurance-brookfield",
+   "name": "Farmers Insurance",
+   "summary": "Farmers Insurance is an insurance agent in Brookfield, IL.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/farmers-insurance-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/farmers-insurance-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8224008,
+    "lon": -87.8451597
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9797552411",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "for-the-birds-brookfield",
+   "name": "For the Birds",
+   "summary": "For the Birds is a pet store in Brookfield, IL.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/for-the-birds-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/for-the-birds-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8270875,
+    "lon": -87.8517828
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9793701295",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "forte-dentistry-brookfield",
+   "name": "Forte Dentistry",
+   "summary": "Forte Dentistry is a dentist in Brookfield, IL.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/forte-dentistry-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/forte-dentistry-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8351641,
+    "lon": -87.8483049
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1059066652",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "fox-auto-repair-brookfield",
+   "name": "Fox Auto Repair",
+   "summary": "Fox Auto Repair is an auto repair shop in Brookfield, IL.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fox-auto-repair-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fox-auto-repair-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8173729,
+    "lon": -87.855285
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9502925944",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "freddys-auto-body-brookfield",
+   "name": "Freddy's Auto Body",
+   "summary": "Freddy's Auto Body is an auto repair shop in Brookfield, IL.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/freddys-auto-body-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/freddys-auto-body-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8173444,
+    "lon": -87.8555054
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9502925943",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "frisky-dog-brookfield",
+   "name": "Frisky Dog",
+   "summary": "Frisky Dog is a dog groomer in Brookfield, IL.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/frisky-dog-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/frisky-dog-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8056842,
+    "lon": -87.8518294
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9511674226",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "g-blando-jewelers-brookfield",
+   "name": "G. Blando Jewelers",
+   "summary": "G. Blando Jewelers is a jewelry store in Brookfield, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/g-blando-jewelers-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/g-blando-jewelers-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8268266,
+    "lon": -87.8528014
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9793701285",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "galloping-ghost-gama-brookfield",
+   "name": "Galloping Ghost Gama",
+   "summary": "Galloping Ghost Gama is a martial arts school in Brookfield, IL.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/galloping-ghost-gama-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/galloping-ghost-gama-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8167117,
+    "lon": -87.8515857
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/967109553",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "galloping-ghost-garage-complete-auto-repair-brookfield",
+   "name": "Galloping Ghost Garage Complete Auto Repair",
+   "summary": "Galloping Ghost Garage Complete Auto Repair is an auto repair shop in Brookfield, IL.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/galloping-ghost-garage-complete-auto-repair-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/galloping-ghost-garage-complete-auto-repair-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8171461,
+    "lon": -87.8585095
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9502897942",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "galloping-ghost-reproductions-brookfield",
+   "name": "Galloping Ghost Reproductions",
+   "summary": "Galloping Ghost Reproductions is a printing service in Brookfield, IL.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/galloping-ghost-reproductions-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/galloping-ghost-reproductions-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8169404,
+    "lon": -87.8552467
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/967109542",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "glass-replacement-brookfield",
+   "name": "Glass Replacement",
+   "summary": "Glass Replacement is a window installer in Brookfield, IL.",
+   "categories": [
+    "window replacement"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/glass-replacement-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/glass-replacement-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8058092,
+    "lon": -87.8437806
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9511674223",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "goldin-hill-and-associates-p-c-brookfield",
+   "name": "Goldin, Hill & Associates, P.C.",
+   "summary": "Goldin, Hill & Associates, P.C. is a lawyer in Brookfield, IL.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/goldin-hill-and-associates-p-c-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/goldin-hill-and-associates-p-c-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8066668,
+    "lon": -87.8463866
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9518398158",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "gorman-and-associates-brookfield",
+   "name": "Gorman & Associates",
+   "summary": "Gorman & Associates is an accountant in Brookfield, IL.",
+   "categories": [
+    "accountant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gorman-and-associates-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gorman-and-associates-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8171921,
+    "lon": -87.85837
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9502897944",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "j-and-f-auto-rebuilders-brookfield",
+   "name": "J&F Auto Rebuilders",
+   "summary": "J&F Auto Rebuilders is an auto repair shop in Brookfield, IL.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/j-and-f-auto-rebuilders-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/j-and-f-auto-rebuilders-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8164124,
+    "lon": -87.8432127
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9499927287",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "just-teasin-brookfield",
+   "name": "Just Teasin'",
+   "summary": "Just Teasin' is a hair salon in Brookfield, IL.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/just-teasin-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/just-teasin-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8172736,
+    "lon": -87.8541107
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9502925947",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "kago-inc-brookfield",
+   "name": "Kago Inc.",
+   "summary": "Kago Inc. is a landscaping company in Brookfield, IL.",
+   "categories": [
+    "landscaping"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kago-inc-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kago-inc-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8353233,
+    "lon": -87.8473791
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9731074715",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "l-and-l-salon-and-organic-beauty-brookfield",
+   "name": "L&L Salon & Organic Beauty",
+   "summary": "L&L Salon & Organic Beauty is a nail salon in Brookfield, IL.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/l-and-l-salon-and-organic-beauty-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/l-and-l-salon-and-organic-beauty-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8350662,
+    "lon": -87.8497689
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9731074671",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "lunica-salon-brookfield",
+   "name": "L'Unica Salon",
+   "summary": "L'Unica Salon is a hair salon in Brookfield, IL.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lunica-salon-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lunica-salon-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8350684,
+    "lon": -87.849902
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9731074673",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "lake-point-roofing-brookfield",
+   "name": "Lake Point Roofing",
+   "summary": "Lake Point Roofing is a roofer in Brookfield, IL.",
+   "categories": [
+    "roofer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lake-point-roofing-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lake-point-roofing-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8171161,
+    "lon": -87.8579261
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9502897945",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "lawrence-sommers-brookfield",
+   "name": "Lawrence Sommers",
+   "summary": "Lawrence Sommers is a lawyer in Brookfield, IL.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lawrence-sommers-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lawrence-sommers-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8067054,
+    "lon": -87.8464488
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9518398159",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "leos-liquors-brookfield",
+   "name": "Leo's Liquors",
+   "summary": "Leo's Liquors is a liquor store in Brookfield, IL.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/leos-liquors-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/leos-liquors-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8281023,
+    "lon": -87.851272
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/558620009",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "leonetti-podiatrist-brookfield",
+   "name": "Leonetti Podiatrist",
+   "summary": "Leonetti Podiatrist is a podiatrist in Brookfield, IL.",
+   "categories": [
+    "podiatrist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/leonetti-podiatrist-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/leonetti-podiatrist-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8350878,
+    "lon": -87.8490245
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9731074674",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "licitra-brookfield",
+   "name": "Licitra",
+   "summary": "Licitra is a roofer in Brookfield, IL.",
+   "categories": [
+    "roofer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/licitra-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/licitra-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8055115,
+    "lon": -87.8576989
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9511674240",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "linda-sokol-francis-brookfield",
+   "name": "Linda Sokol Francis",
+   "summary": "Linda Sokol Francis is a financial advisor in Brookfield, IL.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/linda-sokol-francis-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/linda-sokol-francis-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8282285,
+    "lon": -87.8520913
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9793717170",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "lorenas-hair-salon-brookfield",
+   "name": "Lorena's Hair Salon",
+   "summary": "Lorena's Hair Salon is a hair salon in Brookfield, IL.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lorenas-hair-salon-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lorenas-hair-salon-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8283232,
+    "lon": -87.8509616
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9793717299",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "magic-touch-cleaners-brookfield",
+   "name": "Magic Touch Cleaners",
+   "summary": "Magic Touch Cleaners is a dry cleaner in Brookfield, IL.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/magic-touch-cleaners-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/magic-touch-cleaners-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8226563,
+    "lon": -87.8438414
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9735798729",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "maks-brookfield",
+   "name": "Mak's",
+   "summary": "Mak's is an auto repair shop in Brookfield, IL.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/maks-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/maks-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8171051,
+    "lon": -87.8577223
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9502897946",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "mastrodonato-and-associates-brookfield",
+   "name": "Mastrodonato and Associates",
+   "summary": "Mastrodonato and Associates is an accountant in Brookfield, IL.",
+   "categories": [
+    "accountant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mastrodonato-and-associates-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mastrodonato-and-associates-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8167136,
+    "lon": -87.8494738
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9520545881",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "mccabe-and-mccabe-brookfield",
+   "name": "McCabe & McCabe",
+   "summary": "McCabe & McCabe is a lawyer in Brookfield, IL.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mccabe-and-mccabe-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mccabe-and-mccabe-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8163238,
+    "lon": -87.8417208
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9511123758",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "mirobolant-brookfield",
+   "name": "Mirobolant",
+   "summary": "Mirobolant is a hair salon in Brookfield, IL.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mirobolant-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mirobolant-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8267408,
+    "lon": -87.8522255
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9793701287",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "mobil-brookfield",
+   "name": "Mobil",
+   "summary": "Mobil is a car wash in Brookfield, IL.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mobil-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mobil-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8167156,
+    "lon": -87.8507972
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1030592030",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "montessori-childrens-community-brookfield",
+   "name": "Montessori Children's Community",
+   "summary": "Montessori Children's Community is a preschool in Brookfield, IL.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/montessori-childrens-community-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/montessori-childrens-community-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8283518,
+    "lon": -87.8517173
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9793717177",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "ms-claras-mini-musicians-brookfield",
+   "name": "Ms. Clara's Mini Musicians",
+   "summary": "Ms. Clara's Mini Musicians is a music school in Brookfield, IL.",
+   "categories": [
+    "music lessons"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ms-claras-mini-musicians-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ms-claras-mini-musicians-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8269394,
+    "lon": -87.8519522
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9793701288",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "new-smile-center-brookfield",
+   "name": "New Smile Center",
+   "summary": "New Smile Center is a dentist in Brookfield, IL.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/new-smile-center-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/new-smile-center-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8271649,
+    "lon": -87.8516721
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9793701291",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "north-outpost-brookfield",
+   "name": "North Outpost",
+   "summary": "North Outpost is a gift shop in Brookfield, IL.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/north-outpost-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/north-outpost-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.835022,
+    "lon": -87.8335431
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/772836231",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "novys-brookfield",
+   "name": "Novy's",
+   "summary": "Novy's is a window installer in Brookfield, IL.",
+   "categories": [
+    "window replacement"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/novys-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/novys-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8171841,
+    "lon": -87.8582373
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9502897943",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "ogden-avenue-car-care-and-transmissions-brookfield",
+   "name": "Ogden Avenue Car Care and Transmissions",
+   "summary": "Ogden Avenue Car Care and Transmissions is an auto repair shop in Brookfield, IL.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ogden-avenue-car-care-and-transmissions-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ogden-avenue-car-care-and-transmissions-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8166084,
+    "lon": -87.8408914
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9499927332",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "onelan-hair-and-beauty-salon-brookfield",
+   "name": "Onelan Hair & Beauty Salon",
+   "summary": "Onelan Hair & Beauty Salon is a hair salon in Brookfield, IL.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/onelan-hair-and-beauty-salon-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/onelan-hair-and-beauty-salon-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8227857,
+    "lon": -87.844182
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9735798732",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "organic-jewelry-brookfield",
+   "name": "Organic Jewelry",
+   "summary": "Organic Jewelry is a jewelry store in Brookfield, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/organic-jewelry-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/organic-jewelry-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8274319,
+    "lon": -87.8521332
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1388275770",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "panel-window-brookfield",
+   "name": "Panel Window",
+   "summary": "Panel Window is a window installer in Brookfield, IL.",
+   "categories": [
+    "window replacement"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/panel-window-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/panel-window-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8171781,
+    "lon": -87.8580696
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9502897947",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "pg-family-dental-brookfield",
+   "name": "PG Family Dental",
+   "summary": "PG Family Dental is a dentist in Brookfield, IL.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pg-family-dental-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pg-family-dental-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8170418,
+    "lon": -87.8499663
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9499927402",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "phoenix-brookfield",
+   "name": "Phoenix",
+   "summary": "Phoenix is a liquor store in Brookfield, IL.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/phoenix-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/phoenix-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8166127,
+    "lon": -87.8411035
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9499927331",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "physician-and-surgeon-of-the-foot-and-ankle-brookfield",
+   "name": "Physician and Surgeon of the Foot and Ankle",
+   "summary": "Physician and Surgeon of the Foot and Ankle is a podiatrist in Brookfield, IL.",
+   "categories": [
+    "podiatrist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/physician-and-surgeon-of-the-foot-and-ankle-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/physician-and-surgeon-of-the-foot-and-ankle-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8267509,
+    "lon": -87.8529008
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9793701283",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "pizzazz-brookfield",
+   "name": "Pizzazz",
+   "summary": "Pizzazz is a hair salon in Brookfield, IL.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pizzazz-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pizzazz-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8168981,
+    "lon": -87.8460901
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9503355566",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "prehop-cleaners-brookfield",
+   "name": "Prehop Cleaners",
+   "summary": "Prehop Cleaners is a dry cleaner in Brookfield, IL.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/prehop-cleaners-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/prehop-cleaners-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8162994,
+    "lon": -87.8424485
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1030592055",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "rodriguez-auto-repair-brookfield",
+   "name": "Rodriguez Auto Repair",
+   "summary": "Rodriguez Auto Repair is an auto repair shop in Brookfield, IL.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rodriguez-auto-repair-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rodriguez-auto-repair-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8223931,
+    "lon": -87.844919
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/614962226",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "royal-oak-landscaping-brookfield",
+   "name": "Royal Oak Landscaping",
+   "summary": "Royal Oak Landscaping is a landscaping company in Brookfield, IL.",
+   "categories": [
+    "landscaping"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/royal-oak-landscaping-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/royal-oak-landscaping-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8056675,
+    "lon": -87.851286
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9511674227",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "salon-b-brookfield",
+   "name": "Salon B",
+   "summary": "Salon B is a hair salon in Brookfield, IL.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/salon-b-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/salon-b-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8170792,
+    "lon": -87.8573016
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9502925942",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "sams-brookfield",
+   "name": "Sam's",
+   "summary": "Sam's is an auto repair shop in Brookfield, IL.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sams-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sams-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8171238,
+    "lon": -87.8480764
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1030592079",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "scheers-brookfield",
+   "name": "Scheer's",
+   "summary": "Scheer's is an insurance agent in Brookfield, IL.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/scheers-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/scheers-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8055537,
+    "lon": -87.855648
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9511674237",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "sister-squared-florist-brookfield",
+   "name": "Sister Squared Florist",
+   "summary": "Sister Squared Florist is a florist in Brookfield, IL.",
+   "categories": [
+    "florist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sister-squared-florist-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sister-squared-florist-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8226174,
+    "lon": -87.8438511
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13577889269",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "spirit-of-america-brookfield",
+   "name": "Spirit of America",
+   "summary": "Spirit of America is a car wash in Brookfield, IL.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/spirit-of-america-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/spirit-of-america-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8058232,
+    "lon": -87.8542327
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/970395897",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "state-farm-brookfield",
+   "name": "State Farm",
+   "summary": "State Farm is an insurance agent in Brookfield, IL.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/state-farm-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/state-farm-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8167101,
+    "lon": -87.8493748
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9499927457",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "state-farm-brookfield-n9793717314",
+   "name": "State Farm",
+   "summary": "State Farm is an insurance agent in Brookfield, IL.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/state-farm-brookfield-n9793717314/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/state-farm-brookfield-n9793717314.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8269791,
+    "lon": -87.8513109
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9793717314",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "styles-brookfield",
+   "name": "Styles",
+   "summary": "Styles is a hair salon in Brookfield, IL.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/styles-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/styles-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8169807,
+    "lon": -87.8484551
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9499927438",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "suicidal-cycle-works-brookfield",
+   "name": "Suicidal Cycle Works",
+   "summary": "Suicidal Cycle Works is a motorcycle repair shop in Brookfield, IL.",
+   "categories": [
+    "motorcycle repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/suicidal-cycle-works-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/suicidal-cycle-works-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8057899,
+    "lon": -87.8431065
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9518423017",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "superior-barbershop-brookfield",
+   "name": "Superior Barbershop",
+   "summary": "Superior Barbershop is a hair salon in Brookfield, IL.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/superior-barbershop-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/superior-barbershop-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8213592,
+    "lon": -87.844453
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9735798708",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "swan-brookfield",
+   "name": "Swan",
+   "summary": "Swan is a dry cleaner in Brookfield, IL.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/swan-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/swan-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8055289,
+    "lon": -87.8572483
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9511674239",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "total-brookfield",
+   "name": "Total",
+   "summary": "Total is a staffing agency in Brookfield, IL.",
+   "categories": [
+    "staffing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/total-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/total-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8059634,
+    "lon": -87.8467249
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9511655516",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "unique-plumbing-company-brookfield",
+   "name": "Unique Plumbing Company",
+   "summary": "Unique Plumbing Company is a plumber in Brookfield, IL.",
+   "categories": [
+    "plumber"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/unique-plumbing-company-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/unique-plumbing-company-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8055372,
+    "lon": -87.8550862
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9511674235",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "western-suburbs-concrete-brookfield",
+   "name": "Western Suburbs Concrete",
+   "summary": "Western Suburbs Concrete is a paving contractor in Brookfield, IL.",
+   "categories": [
+    "driveway paving"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/western-suburbs-concrete-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/western-suburbs-concrete-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8056033,
+    "lon": -87.8547684
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9511674234",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "wildlife-trading-post-brookfield",
+   "name": "Wildlife Trading Post",
+   "summary": "Wildlife Trading Post is a gift shop in Brookfield, IL.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wildlife-trading-post-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wildlife-trading-post-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8312626,
+    "lon": -87.8340463
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/31466709",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "woof-field-gifts-brookfield",
+   "name": "Woof-Field Gifts",
+   "summary": "Woof-Field Gifts is a gift shop in Brookfield, IL.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/woof-field-gifts-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/woof-field-gifts-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8311493,
+    "lon": -87.8360958
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1340306923",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "zaborsky-law-office-brookfield",
+   "name": "Zaborsky Law Office",
+   "summary": "Zaborsky Law Office is a lawyer in Brookfield, IL.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/zaborsky-law-office-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/zaborsky-law-office-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8233265,
+    "lon": -87.8451252
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9735798719",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

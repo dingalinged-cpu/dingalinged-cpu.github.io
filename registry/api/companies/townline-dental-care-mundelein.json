@@ -1,0 +1,52 @@
+{
+ "slug": "townline-dental-care-mundelein",
+ "name": "Townline Dental Care",
+ "categories": [
+  "dentist"
+ ],
+ "keywords": [
+  "dentist",
+  "dentist mundelein il"
+ ],
+ "services": [
+  {
+   "name": "dentist",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Mundelein",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Mundelein",
+ "state": "IL",
+ "geo": {
+  "lat": 42.241326,
+  "lon": -87.9979124
+ },
+ "schema_type": "Dentist",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/7140613714",
+ "osm": {
+  "type": "node",
+  "id": 7140613714,
+  "tags_used": {
+   "amenity": "dentist",
+   "healthcare": "dentist"
+  }
+ },
+ "municipality": "Mundelein",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/townline-dental-care-mundelein/",
+ "summary": "Townline Dental Care is a dentist in Mundelein, IL.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

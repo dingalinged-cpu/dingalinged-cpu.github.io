@@ -1,0 +1,64 @@
+{
+ "slug": "tax-wise-saver-accounting-and-tax-preparation-services-hickory-hills",
+ "name": "Tax Wise Saver Accounting & Tax Preparation Services",
+ "categories": [
+  "accountant"
+ ],
+ "keywords": [
+  "accountant",
+  "accounting services",
+  "accountant hickory hills il",
+  "accounting services hickory hills il"
+ ],
+ "services": [
+  {
+   "name": "accountant",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "accounting services",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "8039 West 87th Street",
+  "addressLocality": "Hickory Hills",
+  "addressRegion": "IL",
+  "postalCode": "60457",
+  "addressCountry": "US"
+ },
+ "city": "Hickory Hills",
+ "state": "IL",
+ "zip": "60457",
+ "geo": {
+  "lat": 41.7327082,
+  "lon": -87.8201755
+ },
+ "phone": "+17089421944",
+ "website": "https://taxwisesaver.com/",
+ "email": "taxwisesaver@gmail.com",
+ "opening_hours": "Sa-Su CLOSED, Mo-Fr 09:00-17:00",
+ "schema_type": "AccountingService",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/13331197194",
+ "osm": {
+  "type": "node",
+  "id": 13331197194,
+  "tags_used": {
+   "office": "accountant"
+  }
+ },
+ "municipality": "Hickory Hills",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/tax-wise-saver-accounting-and-tax-preparation-services-hickory-hills/",
+ "summary": "Tax Wise Saver Accounting & Tax Preparation Services is an accountant in Hickory Hills, IL at 8039 West 87th Street, Hickory Hills, IL 60457. Phone: +17089421944. Website: https://taxwisesaver.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

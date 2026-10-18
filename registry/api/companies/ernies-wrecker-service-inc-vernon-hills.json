@@ -1,0 +1,60 @@
+{
+ "slug": "ernies-wrecker-service-inc-vernon-hills",
+ "name": "Ernie's Wrecker Service, Inc",
+ "categories": [
+  "auto repair"
+ ],
+ "keywords": [
+  "auto repair",
+  "mechanic",
+  "auto repair vernon hills il",
+  "mechanic vernon hills il"
+ ],
+ "services": [
+  {
+   "name": "auto repair",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "mechanic",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "909 S Milwaukee Avenue",
+  "addressLocality": "Vernon Hills",
+  "addressRegion": "IL",
+  "postalCode": "60061",
+  "addressCountry": "US"
+ },
+ "city": "Vernon Hills",
+ "state": "IL",
+ "zip": "60061",
+ "geo": {
+  "lat": 42.2095365,
+  "lon": -87.932957
+ },
+ "schema_type": "AutoRepair",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/327824228",
+ "osm": {
+  "type": "way",
+  "id": 327824228,
+  "tags_used": {
+   "shop": "car_repair"
+  }
+ },
+ "municipality": "Vernon Hills",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/ernies-wrecker-service-inc-vernon-hills/",
+ "summary": "Ernie's Wrecker Service, Inc is an auto repair shop in Vernon Hills, IL at 909 S Milwaukee Avenue, Vernon Hills, IL 60061.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

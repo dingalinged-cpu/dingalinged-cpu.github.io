@@ -1,0 +1,63 @@
+{
+ "slug": "sport-clips-chicago-w1319742216",
+ "name": "Sport Clips",
+ "categories": [
+  "hair salon"
+ ],
+ "keywords": [
+  "hair salon",
+  "haircut",
+  "hair salon chicago il",
+  "haircut chicago il"
+ ],
+ "services": [
+  {
+   "name": "hair salon",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "haircut",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "2750 North Clybourn Avenue",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60614",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60614",
+ "geo": {
+  "lat": 41.9308626,
+  "lon": -87.6768683
+ },
+ "website": "https://sportclips.com/us-il-chicago-il209",
+ "brand": "Sport Clips",
+ "wikidata": "Q7579310",
+ "schema_type": "HairSalon",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/1319742216",
+ "osm": {
+  "type": "way",
+  "id": 1319742216,
+  "tags_used": {
+   "shop": "hairdresser"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/sport-clips-chicago-w1319742216/",
+ "summary": "Sport Clips is a hair salon in Chicago, IL at 2750 North Clybourn Avenue, Chicago, IL 60614. Website: https://sportclips.com/us-il-chicago-il209.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

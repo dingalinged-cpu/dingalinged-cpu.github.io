@@ -1,0 +1,59 @@
+{
+ "slug": "anytime-fitness-mount-prospect",
+ "name": "Anytime Fitness",
+ "categories": [
+  "gym"
+ ],
+ "keywords": [
+  "gym",
+  "gym mount prospect il"
+ ],
+ "services": [
+  {
+   "name": "gym",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1317 North Wolf Road",
+  "addressLocality": "Mount Prospect",
+  "addressRegion": "IL",
+  "postalCode": "60056",
+  "addressCountry": "US"
+ },
+ "city": "Mount Prospect",
+ "state": "IL",
+ "zip": "60056",
+ "geo": {
+  "lat": 42.0883743,
+  "lon": -87.9073026
+ },
+ "phone": "+18473768887",
+ "website": "https://www.anytimefitness.com/gyms/3334/mt-prospect-il-60056/",
+ "opening_hours": "24/7",
+ "brand": "Anytime Fitness",
+ "wikidata": "Q4778364",
+ "schema_type": "ExerciseGym",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/7505786410",
+ "osm": {
+  "type": "node",
+  "id": 7505786410,
+  "tags_used": {
+   "leisure": "fitness_centre"
+  }
+ },
+ "municipality": "Mount Prospect",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/anytime-fitness-mount-prospect/",
+ "summary": "Anytime Fitness is a gym in Mount Prospect, IL at 1317 North Wolf Road, Mount Prospect, IL 60056. Phone: +18473768887. Website: https://www.anytimefitness.com/gyms/3334/mt-prospect-il-60056/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,56 @@
+{
+ "slug": "the-goddard-school-chicago-w841813145",
+ "name": "The Goddard School",
+ "categories": [
+  "preschool"
+ ],
+ "keywords": [
+  "preschool",
+  "preschool chicago il"
+ ],
+ "services": [
+  {
+   "name": "preschool",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "209 East Cullerton Street",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60616",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60616",
+ "geo": {
+  "lat": 41.8552788,
+  "lon": -87.6219738
+ },
+ "brand": "The Goddard School",
+ "wikidata": "Q5576260",
+ "schema_type": "Preschool",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/841813145",
+ "osm": {
+  "type": "way",
+  "id": 841813145,
+  "tags_used": {
+   "amenity": "kindergarten"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/the-goddard-school-chicago-w841813145/",
+ "summary": "The Goddard School is a preschool in Chicago, IL at 209 East Cullerton Street, Chicago, IL 60616.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

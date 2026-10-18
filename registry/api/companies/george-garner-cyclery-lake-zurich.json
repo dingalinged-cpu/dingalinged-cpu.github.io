@@ -1,0 +1,54 @@
+{
+ "slug": "george-garner-cyclery-lake-zurich",
+ "name": "George Garner Cyclery",
+ "categories": [
+  "bike shop"
+ ],
+ "keywords": [
+  "bike shop",
+  "bike shop lake zurich il"
+ ],
+ "services": [
+  {
+   "name": "bike shop",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "Ela Road",
+  "addressLocality": "Lake Zurich",
+  "addressRegion": "IL",
+  "postalCode": "60047",
+  "addressCountry": "US"
+ },
+ "city": "Lake Zurich",
+ "state": "IL",
+ "zip": "60047",
+ "geo": {
+  "lat": 42.1884795,
+  "lon": -88.102059
+ },
+ "schema_type": "BikeStore",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/447981825",
+ "osm": {
+  "type": "way",
+  "id": 447981825,
+  "tags_used": {
+   "shop": "bicycle"
+  }
+ },
+ "municipality": "Lake Zurich",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/george-garner-cyclery-lake-zurich/",
+ "summary": "George Garner Cyclery is a bike shop in Lake Zurich, IL at Ela Road, Lake Zurich, IL 60047.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

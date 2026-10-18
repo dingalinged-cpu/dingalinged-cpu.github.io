@@ -1,0 +1,61 @@
+{
+ "slug": "c-j-nails-darien",
+ "name": "C.J Nails",
+ "categories": [
+  "nail salon"
+ ],
+ "keywords": [
+  "nail salon",
+  "waxing",
+  "nail salon darien il",
+  "waxing darien il"
+ ],
+ "services": [
+  {
+   "name": "nail salon",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "waxing",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "7511 Lemont Road",
+  "addressLocality": "Darien",
+  "addressRegion": "IL",
+  "postalCode": "60561",
+  "addressCountry": "US"
+ },
+ "city": "Darien",
+ "state": "IL",
+ "zip": "60561",
+ "geo": {
+  "lat": 41.7491708,
+  "lon": -88.0098367
+ },
+ "schema_type": "NailSalon",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/5256928059",
+ "osm": {
+  "type": "node",
+  "id": 5256928059,
+  "tags_used": {
+   "shop": "beauty",
+   "beauty": "nails;waxing;massage"
+  }
+ },
+ "municipality": "Darien",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/c-j-nails-darien/",
+ "summary": "C.J Nails is a nail salon in Darien, IL at 7511 Lemont Road, Darien, IL 60561.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

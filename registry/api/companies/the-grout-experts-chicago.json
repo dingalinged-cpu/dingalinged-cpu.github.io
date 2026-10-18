@@ -1,0 +1,57 @@
+{
+ "slug": "the-grout-experts-chicago",
+ "name": "The Grout Experts",
+ "categories": [
+  "tile installation"
+ ],
+ "keywords": [
+  "tile installation",
+  "tile installation chicago il"
+ ],
+ "services": [
+  {
+   "name": "tile installation",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "2345 West School Street",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60618",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60618",
+ "geo": {
+  "lat": 41.9410814,
+  "lon": -87.6874095
+ },
+ "phone": "+18473566928",
+ "website": "https://grout-experts.com/",
+ "opening_hours": "24/7",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/5738248131",
+ "osm": {
+  "type": "node",
+  "id": 5738248131,
+  "tags_used": {
+   "craft": "tiler"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/the-grout-experts-chicago/",
+ "summary": "The Grout Experts is a tile installer in Chicago, IL at 2345 West School Street, Chicago, IL 60618. Phone: +18473566928. Website: https://grout-experts.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

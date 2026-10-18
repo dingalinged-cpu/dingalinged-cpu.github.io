@@ -1,0 +1,60 @@
+{
+ "slug": "shell-des-plaines",
+ "name": "Shell",
+ "categories": [
+  "auto repair"
+ ],
+ "keywords": [
+  "auto repair",
+  "mechanic",
+  "auto repair des plaines il",
+  "mechanic des plaines il"
+ ],
+ "services": [
+  {
+   "name": "auto repair",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "mechanic",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1605 South Des Plaines River Road",
+  "addressLocality": "Des Plaines",
+  "addressRegion": "IL",
+  "postalCode": "60018",
+  "addressCountry": "US"
+ },
+ "city": "Des Plaines",
+ "state": "IL",
+ "zip": "60018",
+ "geo": {
+  "lat": 42.0242701,
+  "lon": -87.8761874
+ },
+ "schema_type": "AutoRepair",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/154201212",
+ "osm": {
+  "type": "way",
+  "id": 154201212,
+  "tags_used": {
+   "shop": "car_repair"
+  }
+ },
+ "municipality": "Des Plaines",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/shell-des-plaines/",
+ "summary": "Shell is an auto repair shop in Des Plaines, IL at 1605 South Des Plaines River Road, Des Plaines, IL 60018.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

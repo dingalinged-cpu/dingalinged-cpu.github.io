@@ -1,0 +1,23 @@
+VASA Fitness is a gym in Joliet, IL at 1590 North Larkin Avenue, Joliet, IL 60435. Website: https://vasafitness.com/locations/il/joliet/.
+
+# VASA Fitness
+
+- Category: gym
+- Services: gym
+- Address: 1590 North Larkin Avenue, Joliet, IL 60435
+- City: Joliet
+- State: IL
+- ZIP: 60435
+- Coordinates: 41.5507303, -88.1247075
+- Phone: n/a
+- Website: https://vasafitness.com/locations/il/joliet/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/vasa-fitness-joliet/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/vasa-fitness-joliet.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/44073424 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

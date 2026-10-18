@@ -1,0 +1,23 @@
+Liposuction and Cosmetic Surgery Institute is a plastic surgeon in Naperville, IL at 630 North Washington Street, Naperville, IL 60563. Phone: +16309224000. Website: https://www.lipodoc.com/.
+
+# Liposuction and Cosmetic Surgery Institute
+
+- Category: plastic surgeon
+- Services: plastic surgeon
+- Address: 630 North Washington Street, Naperville, IL 60563
+- City: Naperville
+- State: IL
+- ZIP: 60563
+- Coordinates: 41.7829528, -88.1470603
+- Phone: +16309224000
+- Website: https://www.lipodoc.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/liposuction-and-cosmetic-surgery-institute-naperville/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/liposuction-and-cosmetic-surgery-institute-naperville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/8896784170 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

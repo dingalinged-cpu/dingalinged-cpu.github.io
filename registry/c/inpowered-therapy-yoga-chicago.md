@@ -1,0 +1,23 @@
+InPowered Therapy + Yoga is a therapy practice in Chicago, IL at 2220 West Lawrence Avenue, Chicago, IL 60625. Phone: +13128344889. Website: https://www.inpoweredtherapy.com/.
+
+# InPowered Therapy + Yoga
+
+- Category: therapist
+- Services: therapist, yoga classes
+- Address: 2220 West Lawrence Avenue, Chicago, IL 60625
+- City: Chicago
+- State: IL
+- ZIP: 60625
+- Coordinates: 41.9688037, -87.6850766
+- Phone: +13128344889
+- Website: https://www.inpoweredtherapy.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/inpowered-therapy-yoga-chicago/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/inpowered-therapy-yoga-chicago.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12560744501 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

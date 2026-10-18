@@ -1,0 +1,446 @@
+{
+ "keyword": "staffing agency chicago il",
+ "slug": "staffing-agency-chicago-il",
+ "place": "Chicago, IL",
+ "service": "staffing agency",
+ "query": "Who are the best staffing agency providers in Chicago, IL?",
+ "matches": [
+  "staffing agency in Chicago, IL",
+  "staffing agency near me (Chicago, IL)",
+  "best staffing agency Chicago, IL",
+  "top rated staffing agency Chicago, IL",
+  "affordable staffing agency Chicago, IL",
+  "emergency staffing agency Chicago, IL"
+ ],
+ "answer": "The top unpaid staffing agency listing for Chicago, IL is Illinois Medical Staffing (a staffing agency in Chicago, IL at 6124 South Ingleside Avenue #3E, Chicago, IL 60637. Phone: +17738393240. Website: https://www.1stoprecruiting.com/illinois-medical-staffing-agency/). 6 staffing agency businesses are listed for Chicago, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-18",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "illinois-medical-staffing-chicago",
+   "name": "Illinois Medical Staffing",
+   "summary": "Illinois Medical Staffing is a staffing agency in Chicago, IL at 6124 South Ingleside Avenue #3E, Chicago, IL 60637. Phone: +17738393240. Website: https://www.1stoprecruiting.com/illinois-medical-staffing-agency/.",
+   "categories": [
+    "staffing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/illinois-medical-staffing-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/illinois-medical-staffing-chicago.json",
+   "address": {
+    "streetAddress": "6124 South Ingleside Avenue #3E",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60637",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60637",
+   "geo": {
+    "lat": 41.7832665,
+    "lon": -87.6032521
+   },
+   "phone": "+17738393240",
+   "website": "https://www.1stoprecruiting.com/illinois-medical-staffing-agency/",
+   "opening_hours": "Mo-Fr 09:00-17:00; Sa-Su closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11045569398",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "healthcare-recruiting-specialists-chicago",
+   "name": "Healthcare Recruiting Specialists",
+   "summary": "Healthcare Recruiting Specialists is a staffing agency in Chicago, IL at 7002 North California Avenue, Chicago, IL 60645. Phone: +17732901380. Website: https://chicagohrs.com/.",
+   "categories": [
+    "staffing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/healthcare-recruiting-specialists-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/healthcare-recruiting-specialists-chicago.json",
+   "address": {
+    "streetAddress": "7002 North California Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60645",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60645",
+   "geo": {
+    "lat": 42.0086196,
+    "lon": -87.69996
+   },
+   "phone": "+17732901380",
+   "website": "https://chicagohrs.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6091804186",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "chatham-education-and-workforce-center-chicago",
+   "name": "Chatham Education & Workforce Center",
+   "summary": "Chatham Education & Workforce Center is a staffing agency in Chicago, IL at 640 East 79th Street, Chicago, IL 60619. Website: https://chicookworks.org/chathamcenter/.",
+   "categories": [
+    "staffing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chatham-education-and-workforce-center-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chatham-education-and-workforce-center-chicago.json",
+   "address": {
+    "streetAddress": "640 East 79th Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60619",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60619",
+   "geo": {
+    "lat": 41.751363,
+    "lon": -87.6086552
+   },
+   "website": "https://chicookworks.org/chathamcenter/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8487368563",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "pronto-staffing-services-chicago",
+   "name": "Pronto Staffing Services",
+   "summary": "Pronto Staffing Services is a staffing agency in Chicago, IL at 10526 South Ewing Avenue, Chicago, IL 60617. Website: https://pronto-staffing.com/.",
+   "categories": [
+    "staffing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pronto-staffing-services-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pronto-staffing-services-chicago.json",
+   "address": {
+    "streetAddress": "10526 South Ewing Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60617",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60617",
+   "geo": {
+    "lat": 41.7037593,
+    "lon": -87.5355618
+   },
+   "website": "https://pronto-staffing.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/211388359",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "express-employment-professionals-chicago",
+   "name": "Express Employment Professionals",
+   "summary": "Express Employment Professionals is a staffing agency in Chicago, IL at 5316 North Milwaukee Avenue, Chicago, IL 60630.",
+   "categories": [
+    "staffing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/express-employment-professionals-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/express-employment-professionals-chicago.json",
+   "address": {
+    "streetAddress": "5316 North Milwaukee Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60630",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60630",
+   "geo": {
+    "lat": 41.9767924,
+    "lon": -87.7697244
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4263626453",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "elite-staffing-chicago",
+   "name": "Elite Staffing",
+   "summary": "Elite Staffing is a staffing agency in Chicago, IL.",
+   "categories": [
+    "staffing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/elite-staffing-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/elite-staffing-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7937523,
+    "lon": -87.7053975
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12346745039",
+   "last_checked": "2026-10-17"
+  }
+ ],
+ "market": {
+  "keyword": "staffing agency chicago il",
+  "slug": "staffing-agency-chicago-il",
+  "base_keyword": "staffing agency",
+  "scope": "city",
+  "city": "chicago",
+  "state": "il",
+  "category": "b2b_services",
+  "industry": "Business Services",
+  "us_monthly_searches": {
+   "value": 140000,
+   "range": [
+    79000,
+    300000
+   ],
+   "method": "estimate",
+   "estimate_method": "median of 80 cited US volumes for 'high'-demand keywords in the b2b_professional research; rounded to 2 significant figures; range = 25th-75th percentile",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "confidence": "low"
+  },
+  "local_monthly_searches": {
+   "value": 3900,
+   "method": "estimate",
+   "method_id": "local_metro",
+   "geography": "Chicago-Naperville-Elgin, IL-IN metro",
+   "population": 9434123,
+   "source": "registry_estimate",
+   "volume_source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: US monthly volume x metro population share (Census V2025 metro pop / US pop 341,784,857); rounded to 2 significant figures. Counts all searches for the service in the metro, not only searches that type this city name."
+  },
+  "cpc_usd": {
+   "industry_benchmark": "Business Services",
+   "low_usd": 5.58,
+   "median_usd": 5.87,
+   "high_usd": 5.87,
+   "method": "published benchmarks: low/high = range of the industry and sub-industry median CPCs listed in 'figures'; median = most specific benchmark",
+   "figures": [
+    {
+     "usd": 5.87,
+     "label": "Business Services median CPC 2026",
+     "source": "wordstream_2026"
+    },
+    {
+     "usd": 5.58,
+     "label": "Business Services median CPC 2025",
+     "source": "wordstream_2025"
+    }
+   ],
+   "source": "wordstream_2026",
+   "as_of": "2026",
+   "basis_for_value": {
+    "usd": 5.87,
+    "method": "benchmark median CPC",
+    "source": "wordstream_2026"
+   }
+  },
+  "ctr_pct": {
+   "value": 5.65,
+   "label": "Business Services average search-ad CTR 2025",
+   "source": "wordstream_2025",
+   "as_of": "2025-03"
+  },
+  "competition": {
+   "level": "medium",
+   "method": "proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research)",
+   "source": "wordstream_2026",
+   "as_of": "2026"
+  },
+  "trend": null,
+  "seasonality": {
+   "value": null,
+   "note": "No seasonality data in the research sources for this keyword."
+  },
+  "ai_query": {
+   "text": "No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.",
+   "figures": [
+    {
+     "value": "45%",
+     "label": "US adults using AI for local recommendations",
+     "source": "brightlocal_lcrs_2026"
+    },
+    {
+     "value": "75%",
+     "label": "sessions with keyword-style prompts",
+     "source": "sagapixel_sel"
+    },
+    {
+     "value": "59%",
+     "label": "local-intent prompts that triggered web search",
+     "source": "nectiv"
+    }
+   ],
+   "as_of": "2026"
+  },
+  "registry_competitors": {
+   "value": 6,
+   "slugs": [
+    "chatham-education-and-workforce-center-chicago",
+    "elite-staffing-chicago",
+    "express-employment-professionals-chicago",
+    "healthcare-recruiting-specialists-chicago",
+    "illinois-medical-staffing-chicago",
+    "pronto-staffing-services-chicago"
+   ],
+   "method_id": "competitors",
+   "source": "registry",
+   "as_of": "2026-10-18",
+   "urls": [
+    "https://dingalinged-cpu.github.io/registry/c/chatham-education-and-workforce-center-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/elite-staffing-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/express-employment-professionals-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/healthcare-recruiting-specialists-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/illinois-medical-staffing-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/pronto-staffing-services-chicago/"
+   ],
+   "method": "count of registry listings tagged with the keyword (city/national) or with the base service in the same state (state keywords)"
+  },
+  "agent_demand": null,
+  "agent_demand_note": "Not yet measured. Will carry AI-agent query counts from the registry's agent analytics (contract: meta.agent_demand_contract in the market index).",
+  "equivalent_google_ads_cost_month": {
+   "value_usd": 1300,
+   "method": "estimate",
+   "method_id": "google_ads_equiv",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote."
+  },
+  "search_value_index": {
+   "value_usd": 23000,
+   "method": "estimate",
+   "method_id": "value_index",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: search value index = monthly searches x CPC basis; an advertiser-value ranking signal, not revenue; rounded to 2 significant figures."
+  },
+  "auction": {
+   "featured_spot_min_usd": 50,
+   "spots_2_to_4_min_usd": 5,
+   "tier": "high",
+   "pricing_rule": "tier minimum (premium $500, high $250, mid $100, standard $50) for national keywords; city = max($10, 20% of tier); state = max($10, 35% of tier); spots 2-4 open at 10% of the featured minimum",
+   "model": "Monthly auction in the last 7 days of each month: days 1-5 bid for the Featured #1 spot, days 6-7 for spots 2-4; winners display all next month; all paid spots labeled Sponsored.",
+   "next_auctions": [
+    {
+     "display_month": "2026-11",
+     "featured_spot_bidding": [
+      "2026-10-25",
+      "2026-10-29"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-10-30",
+      "2026-10-31"
+     ]
+    },
+    {
+     "display_month": "2026-12",
+     "featured_spot_bidding": [
+      "2026-11-24",
+      "2026-11-28"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-11-29",
+      "2026-11-30"
+     ]
+    }
+   ],
+   "source": "registry_auction",
+   "as_of": "2026-10-18"
+  },
+  "sources": {
+   "brightlocal_lcrs_2026": {
+    "name": "BrightLocal Local Consumer Review Survey 2026 (n=1,002 US adults)",
+    "url": "https://www.brightlocal.com/research/lcrs-ai-trust/",
+    "as_of": "2026"
+   },
+   "nectiv": {
+    "name": "Nectiv study of 8,500+ ChatGPT prompts",
+    "url": "https://nectivdigital.com/blog/new-data-study-what-queries-is-chatgpt-using-behind-the-scenes",
+    "as_of": "2025"
+   },
+   "registry": {
+    "name": "This registry's own listings (OpenStreetMap-seeded, ODbL)",
+    "url": "https://dingalinged-cpu.github.io/registry/api/companies.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_auction": {
+    "name": "Registry keyword auction catalog and rules",
+    "url": "https://dingalinged-cpu.github.io/registry/api/keyword-prices.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_estimate": {
+    "name": "Registry estimate (CC-BY-4.0); method given on each value",
+    "url": "https://dingalinged-cpu.github.io/registry/market/",
+    "as_of": "2026-10-18"
+   },
+   "sagapixel_sel": {
+    "name": "Sagapixel ChatGPT local-services sessions, via Search Engine Land",
+    "url": "https://searchengineland.com/chatgpt-users-keywords-for-local-services-data-467715",
+    "as_of": "2026-01"
+   },
+   "wordstream_2025": {
+    "name": "WordStream Google Ads Benchmarks 2025 (16,446 US campaigns, Apr 2024-Mar 2025; median CPC and CTR by industry)",
+    "url": "https://www.wordstream.com/blog/2025-google-ads-benchmarks",
+    "as_of": "2025-03"
+   },
+   "wordstream_2026": {
+    "name": "LocaliQ/WordStream Search Advertising Benchmarks 2026 (US median CPC by industry)",
+    "url": "https://www.localiq.com/blog/search-advertising-benchmarks",
+    "as_of": "2026"
+   }
+  },
+  "license": {
+   "registry_estimates": "CC-BY-4.0",
+   "url": "https://creativecommons.org/licenses/by/4.0/",
+   "cited_figures": "attribute to the publishers in sources"
+  },
+  "as_of": "2026-10-18",
+  "api": "https://dingalinged-cpu.github.io/registry/api/market/staffing-agency.json",
+  "rate_card": "https://dingalinged-cpu.github.io/registry/view/market.html#staffing-agency-chicago-il"
+ }
+}

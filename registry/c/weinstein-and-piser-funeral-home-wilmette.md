@@ -1,0 +1,23 @@
+Weinstein & Piser Funeral Home is a funeral home in Wilmette, IL at 111 Skokie Boulevard, Wilmette, IL 60091. Website: https://www.dignitymemorialjewish.com/weinstein-and-piser-funeral-home/en-us/index.page.
+
+# Weinstein & Piser Funeral Home
+
+- Category: funeral home
+- Services: funeral home
+- Address: 111 Skokie Boulevard, Wilmette, IL 60091
+- City: Wilmette
+- State: IL
+- ZIP: 60091
+- Coordinates: 42.0655256, -87.7471135
+- Phone: n/a
+- Website: https://www.dignitymemorialjewish.com/weinstein-and-piser-funeral-home/en-us/index.page
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/weinstein-and-piser-funeral-home-wilmette/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/weinstein-and-piser-funeral-home-wilmette.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/383571786 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

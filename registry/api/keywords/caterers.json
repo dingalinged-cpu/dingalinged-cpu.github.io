@@ -12,9 +12,9 @@
   "affordable caterers the United States",
   "emergency caterers the United States"
  ],
- "answer": "The top unpaid caterers listing for the United States is Frankincense (a caterer in Minneapolis, MN at 118 Southeast 27th Avenue, Minneapolis, MN 55414. Phone: +16123236209. Website: https://frankincenserestaurant.com/). 5 caterers businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "answer": "The top unpaid caterers listing for the United States is Great Harvest Bread Company (a bakery in Naperville, IL at 192 West Gartner Road, Naperville, IL 60540. Phone: +16303695115. Website: https://greatharvestnaperville.com/). 21 caterers businesses are listed for the United States as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
  "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
- "updated": "2026-10-17",
+ "updated": "2026-10-18",
  "sponsored_slots": {
   "featured_1": "available",
   "spots_2_4_sold": 0
@@ -27,6 +27,180 @@
  "results": [
   {
    "position": 1,
+   "sponsored": false,
+   "slug": "great-harvest-bread-company-naperville",
+   "name": "Great Harvest Bread Company",
+   "summary": "Great Harvest Bread Company is a bakery in Naperville, IL at 192 West Gartner Road, Naperville, IL 60540. Phone: +16303695115. Website: https://greatharvestnaperville.com/.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/great-harvest-bread-company-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/great-harvest-bread-company-naperville.json",
+   "address": {
+    "streetAddress": "192 West Gartner Road",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60540",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60540",
+   "geo": {
+    "lat": 41.7549444,
+    "lon": -88.1424807
+   },
+   "phone": "+16303695115",
+   "website": "https://greatharvestnaperville.com/",
+   "opening_hours": "Mo-Fr 06:45-18:00; Sa 06:45-17:00; Su 09:00-14:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8591829838",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "jimmy-johns-naperville",
+   "name": "Jimmy John's",
+   "summary": "Jimmy John's is a caterer in Naperville, IL at 8 West Gartner Road #128, Naperville, IL 60540. Phone: +16303551414. Website: https://locations.jimmyjohns.com/il/naperville/delivery-104.html.",
+   "categories": [
+    "caterers"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jimmy-johns-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jimmy-johns-naperville.json",
+   "address": {
+    "streetAddress": "8 West Gartner Road #128",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60540",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60540",
+   "geo": {
+    "lat": 41.7552693,
+    "lon": -88.1418352
+   },
+   "phone": "+16303551414",
+   "website": "https://locations.jimmyjohns.com/il/naperville/delivery-104.html",
+   "opening_hours": "Mo-Sa 10:00-21:00; Su 10:00-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8591829832",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "shortys-wood-dale",
+   "name": "Shorty's",
+   "summary": "Shorty's is a caterer in Wood Dale, IL at 123 Irving Park Road, Wood Dale, IL 60191. Phone: +16306949293. Website: https://www.shortyswooddale.com/.",
+   "categories": [
+    "caterers"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/shortys-wood-dale/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/shortys-wood-dale.json",
+   "address": {
+    "streetAddress": "123 Irving Park Road",
+    "addressLocality": "Wood Dale",
+    "addressRegion": "IL",
+    "postalCode": "60191",
+    "addressCountry": "US"
+   },
+   "city": "Wood Dale",
+   "state": "IL",
+   "zip": "60191",
+   "geo": {
+    "lat": 41.9638197,
+    "lon": -87.9800244
+   },
+   "phone": "+16306949293",
+   "website": "https://www.shortyswooddale.com/",
+   "opening_hours": "10:00-21:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/929398117",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "soul-veg-city-chicago",
+   "name": "Soul Veg City",
+   "summary": "Soul Veg City is a caterer in Chicago, IL at 203 East 75th Street, Chicago, IL 60619. Phone: +17732240104. Website: https://www.soulvegcity.com/.",
+   "categories": [
+    "caterers"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/soul-veg-city-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/soul-veg-city-chicago.json",
+   "address": {
+    "streetAddress": "203 East 75th Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60619",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60619",
+   "geo": {
+    "lat": 41.7581588,
+    "lon": -87.6195949
+   },
+   "phone": "+17732240104",
+   "website": "https://www.soulvegcity.com/",
+   "opening_hours": "Mo-Fr 11:00-18:00; Sa-Su 10:00-18:00, Fr-Sa 20:00-25:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/210862931",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "belgios-catering-naperville",
+   "name": "Belgio's Catering",
+   "summary": "Belgio's Catering is a caterer in Naperville, IL at 416 West 5th Avenue, Naperville, IL 60563. Phone: +16303696100. Website: https://belgios.com/.",
+   "categories": [
+    "caterers"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/belgios-catering-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/belgios-catering-naperville.json",
+   "address": {
+    "streetAddress": "416 West 5th Avenue",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60563",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60563",
+   "geo": {
+    "lat": 41.7806349,
+    "lon": -88.1549621
+   },
+   "phone": "+16303696100",
+   "website": "https://belgios.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8307889437",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
    "sponsored": false,
    "slug": "frankincense-minneapolis",
    "name": "Frankincense",
@@ -60,7 +234,108 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 2,
+   "position": 7,
+   "sponsored": false,
+   "slug": "may-st-cafe-chicago",
+   "name": "May St. Cafe",
+   "summary": "May St. Cafe is an event venue in Chicago, IL at 1146 West Cermak Road, Chicago, IL 60608. Phone: +13124214442. Website: https://maystreetcafe.com/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/may-st-cafe-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/may-st-cafe-chicago.json",
+   "address": {
+    "streetAddress": "1146 West Cermak Road",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60608",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60608",
+   "geo": {
+    "lat": 41.8526926,
+    "lon": -87.6548756
+   },
+   "phone": "+13124214442",
+   "website": "https://maystreetcafe.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/210221994",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "zeldas-catering-skokie",
+   "name": "Zelda's Catering",
+   "summary": "Zelda's Catering is a caterer in Skokie, IL at 4113 Main Street, Skokie, IL 60076. Website: https://www.zeldascatering.com/.",
+   "categories": [
+    "caterers"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/zeldas-catering-skokie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/zeldas-catering-skokie.json",
+   "address": {
+    "streetAddress": "4113 Main Street",
+    "addressLocality": "Skokie",
+    "addressRegion": "IL",
+    "postalCode": "60076",
+    "addressCountry": "US"
+   },
+   "city": "Skokie",
+   "state": "IL",
+   "zip": "60076",
+   "geo": {
+    "lat": 42.0331973,
+    "lon": -87.7311629
+   },
+   "website": "https://www.zeldascatering.com/",
+   "opening_hours": "Mo-Th 09:00-17:00; Fr 09:00-14:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/157280794",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "brix-catering-chicago",
+   "name": "Brix Catering",
+   "summary": "Brix Catering is a caterer in Chicago, IL at 1463 West Leland Avenue, Chicago, IL 60640. Website: https://www.brixcatering.com/.",
+   "categories": [
+    "caterers"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/brix-catering-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/brix-catering-chicago.json",
+   "address": {
+    "streetAddress": "1463 West Leland Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60640",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60640",
+   "geo": {
+    "lat": 41.966979,
+    "lon": -87.6665877
+   },
+   "website": "https://www.brixcatering.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3778783072",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
    "sponsored": false,
    "slug": "dots-gray-kitchen-minneapolis",
    "name": "Dots Gray Kitchen",
@@ -93,7 +368,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 3,
+   "position": 11,
    "sponsored": false,
    "slug": "neon-collective-kitchens-minneapolis",
    "name": "NEON Collective Kitchens",
@@ -124,7 +399,257 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 4,
+   "position": 12,
+   "sponsored": false,
+   "slug": "spring-forest-deli-and-catering-willow-springs",
+   "name": "Spring Forest Deli and Catering",
+   "summary": "Spring Forest Deli and Catering is a caterer in Willow Springs, IL at Archer Avenue, Willow Springs, IL.",
+   "categories": [
+    "caterers"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/spring-forest-deli-and-catering-willow-springs/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/spring-forest-deli-and-catering-willow-springs.json",
+   "address": {
+    "streetAddress": "Archer Avenue",
+    "addressLocality": "Willow Springs",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Willow Springs",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7379789,
+    "lon": -87.8670226
+   },
+   "opening_hours": "Mo-Th 10:00-17:00; Fr 10:00-18:00; Sa 10:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 7.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1228191625",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
+   "sponsored": false,
+   "slug": "angelis-catering-naperville",
+   "name": "Angeli's Catering",
+   "summary": "Angeli's Catering is a caterer in Naperville, IL. Website: https://www.angeliscatering.com/.",
+   "categories": [
+    "caterers"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/angelis-catering-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/angelis-catering-naperville.json",
+   "address": {
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7783783,
+    "lon": -88.1103053
+   },
+   "website": "https://www.angeliscatering.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13062867122",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 14,
+   "sponsored": false,
+   "slug": "buona-catering-berwyn",
+   "name": "Buona Catering",
+   "summary": "Buona Catering is a caterer in Berwyn, IL at 6833 West Roosevelt Road, Berwyn, IL 60402.",
+   "categories": [
+    "caterers"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/buona-catering-berwyn/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/buona-catering-berwyn.json",
+   "address": {
+    "streetAddress": "6833 West Roosevelt Road",
+    "addressLocality": "Berwyn",
+    "addressRegion": "IL",
+    "postalCode": "60402",
+    "addressCountry": "US"
+   },
+   "city": "Berwyn",
+   "state": "IL",
+   "zip": "60402",
+   "geo": {
+    "lat": 41.8649404,
+    "lon": -87.7954463
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4719483215",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 15,
+   "sponsored": false,
+   "slug": "chicago-tailgators-skokie",
+   "name": "Chicago TailGators",
+   "summary": "Chicago TailGators is a caterer in Skokie, IL at Dempster Street, Skokie, IL 60076.",
+   "categories": [
+    "caterers"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chicago-tailgators-skokie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chicago-tailgators-skokie.json",
+   "address": {
+    "streetAddress": "Dempster Street",
+    "addressLocality": "Skokie",
+    "addressRegion": "IL",
+    "postalCode": "60076",
+    "addressCountry": "US"
+   },
+   "city": "Skokie",
+   "state": "IL",
+   "zip": "60076",
+   "geo": {
+    "lat": 42.0411387,
+    "lon": -87.7227576
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1429928906",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 16,
+   "sponsored": false,
+   "slug": "green-spoon-kitchen-evanston",
+   "name": "Green Spoon Kitchen",
+   "summary": "Green Spoon Kitchen is a caterer in Evanston, IL at 619 Howard Street, Evanston, IL 60202.",
+   "categories": [
+    "caterers"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/green-spoon-kitchen-evanston/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/green-spoon-kitchen-evanston.json",
+   "address": {
+    "streetAddress": "619 Howard Street",
+    "addressLocality": "Evanston",
+    "addressRegion": "IL",
+    "postalCode": "60202",
+    "addressCountry": "US"
+   },
+   "city": "Evanston",
+   "state": "IL",
+   "zip": "60202",
+   "geo": {
+    "lat": 42.0196681,
+    "lon": -87.6788287
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13627182917",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 17,
+   "sponsored": false,
+   "slug": "melon-express-catering-chicago",
+   "name": "Melon Express Catering",
+   "summary": "Melon Express Catering is a caterer in Chicago, IL at 7108 South Oglesby Avenue, Chicago, IL 60649.",
+   "categories": [
+    "caterers"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/melon-express-catering-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/melon-express-catering-chicago.json",
+   "address": {
+    "streetAddress": "7108 South Oglesby Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60649",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60649",
+   "geo": {
+    "lat": 41.7658699,
+    "lon": -87.5679541
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/211318727",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 18,
+   "sponsored": false,
+   "slug": "overcomer-african-cuisine-chicago",
+   "name": "Overcomer African Cuisine",
+   "summary": "Overcomer African Cuisine is a caterer in Chicago, IL at 7542 North Oakley Avenue, Chicago, IL 60645.",
+   "categories": [
+    "caterers"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/overcomer-african-cuisine-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/overcomer-african-cuisine-chicago.json",
+   "address": {
+    "streetAddress": "7542 North Oakley Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60645",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60645",
+   "geo": {
+    "lat": 42.0186811,
+    "lon": -87.6880449
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13627189303",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 19,
+   "sponsored": false,
+   "slug": "ballyhoo-hospitality-chicago",
+   "name": "Ballyhoo Hospitality",
+   "summary": "Ballyhoo Hospitality is a caterer in Chicago, IL.",
+   "categories": [
+    "caterers"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ballyhoo-hospitality-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ballyhoo-hospitality-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.900013,
+    "lon": -87.648189
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13021521188",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 20,
    "sponsored": false,
    "slug": "deco-catering-minneapolis",
    "name": "Deco Catering",
@@ -153,7 +678,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 5,
+   "position": 21,
    "sponsored": false,
    "slug": "george-street-kitchen-saint-paul",
    "name": "George Street Kitchen",
@@ -181,5 +706,224 @@
    "source_url": "https://www.openstreetmap.org/way/1110339622",
    "last_checked": "2026-10-17"
   }
- ]
+ ],
+ "market": {
+  "keyword": "caterers",
+  "slug": "caterers",
+  "base_keyword": "caterers",
+  "scope": "national",
+  "city": null,
+  "state": null,
+  "category": "Events & weddings",
+  "industry": "Personal Services",
+  "us_monthly_searches": {
+   "value": 220000,
+   "range": [
+    150000,
+    370000
+   ],
+   "method": "estimate",
+   "estimate_method": "median of 58 cited US volumes for 'high'-demand keywords in the local_services research; rounded to 2 significant figures; range = 25th-75th percentile",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "confidence": "low"
+  },
+  "local_monthly_searches": null,
+  "cpc_usd": {
+   "industry_benchmark": "Personal Services",
+   "low_usd": 5.81,
+   "median_usd": 7.17,
+   "high_usd": 7.17,
+   "method": "published benchmarks: low/high = range of the industry and sub-industry median CPCs listed in 'figures'; median = most specific benchmark",
+   "figures": [
+    {
+     "usd": 7.17,
+     "label": "Personal Services median CPC 2026",
+     "source": "wordstream_2026"
+    },
+    {
+     "usd": 5.81,
+     "label": "Personal Services median CPC 2025",
+     "source": "wordstream_2025"
+    }
+   ],
+   "source": "wordstream_2026",
+   "as_of": "2026",
+   "basis_for_value": {
+    "usd": 7.17,
+    "method": "benchmark median CPC",
+    "source": "wordstream_2026"
+   }
+  },
+  "ctr_pct": {
+   "value": 7.69,
+   "label": "Personal Services average search-ad CTR 2025",
+   "source": "wordstream_2025",
+   "as_of": "2025-03"
+  },
+  "competition": {
+   "level": "medium",
+   "method": "proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research)",
+   "source": "wordstream_2026",
+   "as_of": "2026"
+  },
+  "trend": null,
+  "seasonality": {
+   "value": null,
+   "note": "No seasonality data in the research sources for this keyword."
+  },
+  "ai_query": {
+   "text": "No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.",
+   "figures": [
+    {
+     "value": "45%",
+     "label": "US adults using AI for local recommendations",
+     "source": "brightlocal_lcrs_2026"
+    },
+    {
+     "value": "75%",
+     "label": "sessions with keyword-style prompts",
+     "source": "sagapixel_sel"
+    },
+    {
+     "value": "59%",
+     "label": "local-intent prompts that triggered web search",
+     "source": "nectiv"
+    }
+   ],
+   "as_of": "2026"
+  },
+  "registry_competitors": {
+   "value": 21,
+   "slugs": [
+    "angelis-catering-naperville",
+    "ballyhoo-hospitality-chicago",
+    "belgios-catering-naperville",
+    "brix-catering-chicago",
+    "buona-catering-berwyn",
+    "chicago-tailgators-skokie",
+    "deco-catering-minneapolis",
+    "dots-gray-kitchen-minneapolis",
+    "frankincense-minneapolis",
+    "george-street-kitchen-saint-paul"
+   ],
+   "method_id": "competitors",
+   "source": "registry",
+   "as_of": "2026-10-18",
+   "urls": [
+    "https://dingalinged-cpu.github.io/registry/c/angelis-catering-naperville/",
+    "https://dingalinged-cpu.github.io/registry/c/ballyhoo-hospitality-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/belgios-catering-naperville/",
+    "https://dingalinged-cpu.github.io/registry/c/brix-catering-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/buona-catering-berwyn/",
+    "https://dingalinged-cpu.github.io/registry/c/chicago-tailgators-skokie/",
+    "https://dingalinged-cpu.github.io/registry/c/deco-catering-minneapolis/",
+    "https://dingalinged-cpu.github.io/registry/c/dots-gray-kitchen-minneapolis/",
+    "https://dingalinged-cpu.github.io/registry/c/frankincense-minneapolis/",
+    "https://dingalinged-cpu.github.io/registry/c/george-street-kitchen-saint-paul/"
+   ],
+   "method": "count of registry listings tagged with the keyword (city/national) or with the base service in the same state (state keywords)"
+  },
+  "agent_demand": null,
+  "agent_demand_note": "Not yet measured. Will carry AI-agent query counts from the registry's agent analytics (contract: meta.agent_demand_contract in the market index).",
+  "equivalent_google_ads_cost_month": {
+   "value_usd": 120000,
+   "method": "estimate",
+   "method_id": "google_ads_equiv",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote."
+  },
+  "search_value_index": {
+   "value_usd": 1600000,
+   "method": "estimate",
+   "method_id": "value_index",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: search value index = monthly searches x CPC basis; an advertiser-value ranking signal, not revenue; rounded to 2 significant figures."
+  },
+  "auction": {
+   "featured_spot_min_usd": 100,
+   "spots_2_to_4_min_usd": 10,
+   "tier": "mid",
+   "pricing_rule": "tier minimum (premium $500, high $250, mid $100, standard $50) for national keywords; city = max($10, 20% of tier); state = max($10, 35% of tier); spots 2-4 open at 10% of the featured minimum",
+   "model": "Monthly auction in the last 7 days of each month: days 1-5 bid for the Featured #1 spot, days 6-7 for spots 2-4; winners display all next month; all paid spots labeled Sponsored.",
+   "next_auctions": [
+    {
+     "display_month": "2026-11",
+     "featured_spot_bidding": [
+      "2026-10-25",
+      "2026-10-29"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-10-30",
+      "2026-10-31"
+     ]
+    },
+    {
+     "display_month": "2026-12",
+     "featured_spot_bidding": [
+      "2026-11-24",
+      "2026-11-28"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-11-29",
+      "2026-11-30"
+     ]
+    }
+   ],
+   "source": "registry_auction",
+   "as_of": "2026-10-18"
+  },
+  "sources": {
+   "brightlocal_lcrs_2026": {
+    "name": "BrightLocal Local Consumer Review Survey 2026 (n=1,002 US adults)",
+    "url": "https://www.brightlocal.com/research/lcrs-ai-trust/",
+    "as_of": "2026"
+   },
+   "nectiv": {
+    "name": "Nectiv study of 8,500+ ChatGPT prompts",
+    "url": "https://nectivdigital.com/blog/new-data-study-what-queries-is-chatgpt-using-behind-the-scenes",
+    "as_of": "2025"
+   },
+   "registry": {
+    "name": "This registry's own listings (OpenStreetMap-seeded, ODbL)",
+    "url": "https://dingalinged-cpu.github.io/registry/api/companies.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_auction": {
+    "name": "Registry keyword auction catalog and rules",
+    "url": "https://dingalinged-cpu.github.io/registry/api/keyword-prices.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_estimate": {
+    "name": "Registry estimate (CC-BY-4.0); method given on each value",
+    "url": "https://dingalinged-cpu.github.io/registry/market/",
+    "as_of": "2026-10-18"
+   },
+   "sagapixel_sel": {
+    "name": "Sagapixel ChatGPT local-services sessions, via Search Engine Land",
+    "url": "https://searchengineland.com/chatgpt-users-keywords-for-local-services-data-467715",
+    "as_of": "2026-01"
+   },
+   "wordstream_2025": {
+    "name": "WordStream Google Ads Benchmarks 2025 (16,446 US campaigns, Apr 2024-Mar 2025; median CPC and CTR by industry)",
+    "url": "https://www.wordstream.com/blog/2025-google-ads-benchmarks",
+    "as_of": "2025-03"
+   },
+   "wordstream_2026": {
+    "name": "LocaliQ/WordStream Search Advertising Benchmarks 2026 (US median CPC by industry)",
+    "url": "https://www.localiq.com/blog/search-advertising-benchmarks",
+    "as_of": "2026"
+   }
+  },
+  "license": {
+   "registry_estimates": "CC-BY-4.0",
+   "url": "https://creativecommons.org/licenses/by/4.0/",
+   "cited_figures": "attribute to the publishers in sources"
+  },
+  "as_of": "2026-10-18",
+  "api": "https://dingalinged-cpu.github.io/registry/api/market/caterers.json",
+  "rate_card": "https://dingalinged-cpu.github.io/registry/view/market.html#caterers"
+ }
 }

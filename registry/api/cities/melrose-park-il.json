@@ -1,0 +1,965 @@
+{
+ "place": "Melrose Park, IL",
+ "slug": "melrose-park-il",
+ "count": 28,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "auto body shop melrose park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-body-shop-melrose-park-il.json"
+  },
+  {
+   "keyword": "auto repair melrose park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-melrose-park-il.json"
+  },
+  {
+   "keyword": "car wash melrose park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-melrose-park-il.json"
+  },
+  {
+   "keyword": "dentist melrose park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-melrose-park-il.json"
+  },
+  {
+   "keyword": "florist melrose park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/florist-melrose-park-il.json"
+  },
+  {
+   "keyword": "funeral home melrose park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/funeral-home-melrose-park-il.json"
+  },
+  {
+   "keyword": "gym melrose park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-melrose-park-il.json"
+  },
+  {
+   "keyword": "hair salon melrose park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-melrose-park-il.json"
+  },
+  {
+   "keyword": "haircut melrose park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-melrose-park-il.json"
+  },
+  {
+   "keyword": "heating and air melrose park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/heating-and-air-melrose-park-il.json"
+  },
+  {
+   "keyword": "hvac repair melrose park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hvac-repair-melrose-park-il.json"
+  },
+  {
+   "keyword": "insurance agency melrose park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-melrose-park-il.json"
+  },
+  {
+   "keyword": "insurance agent melrose park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-melrose-park-il.json"
+  },
+  {
+   "keyword": "insurance agents melrose park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-melrose-park-il.json"
+  },
+  {
+   "keyword": "mechanic melrose park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-melrose-park-il.json"
+  },
+  {
+   "keyword": "printing services melrose park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/printing-services-melrose-park-il.json"
+  },
+  {
+   "keyword": "roofer melrose park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/roofer-melrose-park-il.json"
+  },
+  {
+   "keyword": "roofing contractor melrose park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/roofing-contractor-melrose-park-il.json"
+  },
+  {
+   "keyword": "storage units melrose park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/storage-units-melrose-park-il.json"
+  },
+  {
+   "keyword": "tax preparation melrose park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tax-preparation-melrose-park-il.json"
+  },
+  {
+   "keyword": "tax preparer melrose park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tax-preparer-melrose-park-il.json"
+  },
+  {
+   "keyword": "thrift store melrose park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/thrift-store-melrose-park-il.json"
+  },
+  {
+   "keyword": "tire shop melrose park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tire-shop-melrose-park-il.json"
+  },
+  {
+   "keyword": "used cars for sale melrose park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/used-cars-for-sale-melrose-park-il.json"
+  },
+  {
+   "keyword": "windshield replacement melrose park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/windshield-replacement-melrose-park-il.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "above-all-roofing-and-property-restoration-melrose-park",
+   "name": "Above All Roofing & Property Restoration",
+   "summary": "Above All Roofing & Property Restoration is a roofer in Melrose Park, IL at 116 North 23rd Avenue, Melrose Park, IL 60160. Phone: +17733014044. Website: https://affordableroofingsolutions.com/.",
+   "categories": [
+    "roofer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/above-all-roofing-and-property-restoration-melrose-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/above-all-roofing-and-property-restoration-melrose-park.json",
+   "address": {
+    "streetAddress": "116 North 23rd Avenue",
+    "addressLocality": "Melrose Park",
+    "addressRegion": "IL",
+    "postalCode": "60160",
+    "addressCountry": "US"
+   },
+   "city": "Melrose Park",
+   "state": "IL",
+   "zip": "60160",
+   "geo": {
+    "lat": 41.8922658,
+    "lon": -87.8617824
+   },
+   "phone": "+17733014044",
+   "website": "https://affordableroofingsolutions.com/",
+   "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-12:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10777805526",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "insurance-navy-brokers-melrose-park",
+   "name": "Insurance Navy Brokers",
+   "summary": "Insurance Navy Brokers is an insurance agent in Melrose Park, IL at 2523 West Lake Street, Melrose Park, IL 60160. Phone: +17083439600. Website: https://www.insurancenavy.com/locations/il/melrose-park/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/insurance-navy-brokers-melrose-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/insurance-navy-brokers-melrose-park.json",
+   "address": {
+    "streetAddress": "2523 West Lake Street",
+    "addressLocality": "Melrose Park",
+    "addressRegion": "IL",
+    "postalCode": "60160",
+    "addressCountry": "US"
+   },
+   "city": "Melrose Park",
+   "state": "IL",
+   "zip": "60160",
+   "geo": {
+    "lat": 41.8952006,
+    "lon": -87.8650689
+   },
+   "phone": "+17083439600",
+   "website": "https://www.insurancenavy.com/locations/il/melrose-park/",
+   "opening_hours": "Mo-Sa 10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8595430004",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "midwest-auto-body-shop-inc-melrose-park",
+   "name": "Midwest Auto Body Shop Inc.",
+   "summary": "Midwest Auto Body Shop Inc. is an auto repair shop in Melrose Park, IL at 1327 North 31st Avenue, Melrose Park, IL 60160. Phone: +17084500700. Website: https://www.midwestautobodyshop.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/midwest-auto-body-shop-inc-melrose-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/midwest-auto-body-shop-inc-melrose-park.json",
+   "address": {
+    "streetAddress": "1327 North 31st Avenue",
+    "addressLocality": "Melrose Park",
+    "addressRegion": "IL",
+    "postalCode": "60160",
+    "addressCountry": "US"
+   },
+   "city": "Melrose Park",
+   "state": "IL",
+   "zip": "60160",
+   "geo": {
+    "lat": 41.8993663,
+    "lon": -87.8710702
+   },
+   "phone": "+17084500700",
+   "website": "https://www.midwestautobodyshop.com/",
+   "opening_hours": "Mo-Fr 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13825501043",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "riley-heating-and-cooling-melrose-park",
+   "name": "Riley Heating & Cooling",
+   "summary": "Riley Heating & Cooling is a HVAC contractor in Melrose Park, IL at 16 North 9th Avenue, Melrose Park, IL 60160. Phone: +17085512303. Website: https://rileyhc.com/.",
+   "categories": [
+    "hvac repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/riley-heating-and-cooling-melrose-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/riley-heating-and-cooling-melrose-park.json",
+   "address": {
+    "streetAddress": "16 North 9th Avenue",
+    "addressLocality": "Melrose Park",
+    "addressRegion": "IL",
+    "postalCode": "60160",
+    "addressCountry": "US"
+   },
+   "city": "Melrose Park",
+   "state": "IL",
+   "zip": "60160",
+   "geo": {
+    "lat": 41.8897591,
+    "lon": -87.8445276
+   },
+   "phone": "+17085512303",
+   "website": "https://rileyhc.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12508264500",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "belle-tire-melrose-park",
+   "name": "Belle Tire",
+   "summary": "Belle Tire is a tire shop in Melrose Park, IL at 3225 North Avenue, Melrose Park, IL 60160. Website: https://www.belletire.com/stores/detail/177/belle-tire-melrose-park-il.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/belle-tire-melrose-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/belle-tire-melrose-park.json",
+   "address": {
+    "streetAddress": "3225 North Avenue",
+    "addressLocality": "Melrose Park",
+    "addressRegion": "IL",
+    "postalCode": "60160",
+    "addressCountry": "US"
+   },
+   "city": "Melrose Park",
+   "state": "IL",
+   "zip": "60160",
+   "geo": {
+    "lat": 41.908127,
+    "lon": -87.8746891
+   },
+   "website": "https://www.belletire.com/stores/detail/177/belle-tire-melrose-park-il",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1309504475",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "carbonara-funeral-home-melrose-park",
+   "name": "Carbonara Funeral Home",
+   "summary": "Carbonara Funeral Home is a funeral home in Melrose Park, IL at 1515 25th Avenue, Melrose Park, IL 60160. Phone: +17083436161.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/carbonara-funeral-home-melrose-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/carbonara-funeral-home-melrose-park.json",
+   "address": {
+    "streetAddress": "1515 25th Avenue",
+    "addressLocality": "Melrose Park",
+    "addressRegion": "IL",
+    "postalCode": "60160",
+    "addressCountry": "US"
+   },
+   "city": "Melrose Park",
+   "state": "IL",
+   "zip": "60160",
+   "geo": {
+    "lat": 41.9010021,
+    "lon": -87.8638868
+   },
+   "phone": "+17083436161",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1217908288",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "delta-sonic-car-wash-melrose-park",
+   "name": "Delta Sonic Car Wash",
+   "summary": "Delta Sonic Car Wash is a car wash in Melrose Park, IL at 8490 North Avenue, Melrose Park, IL 60160. Website: https://deltasoniccarwash.com/location/melrose-park-il/.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/delta-sonic-car-wash-melrose-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/delta-sonic-car-wash-melrose-park.json",
+   "address": {
+    "streetAddress": "8490 North Avenue",
+    "addressLocality": "Melrose Park",
+    "addressRegion": "IL",
+    "postalCode": "60160",
+    "addressCountry": "US"
+   },
+   "city": "Melrose Park",
+   "state": "IL",
+   "zip": "60160",
+   "geo": {
+    "lat": 41.9090495,
+    "lon": -87.839028
+   },
+   "website": "https://deltasoniccarwash.com/location/melrose-park-il/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/166409031",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "freeway-insurance-melrose-park",
+   "name": "Freeway Insurance",
+   "summary": "Freeway Insurance is an insurance agent in Melrose Park, IL at 1502 Broadway Avenue, Melrose Park, IL 60160. Website: https://locations.freeway.com/melrose-park-city-car-insurance-60160-il.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/freeway-insurance-melrose-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/freeway-insurance-melrose-park.json",
+   "address": {
+    "streetAddress": "1502 Broadway Avenue",
+    "addressLocality": "Melrose Park",
+    "addressRegion": "IL",
+    "postalCode": "60160",
+    "addressCountry": "US"
+   },
+   "city": "Melrose Park",
+   "state": "IL",
+   "zip": "60160",
+   "geo": {
+    "lat": 41.9007994,
+    "lon": -87.8574284
+   },
+   "website": "https://locations.freeway.com/melrose-park-city-car-insurance-60160-il",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13663106804",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "h-and-r-block-melrose-park",
+   "name": "H&R Block",
+   "summary": "H&R Block is a tax preparation service in Melrose Park, IL at 1523 North Avenue, Melrose Park, IL 60160. Website: https://www.hrblock.com/local-tax-offices/illinois/melrose-park/1523-w-north-ave/.",
+   "categories": [
+    "tax preparation"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/h-and-r-block-melrose-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/h-and-r-block-melrose-park.json",
+   "address": {
+    "streetAddress": "1523 North Avenue",
+    "addressLocality": "Melrose Park",
+    "addressRegion": "IL",
+    "postalCode": "60160",
+    "addressCountry": "US"
+   },
+   "city": "Melrose Park",
+   "state": "IL",
+   "zip": "60160",
+   "geo": {
+    "lat": 41.9085592,
+    "lon": -87.8530558
+   },
+   "website": "https://www.hrblock.com/local-tax-offices/illinois/melrose-park/1523-w-north-ave/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12321821738",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "michael-cimbalo-fitness-center-melrose-park",
+   "name": "Michael Cimbalo Fitness Center",
+   "summary": "Michael Cimbalo Fitness Center is a gym in Melrose Park, IL at 1203 North 24th Avenue, Melrose Park, IL 60160. Website: https://vpdpark.org/msc.html.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/michael-cimbalo-fitness-center-melrose-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/michael-cimbalo-fitness-center-melrose-park.json",
+   "address": {
+    "streetAddress": "1203 North 24th Avenue",
+    "addressLocality": "Melrose Park",
+    "addressRegion": "IL",
+    "postalCode": "60160",
+    "addressCountry": "US"
+   },
+   "city": "Melrose Park",
+   "state": "IL",
+   "zip": "60160",
+   "geo": {
+    "lat": 41.8979199,
+    "lon": -87.8625294
+   },
+   "website": "https://vpdpark.org/msc.html",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1293472182",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "roys-hair-salon-melrose-park",
+   "name": "Roy's Hair Salon",
+   "summary": "Roy's Hair Salon is a hair salon in Melrose Park, IL at 113 Broadway Avenue, Melrose Park, IL 60160. Phone: +17082528195.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/roys-hair-salon-melrose-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/roys-hair-salon-melrose-park.json",
+   "address": {
+    "streetAddress": "113 Broadway Avenue",
+    "addressLocality": "Melrose Park",
+    "addressRegion": "IL",
+    "postalCode": "60160",
+    "addressCountry": "US"
+   },
+   "city": "Melrose Park",
+   "state": "IL",
+   "zip": "60160",
+   "geo": {
+    "lat": 41.8914313,
+    "lon": -87.8563193
+   },
+   "phone": "+17082528195",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4207802494",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "u-stor-it-melrose-park",
+   "name": "U-Stor-It",
+   "summary": "U-Stor-It is a self-storage facility in Melrose Park, IL at 4501 North Avenue, Melrose Park, IL 60160. Website: https://www.ustorit.com/self-storage/melrose-park-il-60160.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/u-stor-it-melrose-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/u-stor-it-melrose-park.json",
+   "address": {
+    "streetAddress": "4501 North Avenue",
+    "addressLocality": "Melrose Park",
+    "addressRegion": "IL",
+    "postalCode": "60160",
+    "addressCountry": "US"
+   },
+   "city": "Melrose Park",
+   "state": "IL",
+   "zip": "60160",
+   "geo": {
+    "lat": 41.9082415,
+    "lon": -87.8879384
+   },
+   "website": "https://www.ustorit.com/self-storage/melrose-park-il-60160",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/413370194",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "valvoline-melrose-park",
+   "name": "Valvoline",
+   "summary": "Valvoline is an auto repair shop in Melrose Park, IL at 2216 North Mannheim Road, Melrose Park, IL 60164. Website: https://store.vioc.com/il/melrosepark/oil-change-gr0020.html.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/valvoline-melrose-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/valvoline-melrose-park.json",
+   "address": {
+    "streetAddress": "2216 North Mannheim Road",
+    "addressLocality": "Melrose Park",
+    "addressRegion": "IL",
+    "postalCode": "60164",
+    "addressCountry": "US"
+   },
+   "city": "Melrose Park",
+   "state": "IL",
+   "zip": "60164",
+   "geo": {
+    "lat": 41.9179685,
+    "lon": -87.8845329
+   },
+   "website": "https://store.vioc.com/il/melrosepark/oil-change-gr0020.html",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1330653465",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "alanis-tax-services-melrose-park",
+   "name": "Alanis Tax Services",
+   "summary": "Alanis Tax Services is a tax preparation service in Melrose Park, IL at 819 23rd Avenue #1Front, Melrose Park, IL 60160.",
+   "categories": [
+    "tax preparation"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/alanis-tax-services-melrose-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/alanis-tax-services-melrose-park.json",
+   "address": {
+    "streetAddress": "819 23rd Avenue #1Front",
+    "addressLocality": "Melrose Park",
+    "addressRegion": "IL",
+    "postalCode": "60160",
+    "addressCountry": "US"
+   },
+   "city": "Melrose Park",
+   "state": "IL",
+   "zip": "60160",
+   "geo": {
+    "lat": 41.8948025,
+    "lon": -87.8614434
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7650928425",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "discount-tire-melrose-park",
+   "name": "Discount Tire",
+   "summary": "Discount Tire is a tire shop in Melrose Park, IL at 550 North Avenue, Melrose Park, IL 60160.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/discount-tire-melrose-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/discount-tire-melrose-park.json",
+   "address": {
+    "streetAddress": "550 North Avenue",
+    "addressLocality": "Melrose Park",
+    "addressRegion": "IL",
+    "postalCode": "60160",
+    "addressCountry": "US"
+   },
+   "city": "Melrose Park",
+   "state": "IL",
+   "zip": "60160",
+   "geo": {
+    "lat": 41.9076152,
+    "lon": -87.840751
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1331761680",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "division-laundromat-of-melrose-park-melrose-park",
+   "name": "Division Laundromat of Melrose Park",
+   "summary": "Division Laundromat of Melrose Park is a dentist in Melrose Park, IL at 1620 Division Street, Melrose Park, IL 60160.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/division-laundromat-of-melrose-park-melrose-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/division-laundromat-of-melrose-park-melrose-park.json",
+   "address": {
+    "streetAddress": "1620 Division Street",
+    "addressLocality": "Melrose Park",
+    "addressRegion": "IL",
+    "postalCode": "60160",
+    "addressCountry": "US"
+   },
+   "city": "Melrose Park",
+   "state": "IL",
+   "zip": "60160",
+   "geo": {
+    "lat": 41.9004288,
+    "lon": -87.8541394
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13156115103",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "fedex-office-melrose-park",
+   "name": "FedEx Office",
+   "summary": "FedEx Office is a printing service in Melrose Park, IL at North Avenue, Melrose Park, IL 60160.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fedex-office-melrose-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fedex-office-melrose-park.json",
+   "address": {
+    "streetAddress": "North Avenue",
+    "addressLocality": "Melrose Park",
+    "addressRegion": "IL",
+    "postalCode": "60160",
+    "addressCountry": "US"
+   },
+   "city": "Melrose Park",
+   "state": "IL",
+   "zip": "60160",
+   "geo": {
+    "lat": 41.9083817,
+    "lon": -87.865809
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8392780765",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "gerber-collision-and-glass-melrose-park",
+   "name": "Gerber Collision & Glass",
+   "summary": "Gerber Collision & Glass is an auto repair shop in Melrose Park, IL at 2311 North Mannheim Road, Melrose Park, IL 60164.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gerber-collision-and-glass-melrose-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gerber-collision-and-glass-melrose-park.json",
+   "address": {
+    "streetAddress": "2311 North Mannheim Road",
+    "addressLocality": "Melrose Park",
+    "addressRegion": "IL",
+    "postalCode": "60164",
+    "addressCountry": "US"
+   },
+   "city": "Melrose Park",
+   "state": "IL",
+   "zip": "60164",
+   "geo": {
+    "lat": 41.9199624,
+    "lon": -87.8835121
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1330653466",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "goodwill-melrose-park",
+   "name": "Goodwill",
+   "summary": "Goodwill is a thrift store in Melrose Park, IL at 200 North Avenue, Melrose Park, IL 60160.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/goodwill-melrose-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/goodwill-melrose-park.json",
+   "address": {
+    "streetAddress": "200 North Avenue",
+    "addressLocality": "Melrose Park",
+    "addressRegion": "IL",
+    "postalCode": "60160",
+    "addressCountry": "US"
+   },
+   "city": "Melrose Park",
+   "state": "IL",
+   "zip": "60160",
+   "geo": {
+    "lat": 41.9075453,
+    "lon": -87.8375358
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1331761685",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "jiffy-lube-melrose-park",
+   "name": "Jiffy Lube",
+   "summary": "Jiffy Lube is an auto repair shop in Melrose Park, IL at 8351 North Avenue, Melrose Park, IL 60160.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jiffy-lube-melrose-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jiffy-lube-melrose-park.json",
+   "address": {
+    "streetAddress": "8351 North Avenue",
+    "addressLocality": "Melrose Park",
+    "addressRegion": "IL",
+    "postalCode": "60160",
+    "addressCountry": "US"
+   },
+   "city": "Melrose Park",
+   "state": "IL",
+   "zip": "60160",
+   "geo": {
+    "lat": 41.9066519,
+    "lon": -87.8346471
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/411828562",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "la-fitness-melrose-park",
+   "name": "LA Fitness",
+   "summary": "LA Fitness is a gym in Melrose Park, IL at 1101 North Avenue, Melrose Park, IL 60160.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/la-fitness-melrose-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/la-fitness-melrose-park.json",
+   "address": {
+    "streetAddress": "1101 North Avenue",
+    "addressLocality": "Melrose Park",
+    "addressRegion": "IL",
+    "postalCode": "60160",
+    "addressCountry": "US"
+   },
+   "city": "Melrose Park",
+   "state": "IL",
+   "zip": "60160",
+   "geo": {
+    "lat": 41.9105935,
+    "lon": -87.8473908
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12321821813",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "mexico-motorsports-inc-melrose-park",
+   "name": "Mexico Motorsports, Inc.",
+   "summary": "Mexico Motorsports, Inc. is an used car dealer in Melrose Park, IL at 4701 West Lake Street, Melrose Park, IL 60160.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mexico-motorsports-inc-melrose-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mexico-motorsports-inc-melrose-park.json",
+   "address": {
+    "streetAddress": "4701 West Lake Street",
+    "addressLocality": "Melrose Park",
+    "addressRegion": "IL",
+    "postalCode": "60160",
+    "addressCountry": "US"
+   },
+   "city": "Melrose Park",
+   "state": "IL",
+   "zip": "60160",
+   "geo": {
+    "lat": 41.8994208,
+    "lon": -87.8914435
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/848949806",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "midwest-auto-body-shop-melrose-park",
+   "name": "Midwest Auto Body Shop",
+   "summary": "Midwest Auto Body Shop is an auto repair shop in Melrose Park, IL at West Lake Street, Melrose Park, IL 60160.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/midwest-auto-body-shop-melrose-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/midwest-auto-body-shop-melrose-park.json",
+   "address": {
+    "streetAddress": "West Lake Street",
+    "addressLocality": "Melrose Park",
+    "addressRegion": "IL",
+    "postalCode": "60160",
+    "addressCountry": "US"
+   },
+   "city": "Melrose Park",
+   "state": "IL",
+   "zip": "60160",
+   "geo": {
+    "lat": 41.8975272,
+    "lon": -87.8755359
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/803779042",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "pep-boys-melrose-park",
+   "name": "Pep Boys",
+   "summary": "Pep Boys is an auto repair shop in Melrose Park, IL at 2600 North Avenue, Melrose Park, IL 60160.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pep-boys-melrose-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pep-boys-melrose-park.json",
+   "address": {
+    "streetAddress": "2600 North Avenue",
+    "addressLocality": "Melrose Park",
+    "addressRegion": "IL",
+    "postalCode": "60160",
+    "addressCountry": "US"
+   },
+   "city": "Melrose Park",
+   "state": "IL",
+   "zip": "60160",
+   "geo": {
+    "lat": 41.9069083,
+    "lon": -87.8679498
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/413505850",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "quasthoffs-flowers-melrose-park",
+   "name": "Quasthoff's Flowers",
+   "summary": "Quasthoff's Flowers is a florist in Melrose Park, IL at 3080 West Soffel Avenue, Melrose Park, IL 60160.",
+   "categories": [
+    "florist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/quasthoffs-flowers-melrose-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/quasthoffs-flowers-melrose-park.json",
+   "address": {
+    "streetAddress": "3080 West Soffel Avenue",
+    "addressLocality": "Melrose Park",
+    "addressRegion": "IL",
+    "postalCode": "60160",
+    "addressCountry": "US"
+   },
+   "city": "Melrose Park",
+   "state": "IL",
+   "zip": "60160",
+   "geo": {
+    "lat": 41.9033906,
+    "lon": -87.8710813
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3221827744",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "melrose-platinum-fades-melrose-park",
+   "name": "Melrose Platinum Fades",
+   "summary": "Melrose Platinum Fades is a hair salon in Melrose Park, IL.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/melrose-platinum-fades-melrose-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/melrose-platinum-fades-melrose-park.json",
+   "address": {
+    "addressLocality": "Melrose Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Melrose Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9075865,
+    "lon": -87.8601193
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9027745321",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "planet-fitness-melrose-park",
+   "name": "Planet Fitness",
+   "summary": "Planet Fitness is a gym in Melrose Park, IL.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/planet-fitness-melrose-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/planet-fitness-melrose-park.json",
+   "address": {
+    "addressLocality": "Melrose Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Melrose Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9099777,
+    "lon": -87.8823644
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9930834547",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "windy-city-auto-spa-melrose-park",
+   "name": "Windy City Auto Spa",
+   "summary": "Windy City Auto Spa is a car wash in Melrose Park, IL.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/windy-city-auto-spa-melrose-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/windy-city-auto-spa-melrose-park.json",
+   "address": {
+    "addressLocality": "Melrose Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Melrose Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9083099,
+    "lon": -87.8568984
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4207797111",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

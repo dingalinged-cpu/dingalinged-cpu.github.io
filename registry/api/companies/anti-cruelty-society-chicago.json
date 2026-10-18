@@ -1,0 +1,55 @@
+{
+ "slug": "anti-cruelty-society-chicago",
+ "name": "Anti-Cruelty Society",
+ "categories": [
+  "vet"
+ ],
+ "keywords": [
+  "vet",
+  "vet chicago il"
+ ],
+ "services": [
+  {
+   "name": "vet",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "153 West Grand Avenue",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60654",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60654",
+ "geo": {
+  "lat": 41.8913679,
+  "lon": -87.63305
+ },
+ "wikidata": "Q7713929",
+ "schema_type": "VeterinaryCare",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/210679604",
+ "osm": {
+  "type": "way",
+  "id": 210679604,
+  "tags_used": {
+   "amenity": "veterinary"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/anti-cruelty-society-chicago/",
+ "summary": "Anti-Cruelty Society is a veterinarian in Chicago, IL at 153 West Grand Avenue, Chicago, IL 60654.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

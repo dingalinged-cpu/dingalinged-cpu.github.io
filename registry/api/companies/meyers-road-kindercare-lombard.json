@@ -1,0 +1,53 @@
+{
+ "slug": "meyers-road-kindercare-lombard",
+ "name": "Meyers Road KinderCare",
+ "categories": [
+  "preschool"
+ ],
+ "keywords": [
+  "preschool",
+  "preschool lombard il"
+ ],
+ "services": [
+  {
+   "name": "preschool",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Lombard",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Lombard",
+ "state": "IL",
+ "geo": {
+  "lat": 41.8595809,
+  "lon": -87.9934466
+ },
+ "brand": "KinderCare",
+ "wikidata": "Q6410551",
+ "schema_type": "Preschool",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/1328064018",
+ "osm": {
+  "type": "way",
+  "id": 1328064018,
+  "tags_used": {
+   "amenity": "kindergarten"
+  }
+ },
+ "municipality": "Lombard",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/meyers-road-kindercare-lombard/",
+ "summary": "Meyers Road KinderCare is a preschool in Lombard, IL.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,57 @@
+{
+ "slug": "chicagoland-accordion-academy-western-springs",
+ "name": "Chicagoland Accordion Academy",
+ "categories": [
+  "music lessons"
+ ],
+ "keywords": [
+  "music lessons",
+  "music lessons western springs il"
+ ],
+ "services": [
+  {
+   "name": "music lessons",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "500 52nd Place",
+  "addressLocality": "Western Springs",
+  "addressRegion": "IL",
+  "postalCode": "60558",
+  "addressCountry": "US"
+ },
+ "city": "Western Springs",
+ "state": "IL",
+ "zip": "60558",
+ "geo": {
+  "lat": 41.7941111,
+  "lon": -87.8940635
+ },
+ "phone": "+18472740435",
+ "website": "https://chicagolandaccordionacademy.com/",
+ "email": "maryann@chicagolandaccordionacademy.com",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/7246609553",
+ "osm": {
+  "type": "node",
+  "id": 7246609553,
+  "tags_used": {
+   "amenity": "music_school"
+  }
+ },
+ "municipality": "Western Springs",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/chicagoland-accordion-academy-western-springs/",
+ "summary": "Chicagoland Accordion Academy is a music school in Western Springs, IL at 500 52nd Place, Western Springs, IL 60558. Phone: +18472740435. Website: https://chicagolandaccordionacademy.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

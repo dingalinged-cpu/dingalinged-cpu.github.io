@@ -1,0 +1,56 @@
+{
+ "slug": "healthcare-recruiting-specialists-chicago",
+ "name": "Healthcare Recruiting Specialists",
+ "categories": [
+  "staffing agency"
+ ],
+ "keywords": [
+  "staffing agency",
+  "staffing agency chicago il"
+ ],
+ "services": [
+  {
+   "name": "staffing agency",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "7002 North California Avenue",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60645",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60645",
+ "geo": {
+  "lat": 42.0086196,
+  "lon": -87.69996
+ },
+ "phone": "+17732901380",
+ "website": "https://chicagohrs.com/",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/6091804186",
+ "osm": {
+  "type": "node",
+  "id": 6091804186,
+  "tags_used": {
+   "office": "employment_agency"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/healthcare-recruiting-specialists-chicago/",
+ "summary": "Healthcare Recruiting Specialists is a staffing agency in Chicago, IL at 7002 North California Avenue, Chicago, IL 60645. Phone: +17732901380. Website: https://chicagohrs.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

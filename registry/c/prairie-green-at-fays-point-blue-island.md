@@ -1,0 +1,23 @@
+Prairie Green at Fay's Point is an assisted living facility in Blue Island, IL at 1546 Water Street, Blue Island, IL 60827. Website: https://www.seniorlifestyle.com/property/illinois/prairie-green-at-fays-point/.
+
+# Prairie Green at Fay's Point
+
+- Category: assisted living
+- Services: assisted living
+- Address: 1546 Water Street, Blue Island, IL 60827
+- City: Blue Island
+- State: IL
+- ZIP: 60827
+- Coordinates: 41.6544406, -87.6597667
+- Phone: n/a
+- Website: https://www.seniorlifestyle.com/property/illinois/prairie-green-at-fays-point/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/prairie-green-at-fays-point-blue-island/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/prairie-green-at-fays-point-blue-island.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1525621420 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

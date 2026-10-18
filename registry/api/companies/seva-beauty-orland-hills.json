@@ -1,0 +1,60 @@
+{
+ "slug": "seva-beauty-orland-hills",
+ "name": "Seva Beauty",
+ "categories": [
+  "facial"
+ ],
+ "keywords": [
+  "facial",
+  "waxing",
+  "facial orland hills il",
+  "waxing orland hills il"
+ ],
+ "services": [
+  {
+   "name": "facial",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "waxing",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Orland Hills",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Orland Hills",
+ "state": "IL",
+ "geo": {
+  "lat": 41.5987164,
+  "lon": -87.8427934
+ },
+ "brand": "Seva Beauty",
+ "wikidata": "Q109329648",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/9487407274",
+ "osm": {
+  "type": "node",
+  "id": 9487407274,
+  "tags_used": {
+   "shop": "beauty",
+   "beauty": "hair;skin_care;waxing;eyebrow;eyelash;cosmetics;makeup"
+  }
+ },
+ "municipality": "Orland Hills",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/seva-beauty-orland-hills/",
+ "summary": "Seva Beauty is a skin care studio in Orland Hills, IL.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

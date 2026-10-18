@@ -1,0 +1,57 @@
+{
+ "slug": "delta-sonic-car-wash-downers-grove",
+ "name": "Delta Sonic Car Wash",
+ "categories": [
+  "car wash"
+ ],
+ "keywords": [
+  "car wash",
+  "car wash downers grove il"
+ ],
+ "services": [
+  {
+   "name": "car wash",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1415 Ogden Avenue",
+  "addressLocality": "Downers Grove",
+  "addressRegion": "IL",
+  "postalCode": "60515",
+  "addressCountry": "US"
+ },
+ "city": "Downers Grove",
+ "state": "IL",
+ "zip": "60515",
+ "geo": {
+  "lat": 41.8077257,
+  "lon": -88.0206017
+ },
+ "website": "https://deltasoniccarwash.com/location/downers-grove-il/",
+ "brand": "Delta Sonic",
+ "wikidata": "Q126914775",
+ "schema_type": "AutoWash",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/257855804",
+ "osm": {
+  "type": "way",
+  "id": 257855804,
+  "tags_used": {
+   "amenity": "car_wash"
+  }
+ },
+ "municipality": "Downers Grove",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/delta-sonic-car-wash-downers-grove/",
+ "summary": "Delta Sonic Car Wash is a car wash in Downers Grove, IL at 1415 Ogden Avenue, Downers Grove, IL 60515. Website: https://deltasoniccarwash.com/location/downers-grove-il/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

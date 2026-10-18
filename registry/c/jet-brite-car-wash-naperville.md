@@ -1,0 +1,23 @@
+Jet Brite Car Wash is a car wash in Naperville, IL at 850 East Ogden Avenue, Naperville, IL 60563. Phone: +16302108144. Website: https://www.jetbritecarwash.com/locations/naperville-car-wash/.
+
+# Jet Brite Car Wash
+
+- Category: car wash
+- Services: car wash
+- Address: 850 East Ogden Avenue, Naperville, IL 60563
+- City: Naperville
+- State: IL
+- ZIP: 60563
+- Coordinates: 41.7876991, -88.1334514
+- Phone: +16302108144
+- Website: https://www.jetbritecarwash.com/locations/naperville-car-wash/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/jet-brite-car-wash-naperville/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/jet-brite-car-wash-naperville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1073354555 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,0 +1,63 @@
+{
+ "slug": "tides-mental-health-chicago",
+ "name": "Tides Mental Health",
+ "categories": [
+  "therapist"
+ ],
+ "keywords": [
+  "therapist",
+  "therapist chicago il"
+ ],
+ "services": [
+  {
+   "name": "therapist",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "3000 North Halsted Street #803",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60657",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60657",
+ "geo": {
+  "lat": 41.9367211,
+  "lon": -87.6496655
+ },
+ "phone": "+13123761665",
+ "website": "https://tidesmentalhealth.com/",
+ "email": "info@tidesmentalhealth.com",
+ "opening_hours": "Mo-Fr 08:00-20:00; Sa, Su off",
+ "social": [
+  "https://www.instagram.com/tidesmentalhealth/",
+  "https://www.linkedin.com/company/tides-mental-health/"
+ ],
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/13096329029",
+ "osm": {
+  "type": "node",
+  "id": 13096329029,
+  "tags_used": {
+   "healthcare": "psychotherapist",
+   "healthcare:speciality": "mental_health_clinic;counselor;social_worker;psychotherapist;family_counselor;marriage_or_relationship_counselor;mental_health_service"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/tides-mental-health-chicago/",
+ "summary": "Tides Mental Health is a therapy practice in Chicago, IL at 3000 North Halsted Street #803, Chicago, IL 60657. Phone: +13123761665. Website: https://tidesmentalhealth.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,56 @@
+{
+ "slug": "cd-one-price-cleaners-morton-grove",
+ "name": "CD One Price Cleaners",
+ "categories": [
+  "dry cleaners"
+ ],
+ "keywords": [
+  "dry cleaners",
+  "dry cleaners morton grove il"
+ ],
+ "services": [
+  {
+   "name": "dry cleaners",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "6949 West Dempster Street",
+  "addressLocality": "Morton Grove",
+  "addressRegion": "IL",
+  "postalCode": "60053",
+  "addressCountry": "US"
+ },
+ "city": "Morton Grove",
+ "state": "IL",
+ "zip": "60053",
+ "geo": {
+  "lat": 42.0404941,
+  "lon": -87.800403
+ },
+ "brand": "CD One Price Cleaners",
+ "wikidata": "Q110720124",
+ "schema_type": "DryCleaningOrLaundry",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/10172784557",
+ "osm": {
+  "type": "node",
+  "id": 10172784557,
+  "tags_used": {
+   "shop": "dry_cleaning"
+  }
+ },
+ "municipality": "Morton Grove",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/cd-one-price-cleaners-morton-grove/",
+ "summary": "CD One Price Cleaners is a dry cleaner in Morton Grove, IL at 6949 West Dempster Street, Morton Grove, IL 60053.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,63 @@
+{
+ "slug": "synder-insurance-and-financial-services-darien",
+ "name": "Synder Insurance and Financial Services",
+ "categories": [
+  "insurance agent"
+ ],
+ "keywords": [
+  "insurance agent",
+  "insurance agency",
+  "insurance agents",
+  "insurance agent darien il",
+  "insurance agency darien il",
+  "insurance agents darien il"
+ ],
+ "services": [
+  {
+   "name": "insurance agent",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "insurance agency",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "insurance agents",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Darien",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Darien",
+ "state": "IL",
+ "geo": {
+  "lat": 41.7514107,
+  "lon": -87.9704109
+ },
+ "schema_type": "InsuranceAgency",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/549826217",
+ "osm": {
+  "type": "way",
+  "id": 549826217,
+  "tags_used": {
+   "office": "insurance"
+  }
+ },
+ "municipality": "Darien",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/synder-insurance-and-financial-services-darien/",
+ "summary": "Synder Insurance and Financial Services is an insurance agent in Darien, IL.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

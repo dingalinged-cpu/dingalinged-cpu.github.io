@@ -1,0 +1,23 @@
+Barbers is a hair salon in Woodridge, IL.
+
+# Barbers
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: Woodridge, IL
+- City: Woodridge
+- State: IL
+- ZIP: n/a
+- Coordinates: 41.7367381, -88.0416132
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Tu-Sa 09:30-19:00; Su,Mo off
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/barbers-woodridge/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/barbers-woodridge.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9896537754 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

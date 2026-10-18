@@ -1,0 +1,56 @@
+{
+ "slug": "brammeier-family-dental-lisle",
+ "name": "Brammeier Family Dental",
+ "categories": [
+  "dentist"
+ ],
+ "keywords": [
+  "dentist",
+  "dentist lisle il"
+ ],
+ "services": [
+  {
+   "name": "dentist",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "6448 College Road",
+  "addressLocality": "Lisle",
+  "addressRegion": "IL",
+  "postalCode": "60532",
+  "addressCountry": "US"
+ },
+ "city": "Lisle",
+ "state": "IL",
+ "zip": "60532",
+ "geo": {
+  "lat": 41.768277,
+  "lon": -88.0989562
+ },
+ "schema_type": "Dentist",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/13019489113",
+ "osm": {
+  "type": "node",
+  "id": 13019489113,
+  "tags_used": {
+   "amenity": "dentist",
+   "healthcare": "dentist",
+   "healthcare:speciality": "dentist"
+  }
+ },
+ "municipality": "Lisle",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/brammeier-family-dental-lisle/",
+ "summary": "Brammeier Family Dental is a dentist in Lisle, IL at 6448 College Road, Lisle, IL 60532.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

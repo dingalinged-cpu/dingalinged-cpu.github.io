@@ -1,0 +1,62 @@
+{
+ "slug": "antonias-beauty-salon-chicago",
+ "name": "Antonia's Beauty Salon",
+ "categories": [
+  "hair salon"
+ ],
+ "keywords": [
+  "hair salon",
+  "haircut",
+  "hair salon chicago il",
+  "haircut chicago il"
+ ],
+ "services": [
+  {
+   "name": "hair salon",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "haircut",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "3525 South Halsted Street",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60609",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60609",
+ "geo": {
+  "lat": 41.829968,
+  "lon": -87.6458399
+ },
+ "phone": "+17738475236",
+ "website": "https://www.antoniasbeautysalon.com/",
+ "schema_type": "HairSalon",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/210170912",
+ "osm": {
+  "type": "way",
+  "id": 210170912,
+  "tags_used": {
+   "shop": "hairdresser"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/antonias-beauty-salon-chicago/",
+ "summary": "Antonia's Beauty Salon is a hair salon in Chicago, IL at 3525 South Halsted Street, Chicago, IL 60609. Phone: +17738475236. Website: https://www.antoniasbeautysalon.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

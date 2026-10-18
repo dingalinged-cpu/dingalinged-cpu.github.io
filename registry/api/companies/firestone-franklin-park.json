@@ -1,0 +1,67 @@
+{
+ "slug": "firestone-franklin-park",
+ "name": "Firestone",
+ "categories": [
+  "auto repair"
+ ],
+ "keywords": [
+  "auto repair",
+  "mechanic",
+  "auto repair leyden township il",
+  "auto repair franklin park il",
+  "mechanic leyden township il",
+  "mechanic franklin park il"
+ ],
+ "services": [
+  {
+   "name": "auto repair",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "mechanic",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "2550 North Mannheim Road",
+  "addressLocality": "Franklin Park",
+  "addressRegion": "IL",
+  "postalCode": "60131",
+  "addressCountry": "US"
+ },
+ "city": "Franklin Park",
+ "state": "IL",
+ "zip": "60131",
+ "geo": {
+  "lat": 41.9252527,
+  "lon": -87.8851603
+ },
+ "phone": "+18479161134",
+ "website": "https://local.firestonecompleteautocare.com/illinois/franklin-park/2550-mannheim-rd/",
+ "opening_hours": "Mo-Fr 07:00-19:00; Sa 07:00-18:00; Su 08:00-17:00",
+ "brand": "Firestone",
+ "wikidata": "Q420837",
+ "schema_type": "AutoRepair",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/1330653471",
+ "osm": {
+  "type": "way",
+  "id": 1330653471,
+  "tags_used": {
+   "shop": "car_repair"
+  }
+ },
+ "municipality": "Leyden Township",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/firestone-franklin-park/",
+ "summary": "Firestone is an auto repair shop in Franklin Park, IL at 2550 North Mannheim Road, Franklin Park, IL 60131. Phone: +18479161134. Website: https://local.firestonecompleteautocare.com/illinois/franklin-park/2550-mannheim-rd/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,62 @@
+{
+ "slug": "midas-barrington",
+ "name": "Midas",
+ "categories": [
+  "auto repair"
+ ],
+ "keywords": [
+  "auto repair",
+  "mechanic",
+  "auto repair barrington il",
+  "mechanic barrington il"
+ ],
+ "services": [
+  {
+   "name": "auto repair",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "mechanic",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "110 West Northwest Highway",
+  "addressLocality": "Barrington",
+  "addressRegion": "IL",
+  "postalCode": "60010",
+  "addressCountry": "US"
+ },
+ "city": "Barrington",
+ "state": "IL",
+ "zip": "60010",
+ "geo": {
+  "lat": 42.1618948,
+  "lon": -88.1369467
+ },
+ "brand": "Midas",
+ "wikidata": "Q3312613",
+ "schema_type": "AutoRepair",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/6808136630",
+ "osm": {
+  "type": "node",
+  "id": 6808136630,
+  "tags_used": {
+   "shop": "car_repair"
+  }
+ },
+ "municipality": "Barrington",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/midas-barrington/",
+ "summary": "Midas is an auto repair shop in Barrington, IL at 110 West Northwest Highway, Barrington, IL 60010.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

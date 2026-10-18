@@ -1,0 +1,55 @@
+{
+ "slug": "fred-astaire-long-grove-long-grove",
+ "name": "Fred Astaire Long Grove",
+ "categories": [
+  "dance studio"
+ ],
+ "keywords": [
+  "dance studio",
+  "dance studio long grove il"
+ ],
+ "services": [
+  {
+   "name": "dance studio",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "342 North Old McHenry Road",
+  "addressLocality": "Long Grove",
+  "addressRegion": "IL",
+  "postalCode": "60047",
+  "addressCountry": "US"
+ },
+ "city": "Long Grove",
+ "state": "IL",
+ "zip": "60047",
+ "geo": {
+  "lat": 42.1773114,
+  "lon": -87.9969651
+ },
+ "website": "https://www.fredastaire.com/chicago-north/",
+ "schema_type": "SportsActivityLocation",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/1076743286",
+ "osm": {
+  "type": "way",
+  "id": 1076743286,
+  "tags_used": {
+   "leisure": "dance"
+  }
+ },
+ "municipality": "Long Grove",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/fred-astaire-long-grove-long-grove/",
+ "summary": "Fred Astaire Long Grove is a dance studio in Long Grove, IL at 342 North Old McHenry Road, Long Grove, IL 60047. Website: https://www.fredastaire.com/chicago-north/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

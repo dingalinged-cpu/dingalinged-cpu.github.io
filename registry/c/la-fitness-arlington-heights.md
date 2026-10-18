@@ -1,0 +1,23 @@
+LA Fitness is a gym in Arlington Heights, IL at 960 West Dundee Road, Arlington Heights, IL 60004.
+
+# LA Fitness
+
+- Category: gym
+- Services: gym
+- Address: 960 West Dundee Road, Arlington Heights, IL 60004
+- City: Arlington Heights
+- State: IL
+- ZIP: 60004
+- Coordinates: 42.1407319, -87.9940146
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/la-fitness-arlington-heights/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/la-fitness-arlington-heights.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13550833301 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

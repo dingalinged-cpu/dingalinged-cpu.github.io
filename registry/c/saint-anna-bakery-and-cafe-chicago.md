@@ -1,0 +1,23 @@
+Saint Anna Bakery & Cafe is a bakery in Chicago, IL at 2158 South Archer Avenue #A, Chicago, IL 60616. Phone: +13122253168.
+
+# Saint Anna Bakery & Cafe
+
+- Category: bakery
+- Services: bakery
+- Address: 2158 South Archer Avenue #A, Chicago, IL 60616
+- City: Chicago
+- State: IL
+- ZIP: 60616
+- Coordinates: 41.8535382, -87.6344097
+- Phone: +13122253168
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/saint-anna-bakery-and-cafe-chicago/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/saint-anna-bakery-and-cafe-chicago.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6301604521 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

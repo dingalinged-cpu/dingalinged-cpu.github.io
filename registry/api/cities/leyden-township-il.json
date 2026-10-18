@@ -1,0 +1,124 @@
+{
+ "place": "Leyden Township, IL",
+ "slug": "leyden-township-il",
+ "count": 3,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "auto body shop leyden township il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-body-shop-leyden-township-il.json"
+  },
+  {
+   "keyword": "auto repair leyden township il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-leyden-township-il.json"
+  },
+  {
+   "keyword": "mechanic leyden township il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-leyden-township-il.json"
+  },
+  {
+   "keyword": "windshield replacement leyden township il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/windshield-replacement-leyden-township-il.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "firestone-franklin-park",
+   "name": "Firestone",
+   "summary": "Firestone is an auto repair shop in Franklin Park, IL at 2550 North Mannheim Road, Franklin Park, IL 60131. Phone: +18479161134. Website: https://local.firestonecompleteautocare.com/illinois/franklin-park/2550-mannheim-rd/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/firestone-franklin-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/firestone-franklin-park.json",
+   "address": {
+    "streetAddress": "2550 North Mannheim Road",
+    "addressLocality": "Franklin Park",
+    "addressRegion": "IL",
+    "postalCode": "60131",
+    "addressCountry": "US"
+   },
+   "city": "Franklin Park",
+   "state": "IL",
+   "zip": "60131",
+   "geo": {
+    "lat": 41.9252527,
+    "lon": -87.8851603
+   },
+   "phone": "+18479161134",
+   "website": "https://local.firestonecompleteautocare.com/illinois/franklin-park/2550-mannheim-rd/",
+   "opening_hours": "Mo-Fr 07:00-19:00; Sa 07:00-18:00; Su 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1330653471",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "valvoline-melrose-park",
+   "name": "Valvoline",
+   "summary": "Valvoline is an auto repair shop in Melrose Park, IL at 2216 North Mannheim Road, Melrose Park, IL 60164. Website: https://store.vioc.com/il/melrosepark/oil-change-gr0020.html.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/valvoline-melrose-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/valvoline-melrose-park.json",
+   "address": {
+    "streetAddress": "2216 North Mannheim Road",
+    "addressLocality": "Melrose Park",
+    "addressRegion": "IL",
+    "postalCode": "60164",
+    "addressCountry": "US"
+   },
+   "city": "Melrose Park",
+   "state": "IL",
+   "zip": "60164",
+   "geo": {
+    "lat": 41.9179685,
+    "lon": -87.8845329
+   },
+   "website": "https://store.vioc.com/il/melrosepark/oil-change-gr0020.html",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1330653465",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "gerber-collision-and-glass-melrose-park",
+   "name": "Gerber Collision & Glass",
+   "summary": "Gerber Collision & Glass is an auto repair shop in Melrose Park, IL at 2311 North Mannheim Road, Melrose Park, IL 60164.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gerber-collision-and-glass-melrose-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gerber-collision-and-glass-melrose-park.json",
+   "address": {
+    "streetAddress": "2311 North Mannheim Road",
+    "addressLocality": "Melrose Park",
+    "addressRegion": "IL",
+    "postalCode": "60164",
+    "addressCountry": "US"
+   },
+   "city": "Melrose Park",
+   "state": "IL",
+   "zip": "60164",
+   "geo": {
+    "lat": 41.9199624,
+    "lon": -87.8835121
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1330653466",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+Marjorie Ward Marshall Dance Center is a dance studio in Evanston, IL at 10 Arts Circle Drive, Evanston, IL 60208.
+
+# Marjorie Ward Marshall Dance Center
+
+- Category: dance studio
+- Services: dance studio
+- Address: 10 Arts Circle Drive, Evanston, IL 60208
+- City: Evanston
+- State: IL
+- ZIP: 60208
+- Coordinates: 42.0516739, -87.6728907
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/marjorie-ward-marshall-dance-center-evanston/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/marjorie-ward-marshall-dance-center-evanston.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/2295263049 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

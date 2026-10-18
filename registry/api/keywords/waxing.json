@@ -12,9 +12,9 @@
   "affordable waxing the United States",
   "emergency waxing the United States"
  ],
- "answer": "The top unpaid waxing listing for the United States is European Wax Center (a waxing salon in Minneapolis, MN at 3232 Lake Street West, Minneapolis, MN 55416. Phone: +16123535982. Website: https://locations.waxcenter.com/mn/minneapolis/minneapolis-uptown-0123.html). 8 waxing businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "answer": "The top unpaid waxing listing for the United States is Benefit Brow Bar (a waxing salon in Naperville, IL at 214 South Main Street, Naperville, IL 60540. Phone: +16304288557. Website: https://naperville.benefitboutiques.com/). 34 waxing businesses are listed for the United States as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
  "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
- "updated": "2026-10-17",
+ "updated": "2026-10-18",
  "sponsored_slots": {
   "featured_1": "available",
   "spots_2_4_sold": 0
@@ -27,6 +27,181 @@
  "results": [
   {
    "position": 1,
+   "sponsored": false,
+   "slug": "benefit-brow-bar-naperville",
+   "name": "Benefit Brow Bar",
+   "summary": "Benefit Brow Bar is a waxing salon in Naperville, IL at 214 South Main Street, Naperville, IL 60540. Phone: +16304288557. Website: https://naperville.benefitboutiques.com/.",
+   "categories": [
+    "waxing"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/benefit-brow-bar-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/benefit-brow-bar-naperville.json",
+   "address": {
+    "streetAddress": "214 South Main Street",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60540",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60540",
+   "geo": {
+    "lat": 41.7726217,
+    "lon": -88.1493253
+   },
+   "phone": "+16304288557",
+   "website": "https://naperville.benefitboutiques.com/",
+   "opening_hours": "Mo-We 09:30-19:00; Th-Fr 10:00-19:00; Sa 09:00-19:00; Su 10:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1040101906",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "beya-wax-bar-midlothian",
+   "name": "Beya Wax Bar",
+   "summary": "Beya Wax Bar is a waxing salon in Midlothian, IL at 4708 147th Street #Suite 1, Midlothian, IL 60445. Phone: +17082386040. Website: https://www.beyawaxbar.com/.",
+   "categories": [
+    "waxing"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/beya-wax-bar-midlothian/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/beya-wax-bar-midlothian.json",
+   "address": {
+    "streetAddress": "4708 147th Street #Suite 1",
+    "addressLocality": "Midlothian",
+    "addressRegion": "IL",
+    "postalCode": "60445",
+    "addressCountry": "US"
+   },
+   "city": "Midlothian",
+   "state": "IL",
+   "zip": "60445",
+   "geo": {
+    "lat": 41.6260177,
+    "lon": -87.7353336
+   },
+   "phone": "+17082386040",
+   "website": "https://www.beyawaxbar.com/",
+   "opening_hours": "Tu-Fr 10:00-18:00; Sa 10:00-14:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7955717500",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "brows-threading-chicago",
+   "name": "Brows Threading",
+   "summary": "Brows Threading is a waxing salon in Chicago, IL at 3937 North Broadway, Chicago, IL 60613. Phone: +17736612725. Website: https://www.browsthreading.biz/services.",
+   "categories": [
+    "waxing"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/brows-threading-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/brows-threading-chicago.json",
+   "address": {
+    "streetAddress": "3937 North Broadway",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60613",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60613",
+   "geo": {
+    "lat": 41.9538613,
+    "lon": -87.6499402
+   },
+   "phone": "+17736612725",
+   "website": "https://www.browsthreading.biz/services",
+   "opening_hours": "Mo-Sa 10:00-19:00; Su 12:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10249091443",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "callista-beauty-and-medical-spa-chicago",
+   "name": "Callista Beauty and Medical Spa",
+   "summary": "Callista Beauty and Medical Spa is a nail salon in Chicago, IL at 6020 West Higgins Avenue, Chicago, IL 60630. Phone: +17739545777. Website: https://callistabeautyspa.com/.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/callista-beauty-and-medical-spa-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/callista-beauty-and-medical-spa-chicago.json",
+   "address": {
+    "streetAddress": "6020 West Higgins Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60630",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60630",
+   "geo": {
+    "lat": 41.973856,
+    "lon": -87.7790618
+   },
+   "phone": "+17739545777",
+   "website": "https://callistabeautyspa.com/",
+   "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12540865672",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "european-wax-center-chicago-n10759843416",
+   "name": "European Wax Center",
+   "summary": "European Wax Center is a waxing salon in Chicago, IL at 403 West North Avenue, Chicago, IL 60610. Phone: +13128889668. Website: https://locations.waxcenter.com/il/chicago/chicago-old-town-0303.html.",
+   "categories": [
+    "waxing"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/european-wax-center-chicago-n10759843416/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/european-wax-center-chicago-n10759843416.json",
+   "address": {
+    "streetAddress": "403 West North Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60610",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60610",
+   "geo": {
+    "lat": 41.9109325,
+    "lon": -87.6388519
+   },
+   "phone": "+13128889668",
+   "website": "https://locations.waxcenter.com/il/chicago/chicago-old-town-0303.html",
+   "opening_hours": "Mo-Fr 09:00-21:00; Sa 09:00-16:00; Su 09:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10759843416",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
    "sponsored": false,
    "slug": "european-wax-center-minneapolis",
    "name": "European Wax Center",
@@ -61,7 +236,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 2,
+   "position": 7,
    "sponsored": false,
    "slug": "labb-collective-edina",
    "name": "LABB Collective",
@@ -96,7 +271,250 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 3,
+   "position": 8,
+   "sponsored": false,
+   "slug": "pinkals-threading-and-waxing-salon-chicago",
+   "name": "Pinkal's Threading & Waxing Salon",
+   "summary": "Pinkal's Threading & Waxing Salon is a waxing salon in Chicago, IL at 3746 North Broadway, Chicago, IL 60613. Phone: +17736003719. Website: https://pinkalsthreadingwaxingsalon.com/.",
+   "categories": [
+    "waxing"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pinkals-threading-and-waxing-salon-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pinkals-threading-and-waxing-salon-chicago.json",
+   "address": {
+    "streetAddress": "3746 North Broadway",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60613",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60613",
+   "geo": {
+    "lat": 41.9503768,
+    "lon": -87.6492532
+   },
+   "phone": "+17736003719",
+   "website": "https://pinkalsthreadingwaxingsalon.com/",
+   "opening_hours": "Mo-Th 10:30-19:00; Fr 10:00-19:00; Sa 10:00-17:00; Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11205367033",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "purity-spa-willow-springs",
+   "name": "Purity Spa",
+   "summary": "Purity Spa is a spa in Willow Springs, IL at 151 Market Street, Willow Springs, IL 60480. Phone: +17083305357. Website: https://purityspa.us/.",
+   "categories": [
+    "spa"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/purity-spa-willow-springs/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/purity-spa-willow-springs.json",
+   "address": {
+    "streetAddress": "151 Market Street",
+    "addressLocality": "Willow Springs",
+    "addressRegion": "IL",
+    "postalCode": "60480",
+    "addressCountry": "US"
+   },
+   "city": "Willow Springs",
+   "state": "IL",
+   "zip": "60480",
+   "geo": {
+    "lat": 41.7336232,
+    "lon": -87.8764629
+   },
+   "phone": "+17083305357",
+   "website": "https://purityspa.us/",
+   "opening_hours": "Mo-Fr 09:00-19:00; Sa 08:00-14:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13374876551",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "sanctuary-mens-spa-chicago",
+   "name": "Sanctuary Men's Spa",
+   "summary": "Sanctuary Men's Spa is a waxing salon in Chicago, IL at 4554 North Broadway, Chicago, IL 60640. Phone: +13127356007. Website: https://adriani-divino.square.site/.",
+   "categories": [
+    "waxing"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sanctuary-mens-spa-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sanctuary-mens-spa-chicago.json",
+   "address": {
+    "streetAddress": "4554 North Broadway",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60640",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60640",
+   "geo": {
+    "lat": 41.9646972,
+    "lon": -87.6573481
+   },
+   "phone": "+13127356007",
+   "website": "https://adriani-divino.square.site/",
+   "opening_hours": "Mo-Fr 09:00-21:00; Sa 10:00-22:00; Su 13:00-22:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13874801846",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 11,
+   "sponsored": false,
+   "slug": "studio-skinrx-oak-park",
+   "name": "Studio Skinrx",
+   "summary": "Studio Skinrx is a skin care studio in Oak Park, IL at 6429 West North Avenue #202, Oak Park, IL 60302. Phone: +17086161466. Website: https://www.studioskinrx.com/.",
+   "categories": [
+    "facial"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/studio-skinrx-oak-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/studio-skinrx-oak-park.json",
+   "address": {
+    "streetAddress": "6429 West North Avenue #202",
+    "addressLocality": "Oak Park",
+    "addressRegion": "IL",
+    "postalCode": "60302",
+    "addressCountry": "US"
+   },
+   "city": "Oak Park",
+   "state": "IL",
+   "zip": "60302",
+   "geo": {
+    "lat": 41.9089643,
+    "lon": -87.7862701
+   },
+   "phone": "+17086161466",
+   "website": "https://www.studioskinrx.com/",
+   "opening_hours": "Mo-Fr 08:00-19:00; Sa 10:30-20:30; Su 10:00-14:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12363312109",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 12,
+   "sponsored": false,
+   "slug": "the-wispy-brow-chicago",
+   "name": "The Wispy Brow",
+   "summary": "The Wispy Brow is a waxing salon in Chicago, IL at 1309 West Chicago Avenue #024, Chicago, IL 60642. Phone: +13123883083. Website: https://www.thewispybrow.com/.",
+   "categories": [
+    "waxing"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-wispy-brow-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-wispy-brow-chicago.json",
+   "address": {
+    "streetAddress": "1309 West Chicago Avenue #024",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60642",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60642",
+   "geo": {
+    "lat": 41.8960741,
+    "lon": -87.6598351
+   },
+   "phone": "+13123883083",
+   "website": "https://www.thewispybrow.com/",
+   "opening_hours": "Mo-Su 10:30-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13228373438",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
+   "sponsored": false,
+   "slug": "thread-away-chicago",
+   "name": "Thread Away",
+   "summary": "Thread Away is a waxing salon in Chicago, IL at 500 North Wells Street, Chicago, IL 60654. Phone: +13129253054. Website: https://www.threadaway.com/.",
+   "categories": [
+    "waxing"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/thread-away-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/thread-away-chicago.json",
+   "address": {
+    "streetAddress": "500 North Wells Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60654",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60654",
+   "geo": {
+    "lat": 41.8909537,
+    "lon": -87.6342421
+   },
+   "phone": "+13129253054",
+   "website": "https://www.threadaway.com/",
+   "opening_hours": "Mo-Fr 11:00-18:00; Sa 10:00-18:00; Su 10:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13692146307",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 14,
+   "sponsored": false,
+   "slug": "mf-aesthetics-chicago",
+   "name": "MF Aesthetics",
+   "summary": "MF Aesthetics is a waxing salon in Chicago, IL at 2555 North Southport Avenue, Chicago, IL. Phone: +17738374166. Website: https://mfaesthetics.com/.",
+   "categories": [
+    "waxing"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mf-aesthetics-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mf-aesthetics-chicago.json",
+   "address": {
+    "streetAddress": "2555 North Southport Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9286576,
+    "lon": -87.6632768
+   },
+   "phone": "+17738374166",
+   "website": "https://mfaesthetics.com/",
+   "opening_hours": "Mo 10:00-17:00; Tu,Fr 10:00-18:00; We-Th 10:00-20:00; Sa 10:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11359592583",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 15,
    "sponsored": false,
    "slug": "european-wax-center-saint-paul",
    "name": "European Wax Center",
@@ -130,7 +548,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 4,
+   "position": 16,
    "sponsored": false,
    "slug": "kalla-lily-maple-grove",
    "name": "Kalla Lily",
@@ -164,7 +582,206 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 5,
+   "position": 17,
+   "sponsored": false,
+   "slug": "super-brow-and-lash-bar-rolling-meadows",
+   "name": "Super Brow & Lash Bar",
+   "summary": "Super Brow & Lash Bar is a skin care studio in Rolling Meadows, IL at 1917 South Plum Grove Road, Rolling Meadows, IL 60067. Phone: +12248018193.",
+   "categories": [
+    "facial"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/super-brow-and-lash-bar-rolling-meadows/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/super-brow-and-lash-bar-rolling-meadows.json",
+   "address": {
+    "streetAddress": "1917 South Plum Grove Road",
+    "addressLocality": "Rolling Meadows",
+    "addressRegion": "IL",
+    "postalCode": "60067",
+    "addressCountry": "US"
+   },
+   "city": "Rolling Meadows",
+   "state": "IL",
+   "zip": "60067",
+   "geo": {
+    "lat": 42.0898443,
+    "lon": -88.0443054
+   },
+   "phone": "+12248018193",
+   "opening_hours": "Mo-Fr 10:00-20:00; Sa 10:00-19:00; Su 11:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11425147071",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 18,
+   "sponsored": false,
+   "slug": "european-wax-center-buffalo-grove",
+   "name": "European Wax Center",
+   "summary": "European Wax Center is a waxing salon in Buffalo Grove, IL at 1537 Deerfield Parkway, Buffalo Grove, IL 60089. Website: https://locations.waxcenter.com/il/buffalogrove/buffalo-grove-the-shops-at-buffalo-grove-1316.html.",
+   "categories": [
+    "waxing"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/european-wax-center-buffalo-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/european-wax-center-buffalo-grove.json",
+   "address": {
+    "streetAddress": "1537 Deerfield Parkway",
+    "addressLocality": "Buffalo Grove",
+    "addressRegion": "IL",
+    "postalCode": "60089",
+    "addressCountry": "US"
+   },
+   "city": "Buffalo Grove",
+   "state": "IL",
+   "zip": "60089",
+   "geo": {
+    "lat": 42.1674286,
+    "lon": -87.9241061
+   },
+   "website": "https://locations.waxcenter.com/il/buffalogrove/buffalo-grove-the-shops-at-buffalo-grove-1316.html",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11124474557",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 19,
+   "sponsored": false,
+   "slug": "european-wax-center-chicago-n9595823770",
+   "name": "European Wax Center",
+   "summary": "European Wax Center is a waxing salon in Chicago, IL at 2717 North Elston Avenue, Chicago, IL 60647. Website: https://locations.waxcenter.com/il/chicago/chicago-logan-square-0330.html.",
+   "categories": [
+    "waxing"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/european-wax-center-chicago-n9595823770/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/european-wax-center-chicago-n9595823770.json",
+   "address": {
+    "streetAddress": "2717 North Elston Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60647",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60647",
+   "geo": {
+    "lat": 41.9312188,
+    "lon": -87.6852309
+   },
+   "website": "https://locations.waxcenter.com/il/chicago/chicago-logan-square-0330.html",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9595823770",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 20,
+   "sponsored": false,
+   "slug": "european-wax-center-merrillville",
+   "name": "European Wax Center",
+   "summary": "European Wax Center is a waxing salon in Merrillville, IN at 1675 East 80th Avenue, Merrillville, IN 46410. Website: https://locations.waxcenter.com/in/merrillville/merrillville-merrillville-plaza-1012.html.",
+   "categories": [
+    "waxing"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/european-wax-center-merrillville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/european-wax-center-merrillville.json",
+   "address": {
+    "streetAddress": "1675 East 80th Avenue",
+    "addressLocality": "Merrillville",
+    "addressRegion": "IN",
+    "postalCode": "46410",
+    "addressCountry": "US"
+   },
+   "city": "Merrillville",
+   "state": "IN",
+   "zip": "46410",
+   "geo": {
+    "lat": 41.4720233,
+    "lon": -87.3148422
+   },
+   "website": "https://locations.waxcenter.com/in/merrillville/merrillville-merrillville-plaza-1012.html",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13772771255",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 21,
+   "sponsored": false,
+   "slug": "european-wax-center-orland-park",
+   "name": "European Wax Center",
+   "summary": "European Wax Center is a waxing salon in Orland Park, IL at 15174 South La Grange Road, Orland Park, IL 60462. Website: https://locations.waxcenter.com/il/orlandpark/orland-park-0568.html.",
+   "categories": [
+    "waxing"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/european-wax-center-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/european-wax-center-orland-park.json",
+   "address": {
+    "streetAddress": "15174 South La Grange Road",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60462",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60462",
+   "geo": {
+    "lat": 41.6140321,
+    "lon": -87.8547505
+   },
+   "website": "https://locations.waxcenter.com/il/orlandpark/orland-park-0568.html",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9234090974",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 22,
+   "sponsored": false,
+   "slug": "european-wax-center-vernon-hills",
+   "name": "European Wax Center",
+   "summary": "European Wax Center is a waxing salon in Vernon Hills, IL at 901 North Milwaukee Avenue #700, Vernon Hills, IL 60061. Website: https://locations.waxcenter.com/il/vernonhills/vernon-hills-0811.html.",
+   "categories": [
+    "waxing"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/european-wax-center-vernon-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/european-wax-center-vernon-hills.json",
+   "address": {
+    "streetAddress": "901 North Milwaukee Avenue #700",
+    "addressLocality": "Vernon Hills",
+    "addressRegion": "IL",
+    "postalCode": "60061",
+    "addressCountry": "US"
+   },
+   "city": "Vernon Hills",
+   "state": "IL",
+   "zip": "60061",
+   "geo": {
+    "lat": 42.2431171,
+    "lon": -87.9425774
+   },
+   "website": "https://locations.waxcenter.com/il/vernonhills/vernon-hills-0811.html",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/687473908",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 23,
    "sponsored": false,
    "slug": "spa-sweet-minneapolis",
    "name": "Spa Sweet",
@@ -197,7 +814,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 6,
+   "position": 24,
    "sponsored": false,
    "slug": "the-refinery-minneapolis",
    "name": "The Refinery",
@@ -230,7 +847,131 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 7,
+   "position": 25,
+   "sponsored": false,
+   "slug": "european-wax-center-chicago",
+   "name": "European Wax Center",
+   "summary": "European Wax Center is a waxing salon in Chicago, IL. Website: https://locations.waxcenter.com/il/chicago/chicago-streeterville-0304.html.",
+   "categories": [
+    "waxing"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/european-wax-center-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/european-wax-center-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8927934,
+    "lon": -87.6187414
+   },
+   "website": "https://locations.waxcenter.com/il/chicago/chicago-streeterville-0304.html",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3664793221",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 26,
+   "sponsored": false,
+   "slug": "nail-house-chicago",
+   "name": "Nail House",
+   "summary": "Nail House is a nail salon in Chicago, IL. Phone: +17736004202.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/nail-house-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/nail-house-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9114141,
+    "lon": -87.6498633
+   },
+   "phone": "+17736004202",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13574784328",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 27,
+   "sponsored": false,
+   "slug": "c-j-nails-darien",
+   "name": "C.J Nails",
+   "summary": "C.J Nails is a nail salon in Darien, IL at 7511 Lemont Road, Darien, IL 60561.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/c-j-nails-darien/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/c-j-nails-darien.json",
+   "address": {
+    "streetAddress": "7511 Lemont Road",
+    "addressLocality": "Darien",
+    "addressRegion": "IL",
+    "postalCode": "60561",
+    "addressCountry": "US"
+   },
+   "city": "Darien",
+   "state": "IL",
+   "zip": "60561",
+   "geo": {
+    "lat": 41.7491708,
+    "lon": -88.0098367
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5256928059",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 28,
+   "sponsored": false,
+   "slug": "european-wax-center-chicago-n11869869973",
+   "name": "European Wax Center",
+   "summary": "European Wax Center is a waxing salon in Chicago, IL at 4112 South Pulaski Road, Chicago, IL 60632.",
+   "categories": [
+    "waxing"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/european-wax-center-chicago-n11869869973/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/european-wax-center-chicago-n11869869973.json",
+   "address": {
+    "streetAddress": "4112 South Pulaski Road",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60632",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60632",
+   "geo": {
+    "lat": 41.8175802,
+    "lon": -87.7242152
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11869869973",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 29,
    "sponsored": false,
    "slug": "european-wax-center-edina",
    "name": "European Wax Center",
@@ -262,7 +1003,68 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 8,
+   "position": 30,
+   "sponsored": false,
+   "slug": "geo-style-salon-and-spa-chicago",
+   "name": "Geo Style Salon & Spa",
+   "summary": "Geo Style Salon & Spa is a skin care studio in Chicago, IL at 2813 West Devon Avenue, Chicago, IL 60659.",
+   "categories": [
+    "facial"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/geo-style-salon-and-spa-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/geo-style-salon-and-spa-chicago.json",
+   "address": {
+    "streetAddress": "2813 West Devon Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60659",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60659",
+   "geo": {
+    "lat": 41.9973914,
+    "lon": -87.7001462
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8477352509",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 31,
+   "sponsored": false,
+   "slug": "benefit-brow-bar-chicago",
+   "name": "Benefit Brow Bar",
+   "summary": "Benefit Brow Bar is a waxing salon in Chicago, IL.",
+   "categories": [
+    "waxing"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/benefit-brow-bar-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/benefit-brow-bar-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9311282,
+    "lon": -87.677072
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9424269474",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 32,
    "sponsored": false,
    "slug": "european-wax-center-eagan",
    "name": "European Wax Center",
@@ -289,6 +1091,293 @@
    "source": "OpenStreetMap",
    "source_url": "https://www.openstreetmap.org/node/12724662588",
    "last_checked": "2026-10-17"
+  },
+  {
+   "position": 33,
+   "sponsored": false,
+   "slug": "european-wax-center-la-grange",
+   "name": "European Wax Center",
+   "summary": "European Wax Center is a waxing salon in La Grange, IL.",
+   "categories": [
+    "waxing"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/european-wax-center-la-grange/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/european-wax-center-la-grange.json",
+   "address": {
+    "addressLocality": "La Grange",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "La Grange",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8141469,
+    "lon": -87.8702451
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13691833848",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 34,
+   "sponsored": false,
+   "slug": "seva-beauty-orland-hills",
+   "name": "Seva Beauty",
+   "summary": "Seva Beauty is a skin care studio in Orland Hills, IL.",
+   "categories": [
+    "facial"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/seva-beauty-orland-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/seva-beauty-orland-hills.json",
+   "address": {
+    "addressLocality": "Orland Hills",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Orland Hills",
+   "state": "IL",
+   "geo": {
+    "lat": 41.5987164,
+    "lon": -87.8427934
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9487407274",
+   "last_checked": "2026-10-17"
   }
- ]
+ ],
+ "market": {
+  "keyword": "waxing",
+  "slug": "waxing",
+  "base_keyword": "waxing",
+  "scope": "national",
+  "city": null,
+  "state": null,
+  "category": "Personal care & beauty",
+  "industry": "Beauty & Personal Care",
+  "us_monthly_searches": {
+   "value": 930000,
+   "range": [
+    250000,
+    1500000
+   ],
+   "method": "estimate",
+   "estimate_method": "median of 6 cited US volumes for 'high'-demand keywords in category 'Personal care & beauty' (local_services research); rounded to 2 significant figures; range = 25th-75th percentile",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "confidence": "low"
+  },
+  "local_monthly_searches": null,
+  "cpc_usd": {
+   "industry_benchmark": "Beauty & Personal Care",
+   "low_usd": 4.62,
+   "median_usd": 4.62,
+   "high_usd": 5.7,
+   "method": "published benchmarks: low/high = range of the industry and sub-industry median CPCs listed in 'figures'; median = most specific benchmark",
+   "figures": [
+    {
+     "usd": 4.62,
+     "label": "Beauty & Personal Care median CPC 2026",
+     "source": "wordstream_2026"
+    },
+    {
+     "usd": 5.7,
+     "label": "Beauty & Personal Care median CPC 2025",
+     "source": "wordstream_2025"
+    }
+   ],
+   "source": "wordstream_2026",
+   "as_of": "2026",
+   "basis_for_value": {
+    "usd": 4.62,
+    "method": "benchmark median CPC",
+    "source": "wordstream_2026"
+   }
+  },
+  "ctr_pct": {
+   "value": 5.71,
+   "label": "Beauty & Personal Care average search-ad CTR 2025",
+   "source": "wordstream_2025",
+   "as_of": "2025-03"
+  },
+  "competition": {
+   "level": "medium",
+   "method": "proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research)",
+   "source": "wordstream_2026",
+   "as_of": "2026"
+  },
+  "trend": null,
+  "seasonality": {
+   "value": null,
+   "note": "No seasonality data in the research sources for this keyword."
+  },
+  "ai_query": {
+   "text": "No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.",
+   "figures": [
+    {
+     "value": "45%",
+     "label": "US adults using AI for local recommendations",
+     "source": "brightlocal_lcrs_2026"
+    },
+    {
+     "value": "75%",
+     "label": "sessions with keyword-style prompts",
+     "source": "sagapixel_sel"
+    },
+    {
+     "value": "59%",
+     "label": "local-intent prompts that triggered web search",
+     "source": "nectiv"
+    },
+    {
+     "value": "21%",
+     "label": "AI-first discovery journeys in healthcare (excerpt only)",
+     "source": "soci_2026"
+    }
+   ],
+   "as_of": "2026"
+  },
+  "registry_competitors": {
+   "value": 34,
+   "slugs": [
+    "benefit-brow-bar-chicago",
+    "benefit-brow-bar-naperville",
+    "beya-wax-bar-midlothian",
+    "brows-threading-chicago",
+    "c-j-nails-darien",
+    "callista-beauty-and-medical-spa-chicago",
+    "european-wax-center-buffalo-grove",
+    "european-wax-center-chicago",
+    "european-wax-center-chicago-n10759843416",
+    "european-wax-center-chicago-n11869869973"
+   ],
+   "method_id": "competitors",
+   "source": "registry",
+   "as_of": "2026-10-18",
+   "urls": [
+    "https://dingalinged-cpu.github.io/registry/c/benefit-brow-bar-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/benefit-brow-bar-naperville/",
+    "https://dingalinged-cpu.github.io/registry/c/beya-wax-bar-midlothian/",
+    "https://dingalinged-cpu.github.io/registry/c/brows-threading-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/c-j-nails-darien/",
+    "https://dingalinged-cpu.github.io/registry/c/callista-beauty-and-medical-spa-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/european-wax-center-buffalo-grove/",
+    "https://dingalinged-cpu.github.io/registry/c/european-wax-center-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/european-wax-center-chicago-n10759843416/",
+    "https://dingalinged-cpu.github.io/registry/c/european-wax-center-chicago-n11869869973/"
+   ],
+   "method": "count of registry listings tagged with the keyword (city/national) or with the base service in the same state (state keywords)"
+  },
+  "agent_demand": null,
+  "agent_demand_note": "Not yet measured. Will carry AI-agent query counts from the registry's agent analytics (contract: meta.agent_demand_contract in the market index).",
+  "equivalent_google_ads_cost_month": {
+   "value_usd": 250000,
+   "method": "estimate",
+   "method_id": "google_ads_equiv",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote."
+  },
+  "search_value_index": {
+   "value_usd": 4300000,
+   "method": "estimate",
+   "method_id": "value_index",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: search value index = monthly searches x CPC basis; an advertiser-value ranking signal, not revenue; rounded to 2 significant figures."
+  },
+  "auction": {
+   "featured_spot_min_usd": 250,
+   "spots_2_to_4_min_usd": 25,
+   "tier": "high",
+   "pricing_rule": "tier minimum (premium $500, high $250, mid $100, standard $50) for national keywords; city = max($10, 20% of tier); state = max($10, 35% of tier); spots 2-4 open at 10% of the featured minimum",
+   "model": "Monthly auction in the last 7 days of each month: days 1-5 bid for the Featured #1 spot, days 6-7 for spots 2-4; winners display all next month; all paid spots labeled Sponsored.",
+   "next_auctions": [
+    {
+     "display_month": "2026-11",
+     "featured_spot_bidding": [
+      "2026-10-25",
+      "2026-10-29"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-10-30",
+      "2026-10-31"
+     ]
+    },
+    {
+     "display_month": "2026-12",
+     "featured_spot_bidding": [
+      "2026-11-24",
+      "2026-11-28"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-11-29",
+      "2026-11-30"
+     ]
+    }
+   ],
+   "source": "registry_auction",
+   "as_of": "2026-10-18"
+  },
+  "sources": {
+   "brightlocal_lcrs_2026": {
+    "name": "BrightLocal Local Consumer Review Survey 2026 (n=1,002 US adults)",
+    "url": "https://www.brightlocal.com/research/lcrs-ai-trust/",
+    "as_of": "2026"
+   },
+   "nectiv": {
+    "name": "Nectiv study of 8,500+ ChatGPT prompts",
+    "url": "https://nectivdigital.com/blog/new-data-study-what-queries-is-chatgpt-using-behind-the-scenes",
+    "as_of": "2025"
+   },
+   "registry": {
+    "name": "This registry's own listings (OpenStreetMap-seeded, ODbL)",
+    "url": "https://dingalinged-cpu.github.io/registry/api/companies.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_auction": {
+    "name": "Registry keyword auction catalog and rules",
+    "url": "https://dingalinged-cpu.github.io/registry/api/keyword-prices.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_estimate": {
+    "name": "Registry estimate (CC-BY-4.0); method given on each value",
+    "url": "https://dingalinged-cpu.github.io/registry/market/",
+    "as_of": "2026-10-18"
+   },
+   "sagapixel_sel": {
+    "name": "Sagapixel ChatGPT local-services sessions, via Search Engine Land",
+    "url": "https://searchengineland.com/chatgpt-users-keywords-for-local-services-data-467715",
+    "as_of": "2026-01"
+   },
+   "soci_2026": {
+    "name": "SOCi Local Discovery Index 2026 (excerpt only, via pantora.ai)",
+    "url": "https://www.pantora.ai/blog/consumers-use-ai-to-find-local-businesses",
+    "as_of": "2026"
+   },
+   "wordstream_2025": {
+    "name": "WordStream Google Ads Benchmarks 2025 (16,446 US campaigns, Apr 2024-Mar 2025; median CPC and CTR by industry)",
+    "url": "https://www.wordstream.com/blog/2025-google-ads-benchmarks",
+    "as_of": "2025-03"
+   },
+   "wordstream_2026": {
+    "name": "LocaliQ/WordStream Search Advertising Benchmarks 2026 (US median CPC by industry)",
+    "url": "https://www.localiq.com/blog/search-advertising-benchmarks",
+    "as_of": "2026"
+   }
+  },
+  "license": {
+   "registry_estimates": "CC-BY-4.0",
+   "url": "https://creativecommons.org/licenses/by/4.0/",
+   "cited_figures": "attribute to the publishers in sources"
+  },
+  "as_of": "2026-10-18",
+  "api": "https://dingalinged-cpu.github.io/registry/api/market/waxing.json",
+  "rate_card": "https://dingalinged-cpu.github.io/registry/view/market.html#waxing"
+ }
 }

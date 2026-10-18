@@ -1,0 +1,64 @@
+{
+ "slug": "studio-q-at-salon-lofts-hoffman-estates",
+ "name": "Studio Q at Salon Lofts",
+ "categories": [
+  "hair salon"
+ ],
+ "keywords": [
+  "hair salon",
+  "haircut",
+  "hair salon hoffman estates il",
+  "haircut hoffman estates il"
+ ],
+ "services": [
+  {
+   "name": "hair salon",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "haircut",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "977 North Roselle Road #15",
+  "addressLocality": "Hoffman Estates",
+  "addressRegion": "IL",
+  "postalCode": "60169",
+  "addressCountry": "US"
+ },
+ "city": "Hoffman Estates",
+ "state": "IL",
+ "zip": "60169",
+ "geo": {
+  "lat": 42.0462629,
+  "lon": -88.078318
+ },
+ "phone": "+18474952050",
+ "website": "https://salonlofts.com/studio_q_salon_nicole_q",
+ "email": "nicole.q@salonlofts.com",
+ "opening_hours": "We,Th 09:00-15:00; Fr 09:00-17:00; Sa 09:00-14:00; Tu 15:00-20:00",
+ "schema_type": "HairSalon",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/13713696236",
+ "osm": {
+  "type": "node",
+  "id": 13713696236,
+  "tags_used": {
+   "shop": "hairdresser"
+  }
+ },
+ "municipality": "Hoffman Estates",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/studio-q-at-salon-lofts-hoffman-estates/",
+ "summary": "Studio Q at Salon Lofts is a hair salon in Hoffman Estates, IL at 977 North Roselle Road #15, Hoffman Estates, IL 60169. Phone: +18474952050. Website: https://salonlofts.com/studio_q_salon_nicole_q.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

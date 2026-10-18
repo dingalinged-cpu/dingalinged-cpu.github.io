@@ -12,9 +12,9 @@
   "affordable gift shop the United States",
   "emergency gift shop the United States"
  ],
- "answer": "The top unpaid gift shop listing for the United States is boreal (a gift shop in Saint Paul, MN at 2276 Como Avenue, Saint Paul, MN 55108. Phone: +16515609900. Website: https://boreal.life/). 95 gift shop businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "answer": "The top unpaid gift shop listing for the United States is Attic Salt (a gift shop in Lombard, IL at 125 Yorktown Shopping Center Rd, Lombard, IL 60148. Phone: +16307853034. Website: https://www.atticsalt.com/store-details?code=FG3890). 215 gift shop businesses are listed for the United States as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
  "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
- "updated": "2026-10-17",
+ "updated": "2026-10-18",
  "sponsored_slots": {
   "featured_1": "available",
   "spots_2_4_sold": 0
@@ -27,6 +27,41 @@
  "results": [
   {
    "position": 1,
+   "sponsored": false,
+   "slug": "attic-salt-lombard",
+   "name": "Attic Salt",
+   "summary": "Attic Salt is a gift shop in Lombard, IL at 125 Yorktown Shopping Center Rd, Lombard, IL 60148. Phone: +16307853034. Website: https://www.atticsalt.com/store-details?code=FG3890.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/attic-salt-lombard/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/attic-salt-lombard.json",
+   "address": {
+    "streetAddress": "125 Yorktown Shopping Center Rd",
+    "addressLocality": "Lombard",
+    "addressRegion": "IL",
+    "postalCode": "60148",
+    "addressCountry": "US"
+   },
+   "city": "Lombard",
+   "state": "IL",
+   "zip": "60148",
+   "geo": {
+    "lat": 41.8394344,
+    "lon": -88.0072147
+   },
+   "phone": "+16307853034",
+   "website": "https://www.atticsalt.com/store-details?code=FG3890",
+   "opening_hours": "Mo-Sa 10:00-21:00; Su 10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1121098233",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
    "sponsored": false,
    "slug": "boreal-saint-paul",
    "name": "boreal",
@@ -61,7 +96,42 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 2,
+   "position": 3,
+   "sponsored": false,
+   "slug": "celtica-gifts-chicago",
+   "name": "Celtica Gifts",
+   "summary": "Celtica Gifts is a gift shop in Chicago, IL at 1940 West Montrose Avenue, Chicago, IL 60613. Phone: +17737847712. Website: https://www.celticagifts.com/.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/celtica-gifts-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/celtica-gifts-chicago.json",
+   "address": {
+    "streetAddress": "1940 West Montrose Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60613",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60613",
+   "geo": {
+    "lat": 41.9616096,
+    "lon": -87.6776861
+   },
+   "phone": "+17737847712",
+   "website": "https://www.celticagifts.com/",
+   "opening_hours": "Tu-Fr 11:00-18:00; Sa 10:00-17:00; Su 11:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13429293087",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
    "sponsored": false,
    "slug": "edible-arrangements-maple-grove",
    "name": "Edible Arrangements",
@@ -96,7 +166,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 3,
+   "position": 5,
    "sponsored": false,
    "slug": "edible-arrangements-roseville",
    "name": "Edible Arrangements",
@@ -131,7 +201,42 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 4,
+   "position": 6,
+   "sponsored": false,
+   "slug": "express-gifts-arlington-heights",
+   "name": "Express Gifts",
+   "summary": "Express Gifts is a gift shop in Arlington Heights, IL at 2300 East Rand Road, Arlington Heights, IL 60004. Phone: +18477881000. Website: https://expressgiftsil.com/.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/express-gifts-arlington-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/express-gifts-arlington-heights.json",
+   "address": {
+    "streetAddress": "2300 East Rand Road",
+    "addressLocality": "Arlington Heights",
+    "addressRegion": "IL",
+    "postalCode": "60004",
+    "addressCountry": "US"
+   },
+   "city": "Arlington Heights",
+   "state": "IL",
+   "zip": "60004",
+   "geo": {
+    "lat": 42.0965918,
+    "lon": -87.9557238
+   },
+   "phone": "+18477881000",
+   "website": "https://expressgiftsil.com/",
+   "opening_hours": "Mo-Sa 10:00-20:00; Su 10:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6725662328",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
    "sponsored": false,
    "slug": "gypsy-moon-saint-paul",
    "name": "Gypsy Moon",
@@ -166,7 +271,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 5,
+   "position": 8,
    "sponsored": false,
    "slug": "hallmark-eagan",
    "name": "Hallmark",
@@ -201,7 +306,77 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 6,
+   "position": 9,
+   "sponsored": false,
+   "slug": "hallmark-homer-glen",
+   "name": "Hallmark",
+   "summary": "Hallmark is a gift shop in Homer Glen, IL at 14154 South Bell Road, Homer Glen, IL 60491. Phone: +17083013402. Website: https://stores.hallmark.com/il/homerglen/amys-hallmark-shop-homerglen-il-061762.html?mc=T_P_G_NA_NA_ED_NA_GC_RIO-local.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hallmark-homer-glen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hallmark-homer-glen.json",
+   "address": {
+    "streetAddress": "14154 South Bell Road",
+    "addressLocality": "Homer Glen",
+    "addressRegion": "IL",
+    "postalCode": "60491",
+    "addressCountry": "US"
+   },
+   "city": "Homer Glen",
+   "state": "IL",
+   "zip": "60491",
+   "geo": {
+    "lat": 41.6314221,
+    "lon": -87.9326439
+   },
+   "phone": "+17083013402",
+   "website": "https://stores.hallmark.com/il/homerglen/amys-hallmark-shop-homerglen-il-061762.html?mc=T_P_G_NA_NA_ED_NA_GC_RIO-local",
+   "opening_hours": "Mo-Fr 10:00-20:00, Sa 10:00-18:00, Su 11:00-17:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6901533466",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "lillstreet-gallery-and-artisan-gift-shop-chicago",
+   "name": "Lillstreet Gallery & Artisan Gift Shop",
+   "summary": "Lillstreet Gallery & Artisan Gift Shop is a gift shop in Chicago, IL at 4401 North Ravenswood Avenue, Chicago, IL 60640. Phone: +17737694226. Website: https://lillstreetgallery.com/.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lillstreet-gallery-and-artisan-gift-shop-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lillstreet-gallery-and-artisan-gift-shop-chicago.json",
+   "address": {
+    "streetAddress": "4401 North Ravenswood Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60640",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60640",
+   "geo": {
+    "lat": 41.961704,
+    "lon": -87.6733552
+   },
+   "phone": "+17737694226",
+   "website": "https://lillstreetgallery.com/",
+   "opening_hours": "Mo-Th 10:00-19:30; Fr-Sa 10:00-18:00; Su 10:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2324572369",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 11,
    "sponsored": false,
    "slug": "lotus-lake-gifts-and-decor-chanhassen",
    "name": "Lotus Lake Gifts & Decor",
@@ -236,7 +411,77 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 7,
+   "position": 12,
+   "sponsored": false,
+   "slug": "nona-jos-naperville",
+   "name": "Nona Jo's",
+   "summary": "Nona Jo's is a gift shop in Naperville, IL at 410 West 5th Avenue, Naperville, IL 60563. Phone: +16303554488. Website: https://www.nonajos.com/.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/nona-jos-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/nona-jos-naperville.json",
+   "address": {
+    "streetAddress": "410 West 5th Avenue",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60563",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60563",
+   "geo": {
+    "lat": 41.7802724,
+    "lon": -88.1548212
+   },
+   "phone": "+16303554488",
+   "website": "https://www.nonajos.com/",
+   "opening_hours": "Mo-Sa 10:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8307889445",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
+   "sponsored": false,
+   "slug": "paperish-mess-chicago",
+   "name": "Paperish Mess",
+   "summary": "Paperish Mess is a gift shop in Chicago, IL at 1945 West Chicago Avenue, Chicago, IL 60622. Phone: +13122651497. Website: https://www.paperishmess.com/.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/paperish-mess-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/paperish-mess-chicago.json",
+   "address": {
+    "streetAddress": "1945 West Chicago Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60622",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60622",
+   "geo": {
+    "lat": 41.8957992,
+    "lon": -87.676433
+   },
+   "phone": "+13122651497",
+   "website": "https://www.paperishmess.com/",
+   "opening_hours": "Mo-Su 12:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12714810059",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 14,
    "sponsored": false,
    "slug": "patina-minneapolis",
    "name": "Patina",
@@ -271,7 +516,77 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 8,
+   "position": 15,
+   "sponsored": false,
+   "slug": "rogers-park-provisions-chicago",
+   "name": "Rogers Park Provisions",
+   "summary": "Rogers Park Provisions is a gift shop in Chicago, IL at 6928 North Glenwood Avenue, Chicago, IL 60626. Phone: +17739995943. Website: https://provisionschicago.square.site/.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rogers-park-provisions-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rogers-park-provisions-chicago.json",
+   "address": {
+    "streetAddress": "6928 North Glenwood Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60626",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60626",
+   "geo": {
+    "lat": 42.0075259,
+    "lon": -87.6662578
+   },
+   "phone": "+17739995943",
+   "website": "https://provisionschicago.square.site/",
+   "opening_hours": "Tu-Th 11:00-20:00; Fr-Sa 11:00-21:00; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3731938758",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 16,
+   "sponsored": false,
+   "slug": "saraboo-creek-naperville",
+   "name": "SaraBoo Creek",
+   "summary": "SaraBoo Creek is a gift shop in Naperville, IL at 107 West Jefferson Avenue, Naperville, IL 60540. Phone: +16304283671. Website: https://saraboocreek.com/downtown-naperville.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/saraboo-creek-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/saraboo-creek-naperville.json",
+   "address": {
+    "streetAddress": "107 West Jefferson Avenue",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60540",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60540",
+   "geo": {
+    "lat": 41.7731043,
+    "lon": -88.1498555
+   },
+   "phone": "+16304283671",
+   "website": "https://saraboocreek.com/downtown-naperville",
+   "opening_hours": "Mo-Th 10:00-17:00; Fr, Sa 10:00-18:00; Su 12:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8937194108",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 17,
    "sponsored": false,
    "slug": "edible-arrangements-minneapolis",
    "name": "Edible Arrangements",
@@ -304,7 +619,40 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 9,
+   "position": 18,
+   "sponsored": false,
+   "slug": "osm-n12645958901-chicago",
+   "name": "ДЕЛЬТА",
+   "summary": "ДЕЛЬТА is a gift shop in Chicago, IL at 2242 West Chicago Avenue, Chicago, IL. Phone: +17732357788. Website: https://delta-ukrainian.com/.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/osm-n12645958901-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/osm-n12645958901-chicago.json",
+   "address": {
+    "streetAddress": "2242 West Chicago Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8959406,
+    "lon": -87.6835315
+   },
+   "phone": "+17732357788",
+   "website": "https://delta-ukrainian.com/",
+   "opening_hours": "Tu-Fr 11:00-19:00; Sa 10:00-17:00; Su 09:30-15:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12645958901",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 19,
    "sponsored": false,
    "slug": "14-hill-minneapolis",
    "name": "14 Hill",
@@ -338,7 +686,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 10,
+   "position": 20,
    "sponsored": false,
    "slug": "eglomise-designs-saint-louis-park",
    "name": "Eglomise Designs",
@@ -372,7 +720,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 11,
+   "position": 21,
    "sponsored": false,
    "slug": "goldys-locker-room-minneapolis",
    "name": "Goldy's Locker Room",
@@ -406,7 +754,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 12,
+   "position": 22,
    "sponsored": false,
    "slug": "goodthings-saint-paul",
    "name": "GoodThings",
@@ -440,7 +788,41 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 13,
+   "position": 23,
+   "sponsored": false,
+   "slug": "hallmark-oak-lawn",
+   "name": "Hallmark",
+   "summary": "Hallmark is a gift shop in Oak Lawn, IL at 10730 South Cicero Avenue #5, Oak Lawn, IL 60453. Phone: +17084250552. Website: https://stores.hallmark.com/il/oaklawn/katies-hallmark-shop-oaklawn-il-011166.html?mc=T_P_G_NA_NA_ED_NA_GC_RIO-local.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hallmark-oak-lawn/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hallmark-oak-lawn.json",
+   "address": {
+    "streetAddress": "10730 South Cicero Avenue #5",
+    "addressLocality": "Oak Lawn",
+    "addressRegion": "IL",
+    "postalCode": "60453",
+    "addressCountry": "US"
+   },
+   "city": "Oak Lawn",
+   "state": "IL",
+   "zip": "60453",
+   "geo": {
+    "lat": 41.6971802,
+    "lon": -87.7405051
+   },
+   "phone": "+17084250552",
+   "website": "https://stores.hallmark.com/il/oaklawn/katies-hallmark-shop-oaklawn-il-011166.html?mc=T_P_G_NA_NA_ED_NA_GC_RIO-local",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8140437239",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 24,
    "sponsored": false,
    "slug": "i-like-you-too-saint-paul",
    "name": "I like you too",
@@ -474,7 +856,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 14,
+   "position": 25,
    "sponsored": false,
    "slug": "ingebretsens-scandinavian-gifts-and-foods-minneapolis",
    "name": "Ingebretsen's Scandinavian Gifts & Foods",
@@ -508,7 +890,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 15,
+   "position": 26,
    "sponsored": false,
    "slug": "jewelweed-excelsior",
    "name": "Jewelweed",
@@ -542,7 +924,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 16,
+   "position": 27,
    "sponsored": false,
    "slug": "legacy-art-and-gifts-saint-paul",
    "name": "Legacy Art & Gifts",
@@ -576,7 +958,41 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 17,
+   "position": 28,
+   "sponsored": false,
+   "slug": "nicelena-and-friends-evanston",
+   "name": "niceLena & Friends",
+   "summary": "niceLena & Friends is a gift shop in Evanston, IL at 1235 Chicago Avenue, Evanston, IL 60202. Phone: +18472713707. Website: https://www.nicelena.com/.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/nicelena-and-friends-evanston/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/nicelena-and-friends-evanston.json",
+   "address": {
+    "streetAddress": "1235 Chicago Avenue",
+    "addressLocality": "Evanston",
+    "addressRegion": "IL",
+    "postalCode": "60202",
+    "addressCountry": "US"
+   },
+   "city": "Evanston",
+   "state": "IL",
+   "zip": "60202",
+   "geo": {
+    "lat": 42.0405184,
+    "lon": -87.6803462
+   },
+   "phone": "+18472713707",
+   "website": "https://www.nicelena.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2295173019",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 29,
    "sponsored": false,
    "slug": "shop-in-the-city-edina",
    "name": "SHOP in the CITY",
@@ -608,7 +1024,75 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 18,
+   "position": 30,
+   "sponsored": false,
+   "slug": "the-inkling-shop-chicago",
+   "name": "The Inkling Shop",
+   "summary": "The Inkling Shop is a gift shop in Chicago, IL at 2917 North Broadway, Chicago, IL 60657. Phone: +17732488004. Website: https://www.theinklingshop.com/.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-inkling-shop-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-inkling-shop-chicago.json",
+   "address": {
+    "streetAddress": "2917 North Broadway",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60657",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60657",
+   "geo": {
+    "lat": 41.935325,
+    "lon": -87.6440753
+   },
+   "phone": "+17732488004",
+   "website": "https://www.theinklingshop.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11244738340",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 31,
+   "sponsored": false,
+   "slug": "the-villager-card-and-gift-shop-flossmoor",
+   "name": "The Villager Card & Gift Shop",
+   "summary": "The Villager Card & Gift Shop is a gift shop in Flossmoor, IL at 1042 Sterling Avenue, Flossmoor, IL 60422. Phone: +17087994844. Website: https://thevillagergiftshop.com/.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-villager-card-and-gift-shop-flossmoor/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-villager-card-and-gift-shop-flossmoor.json",
+   "address": {
+    "streetAddress": "1042 Sterling Avenue",
+    "addressLocality": "Flossmoor",
+    "addressRegion": "IL",
+    "postalCode": "60422",
+    "addressCountry": "US"
+   },
+   "city": "Flossmoor",
+   "state": "IL",
+   "zip": "60422",
+   "geo": {
+    "lat": 41.5430956,
+    "lon": -87.6792345
+   },
+   "phone": "+17087994844",
+   "website": "https://thevillagergiftshop.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4605538448",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 32,
    "sponsored": false,
    "slug": "thistle-saint-paul",
    "name": "Thistle",
@@ -642,7 +1126,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 19,
+   "position": 33,
    "sponsored": false,
    "slug": "piccadilly-prairie-minneapolis",
    "name": "Piccadilly Prairie",
@@ -674,7 +1158,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 20,
+   "position": 34,
    "sponsored": false,
    "slug": "bleu-home-decor-shop-minneapolis",
    "name": "Bleu Home Decor Shop",
@@ -708,7 +1192,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 21,
+   "position": 35,
    "sponsored": false,
    "slug": "dozoles-creations-minneapolis",
    "name": "Dozoles Creations",
@@ -742,7 +1226,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 22,
+   "position": 36,
    "sponsored": false,
    "slug": "es-emporium-minneapolis",
    "name": "E's Emporium",
@@ -776,7 +1260,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 23,
+   "position": 37,
    "sponsored": false,
    "slug": "i-like-you-minneapolis",
    "name": "I like You",
@@ -810,7 +1294,109 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 24,
+   "position": 38,
+   "sponsored": false,
+   "slug": "kpop-nara-chicago",
+   "name": "Kpop Nara",
+   "summary": "Kpop Nara is a gift shop in Chicago, IL at 900 South Wabash Avenue, Chicago, IL 60605. Website: https://kpopnara.com/.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kpop-nara-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kpop-nara-chicago.json",
+   "address": {
+    "streetAddress": "900 South Wabash Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60605",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60605",
+   "geo": {
+    "lat": 41.8703692,
+    "lon": -87.6261263
+   },
+   "website": "https://kpopnara.com/",
+   "opening_hours": "10:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11081935950",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 39,
+   "sponsored": false,
+   "slug": "kpop-nara-chicago-n12362772169",
+   "name": "Kpop Nara",
+   "summary": "Kpop Nara is a gift shop in Chicago, IL at 545 South State Street, Chicago, IL 60605. Website: https://shop.kpopnara.com/.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kpop-nara-chicago-n12362772169/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kpop-nara-chicago-n12362772169.json",
+   "address": {
+    "streetAddress": "545 South State Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60605",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60605",
+   "geo": {
+    "lat": 41.8747192,
+    "lon": -87.6273679
+   },
+   "website": "https://shop.kpopnara.com/",
+   "opening_hours": "10:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12362772169",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 40,
+   "sponsored": false,
+   "slug": "l1-chicago",
+   "name": "L1",
+   "summary": "L1 is a gift shop in Chicago, IL at 301 East Garfield Boulevard, Chicago, IL 60637. Website: https://www.shopl1.org/.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/l1-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/l1-chicago.json",
+   "address": {
+    "streetAddress": "301 East Garfield Boulevard",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60637",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60637",
+   "geo": {
+    "lat": 41.794269,
+    "lon": -87.6183274
+   },
+   "website": "https://www.shopl1.org/",
+   "opening_hours": "Tu-Sa 11:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9308988827",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 41,
    "sponsored": false,
    "slug": "larissa-loden-saint-paul",
    "name": "Larissa Loden",
@@ -844,7 +1430,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 25,
+   "position": 42,
    "sponsored": false,
    "slug": "laughing-water-gifts-minneapolis",
    "name": "Laughing Water Gifts",
@@ -878,7 +1464,109 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 26,
+   "position": 43,
+   "sponsored": false,
+   "slug": "little-luxuries-naperville",
+   "name": "Little Luxuries",
+   "summary": "Little Luxuries is a gift shop in Naperville, IL at 212 South Main Street, Naperville, IL 60540. Phone: +16303571536.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/little-luxuries-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/little-luxuries-naperville.json",
+   "address": {
+    "streetAddress": "212 South Main Street",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60540",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60540",
+   "geo": {
+    "lat": 41.7726702,
+    "lon": -88.1494311
+   },
+   "phone": "+16303571536",
+   "opening_hours": "Mo-Sa 10:00-17:00; Su 12:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5399925283",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 44,
+   "sponsored": false,
+   "slug": "midway-crystals-chicago",
+   "name": "Midway Crystals",
+   "summary": "Midway Crystals is a gift shop in Chicago, IL at 6457 West Archer Avenue, Chicago, IL 60638. Phone: +17087597347.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/midway-crystals-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/midway-crystals-chicago.json",
+   "address": {
+    "streetAddress": "6457 West Archer Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60638",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60638",
+   "geo": {
+    "lat": 41.7921652,
+    "lon": -87.784043
+   },
+   "phone": "+17087597347",
+   "opening_hours": "Mo-Fr 10:00-20:00; Sa-Su 11:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13665709211",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 45,
+   "sponsored": false,
+   "slug": "painted-tree-boutiques-bloomingdale",
+   "name": "Painted Tree Boutiques",
+   "summary": "Painted Tree Boutiques is a gift shop in Bloomingdale, IL at 368 West Army Trail Road, Bloomingdale, IL 60108. Phone: +16303134826.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/painted-tree-boutiques-bloomingdale/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/painted-tree-boutiques-bloomingdale.json",
+   "address": {
+    "streetAddress": "368 West Army Trail Road",
+    "addressLocality": "Bloomingdale",
+    "addressRegion": "IL",
+    "postalCode": "60108",
+    "addressCountry": "US"
+   },
+   "city": "Bloomingdale",
+   "state": "IL",
+   "zip": "60108",
+   "geo": {
+    "lat": 41.9381644,
+    "lon": -88.112639
+   },
+   "phone": "+16303134826",
+   "opening_hours": "10:00-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/850669912",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 46,
    "sponsored": false,
    "slug": "patina-saint-paul",
    "name": "Patina",
@@ -912,7 +1600,41 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 27,
+   "position": 47,
+   "sponsored": false,
+   "slug": "things-remembered-lombard",
+   "name": "Things Remembered",
+   "summary": "Things Remembered is a gift shop in Lombard, IL at 136 Yorktown Shopping Center Rd, Lombard, IL 60148. Phone: +16309161701.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/things-remembered-lombard/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/things-remembered-lombard.json",
+   "address": {
+    "streetAddress": "136 Yorktown Shopping Center Rd",
+    "addressLocality": "Lombard",
+    "addressRegion": "IL",
+    "postalCode": "60148",
+    "addressCountry": "US"
+   },
+   "city": "Lombard",
+   "state": "IL",
+   "zip": "60148",
+   "geo": {
+    "lat": 41.8399965,
+    "lon": -88.0072855
+   },
+   "phone": "+16309161701",
+   "opening_hours": "Mo-Fr 10:00-21:00; Sa 09:00-21:00; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1121097734",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 48,
    "sponsored": false,
    "slug": "boxlunch-bloomington",
    "name": "BoxLunch",
@@ -944,7 +1666,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 28,
+   "position": 49,
    "sponsored": false,
    "slug": "brighton-collectibles-bloomington",
    "name": "Brighton Collectibles",
@@ -976,7 +1698,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 29,
+   "position": 50,
    "sponsored": false,
    "slug": "indulge-bloom-bloomington",
    "name": "Indulge + Bloom",
@@ -1008,7 +1730,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 30,
+   "position": 51,
    "sponsored": false,
    "slug": "love-from-minnesota-bloomington",
    "name": "Love From Minnesota",
@@ -1040,7 +1762,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 31,
+   "position": 52,
    "sponsored": false,
    "slug": "minnesot-ah-bloomington",
    "name": "Minnesot-ah!",
@@ -1072,7 +1794,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 32,
+   "position": 53,
    "sponsored": false,
    "slug": "pepper-palace-bloomington",
    "name": "Pepper Palace",
@@ -1104,7 +1826,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 33,
+   "position": 54,
    "sponsored": false,
    "slug": "spencers-bloomington",
    "name": "Spencer's",
@@ -1136,7 +1858,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 34,
+   "position": 55,
    "sponsored": false,
    "slug": "spencers-bloomington-n5739829720",
    "name": "Spencer's",
@@ -1168,7 +1890,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 35,
+   "position": 56,
    "sponsored": false,
    "slug": "typo-bloomington",
    "name": "Typo",
@@ -1200,7 +1922,40 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 36,
+   "position": 57,
+   "sponsored": false,
+   "slug": "angmir-hecho-con-cari-o-chicago",
+   "name": "AngMir - Hecho con Cariño",
+   "summary": "AngMir - Hecho con Cariño is a gift shop in Chicago, IL at 1653 West 18th Street, Chicago, IL 60608. Website: https://angmir.com/.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/angmir-hecho-con-cari-o-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/angmir-hecho-con-cari-o-chicago.json",
+   "address": {
+    "streetAddress": "1653 West 18th Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60608",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60608",
+   "geo": {
+    "lat": 41.8576452,
+    "lon": -87.6682173
+   },
+   "website": "https://angmir.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11051342670",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 58,
    "sponsored": false,
    "slug": "avalon-minneapolis",
    "name": "AVALON",
@@ -1233,7 +1988,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 37,
+   "position": 59,
    "sponsored": false,
    "slug": "coccinella-edina",
    "name": "Coccinella",
@@ -1266,7 +2021,73 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 38,
+   "position": 60,
+   "sponsored": false,
+   "slug": "colors-flowers-and-gifts-chicago",
+   "name": "Color's Flowers and Gifts",
+   "summary": "Color's Flowers and Gifts is a gift shop in Chicago, IL at 2418 South Wentworth Avenue, Chicago, IL 60616. Phone: +13128428931.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/colors-flowers-and-gifts-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/colors-flowers-and-gifts-chicago.json",
+   "address": {
+    "streetAddress": "2418 South Wentworth Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60616",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60616",
+   "geo": {
+    "lat": 41.8485148,
+    "lon": -87.632058
+   },
+   "phone": "+13128428931",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6726359273",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 61,
+   "sponsored": false,
+   "slug": "colored-squid-barrington",
+   "name": "Colored Squid",
+   "summary": "Colored Squid is a gift shop in Barrington, IL at 201 South Cook Street, Barrington, IL 60010. Phone: +18477745197.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/colored-squid-barrington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/colored-squid-barrington.json",
+   "address": {
+    "streetAddress": "201 South Cook Street",
+    "addressLocality": "Barrington",
+    "addressRegion": "IL",
+    "postalCode": "60010",
+    "addressCountry": "US"
+   },
+   "city": "Barrington",
+   "state": "IL",
+   "zip": "60010",
+   "geo": {
+    "lat": 42.1531837,
+    "lon": -88.1346987
+   },
+   "phone": "+18477745197",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11368650147",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 62,
    "sponsored": false,
    "slug": "doodle-bird-design-gifts-minneapolis",
    "name": "Doodle Bird Design + Gifts",
@@ -1299,7 +2120,73 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 39,
+   "position": 63,
+   "sponsored": false,
+   "slug": "edible-arrangements-chicago-n13514590393",
+   "name": "Edible Arrangements",
+   "summary": "Edible Arrangements is a gift shop in Chicago, IL at 9945 South Halsted Street, Chicago, IL 60628. Website: https://www.ediblearrangements.com/stores/9945-s-halsted-st-chicago-il-60628.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edible-arrangements-chicago-n13514590393/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edible-arrangements-chicago-n13514590393.json",
+   "address": {
+    "streetAddress": "9945 South Halsted Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60628",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60628",
+   "geo": {
+    "lat": 41.7128851,
+    "lon": -87.6425787
+   },
+   "website": "https://www.ediblearrangements.com/stores/9945-s-halsted-st-chicago-il-60628",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13514590393",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 64,
+   "sponsored": false,
+   "slug": "edible-arrangements-riverwoods",
+   "name": "Edible Arrangements",
+   "summary": "Edible Arrangements is a gift shop in Riverwoods, IL at 2045 North Milwaukee Avenue, Riverwoods, IL 60015. Website: https://www.ediblearrangements.com/stores/2045-milwaukee-ave-deerfield-il-60015.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edible-arrangements-riverwoods/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edible-arrangements-riverwoods.json",
+   "address": {
+    "streetAddress": "2045 North Milwaukee Avenue",
+    "addressLocality": "Riverwoods",
+    "addressRegion": "IL",
+    "postalCode": "60015",
+    "addressCountry": "US"
+   },
+   "city": "Riverwoods",
+   "state": "IL",
+   "zip": "60015",
+   "geo": {
+    "lat": 42.1701734,
+    "lon": -87.9217818
+   },
+   "website": "https://www.ediblearrangements.com/stores/2045-milwaukee-ave-deerfield-il-60015",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13818720937",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 65,
    "sponsored": false,
    "slug": "frostbeard-studio-minneapolis",
    "name": "Frostbeard Studio",
@@ -1330,7 +2217,38 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 40,
+   "position": 66,
+   "sponsored": false,
+   "slug": "istore-chicago",
+   "name": "iStore",
+   "summary": "iStore is a gift shop in Chicago, IL. Website: https://www.midwaypartnership.com/businesses/istore-b17/.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/istore-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/istore-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7873586,
+    "lon": -87.7449603
+   },
+   "website": "https://www.midwaypartnership.com/businesses/istore-b17/",
+   "opening_hours": "Mo-Su 05:00-21:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4382447205",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 67,
    "sponsored": false,
    "slug": "lama-bazaar-saint-paul",
    "name": "Lama Bazaar",
@@ -1363,7 +2281,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 41,
+   "position": 68,
    "sponsored": false,
    "slug": "leipolds-gifts-and-antiques-excelsior",
    "name": "Leipold's Gifts & Antiques",
@@ -1396,7 +2314,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 42,
+   "position": 69,
    "sponsored": false,
    "slug": "my-pillow-roseville",
    "name": "My Pillow",
@@ -1427,7 +2345,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 43,
+   "position": 70,
    "sponsored": false,
    "slug": "senti-edina",
    "name": "SENTi",
@@ -1458,7 +2376,201 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 44,
+   "position": 71,
+   "sponsored": false,
+   "slug": "smitten-boutique-chicago",
+   "name": "Smitten Boutique",
+   "summary": "Smitten Boutique is a gift shop in Chicago, IL at 1047 West Madison Street, Chicago, IL 60607. Website: https://smittenboutique.com/.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/smitten-boutique-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/smitten-boutique-chicago.json",
+   "address": {
+    "streetAddress": "1047 West Madison Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60607",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60607",
+   "geo": {
+    "lat": 41.8814681,
+    "lon": -87.6539024
+   },
+   "website": "https://smittenboutique.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12639514925",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 72,
+   "sponsored": false,
+   "slug": "spencers-north-riverside",
+   "name": "Spencer's",
+   "summary": "Spencer's is a gift shop in North Riverside, IL at 7501 Cermak Road #K5, North Riverside, IL 60546. Website: https://stores.spencersonline.com/il/northriverside/north-riverside-park-mall-00236.html.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/spencers-north-riverside/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/spencers-north-riverside.json",
+   "address": {
+    "streetAddress": "7501 Cermak Road #K5",
+    "addressLocality": "North Riverside",
+    "addressRegion": "IL",
+    "postalCode": "60546",
+    "addressCountry": "US"
+   },
+   "city": "North Riverside",
+   "state": "IL",
+   "zip": "60546",
+   "geo": {
+    "lat": 41.8471413,
+    "lon": -87.8104855
+   },
+   "website": "https://stores.spencersonline.com/il/northriverside/north-riverside-park-mall-00236.html",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12599559783",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 73,
+   "sponsored": false,
+   "slug": "stumble-and-relish-evanston",
+   "name": "Stumble & Relish",
+   "summary": "Stumble & Relish is a gift shop in Evanston, IL at 1312 Chicago Avenue, Evanston, IL 60201. Website: https://stumbleandrelish.com/.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/stumble-and-relish-evanston/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/stumble-and-relish-evanston.json",
+   "address": {
+    "streetAddress": "1312 Chicago Avenue",
+    "addressLocality": "Evanston",
+    "addressRegion": "IL",
+    "postalCode": "60201",
+    "addressCountry": "US"
+   },
+   "city": "Evanston",
+   "state": "IL",
+   "zip": "60201",
+   "geo": {
+    "lat": 42.0416989,
+    "lon": -87.6807953
+   },
+   "website": "https://stumbleandrelish.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2295218595",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 74,
+   "sponsored": false,
+   "slug": "cr-me-de-la-cr-me-lisle",
+   "name": "Crème de la Crème",
+   "summary": "Crème de la Crème is a gift shop in Lisle, IL at 4710-3 Main Street, Lisle, IL. Phone: +16309682500.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cr-me-de-la-cr-me-lisle/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cr-me-de-la-cr-me-lisle.json",
+   "address": {
+    "streetAddress": "4710-3 Main Street",
+    "addressLocality": "Lisle",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Lisle",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8006334,
+    "lon": -88.075028
+   },
+   "phone": "+16309682500",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10085632920",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 75,
+   "sponsored": false,
+   "slug": "foursided-chicago-n13381814690",
+   "name": "Foursided",
+   "summary": "Foursided is a gift shop in Chicago, IL at 2958 North Clark Street, Chicago, IL. Website: https://foursided.com/.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/foursided-chicago-n13381814690/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/foursided-chicago-n13381814690.json",
+   "address": {
+    "streetAddress": "2958 North Clark Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9363064,
+    "lon": -87.6479319
+   },
+   "website": "https://foursided.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13381814690",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 76,
+   "sponsored": false,
+   "slug": "andersonville-galleria-chicago",
+   "name": "Andersonville Galleria",
+   "summary": "Andersonville Galleria is a gift shop in Chicago, IL at 5247 North Clark Street, Chicago, IL 60640.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/andersonville-galleria-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/andersonville-galleria-chicago.json",
+   "address": {
+    "streetAddress": "5247 North Clark Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60640",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60640",
+   "geo": {
+    "lat": 41.9776213,
+    "lon": -87.6680218
+   },
+   "opening_hours": "Mo-Sa 11:00-19:00; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/209943112",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 77,
    "sponsored": false,
    "slug": "awakenings-minneapolis",
    "name": "Awakenings...",
@@ -1491,7 +2603,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 45,
+   "position": 78,
    "sponsored": false,
    "slug": "blue-hummingbird-woman-indigenous-gift-shop-saint-paul",
    "name": "Blue Hummingbird Woman Indigenous Gift Shop",
@@ -1524,7 +2636,205 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 46,
+   "position": 79,
+   "sponsored": false,
+   "slug": "enjoy-andersonville-chicago",
+   "name": "Enjoy Andersonville",
+   "summary": "Enjoy Andersonville is a gift shop in Chicago, IL at 5307 North Clark Street, Chicago, IL 60640.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/enjoy-andersonville-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/enjoy-andersonville-chicago.json",
+   "address": {
+    "streetAddress": "5307 North Clark Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60640",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60640",
+   "geo": {
+    "lat": 41.9783326,
+    "lon": -87.6681882
+   },
+   "opening_hours": "Mo-Sa 10:00-19:00; Su 10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9220141264",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 80,
+   "sponsored": false,
+   "slug": "foursided-chicago",
+   "name": "Foursided",
+   "summary": "Foursided is a gift shop in Chicago, IL at 5061 North Clark Street, Chicago, IL 60640.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/foursided-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/foursided-chicago.json",
+   "address": {
+    "streetAddress": "5061 North Clark Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60640",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60640",
+   "geo": {
+    "lat": 41.9742611,
+    "lon": -87.6680543
+   },
+   "opening_hours": "Mo-We 11:00-19:00; Th-Sa 10:00-19:00; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11887074763",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 81,
+   "sponsored": false,
+   "slug": "grace-trading-chicago",
+   "name": "Grace Trading",
+   "summary": "Grace Trading is a gift shop in Chicago, IL at 2236 South Wentworth Avenue, Chicago, IL 60616.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/grace-trading-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/grace-trading-chicago.json",
+   "address": {
+    "streetAddress": "2236 South Wentworth Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60616",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60616",
+   "geo": {
+    "lat": 41.8518135,
+    "lon": -87.6321272
+   },
+   "opening_hours": "Su-Th 11:00-22:00; Fr-Sa 11:00-23:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7013112274",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 82,
+   "sponsored": false,
+   "slug": "i-love-chicago-chicago",
+   "name": "I Love Chicago",
+   "summary": "I Love Chicago is a gift shop in Chicago, IL at 316 North Michigan Avenue, Chicago, IL 60601.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/i-love-chicago-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/i-love-chicago-chicago.json",
+   "address": {
+    "streetAddress": "316 North Michigan Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60601",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60601",
+   "geo": {
+    "lat": 41.887332,
+    "lon": -87.6248078
+   },
+   "opening_hours": "Mo-Th 10:00-20:00; Fr,Sa 10:00-21:00; Su 11:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2819167162",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 83,
+   "sponsored": false,
+   "slug": "midtown-home-market-long-grove",
+   "name": "Midtown Home Market",
+   "summary": "Midtown Home Market is a gift shop in Long Grove, IL at 217 Robert Parker Coffin Road, Long Grove, IL 60047.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/midtown-home-market-long-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/midtown-home-market-long-grove.json",
+   "address": {
+    "streetAddress": "217 Robert Parker Coffin Road",
+    "addressLocality": "Long Grove",
+    "addressRegion": "IL",
+    "postalCode": "60047",
+    "addressCountry": "US"
+   },
+   "city": "Long Grove",
+   "state": "IL",
+   "zip": "60047",
+   "geo": {
+    "lat": 42.1789426,
+    "lon": -87.9968865
+   },
+   "opening_hours": "Mo,Tu off, We,Th 11:00-18:00, Fr 11:00-19:00, Sa 10:00-19:00, Su 12:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6654373682",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 84,
+   "sponsored": false,
+   "slug": "transit-tees-chicago",
+   "name": "Transit Tees",
+   "summary": "Transit Tees is a gift shop in Chicago, IL at 5226 North Clark Street, Chicago, IL 60640.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/transit-tees-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/transit-tees-chicago.json",
+   "address": {
+    "streetAddress": "5226 North Clark Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60640",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60640",
+   "geo": {
+    "lat": 41.9770309,
+    "lon": -87.6686473
+   },
+   "opening_hours": "Mo-Fr 11:00-19:00; Sa,Su 10:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/998617264",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 85,
    "sponsored": false,
    "slug": "beef-jerky-experience-bloomington",
    "name": "Beef Jerky Experience",
@@ -1555,7 +2865,38 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 47,
+   "position": 86,
+   "sponsored": false,
+   "slug": "creative-hands-long-grove",
+   "name": "Creative Hands",
+   "summary": "Creative Hands is a gift shop in Long Grove, IL at 243 Robert Parker Coffin Road, Long Grove, IL.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/creative-hands-long-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/creative-hands-long-grove.json",
+   "address": {
+    "streetAddress": "243 Robert Parker Coffin Road",
+    "addressLocality": "Long Grove",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Long Grove",
+   "state": "IL",
+   "geo": {
+    "lat": 42.1790023,
+    "lon": -87.9969197
+   },
+   "opening_hours": "Mo-Fr 11:00-16:00, Sa 11:00-17:00, Su 12:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 7.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6654373683",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 87,
    "sponsored": false,
    "slug": "ebisu-bloomington",
    "name": "Ebisu",
@@ -1586,7 +2927,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 48,
+   "position": 88,
    "sponsored": false,
    "slug": "i-love-minnesota-bloomington",
    "name": "I Love Minnesota",
@@ -1617,7 +2958,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 49,
+   "position": 89,
    "sponsored": false,
    "slug": "mall-of-america-gift-store-bloomington",
    "name": "Mall of America Gift Store",
@@ -1648,7 +2989,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 50,
+   "position": 90,
    "sponsored": false,
    "slug": "mall-of-america-gift-store-bloomington-n5739830047",
    "name": "Mall of America Gift Store",
@@ -1679,7 +3020,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 51,
+   "position": 91,
    "sponsored": false,
    "slug": "miniso-bloomington",
    "name": "MINISO",
@@ -1710,7 +3051,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 52,
+   "position": 92,
    "sponsored": false,
    "slug": "stormcloud-trading-saint-paul",
    "name": "Stormcloud Trading",
@@ -1741,7 +3082,37 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 53,
+   "position": 93,
+   "sponsored": false,
+   "slug": "ka-oriental-gift-chicago",
+   "name": "Ka Oriental Gift",
+   "summary": "Ka Oriental Gift is a gift shop in Chicago, IL. Phone: +13128428839.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ka-oriental-gift-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ka-oriental-gift-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8526447,
+    "lon": -87.6328317
+   },
+   "phone": "+13128428839",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6994375117",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 94,
    "sponsored": false,
    "slug": "anas-apothecary-minneapolis",
    "name": "Ana's Apothecary",
@@ -1771,7 +3142,69 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 54,
+   "position": 95,
+   "sponsored": false,
+   "slug": "bad-luck-club-chicago",
+   "name": "Bad Luck Club",
+   "summary": "Bad Luck Club is a gift shop in Chicago, IL at 2114 West Montrose Avenue, Chicago, IL 60618.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bad-luck-club-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bad-luck-club-chicago.json",
+   "address": {
+    "streetAddress": "2114 West Montrose Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60618",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60618",
+   "geo": {
+    "lat": 41.9615401,
+    "lon": -87.681912
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13160175902",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 96,
+   "sponsored": false,
+   "slug": "beatnix-chicago",
+   "name": "Beatnix",
+   "summary": "Beatnix is a gift shop in Chicago, IL.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/beatnix-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/beatnix-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9437385,
+    "lon": -87.649568
+   },
+   "opening_hours": "Mo-Su 10:00-24:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5693909721",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 97,
    "sponsored": false,
    "slug": "bullseye-boutique-brooklyn-park",
    "name": "Bullseye Boutique",
@@ -1801,7 +3234,71 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 55,
+   "position": 98,
+   "sponsored": false,
+   "slug": "bye-bye-chicago-chicago",
+   "name": "Bye Bye Chicago",
+   "summary": "Bye Bye Chicago is a gift shop in Chicago, IL at 30 South Michigan Avenue, Chicago, IL 60603.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bye-bye-chicago-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bye-bye-chicago-chicago.json",
+   "address": {
+    "streetAddress": "30 South Michigan Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60603",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60603",
+   "geo": {
+    "lat": 41.8811169,
+    "lon": -87.624665
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4828007222",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 99,
+   "sponsored": false,
+   "slug": "central-port-emporium-chicago",
+   "name": "Central Port Emporium",
+   "summary": "Central Port Emporium is a gift shop in Chicago, IL at 2324 South Wentworth Avenue, Chicago, IL 60616.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/central-port-emporium-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/central-port-emporium-chicago.json",
+   "address": {
+    "streetAddress": "2324 South Wentworth Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60616",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60616",
+   "geo": {
+    "lat": 41.850187,
+    "lon": -87.6320967
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6654380713",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 100,
    "sponsored": false,
    "slug": "corazon-minneapolis",
    "name": "CorAzoN",
@@ -1831,7 +3328,39 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 56,
+   "position": 101,
+   "sponsored": false,
+   "slug": "cubs-team-store-chicago",
+   "name": "Cubs Team Store",
+   "summary": "Cubs Team Store is a gift shop in Chicago, IL at 3637 North Clark Street, Chicago, IL 60613.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cubs-team-store-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cubs-team-store-chicago.json",
+   "address": {
+    "streetAddress": "3637 North Clark Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60613",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60613",
+   "geo": {
+    "lat": 41.9486166,
+    "lon": -87.6569225
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6421453605",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 102,
    "sponsored": false,
    "slug": "dgpilot-saint-paul",
    "name": "DGPilot",
@@ -1861,7 +3390,327 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 57,
+   "position": 103,
+   "sponsored": false,
+   "slug": "edible-arrangements-calumet-park",
+   "name": "Edible Arrangements",
+   "summary": "Edible Arrangements is a gift shop in Calumet Park, IL at 12844 South Ashland Avenue, Calumet Park, IL 60827.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edible-arrangements-calumet-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edible-arrangements-calumet-park.json",
+   "address": {
+    "streetAddress": "12844 South Ashland Avenue",
+    "addressLocality": "Calumet Park",
+    "addressRegion": "IL",
+    "postalCode": "60827",
+    "addressCountry": "US"
+   },
+   "city": "Calumet Park",
+   "state": "IL",
+   "zip": "60827",
+   "geo": {
+    "lat": 41.6594454,
+    "lon": -87.6613982
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7588247785",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 104,
+   "sponsored": false,
+   "slug": "edible-arrangements-chicago",
+   "name": "Edible Arrangements",
+   "summary": "Edible Arrangements is a gift shop in Chicago, IL at 4333 West Irving Park Road, Chicago, IL 60641.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edible-arrangements-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edible-arrangements-chicago.json",
+   "address": {
+    "streetAddress": "4333 West Irving Park Road",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60641",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60641",
+   "geo": {
+    "lat": 41.9533538,
+    "lon": -87.7369988
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9899427655",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 105,
+   "sponsored": false,
+   "slug": "edible-arrangements-chicago-n11663949608",
+   "name": "Edible Arrangements",
+   "summary": "Edible Arrangements is a gift shop in Chicago, IL at 1453 East Hyde Park Boulevard, Chicago, IL 60615.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edible-arrangements-chicago-n11663949608/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edible-arrangements-chicago-n11663949608.json",
+   "address": {
+    "streetAddress": "1453 East Hyde Park Boulevard",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60615",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60615",
+   "geo": {
+    "lat": 41.8022996,
+    "lon": -87.5893211
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11663949608",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 106,
+   "sponsored": false,
+   "slug": "edible-arrangements-evanston",
+   "name": "Edible Arrangements",
+   "summary": "Edible Arrangements is a gift shop in Evanston, IL at 1630 Maple Avenue, Evanston, IL 60201.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edible-arrangements-evanston/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edible-arrangements-evanston.json",
+   "address": {
+    "streetAddress": "1630 Maple Avenue",
+    "addressLocality": "Evanston",
+    "addressRegion": "IL",
+    "postalCode": "60201",
+    "addressCountry": "US"
+   },
+   "city": "Evanston",
+   "state": "IL",
+   "zip": "60201",
+   "geo": {
+    "lat": 42.0479208,
+    "lon": -87.685334
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2295226316",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 107,
+   "sponsored": false,
+   "slug": "edible-arrangements-evergreen-park",
+   "name": "Edible Arrangements",
+   "summary": "Edible Arrangements is a gift shop in Evergreen Park, IL at 8732 South Kedzie Avenue, Evergreen Park, IL 60805.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edible-arrangements-evergreen-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edible-arrangements-evergreen-park.json",
+   "address": {
+    "streetAddress": "8732 South Kedzie Avenue",
+    "addressLocality": "Evergreen Park",
+    "addressRegion": "IL",
+    "postalCode": "60805",
+    "addressCountry": "US"
+   },
+   "city": "Evergreen Park",
+   "state": "IL",
+   "zip": "60805",
+   "geo": {
+    "lat": 41.7341324,
+    "lon": -87.7028657
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7834596308",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 108,
+   "sponsored": false,
+   "slug": "edible-arrangements-homewood",
+   "name": "Edible Arrangements",
+   "summary": "Edible Arrangements is a gift shop in Homewood, IL at 18312 Governors Highway, Homewood, IL 60430.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edible-arrangements-homewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edible-arrangements-homewood.json",
+   "address": {
+    "streetAddress": "18312 Governors Highway",
+    "addressLocality": "Homewood",
+    "addressRegion": "IL",
+    "postalCode": "60430",
+    "addressCountry": "US"
+   },
+   "city": "Homewood",
+   "state": "IL",
+   "zip": "60430",
+   "geo": {
+    "lat": 41.5565799,
+    "lon": -87.6826229
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8417252505",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 109,
+   "sponsored": false,
+   "slug": "edible-arrangements-niles",
+   "name": "Edible Arrangements",
+   "summary": "Edible Arrangements is a gift shop in Niles, IL at 7239 West Dempster Street, Niles, IL 60714.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edible-arrangements-niles/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edible-arrangements-niles.json",
+   "address": {
+    "streetAddress": "7239 West Dempster Street",
+    "addressLocality": "Niles",
+    "addressRegion": "IL",
+    "postalCode": "60714",
+    "addressCountry": "US"
+   },
+   "city": "Niles",
+   "state": "IL",
+   "zip": "60714",
+   "geo": {
+    "lat": 42.0400386,
+    "lon": -87.8089485
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6261249105",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 110,
+   "sponsored": false,
+   "slug": "edible-arrangements-oak-forest",
+   "name": "Edible Arrangements",
+   "summary": "Edible Arrangements is a gift shop in Oak Forest, IL at 5447 West 159th Street, Oak Forest, IL 60452.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edible-arrangements-oak-forest/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edible-arrangements-oak-forest.json",
+   "address": {
+    "streetAddress": "5447 West 159th Street",
+    "addressLocality": "Oak Forest",
+    "addressRegion": "IL",
+    "postalCode": "60452",
+    "addressCountry": "US"
+   },
+   "city": "Oak Forest",
+   "state": "IL",
+   "zip": "60452",
+   "geo": {
+    "lat": 41.6025489,
+    "lon": -87.75365
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9342423352",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 111,
+   "sponsored": false,
+   "slug": "edible-arrangements-orland-park",
+   "name": "Edible Arrangements",
+   "summary": "Edible Arrangements is a gift shop in Orland Park, IL at 9040 West 159th Street, Orland Park, IL 60462.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edible-arrangements-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edible-arrangements-orland-park.json",
+   "address": {
+    "streetAddress": "9040 West 159th Street",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60462",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60462",
+   "geo": {
+    "lat": 41.6022669,
+    "lon": -87.8391205
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12360330705",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 112,
+   "sponsored": false,
+   "slug": "ek-souvenirs-chicago",
+   "name": "EK Souvenirs",
+   "summary": "EK Souvenirs is a gift shop in Chicago, IL at 2292 South Wentworth Avenue, Chicago, IL 60616.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ek-souvenirs-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ek-souvenirs-chicago.json",
+   "address": {
+    "streetAddress": "2292 South Wentworth Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60616",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60616",
+   "geo": {
+    "lat": 41.8513797,
+    "lon": -87.6321062
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6654380720",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 113,
    "sponsored": false,
    "slug": "fleurish-llp-excelsior",
    "name": "Fleurish LLP",
@@ -1893,7 +3742,101 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 58,
+   "position": 114,
+   "sponsored": false,
+   "slug": "garfield-conservatory-gift-shop-chicago",
+   "name": "Garfield Conservatory Gift Shop",
+   "summary": "Garfield Conservatory Gift Shop is a gift shop in Chicago, IL.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/garfield-conservatory-gift-shop-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/garfield-conservatory-gift-shop-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8861125,
+    "lon": -87.7170158
+   },
+   "opening_hours": "Th-Su 10:00-16:30; We 10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1104841943",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 115,
+   "sponsored": false,
+   "slug": "gift-it-skokie",
+   "name": "Gift-It",
+   "summary": "Gift-It is a gift shop in Skokie, IL at Dempster Street, Skokie, IL 60076.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gift-it-skokie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gift-it-skokie.json",
+   "address": {
+    "streetAddress": "Dempster Street",
+    "addressLocality": "Skokie",
+    "addressRegion": "IL",
+    "postalCode": "60076",
+    "addressCountry": "US"
+   },
+   "city": "Skokie",
+   "state": "IL",
+   "zip": "60076",
+   "geo": {
+    "lat": 42.0406646,
+    "lon": -87.712747
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1429715170",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 116,
+   "sponsored": false,
+   "slug": "gifts-r-us-chicago",
+   "name": "Gifts R Us",
+   "summary": "Gifts R Us is a gift shop in Chicago, IL at 2220 South Wentworth Avenue, Chicago, IL 60616.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gifts-r-us-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gifts-r-us-chicago.json",
+   "address": {
+    "streetAddress": "2220 South Wentworth Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60616",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60616",
+   "geo": {
+    "lat": 41.852267,
+    "lon": -87.6321483
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6994375114",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 117,
    "sponsored": false,
    "slug": "goonga-baloongas-mound",
    "name": "Goonga Baloonga's",
@@ -1925,7 +3868,193 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 59,
+   "position": 118,
+   "sponsored": false,
+   "slug": "hallmark-mount-prospect",
+   "name": "Hallmark",
+   "summary": "Hallmark is a gift shop in Mount Prospect, IL.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hallmark-mount-prospect/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hallmark-mount-prospect.json",
+   "address": {
+    "addressLocality": "Mount Prospect",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Mount Prospect",
+   "state": "IL",
+   "geo": {
+    "lat": 42.0467436,
+    "lon": -87.9423475
+   },
+   "opening_hours": "Mo-Fr 10:00-20:00; Sa 09:00-17:30; Su 11:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9252317798",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 119,
+   "sponsored": false,
+   "slug": "hallmark-park-ridge",
+   "name": "Hallmark",
+   "summary": "Hallmark is a gift shop in Park Ridge, IL at 19 South Prospect Avenue, Park Ridge, IL 60068.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hallmark-park-ridge/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hallmark-park-ridge.json",
+   "address": {
+    "streetAddress": "19 South Prospect Avenue",
+    "addressLocality": "Park Ridge",
+    "addressRegion": "IL",
+    "postalCode": "60068",
+    "addressCountry": "US"
+   },
+   "city": "Park Ridge",
+   "state": "IL",
+   "zip": "60068",
+   "geo": {
+    "lat": 42.0104176,
+    "lon": -87.8297512
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6239208144",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 120,
+   "sponsored": false,
+   "slug": "hallmark-river-grove",
+   "name": "Hallmark",
+   "summary": "Hallmark is a gift shop in River Grove, IL at 3155 North Thatcher Avenue, River Grove, IL 60171.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hallmark-river-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hallmark-river-grove.json",
+   "address": {
+    "streetAddress": "3155 North Thatcher Avenue",
+    "addressLocality": "River Grove",
+    "addressRegion": "IL",
+    "postalCode": "60171",
+    "addressCountry": "US"
+   },
+   "city": "River Grove",
+   "state": "IL",
+   "zip": "60171",
+   "geo": {
+    "lat": 41.937067,
+    "lon": -87.8334996
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8002070857",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 121,
+   "sponsored": false,
+   "slug": "hometown-gift-shop-wauconda",
+   "name": "Hometown Gift Shop",
+   "summary": "Hometown Gift Shop is a gift shop in Wauconda, IL at 118 North Main Street #2, Wauconda, IL 60084.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hometown-gift-shop-wauconda/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hometown-gift-shop-wauconda.json",
+   "address": {
+    "streetAddress": "118 North Main Street #2",
+    "addressLocality": "Wauconda",
+    "addressRegion": "IL",
+    "postalCode": "60084",
+    "addressCountry": "US"
+   },
+   "city": "Wauconda",
+   "state": "IL",
+   "zip": "60084",
+   "geo": {
+    "lat": 42.259861,
+    "lon": -88.1407432
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9559480212",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 122,
+   "sponsored": false,
+   "slug": "hoypoloi-gallery-chicago",
+   "name": "Hoypoloi Gallery",
+   "summary": "Hoypoloi Gallery is a gift shop in Chicago, IL.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hoypoloi-gallery-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hoypoloi-gallery-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9779823,
+    "lon": -87.907148
+   },
+   "opening_hours": "Mo,We-Fr,Su 10:00-17:00; Tu,Sa off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6326510832",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 123,
+   "sponsored": false,
+   "slug": "incidentals-downers-grove",
+   "name": "Incidentals",
+   "summary": "Incidentals is a gift shop in Downers Grove, IL.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/incidentals-downers-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/incidentals-downers-grove.json",
+   "address": {
+    "addressLocality": "Downers Grove",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Downers Grove",
+   "state": "IL",
+   "geo": {
+    "lat": 41.830831,
+    "lon": -88.0333121
+   },
+   "opening_hours": "Mo-Fr 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4654746330",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 124,
    "sponsored": false,
    "slug": "larues-minneapolis",
    "name": "Larue's",
@@ -1955,7 +4084,101 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 60,
+   "position": 125,
+   "sponsored": false,
+   "slug": "liberty-duty-free-chicago",
+   "name": "Liberty Duty Free",
+   "summary": "Liberty Duty Free is a gift shop in Chicago, IL.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/liberty-duty-free-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/liberty-duty-free-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9751433,
+    "lon": -87.8996696
+   },
+   "opening_hours": "Mo-Su 07:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2322673337",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 126,
+   "sponsored": false,
+   "slug": "local-goods-chicago-chicago",
+   "name": "Local Goods Chicago",
+   "summary": "Local Goods Chicago is a gift shop in Chicago, IL at 5422 West Devon Avenue, Chicago, IL 60646.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/local-goods-chicago-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/local-goods-chicago-chicago.json",
+   "address": {
+    "streetAddress": "5422 West Devon Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60646",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60646",
+   "geo": {
+    "lat": 41.9975694,
+    "lon": -87.7646854
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6253644262",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 127,
+   "sponsored": false,
+   "slug": "logan-arch-chicago",
+   "name": "Logan Arch",
+   "summary": "Logan Arch is a gift shop in Chicago, IL at 2066 North Milwaukee Avenue, Chicago, IL 60647.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/logan-arch-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/logan-arch-chicago.json",
+   "address": {
+    "streetAddress": "2066 North Milwaukee Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60647",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60647",
+   "geo": {
+    "lat": 41.9187676,
+    "lon": -87.6909304
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11289409773",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 128,
    "sponsored": false,
    "slug": "love-from-minnesota-falcon-heights",
    "name": "Love From Minnesota",
@@ -1987,7 +4210,39 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 61,
+   "position": 129,
+   "sponsored": false,
+   "slug": "mashallah-chicago",
+   "name": "MASHALLAH",
+   "summary": "MASHALLAH is a gift shop in Chicago, IL at 1134 West 18th Street, Chicago, IL 60608.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mashallah-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mashallah-chicago.json",
+   "address": {
+    "streetAddress": "1134 West 18th Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60608",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60608",
+   "geo": {
+    "lat": 41.8581192,
+    "lon": -87.6546856
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12060493295",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 130,
    "sponsored": false,
    "slug": "minnesota-makers-robbinsdale",
    "name": "Minnesota Makers",
@@ -2019,7 +4274,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 62,
+   "position": 131,
    "sponsored": false,
    "slug": "minnesota-xplorer-falcon-heights",
    "name": "Minnesota Xplorer",
@@ -2051,7 +4306,321 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 63,
+   "position": 132,
+   "sponsored": false,
+   "slug": "mm-giftland-chicago",
+   "name": "MM Giftland",
+   "summary": "MM Giftland is a gift shop in Chicago, IL at 2316 South Wentworth Avenue, Chicago, IL 60616.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mm-giftland-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mm-giftland-chicago.json",
+   "address": {
+    "streetAddress": "2316 South Wentworth Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60616",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60616",
+   "geo": {
+    "lat": 41.8503935,
+    "lon": -87.6320983
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6654380718",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 133,
+   "sponsored": false,
+   "slug": "pacific-furniture-inc-chicago",
+   "name": "Pacific Furniture Inc",
+   "summary": "Pacific Furniture Inc is a gift shop in Chicago, IL at 2200 South Wentworth Avenue, Chicago, IL 60616.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pacific-furniture-inc-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pacific-furniture-inc-chicago.json",
+   "address": {
+    "streetAddress": "2200 South Wentworth Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60616",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60616",
+   "geo": {
+    "lat": 41.8526211,
+    "lon": -87.632159
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6654380721",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 134,
+   "sponsored": false,
+   "slug": "pixie-and-the-boy-chicago",
+   "name": "Pixie and the Boy",
+   "summary": "Pixie and the Boy is a gift shop in Chicago, IL at 2605 North Milwaukee Avenue, Chicago, IL 60647.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pixie-and-the-boy-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pixie-and-the-boy-chicago.json",
+   "address": {
+    "streetAddress": "2605 North Milwaukee Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60647",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60647",
+   "geo": {
+    "lat": 41.9290231,
+    "lon": -87.707073
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11289280631",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 135,
+   "sponsored": false,
+   "slug": "shaker-traditions-evanston",
+   "name": "Shaker Traditions",
+   "summary": "Shaker Traditions is a gift shop in Evanston, IL at 613 Dempster Street, Evanston, IL 60201.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/shaker-traditions-evanston/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/shaker-traditions-evanston.json",
+   "address": {
+    "streetAddress": "613 Dempster Street",
+    "addressLocality": "Evanston",
+    "addressRegion": "IL",
+    "postalCode": "60201",
+    "addressCountry": "US"
+   },
+   "city": "Evanston",
+   "state": "IL",
+   "zip": "60201",
+   "geo": {
+    "lat": 42.041322,
+    "lon": -87.6812097
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2295219851",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 136,
+   "sponsored": false,
+   "slug": "souvenir-city-chicago",
+   "name": "Souvenir City",
+   "summary": "Souvenir City is a gift shop in Chicago, IL.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/souvenir-city-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/souvenir-city-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8909001,
+    "lon": -87.6184041
+   },
+   "opening_hours": "Su-We 09:00-20:00; Th-Sa 09:00-21:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12150612798",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 137,
+   "sponsored": false,
+   "slug": "steel-petal-press-chicago",
+   "name": "Steel Petal Press",
+   "summary": "Steel Petal Press is a gift shop in Chicago, IL at 2321 North Milwaukee Avenue, Chicago, IL 60647.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/steel-petal-press-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/steel-petal-press-chicago.json",
+   "address": {
+    "streetAddress": "2321 North Milwaukee Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60647",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60647",
+   "geo": {
+    "lat": 41.9234907,
+    "lon": -87.698062
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11289378844",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 138,
+   "sponsored": false,
+   "slug": "sun-catchers-whiting",
+   "name": "Sun Catchers",
+   "summary": "Sun Catchers is a gift shop in Whiting, IN at 1348 119th Street, Whiting, IN 46394.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sun-catchers-whiting/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sun-catchers-whiting.json",
+   "address": {
+    "streetAddress": "1348 119th Street",
+    "addressLocality": "Whiting",
+    "addressRegion": "IN",
+    "postalCode": "46394",
+    "addressCountry": "US"
+   },
+   "city": "Whiting",
+   "state": "IN",
+   "zip": "46394",
+   "geo": {
+    "lat": 41.6790915,
+    "lon": -87.4956881
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1232071700",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 139,
+   "sponsored": false,
+   "slug": "the-boeing-store-chicago",
+   "name": "The Boeing Store",
+   "summary": "The Boeing Store is a gift shop in Chicago, IL at 410 West Washington Street, Chicago, IL 60606.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-boeing-store-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-boeing-store-chicago.json",
+   "address": {
+    "streetAddress": "410 West Washington Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60606",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60606",
+   "geo": {
+    "lat": 41.8834414,
+    "lon": -87.6386671
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1258947818",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 140,
+   "sponsored": false,
+   "slug": "the-field-museum-store-chicago",
+   "name": "The Field Museum Store",
+   "summary": "The Field Museum Store is a gift shop in Chicago, IL.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-field-museum-store-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-field-museum-store-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9788466,
+    "lon": -87.9067181
+   },
+   "opening_hours": "08:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6375342619",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 141,
+   "sponsored": false,
+   "slug": "edible-arrangements-chicago-n12708709226",
+   "name": "Edible Arrangements",
+   "summary": "Edible Arrangements is a gift shop in Chicago, IL at 1212 West Taylor Street, Chicago, IL.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edible-arrangements-chicago-n12708709226/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edible-arrangements-chicago-n12708709226.json",
+   "address": {
+    "streetAddress": "1212 West Taylor Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8695581,
+    "lon": -87.6571446
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12708709226",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 142,
    "sponsored": false,
    "slug": "inspire-minneapolis",
    "name": "Inspire",
@@ -2081,7 +4650,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 64,
+   "position": 143,
    "sponsored": false,
    "slug": "marigold-minneapolis",
    "name": "Marigold",
@@ -2111,7 +4680,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 65,
+   "position": 144,
    "sponsored": false,
    "slug": "patina-roseville",
    "name": "Patina",
@@ -2141,7 +4710,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 66,
+   "position": 145,
    "sponsored": false,
    "slug": "patina-saint-paul-n660909467",
    "name": "Patina",
@@ -2171,7 +4740,37 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 67,
+   "position": 146,
+   "sponsored": false,
+   "slug": "the-fig-tree-chicago",
+   "name": "The Fig Tree",
+   "summary": "The Fig Tree is a gift shop in Chicago, IL at 1037 West Madison Street, Chicago, IL.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-fig-tree-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-fig-tree-chicago.json",
+   "address": {
+    "streetAddress": "1037 West Madison Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8814989,
+    "lon": -87.6535354
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13431392227",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 147,
    "sponsored": false,
    "slug": "baggallini-fort-snelling-unorganized-territory",
    "name": "Baggallini",
@@ -2200,7 +4799,355 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 68,
+   "position": 148,
+   "sponsored": false,
+   "slug": "bear-crossing-brookfield",
+   "name": "Bear Crossing",
+   "summary": "Bear Crossing is a gift shop in Brookfield, IL.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bear-crossing-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bear-crossing-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.832428,
+    "lon": -87.8378795
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/260214423",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 149,
+   "sponsored": false,
+   "slug": "card-frenzy-darien",
+   "name": "Card Frenzy",
+   "summary": "Card Frenzy is a gift shop in Darien, IL.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/card-frenzy-darien/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/card-frenzy-darien.json",
+   "address": {
+    "addressLocality": "Darien",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Darien",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7494541,
+    "lon": -88.0098573
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5256928056",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 150,
+   "sponsored": false,
+   "slug": "coast-gifts-brookfield",
+   "name": "Coast Gifts",
+   "summary": "Coast Gifts is a gift shop in Brookfield, IL.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/coast-gifts-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/coast-gifts-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8310116,
+    "lon": -87.8379368
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12719751740",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 151,
+   "sponsored": false,
+   "slug": "colores-mexicanos-chicago",
+   "name": "Colores Mexicanos",
+   "summary": "Colores Mexicanos is a gift shop in Chicago, IL.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/colores-mexicanos-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/colores-mexicanos-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8883532,
+    "lon": -87.6254896
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10951807593",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 152,
+   "sponsored": false,
+   "slug": "country-classics-glenview",
+   "name": "Country Classics",
+   "summary": "Country Classics is a gift shop in Glenview, IL.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/country-classics-glenview/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/country-classics-glenview.json",
+   "address": {
+    "addressLocality": "Glenview",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Glenview",
+   "state": "IL",
+   "geo": {
+    "lat": 42.0808044,
+    "lon": -87.797125
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6979660890",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 153,
+   "sponsored": false,
+   "slug": "dollar-depot-chicago",
+   "name": "Dollar Depot",
+   "summary": "Dollar Depot is a gift shop in Chicago, IL.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dollar-depot-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dollar-depot-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9731819,
+    "lon": -87.6557414
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7152419385",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 154,
+   "sponsored": false,
+   "slug": "donegal-imports-chicago",
+   "name": "Donegal Imports",
+   "summary": "Donegal Imports is a gift shop in Chicago, IL.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/donegal-imports-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/donegal-imports-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9974888,
+    "lon": -87.7629542
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6275571449",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 155,
+   "sponsored": false,
+   "slug": "duty-free-store-chicago",
+   "name": "Duty Free Store",
+   "summary": "Duty Free Store is a gift shop in Chicago, IL.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/duty-free-store-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/duty-free-store-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9792076,
+    "lon": -87.9068544
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6071648196",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 156,
+   "sponsored": false,
+   "slug": "edible-arrangements-countryside",
+   "name": "Edible Arrangements",
+   "summary": "Edible Arrangements is a gift shop in Countryside, IL.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edible-arrangements-countryside/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edible-arrangements-countryside.json",
+   "address": {
+    "addressLocality": "Countryside",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Countryside",
+   "state": "IL",
+   "geo": {
+    "lat": 41.781089,
+    "lon": -87.8713745
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9698553892",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 157,
+   "sponsored": false,
+   "slug": "edible-arrangements-darien",
+   "name": "Edible Arrangements",
+   "summary": "Edible Arrangements is a gift shop in Darien, IL.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edible-arrangements-darien/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edible-arrangements-darien.json",
+   "address": {
+    "addressLocality": "Darien",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Darien",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7487749,
+    "lon": -88.0119796
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5256928031",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 158,
+   "sponsored": false,
+   "slug": "edible-arrangements-elmhurst",
+   "name": "Edible Arrangements",
+   "summary": "Edible Arrangements is a gift shop in Elmhurst, IL.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edible-arrangements-elmhurst/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edible-arrangements-elmhurst.json",
+   "address": {
+    "addressLocality": "Elmhurst",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Elmhurst",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9034579,
+    "lon": -87.9400769
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8406072227",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 159,
+   "sponsored": false,
+   "slug": "edible-arrangements-mount-prospect",
+   "name": "Edible Arrangements",
+   "summary": "Edible Arrangements is a gift shop in Mount Prospect, IL.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edible-arrangements-mount-prospect/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edible-arrangements-mount-prospect.json",
+   "address": {
+    "addressLocality": "Mount Prospect",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Mount Prospect",
+   "state": "IL",
+   "geo": {
+    "lat": 42.0639522,
+    "lon": -87.9357152
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6292598303",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 160,
    "sponsored": false,
    "slug": "exotic-india-art-roseville",
    "name": "Exotic India Art",
@@ -2229,7 +5176,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 69,
+   "position": 161,
    "sponsored": false,
    "slug": "fanatics-by-lids-albertville",
    "name": "Fanatics by Lids",
@@ -2258,7 +5205,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 70,
+   "position": 162,
    "sponsored": false,
    "slug": "fantasy-gifts-saint-paul",
    "name": "Fantasy Gifts",
@@ -2287,7 +5234,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 71,
+   "position": 163,
    "sponsored": false,
    "slug": "frivolous-fort-snelling-unorganized-territory",
    "name": "Frivolous",
@@ -2316,7 +5263,36 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 72,
+   "position": 164,
+   "sponsored": false,
+   "slug": "gathered-boutique-and-workshop-mount-prospect",
+   "name": "Gathered Boutique & Workshop",
+   "summary": "Gathered Boutique & Workshop is a gift shop in Mount Prospect, IL.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gathered-boutique-and-workshop-mount-prospect/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gathered-boutique-and-workshop-mount-prospect.json",
+   "address": {
+    "addressLocality": "Mount Prospect",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Mount Prospect",
+   "state": "IL",
+   "geo": {
+    "lat": 42.0635473,
+    "lon": -87.9350992
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6296960023",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 165,
    "sponsored": false,
    "slug": "general-store-of-minnetonka-minnetonka",
    "name": "General Store of Minnetonka",
@@ -2345,7 +5321,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 73,
+   "position": 166,
    "sponsored": false,
    "slug": "glacier-gifts-saint-paul",
    "name": "Glacier Gifts",
@@ -2374,7 +5350,210 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 74,
+   "position": 167,
+   "sponsored": false,
+   "slug": "hallmark-arlington-heights",
+   "name": "Hallmark",
+   "summary": "Hallmark is a gift shop in Arlington Heights, IL.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hallmark-arlington-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hallmark-arlington-heights.json",
+   "address": {
+    "addressLocality": "Arlington Heights",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Arlington Heights",
+   "state": "IL",
+   "geo": {
+    "lat": 42.1125792,
+    "lon": -87.981718
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5862002218",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 168,
+   "sponsored": false,
+   "slug": "hallmark-carol-stream",
+   "name": "Hallmark",
+   "summary": "Hallmark is a gift shop in Carol Stream, IL.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hallmark-carol-stream/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hallmark-carol-stream.json",
+   "address": {
+    "addressLocality": "Carol Stream",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Carol Stream",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9387097,
+    "lon": -88.1463744
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8117011434",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 169,
+   "sponsored": false,
+   "slug": "hallmark-downers-grove",
+   "name": "Hallmark",
+   "summary": "Hallmark is a gift shop in Downers Grove, IL.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hallmark-downers-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hallmark-downers-grove.json",
+   "address": {
+    "addressLocality": "Downers Grove",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Downers Grove",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7545098,
+    "lon": -88.0097882
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5256885435",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 170,
+   "sponsored": false,
+   "slug": "hallmark-la-grange",
+   "name": "Hallmark",
+   "summary": "Hallmark is a gift shop in La Grange, IL.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hallmark-la-grange/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hallmark-la-grange.json",
+   "address": {
+    "addressLocality": "La Grange",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "La Grange",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8156806,
+    "lon": -87.8703955
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8944618040",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 171,
+   "sponsored": false,
+   "slug": "hallmark-orland-hills",
+   "name": "Hallmark",
+   "summary": "Hallmark is a gift shop in Orland Hills, IL.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hallmark-orland-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hallmark-orland-hills.json",
+   "address": {
+    "addressLocality": "Orland Hills",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Orland Hills",
+   "state": "IL",
+   "geo": {
+    "lat": 41.6002318,
+    "lon": -87.846522
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9233266073",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 172,
+   "sponsored": false,
+   "slug": "hallmark-vernon-hills",
+   "name": "Hallmark",
+   "summary": "Hallmark is a gift shop in Vernon Hills, IL.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hallmark-vernon-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hallmark-vernon-hills.json",
+   "address": {
+    "addressLocality": "Vernon Hills",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Vernon Hills",
+   "state": "IL",
+   "geo": {
+    "lat": 42.237135,
+    "lon": -87.941665
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11824704794",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 173,
+   "sponsored": false,
+   "slug": "hinsdale-news-agency-hinsdale",
+   "name": "Hinsdale News Agency",
+   "summary": "Hinsdale News Agency is a gift shop in Hinsdale, IL.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hinsdale-news-agency-hinsdale/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hinsdale-news-agency-hinsdale.json",
+   "address": {
+    "addressLocality": "Hinsdale",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Hinsdale",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8026246,
+    "lon": -87.9281478
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13702499852",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 174,
    "sponsored": false,
    "slug": "hjem-home-wares-and-gifts-fort-snelling-unorganized-territory",
    "name": "Hjem Home wares and gifts",
@@ -2403,7 +5582,36 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 75,
+   "position": 175,
+   "sponsored": false,
+   "slug": "i-love-chicago-chicago-n11218702122",
+   "name": "I Love Chicago",
+   "summary": "I Love Chicago is a gift shop in Chicago, IL.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/i-love-chicago-chicago-n11218702122/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/i-love-chicago-chicago-n11218702122.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.974845,
+    "lon": -87.8913212
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11218702122",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 176,
    "sponsored": false,
    "slug": "inspired-life-art-fort-snelling-unorganized-territory",
    "name": "Inspired Life + Art",
@@ -2432,7 +5640,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 76,
+   "position": 177,
    "sponsored": false,
    "slug": "lakeshore-landing-shakopee",
    "name": "Lakeshore Landing",
@@ -2461,7 +5669,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 77,
+   "position": 178,
    "sponsored": false,
    "slug": "local-marketplace-fort-snelling-unorganized-territory",
    "name": "Local Marketplace",
@@ -2490,7 +5698,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 78,
+   "position": 179,
    "sponsored": false,
    "slug": "lolli-and-pops-fort-snelling-unorganized-territory",
    "name": "Lolli and Pops",
@@ -2519,7 +5727,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 79,
+   "position": 180,
    "sponsored": false,
    "slug": "loring-park-essentials-fort-snelling-unorganized-territory",
    "name": "Loring Park Essentials",
@@ -2548,7 +5756,36 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 80,
+   "position": 181,
+   "sponsored": false,
+   "slug": "making-history-chicago",
+   "name": "Making History",
+   "summary": "Making History is a gift shop in Chicago, IL.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/making-history-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/making-history-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8912942,
+    "lon": -87.6055063
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12150727941",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 182,
    "sponsored": false,
    "slug": "minnesota-state-of-nice-fort-snelling-unorganized-territory",
    "name": "Minnesota State of Nice",
@@ -2577,7 +5814,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 81,
+   "position": 183,
    "sponsored": false,
    "slug": "msp-duty-free-fort-snelling-unorganized-territory",
    "name": "MSP Duty Free",
@@ -2606,7 +5843,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 82,
+   "position": 184,
    "sponsored": false,
    "slug": "msp-duty-free-fort-snelling-unorganized-territory-n6387495095",
    "name": "MSP Duty Free",
@@ -2635,7 +5872,36 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 83,
+   "position": 185,
+   "sponsored": false,
+   "slug": "north-outpost-brookfield",
+   "name": "North Outpost",
+   "summary": "North Outpost is a gift shop in Brookfield, IL.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/north-outpost-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/north-outpost-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.835022,
+    "lon": -87.8335431
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/772836231",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 186,
    "sponsored": false,
    "slug": "owl-and-lark-rogers",
    "name": "Owl and Lark",
@@ -2664,7 +5930,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 84,
+   "position": 187,
    "sponsored": false,
    "slug": "plaza-shopper-shakopee",
    "name": "Plaza Shopper",
@@ -2693,7 +5959,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 85,
+   "position": 188,
    "sponsored": false,
    "slug": "prince-fort-snelling-unorganized-territory",
    "name": "Prince",
@@ -2722,7 +5988,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 86,
+   "position": 189,
    "sponsored": false,
    "slug": "red-barn-andover",
    "name": "Red Barn",
@@ -2751,7 +6017,65 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 87,
+   "position": 190,
+   "sponsored": false,
+   "slug": "rise-up-chicago",
+   "name": "Rise Up",
+   "summary": "Rise Up is a gift shop in Chicago, IL.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rise-up-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rise-up-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9351467,
+    "lon": -87.6440695
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11244741137",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 191,
+   "sponsored": false,
+   "slug": "seven-seas-gift-shop-riverside",
+   "name": "Seven Seas Gift Shop",
+   "summary": "Seven Seas Gift Shop is a gift shop in Riverside, IL.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/seven-seas-gift-shop-riverside/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/seven-seas-gift-shop-riverside.json",
+   "address": {
+    "addressLocality": "Riverside",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Riverside",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8333388,
+    "lon": -87.8303211
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1373156340",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 192,
    "sponsored": false,
    "slug": "snoopy-boutique-shakopee",
    "name": "Snoopy Boutique",
@@ -2780,7 +6104,36 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 88,
+   "position": 193,
+   "sponsored": false,
+   "slug": "spencers-chicago-ridge",
+   "name": "Spencer's",
+   "summary": "Spencer's is a gift shop in Chicago Ridge, IL.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/spencers-chicago-ridge/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/spencers-chicago-ridge.json",
+   "address": {
+    "addressLocality": "Chicago Ridge",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago Ridge",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7150235,
+    "lon": -87.7824197
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9654051439",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 194,
    "sponsored": false,
    "slug": "spencers-maplewood",
    "name": "Spencer's",
@@ -2809,7 +6162,65 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 89,
+   "position": 195,
+   "sponsored": false,
+   "slug": "spencers-norridge",
+   "name": "Spencer's",
+   "summary": "Spencer's is a gift shop in Norridge, IL.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/spencers-norridge/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/spencers-norridge.json",
+   "address": {
+    "addressLocality": "Norridge",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Norridge",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9561794,
+    "lon": -87.8084897
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7456845094",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 196,
+   "sponsored": false,
+   "slug": "spencers-orland-park",
+   "name": "Spencer's",
+   "summary": "Spencer's is a gift shop in Orland Park, IL.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/spencers-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/spencers-orland-park.json",
+   "address": {
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.6192662,
+    "lon": -87.848254
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10020369371",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 197,
    "sponsored": false,
    "slug": "splashdown-supplies-shakopee",
    "name": "Splashdown Supplies",
@@ -2838,7 +6249,36 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 90,
+   "position": 198,
+   "sponsored": false,
+   "slug": "state-street-souvenirs-chicago",
+   "name": "State Street Souvenirs",
+   "summary": "State Street Souvenirs is a gift shop in Chicago, IL.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/state-street-souvenirs-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/state-street-souvenirs-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8839544,
+    "lon": -87.6281664
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9939638868",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 199,
    "sponsored": false,
    "slug": "stony-hill-gifts-and-home-decor-rogers",
    "name": "Stony Hill Gifts and Home Decor",
@@ -2867,7 +6307,94 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 91,
+   "position": 200,
+   "sponsored": false,
+   "slug": "tax-and-duty-free-chicago",
+   "name": "Tax And Duty Free",
+   "summary": "Tax And Duty Free is a gift shop in Chicago, IL.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tax-and-duty-free-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tax-and-duty-free-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9739343,
+    "lon": -87.8887035
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11463899260",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 201,
+   "sponsored": false,
+   "slug": "the-atrium-chicago",
+   "name": "The Atrium",
+   "summary": "The Atrium is a gift shop in Chicago, IL.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-atrium-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-atrium-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7861225,
+    "lon": -87.741867
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11380207953",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 202,
+   "sponsored": false,
+   "slug": "the-garden-shop-new-trier-township",
+   "name": "The Garden Shop",
+   "summary": "The Garden Shop is a gift shop in New Trier Township, IL.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-garden-shop-new-trier-township/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-garden-shop-new-trier-township.json",
+   "address": {
+    "addressLocality": "New Trier Township",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "New Trier Township",
+   "state": "IL",
+   "geo": {
+    "lat": 42.1490967,
+    "lon": -87.7897853
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1059952919",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 203,
    "sponsored": false,
    "slug": "the-north-merchantile-fort-snelling-unorganized-territory",
    "name": "The North Merchantile",
@@ -2896,7 +6423,65 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 92,
+   "position": 204,
+   "sponsored": false,
+   "slug": "things-remembered-chicago-ridge",
+   "name": "Things Remembered",
+   "summary": "Things Remembered is a gift shop in Chicago Ridge, IL.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/things-remembered-chicago-ridge/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/things-remembered-chicago-ridge.json",
+   "address": {
+    "addressLocality": "Chicago Ridge",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago Ridge",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7164899,
+    "lon": -87.7829614
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9654051463",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 205,
+   "sponsored": false,
+   "slug": "things-remembered-orland-park",
+   "name": "Things Remembered",
+   "summary": "Things Remembered is a gift shop in Orland Park, IL.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/things-remembered-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/things-remembered-orland-park.json",
+   "address": {
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.6204532,
+    "lon": -87.8476532
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10020369354",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 206,
    "sponsored": false,
    "slug": "treasures-galore-on-94-rogers",
    "name": "Treasures Galore on 94",
@@ -2925,7 +6510,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 93,
+   "position": 207,
    "sponsored": false,
    "slug": "tumi-fort-snelling-unorganized-territory",
    "name": "Tumi",
@@ -2954,7 +6539,152 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 94,
+   "position": 208,
+   "sponsored": false,
+   "slug": "t-n-thanh-gift-shop-chicago",
+   "name": "Tân-Thanh Gift Shop",
+   "summary": "Tân-Thanh Gift Shop is a gift shop in Chicago, IL.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/t-n-thanh-gift-shop-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/t-n-thanh-gift-shop-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9731342,
+    "lon": -87.659187
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7152419146",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 209,
+   "sponsored": false,
+   "slug": "wild-gifts-chicago",
+   "name": "Wild Gifts",
+   "summary": "Wild Gifts is a gift shop in Chicago, IL.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wild-gifts-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wild-gifts-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9241623,
+    "lon": -87.6336802
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/760600787",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 210,
+   "sponsored": false,
+   "slug": "wild-things-gift-shop-chicago",
+   "name": "Wild Things gift shop",
+   "summary": "Wild Things gift shop is a gift shop in Chicago, IL.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wild-things-gift-shop-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wild-things-gift-shop-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9220495,
+    "lon": -87.6334452
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/210686227",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 211,
+   "sponsored": false,
+   "slug": "wildlife-trading-post-brookfield",
+   "name": "Wildlife Trading Post",
+   "summary": "Wildlife Trading Post is a gift shop in Brookfield, IL.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wildlife-trading-post-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wildlife-trading-post-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8312626,
+    "lon": -87.8340463
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/31466709",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 212,
+   "sponsored": false,
+   "slug": "woof-field-gifts-brookfield",
+   "name": "Woof-Field Gifts",
+   "summary": "Woof-Field Gifts is a gift shop in Brookfield, IL.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/woof-field-gifts-brookfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/woof-field-gifts-brookfield.json",
+   "address": {
+    "addressLocality": "Brookfield",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Brookfield",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8311493,
+    "lon": -87.8360958
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1340306923",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 213,
    "sponsored": false,
    "slug": "words-fort-snelling-unorganized-territory",
    "name": "Words",
@@ -2983,7 +6713,36 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 95,
+   "position": 214,
+   "sponsored": false,
+   "slug": "yankee-peddler-hinsdale",
+   "name": "Yankee Peddler",
+   "summary": "Yankee Peddler is a gift shop in Hinsdale, IL.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/yankee-peddler-hinsdale/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/yankee-peddler-hinsdale.json",
+   "address": {
+    "addressLocality": "Hinsdale",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Hinsdale",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8026904,
+    "lon": -87.9278396
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13702499850",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 215,
    "sponsored": false,
    "slug": "your-turn-saint-paul",
    "name": "Your Turn",
@@ -3011,5 +6770,224 @@
    "source_url": "https://www.openstreetmap.org/node/2846187012",
    "last_checked": "2026-10-17"
   }
- ]
+ ],
+ "market": {
+  "keyword": "gift shop",
+  "slug": "gift-shop",
+  "base_keyword": "gift shop",
+  "scope": "national",
+  "city": null,
+  "state": null,
+  "category": "ecommerce_retail",
+  "industry": "Shopping, Collectibles & Gifts",
+  "us_monthly_searches": {
+   "value": 18000,
+   "range": [
+    9900,
+    33000
+   ],
+   "method": "estimate",
+   "estimate_method": "median of 92 cited US volumes for 'med'-demand keywords in the b2b_professional research; rounded to 2 significant figures; range = 25th-75th percentile",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "confidence": "low"
+  },
+  "local_monthly_searches": null,
+  "cpc_usd": {
+   "industry_benchmark": "Shopping, Collectibles & Gifts",
+   "low_usd": 3.49,
+   "median_usd": 4.14,
+   "high_usd": 4.14,
+   "method": "published benchmarks: low/high = range of the industry and sub-industry median CPCs listed in 'figures'; median = most specific benchmark",
+   "figures": [
+    {
+     "usd": 4.14,
+     "label": "Shopping, Collectibles & Gifts median CPC 2026",
+     "source": "wordstream_2026"
+    },
+    {
+     "usd": 3.49,
+     "label": "Shopping, Collectibles & Gifts median CPC 2025",
+     "source": "wordstream_2025"
+    }
+   ],
+   "source": "wordstream_2026",
+   "as_of": "2026",
+   "basis_for_value": {
+    "usd": 4.14,
+    "method": "benchmark median CPC",
+    "source": "wordstream_2026"
+   }
+  },
+  "ctr_pct": {
+   "value": 8.92,
+   "label": "Shopping, Collectibles & Gifts average search-ad CTR 2025",
+   "source": "wordstream_2025",
+   "as_of": "2025-03"
+  },
+  "competition": {
+   "level": "medium",
+   "method": "proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research)",
+   "source": "wordstream_2026",
+   "as_of": "2026"
+  },
+  "trend": null,
+  "seasonality": {
+   "value": null,
+   "note": "No seasonality data in the research sources for this keyword."
+  },
+  "ai_query": {
+   "text": "No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.",
+   "figures": [
+    {
+     "value": "45%",
+     "label": "US adults using AI for local recommendations",
+     "source": "brightlocal_lcrs_2026"
+    },
+    {
+     "value": "75%",
+     "label": "sessions with keyword-style prompts",
+     "source": "sagapixel_sel"
+    },
+    {
+     "value": "59%",
+     "label": "local-intent prompts that triggered web search",
+     "source": "nectiv"
+    }
+   ],
+   "as_of": "2026"
+  },
+  "registry_competitors": {
+   "value": 215,
+   "slugs": [
+    "14-hill-minneapolis",
+    "anas-apothecary-minneapolis",
+    "andersonville-galleria-chicago",
+    "angmir-hecho-con-cari-o-chicago",
+    "attic-salt-lombard",
+    "avalon-minneapolis",
+    "awakenings-minneapolis",
+    "bad-luck-club-chicago",
+    "baggallini-fort-snelling-unorganized-territory",
+    "bear-crossing-brookfield"
+   ],
+   "method_id": "competitors",
+   "source": "registry",
+   "as_of": "2026-10-18",
+   "urls": [
+    "https://dingalinged-cpu.github.io/registry/c/14-hill-minneapolis/",
+    "https://dingalinged-cpu.github.io/registry/c/anas-apothecary-minneapolis/",
+    "https://dingalinged-cpu.github.io/registry/c/andersonville-galleria-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/angmir-hecho-con-cari-o-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/attic-salt-lombard/",
+    "https://dingalinged-cpu.github.io/registry/c/avalon-minneapolis/",
+    "https://dingalinged-cpu.github.io/registry/c/awakenings-minneapolis/",
+    "https://dingalinged-cpu.github.io/registry/c/bad-luck-club-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/baggallini-fort-snelling-unorganized-territory/",
+    "https://dingalinged-cpu.github.io/registry/c/bear-crossing-brookfield/"
+   ],
+   "method": "count of registry listings tagged with the keyword (city/national) or with the base service in the same state (state keywords)"
+  },
+  "agent_demand": null,
+  "agent_demand_note": "Not yet measured. Will carry AI-agent query counts from the registry's agent analytics (contract: meta.agent_demand_contract in the market index).",
+  "equivalent_google_ads_cost_month": {
+   "value_usd": 6600,
+   "method": "estimate",
+   "method_id": "google_ads_equiv",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote."
+  },
+  "search_value_index": {
+   "value_usd": 75000,
+   "method": "estimate",
+   "method_id": "value_index",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: search value index = monthly searches x CPC basis; an advertiser-value ranking signal, not revenue; rounded to 2 significant figures."
+  },
+  "auction": {
+   "featured_spot_min_usd": 50,
+   "spots_2_to_4_min_usd": 5,
+   "tier": "standard",
+   "pricing_rule": "tier minimum (premium $500, high $250, mid $100, standard $50) for national keywords; city = max($10, 20% of tier); state = max($10, 35% of tier); spots 2-4 open at 10% of the featured minimum",
+   "model": "Monthly auction in the last 7 days of each month: days 1-5 bid for the Featured #1 spot, days 6-7 for spots 2-4; winners display all next month; all paid spots labeled Sponsored.",
+   "next_auctions": [
+    {
+     "display_month": "2026-11",
+     "featured_spot_bidding": [
+      "2026-10-25",
+      "2026-10-29"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-10-30",
+      "2026-10-31"
+     ]
+    },
+    {
+     "display_month": "2026-12",
+     "featured_spot_bidding": [
+      "2026-11-24",
+      "2026-11-28"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-11-29",
+      "2026-11-30"
+     ]
+    }
+   ],
+   "source": "registry_auction",
+   "as_of": "2026-10-18"
+  },
+  "sources": {
+   "brightlocal_lcrs_2026": {
+    "name": "BrightLocal Local Consumer Review Survey 2026 (n=1,002 US adults)",
+    "url": "https://www.brightlocal.com/research/lcrs-ai-trust/",
+    "as_of": "2026"
+   },
+   "nectiv": {
+    "name": "Nectiv study of 8,500+ ChatGPT prompts",
+    "url": "https://nectivdigital.com/blog/new-data-study-what-queries-is-chatgpt-using-behind-the-scenes",
+    "as_of": "2025"
+   },
+   "registry": {
+    "name": "This registry's own listings (OpenStreetMap-seeded, ODbL)",
+    "url": "https://dingalinged-cpu.github.io/registry/api/companies.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_auction": {
+    "name": "Registry keyword auction catalog and rules",
+    "url": "https://dingalinged-cpu.github.io/registry/api/keyword-prices.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_estimate": {
+    "name": "Registry estimate (CC-BY-4.0); method given on each value",
+    "url": "https://dingalinged-cpu.github.io/registry/market/",
+    "as_of": "2026-10-18"
+   },
+   "sagapixel_sel": {
+    "name": "Sagapixel ChatGPT local-services sessions, via Search Engine Land",
+    "url": "https://searchengineland.com/chatgpt-users-keywords-for-local-services-data-467715",
+    "as_of": "2026-01"
+   },
+   "wordstream_2025": {
+    "name": "WordStream Google Ads Benchmarks 2025 (16,446 US campaigns, Apr 2024-Mar 2025; median CPC and CTR by industry)",
+    "url": "https://www.wordstream.com/blog/2025-google-ads-benchmarks",
+    "as_of": "2025-03"
+   },
+   "wordstream_2026": {
+    "name": "LocaliQ/WordStream Search Advertising Benchmarks 2026 (US median CPC by industry)",
+    "url": "https://www.localiq.com/blog/search-advertising-benchmarks",
+    "as_of": "2026"
+   }
+  },
+  "license": {
+   "registry_estimates": "CC-BY-4.0",
+   "url": "https://creativecommons.org/licenses/by/4.0/",
+   "cited_figures": "attribute to the publishers in sources"
+  },
+  "as_of": "2026-10-18",
+  "api": "https://dingalinged-cpu.github.io/registry/api/market/gift-shop.json",
+  "rate_card": "https://dingalinged-cpu.github.io/registry/view/market.html#gift-shop"
+ }
 }

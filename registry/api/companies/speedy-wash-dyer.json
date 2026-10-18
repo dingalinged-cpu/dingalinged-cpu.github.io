@@ -1,0 +1,53 @@
+{
+ "slug": "speedy-wash-dyer",
+ "name": "Speedy Wash",
+ "categories": [
+  "car wash"
+ ],
+ "keywords": [
+  "car wash",
+  "car wash dyer in"
+ ],
+ "services": [
+  {
+   "name": "car wash",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Dyer",
+  "addressRegion": "IN",
+  "addressCountry": "US"
+ },
+ "city": "Dyer",
+ "state": "IN",
+ "geo": {
+  "lat": 41.4923721,
+  "lon": -87.5100676
+ },
+ "brand": "Speedway",
+ "wikidata": "Q7575683",
+ "schema_type": "AutoWash",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/1349004341",
+ "osm": {
+  "type": "way",
+  "id": 1349004341,
+  "tags_used": {
+   "amenity": "car_wash"
+  }
+ },
+ "municipality": "Dyer",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/speedy-wash-dyer/",
+ "summary": "Speedy Wash is a car wash in Dyer, IN.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

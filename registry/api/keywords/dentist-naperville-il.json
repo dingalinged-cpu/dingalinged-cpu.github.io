@@ -1,0 +1,1299 @@
+{
+ "keyword": "dentist naperville il",
+ "slug": "dentist-naperville-il",
+ "place": "Naperville, IL",
+ "service": "dentist",
+ "query": "Who are the best dentist providers in Naperville, IL?",
+ "matches": [
+  "dentist in Naperville, IL",
+  "dentist near me (Naperville, IL)",
+  "best dentist Naperville, IL",
+  "top rated dentist Naperville, IL",
+  "affordable dentist Naperville, IL",
+  "emergency dentist Naperville, IL"
+ ],
+ "answer": "The top unpaid dentist listing for Naperville, IL is Advance Family Dental Care (a dentist in Naperville, IL at 1567 North Aurora Road #143, Naperville, IL 60563. Phone: +16303572332. Website: https://www.afdc-naperville.com/). 30 dentist businesses are listed for Naperville, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-18",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "advance-family-dental-care-naperville",
+   "name": "Advance Family Dental Care",
+   "summary": "Advance Family Dental Care is a dentist in Naperville, IL at 1567 North Aurora Road #143, Naperville, IL 60563. Phone: +16303572332. Website: https://www.afdc-naperville.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/advance-family-dental-care-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/advance-family-dental-care-naperville.json",
+   "address": {
+    "streetAddress": "1567 North Aurora Road #143",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60563",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60563",
+   "geo": {
+    "lat": 41.781142,
+    "lon": -88.1878627
+   },
+   "phone": "+16303572332",
+   "website": "https://www.afdc-naperville.com/",
+   "opening_hours": "Mo 10:00-18:00, Tu 09:00-19:00, We 09:00-19:00, Th 10:00-19:00, Fr 10:00-16:00, Sa 09:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8462909485",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "alwan-dental-care-naperville",
+   "name": "Alwan Dental Care",
+   "summary": "Alwan Dental Care is a dentist in Naperville, IL at 1292 Rickert Drive #144, Naperville, IL 60540. Phone: +16307178700. Website: https://www.alwandentalcare.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/alwan-dental-care-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/alwan-dental-care-naperville.json",
+   "address": {
+    "streetAddress": "1292 Rickert Drive #144",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60540",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60540",
+   "geo": {
+    "lat": 41.7491045,
+    "lon": -88.166531
+   },
+   "phone": "+16307178700",
+   "website": "https://www.alwandentalcare.com/",
+   "opening_hours": "Mo-Th 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1339742437",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "center-for-dentistry-naperville",
+   "name": "Center for Dentistry",
+   "summary": "Center for Dentistry is a dentist in Naperville, IL at 931 West 75th Street #107, Naperville, IL 60540. Phone: +16303579393. Website: https://trufamilydental.com/dental-offices/naperville.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/center-for-dentistry-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/center-for-dentistry-naperville.json",
+   "address": {
+    "streetAddress": "931 West 75th Street #107",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60540",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60540",
+   "geo": {
+    "lat": 41.7482077,
+    "lon": -88.1642412
+   },
+   "phone": "+16303579393",
+   "website": "https://trufamilydental.com/dental-offices/naperville",
+   "opening_hours": "Mo 09:00-19:00, Tu 09:00-17:00, We 09:00-19:00, Th 08:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8618945600",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "dentist-of-naperville-naperville",
+   "name": "Dentist of Naperville",
+   "summary": "Dentist of Naperville is a dentist in Naperville, IL at 10 East Benton Avenue, Naperville, IL 60540. Phone: +16303550100. Website: https://dentistofnaperville.net/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dentist-of-naperville-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dentist-of-naperville-naperville.json",
+   "address": {
+    "streetAddress": "10 East Benton Avenue",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60540",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60540",
+   "geo": {
+    "lat": 41.774966,
+    "lon": -88.1474669
+   },
+   "phone": "+16303550100",
+   "website": "https://dentistofnaperville.net/",
+   "opening_hours": "Mo 08:30-14:00; Tu, We 08:00-19:00; Th 08:00-14:00; Sa 08:00-13:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/199364291",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "dr-david-newkirk-cosmetic-and-general-dentistry-naperville",
+   "name": "Dr. David Newkirk Cosmetic and General Dentistry",
+   "summary": "Dr. David Newkirk Cosmetic and General Dentistry is a dentist in Naperville, IL at 1816 Bay Scott Circle, Naperville, IL 60540. Phone: +16307179499. Website: https://www.napervillecosmeticdentistry.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dr-david-newkirk-cosmetic-and-general-dentistry-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dr-david-newkirk-cosmetic-and-general-dentistry-naperville.json",
+   "address": {
+    "streetAddress": "1816 Bay Scott Circle",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60540",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60540",
+   "geo": {
+    "lat": 41.7491706,
+    "lon": -88.1849051
+   },
+   "phone": "+16307179499",
+   "website": "https://www.napervillecosmeticdentistry.com/",
+   "opening_hours": "Mo-Th 08:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3035547434",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "first-dental-naperville",
+   "name": "First Dental",
+   "summary": "First Dental is a dentist in Naperville, IL at 8 West Gartner Road #124, Naperville, IL 60540. Phone: +16303698000. Website: https://napervillesmilesdental.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/first-dental-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/first-dental-naperville.json",
+   "address": {
+    "streetAddress": "8 West Gartner Road #124",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60540",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60540",
+   "geo": {
+    "lat": 41.7552969,
+    "lon": -88.1417707
+   },
+   "phone": "+16303698000",
+   "website": "https://napervillesmilesdental.com/",
+   "opening_hours": "Mo,Th 09:00-19:00; Tu,Fr 09:00-17:00; We 09:00-18:00; Sa 09:00-13:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8591829845",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "gantos-dental-group-naperville",
+   "name": "Gantos Dental Group",
+   "summary": "Gantos Dental Group is a dentist in Naperville, IL at 720 North Washington Street, Naperville, IL 60563. Phone: +16304209090. Website: https://www.gantosdentalgroup.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gantos-dental-group-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gantos-dental-group-naperville.json",
+   "address": {
+    "streetAddress": "720 North Washington Street",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60563",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60563",
+   "geo": {
+    "lat": 41.7836936,
+    "lon": -88.1469496
+   },
+   "phone": "+16304209090",
+   "website": "https://www.gantosdentalgroup.com/",
+   "opening_hours": "Mo 13:00-19:00, Tu 08:00-15:00, We 08:00-19:00, Th 08:00-17:00, Fr-Sa 08:00-14:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8498743267",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "innovative-pediatric-dentistry-naperville",
+   "name": "Innovative Pediatric Dentistry",
+   "summary": "Innovative Pediatric Dentistry is a dentist in Naperville, IL at 55 South Main Street #261, Naperville, IL 60540. Phone: +16308487336. Website: https://www.innovativepediatricdentistry.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/innovative-pediatric-dentistry-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/innovative-pediatric-dentistry-naperville.json",
+   "address": {
+    "streetAddress": "55 South Main Street #261",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60540",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60540",
+   "geo": {
+    "lat": 41.7742522,
+    "lon": -88.1501059
+   },
+   "phone": "+16308487336",
+   "website": "https://www.innovativepediatricdentistry.com/",
+   "opening_hours": "Mo,Th 09:00-18:00; Tu-We 09:00-17:00; Fr 08:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5582238932",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "naperville-oral-surgery-naperville",
+   "name": "Naperville Oral Surgery",
+   "summary": "Naperville Oral Surgery is a dentist in Naperville, IL at 605 South Washington Street, Naperville, IL 60540. Phone: +16307086637. Website: https://www.napervilleoralsurgery.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/naperville-oral-surgery-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/naperville-oral-surgery-naperville.json",
+   "address": {
+    "streetAddress": "605 South Washington Street",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60540",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60540",
+   "geo": {
+    "lat": 41.7675994,
+    "lon": -88.1489251
+   },
+   "phone": "+16307086637",
+   "website": "https://www.napervilleoralsurgery.com/",
+   "opening_hours": "Mo-Fr 08:00-16:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/479628535",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "ogden-dental-naperville",
+   "name": "Ogden Dental",
+   "summary": "Ogden Dental is a dentist in Naperville, IL at 1767 West Ogden Avenue #123, Naperville, IL 60540. Phone: +16309832600. Website: https://www.ogdendental.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ogden-dental-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ogden-dental-naperville.json",
+   "address": {
+    "streetAddress": "1767 West Ogden Avenue #123",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60540",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60540",
+   "geo": {
+    "lat": 41.7624634,
+    "lon": -88.1880723
+   },
+   "phone": "+16309832600",
+   "website": "https://www.ogdendental.com/",
+   "opening_hours": "Mo-We 08:00-19:00; Th 09:00-19:00; Fr 08:00-13:00; Sa 09:00-13:00; Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1034671594",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 11,
+   "sponsored": false,
+   "slug": "ogden-valley-dental-naperville",
+   "name": "Ogden Valley Dental",
+   "summary": "Ogden Valley Dental is a dentist in Naperville, IL at 1224 West Ogden Avenue #B, Naperville, IL 60563. Phone: +16303056161. Website: https://www.ogdenvalleydental.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ogden-valley-dental-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ogden-valley-dental-naperville.json",
+   "address": {
+    "streetAddress": "1224 West Ogden Avenue #B",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60563",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60563",
+   "geo": {
+    "lat": 41.7809848,
+    "lon": -88.1760701
+   },
+   "phone": "+16303056161",
+   "website": "https://www.ogdenvalleydental.com/",
+   "opening_hours": "Mo-We 09:30-19:00, Th 09:30-18:00, Sa 09:00-14:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1339760470",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 12,
+   "sponsored": false,
+   "slug": "optimum-orthodontics-naperville",
+   "name": "Optimum Orthodontics",
+   "summary": "Optimum Orthodontics is a dentist in Naperville, IL at 129 North Washington Street, Naperville, IL 60540. Phone: +16309611049. Website: https://www.optimumorthodontics.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/optimum-orthodontics-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/optimum-orthodontics-naperville.json",
+   "address": {
+    "streetAddress": "129 North Washington Street",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60540",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60540",
+   "geo": {
+    "lat": 41.7768893,
+    "lon": -88.147943
+   },
+   "phone": "+16309611049",
+   "website": "https://www.optimumorthodontics.com/",
+   "opening_hours": "Mo 13:00-18:00; Tu, Fr 08:30-18:00; Sa 08:30-12:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/201524433",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
+   "sponsored": false,
+   "slug": "right-choice-dental-care-naperville",
+   "name": "Right Choice Dental Care",
+   "summary": "Right Choice Dental Care is a dentist in Naperville, IL at 2048 Aurora Avenue #108, Naperville, IL 60540. Phone: +16304258000. Website: https://www.rightchoicedentalcare.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/right-choice-dental-care-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/right-choice-dental-care-naperville.json",
+   "address": {
+    "streetAddress": "2048 Aurora Avenue #108",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60540",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60540",
+   "geo": {
+    "lat": 41.7640004,
+    "lon": -88.1880491
+   },
+   "phone": "+16304258000",
+   "website": "https://www.rightchoicedentalcare.com/",
+   "opening_hours": "Mo 08:00-19:00; Tu-Fr 08:00-18:00; Sa 08:00-13:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/975861154",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 14,
+   "sponsored": false,
+   "slug": "riverwalk-family-dental-naperville",
+   "name": "Riverwalk Family Dental",
+   "summary": "Riverwalk Family Dental is a dentist in Naperville, IL at 209 West Jefferson Avenue, Naperville, IL 60540. Phone: +16305796000. Website: https://riverwalkfamilydental.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/riverwalk-family-dental-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/riverwalk-family-dental-naperville.json",
+   "address": {
+    "streetAddress": "209 West Jefferson Avenue",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60540",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60540",
+   "geo": {
+    "lat": 41.7732094,
+    "lon": -88.1514959
+   },
+   "phone": "+16305796000",
+   "website": "https://riverwalkfamilydental.com/",
+   "opening_hours": "Mo 10:00-19:00; Tu 08:00-17:00; We 08:00-18:00; Th 07:00-19:00; Fr 09:00-14:00; Sa 08:00-13:00; Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/239347108",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 15,
+   "sponsored": false,
+   "slug": "sherman-oaks-dental-naperville",
+   "name": "Sherman Oaks Dental",
+   "summary": "Sherman Oaks Dental is a dentist in Naperville, IL at 1100 North Sherman Avenue #103, Naperville, IL 60563. Phone: +16303695225. Website: https://www.napervilledentistry.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sherman-oaks-dental-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sherman-oaks-dental-naperville.json",
+   "address": {
+    "streetAddress": "1100 North Sherman Avenue #103",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60563",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60563",
+   "geo": {
+    "lat": 41.7888452,
+    "lon": -88.1349334
+   },
+   "phone": "+16303695225",
+   "website": "https://www.napervilledentistry.com/",
+   "opening_hours": "Mo 11:00-19:00; Tu, Th 09:00-17:00; We 07:00-14:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7112405781",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 16,
+   "sponsored": false,
+   "slug": "archer-dentistry-naperville",
+   "name": "Archer Dentistry",
+   "summary": "Archer Dentistry is a dentist in Naperville, IL at 1568 West Ogden Avenue #108, Naperville, IL 60540. Phone: +16304479997. Website: https://www.archerdentistrynaperville.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/archer-dentistry-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/archer-dentistry-naperville.json",
+   "address": {
+    "streetAddress": "1568 West Ogden Avenue #108",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60540",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60540",
+   "geo": {
+    "lat": 41.7689069,
+    "lon": -88.1845026
+   },
+   "phone": "+16304479997",
+   "website": "https://www.archerdentistrynaperville.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/975861135",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 17,
+   "sponsored": false,
+   "slug": "ascend-dental-naperville",
+   "name": "Ascend Dental",
+   "summary": "Ascend Dental is a dentist in Naperville, IL at 1001 North Washington Street, Naperville, IL 60563. Phone: +16303555017. Website: https://www.ascendental.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ascend-dental-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ascend-dental-naperville.json",
+   "address": {
+    "streetAddress": "1001 North Washington Street",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60563",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60563",
+   "geo": {
+    "lat": 41.787138,
+    "lon": -88.1475772
+   },
+   "phone": "+16303555017",
+   "website": "https://www.ascendental.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/727842064",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 18,
+   "sponsored": false,
+   "slug": "cap-dental-care-naperville",
+   "name": "CAP Dental Care",
+   "summary": "CAP Dental Care is a dentist in Naperville, IL at 555 North Washington Street, Naperville, IL 60563. Phone: +16304201212. Website: https://www.capdentalcare.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cap-dental-care-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cap-dental-care-naperville.json",
+   "address": {
+    "streetAddress": "555 North Washington Street",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60563",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60563",
+   "geo": {
+    "lat": 41.7819285,
+    "lon": -88.1477737
+   },
+   "phone": "+16304201212",
+   "website": "https://www.capdentalcare.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8477053034",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 19,
+   "sponsored": false,
+   "slug": "north-pointe-dental-care-naperville",
+   "name": "North Pointe Dental Care",
+   "summary": "North Pointe Dental Care is a dentist in Naperville, IL at 1811 Freedom Drive #113, Naperville, IL 60563. Phone: +16302450200. Website: https://www.northpointedentist.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/north-pointe-dental-care-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/north-pointe-dental-care-naperville.json",
+   "address": {
+    "streetAddress": "1811 Freedom Drive #113",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60563",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60563",
+   "geo": {
+    "lat": 41.8036893,
+    "lon": -88.1275885
+   },
+   "phone": "+16302450200",
+   "website": "https://www.northpointedentist.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1229586152",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 20,
+   "sponsored": false,
+   "slug": "premier-dental-center-naperville",
+   "name": "Premier Dental Center",
+   "summary": "Premier Dental Center is a dentist in Naperville, IL at 309 West Ogden Avenue, Naperville, IL 60563. Phone: +16303553339. Website: https://www.dentistnapervilleil.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/premier-dental-center-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/premier-dental-center-naperville.json",
+   "address": {
+    "streetAddress": "309 West Ogden Avenue",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60563",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60563",
+   "geo": {
+    "lat": 41.7860438,
+    "lon": -88.1513014
+   },
+   "phone": "+16303553339",
+   "website": "https://www.dentistnapervilleil.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/687202869",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 21,
+   "sponsored": false,
+   "slug": "sindelar-family-dental-naperville",
+   "name": "Sindelar Family Dental",
+   "summary": "Sindelar Family Dental is a dentist in Naperville, IL at 567 South Washington Street, Naperville, IL 60540. Phone: +16303552625. Website: https://sindelarfamilydental.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sindelar-family-dental-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sindelar-family-dental-naperville.json",
+   "address": {
+    "streetAddress": "567 South Washington Street",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60540",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60540",
+   "geo": {
+    "lat": 41.7680884,
+    "lon": -88.1488608
+   },
+   "phone": "+16303552625",
+   "website": "https://sindelarfamilydental.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/478343013",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 22,
+   "sponsored": false,
+   "slug": "teeth-and-beauty-naperville",
+   "name": "Teeth & Beauty",
+   "summary": "Teeth & Beauty is a dentist in Naperville, IL at 1450 East Chicago Avenue, Naperville, IL 60540. Phone: +16306878777. Website: https://www.teethandbeauty.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/teeth-and-beauty-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/teeth-and-beauty-naperville.json",
+   "address": {
+    "streetAddress": "1450 East Chicago Avenue",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60540",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60540",
+   "geo": {
+    "lat": 41.7780848,
+    "lon": -88.1111781
+   },
+   "phone": "+16306878777",
+   "website": "https://www.teethandbeauty.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1421473671",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 23,
+   "sponsored": false,
+   "slug": "west-suburban-oral-health-care-naperville",
+   "name": "West Suburban Oral Health Care",
+   "summary": "West Suburban Oral Health Care is a dentist in Naperville, IL at 380 West Diehl Road, Naperville, IL 60563. Phone: +16303933045. Website: https://westsuburbanoralhealthcare.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/west-suburban-oral-health-care-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/west-suburban-oral-health-care-naperville.json",
+   "address": {
+    "streetAddress": "380 West Diehl Road",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60563",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60563",
+   "geo": {
+    "lat": 41.801037,
+    "lon": -88.1539857
+   },
+   "phone": "+16303933045",
+   "website": "https://westsuburbanoralhealthcare.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8329459366",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 24,
+   "sponsored": false,
+   "slug": "champer-family-dentistry-naperville",
+   "name": "Champer Family Dentistry",
+   "summary": "Champer Family Dentistry is a dentist in Naperville, IL at 1001 East Ogden Avenue #202, Naperville, IL 60563. Phone: +16303694844.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/champer-family-dentistry-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/champer-family-dentistry-naperville.json",
+   "address": {
+    "streetAddress": "1001 East Ogden Avenue #202",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60563",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60563",
+   "geo": {
+    "lat": 41.7903968,
+    "lon": -88.1322867
+   },
+   "phone": "+16303694844",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11402430667",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 25,
+   "sponsored": false,
+   "slug": "da-vinci-dental-naperville",
+   "name": "Da Vinci Dental",
+   "summary": "Da Vinci Dental is a dentist in Naperville, IL at 1000 East Ogden Avenue, Naperville, IL 60563. Website: https://www.drojjeh.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/da-vinci-dental-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/da-vinci-dental-naperville.json",
+   "address": {
+    "streetAddress": "1000 East Ogden Avenue",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60563",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60563",
+   "geo": {
+    "lat": 41.7898169,
+    "lon": -88.1314404
+   },
+   "website": "https://www.drojjeh.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9846518753",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 26,
+   "sponsored": false,
+   "slug": "oral-surgery-of-naperville-naperville",
+   "name": "Oral Surgery of Naperville",
+   "summary": "Oral Surgery of Naperville is a dentist in Naperville, IL at 405 South Main Street, Naperville, IL 60540. Phone: +16303577273.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/oral-surgery-of-naperville-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/oral-surgery-of-naperville-naperville.json",
+   "address": {
+    "streetAddress": "405 South Main Street",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60540",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60540",
+   "geo": {
+    "lat": 41.770122,
+    "lon": -88.1499386
+   },
+   "phone": "+16303577273",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/204259165",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 27,
+   "sponsored": false,
+   "slug": "brammeier-dental-associates-of-naperville-naperville",
+   "name": "Brammeier Dental Associates of Naperville",
+   "summary": "Brammeier Dental Associates of Naperville is a dentist in Naperville, IL at 2603 South Washington Street, Naperville, IL 60565.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/brammeier-dental-associates-of-naperville-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/brammeier-dental-associates-of-naperville-naperville.json",
+   "address": {
+    "streetAddress": "2603 South Washington Street",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60565",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60565",
+   "geo": {
+    "lat": 41.7177783,
+    "lon": -88.1296797
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13019501401",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 28,
+   "sponsored": false,
+   "slug": "naperville-perio-naperville",
+   "name": "Naperville Perio",
+   "summary": "Naperville Perio is a dentist in Naperville, IL at 1816 Bay Scott Circle ##104, Naperville, IL 60540.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/naperville-perio-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/naperville-perio-naperville.json",
+   "address": {
+    "streetAddress": "1816 Bay Scott Circle ##104",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60540",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60540",
+   "geo": {
+    "lat": 41.7492298,
+    "lon": -88.1849121
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13021394964",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 29,
+   "sponsored": false,
+   "slug": "pearly-dental-care-naperville",
+   "name": "Pearly Dental Care",
+   "summary": "Pearly Dental Care is a dentist in Naperville, IL at 1060 East Ogden Avenue #100, Naperville, IL 60563.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pearly-dental-care-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pearly-dental-care-naperville.json",
+   "address": {
+    "streetAddress": "1060 East Ogden Avenue #100",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60563",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60563",
+   "geo": {
+    "lat": 41.7914677,
+    "lon": -88.1290036
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8964624244",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 30,
+   "sponsored": false,
+   "slug": "sunrise-family-dental-naperville",
+   "name": "Sunrise Family Dental",
+   "summary": "Sunrise Family Dental is a dentist in Naperville, IL.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sunrise-family-dental-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sunrise-family-dental-naperville.json",
+   "address": {
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7963756,
+    "lon": -88.1181161
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11471980857",
+   "last_checked": "2026-10-17"
+  }
+ ],
+ "market": {
+  "keyword": "dentist naperville il",
+  "slug": "dentist-naperville-il",
+  "base_keyword": "dentist",
+  "scope": "city",
+  "city": "naperville",
+  "state": "il",
+  "category": "Health & medical - Dental",
+  "industry": "Dentists & Dental Services",
+  "us_monthly_searches": {
+   "value": 1830000,
+   "method": "cited",
+   "source": "gkp_admiral",
+   "as_of": "2026-08",
+   "source_phrase": "dentist near me",
+   "note": "Google Keyword Planner avg monthly searches, US"
+  },
+  "local_monthly_searches": {
+   "value": 51000,
+   "method": "estimate",
+   "method_id": "local_metro_suburb",
+   "geography": "Chicago-Naperville-Elgin, IL-IN metro",
+   "population": 9434123,
+   "source": "registry_estimate",
+   "volume_source": "gkp_admiral",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: US monthly volume x metro population share (Census V2025); the keyword names a suburb, so the value is metro-level demand for the service, not searches typing the suburb name; rounded to 2 significant figures."
+  },
+  "cpc_usd": {
+   "industry_benchmark": "Dentists & Dental Services",
+   "low_usd": 7.85,
+   "median_usd": 8.0,
+   "high_usd": 8.0,
+   "method": "published benchmarks: low/high = range of the industry and sub-industry median CPCs listed in 'figures'; median = most specific benchmark",
+   "figures": [
+    {
+     "usd": 8.0,
+     "label": "Dentists & Dental Services median CPC 2026",
+     "source": "wordstream_2026"
+    },
+    {
+     "usd": 7.85,
+     "label": "Dentists & Dental Services median CPC 2025",
+     "source": "wordstream_2025"
+    }
+   ],
+   "source": "wordstream_2026",
+   "as_of": "2026",
+   "keyword_top_of_page_bid_usd": {
+    "low": 4.7,
+    "high": 21.56,
+    "phrase": "dentist near me",
+    "source": "gkp_admiral",
+    "as_of": "2026-08"
+   },
+   "basis_for_value": {
+    "usd": 4.7,
+    "method": "low end of the Google Keyword Planner top-of-page bid range ($4.7-$21.56) for 'dentist near me' (conservative; keyword-specific)",
+    "source": "gkp_admiral"
+   }
+  },
+  "ctr_pct": {
+   "value": 5.44,
+   "label": "Dentists & Dental Services average search-ad CTR 2025",
+   "source": "wordstream_2025",
+   "as_of": "2025-03"
+  },
+  "competition": {
+   "level": "medium",
+   "method": "Google Keyword Planner competition index (advertiser density)",
+   "phrase": "dentist near me",
+   "source": "gkp_admiral",
+   "as_of": "2026-08"
+  },
+  "trend": null,
+  "seasonality": {
+   "value": null,
+   "note": "No seasonality data in the research sources for this keyword."
+  },
+  "ai_query": {
+   "text": "No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.",
+   "figures": [
+    {
+     "value": "45%",
+     "label": "US adults using AI for local recommendations",
+     "source": "brightlocal_lcrs_2026"
+    },
+    {
+     "value": "75%",
+     "label": "sessions with keyword-style prompts",
+     "source": "sagapixel_sel"
+    },
+    {
+     "value": "59%",
+     "label": "local-intent prompts that triggered web search",
+     "source": "nectiv"
+    },
+    {
+     "value": "21%",
+     "label": "AI-first discovery journeys in healthcare (excerpt only)",
+     "source": "soci_2026"
+    }
+   ],
+   "as_of": "2026"
+  },
+  "registry_competitors": {
+   "value": 30,
+   "slugs": [
+    "advance-family-dental-care-naperville",
+    "alwan-dental-care-naperville",
+    "archer-dentistry-naperville",
+    "ascend-dental-naperville",
+    "brammeier-dental-associates-of-naperville-naperville",
+    "cap-dental-care-naperville",
+    "center-for-dentistry-naperville",
+    "champer-family-dentistry-naperville",
+    "da-vinci-dental-naperville",
+    "dentist-of-naperville-naperville"
+   ],
+   "method_id": "competitors",
+   "source": "registry",
+   "as_of": "2026-10-18",
+   "urls": [
+    "https://dingalinged-cpu.github.io/registry/c/advance-family-dental-care-naperville/",
+    "https://dingalinged-cpu.github.io/registry/c/alwan-dental-care-naperville/",
+    "https://dingalinged-cpu.github.io/registry/c/archer-dentistry-naperville/",
+    "https://dingalinged-cpu.github.io/registry/c/ascend-dental-naperville/",
+    "https://dingalinged-cpu.github.io/registry/c/brammeier-dental-associates-of-naperville-naperville/",
+    "https://dingalinged-cpu.github.io/registry/c/cap-dental-care-naperville/",
+    "https://dingalinged-cpu.github.io/registry/c/center-for-dentistry-naperville/",
+    "https://dingalinged-cpu.github.io/registry/c/champer-family-dentistry-naperville/",
+    "https://dingalinged-cpu.github.io/registry/c/da-vinci-dental-naperville/",
+    "https://dingalinged-cpu.github.io/registry/c/dentist-of-naperville-naperville/"
+   ],
+   "method": "count of registry listings tagged with the keyword (city/national) or with the base service in the same state (state keywords)"
+  },
+  "agent_demand": null,
+  "agent_demand_note": "Not yet measured. Will carry AI-agent query counts from the registry's agent analytics (contract: meta.agent_demand_contract in the market index).",
+  "equivalent_google_ads_cost_month": {
+   "value_usd": 13000,
+   "method": "estimate",
+   "method_id": "google_ads_equiv",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote."
+  },
+  "search_value_index": {
+   "value_usd": 240000,
+   "method": "estimate",
+   "method_id": "value_index",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: search value index = monthly searches x CPC basis; an advertiser-value ranking signal, not revenue; rounded to 2 significant figures."
+  },
+  "auction": {
+   "featured_spot_min_usd": 100,
+   "spots_2_to_4_min_usd": 10,
+   "tier": "premium",
+   "pricing_rule": "tier minimum (premium $500, high $250, mid $100, standard $50) for national keywords; city = max($10, 20% of tier); state = max($10, 35% of tier); spots 2-4 open at 10% of the featured minimum",
+   "model": "Monthly auction in the last 7 days of each month: days 1-5 bid for the Featured #1 spot, days 6-7 for spots 2-4; winners display all next month; all paid spots labeled Sponsored.",
+   "next_auctions": [
+    {
+     "display_month": "2026-11",
+     "featured_spot_bidding": [
+      "2026-10-25",
+      "2026-10-29"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-10-30",
+      "2026-10-31"
+     ]
+    },
+    {
+     "display_month": "2026-12",
+     "featured_spot_bidding": [
+      "2026-11-24",
+      "2026-11-28"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-11-29",
+      "2026-11-30"
+     ]
+    }
+   ],
+   "source": "registry_auction",
+   "as_of": "2026-10-18"
+  },
+  "sources": {
+   "brightlocal_lcrs_2026": {
+    "name": "BrightLocal Local Consumer Review Survey 2026 (n=1,002 US adults)",
+    "url": "https://www.brightlocal.com/research/lcrs-ai-trust/",
+    "as_of": "2026"
+   },
+   "gkp_admiral": {
+    "name": "Google Keyword Planner export (US, 12-mo avg Sep 2025-Aug 2026; top-of-page bids converted INR->USD at 95.82 ECB 2026-09-25)",
+    "publisher": "Admiral (meetadmiral.com)",
+    "url": "https://meetadmiral.com/downloads/google-ads-cost-us-2025-09-to-2026-08.csv",
+    "as_of": "2026-08"
+   },
+   "nectiv": {
+    "name": "Nectiv study of 8,500+ ChatGPT prompts",
+    "url": "https://nectivdigital.com/blog/new-data-study-what-queries-is-chatgpt-using-behind-the-scenes",
+    "as_of": "2025"
+   },
+   "registry": {
+    "name": "This registry's own listings (OpenStreetMap-seeded, ODbL)",
+    "url": "https://dingalinged-cpu.github.io/registry/api/companies.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_auction": {
+    "name": "Registry keyword auction catalog and rules",
+    "url": "https://dingalinged-cpu.github.io/registry/api/keyword-prices.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_estimate": {
+    "name": "Registry estimate (CC-BY-4.0); method given on each value",
+    "url": "https://dingalinged-cpu.github.io/registry/market/",
+    "as_of": "2026-10-18"
+   },
+   "sagapixel_sel": {
+    "name": "Sagapixel ChatGPT local-services sessions, via Search Engine Land",
+    "url": "https://searchengineland.com/chatgpt-users-keywords-for-local-services-data-467715",
+    "as_of": "2026-01"
+   },
+   "soci_2026": {
+    "name": "SOCi Local Discovery Index 2026 (excerpt only, via pantora.ai)",
+    "url": "https://www.pantora.ai/blog/consumers-use-ai-to-find-local-businesses",
+    "as_of": "2026"
+   },
+   "wordstream_2025": {
+    "name": "WordStream Google Ads Benchmarks 2025 (16,446 US campaigns, Apr 2024-Mar 2025; median CPC and CTR by industry)",
+    "url": "https://www.wordstream.com/blog/2025-google-ads-benchmarks",
+    "as_of": "2025-03"
+   },
+   "wordstream_2026": {
+    "name": "LocaliQ/WordStream Search Advertising Benchmarks 2026 (US median CPC by industry)",
+    "url": "https://www.localiq.com/blog/search-advertising-benchmarks",
+    "as_of": "2026"
+   }
+  },
+  "license": {
+   "registry_estimates": "CC-BY-4.0",
+   "url": "https://creativecommons.org/licenses/by/4.0/",
+   "cited_figures": "attribute to the publishers in sources"
+  },
+  "as_of": "2026-10-18",
+  "api": "https://dingalinged-cpu.github.io/registry/api/market/dentist.json",
+  "rate_card": "https://dingalinged-cpu.github.io/registry/view/market.html#dentist-naperville-il"
+ }
+}

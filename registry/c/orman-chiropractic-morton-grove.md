@@ -1,0 +1,23 @@
+Orman Chiropractic is a chiropractor in Morton Grove, IL.
+
+# Orman Chiropractic
+
+- Category: chiropractor
+- Services: chiropractor
+- Address: Morton Grove, IL
+- City: Morton Grove
+- State: IL
+- ZIP: n/a
+- Coordinates: 42.0407464, -87.7844381
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/orman-chiropractic-morton-grove/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/orman-chiropractic-morton-grove.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6257166260 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

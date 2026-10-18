@@ -1,0 +1,61 @@
+{
+ "slug": "forever-dental-belmont-avenue-chicago",
+ "name": "Forever Dental - Belmont Avenue",
+ "categories": [
+  "dentist"
+ ],
+ "keywords": [
+  "dentist",
+  "dentist chicago il"
+ ],
+ "services": [
+  {
+   "name": "dentist",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "5738 West Belmont Avenue",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60634",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60634",
+ "geo": {
+  "lat": 41.9387619,
+  "lon": -87.770504
+ },
+ "phone": "+17736852135",
+ "website": "https://dentistschicago.com/dentist/il/chicago/5738-w-belmont-ave/",
+ "opening_hours": "Mo 08:00-16:00; Tu 08:00-14:00; We 09:00-18:00; Th 10:00-18:00; Fr-Su off",
+ "social": [
+  "https://www.facebook.com/foreverdentalteam"
+ ],
+ "schema_type": "Dentist",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/13310525132",
+ "osm": {
+  "type": "node",
+  "id": 13310525132,
+  "tags_used": {
+   "amenity": "dentist",
+   "healthcare": "dentist"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/forever-dental-belmont-avenue-chicago/",
+ "summary": "Forever Dental - Belmont Avenue is a dentist in Chicago, IL at 5738 West Belmont Avenue, Chicago, IL 60634. Phone: +17736852135. Website: https://dentistschicago.com/dentist/il/chicago/5738-w-belmont-ave/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

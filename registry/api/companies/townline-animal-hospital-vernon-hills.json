@@ -1,0 +1,57 @@
+{
+ "slug": "townline-animal-hospital-vernon-hills",
+ "name": "Townline Animal Hospital",
+ "categories": [
+  "vet"
+ ],
+ "keywords": [
+  "vet",
+  "vet vernon hills il"
+ ],
+ "services": [
+  {
+   "name": "vet",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "555 Townline Road",
+  "addressLocality": "Vernon Hills",
+  "addressRegion": "IL",
+  "postalCode": "60061",
+  "addressCountry": "US"
+ },
+ "city": "Vernon Hills",
+ "state": "IL",
+ "zip": "60061",
+ "geo": {
+  "lat": 42.2387516,
+  "lon": -87.9526925
+ },
+ "phone": "+18475493187",
+ "website": "https://townlineah.com/",
+ "opening_hours": "Mo-Su 09:00-18:00",
+ "schema_type": "VeterinaryCare",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/11342602336",
+ "osm": {
+  "type": "node",
+  "id": 11342602336,
+  "tags_used": {
+   "amenity": "veterinary"
+  }
+ },
+ "municipality": "Vernon Hills",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/townline-animal-hospital-vernon-hills/",
+ "summary": "Townline Animal Hospital is a veterinarian in Vernon Hills, IL at 555 Townline Road, Vernon Hills, IL 60061. Phone: +18475493187. Website: https://townlineah.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

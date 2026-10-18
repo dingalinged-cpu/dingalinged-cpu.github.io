@@ -1,0 +1,23 @@
+R.C. Wahl Jewelers is a jewelry store in Des Plaines, IL at Miner Street, Des Plaines, IL 60016.
+
+# R.C. Wahl Jewelers
+
+- Category: jewelry store
+- Services: jewelry store
+- Address: Miner Street, Des Plaines, IL 60016
+- City: Des Plaines
+- State: IL
+- ZIP: 60016
+- Coordinates: 42.0411057, -87.886061
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/r-c-wahl-jewelers-des-plaines/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/r-c-wahl-jewelers-des-plaines.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9432567710 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,0 +1,56 @@
+{
+ "slug": "home-and-manor-downers-grove",
+ "name": "Home & Manor",
+ "categories": [
+  "furniture store"
+ ],
+ "keywords": [
+  "furniture store",
+  "furniture store downers grove il"
+ ],
+ "services": [
+  {
+   "name": "furniture store",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "7325 Lemont Road",
+  "addressLocality": "Downers Grove",
+  "addressRegion": "IL",
+  "postalCode": "60516",
+  "addressCountry": "US"
+ },
+ "city": "Downers Grove",
+ "state": "IL",
+ "zip": "60516",
+ "geo": {
+  "lat": 41.7536094,
+  "lon": -88.0100175
+ },
+ "phone": "+16305417719",
+ "website": "https://homemanorusa.com/",
+ "schema_type": "FurnitureStore",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/5801235941",
+ "osm": {
+  "type": "node",
+  "id": 5801235941,
+  "tags_used": {
+   "shop": "furniture"
+  }
+ },
+ "municipality": "Downers Grove",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/home-and-manor-downers-grove/",
+ "summary": "Home & Manor is a furniture store in Downers Grove, IL at 7325 Lemont Road, Downers Grove, IL 60516. Phone: +16305417719. Website: https://homemanorusa.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

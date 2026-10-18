@@ -12,9 +12,9 @@
   "affordable dog boarding the United States",
   "emergency dog boarding the United States"
  ],
- "answer": "The top unpaid dog boarding listing for the United States is Dogtopia (a dog boarding facility in Golden Valley, MN at 9010 Olson Memorial Highway, Golden Valley, MN 55427. Phone: +19528001300. Website: https://www.dogtopia.com/minneapolis-goldenvalley/). 23 dog boarding businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "answer": "The top unpaid dog boarding listing for the United States is Best Friends Pet Hotel (a dog boarding facility in Lincolnshire, IL at 22096 North Pet Lane, Lincolnshire, IL 60069. Phone: +18476349444. Website: https://www.bestfriendspetcare.com/location/prairie-view-il/). 43 dog boarding businesses are listed for the United States as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
  "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
- "updated": "2026-10-17",
+ "updated": "2026-10-18",
  "sponsored_slots": {
   "featured_1": "available",
   "spots_2_4_sold": 0
@@ -27,6 +27,41 @@
  "results": [
   {
    "position": 1,
+   "sponsored": false,
+   "slug": "best-friends-pet-hotel-lincolnshire",
+   "name": "Best Friends Pet Hotel",
+   "summary": "Best Friends Pet Hotel is a dog boarding facility in Lincolnshire, IL at 22096 North Pet Lane, Lincolnshire, IL 60069. Phone: +18476349444. Website: https://www.bestfriendspetcare.com/location/prairie-view-il/.",
+   "categories": [
+    "dog boarding"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/best-friends-pet-hotel-lincolnshire/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/best-friends-pet-hotel-lincolnshire.json",
+   "address": {
+    "streetAddress": "22096 North Pet Lane",
+    "addressLocality": "Lincolnshire",
+    "addressRegion": "IL",
+    "postalCode": "60069",
+    "addressCountry": "US"
+   },
+   "city": "Lincolnshire",
+   "state": "IL",
+   "zip": "60069",
+   "geo": {
+    "lat": 42.1842614,
+    "lon": -87.9509209
+   },
+   "phone": "+18476349444",
+   "website": "https://www.bestfriendspetcare.com/location/prairie-view-il/",
+   "opening_hours": "08:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1222801067",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
    "sponsored": false,
    "slug": "dogtopia-golden-valley",
    "name": "Dogtopia",
@@ -61,7 +96,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 2,
+   "position": 3,
    "sponsored": false,
    "slug": "dogtopia-roseville",
    "name": "Dogtopia",
@@ -96,7 +131,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 3,
+   "position": 4,
    "sponsored": false,
    "slug": "oh-my-dog-saint-paul",
    "name": "Oh My Dog",
@@ -131,7 +166,42 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 4,
+   "position": 5,
+   "sponsored": false,
+   "slug": "rogers-bark-pet-salon-chicago",
+   "name": "Rogers Bark Pet Salon",
+   "summary": "Rogers Bark Pet Salon is a dog boarding facility in Chicago, IL at 1447 West Jarvis Avenue, Chicago, IL 60626. Phone: +17732742275. Website: https://rogersbark.com/.",
+   "categories": [
+    "dog boarding"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rogers-bark-pet-salon-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rogers-bark-pet-salon-chicago.json",
+   "address": {
+    "streetAddress": "1447 West Jarvis Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60626",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60626",
+   "geo": {
+    "lat": 42.0158502,
+    "lon": -87.6679458
+   },
+   "phone": "+17732742275",
+   "website": "https://rogersbark.com/",
+   "opening_hours": "Mo-Fr 07:00-19:00; Sa 09:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5276746541",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
    "sponsored": false,
    "slug": "st-paws-dog-daycare-and-boarding-saint-paul",
    "name": "St. Paws Dog Daycare & Boarding",
@@ -166,7 +236,42 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 5,
+   "position": 7,
+   "sponsored": false,
+   "slug": "the-dog-stop-deerfield",
+   "name": "The Dog Stop",
+   "summary": "The Dog Stop is a dog boarding facility in Deerfield, IL at 495 Lake Cook Rd, Deerfield, IL 60015. Phone: +12242354646. Website: https://thedogstop.com/il-deerfield/.",
+   "categories": [
+    "dog boarding"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-dog-stop-deerfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-dog-stop-deerfield.json",
+   "address": {
+    "streetAddress": "495 Lake Cook Rd",
+    "addressLocality": "Deerfield",
+    "addressRegion": "IL",
+    "postalCode": "60015",
+    "addressCountry": "US"
+   },
+   "city": "Deerfield",
+   "state": "IL",
+   "zip": "60015",
+   "geo": {
+    "lat": 42.1507414,
+    "lon": -87.8396303
+   },
+   "phone": "+12242354646",
+   "website": "https://thedogstop.com/il-deerfield/",
+   "opening_hours": "Mo-Fr 06:30-7:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8229191792",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
    "sponsored": false,
    "slug": "dog-days-saint-paul",
    "name": "Dog Days",
@@ -199,7 +304,40 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 6,
+   "position": 9,
+   "sponsored": false,
+   "slug": "doggie-works-chicago",
+   "name": "Doggie Works",
+   "summary": "Doggie Works is a dog boarding facility in Chicago, IL at 2340 West Nelson Street, Chicago, IL. Phone: +17736977339. Website: https://doggieworks.net/.",
+   "categories": [
+    "dog boarding"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/doggie-works-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/doggie-works-chicago.json",
+   "address": {
+    "streetAddress": "2340 West Nelson Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.936992,
+    "lon": -87.6872737
+   },
+   "phone": "+17736977339",
+   "website": "https://doggieworks.net/",
+   "opening_hours": "Mo-Fr 07:00-19:00; Sa-Su 09:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12141260595",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
    "sponsored": false,
    "slug": "dogtopia-bloomington",
    "name": "Dogtopia",
@@ -232,7 +370,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 7,
+   "position": 11,
    "sponsored": false,
    "slug": "dogtopia-saint-paul",
    "name": "Dogtopia",
@@ -266,7 +404,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 8,
+   "position": 12,
    "sponsored": false,
    "slug": "downtown-dogs-minneapolis",
    "name": "Downtown Dogs",
@@ -300,7 +438,75 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 9,
+   "position": 13,
+   "sponsored": false,
+   "slug": "hyde-bark-dog-walking-and-pet-care-chicago",
+   "name": "Hyde Bark Dog Walking and Pet Care",
+   "summary": "Hyde Bark Dog Walking and Pet Care is a dog boarding facility in Chicago, IL at 5508 South Lake Park Avenue, Chicago, IL 60637. Phone: +17733598158. Website: https://www.hydebarkchicago.com/.",
+   "categories": [
+    "dog boarding"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hyde-bark-dog-walking-and-pet-care-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hyde-bark-dog-walking-and-pet-care-chicago.json",
+   "address": {
+    "streetAddress": "5508 South Lake Park Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60637",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60637",
+   "geo": {
+    "lat": 41.7948485,
+    "lon": -87.5878226
+   },
+   "phone": "+17733598158",
+   "website": "https://www.hydebarkchicago.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10119832878",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 14,
+   "sponsored": false,
+   "slug": "petsuites-naperville",
+   "name": "PetSuites",
+   "summary": "PetSuites is a dog boarding facility in Naperville, IL at 540 East Ogden Avenue, Naperville, IL 60563. Phone: +16304676826. Website: https://naperville.petsuitesofamerica.com/.",
+   "categories": [
+    "dog boarding"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petsuites-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petsuites-naperville.json",
+   "address": {
+    "streetAddress": "540 East Ogden Avenue",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60563",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60563",
+   "geo": {
+    "lat": 41.785413,
+    "lon": -88.1387644
+   },
+   "phone": "+16304676826",
+   "website": "https://naperville.petsuitesofamerica.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/292642511",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 15,
    "sponsored": false,
    "slug": "success-dog-training-corcoran",
    "name": "Success Dog Training",
@@ -334,7 +540,41 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 10,
+   "position": 16,
+   "sponsored": false,
+   "slug": "the-dog-district-darien",
+   "name": "The Dog District",
+   "summary": "The Dog District is a dog boarding facility in Darien, IL at 1100 North Frontage Road, Darien, IL 60561. Phone: +16305416660. Website: https://www.dogdistrictdarien.com/.",
+   "categories": [
+    "dog boarding"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-dog-district-darien/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-dog-district-darien.json",
+   "address": {
+    "streetAddress": "1100 North Frontage Road",
+    "addressLocality": "Darien",
+    "addressRegion": "IL",
+    "postalCode": "60561",
+    "addressCountry": "US"
+   },
+   "city": "Darien",
+   "state": "IL",
+   "zip": "60561",
+   "geo": {
+    "lat": 41.7349261,
+    "lon": -87.9710578
+   },
+   "phone": "+16305416660",
+   "website": "https://www.dogdistrictdarien.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/566815536",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 17,
    "sponsored": false,
    "slug": "all-seasons-canine-country-club-corcoran",
    "name": "All Seasons Canine Country Club",
@@ -368,7 +608,41 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 11,
+   "position": 18,
+   "sponsored": false,
+   "slug": "zen-dogs-chicago-logan-square-chicago",
+   "name": "Zen Dogs Chicago Logan Square",
+   "summary": "Zen Dogs Chicago Logan Square is a dog boarding facility in Chicago, IL at 2409 North Western Avenue, Chicago, IL 60647. Website: https://www.zendogschicago.com/.",
+   "categories": [
+    "dog boarding"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/zen-dogs-chicago-logan-square-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/zen-dogs-chicago-logan-square-chicago.json",
+   "address": {
+    "streetAddress": "2409 North Western Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60647",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60647",
+   "geo": {
+    "lat": 41.9252235,
+    "lon": -87.6874466
+   },
+   "website": "https://www.zendogschicago.com/",
+   "opening_hours": "Mo-Fr 07:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3660929471",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 19,
    "sponsored": false,
    "slug": "dog-days-daycare-and-boarding-saint-paul",
    "name": "Dog Days Daycare & Boarding",
@@ -399,7 +673,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 12,
+   "position": 20,
    "sponsored": false,
    "slug": "canine-coach-saint-paul",
    "name": "Canine Coach",
@@ -432,7 +706,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 13,
+   "position": 21,
    "sponsored": false,
    "slug": "dogs-at-play-newport",
    "name": "Dogs at Play!",
@@ -465,7 +739,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 14,
+   "position": 22,
    "sponsored": false,
    "slug": "adogo-minnetonka-minnetonka",
    "name": "Adogo Minnetonka",
@@ -498,7 +772,37 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 15,
+   "position": 23,
+   "sponsored": false,
+   "slug": "oakview-pet-resort-lake-zurich",
+   "name": "Oakview Pet Resort",
+   "summary": "Oakview Pet Resort is a dog boarding facility in Lake Zurich, IL. Website: https://www.oakviewpetresort.com/.",
+   "categories": [
+    "dog boarding"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/oakview-pet-resort-lake-zurich/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/oakview-pet-resort-lake-zurich.json",
+   "address": {
+    "addressLocality": "Lake Zurich",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Lake Zurich",
+   "state": "IL",
+   "geo": {
+    "lat": 42.1899568,
+    "lon": -88.1100949
+   },
+   "website": "https://www.oakviewpetresort.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1215608825",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 24,
    "sponsored": false,
    "slug": "canine-coach-minneapolis",
    "name": "Canine Coach",
@@ -530,7 +834,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 16,
+   "position": 25,
    "sponsored": false,
    "slug": "city-paws-minneapolis",
    "name": "City Paws",
@@ -562,7 +866,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 17,
+   "position": 26,
    "sponsored": false,
    "slug": "city-paws-pet-club-minneapolis",
    "name": "City Paws Pet Club",
@@ -594,7 +898,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 18,
+   "position": 27,
    "sponsored": false,
    "slug": "city-paws-pet-club-dog-daycare-boarding-training-and-grooming-minneapolis",
    "name": "City Paws Pet Club - Dog Daycare, Boarding, Training & Grooming",
@@ -626,7 +930,71 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 19,
+   "position": 28,
+   "sponsored": false,
+   "slug": "doggie-day-play-oak-park",
+   "name": "Doggie Day Play",
+   "summary": "Doggie Day Play is a dog boarding facility in Oak Park, IL at 1135 Chicago Avenue, Oak Park, IL 60302.",
+   "categories": [
+    "dog boarding"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/doggie-day-play-oak-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/doggie-day-play-oak-park.json",
+   "address": {
+    "streetAddress": "1135 Chicago Avenue",
+    "addressLocality": "Oak Park",
+    "addressRegion": "IL",
+    "postalCode": "60302",
+    "addressCountry": "US"
+   },
+   "city": "Oak Park",
+   "state": "IL",
+   "zip": "60302",
+   "geo": {
+    "lat": 41.893978,
+    "lon": -87.8044772
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/327700192",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 29,
+   "sponsored": false,
+   "slug": "golf-rose-pet-lodge-schaumburg",
+   "name": "Golf Rose Pet Lodge",
+   "summary": "Golf Rose Pet Lodge is a dog boarding facility in Schaumburg, IL at 1355 North Roselle Road, Schaumburg, IL 60195.",
+   "categories": [
+    "dog boarding"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/golf-rose-pet-lodge-schaumburg/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/golf-rose-pet-lodge-schaumburg.json",
+   "address": {
+    "streetAddress": "1355 North Roselle Road",
+    "addressLocality": "Schaumburg",
+    "addressRegion": "IL",
+    "postalCode": "60195",
+    "addressCountry": "US"
+   },
+   "city": "Schaumburg",
+   "state": "IL",
+   "zip": "60195",
+   "geo": {
+    "lat": 42.0526036,
+    "lon": -88.0788692
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/239649255",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 30,
    "sponsored": false,
    "slug": "plymouth-heights-pet-suites-new-hope",
    "name": "Plymouth Heights Pet Suites",
@@ -658,7 +1026,103 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 20,
+   "position": 31,
+   "sponsored": false,
+   "slug": "pups-pet-club-chicago-n13430981172",
+   "name": "Pups Pet Club",
+   "summary": "Pups Pet Club is a dog boarding facility in Chicago, IL at 1332 South Michigan Avenue, Chicago, IL 60605.",
+   "categories": [
+    "dog boarding"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pups-pet-club-chicago-n13430981172/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pups-pet-club-chicago-n13430981172.json",
+   "address": {
+    "streetAddress": "1332 South Michigan Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60605",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60605",
+   "geo": {
+    "lat": 41.8648036,
+    "lon": -87.6243366
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13430981172",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 32,
+   "sponsored": false,
+   "slug": "the-village-dog-wilmette",
+   "name": "The Village Dog",
+   "summary": "The Village Dog is a dog boarding facility in Wilmette, IL at 1225 Wilmette Avenue, Wilmette, IL 60091.",
+   "categories": [
+    "dog boarding"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-village-dog-wilmette/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-village-dog-wilmette.json",
+   "address": {
+    "streetAddress": "1225 Wilmette Avenue",
+    "addressLocality": "Wilmette",
+    "addressRegion": "IL",
+    "postalCode": "60091",
+    "addressCountry": "US"
+   },
+   "city": "Wilmette",
+   "state": "IL",
+   "zip": "60091",
+   "geo": {
+    "lat": 42.0746586,
+    "lon": -87.7086913
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/672563306",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 33,
+   "sponsored": false,
+   "slug": "wag-hotels-chicago-n12881954961",
+   "name": "Wag Hotels",
+   "summary": "Wag Hotels is a dog boarding facility in Chicago, IL at 1214 West Monroe Street, Chicago, IL 60607.",
+   "categories": [
+    "dog boarding"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wag-hotels-chicago-n12881954961/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wag-hotels-chicago-n12881954961.json",
+   "address": {
+    "streetAddress": "1214 West Monroe Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60607",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60607",
+   "geo": {
+    "lat": 41.8804596,
+    "lon": -87.6578687
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12881954961",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 34,
    "sponsored": false,
    "slug": "wagging-tails-pet-resort-eagan",
    "name": "Wagging Tails Pet Resort",
@@ -690,7 +1154,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 21,
+   "position": 35,
    "sponsored": false,
    "slug": "adogo-maple-grove",
    "name": "ADOGO",
@@ -719,7 +1183,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 22,
+   "position": 36,
    "sponsored": false,
    "slug": "adogo-pet-hotel-richfield",
    "name": "Adogo Pet Hotel",
@@ -748,7 +1212,152 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 23,
+   "position": 37,
+   "sponsored": false,
+   "slug": "camp-wiggles-chicago",
+   "name": "Camp Wiggles",
+   "summary": "Camp Wiggles is a dog boarding facility in Chicago, IL.",
+   "categories": [
+    "dog boarding"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/camp-wiggles-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/camp-wiggles-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9462464,
+    "lon": -87.6496089
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11258878362",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 38,
+   "sponsored": false,
+   "slug": "dogtopia-countryside",
+   "name": "Dogtopia",
+   "summary": "Dogtopia is a dog boarding facility in Countryside, IL.",
+   "categories": [
+    "dog boarding"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dogtopia-countryside/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dogtopia-countryside.json",
+   "address": {
+    "addressLocality": "Countryside",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Countryside",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7903717,
+    "lon": -87.8875294
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10722087989",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 39,
+   "sponsored": false,
+   "slug": "good-dog-lombard",
+   "name": "Good Dog",
+   "summary": "Good Dog is a dog boarding facility in Lombard, IL.",
+   "categories": [
+    "dog boarding"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/good-dog-lombard/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/good-dog-lombard.json",
+   "address": {
+    "addressLocality": "Lombard",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Lombard",
+   "state": "IL",
+   "geo": {
+    "lat": 41.890115,
+    "lon": -87.9978703
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1328080988",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 40,
+   "sponsored": false,
+   "slug": "lake-forest-kennel-club-lake-forest",
+   "name": "Lake Forest Kennel Club",
+   "summary": "Lake Forest Kennel Club is a dog boarding facility in Lake Forest, IL.",
+   "categories": [
+    "dog boarding"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lake-forest-kennel-club-lake-forest/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lake-forest-kennel-club-lake-forest.json",
+   "address": {
+    "addressLocality": "Lake Forest",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Lake Forest",
+   "state": "IL",
+   "geo": {
+    "lat": 42.2221323,
+    "lon": -87.8669786
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1510722024",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 41,
+   "sponsored": false,
+   "slug": "pack-life-chicago",
+   "name": "Pack Life",
+   "summary": "Pack Life is a dog boarding facility in Chicago, IL.",
+   "categories": [
+    "dog boarding"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pack-life-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pack-life-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8886593,
+    "lon": -87.6845251
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5072709542",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 42,
    "sponsored": false,
    "slug": "petsuites-eagan",
    "name": "PetSuites",
@@ -775,6 +1384,255 @@
    "source": "OpenStreetMap",
    "source_url": "https://www.openstreetmap.org/way/451285090",
    "last_checked": "2026-10-17"
+  },
+  {
+   "position": 43,
+   "sponsored": false,
+   "slug": "wag-hotels-chicago",
+   "name": "Wag Hotels",
+   "summary": "Wag Hotels is a dog boarding facility in Chicago, IL.",
+   "categories": [
+    "dog boarding"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wag-hotels-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wag-hotels-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9222775,
+    "lon": -87.6656557
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12463885045",
+   "last_checked": "2026-10-17"
   }
- ]
+ ],
+ "market": {
+  "keyword": "dog boarding",
+  "slug": "dog-boarding",
+  "base_keyword": "dog boarding",
+  "scope": "national",
+  "city": null,
+  "state": null,
+  "category": "Pets",
+  "industry": "Animals & Pets",
+  "us_monthly_searches": {
+   "value": 246000,
+   "method": "cited",
+   "source": "r_agencycrate-com-industries-pet-care-and-grooming",
+   "as_of": "2026-08",
+   "source_phrase": "dog boarding near me",
+   "note": "US monthly searches, Google Ads data Sep25-Aug26"
+  },
+  "local_monthly_searches": null,
+  "cpc_usd": {
+   "industry_benchmark": "Animals & Pets",
+   "low_usd": 3.97,
+   "median_usd": 4.06,
+   "high_usd": 4.06,
+   "method": "published benchmarks: low/high = range of the industry and sub-industry median CPCs listed in 'figures'; median = most specific benchmark",
+   "figures": [
+    {
+     "usd": 4.06,
+     "label": "Animals & Pets median CPC 2026",
+     "source": "wordstream_2026"
+    },
+    {
+     "usd": 3.97,
+     "label": "Animals & Pets median CPC 2025",
+     "source": "wordstream_2025"
+    }
+   ],
+   "source": "wordstream_2026",
+   "as_of": "2026",
+   "basis_for_value": {
+    "usd": 4.06,
+    "method": "benchmark median CPC",
+    "source": "wordstream_2026"
+   }
+  },
+  "ctr_pct": {
+   "value": 6.58,
+   "label": "Animals & Pets average search-ad CTR 2025",
+   "source": "wordstream_2025",
+   "as_of": "2025-03"
+  },
+  "competition": {
+   "level": "medium",
+   "method": "proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research)",
+   "source": "wordstream_2026",
+   "as_of": "2026"
+  },
+  "trend": null,
+  "seasonality": {
+   "value": null,
+   "note": "No seasonality data in the research sources for this keyword."
+  },
+  "ai_query": {
+   "text": "No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.",
+   "figures": [
+    {
+     "value": "45%",
+     "label": "US adults using AI for local recommendations",
+     "source": "brightlocal_lcrs_2026"
+    },
+    {
+     "value": "75%",
+     "label": "sessions with keyword-style prompts",
+     "source": "sagapixel_sel"
+    },
+    {
+     "value": "59%",
+     "label": "local-intent prompts that triggered web search",
+     "source": "nectiv"
+    }
+   ],
+   "as_of": "2026"
+  },
+  "registry_competitors": {
+   "value": 43,
+   "slugs": [
+    "adogo-maple-grove",
+    "adogo-minnetonka-minnetonka",
+    "adogo-pet-hotel-richfield",
+    "all-seasons-canine-country-club-corcoran",
+    "best-friends-pet-hotel-lincolnshire",
+    "camp-wiggles-chicago",
+    "canine-coach-minneapolis",
+    "canine-coach-saint-paul",
+    "city-paws-minneapolis",
+    "city-paws-pet-club-dog-daycare-boarding-training-and-grooming-minneapolis"
+   ],
+   "method_id": "competitors",
+   "source": "registry",
+   "as_of": "2026-10-18",
+   "urls": [
+    "https://dingalinged-cpu.github.io/registry/c/adogo-maple-grove/",
+    "https://dingalinged-cpu.github.io/registry/c/adogo-minnetonka-minnetonka/",
+    "https://dingalinged-cpu.github.io/registry/c/adogo-pet-hotel-richfield/",
+    "https://dingalinged-cpu.github.io/registry/c/all-seasons-canine-country-club-corcoran/",
+    "https://dingalinged-cpu.github.io/registry/c/best-friends-pet-hotel-lincolnshire/",
+    "https://dingalinged-cpu.github.io/registry/c/camp-wiggles-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/canine-coach-minneapolis/",
+    "https://dingalinged-cpu.github.io/registry/c/canine-coach-saint-paul/",
+    "https://dingalinged-cpu.github.io/registry/c/city-paws-minneapolis/",
+    "https://dingalinged-cpu.github.io/registry/c/city-paws-pet-club-dog-daycare-boarding-training-and-grooming-minneapolis/"
+   ],
+   "method": "count of registry listings tagged with the keyword (city/national) or with the base service in the same state (state keywords)"
+  },
+  "agent_demand": null,
+  "agent_demand_note": "Not yet measured. Will carry AI-agent query counts from the registry's agent analytics (contract: meta.agent_demand_contract in the market index).",
+  "equivalent_google_ads_cost_month": {
+   "value_usd": 66000,
+   "method": "estimate",
+   "method_id": "google_ads_equiv",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote."
+  },
+  "search_value_index": {
+   "value_usd": 1000000,
+   "method": "estimate",
+   "method_id": "value_index",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: search value index = monthly searches x CPC basis; an advertiser-value ranking signal, not revenue; rounded to 2 significant figures."
+  },
+  "auction": {
+   "featured_spot_min_usd": 100,
+   "spots_2_to_4_min_usd": 10,
+   "tier": "mid",
+   "pricing_rule": "tier minimum (premium $500, high $250, mid $100, standard $50) for national keywords; city = max($10, 20% of tier); state = max($10, 35% of tier); spots 2-4 open at 10% of the featured minimum",
+   "model": "Monthly auction in the last 7 days of each month: days 1-5 bid for the Featured #1 spot, days 6-7 for spots 2-4; winners display all next month; all paid spots labeled Sponsored.",
+   "next_auctions": [
+    {
+     "display_month": "2026-11",
+     "featured_spot_bidding": [
+      "2026-10-25",
+      "2026-10-29"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-10-30",
+      "2026-10-31"
+     ]
+    },
+    {
+     "display_month": "2026-12",
+     "featured_spot_bidding": [
+      "2026-11-24",
+      "2026-11-28"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-11-29",
+      "2026-11-30"
+     ]
+    }
+   ],
+   "source": "registry_auction",
+   "as_of": "2026-10-18"
+  },
+  "sources": {
+   "brightlocal_lcrs_2026": {
+    "name": "BrightLocal Local Consumer Review Survey 2026 (n=1,002 US adults)",
+    "url": "https://www.brightlocal.com/research/lcrs-ai-trust/",
+    "as_of": "2026"
+   },
+   "nectiv": {
+    "name": "Nectiv study of 8,500+ ChatGPT prompts",
+    "url": "https://nectivdigital.com/blog/new-data-study-what-queries-is-chatgpt-using-behind-the-scenes",
+    "as_of": "2025"
+   },
+   "r_agencycrate-com-industries-pet-care-and-grooming": {
+    "name": "Google Ads data Sep25-Aug26 (via research source)",
+    "url": "https://agencycrate.com/industries/pet-care-and-grooming/",
+    "as_of": "2026-08"
+   },
+   "registry": {
+    "name": "This registry's own listings (OpenStreetMap-seeded, ODbL)",
+    "url": "https://dingalinged-cpu.github.io/registry/api/companies.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_auction": {
+    "name": "Registry keyword auction catalog and rules",
+    "url": "https://dingalinged-cpu.github.io/registry/api/keyword-prices.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_estimate": {
+    "name": "Registry estimate (CC-BY-4.0); method given on each value",
+    "url": "https://dingalinged-cpu.github.io/registry/market/",
+    "as_of": "2026-10-18"
+   },
+   "sagapixel_sel": {
+    "name": "Sagapixel ChatGPT local-services sessions, via Search Engine Land",
+    "url": "https://searchengineland.com/chatgpt-users-keywords-for-local-services-data-467715",
+    "as_of": "2026-01"
+   },
+   "wordstream_2025": {
+    "name": "WordStream Google Ads Benchmarks 2025 (16,446 US campaigns, Apr 2024-Mar 2025; median CPC and CTR by industry)",
+    "url": "https://www.wordstream.com/blog/2025-google-ads-benchmarks",
+    "as_of": "2025-03"
+   },
+   "wordstream_2026": {
+    "name": "LocaliQ/WordStream Search Advertising Benchmarks 2026 (US median CPC by industry)",
+    "url": "https://www.localiq.com/blog/search-advertising-benchmarks",
+    "as_of": "2026"
+   }
+  },
+  "license": {
+   "registry_estimates": "CC-BY-4.0",
+   "url": "https://creativecommons.org/licenses/by/4.0/",
+   "cited_figures": "attribute to the publishers in sources"
+  },
+  "as_of": "2026-10-18",
+  "api": "https://dingalinged-cpu.github.io/registry/api/market/dog-boarding.json",
+  "rate_card": "https://dingalinged-cpu.github.io/registry/view/market.html#dog-boarding"
+ }
 }

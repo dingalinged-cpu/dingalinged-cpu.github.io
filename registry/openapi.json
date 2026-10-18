@@ -53,6 +53,61 @@
     }
    }
   },
+  "/api/market/{service}.json": {
+   "get": {
+    "operationId": "keywordMarket",
+    "summary": "Keyword market data for one service across all its city/state keywords: US monthly searches, local search estimates, CPC benchmarks, competition, registry competitors, agent demand, equivalent Google Ads cost, sponsored-spot starting bids and next auction dates. Every value has source + as_of; estimates labeled.",
+    "parameters": [
+     {
+      "name": "service",
+      "in": "path",
+      "required": true,
+      "schema": {
+       "type": "string"
+      },
+      "example": "plumber"
+     }
+    ],
+    "responses": {
+     "200": {
+      "description": "OK"
+     }
+    }
+   }
+  },
+  "/api/market/index.json": {
+   "get": {
+    "operationId": "keywordMarketIndex",
+    "summary": "All services with market summary, sources, methods, auction rules, city and category lists",
+    "responses": {
+     "200": {
+      "description": "OK"
+     }
+    }
+   }
+  },
+  "/api/market/city/{city}.json": {
+   "get": {
+    "operationId": "keywordMarketCity",
+    "summary": "Top keywords in a city by searches, CPC and value",
+    "parameters": [
+     {
+      "name": "city",
+      "in": "path",
+      "required": true,
+      "schema": {
+       "type": "string"
+      },
+      "example": "minneapolis-mn"
+     }
+    ],
+    "responses": {
+     "200": {
+      "description": "OK"
+     }
+    }
+   }
+  },
   "/api/terms.json": {
    "get": {
     "summary": "Keyword to company slugs",

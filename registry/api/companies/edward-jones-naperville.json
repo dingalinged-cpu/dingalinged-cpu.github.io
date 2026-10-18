@@ -1,0 +1,59 @@
+{
+ "slug": "edward-jones-naperville",
+ "name": "Edward Jones",
+ "categories": [
+  "financial advisor"
+ ],
+ "keywords": [
+  "financial advisor",
+  "financial advisor naperville il"
+ ],
+ "services": [
+  {
+   "name": "financial advisor",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "796 Royal Saint George Drive #105",
+  "addressLocality": "Naperville",
+  "addressRegion": "IL",
+  "postalCode": "60563",
+  "addressCountry": "US"
+ },
+ "city": "Naperville",
+ "state": "IL",
+ "zip": "60563",
+ "geo": {
+  "lat": 41.7844516,
+  "lon": -88.1635471
+ },
+ "phone": "+16303692051",
+ "website": "https://www.edwardjones.com/us-en/financial-advisor/josh-mcbroom",
+ "opening_hours": "Mo-Th 08:00-16:30; Fr 12:00-24:00; Sa, Su off",
+ "brand": "Edward Jones",
+ "wikidata": "Q5343830",
+ "schema_type": "FinancialService",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/9044512060",
+ "osm": {
+  "type": "node",
+  "id": 9044512060,
+  "tags_used": {
+   "office": "financial_advisor"
+  }
+ },
+ "municipality": "Naperville",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/edward-jones-naperville/",
+ "summary": "Edward Jones is a financial advisor in Naperville, IL at 796 Royal Saint George Drive #105, Naperville, IL 60563. Phone: +16303692051. Website: https://www.edwardjones.com/us-en/financial-advisor/josh-mcbroom.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

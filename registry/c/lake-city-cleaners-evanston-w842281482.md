@@ -1,0 +1,23 @@
+Lake City Cleaners is a dry cleaner in Evanston, IL at 600 Oakton Street, Evanston, IL 60202. Website: https://lakecitycleaners.com/.
+
+# Lake City Cleaners
+
+- Category: dry cleaners
+- Services: dry cleaners
+- Address: 600 Oakton Street, Evanston, IL 60202
+- City: Evanston
+- State: IL
+- ZIP: 60202
+- Coordinates: 42.0263004, -87.6787982
+- Phone: n/a
+- Website: https://lakecitycleaners.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 07:00-18:00; Su 09:00-14:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/lake-city-cleaners-evanston-w842281482/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/lake-city-cleaners-evanston-w842281482.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/842281482 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,0 +1,23 @@
+Element Multisport is a bike shop in Oak Park, IL at 1101 Chicago Avenue, Oak Park, IL 60302.
+
+# Element Multisport
+
+- Category: bike shop
+- Services: bike shop
+- Address: 1101 Chicago Avenue, Oak Park, IL 60302
+- City: Oak Park
+- State: IL
+- ZIP: 60302
+- Coordinates: 41.8940871, -87.8030338
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/element-multisport-oak-park/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/element-multisport-oak-park.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/2500269462 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

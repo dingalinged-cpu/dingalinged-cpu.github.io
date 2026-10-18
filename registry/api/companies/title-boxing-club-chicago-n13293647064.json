@@ -1,0 +1,59 @@
+{
+ "slug": "title-boxing-club-chicago-n13293647064",
+ "name": "TITLE Boxing Club",
+ "categories": [
+  "gym"
+ ],
+ "keywords": [
+  "gym",
+  "gym chicago il"
+ ],
+ "services": [
+  {
+   "name": "gym",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1136 South Delano Court #E203",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60605",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60605",
+ "geo": {
+  "lat": 41.867775,
+  "lon": -87.633225
+ },
+ "phone": "+13128775222",
+ "website": "https://titleboxingclub.com/chicago-south-loop-il/",
+ "brand": "TITLE Boxing Club",
+ "wikidata": "Q126391325",
+ "schema_type": "ExerciseGym",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/13293647064",
+ "osm": {
+  "type": "node",
+  "id": 13293647064,
+  "tags_used": {
+   "leisure": "fitness_centre",
+   "sport": "boxing"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/title-boxing-club-chicago-n13293647064/",
+ "summary": "TITLE Boxing Club is a gym in Chicago, IL at 1136 South Delano Court #E203, Chicago, IL 60605. Phone: +13128775222. Website: https://titleboxingclub.com/chicago-south-loop-il/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

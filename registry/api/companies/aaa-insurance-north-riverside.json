@@ -1,0 +1,68 @@
+{
+ "slug": "aaa-insurance-north-riverside",
+ "name": "AAA Insurance",
+ "categories": [
+  "insurance agent"
+ ],
+ "keywords": [
+  "insurance agent",
+  "insurance agency",
+  "insurance agents",
+  "insurance agent north riverside il",
+  "insurance agency north riverside il",
+  "insurance agents north riverside il"
+ ],
+ "services": [
+  {
+   "name": "insurance agent",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "insurance agency",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "insurance agents",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "2512 South Harlem Avenue",
+  "addressLocality": "North Riverside",
+  "addressRegion": "IL",
+  "postalCode": "60546",
+  "addressCountry": "US"
+ },
+ "city": "North Riverside",
+ "state": "IL",
+ "zip": "60546",
+ "geo": {
+  "lat": 41.845143,
+  "lon": -87.8039845
+ },
+ "brand": "American Automobile Association",
+ "wikidata": "Q463436",
+ "schema_type": "InsuranceAgency",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/11129084871",
+ "osm": {
+  "type": "node",
+  "id": 11129084871,
+  "tags_used": {
+   "office": "insurance"
+  }
+ },
+ "municipality": "North Riverside",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/aaa-insurance-north-riverside/",
+ "summary": "AAA Insurance is an insurance agent in North Riverside, IL at 2512 South Harlem Avenue, North Riverside, IL 60546.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

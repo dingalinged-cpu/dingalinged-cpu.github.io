@@ -1,0 +1,68 @@
+{
+ "slug": "kuvare-headquarters-rosemont",
+ "name": "Kuvare Headquarters",
+ "categories": [
+  "insurance agent"
+ ],
+ "keywords": [
+  "insurance agent",
+  "insurance agency",
+  "insurance agents",
+  "insurance agent rosemont il",
+  "insurance agency rosemont il",
+  "insurance agents rosemont il"
+ ],
+ "services": [
+  {
+   "name": "insurance agent",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "insurance agency",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "insurance agents",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "5600 North River Road #300",
+  "addressLocality": "Rosemont",
+  "addressRegion": "IL",
+  "postalCode": "60018",
+  "addressCountry": "US"
+ },
+ "city": "Rosemont",
+ "state": "IL",
+ "zip": "60018",
+ "geo": {
+  "lat": 41.9812427,
+  "lon": -87.8630002
+ },
+ "phone": "+18475276700",
+ "website": "https://kuvare.com/",
+ "schema_type": "InsuranceAgency",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/12780128401",
+ "osm": {
+  "type": "node",
+  "id": 12780128401,
+  "tags_used": {
+   "office": "insurance"
+  }
+ },
+ "municipality": "Rosemont",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/kuvare-headquarters-rosemont/",
+ "summary": "Kuvare Headquarters is an insurance agent in Rosemont, IL at 5600 North River Road #300, Rosemont, IL 60018. Phone: +18475276700. Website: https://kuvare.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

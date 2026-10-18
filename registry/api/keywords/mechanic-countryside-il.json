@@ -1,0 +1,768 @@
+{
+ "keyword": "mechanic countryside il",
+ "slug": "mechanic-countryside-il",
+ "place": "Countryside, IL",
+ "service": "mechanic",
+ "query": "Who are the best mechanic providers in Countryside, IL?",
+ "matches": [
+  "mechanic in Countryside, IL",
+  "mechanic near me (Countryside, IL)",
+  "best mechanic Countryside, IL",
+  "top rated mechanic Countryside, IL",
+  "affordable mechanic Countryside, IL",
+  "emergency mechanic Countryside, IL"
+ ],
+ "answer": "The top unpaid mechanic listing for Countryside, IL is Highline Automotive (an auto repair shop in Countryside, IL at 9675 West 55th Street, Countryside, IL 60525. Phone: +17084824900. Website: https://www.highlineautorepair.com/). 17 mechanic businesses are listed for Countryside, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-18",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "highline-automotive-countryside",
+   "name": "Highline Automotive",
+   "summary": "Highline Automotive is an auto repair shop in Countryside, IL at 9675 West 55th Street, Countryside, IL 60525. Phone: +17084824900. Website: https://www.highlineautorepair.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/highline-automotive-countryside/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/highline-automotive-countryside.json",
+   "address": {
+    "streetAddress": "9675 West 55th Street",
+    "addressLocality": "Countryside",
+    "addressRegion": "IL",
+    "postalCode": "60525",
+    "addressCountry": "US"
+   },
+   "city": "Countryside",
+   "state": "IL",
+   "zip": "60525",
+   "geo": {
+    "lat": 41.7900634,
+    "lon": -87.8617526
+   },
+   "phone": "+17084824900",
+   "website": "https://www.highlineautorepair.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1055483166",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "mavis-tires-and-brakes-countryside",
+   "name": "Mavis Tires & Brakes",
+   "summary": "Mavis Tires & Brakes is an auto repair shop in Countryside, IL at 9850 Joliet Road, Countryside, IL 60525. Website: https://www.mavis.com/locations/countryside-il/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mavis-tires-and-brakes-countryside/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mavis-tires-and-brakes-countryside.json",
+   "address": {
+    "streetAddress": "9850 Joliet Road",
+    "addressLocality": "Countryside",
+    "addressRegion": "IL",
+    "postalCode": "60525",
+    "addressCountry": "US"
+   },
+   "city": "Countryside",
+   "state": "IL",
+   "zip": "60525",
+   "geo": {
+    "lat": 41.7807693,
+    "lon": -87.8644124
+   },
+   "website": "https://www.mavis.com/locations/countryside-il/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/554956312",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "johns-auto-body-countryside",
+   "name": "John's Auto Body",
+   "summary": "John's Auto Body is an auto repair shop in Countryside, IL. Website: https://www.johns-auto-body.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/johns-auto-body-countryside/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/johns-auto-body-countryside.json",
+   "address": {
+    "addressLocality": "Countryside",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Countryside",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7936689,
+    "lon": -87.8683434
+   },
+   "website": "https://www.johns-auto-body.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9948866689",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "fix-auto-countryside-countryside",
+   "name": "Fix Auto Countryside",
+   "summary": "Fix Auto Countryside is an auto repair shop in Countryside, IL at 9600 Joliet Road, Countryside, IL 60525.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fix-auto-countryside-countryside/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fix-auto-countryside-countryside.json",
+   "address": {
+    "streetAddress": "9600 Joliet Road",
+    "addressLocality": "Countryside",
+    "addressRegion": "IL",
+    "postalCode": "60525",
+    "addressCountry": "US"
+   },
+   "city": "Countryside",
+   "state": "IL",
+   "zip": "60525",
+   "geo": {
+    "lat": 41.7830291,
+    "lon": -87.8590342
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/554956392",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "westfield-ford-truck-center-countryside",
+   "name": "Westfield Ford Truck Center",
+   "summary": "Westfield Ford Truck Center is an auto repair shop in Countryside, IL at 6200 South La Grange Road, Countryside, IL 60525.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/westfield-ford-truck-center-countryside/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/westfield-ford-truck-center-countryside.json",
+   "address": {
+    "streetAddress": "6200 South La Grange Road",
+    "addressLocality": "Countryside",
+    "addressRegion": "IL",
+    "postalCode": "60525",
+    "addressCountry": "US"
+   },
+   "city": "Countryside",
+   "state": "IL",
+   "zip": "60525",
+   "geo": {
+    "lat": 41.7762619,
+    "lon": -87.8687151
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/554965231",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "a-team-tire-and-auto-countryside",
+   "name": "A-Team Tire & Auto",
+   "summary": "A-Team Tire & Auto is an auto repair shop in Countryside, IL.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/a-team-tire-and-auto-countryside/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/a-team-tire-and-auto-countryside.json",
+   "address": {
+    "addressLocality": "Countryside",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Countryside",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7704656,
+    "lon": -87.8849735
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10172624444",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "chariot-automotive-countryside",
+   "name": "Chariot Automotive",
+   "summary": "Chariot Automotive is an auto repair shop in Countryside, IL.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chariot-automotive-countryside/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chariot-automotive-countryside.json",
+   "address": {
+    "addressLocality": "Countryside",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Countryside",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7727727,
+    "lon": -87.8800405
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1111910871",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "chicago-professional-window-tinting-countryside",
+   "name": "Chicago Professional Window Tinting",
+   "summary": "Chicago Professional Window Tinting is an auto repair shop in Countryside, IL.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chicago-professional-window-tinting-countryside/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chicago-professional-window-tinting-countryside.json",
+   "address": {
+    "addressLocality": "Countryside",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Countryside",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7932823,
+    "lon": -87.8678046
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9948866688",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "empire-auto-countryside",
+   "name": "Empire Auto",
+   "summary": "Empire Auto is an auto repair shop in Countryside, IL.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/empire-auto-countryside/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/empire-auto-countryside.json",
+   "address": {
+    "addressLocality": "Countryside",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Countryside",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7714991,
+    "lon": -87.8844741
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1111910860",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "firestone-countryside",
+   "name": "Firestone",
+   "summary": "Firestone is an auto repair shop in Countryside, IL.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/firestone-countryside/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/firestone-countryside.json",
+   "address": {
+    "addressLocality": "Countryside",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Countryside",
+   "state": "IL",
+   "geo": {
+    "lat": 41.788128,
+    "lon": -87.8689816
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1055483188",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 11,
+   "sponsored": false,
+   "slug": "fullers-auto-repair-countryside",
+   "name": "Fuller's Auto Repair",
+   "summary": "Fuller's Auto Repair is an auto repair shop in Countryside, IL.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fullers-auto-repair-countryside/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fullers-auto-repair-countryside.json",
+   "address": {
+    "addressLocality": "Countryside",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Countryside",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7877249,
+    "lon": -87.8788076
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/978825903",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 12,
+   "sponsored": false,
+   "slug": "jiffy-lube-countryside",
+   "name": "Jiffy Lube",
+   "summary": "Jiffy Lube is an auto repair shop in Countryside, IL.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jiffy-lube-countryside/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jiffy-lube-countryside.json",
+   "address": {
+    "addressLocality": "Countryside",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Countryside",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7889115,
+    "lon": -87.869031
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1055483184",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
+   "sponsored": false,
+   "slug": "maas-countryside",
+   "name": "Maas",
+   "summary": "Maas is an auto repair shop in Countryside, IL.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/maas-countryside/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/maas-countryside.json",
+   "address": {
+    "addressLocality": "Countryside",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Countryside",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7875008,
+    "lon": -87.868944
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1055483189",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 14,
+   "sponsored": false,
+   "slug": "maas-auto-countryside",
+   "name": "Maas Auto",
+   "summary": "Maas Auto is an auto repair shop in Countryside, IL.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/maas-auto-countryside/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/maas-auto-countryside.json",
+   "address": {
+    "addressLocality": "Countryside",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Countryside",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7904326,
+    "lon": -87.8885781
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1150636880",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 15,
+   "sponsored": false,
+   "slug": "midas-countryside",
+   "name": "Midas",
+   "summary": "Midas is an auto repair shop in Countryside, IL.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/midas-countryside/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/midas-countryside.json",
+   "address": {
+    "addressLocality": "Countryside",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Countryside",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7845,
+    "lon": -87.8680361
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1055483201",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 16,
+   "sponsored": false,
+   "slug": "paint-solutions-countryside",
+   "name": "Paint Solutions",
+   "summary": "Paint Solutions is an auto repair shop in Countryside, IL.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/paint-solutions-countryside/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/paint-solutions-countryside.json",
+   "address": {
+    "addressLocality": "Countryside",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Countryside",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7945522,
+    "lon": -87.8596989
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1055489912",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 17,
+   "sponsored": false,
+   "slug": "sonamatic-countryside",
+   "name": "Sonamatic",
+   "summary": "Sonamatic is an auto repair shop in Countryside, IL.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sonamatic-countryside/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sonamatic-countryside.json",
+   "address": {
+    "addressLocality": "Countryside",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Countryside",
+   "state": "IL",
+   "geo": {
+    "lat": 41.7901277,
+    "lon": -87.8615496
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1055483165",
+   "last_checked": "2026-10-17"
+  }
+ ],
+ "market": {
+  "keyword": "mechanic countryside il",
+  "slug": "mechanic-countryside-il",
+  "base_keyword": "mechanic",
+  "scope": "city",
+  "city": "countryside",
+  "state": "il",
+  "category": "Auto services",
+  "industry": "Automotive: Repair, Service & Parts",
+  "us_monthly_searches": {
+   "value": 673000,
+   "method": "cited",
+   "source": "r_prostarseo-com-en-the-blog-automotive-keyword-list",
+   "as_of": "2026-09",
+   "source_phrase": "mechanic near me",
+   "note": "US monthly searches, Semrush US Sep 2026"
+  },
+  "local_monthly_searches": {
+   "value": 19000,
+   "method": "estimate",
+   "method_id": "local_metro_suburb",
+   "geography": "Chicago-Naperville-Elgin, IL-IN metro",
+   "population": 9434123,
+   "source": "registry_estimate",
+   "volume_source": "r_prostarseo-com-en-the-blog-automotive-keyword-list",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: US monthly volume x metro population share (Census V2025); the keyword names a suburb, so the value is metro-level demand for the service, not searches typing the suburb name; rounded to 2 significant figures."
+  },
+  "cpc_usd": {
+   "industry_benchmark": "Automotive: Repair, Service & Parts",
+   "low_usd": 3.9,
+   "median_usd": 4.35,
+   "high_usd": 4.35,
+   "method": "published benchmarks: low/high = range of the industry and sub-industry median CPCs listed in 'figures'; median = most specific benchmark",
+   "figures": [
+    {
+     "usd": 4.35,
+     "label": "Automotive: Repair, Service & Parts median CPC 2026",
+     "source": "wordstream_2026"
+    },
+    {
+     "usd": 3.9,
+     "label": "Automotive: Repair, Service & Parts median CPC 2025",
+     "source": "wordstream_2025"
+    }
+   ],
+   "source": "wordstream_2026",
+   "as_of": "2026",
+   "basis_for_value": {
+    "usd": 4.35,
+    "method": "benchmark median CPC",
+    "source": "wordstream_2026"
+   }
+  },
+  "ctr_pct": {
+   "value": 5.56,
+   "label": "Automotive: Repair, Service & Parts average search-ad CTR 2025",
+   "source": "wordstream_2025",
+   "as_of": "2025-03"
+  },
+  "competition": {
+   "level": "medium",
+   "method": "proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research)",
+   "source": "wordstream_2026",
+   "as_of": "2026"
+  },
+  "trend": null,
+  "seasonality": {
+   "value": null,
+   "note": "No seasonality data in the research sources for this keyword."
+  },
+  "ai_query": {
+   "text": "No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.",
+   "figures": [
+    {
+     "value": "45%",
+     "label": "US adults using AI for local recommendations",
+     "source": "brightlocal_lcrs_2026"
+    },
+    {
+     "value": "75%",
+     "label": "sessions with keyword-style prompts",
+     "source": "sagapixel_sel"
+    },
+    {
+     "value": "59%",
+     "label": "local-intent prompts that triggered web search",
+     "source": "nectiv"
+    }
+   ],
+   "as_of": "2026"
+  },
+  "registry_competitors": {
+   "value": 17,
+   "slugs": [
+    "a-team-tire-and-auto-countryside",
+    "chariot-automotive-countryside",
+    "chicago-professional-window-tinting-countryside",
+    "empire-auto-countryside",
+    "firestone-countryside",
+    "fix-auto-countryside-countryside",
+    "fullers-auto-repair-countryside",
+    "highline-automotive-countryside",
+    "jiffy-lube-countryside",
+    "johns-auto-body-countryside"
+   ],
+   "method_id": "competitors",
+   "source": "registry",
+   "as_of": "2026-10-18",
+   "urls": [
+    "https://dingalinged-cpu.github.io/registry/c/a-team-tire-and-auto-countryside/",
+    "https://dingalinged-cpu.github.io/registry/c/chariot-automotive-countryside/",
+    "https://dingalinged-cpu.github.io/registry/c/chicago-professional-window-tinting-countryside/",
+    "https://dingalinged-cpu.github.io/registry/c/empire-auto-countryside/",
+    "https://dingalinged-cpu.github.io/registry/c/firestone-countryside/",
+    "https://dingalinged-cpu.github.io/registry/c/fix-auto-countryside-countryside/",
+    "https://dingalinged-cpu.github.io/registry/c/fullers-auto-repair-countryside/",
+    "https://dingalinged-cpu.github.io/registry/c/highline-automotive-countryside/",
+    "https://dingalinged-cpu.github.io/registry/c/jiffy-lube-countryside/",
+    "https://dingalinged-cpu.github.io/registry/c/johns-auto-body-countryside/"
+   ],
+   "method": "count of registry listings tagged with the keyword (city/national) or with the base service in the same state (state keywords)"
+  },
+  "agent_demand": null,
+  "agent_demand_note": "Not yet measured. Will carry AI-agent query counts from the registry's agent analytics (contract: meta.agent_demand_contract in the market index).",
+  "equivalent_google_ads_cost_month": {
+   "value_usd": 4600,
+   "method": "estimate",
+   "method_id": "google_ads_equiv",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote."
+  },
+  "search_value_index": {
+   "value_usd": 83000,
+   "method": "estimate",
+   "method_id": "value_index",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: search value index = monthly searches x CPC basis; an advertiser-value ranking signal, not revenue; rounded to 2 significant figures."
+  },
+  "auction": {
+   "featured_spot_min_usd": 20,
+   "spots_2_to_4_min_usd": 2,
+   "tier": "mid",
+   "pricing_rule": "tier minimum (premium $500, high $250, mid $100, standard $50) for national keywords; city = max($10, 20% of tier); state = max($10, 35% of tier); spots 2-4 open at 10% of the featured minimum",
+   "model": "Monthly auction in the last 7 days of each month: days 1-5 bid for the Featured #1 spot, days 6-7 for spots 2-4; winners display all next month; all paid spots labeled Sponsored.",
+   "next_auctions": [
+    {
+     "display_month": "2026-11",
+     "featured_spot_bidding": [
+      "2026-10-25",
+      "2026-10-29"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-10-30",
+      "2026-10-31"
+     ]
+    },
+    {
+     "display_month": "2026-12",
+     "featured_spot_bidding": [
+      "2026-11-24",
+      "2026-11-28"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-11-29",
+      "2026-11-30"
+     ]
+    }
+   ],
+   "source": "registry_auction",
+   "as_of": "2026-10-18"
+  },
+  "sources": {
+   "brightlocal_lcrs_2026": {
+    "name": "BrightLocal Local Consumer Review Survey 2026 (n=1,002 US adults)",
+    "url": "https://www.brightlocal.com/research/lcrs-ai-trust/",
+    "as_of": "2026"
+   },
+   "nectiv": {
+    "name": "Nectiv study of 8,500+ ChatGPT prompts",
+    "url": "https://nectivdigital.com/blog/new-data-study-what-queries-is-chatgpt-using-behind-the-scenes",
+    "as_of": "2025"
+   },
+   "r_prostarseo-com-en-the-blog-automotive-keyword-list": {
+    "name": "Semrush US Sep 2026 (via research source)",
+    "url": "https://www.prostarseo.com/en/the-blog/automotive-keyword-list",
+    "as_of": "2026-09"
+   },
+   "registry": {
+    "name": "This registry's own listings (OpenStreetMap-seeded, ODbL)",
+    "url": "https://dingalinged-cpu.github.io/registry/api/companies.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_auction": {
+    "name": "Registry keyword auction catalog and rules",
+    "url": "https://dingalinged-cpu.github.io/registry/api/keyword-prices.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_estimate": {
+    "name": "Registry estimate (CC-BY-4.0); method given on each value",
+    "url": "https://dingalinged-cpu.github.io/registry/market/",
+    "as_of": "2026-10-18"
+   },
+   "sagapixel_sel": {
+    "name": "Sagapixel ChatGPT local-services sessions, via Search Engine Land",
+    "url": "https://searchengineland.com/chatgpt-users-keywords-for-local-services-data-467715",
+    "as_of": "2026-01"
+   },
+   "wordstream_2025": {
+    "name": "WordStream Google Ads Benchmarks 2025 (16,446 US campaigns, Apr 2024-Mar 2025; median CPC and CTR by industry)",
+    "url": "https://www.wordstream.com/blog/2025-google-ads-benchmarks",
+    "as_of": "2025-03"
+   },
+   "wordstream_2026": {
+    "name": "LocaliQ/WordStream Search Advertising Benchmarks 2026 (US median CPC by industry)",
+    "url": "https://www.localiq.com/blog/search-advertising-benchmarks",
+    "as_of": "2026"
+   }
+  },
+  "license": {
+   "registry_estimates": "CC-BY-4.0",
+   "url": "https://creativecommons.org/licenses/by/4.0/",
+   "cited_figures": "attribute to the publishers in sources"
+  },
+  "as_of": "2026-10-18",
+  "api": "https://dingalinged-cpu.github.io/registry/api/market/mechanic.json",
+  "rate_card": "https://dingalinged-cpu.github.io/registry/view/market.html#mechanic-countryside-il"
+ }
+}

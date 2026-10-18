@@ -1,0 +1,56 @@
+{
+ "slug": "bp-westchester",
+ "name": "BP",
+ "categories": [
+  "car wash"
+ ],
+ "keywords": [
+  "car wash",
+  "car wash westchester il"
+ ],
+ "services": [
+  {
+   "name": "car wash",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "11201 West Cermak Road",
+  "addressLocality": "Westchester",
+  "addressRegion": "IL",
+  "postalCode": "60154",
+  "addressCountry": "US"
+ },
+ "city": "Westchester",
+ "state": "IL",
+ "zip": "60154",
+ "geo": {
+  "lat": 41.8474411,
+  "lon": -87.9018319
+ },
+ "brand": "BP",
+ "wikidata": "Q152057",
+ "schema_type": "AutoWash",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/1483654004",
+ "osm": {
+  "type": "way",
+  "id": 1483654004,
+  "tags_used": {
+   "amenity": "car_wash"
+  }
+ },
+ "municipality": "Westchester",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/bp-westchester/",
+ "summary": "BP is a car wash in Westchester, IL at 11201 West Cermak Road, Westchester, IL 60154.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

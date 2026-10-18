@@ -1,0 +1,66 @@
+{
+ "slug": "shield-insurance-agency-inc-mount-prospect",
+ "name": "Shield Insurance Agency, Inc",
+ "categories": [
+  "insurance agent"
+ ],
+ "keywords": [
+  "insurance agent",
+  "insurance agency",
+  "insurance agents",
+  "insurance agent mount prospect il",
+  "insurance agency mount prospect il",
+  "insurance agents mount prospect il"
+ ],
+ "services": [
+  {
+   "name": "insurance agent",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "insurance agency",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "insurance agents",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "832 East Rand Road #19",
+  "addressLocality": "Mount Prospect",
+  "addressRegion": "IL",
+  "postalCode": "60056",
+  "addressCountry": "US"
+ },
+ "city": "Mount Prospect",
+ "state": "IL",
+ "zip": "60056",
+ "geo": {
+  "lat": 42.0705698,
+  "lon": -87.9227514
+ },
+ "schema_type": "InsuranceAgency",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/5214690061",
+ "osm": {
+  "type": "node",
+  "id": 5214690061,
+  "tags_used": {
+   "office": "insurance"
+  }
+ },
+ "municipality": "Mount Prospect",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/shield-insurance-agency-inc-mount-prospect/",
+ "summary": "Shield Insurance Agency, Inc is an insurance agent in Mount Prospect, IL at 832 East Rand Road #19, Mount Prospect, IL 60056.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,604 @@
+{
+ "place": "Elmwood Park, IL",
+ "slug": "elmwood-park-il",
+ "count": 17,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "auto body shop elmwood park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-body-shop-elmwood-park-il.json"
+  },
+  {
+   "keyword": "auto repair elmwood park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-elmwood-park-il.json"
+  },
+  {
+   "keyword": "bakery elmwood park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/bakery-elmwood-park-il.json"
+  },
+  {
+   "keyword": "car wash elmwood park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-elmwood-park-il.json"
+  },
+  {
+   "keyword": "daycare elmwood park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/daycare-elmwood-park-il.json"
+  },
+  {
+   "keyword": "dermatologist elmwood park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dermatologist-elmwood-park-il.json"
+  },
+  {
+   "keyword": "gym elmwood park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-elmwood-park-il.json"
+  },
+  {
+   "keyword": "hair salon elmwood park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-elmwood-park-il.json"
+  },
+  {
+   "keyword": "haircut elmwood park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-elmwood-park-il.json"
+  },
+  {
+   "keyword": "liquor store elmwood park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/liquor-store-elmwood-park-il.json"
+  },
+  {
+   "keyword": "mechanic elmwood park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-elmwood-park-il.json"
+  },
+  {
+   "keyword": "nail salon elmwood park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/nail-salon-elmwood-park-il.json"
+  },
+  {
+   "keyword": "pet store elmwood park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/pet-store-elmwood-park-il.json"
+  },
+  {
+   "keyword": "printing services elmwood park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/printing-services-elmwood-park-il.json"
+  },
+  {
+   "keyword": "tax preparation elmwood park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tax-preparation-elmwood-park-il.json"
+  },
+  {
+   "keyword": "tax preparer elmwood park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tax-preparer-elmwood-park-il.json"
+  },
+  {
+   "keyword": "vet elmwood park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/vet-elmwood-park-il.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "binnys-beverage-depot-elmwood-park",
+   "name": "Binny's Beverage Depot",
+   "summary": "Binny's Beverage Depot is a liquor store in Elmwood Park, IL at 7330 North Avenue, Elmwood Park, IL 60707. Phone: +17084562112. Website: https://www.binnys.com/store-locator/elmwood-park/.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/binnys-beverage-depot-elmwood-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/binnys-beverage-depot-elmwood-park.json",
+   "address": {
+    "streetAddress": "7330 North Avenue",
+    "addressLocality": "Elmwood Park",
+    "addressRegion": "IL",
+    "postalCode": "60707",
+    "addressCountry": "US"
+   },
+   "city": "Elmwood Park",
+   "state": "IL",
+   "zip": "60707",
+   "geo": {
+    "lat": 41.9092585,
+    "lon": -87.8101462
+   },
+   "phone": "+17084562112",
+   "website": "https://www.binnys.com/store-locator/elmwood-park/",
+   "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/310750241",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "carolines-hair-design-elmwood-park",
+   "name": "Caroline's Hair Design",
+   "summary": "Caroline's Hair Design is a hair salon in Elmwood Park, IL at 12.5 Conti Parkway, Elmwood Park, IL 60707. Phone: +17084531967. Website: https://carolineshairdesign.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/carolines-hair-design-elmwood-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/carolines-hair-design-elmwood-park.json",
+   "address": {
+    "streetAddress": "12.5 Conti Parkway",
+    "addressLocality": "Elmwood Park",
+    "addressRegion": "IL",
+    "postalCode": "60707",
+    "addressCountry": "US"
+   },
+   "city": "Elmwood Park",
+   "state": "IL",
+   "zip": "60707",
+   "geo": {
+    "lat": 41.9269747,
+    "lon": -87.818715
+   },
+   "phone": "+17084531967",
+   "website": "https://carolineshairdesign.com/",
+   "opening_hours": "Mo-Fr 09:00-20:00; Sa 08:00-18:00; Su 10:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6267299611",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "arrow-body-and-fender-elmwood-park",
+   "name": "Arrow Body and Fender",
+   "summary": "Arrow Body and Fender is an auto repair shop in Elmwood Park, IL at 7536 West Grand Avenue, Elmwood Park, IL 60707. Phone: +17084569424.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/arrow-body-and-fender-elmwood-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/arrow-body-and-fender-elmwood-park.json",
+   "address": {
+    "streetAddress": "7536 West Grand Avenue",
+    "addressLocality": "Elmwood Park",
+    "addressRegion": "IL",
+    "postalCode": "60707",
+    "addressCountry": "US"
+   },
+   "city": "Elmwood Park",
+   "state": "IL",
+   "zip": "60707",
+   "geo": {
+    "lat": 41.9257346,
+    "lon": -87.815376
+   },
+   "phone": "+17084569424",
+   "opening_hours": "Mo-Fr 08:00-17:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/550917222",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "block-advisors-elmwood-park",
+   "name": "Block Advisors",
+   "summary": "Block Advisors is a tax preparation service in Elmwood Park, IL at 7234 North Avenue #105, Elmwood Park, IL 60707. Website: https://www.blockadvisors.com/tax-office-near-me/illinois/elmwood-park/12703/.",
+   "categories": [
+    "tax preparation"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/block-advisors-elmwood-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/block-advisors-elmwood-park.json",
+   "address": {
+    "streetAddress": "7234 North Avenue #105",
+    "addressLocality": "Elmwood Park",
+    "addressRegion": "IL",
+    "postalCode": "60707",
+    "addressCountry": "US"
+   },
+   "city": "Elmwood Park",
+   "state": "IL",
+   "zip": "60707",
+   "geo": {
+    "lat": 41.9090647,
+    "lon": -87.8075674
+   },
+   "website": "https://www.blockadvisors.com/tax-office-near-me/illinois/elmwood-park/12703/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3161816164",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "little-newtons-daycare-elmwood-park",
+   "name": "Little Newtons Daycare",
+   "summary": "Little Newtons Daycare is a daycare in Elmwood Park, IL at 1850 North Harlem Avenue, Elmwood Park, IL 60707. Website: https://littlenewtons.com/elmwood-park-il-childcare/.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/little-newtons-daycare-elmwood-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/little-newtons-daycare-elmwood-park.json",
+   "address": {
+    "streetAddress": "1850 North Harlem Avenue",
+    "addressLocality": "Elmwood Park",
+    "addressRegion": "IL",
+    "postalCode": "60707",
+    "addressCountry": "US"
+   },
+   "city": "Elmwood Park",
+   "state": "IL",
+   "zip": "60707",
+   "geo": {
+    "lat": 41.9136637,
+    "lon": -87.8063737
+   },
+   "website": "https://littlenewtons.com/elmwood-park-il-childcare/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12884591151",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "park-animal-hospital-elmwood-park",
+   "name": "Park Animal Hospital",
+   "summary": "Park Animal Hospital is a veterinarian in Elmwood Park, IL at 2540 North Harlem Avenue, Elmwood Park, IL 60707. Website: https://www.parksanimalhospital.com/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/park-animal-hospital-elmwood-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/park-animal-hospital-elmwood-park.json",
+   "address": {
+    "streetAddress": "2540 North Harlem Avenue",
+    "addressLocality": "Elmwood Park",
+    "addressRegion": "IL",
+    "postalCode": "60707",
+    "addressCountry": "US"
+   },
+   "city": "Elmwood Park",
+   "state": "IL",
+   "zip": "60707",
+   "geo": {
+    "lat": 41.9269266,
+    "lon": -87.8065148
+   },
+   "website": "https://www.parksanimalhospital.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12884637185",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "scalp-and-skin-solutions-elmwood-park",
+   "name": "Scalp and Skin Solutions",
+   "summary": "Scalp and Skin Solutions is a dermatologist in Elmwood Park, IL at 7430 West Grand Avenue, Elmwood Park, IL 60707.",
+   "categories": [
+    "dermatologist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/scalp-and-skin-solutions-elmwood-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/scalp-and-skin-solutions-elmwood-park.json",
+   "address": {
+    "streetAddress": "7430 West Grand Avenue",
+    "addressLocality": "Elmwood Park",
+    "addressRegion": "IL",
+    "postalCode": "60707",
+    "addressCountry": "US"
+   },
+   "city": "Elmwood Park",
+   "state": "IL",
+   "zip": "60707",
+   "geo": {
+    "lat": 41.9252022,
+    "lon": -87.8127305
+   },
+   "opening_hours": "We 16:00-20:00; Th-Fr 15:00-20:00; Su 13:00-21:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13300265064",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "bp-elmwood-park",
+   "name": "BP",
+   "summary": "BP is a car wash in Elmwood Park, IL at 1800 North Harlem Avenue, Elmwood Park, IL 60707.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bp-elmwood-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bp-elmwood-park.json",
+   "address": {
+    "streetAddress": "1800 North Harlem Avenue",
+    "addressLocality": "Elmwood Park",
+    "addressRegion": "IL",
+    "postalCode": "60707",
+    "addressCountry": "US"
+   },
+   "city": "Elmwood Park",
+   "state": "IL",
+   "zip": "60707",
+   "geo": {
+    "lat": 41.913092,
+    "lon": -87.8064427
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12068933687",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "cardinal-wine-and-spirits-elmwood-park",
+   "name": "Cardinal Wine & Spirits",
+   "summary": "Cardinal Wine & Spirits is a liquor store in Elmwood Park, IL at 7211 West Grand Avenue, Elmwood Park, IL 60707.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cardinal-wine-and-spirits-elmwood-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cardinal-wine-and-spirits-elmwood-park.json",
+   "address": {
+    "streetAddress": "7211 West Grand Avenue",
+    "addressLocality": "Elmwood Park",
+    "addressRegion": "IL",
+    "postalCode": "60707",
+    "addressCountry": "US"
+   },
+   "city": "Elmwood Park",
+   "state": "IL",
+   "zip": "60707",
+   "geo": {
+    "lat": 41.9238999,
+    "lon": -87.8069861
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/562903727",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "diva-magical-nails-elmwood-park",
+   "name": "Diva Magical Nails",
+   "summary": "Diva Magical Nails is a nail salon in Elmwood Park, IL at 2524 North Harlem Avenue, Elmwood Park, IL 60707.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/diva-magical-nails-elmwood-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/diva-magical-nails-elmwood-park.json",
+   "address": {
+    "streetAddress": "2524 North Harlem Avenue",
+    "addressLocality": "Elmwood Park",
+    "addressRegion": "IL",
+    "postalCode": "60707",
+    "addressCountry": "US"
+   },
+   "city": "Elmwood Park",
+   "state": "IL",
+   "zip": "60707",
+   "geo": {
+    "lat": 41.9263524,
+    "lon": -87.8065274
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8914311536",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "early-childhood-center-elmwood-park",
+   "name": "Early Childhood Center",
+   "summary": "Early Childhood Center is a daycare in Elmwood Park, IL at 4 Conti Parkway, Elmwood Park, IL 60707.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/early-childhood-center-elmwood-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/early-childhood-center-elmwood-park.json",
+   "address": {
+    "streetAddress": "4 Conti Parkway",
+    "addressLocality": "Elmwood Park",
+    "addressRegion": "IL",
+    "postalCode": "60707",
+    "addressCountry": "US"
+   },
+   "city": "Elmwood Park",
+   "state": "IL",
+   "zip": "60707",
+   "geo": {
+    "lat": 41.9273729,
+    "lon": -87.8178272
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/424248302",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "fedex-office-elmwood-park",
+   "name": "FedEx Office",
+   "summary": "FedEx Office is a printing service in Elmwood Park, IL at 1720 North Harlem Avenue, Elmwood Park, IL 60707.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fedex-office-elmwood-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fedex-office-elmwood-park.json",
+   "address": {
+    "streetAddress": "1720 North Harlem Avenue",
+    "addressLocality": "Elmwood Park",
+    "addressRegion": "IL",
+    "postalCode": "60707",
+    "addressCountry": "US"
+   },
+   "city": "Elmwood Park",
+   "state": "IL",
+   "zip": "60707",
+   "geo": {
+    "lat": 41.9112211,
+    "lon": -87.8063133
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7505548604",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "pet-supplies-plus-elmwood-park",
+   "name": "Pet Supplies Plus",
+   "summary": "Pet Supplies Plus is a pet store in Elmwood Park, IL at 1748 North Harlem Avenue, Elmwood Park, IL 60707.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-elmwood-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pet-supplies-plus-elmwood-park.json",
+   "address": {
+    "streetAddress": "1748 North Harlem Avenue",
+    "addressLocality": "Elmwood Park",
+    "addressRegion": "IL",
+    "postalCode": "60707",
+    "addressCountry": "US"
+   },
+   "city": "Elmwood Park",
+   "state": "IL",
+   "zip": "60707",
+   "geo": {
+    "lat": 41.9118706,
+    "lon": -87.8063641
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/683025011",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "planet-fitness-elmwood-park",
+   "name": "Planet Fitness",
+   "summary": "Planet Fitness is a gym in Elmwood Park, IL at 2560 North Harlem Avenue, Elmwood Park, IL 60707.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/planet-fitness-elmwood-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/planet-fitness-elmwood-park.json",
+   "address": {
+    "streetAddress": "2560 North Harlem Avenue",
+    "addressLocality": "Elmwood Park",
+    "addressRegion": "IL",
+    "postalCode": "60707",
+    "addressCountry": "US"
+   },
+   "city": "Elmwood Park",
+   "state": "IL",
+   "zip": "60707",
+   "geo": {
+    "lat": 41.9273803,
+    "lon": -87.8067257
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/889095284",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "supercuts-elmwood-park",
+   "name": "Supercuts",
+   "summary": "Supercuts is a hair salon in Elmwood Park, IL at 106A North 72nd Court, Elmwood Park, IL 60707.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/supercuts-elmwood-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/supercuts-elmwood-park.json",
+   "address": {
+    "streetAddress": "106A North 72nd Court",
+    "addressLocality": "Elmwood Park",
+    "addressRegion": "IL",
+    "postalCode": "60707",
+    "addressCountry": "US"
+   },
+   "city": "Elmwood Park",
+   "state": "IL",
+   "zip": "60707",
+   "geo": {
+    "lat": 41.9093842,
+    "lon": -87.8074066
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7143783105",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "the-great-american-bagel-elmwood-park",
+   "name": "The Great American Bagel",
+   "summary": "The Great American Bagel is a bakery in Elmwood Park, IL at 200 North 72nd Court, Elmwood Park, IL 60707.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-great-american-bagel-elmwood-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-great-american-bagel-elmwood-park.json",
+   "address": {
+    "streetAddress": "200 North 72nd Court",
+    "addressLocality": "Elmwood Park",
+    "addressRegion": "IL",
+    "postalCode": "60707",
+    "addressCountry": "US"
+   },
+   "city": "Elmwood Park",
+   "state": "IL",
+   "zip": "60707",
+   "geo": {
+    "lat": 41.9097414,
+    "lon": -87.8074359
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7143783108",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "zachs-car-wash-elmwood-park",
+   "name": "Zach's Car Wash",
+   "summary": "Zach's Car Wash is a car wash in Elmwood Park, IL at 7525 West Grand Avenue, Elmwood Park, IL 60707.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/zachs-car-wash-elmwood-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/zachs-car-wash-elmwood-park.json",
+   "address": {
+    "streetAddress": "7525 West Grand Avenue",
+    "addressLocality": "Elmwood Park",
+    "addressRegion": "IL",
+    "postalCode": "60707",
+    "addressCountry": "US"
+   },
+   "city": "Elmwood Park",
+   "state": "IL",
+   "zip": "60707",
+   "geo": {
+    "lat": 41.9251342,
+    "lon": -87.8150361
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1344684529",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

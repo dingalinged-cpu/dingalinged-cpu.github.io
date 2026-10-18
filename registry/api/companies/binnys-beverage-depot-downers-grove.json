@@ -1,0 +1,60 @@
+{
+ "slug": "binnys-beverage-depot-downers-grove",
+ "name": "Binny's Beverage Depot",
+ "categories": [
+  "liquor store"
+ ],
+ "keywords": [
+  "liquor store",
+  "liquor store downers grove il"
+ ],
+ "services": [
+  {
+   "name": "liquor store",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "2020 Butterfield Road",
+  "addressLocality": "Downers Grove",
+  "addressRegion": "IL",
+  "postalCode": "60515",
+  "addressCountry": "US"
+ },
+ "city": "Downers Grove",
+ "state": "IL",
+ "zip": "60515",
+ "geo": {
+  "lat": 41.833303,
+  "lon": -88.0332009
+ },
+ "phone": "+16307059463",
+ "website": "https://www.binnys.com/store-locator/downers-grove/",
+ "email": "downersgrove@binnys.com",
+ "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-18:00",
+ "brand": "Binny's Beverage Depot",
+ "wikidata": "Q30687714",
+ "schema_type": "LiquorStore",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/220685554",
+ "osm": {
+  "type": "way",
+  "id": 220685554,
+  "tags_used": {
+   "shop": "alcohol"
+  }
+ },
+ "municipality": "Downers Grove",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/binnys-beverage-depot-downers-grove/",
+ "summary": "Binny's Beverage Depot is a liquor store in Downers Grove, IL at 2020 Butterfield Road, Downers Grove, IL 60515. Phone: +16307059463. Website: https://www.binnys.com/store-locator/downers-grove/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,59 @@
+{
+ "slug": "petsmart-mokena",
+ "name": "PetSmart",
+ "categories": [
+  "pet store"
+ ],
+ "keywords": [
+  "pet store",
+  "pet store mokena il"
+ ],
+ "services": [
+  {
+   "name": "pet store",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "21430 Wolf Road",
+  "addressLocality": "Mokena",
+  "addressRegion": "IL",
+  "postalCode": "60448",
+  "addressCountry": "US"
+ },
+ "city": "Mokena",
+ "state": "IL",
+ "zip": "60448",
+ "geo": {
+  "lat": 41.5015475,
+  "lon": -87.8890066
+ },
+ "phone": "+18154644979",
+ "website": "https://www.petsmart.com/stores/us/il/mokena-store1656.html",
+ "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+ "brand": "PetSmart",
+ "wikidata": "Q3307147",
+ "schema_type": "PetStore",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/409578173",
+ "osm": {
+  "type": "way",
+  "id": 409578173,
+  "tags_used": {
+   "shop": "pet"
+  }
+ },
+ "municipality": "Mokena",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/petsmart-mokena/",
+ "summary": "PetSmart is a pet store in Mokena, IL at 21430 Wolf Road, Mokena, IL 60448. Phone: +18154644979. Website: https://www.petsmart.com/stores/us/il/mokena-store1656.html.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,23 @@
+Kriser's Natural Pet is a pet store in Chicago, IL.
+
+# Kriser's Natural Pet
+
+- Category: pet store
+- Services: pet store
+- Address: Chicago, IL
+- City: Chicago
+- State: IL
+- ZIP: n/a
+- Coordinates: 41.9189995, -87.6601352
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/krisers-natural-pet-chicago-n12434602345/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/krisers-natural-pet-chicago-n12434602345.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12434602345 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

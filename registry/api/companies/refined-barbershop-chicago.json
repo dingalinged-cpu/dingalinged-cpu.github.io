@@ -1,0 +1,60 @@
+{
+ "slug": "refined-barbershop-chicago",
+ "name": "Refined Barbershop",
+ "categories": [
+  "barber shop"
+ ],
+ "keywords": [
+  "barber shop",
+  "haircut",
+  "barber shop chicago il",
+  "haircut chicago il"
+ ],
+ "services": [
+  {
+   "name": "barber shop",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "haircut",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "328 South Jefferson Street",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "geo": {
+  "lat": 41.8770201,
+  "lon": -87.6426988
+ },
+ "website": "https://refinedbarber.co/",
+ "schema_type": "HairSalon",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/12288288800",
+ "osm": {
+  "type": "node",
+  "id": 12288288800,
+  "tags_used": {
+   "shop": "hairdresser",
+   "hairdresser": "barber"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/refined-barbershop-chicago/",
+ "summary": "Refined Barbershop is a barber shop in Chicago, IL at 328 South Jefferson Street, Chicago, IL. Website: https://refinedbarber.co/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

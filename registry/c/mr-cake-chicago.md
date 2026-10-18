@@ -1,0 +1,23 @@
+Mr Cake is a bakery in Chicago, IL at 4608 West Diversey Avenue, Chicago, IL 60639. Phone: +17732028497.
+
+# Mr Cake
+
+- Category: bakery
+- Services: bakery
+- Address: 4608 West Diversey Avenue, Chicago, IL 60639
+- City: Chicago
+- State: IL
+- ZIP: 60639
+- Coordinates: 41.9322115, -87.7423442
+- Phone: +17732028497
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/mr-cake-chicago/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/mr-cake-chicago.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6322999290 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

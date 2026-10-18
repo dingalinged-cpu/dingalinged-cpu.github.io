@@ -1,0 +1,54 @@
+{
+ "slug": "meadowbrook-manor-la-grange",
+ "name": "Meadowbrook Manor",
+ "categories": [
+  "assisted living"
+ ],
+ "keywords": [
+  "assisted living",
+  "assisted living la grange il"
+ ],
+ "services": [
+  {
+   "name": "assisted living",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "339 South 9th Avenue",
+  "addressLocality": "La Grange",
+  "addressRegion": "IL",
+  "postalCode": "60525",
+  "addressCountry": "US"
+ },
+ "city": "La Grange",
+ "state": "IL",
+ "zip": "60525",
+ "geo": {
+  "lat": 41.8075071,
+  "lon": -87.8631069
+ },
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/407730545",
+ "osm": {
+  "type": "way",
+  "id": 407730545,
+  "tags_used": {
+   "amenity": "social_facility"
+  }
+ },
+ "municipality": "La Grange",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/meadowbrook-manor-la-grange/",
+ "summary": "Meadowbrook Manor is an assisted living facility in La Grange, IL at 339 South 9th Avenue, La Grange, IL 60525.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

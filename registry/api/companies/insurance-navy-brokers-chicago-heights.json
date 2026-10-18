@@ -1,0 +1,71 @@
+{
+ "slug": "insurance-navy-brokers-chicago-heights",
+ "name": "Insurance Navy Brokers",
+ "categories": [
+  "insurance agent"
+ ],
+ "keywords": [
+  "insurance agent",
+  "insurance agency",
+  "insurance agents",
+  "insurance agent chicago heights il",
+  "insurance agency chicago heights il",
+  "insurance agents chicago heights il"
+ ],
+ "services": [
+  {
+   "name": "insurance agent",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "insurance agency",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "insurance agents",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "165 West Joe Orr Road",
+  "addressLocality": "Chicago Heights",
+  "addressRegion": "IL",
+  "postalCode": "60411",
+  "addressCountry": "US"
+ },
+ "city": "Chicago Heights",
+ "state": "IL",
+ "zip": "60411",
+ "geo": {
+  "lat": 41.521418,
+  "lon": -87.6477159
+ },
+ "phone": "+17087555100",
+ "website": "https://www.insurancenavy.com/locations/il/chicago-heights/",
+ "opening_hours": "Mo-Sa 10:00-18:00",
+ "brand": "Insurance Navy Brokers",
+ "wikidata": "Q106564453",
+ "schema_type": "InsuranceAgency",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/8595408082",
+ "osm": {
+  "type": "node",
+  "id": 8595408082,
+  "tags_used": {
+   "office": "insurance"
+  }
+ },
+ "municipality": "Chicago Heights",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/insurance-navy-brokers-chicago-heights/",
+ "summary": "Insurance Navy Brokers is an insurance agent in Chicago Heights, IL at 165 West Joe Orr Road, Chicago Heights, IL 60411. Phone: +17087555100. Website: https://www.insurancenavy.com/locations/il/chicago-heights/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

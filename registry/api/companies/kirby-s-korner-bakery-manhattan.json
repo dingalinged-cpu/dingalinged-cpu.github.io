@@ -1,0 +1,55 @@
+{
+ "slug": "kirby-s-korner-bakery-manhattan",
+ "name": "Kirby’s Korner Bakery",
+ "categories": [
+  "bakery"
+ ],
+ "keywords": [
+  "bakery",
+  "bakery manhattan il"
+ ],
+ "services": [
+  {
+   "name": "bakery",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "165 South State Street",
+  "addressLocality": "Manhattan",
+  "addressRegion": "IL",
+  "postalCode": "60442",
+  "addressCountry": "US"
+ },
+ "city": "Manhattan",
+ "state": "IL",
+ "zip": "60442",
+ "geo": {
+  "lat": 41.4239439,
+  "lon": -87.9874698
+ },
+ "phone": "+18154783200",
+ "schema_type": "Bakery",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/7242800100",
+ "osm": {
+  "type": "node",
+  "id": 7242800100,
+  "tags_used": {
+   "shop": "bakery"
+  }
+ },
+ "municipality": "Manhattan",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/kirby-s-korner-bakery-manhattan/",
+ "summary": "Kirby’s Korner Bakery is a bakery in Manhattan, IL at 165 South State Street, Manhattan, IL 60442. Phone: +18154783200.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

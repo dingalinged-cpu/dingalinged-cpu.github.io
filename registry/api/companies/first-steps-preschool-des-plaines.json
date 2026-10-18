@@ -1,0 +1,56 @@
+{
+ "slug": "first-steps-preschool-des-plaines",
+ "name": "First Steps Preschool",
+ "categories": [
+  "preschool"
+ ],
+ "keywords": [
+  "preschool",
+  "preschool maine township il",
+  "preschool des plaines il"
+ ],
+ "services": [
+  {
+   "name": "preschool",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "10000 North Dee Road",
+  "addressLocality": "Des Plaines",
+  "addressRegion": "IL",
+  "postalCode": "60016",
+  "addressCountry": "US"
+ },
+ "city": "Des Plaines",
+ "state": "IL",
+ "zip": "60016",
+ "geo": {
+  "lat": 42.0621251,
+  "lon": -87.8576911
+ },
+ "website": "https://emsd63.org/firststeps",
+ "schema_type": "Preschool",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/1534663990",
+ "osm": {
+  "type": "way",
+  "id": 1534663990,
+  "tags_used": {
+   "amenity": "kindergarten"
+  }
+ },
+ "municipality": "Maine Township",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/first-steps-preschool-des-plaines/",
+ "summary": "First Steps Preschool is a preschool in Des Plaines, IL at 10000 North Dee Road, Des Plaines, IL 60016. Website: https://emsd63.org/firststeps.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

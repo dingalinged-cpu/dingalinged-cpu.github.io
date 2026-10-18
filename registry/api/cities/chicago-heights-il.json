@@ -1,0 +1,744 @@
+{
+ "place": "Chicago Heights, IL",
+ "slug": "chicago-heights-il",
+ "count": 21,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "auto body shop chicago heights il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-body-shop-chicago-heights-il.json"
+  },
+  {
+   "keyword": "auto repair chicago heights il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-chicago-heights-il.json"
+  },
+  {
+   "keyword": "bakery chicago heights il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/bakery-chicago-heights-il.json"
+  },
+  {
+   "keyword": "car wash chicago heights il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-chicago-heights-il.json"
+  },
+  {
+   "keyword": "dentist chicago heights il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-chicago-heights-il.json"
+  },
+  {
+   "keyword": "dry cleaners chicago heights il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dry-cleaners-chicago-heights-il.json"
+  },
+  {
+   "keyword": "furniture store chicago heights il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/furniture-store-chicago-heights-il.json"
+  },
+  {
+   "keyword": "gym chicago heights il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-chicago-heights-il.json"
+  },
+  {
+   "keyword": "insurance agency chicago heights il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-chicago-heights-il.json"
+  },
+  {
+   "keyword": "insurance agent chicago heights il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-chicago-heights-il.json"
+  },
+  {
+   "keyword": "insurance agents chicago heights il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-chicago-heights-il.json"
+  },
+  {
+   "keyword": "mechanic chicago heights il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-chicago-heights-il.json"
+  },
+  {
+   "keyword": "preschool chicago heights il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/preschool-chicago-heights-il.json"
+  },
+  {
+   "keyword": "printing services chicago heights il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/printing-services-chicago-heights-il.json"
+  },
+  {
+   "keyword": "property management companies chicago heights il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/property-management-companies-chicago-heights-il.json"
+  },
+  {
+   "keyword": "property management company chicago heights il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/property-management-company-chicago-heights-il.json"
+  },
+  {
+   "keyword": "storage units chicago heights il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/storage-units-chicago-heights-il.json"
+  },
+  {
+   "keyword": "tax preparation chicago heights il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tax-preparation-chicago-heights-il.json"
+  },
+  {
+   "keyword": "tax preparer chicago heights il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tax-preparer-chicago-heights-il.json"
+  },
+  {
+   "keyword": "therapist chicago heights il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/therapist-chicago-heights-il.json"
+  },
+  {
+   "keyword": "thrift store chicago heights il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/thrift-store-chicago-heights-il.json"
+  },
+  {
+   "keyword": "transmission repair chicago heights il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/transmission-repair-chicago-heights-il.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "insurance-navy-brokers-chicago-heights",
+   "name": "Insurance Navy Brokers",
+   "summary": "Insurance Navy Brokers is an insurance agent in Chicago Heights, IL at 165 West Joe Orr Road, Chicago Heights, IL 60411. Phone: +17087555100. Website: https://www.insurancenavy.com/locations/il/chicago-heights/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/insurance-navy-brokers-chicago-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/insurance-navy-brokers-chicago-heights.json",
+   "address": {
+    "streetAddress": "165 West Joe Orr Road",
+    "addressLocality": "Chicago Heights",
+    "addressRegion": "IL",
+    "postalCode": "60411",
+    "addressCountry": "US"
+   },
+   "city": "Chicago Heights",
+   "state": "IL",
+   "zip": "60411",
+   "geo": {
+    "lat": 41.521418,
+    "lon": -87.6477159
+   },
+   "phone": "+17087555100",
+   "website": "https://www.insurancenavy.com/locations/il/chicago-heights/",
+   "opening_hours": "Mo-Sa 10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8595408082",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "sonrisa-family-dental-chicago-heights",
+   "name": "Sonrisa Family Dental",
+   "summary": "Sonrisa Family Dental is a dentist in Chicago Heights, IL at 1415 Emerald Avenue, Chicago Heights, IL 60411. Phone: +17087567384. Website: https://sonrisafamilydental.com/locations/chicago-heights/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sonrisa-family-dental-chicago-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sonrisa-family-dental-chicago-heights.json",
+   "address": {
+    "streetAddress": "1415 Emerald Avenue",
+    "addressLocality": "Chicago Heights",
+    "addressRegion": "IL",
+    "postalCode": "60411",
+    "addressCountry": "US"
+   },
+   "city": "Chicago Heights",
+   "state": "IL",
+   "zip": "60411",
+   "geo": {
+    "lat": 41.5055827,
+    "lon": -87.6346037
+   },
+   "phone": "+17087567384",
+   "website": "https://sonrisafamilydental.com/locations/chicago-heights/",
+   "opening_hours": "Mo-Fr 09:00-17:00; Sa 08:00-13:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12973680460",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "aamco-chicago-heights",
+   "name": "AAMCO",
+   "summary": "AAMCO is an auto repair shop in Chicago Heights, IL at 1333 Hilltop Avenue #CD, Chicago Heights, IL 60411. Website: https://www.aamco.com/Auto-Repair-Center/IL/Chicago-Heights/Hilltop-Ave.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/aamco-chicago-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/aamco-chicago-heights.json",
+   "address": {
+    "streetAddress": "1333 Hilltop Avenue #CD",
+    "addressLocality": "Chicago Heights",
+    "addressRegion": "IL",
+    "postalCode": "60411",
+    "addressCountry": "US"
+   },
+   "city": "Chicago Heights",
+   "state": "IL",
+   "zip": "60411",
+   "geo": {
+    "lat": 41.5071971,
+    "lon": -87.6687108
+   },
+   "website": "https://www.aamco.com/Auto-Repair-Center/IL/Chicago-Heights/Hilltop-Ave",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11438413694",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "cd-one-price-cleaners-chicago-heights",
+   "name": "CD One Price Cleaners",
+   "summary": "CD One Price Cleaners is a dry cleaner in Chicago Heights, IL at 567 West Lincoln Highway, Chicago Heights, IL 60411. Website: https://cdonepricecleaners.com/locations/illinois/dry-cleaning-in-chicago-heights/.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cd-one-price-cleaners-chicago-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cd-one-price-cleaners-chicago-heights.json",
+   "address": {
+    "streetAddress": "567 West Lincoln Highway",
+    "addressLocality": "Chicago Heights",
+    "addressRegion": "IL",
+    "postalCode": "60411",
+    "addressCountry": "US"
+   },
+   "city": "Chicago Heights",
+   "state": "IL",
+   "zip": "60411",
+   "geo": {
+    "lat": 41.5065828,
+    "lon": -87.6690335
+   },
+   "website": "https://cdonepricecleaners.com/locations/illinois/dry-cleaning-in-chicago-heights/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11438413691",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "franciscan-health-fitness-center-chicago-heights",
+   "name": "Franciscan Health Fitness Center",
+   "summary": "Franciscan Health Fitness Center is a gym in Chicago Heights, IL at 100 197th Place, Chicago Heights, IL 60411. Website: https://www.franciscanhealthfitnesscenters.org/.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/franciscan-health-fitness-center-chicago-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/franciscan-health-fitness-center-chicago-heights.json",
+   "address": {
+    "streetAddress": "100 197th Place",
+    "addressLocality": "Chicago Heights",
+    "addressRegion": "IL",
+    "postalCode": "60411",
+    "addressCountry": "US"
+   },
+   "city": "Chicago Heights",
+   "state": "IL",
+   "zip": "60411",
+   "geo": {
+    "lat": 41.5298951,
+    "lon": -87.6384921
+   },
+   "website": "https://www.franciscanhealthfitnesscenters.org/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1165998738",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "rent-a-center-chicago-heights",
+   "name": "Rent-A-Center",
+   "summary": "Rent-A-Center is a furniture store in Chicago Heights, IL at 97 West Joe Orr Road, Chicago Heights, IL 60411. Website: https://locations.rentacenter.com/illinois/chicago-heights/97-w-joe-orr-rd/.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rent-a-center-chicago-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rent-a-center-chicago-heights.json",
+   "address": {
+    "streetAddress": "97 West Joe Orr Road",
+    "addressLocality": "Chicago Heights",
+    "addressRegion": "IL",
+    "postalCode": "60411",
+    "addressCountry": "US"
+   },
+   "city": "Chicago Heights",
+   "state": "IL",
+   "zip": "60411",
+   "geo": {
+    "lat": 41.5215391,
+    "lon": -87.6464321
+   },
+   "website": "https://locations.rentacenter.com/illinois/chicago-heights/97-w-joe-orr-rd/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7484417999",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "valvoline-chicago-heights",
+   "name": "Valvoline",
+   "summary": "Valvoline is an auto repair shop in Chicago Heights, IL at 311 West Lincoln Highway, Chicago Heights, IL 60411. Website: https://store.vioc.com/il/chicagoheights/oil-change-hb0002.html.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/valvoline-chicago-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/valvoline-chicago-heights.json",
+   "address": {
+    "streetAddress": "311 West Lincoln Highway",
+    "addressLocality": "Chicago Heights",
+    "addressRegion": "IL",
+    "postalCode": "60411",
+    "addressCountry": "US"
+   },
+   "city": "Chicago Heights",
+   "state": "IL",
+   "zip": "60411",
+   "geo": {
+    "lat": 41.5062916,
+    "lon": -87.6540114
+   },
+   "website": "https://store.vioc.com/il/chicagoheights/oil-change-hb0002.html",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1331681995",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "village-discount-outlet-chicago-heights",
+   "name": "Village Discount Outlet",
+   "summary": "Village Discount Outlet is a thrift store in Chicago Heights, IL at 2515 Chicago Road, Chicago Heights, IL 60411. Website: https://www.villagediscountoutlet.com/locations/chicago-heights-ilinois/.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/village-discount-outlet-chicago-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/village-discount-outlet-chicago-heights.json",
+   "address": {
+    "streetAddress": "2515 Chicago Road",
+    "addressLocality": "Chicago Heights",
+    "addressRegion": "IL",
+    "postalCode": "60411",
+    "addressCountry": "US"
+   },
+   "city": "Chicago Heights",
+   "state": "IL",
+   "zip": "60411",
+   "geo": {
+    "lat": 41.4921035,
+    "lon": -87.638874
+   },
+   "website": "https://www.villagediscountoutlet.com/locations/chicago-heights-ilinois/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1333773854",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "crash-champions-chicago-heights",
+   "name": "Crash Champions",
+   "summary": "Crash Champions is an auto repair shop in Chicago Heights, IL at 311 North Halsted Street, Chicago Heights, IL 60411.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/crash-champions-chicago-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/crash-champions-chicago-heights.json",
+   "address": {
+    "streetAddress": "311 North Halsted Street",
+    "addressLocality": "Chicago Heights",
+    "addressRegion": "IL",
+    "postalCode": "60411",
+    "addressCountry": "US"
+   },
+   "city": "Chicago Heights",
+   "state": "IL",
+   "zip": "60411",
+   "geo": {
+    "lat": 41.5367614,
+    "lon": -87.6349461
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1167119327",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "cubesmart-chicago-heights",
+   "name": "CubeSmart",
+   "summary": "CubeSmart is a self-storage facility in Chicago Heights, IL at 571 West Lincoln Highway, Chicago Heights, IL 60411.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cubesmart-chicago-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cubesmart-chicago-heights.json",
+   "address": {
+    "streetAddress": "571 West Lincoln Highway",
+    "addressLocality": "Chicago Heights",
+    "addressRegion": "IL",
+    "postalCode": "60411",
+    "addressCountry": "US"
+   },
+   "city": "Chicago Heights",
+   "state": "IL",
+   "zip": "60411",
+   "geo": {
+    "lat": 41.5077374,
+    "lon": -87.6703315
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/757043598",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "early-childhood-program-chicago-heights",
+   "name": "Early Childhood Program",
+   "summary": "Early Childhood Program is a preschool in Chicago Heights, IL at 828 Willow Drive, Chicago Heights, IL 60411.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/early-childhood-program-chicago-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/early-childhood-program-chicago-heights.json",
+   "address": {
+    "streetAddress": "828 Willow Drive",
+    "addressLocality": "Chicago Heights",
+    "addressRegion": "IL",
+    "postalCode": "60411",
+    "addressCountry": "US"
+   },
+   "city": "Chicago Heights",
+   "state": "IL",
+   "zip": "60411",
+   "geo": {
+    "lat": 41.5161947,
+    "lon": -87.6496463
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1189568270",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "extra-space-storage-chicago-heights",
+   "name": "Extra Space Storage",
+   "summary": "Extra Space Storage is a self-storage facility in Chicago Heights, IL at 515 West Lincoln Highway, Chicago Heights, IL 60411.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/extra-space-storage-chicago-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/extra-space-storage-chicago-heights.json",
+   "address": {
+    "streetAddress": "515 West Lincoln Highway",
+    "addressLocality": "Chicago Heights",
+    "addressRegion": "IL",
+    "postalCode": "60411",
+    "addressCountry": "US"
+   },
+   "city": "Chicago Heights",
+   "state": "IL",
+   "zip": "60411",
+   "geo": {
+    "lat": 41.5066355,
+    "lon": -87.6636181
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12321135599",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "fedex-office-chicago-heights",
+   "name": "FedEx Office",
+   "summary": "FedEx Office is a printing service in Chicago Heights, IL at 20921 Western Avenue, Chicago Heights, IL 60411.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fedex-office-chicago-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fedex-office-chicago-heights.json",
+   "address": {
+    "streetAddress": "20921 Western Avenue",
+    "addressLocality": "Chicago Heights",
+    "addressRegion": "IL",
+    "postalCode": "60411",
+    "addressCountry": "US"
+   },
+   "city": "Chicago Heights",
+   "state": "IL",
+   "zip": "60411",
+   "geo": {
+    "lat": 41.5080884,
+    "lon": -87.6737466
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7484411876",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "housing-authority-of-cook-county-central-management-office-chicago-heights",
+   "name": "Housing Authority of Cook County;Central Management Office",
+   "summary": "Housing Authority of Cook County;Central Management Office is a property management company in Chicago Heights, IL at 1710 East End Avenue, Chicago Heights, IL 60411.",
+   "categories": [
+    "property management company"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/housing-authority-of-cook-county-central-management-office-chicago-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/housing-authority-of-cook-county-central-management-office-chicago-heights.json",
+   "address": {
+    "streetAddress": "1710 East End Avenue",
+    "addressLocality": "Chicago Heights",
+    "addressRegion": "IL",
+    "postalCode": "60411",
+    "addressCountry": "US"
+   },
+   "city": "Chicago Heights",
+   "state": "IL",
+   "zip": "60411",
+   "geo": {
+    "lat": 41.4993049,
+    "lon": -87.6348009
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1291873834",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "liberty-tax-chicago-heights",
+   "name": "Liberty Tax",
+   "summary": "Liberty Tax is a tax preparation service in Chicago Heights, IL at 176 South Halsted Street, Chicago Heights, IL 60411.",
+   "categories": [
+    "tax preparation"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/liberty-tax-chicago-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/liberty-tax-chicago-heights.json",
+   "address": {
+    "streetAddress": "176 South Halsted Street",
+    "addressLocality": "Chicago Heights",
+    "addressRegion": "IL",
+    "postalCode": "60411",
+    "addressCountry": "US"
+   },
+   "city": "Chicago Heights",
+   "state": "IL",
+   "zip": "60411",
+   "geo": {
+    "lat": 41.5287671,
+    "lon": -87.6362268
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11623828765",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "marconi-bakery-chicago-heights",
+   "name": "Marconi Bakery",
+   "summary": "Marconi Bakery is a bakery in Chicago Heights, IL at 212 East 16th Street, Chicago Heights, IL 60411.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/marconi-bakery-chicago-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/marconi-bakery-chicago-heights.json",
+   "address": {
+    "streetAddress": "212 East 16th Street",
+    "addressLocality": "Chicago Heights",
+    "addressRegion": "IL",
+    "postalCode": "60411",
+    "addressCountry": "US"
+   },
+   "city": "Chicago Heights",
+   "state": "IL",
+   "zip": "60411",
+   "geo": {
+    "lat": 41.5023321,
+    "lon": -87.6280631
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13145065612",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "mobil-chicago-heights",
+   "name": "Mobil",
+   "summary": "Mobil is a car wash in Chicago Heights, IL at 431 West Lincoln Highway, Chicago Heights, IL 60411.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mobil-chicago-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mobil-chicago-heights.json",
+   "address": {
+    "streetAddress": "431 West Lincoln Highway",
+    "addressLocality": "Chicago Heights",
+    "addressRegion": "IL",
+    "postalCode": "60411",
+    "addressCountry": "US"
+   },
+   "city": "Chicago Heights",
+   "state": "IL",
+   "zip": "60411",
+   "geo": {
+    "lat": 41.5068596,
+    "lon": -87.6618634
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1331682001",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "public-storage-chicago-heights",
+   "name": "Public Storage",
+   "summary": "Public Storage is a self-storage facility in Chicago Heights, IL at 1505 Western Avenue, Chicago Heights, IL 60411.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/public-storage-chicago-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/public-storage-chicago-heights.json",
+   "address": {
+    "streetAddress": "1505 Western Avenue",
+    "addressLocality": "Chicago Heights",
+    "addressRegion": "IL",
+    "postalCode": "60411",
+    "addressCountry": "US"
+   },
+   "city": "Chicago Heights",
+   "state": "IL",
+   "zip": "60411",
+   "geo": {
+    "lat": 41.5036461,
+    "lon": -87.6730323
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/relation/20631338",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "public-storage-chicago-heights-w1365098556",
+   "name": "Public Storage",
+   "summary": "Public Storage is a self-storage facility in Chicago Heights, IL at 20909 Western Avenue, Chicago Heights, IL 60411.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/public-storage-chicago-heights-w1365098556/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/public-storage-chicago-heights-w1365098556.json",
+   "address": {
+    "streetAddress": "20909 Western Avenue",
+    "addressLocality": "Chicago Heights",
+    "addressRegion": "IL",
+    "postalCode": "60411",
+    "addressCountry": "US"
+   },
+   "city": "Chicago Heights",
+   "state": "IL",
+   "zip": "60411",
+   "geo": {
+    "lat": 41.5087708,
+    "lon": -87.6738185
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1365098556",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "the-salvation-army-chicago-heights",
+   "name": "The Salvation Army",
+   "summary": "The Salvation Army is a thrift store in Chicago Heights, IL at 150 North Halsted Street, Chicago Heights, IL 60411.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-salvation-army-chicago-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-salvation-army-chicago-heights.json",
+   "address": {
+    "streetAddress": "150 North Halsted Street",
+    "addressLocality": "Chicago Heights",
+    "addressRegion": "IL",
+    "postalCode": "60411",
+    "addressCountry": "US"
+   },
+   "city": "Chicago Heights",
+   "state": "IL",
+   "zip": "60411",
+   "geo": {
+    "lat": 41.5328637,
+    "lon": -87.6366205
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1166136704",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "vet-center-chicago-heights",
+   "name": "Vet Center",
+   "summary": "Vet Center is a therapy practice in Chicago Heights, IL at 1010 Dixie Highway, Chicago Heights, IL 60411.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/vet-center-chicago-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/vet-center-chicago-heights.json",
+   "address": {
+    "streetAddress": "1010 Dixie Highway",
+    "addressLocality": "Chicago Heights",
+    "addressRegion": "IL",
+    "postalCode": "60411",
+    "addressCountry": "US"
+   },
+   "city": "Chicago Heights",
+   "state": "IL",
+   "zip": "60411",
+   "geo": {
+    "lat": 41.5126096,
+    "lon": -87.6468633
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8562905296",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

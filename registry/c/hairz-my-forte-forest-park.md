@@ -1,0 +1,23 @@
+Hair'z My Forte is a hair salon in Forest Park, IL at 7440 Harrison Street #A, Forest Park, IL 60130. Phone: +17083666680.
+
+# Hair'z My Forte
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 7440 Harrison Street #A, Forest Park, IL 60130
+- City: Forest Park
+- State: IL
+- ZIP: 60130
+- Coordinates: 41.8720525, -87.8114221
+- Phone: +17083666680
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/hairz-my-forte-forest-park/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/hairz-my-forte-forest-park.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/4201271891 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

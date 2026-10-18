@@ -1,0 +1,57 @@
+{
+ "slug": "crystal-overhead-door-inc-chicago",
+ "name": "Crystal Overhead Door Inc",
+ "categories": [
+  "window replacement"
+ ],
+ "keywords": [
+  "window replacement",
+  "window replacement chicago il"
+ ],
+ "services": [
+  {
+   "name": "window replacement",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "5030 West Lawrence Avenue",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60630",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60630",
+ "geo": {
+  "lat": 41.9681947,
+  "lon": -87.7542129
+ },
+ "phone": "+17732836677",
+ "website": "https://garagedoorchicago.com/",
+ "opening_hours": "24/7",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/10053506307",
+ "osm": {
+  "type": "node",
+  "id": 10053506307,
+  "tags_used": {
+   "craft": "window_construction"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/crystal-overhead-door-inc-chicago/",
+ "summary": "Crystal Overhead Door Inc is a window installer in Chicago, IL at 5030 West Lawrence Avenue, Chicago, IL 60630. Phone: +17732836677. Website: https://garagedoorchicago.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

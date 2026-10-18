@@ -1,0 +1,52 @@
+{
+ "slug": "ultramax-tan-schaumburg",
+ "name": "Ultramax Tan",
+ "categories": [
+  "tanning salon"
+ ],
+ "keywords": [
+  "tanning salon",
+  "tanning salon schaumburg il"
+ ],
+ "services": [
+  {
+   "name": "tanning salon",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Schaumburg",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Schaumburg",
+ "state": "IL",
+ "geo": {
+  "lat": 42.0070466,
+  "lon": -88.079656
+ },
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/479606057",
+ "osm": {
+  "type": "way",
+  "id": 479606057,
+  "tags_used": {
+   "shop": "beauty",
+   "beauty": "tanning"
+  }
+ },
+ "municipality": "Schaumburg",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/ultramax-tan-schaumburg/",
+ "summary": "Ultramax Tan is a tanning salon in Schaumburg, IL.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

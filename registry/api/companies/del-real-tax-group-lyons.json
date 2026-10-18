@@ -1,0 +1,58 @@
+{
+ "slug": "del-real-tax-group-lyons",
+ "name": "Del Real Tax Group",
+ "categories": [
+  "accountant"
+ ],
+ "keywords": [
+  "accountant",
+  "accounting services",
+  "accountant lyons il",
+  "accounting services lyons il"
+ ],
+ "services": [
+  {
+   "name": "accountant",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "accounting services",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Lyons",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Lyons",
+ "state": "IL",
+ "geo": {
+  "lat": 41.8195296,
+  "lon": -87.8207999
+ },
+ "website": "https://delrealtax.com/",
+ "schema_type": "AccountingService",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/9810196281",
+ "osm": {
+  "type": "node",
+  "id": 9810196281,
+  "tags_used": {
+   "office": "accountant"
+  }
+ },
+ "municipality": "Lyons",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/del-real-tax-group-lyons/",
+ "summary": "Del Real Tax Group is an accountant in Lyons, IL. Website: https://delrealtax.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

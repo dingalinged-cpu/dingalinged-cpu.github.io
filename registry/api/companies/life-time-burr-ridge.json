@@ -1,0 +1,59 @@
+{
+ "slug": "life-time-burr-ridge",
+ "name": "Life Time",
+ "categories": [
+  "gym"
+ ],
+ "keywords": [
+  "gym",
+  "gym burr ridge il"
+ ],
+ "services": [
+  {
+   "name": "gym",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "601 Burr Ridge Parkway",
+  "addressLocality": "Burr Ridge",
+  "addressRegion": "IL",
+  "postalCode": "60527",
+  "addressCountry": "US"
+ },
+ "city": "Burr Ridge",
+ "state": "IL",
+ "zip": "60527",
+ "geo": {
+  "lat": 41.7534817,
+  "lon": -87.9143713
+ },
+ "phone": "+16302885250",
+ "website": "https://www.lifetime.life/life-time-locations/il-burr-ridge.html",
+ "opening_hours": "Mo-Fr 04:00-00:00; Sa-Su 05:00-22:00",
+ "brand": "Life Time",
+ "wikidata": "Q6545004",
+ "schema_type": "ExerciseGym",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/317396462",
+ "osm": {
+  "type": "way",
+  "id": 317396462,
+  "tags_used": {
+   "leisure": "fitness_centre"
+  }
+ },
+ "municipality": "Burr Ridge",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/life-time-burr-ridge/",
+ "summary": "Life Time is a gym in Burr Ridge, IL at 601 Burr Ridge Parkway, Burr Ridge, IL 60527. Phone: +16302885250. Website: https://www.lifetime.life/life-time-locations/il-burr-ridge.html.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

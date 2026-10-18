@@ -1,0 +1,56 @@
+{
+ "slug": "lumber-liquidators-mount-prospect",
+ "name": "Lumber Liquidators",
+ "categories": [
+  "flooring companies"
+ ],
+ "keywords": [
+  "flooring companies",
+  "flooring companies mount prospect il"
+ ],
+ "services": [
+  {
+   "name": "flooring companies",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1460 West Algonquin Road",
+  "addressLocality": "Mount Prospect",
+  "addressRegion": "IL",
+  "postalCode": "60056",
+  "addressCountry": "US"
+ },
+ "city": "Mount Prospect",
+ "state": "IL",
+ "zip": "60056",
+ "geo": {
+  "lat": 42.0314724,
+  "lon": -87.9475753
+ },
+ "brand": "Lumber Liquidators",
+ "wikidata": "Q6703090",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/377172589",
+ "osm": {
+  "type": "way",
+  "id": 377172589,
+  "tags_used": {
+   "shop": "flooring"
+  }
+ },
+ "municipality": "Mount Prospect",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/lumber-liquidators-mount-prospect/",
+ "summary": "Lumber Liquidators is a flooring company in Mount Prospect, IL at 1460 West Algonquin Road, Mount Prospect, IL 60056.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

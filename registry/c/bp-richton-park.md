@@ -1,0 +1,23 @@
+BP is a car wash in Richton Park, IL at 4769 Sauk Trail, Richton Park, IL 60471.
+
+# BP
+
+- Category: car wash
+- Services: car wash
+- Address: 4769 Sauk Trail, Richton Park, IL 60471
+- City: Richton Park
+- State: IL
+- ZIP: 60471
+- Coordinates: 41.4837075, -87.731706
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/bp-richton-park/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/bp-richton-park.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1020190454 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

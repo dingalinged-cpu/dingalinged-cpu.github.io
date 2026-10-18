@@ -1,0 +1,52 @@
+{
+ "slug": "l-a-tan-downers-grove",
+ "name": "L.A. Tan",
+ "categories": [
+  "tanning salon"
+ ],
+ "keywords": [
+  "tanning salon",
+  "tanning salon downers grove il"
+ ],
+ "services": [
+  {
+   "name": "tanning salon",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Downers Grove",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Downers Grove",
+ "state": "IL",
+ "geo": {
+  "lat": 41.7537154,
+  "lon": -88.0104472
+ },
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/5256885423",
+ "osm": {
+  "type": "node",
+  "id": 5256885423,
+  "tags_used": {
+   "shop": "beauty",
+   "beauty": "tanning"
+  }
+ },
+ "municipality": "Downers Grove",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/l-a-tan-downers-grove/",
+ "summary": "L.A. Tan is a tanning salon in Downers Grove, IL.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

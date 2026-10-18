@@ -1,0 +1,54 @@
+{
+ "slug": "p-s-flowers-wauconda",
+ "name": "P.S Flowers",
+ "categories": [
+  "florist"
+ ],
+ "keywords": [
+  "florist",
+  "florist wauconda il"
+ ],
+ "services": [
+  {
+   "name": "florist",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "135 East Liberty Street",
+  "addressLocality": "Wauconda",
+  "addressRegion": "IL",
+  "postalCode": "60084",
+  "addressCountry": "US"
+ },
+ "city": "Wauconda",
+ "state": "IL",
+ "zip": "60084",
+ "geo": {
+  "lat": 42.2597773,
+  "lon": -88.138356
+ },
+ "schema_type": "Florist",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/1059990872",
+ "osm": {
+  "type": "way",
+  "id": 1059990872,
+  "tags_used": {
+   "shop": "florist"
+  }
+ },
+ "municipality": "Wauconda",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/p-s-flowers-wauconda/",
+ "summary": "P.S Flowers is a florist in Wauconda, IL at 135 East Liberty Street, Wauconda, IL 60084.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

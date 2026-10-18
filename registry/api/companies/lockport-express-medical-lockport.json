@@ -1,0 +1,58 @@
+{
+ "slug": "lockport-express-medical-lockport",
+ "name": "Lockport Express Medical",
+ "categories": [
+  "urgent care"
+ ],
+ "keywords": [
+  "urgent care",
+  "urgent care lockport il"
+ ],
+ "services": [
+  {
+   "name": "urgent care",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "16221 West 159th Street",
+  "addressLocality": "Lockport",
+  "addressRegion": "IL",
+  "postalCode": "60441",
+  "addressCountry": "US"
+ },
+ "city": "Lockport",
+ "state": "IL",
+ "zip": "60441",
+ "geo": {
+  "lat": 41.5971931,
+  "lon": -88.0129146
+ },
+ "phone": "+18156059082",
+ "website": "https://www.xpressmedical.net/",
+ "opening_hours": "Mo-Fr 08:00-20:00; Sa,Su 10:00-16:00",
+ "schema_type": "MedicalClinic",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/551256618",
+ "osm": {
+  "type": "way",
+  "id": 551256618,
+  "tags_used": {
+   "amenity": "doctors",
+   "healthcare": "doctor"
+  }
+ },
+ "municipality": "Lockport",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/lockport-express-medical-lockport/",
+ "summary": "Lockport Express Medical is an urgent care clinic in Lockport, IL at 16221 West 159th Street, Lockport, IL 60441. Phone: +18156059082. Website: https://www.xpressmedical.net/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

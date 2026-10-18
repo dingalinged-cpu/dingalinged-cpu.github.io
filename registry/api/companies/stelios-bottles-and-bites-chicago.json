@@ -1,0 +1,58 @@
+{
+ "slug": "stelios-bottles-and-bites-chicago",
+ "name": "Stelios Bottles & Bites",
+ "categories": [
+  "liquor store"
+ ],
+ "keywords": [
+  "liquor store",
+  "liquor store chicago il"
+ ],
+ "services": [
+  {
+   "name": "liquor store",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "19 South Morgan Street",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60607",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60607",
+ "geo": {
+  "lat": 41.8811087,
+  "lon": -87.6518012
+ },
+ "phone": "+13122919272",
+ "website": "https://steliosbottlesandbites.com/",
+ "opening_hours": "Su-Th 10:00-23:00; Fr-Sa 10:00-01:00",
+ "schema_type": "LiquorStore",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/11672692563",
+ "osm": {
+  "type": "node",
+  "id": 11672692563,
+  "tags_used": {
+   "shop": "alcohol",
+   "amenity": "bar"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/stelios-bottles-and-bites-chicago/",
+ "summary": "Stelios Bottles & Bites is a liquor store in Chicago, IL at 19 South Morgan Street, Chicago, IL 60607. Phone: +13122919272. Website: https://steliosbottlesandbites.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

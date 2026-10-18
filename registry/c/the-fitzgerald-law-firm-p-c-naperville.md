@@ -1,0 +1,23 @@
+The Fitzgerald Law Firm P.C. is a lawyer in Naperville, IL at 1220 Iroquois Avenue #104, Naperville, IL 60563. Website: https://www.fitzgeraldlawpc.com/.
+
+# The Fitzgerald Law Firm P.C.
+
+- Category: lawyer
+- Services: lawyer, attorney
+- Address: 1220 Iroquois Avenue #104, Naperville, IL 60563
+- City: Naperville
+- State: IL
+- ZIP: 60563
+- Coordinates: 41.7942989, -88.1252772
+- Phone: n/a
+- Website: https://www.fitzgeraldlawpc.com/
+- Email: dan@fitzgeraldlawpc.com
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/the-fitzgerald-law-firm-p-c-naperville/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-fitzgerald-law-firm-p-c-naperville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/7146212843 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

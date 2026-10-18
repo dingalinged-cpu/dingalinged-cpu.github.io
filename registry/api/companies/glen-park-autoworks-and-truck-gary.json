@@ -1,0 +1,62 @@
+{
+ "slug": "glen-park-autoworks-and-truck-gary",
+ "name": "Glen Park Autoworks And Truck",
+ "categories": [
+  "auto repair"
+ ],
+ "keywords": [
+  "auto repair",
+  "mechanic",
+  "auto repair gary in",
+  "mechanic gary in"
+ ],
+ "services": [
+  {
+   "name": "auto repair",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "mechanic",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1430 West Ridge Road",
+  "addressLocality": "Gary",
+  "addressRegion": "IN",
+  "postalCode": "46408",
+  "addressCountry": "US"
+ },
+ "city": "Gary",
+ "state": "IN",
+ "zip": "46408",
+ "geo": {
+  "lat": 41.5487933,
+  "lon": -87.3541153
+ },
+ "phone": "+12198875555",
+ "opening_hours": "Mo-Sa 08:00-17:30; Su off",
+ "schema_type": "AutoRepair",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/1243267849",
+ "osm": {
+  "type": "way",
+  "id": 1243267849,
+  "tags_used": {
+   "shop": "car_repair"
+  }
+ },
+ "municipality": "Gary",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/glen-park-autoworks-and-truck-gary/",
+ "summary": "Glen Park Autoworks And Truck is an auto repair shop in Gary, IN at 1430 West Ridge Road, Gary, IN 46408. Phone: +12198875555.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

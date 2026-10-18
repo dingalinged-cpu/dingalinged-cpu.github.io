@@ -1,0 +1,23 @@
+StorageMart is a self-storage facility in Chicago, IL at 6714 South Cottage Grove Avenue, Chicago, IL 60637. Phone: +17739556006. Website: https://www.storage-mart.com/chicago/60637-cottage-grove-ave.
+
+# StorageMart
+
+- Category: storage units
+- Services: storage units
+- Address: 6714 South Cottage Grove Avenue, Chicago, IL 60637
+- City: Chicago
+- State: IL
+- ZIP: 60637
+- Coordinates: 41.7725699, -87.6061553
+- Phone: +17739556006
+- Website: https://www.storage-mart.com/chicago/60637-cottage-grove-ave
+- Email: s0851@storage-mart.com
+- Opening hours (OSM syntax): Mo-Fr 09:00-18:00; Sa 09:00-16:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/storagemart-chicago-w210874489/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/storagemart-chicago-w210874489.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/210874489 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

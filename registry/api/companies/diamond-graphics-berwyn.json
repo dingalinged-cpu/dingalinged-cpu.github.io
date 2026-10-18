@@ -1,0 +1,51 @@
+{
+ "slug": "diamond-graphics-berwyn",
+ "name": "Diamond Graphics",
+ "categories": [
+  "printing services"
+ ],
+ "keywords": [
+  "printing services",
+  "printing services berwyn il"
+ ],
+ "services": [
+  {
+   "name": "printing services",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Berwyn",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Berwyn",
+ "state": "IL",
+ "geo": {
+  "lat": 41.8434459,
+  "lon": -87.7898597
+ },
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/8185708808",
+ "osm": {
+  "type": "node",
+  "id": 8185708808,
+  "tags_used": {
+   "shop": "copyshop"
+  }
+ },
+ "municipality": "Berwyn",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/diamond-graphics-berwyn/",
+ "summary": "Diamond Graphics is a printing service in Berwyn, IL.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

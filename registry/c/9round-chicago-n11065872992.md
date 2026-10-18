@@ -1,0 +1,23 @@
+9Round is a martial arts school in Chicago, IL at 767 South State Street, Chicago, IL 60605.
+
+# 9Round
+
+- Category: martial arts
+- Services: martial arts
+- Address: 767 South State Street, Chicago, IL 60605
+- City: Chicago
+- State: IL
+- ZIP: 60605
+- Coordinates: 41.8720678, -87.6273433
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/9round-chicago-n11065872992/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/9round-chicago-n11065872992.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11065872992 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

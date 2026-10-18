@@ -1,0 +1,23 @@
+American Family Insurance is an insurance agent in Mount Prospect, IL at 401 East Prospect Avenue #104, Mount Prospect, IL 60056. Phone: +18473944075. Website: https://insurance-agency.amfam.com/il/frank-randazzo/default.aspx.
+
+# American Family Insurance
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: 401 East Prospect Avenue #104, Mount Prospect, IL 60056
+- City: Mount Prospect
+- State: IL
+- ZIP: 60056
+- Coordinates: 42.0599332, -87.930854
+- Phone: +18473944075
+- Website: https://insurance-agency.amfam.com/il/frank-randazzo/default.aspx
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/american-family-insurance-mount-prospect/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/american-family-insurance-mount-prospect.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/4597419823 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

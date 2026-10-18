@@ -1,0 +1,51 @@
+{
+ "slug": "american-sale-romeoville",
+ "name": "American Sale",
+ "categories": [
+  "furniture store"
+ ],
+ "keywords": [
+  "furniture store",
+  "furniture store romeoville il"
+ ],
+ "services": [
+  {
+   "name": "furniture store",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Romeoville",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Romeoville",
+ "state": "IL",
+ "geo": {
+  "lat": 41.655922,
+  "lon": -88.121053
+ },
+ "schema_type": "FurnitureStore",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/548745545",
+ "osm": {
+  "type": "way",
+  "id": 548745545,
+  "tags_used": {
+   "shop": "furniture"
+  }
+ },
+ "municipality": "Romeoville",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/american-sale-romeoville/",
+ "summary": "American Sale is a furniture store in Romeoville, IL.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

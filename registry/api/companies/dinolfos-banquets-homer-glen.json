@@ -1,0 +1,54 @@
+{
+ "slug": "dinolfos-banquets-homer-glen",
+ "name": "DiNolfo's Banquets",
+ "categories": [
+  "event venues"
+ ],
+ "keywords": [
+  "event venues",
+  "event venues homer glen il"
+ ],
+ "services": [
+  {
+   "name": "event venues",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "14447 West 159th Street",
+  "addressLocality": "Homer Glen",
+  "addressRegion": "IL",
+  "postalCode": "60491",
+  "addressCountry": "US"
+ },
+ "city": "Homer Glen",
+ "state": "IL",
+ "zip": "60491",
+ "geo": {
+  "lat": 41.5983082,
+  "lon": -87.9697053
+ },
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/1203827015",
+ "osm": {
+  "type": "way",
+  "id": 1203827015,
+  "tags_used": {
+   "amenity": "events_venue"
+  }
+ },
+ "municipality": "Homer Glen",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/dinolfos-banquets-homer-glen/",
+ "summary": "DiNolfo's Banquets is an event venue in Homer Glen, IL at 14447 West 159th Street, Homer Glen, IL 60491.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

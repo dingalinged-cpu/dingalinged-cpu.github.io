@@ -1,0 +1,288 @@
+{
+ "place": "Calumet Park, IL",
+ "slug": "calumet-park-il",
+ "count": 8,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "auto repair calumet park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-calumet-park-il.json"
+  },
+  {
+   "keyword": "car wash calumet park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-calumet-park-il.json"
+  },
+  {
+   "keyword": "furniture store calumet park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/furniture-store-calumet-park-il.json"
+  },
+  {
+   "keyword": "gift shop calumet park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gift-shop-calumet-park-il.json"
+  },
+  {
+   "keyword": "gym calumet park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-calumet-park-il.json"
+  },
+  {
+   "keyword": "liquor store calumet park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/liquor-store-calumet-park-il.json"
+  },
+  {
+   "keyword": "mechanic calumet park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-calumet-park-il.json"
+  },
+  {
+   "keyword": "tire shop calumet park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tire-shop-calumet-park-il.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "manns-towing-service-calumet-park",
+   "name": "Mann's Towing Service",
+   "summary": "Mann's Towing Service is an auto repair shop in Calumet Park, IL at 12336 South Halsted Street, Calumet Park, IL 60827. Website: https://www.mannstowingservice.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/manns-towing-service-calumet-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/manns-towing-service-calumet-park.json",
+   "address": {
+    "streetAddress": "12336 South Halsted Street",
+    "addressLocality": "Calumet Park",
+    "addressRegion": "IL",
+    "postalCode": "60827",
+    "addressCountry": "US"
+   },
+   "city": "Calumet Park",
+   "state": "IL",
+   "zip": "60827",
+   "geo": {
+    "lat": 41.6695403,
+    "lon": -87.6420854
+   },
+   "website": "https://www.mannstowingservice.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1490386226",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "wentworth-tire-service-calumet-park",
+   "name": "Wentworth Tire Service",
+   "summary": "Wentworth Tire Service is an auto repair shop in Calumet Park, IL at 1529 West 127th Street, Calumet Park, IL 60827. Website: https://www.wentworthtire.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wentworth-tire-service-calumet-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wentworth-tire-service-calumet-park.json",
+   "address": {
+    "streetAddress": "1529 West 127th Street",
+    "addressLocality": "Calumet Park",
+    "addressRegion": "IL",
+    "postalCode": "60827",
+    "addressCountry": "US"
+   },
+   "city": "Calumet Park",
+   "state": "IL",
+   "zip": "60827",
+   "geo": {
+    "lat": 41.6626719,
+    "lon": -87.6593615
+   },
+   "website": "https://www.wentworthtire.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1231768985",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "calumet-auto-repair-foreign-and-domestic-inc-calumet-park",
+   "name": "Calumet Auto Repair Foreign & Domestic, Inc.",
+   "summary": "Calumet Auto Repair Foreign & Domestic, Inc. is an auto repair shop in Calumet Park, IL at 1418 West 127th Street, Calumet Park, IL 60827.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/calumet-auto-repair-foreign-and-domestic-inc-calumet-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/calumet-auto-repair-foreign-and-domestic-inc-calumet-park.json",
+   "address": {
+    "streetAddress": "1418 West 127th Street",
+    "addressLocality": "Calumet Park",
+    "addressRegion": "IL",
+    "postalCode": "60827",
+    "addressCountry": "US"
+   },
+   "city": "Calumet Park",
+   "state": "IL",
+   "zip": "60827",
+   "geo": {
+    "lat": 41.6632352,
+    "lon": -87.6570381
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1231780165",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "citgo-calumet-park",
+   "name": "Citgo",
+   "summary": "Citgo is a car wash in Calumet Park, IL at 11900 South Marshfield Avenue, Calumet Park, IL 60827.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/citgo-calumet-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/citgo-calumet-park.json",
+   "address": {
+    "streetAddress": "11900 South Marshfield Avenue",
+    "addressLocality": "Calumet Park",
+    "addressRegion": "IL",
+    "postalCode": "60827",
+    "addressCountry": "US"
+   },
+   "city": "Calumet Park",
+   "state": "IL",
+   "zip": "60827",
+   "geo": {
+    "lat": 41.6769404,
+    "lon": -87.663295
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12582742098",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "edible-arrangements-calumet-park",
+   "name": "Edible Arrangements",
+   "summary": "Edible Arrangements is a gift shop in Calumet Park, IL at 12844 South Ashland Avenue, Calumet Park, IL 60827.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edible-arrangements-calumet-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edible-arrangements-calumet-park.json",
+   "address": {
+    "streetAddress": "12844 South Ashland Avenue",
+    "addressLocality": "Calumet Park",
+    "addressRegion": "IL",
+    "postalCode": "60827",
+    "addressCountry": "US"
+   },
+   "city": "Calumet Park",
+   "state": "IL",
+   "zip": "60827",
+   "geo": {
+    "lat": 41.6594454,
+    "lon": -87.6613982
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7588247785",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "planet-fitness-calumet-park",
+   "name": "Planet Fitness",
+   "summary": "Planet Fitness is a gym in Calumet Park, IL at 13035 South Ashland Avenue, Calumet Park, IL 60827.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/planet-fitness-calumet-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/planet-fitness-calumet-park.json",
+   "address": {
+    "streetAddress": "13035 South Ashland Avenue",
+    "addressLocality": "Calumet Park",
+    "addressRegion": "IL",
+    "postalCode": "60827",
+    "addressCountry": "US"
+   },
+   "city": "Calumet Park",
+   "state": "IL",
+   "zip": "60827",
+   "geo": {
+    "lat": 41.6574952,
+    "lon": -87.6579295
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7588247787",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "rent-a-center-calumet-park",
+   "name": "Rent-A-Center",
+   "summary": "Rent-A-Center is a furniture store in Calumet Park, IL at 12840 South Ashland Avenue, Calumet Park, IL 60827.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rent-a-center-calumet-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rent-a-center-calumet-park.json",
+   "address": {
+    "streetAddress": "12840 South Ashland Avenue",
+    "addressLocality": "Calumet Park",
+    "addressRegion": "IL",
+    "postalCode": "60827",
+    "addressCountry": "US"
+   },
+   "city": "Calumet Park",
+   "state": "IL",
+   "zip": "60827",
+   "geo": {
+    "lat": 41.6595837,
+    "lon": -87.6614009
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7588223884",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "waylow-wine-and-spirits-calumet-park",
+   "name": "Waylow Wine & Spirits",
+   "summary": "Waylow Wine & Spirits is a liquor store in Calumet Park, IL at 12310 South Halsted Street, Calumet Park, IL 60827.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/waylow-wine-and-spirits-calumet-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/waylow-wine-and-spirits-calumet-park.json",
+   "address": {
+    "streetAddress": "12310 South Halsted Street",
+    "addressLocality": "Calumet Park",
+    "addressRegion": "IL",
+    "postalCode": "60827",
+    "addressCountry": "US"
+   },
+   "city": "Calumet Park",
+   "state": "IL",
+   "zip": "60827",
+   "geo": {
+    "lat": 41.6698612,
+    "lon": -87.6421349
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1490386227",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

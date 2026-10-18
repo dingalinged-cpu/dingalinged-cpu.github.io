@@ -1,0 +1,57 @@
+{
+ "slug": "heaven-meets-earth-yoga-ecstatic-dance-evolution-evanston",
+ "name": "Heaven Meets Earth  YOGA, Ecstatic Dance Evolution",
+ "categories": [
+  "yoga classes"
+ ],
+ "keywords": [
+  "yoga classes",
+  "yoga classes evanston il"
+ ],
+ "services": [
+  {
+   "name": "yoga classes",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "2746 Central Street",
+  "addressLocality": "Evanston",
+  "addressRegion": "IL",
+  "postalCode": "60201",
+  "addressCountry": "US"
+ },
+ "city": "Evanston",
+ "state": "IL",
+ "zip": "60201",
+ "geo": {
+  "lat": 42.0642998,
+  "lon": -87.7127752
+ },
+ "phone": "+18474751500",
+ "website": "https://www.heavenmeetsearthyoga.com/",
+ "schema_type": "SportsActivityLocation",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/4854965579",
+ "osm": {
+  "type": "node",
+  "id": 4854965579,
+  "tags_used": {
+   "leisure": "fitness_centre",
+   "sport": "yoga"
+  }
+ },
+ "municipality": "Evanston",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/heaven-meets-earth-yoga-ecstatic-dance-evolution-evanston/",
+ "summary": "Heaven Meets Earth  YOGA, Ecstatic Dance Evolution is a yoga studio in Evanston, IL at 2746 Central Street, Evanston, IL 60201. Phone: +18474751500. Website: https://www.heavenmeetsearthyoga.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

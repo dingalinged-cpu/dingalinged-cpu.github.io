@@ -1,0 +1,23 @@
+Terry Gross - State Farm Insurance Agent is an insurance agent in Frankfort, IL at 10850 West Laraway Road #4W, Frankfort, IL 60423. Phone: +18154692525.
+
+# Terry Gross - State Farm Insurance Agent
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: 10850 West Laraway Road #4W, Frankfort, IL 60423
+- City: Frankfort
+- State: IL
+- ZIP: 60423
+- Coordinates: 41.4845814, -87.8801444
+- Phone: +18154692525
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/terry-gross-state-farm-insurance-agent-frankfort/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/terry-gross-state-farm-insurance-agent-frankfort.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13130323904 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

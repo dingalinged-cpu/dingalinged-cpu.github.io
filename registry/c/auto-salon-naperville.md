@@ -1,0 +1,23 @@
+Auto Salon is a car wash in Naperville, IL at 918 East Ogden Avenue, Naperville, IL 60563.
+
+# Auto Salon
+
+- Category: car wash
+- Services: car wash
+- Address: 918 East Ogden Avenue, Naperville, IL 60563
+- City: Naperville
+- State: IL
+- ZIP: 60563
+- Coordinates: 41.7885795, -88.132858
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/auto-salon-naperville/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/auto-salon-naperville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/8971248802 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

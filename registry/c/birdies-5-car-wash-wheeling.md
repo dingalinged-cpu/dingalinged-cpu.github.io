@@ -1,0 +1,23 @@
+Birdies $5 Car Wash is a car wash in Wheeling, IL at 966 South Milwaukee Avenue, Wheeling, IL 60090. Website: https://www.birdiescarwash.com/.
+
+# Birdies $5 Car Wash
+
+- Category: car wash
+- Services: car wash
+- Address: 966 South Milwaukee Avenue, Wheeling, IL 60090
+- City: Wheeling
+- State: IL
+- ZIP: 60090
+- Coordinates: 42.1249361, -87.8982161
+- Phone: n/a
+- Website: https://www.birdiescarwash.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/birdies-5-car-wash-wheeling/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/birdies-5-car-wash-wheeling.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1223471148 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

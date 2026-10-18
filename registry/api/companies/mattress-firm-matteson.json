@@ -1,0 +1,58 @@
+{
+ "slug": "mattress-firm-matteson",
+ "name": "Mattress Firm",
+ "categories": [
+  "mattress store"
+ ],
+ "keywords": [
+  "mattress store",
+  "mattress store matteson il"
+ ],
+ "services": [
+  {
+   "name": "mattress store",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "4800 211th Street",
+  "addressLocality": "Matteson",
+  "addressRegion": "IL",
+  "postalCode": "60443",
+  "addressCountry": "US"
+ },
+ "city": "Matteson",
+ "state": "IL",
+ "zip": "60443",
+ "geo": {
+  "lat": 41.5065604,
+  "lon": -87.7336865
+ },
+ "phone": "+17086790783",
+ "website": "https://www.mattressfirm.com/en-us/stores/il/matteson/119224/",
+ "brand": "Mattress Firm",
+ "wikidata": "Q6791878",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/7845233863",
+ "osm": {
+  "type": "node",
+  "id": 7845233863,
+  "tags_used": {
+   "shop": "bed"
+  }
+ },
+ "municipality": "Matteson",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-matteson/",
+ "summary": "Mattress Firm is a mattress store in Matteson, IL at 4800 211th Street, Matteson, IL 60443. Phone: +17086790783. Website: https://www.mattressfirm.com/en-us/stores/il/matteson/119224/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

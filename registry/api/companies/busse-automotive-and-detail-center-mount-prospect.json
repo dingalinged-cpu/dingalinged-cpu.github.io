@@ -1,0 +1,63 @@
+{
+ "slug": "busse-automotive-and-detail-center-mount-prospect",
+ "name": "Busse Automotive And Detail Center",
+ "categories": [
+  "auto repair"
+ ],
+ "keywords": [
+  "auto repair",
+  "mechanic",
+  "auto repair mount prospect il",
+  "mechanic mount prospect il"
+ ],
+ "services": [
+  {
+   "name": "auto repair",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "mechanic",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "113 East Prospect Avenue",
+  "addressLocality": "Mount Prospect",
+  "addressRegion": "IL",
+  "postalCode": "60056",
+  "addressCountry": "US"
+ },
+ "city": "Mount Prospect",
+ "state": "IL",
+ "zip": "60056",
+ "geo": {
+  "lat": 42.0616521,
+  "lon": -87.9342263
+ },
+ "phone": "+18472531634",
+ "website": "https://busseautocare.com/",
+ "opening_hours": "Mo-Th 07:00-18:00; Fr 07:00-17:00",
+ "schema_type": "AutoRepair",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/13796166101",
+ "osm": {
+  "type": "node",
+  "id": 13796166101,
+  "tags_used": {
+   "shop": "car_repair"
+  }
+ },
+ "municipality": "Mount Prospect",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/busse-automotive-and-detail-center-mount-prospect/",
+ "summary": "Busse Automotive And Detail Center is an auto repair shop in Mount Prospect, IL at 113 East Prospect Avenue, Mount Prospect, IL 60056. Phone: +18472531634. Website: https://busseautocare.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

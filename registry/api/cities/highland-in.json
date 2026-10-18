@@ -1,0 +1,354 @@
+{
+ "place": "Highland, IN",
+ "slug": "highland-in",
+ "count": 10,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "business consultant highland in",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/business-consultant-highland-in.json"
+  },
+  {
+   "keyword": "car wash highland in",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-highland-in.json"
+  },
+  {
+   "keyword": "computer repair highland in",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/computer-repair-highland-in.json"
+  },
+  {
+   "keyword": "furniture store highland in",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/furniture-store-highland-in.json"
+  },
+  {
+   "keyword": "gym highland in",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-highland-in.json"
+  },
+  {
+   "keyword": "hair salon highland in",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-highland-in.json"
+  },
+  {
+   "keyword": "haircut highland in",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-highland-in.json"
+  },
+  {
+   "keyword": "liquor store highland in",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/liquor-store-highland-in.json"
+  },
+  {
+   "keyword": "pet store highland in",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/pet-store-highland-in.json"
+  },
+  {
+   "keyword": "phone repair highland in",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/phone-repair-highland-in.json"
+  },
+  {
+   "keyword": "tire shop highland in",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tire-shop-highland-in.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "allen-landscape-llc-office-highland",
+   "name": "Allen Landscape llc office",
+   "summary": "Allen Landscape llc office is a business consultant in Highland, IN at 2539 45th Street, Highland, IN 46322. Phone: +12199223333. Website: https://www.allenlandscape.com/.",
+   "categories": [
+    "business consultant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/allen-landscape-llc-office-highland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/allen-landscape-llc-office-highland.json",
+   "address": {
+    "streetAddress": "2539 45th Street",
+    "addressLocality": "Highland",
+    "addressRegion": "IN",
+    "postalCode": "46322",
+    "addressCountry": "US"
+   },
+   "city": "Highland",
+   "state": "IN",
+   "zip": "46322",
+   "geo": {
+    "lat": 41.5378879,
+    "lon": -87.4670134
+   },
+   "phone": "+12199223333",
+   "website": "https://www.allenlandscape.com/",
+   "opening_hours": "Mo-Sa 08:00-18:00; Su 09:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1425627863",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "anytime-fitness-highland",
+   "name": "Anytime Fitness",
+   "summary": "Anytime Fitness is a gym in Highland, IN at 9632 North Cline Avenue, Highland, IN 46322. Phone: +12199245505. Website: https://www.anytimefitness.com/locations/highland-indiana-3321.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/anytime-fitness-highland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/anytime-fitness-highland.json",
+   "address": {
+    "streetAddress": "9632 North Cline Avenue",
+    "addressLocality": "Highland",
+    "addressRegion": "IN",
+    "postalCode": "46322",
+    "addressCountry": "US"
+   },
+   "city": "Highland",
+   "state": "IN",
+   "zip": "46322",
+   "geo": {
+    "lat": 41.538711,
+    "lon": -87.4337615
+   },
+   "phone": "+12199245505",
+   "website": "https://www.anytimefitness.com/locations/highland-indiana-3321",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12913142801",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "petco-highland",
+   "name": "Petco",
+   "summary": "Petco is a pet store in Highland, IN at 10235 Indianapolis Boulevard, Highland, IN 46322. Phone: +12199249219. Website: https://stores.petco.com/in/highland/pet-supplies-highland-in-860.html.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petco-highland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petco-highland.json",
+   "address": {
+    "streetAddress": "10235 Indianapolis Boulevard",
+    "addressLocality": "Highland",
+    "addressRegion": "IN",
+    "postalCode": "46322",
+    "addressCountry": "US"
+   },
+   "city": "Highland",
+   "state": "IN",
+   "zip": "46322",
+   "geo": {
+    "lat": 41.5284251,
+    "lon": -87.4689096
+   },
+   "phone": "+12199249219",
+   "website": "https://stores.petco.com/in/highland/pet-supplies-highland-in-860.html",
+   "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9315958287",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "ashley-homestore-highland",
+   "name": "Ashley HomeStore",
+   "summary": "Ashley HomeStore is a furniture store in Highland, IN at 10135 Indianapolis Boulevard, Highland, IN 46322. Phone: +12195133040. Website: https://stores.ashleyfurniture.com/store/us/indiana/highland/9000339287/.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ashley-homestore-highland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ashley-homestore-highland.json",
+   "address": {
+    "streetAddress": "10135 Indianapolis Boulevard",
+    "addressLocality": "Highland",
+    "addressRegion": "IN",
+    "postalCode": "46322",
+    "addressCountry": "US"
+   },
+   "city": "Highland",
+   "state": "IN",
+   "zip": "46322",
+   "geo": {
+    "lat": 41.5293062,
+    "lon": -87.4703871
+   },
+   "phone": "+12195133040",
+   "website": "https://stores.ashleyfurniture.com/store/us/indiana/highland/9000339287/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/439444243",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "town-and-country-liquors-highland",
+   "name": "Town & Country Liquors",
+   "summary": "Town & Country Liquors is a liquor store in Highland, IN. Phone: +12199720205. Website: https://townandcountryliquorsin.com/.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/town-and-country-liquors-highland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/town-and-country-liquors-highland.json",
+   "address": {
+    "addressLocality": "Highland",
+    "addressRegion": "IN",
+    "addressCountry": "US"
+   },
+   "city": "Highland",
+   "state": "IN",
+   "geo": {
+    "lat": 41.5630717,
+    "lon": -87.4611529
+   },
+   "phone": "+12199720205",
+   "website": "https://townandcountryliquorsin.com/",
+   "opening_hours": "Mo-Th 09:00-21:00, Fr-Sa 09:00-23:00, Su 12:00-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13876163559",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "discount-tire-highland",
+   "name": "Discount Tire",
+   "summary": "Discount Tire is a tire shop in Highland, IN.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/discount-tire-highland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/discount-tire-highland.json",
+   "address": {
+    "addressLocality": "Highland",
+    "addressRegion": "IN",
+    "addressCountry": "US"
+   },
+   "city": "Highland",
+   "state": "IN",
+   "geo": {
+    "lat": 41.5297174,
+    "lon": -87.4722147
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1300120516",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "hair-cuttery-highland",
+   "name": "Hair Cuttery",
+   "summary": "Hair Cuttery is a hair salon in Highland, IN.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hair-cuttery-highland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hair-cuttery-highland.json",
+   "address": {
+    "addressLocality": "Highland",
+    "addressRegion": "IN",
+    "addressCountry": "US"
+   },
+   "city": "Highland",
+   "state": "IN",
+   "geo": {
+    "lat": 41.5246512,
+    "lon": -87.4705265
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9315958267",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "mobil-highland",
+   "name": "Mobil",
+   "summary": "Mobil is a car wash in Highland, IN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mobil-highland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mobil-highland.json",
+   "address": {
+    "addressLocality": "Highland",
+    "addressRegion": "IN",
+    "addressCountry": "US"
+   },
+   "city": "Highland",
+   "state": "IN",
+   "geo": {
+    "lat": 41.5234729,
+    "lon": -87.4625937
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1300120521",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "ubreakifix-highland",
+   "name": "uBreakiFix",
+   "summary": "uBreakiFix is a phone repair shop in Highland, IN.",
+   "categories": [
+    "phone repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ubreakifix-highland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ubreakifix-highland.json",
+   "address": {
+    "addressLocality": "Highland",
+    "addressRegion": "IN",
+    "addressCountry": "US"
+   },
+   "city": "Highland",
+   "state": "IN",
+   "geo": {
+    "lat": 41.523401,
+    "lon": -87.4729317
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9315958277",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "world-gym-highland",
+   "name": "World Gym",
+   "summary": "World Gym is a gym in Highland, IN.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/world-gym-highland/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/world-gym-highland.json",
+   "address": {
+    "addressLocality": "Highland",
+    "addressRegion": "IN",
+    "addressCountry": "US"
+   },
+   "city": "Highland",
+   "state": "IN",
+   "geo": {
+    "lat": 41.5609706,
+    "lon": -87.4695938
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4367392299",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

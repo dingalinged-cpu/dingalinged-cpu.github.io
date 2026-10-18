@@ -1,0 +1,470 @@
+{
+ "place": "Flossmoor, IL",
+ "slug": "flossmoor-il",
+ "count": 14,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "attorney flossmoor il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/attorney-flossmoor-il.json"
+  },
+  {
+   "keyword": "car wash flossmoor il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-flossmoor-il.json"
+  },
+  {
+   "keyword": "chimney sweep flossmoor il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/chimney-sweep-flossmoor-il.json"
+  },
+  {
+   "keyword": "dentist flossmoor il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-flossmoor-il.json"
+  },
+  {
+   "keyword": "eye doctor flossmoor il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/eye-doctor-flossmoor-il.json"
+  },
+  {
+   "keyword": "facial flossmoor il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/facial-flossmoor-il.json"
+  },
+  {
+   "keyword": "gift shop flossmoor il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gift-shop-flossmoor-il.json"
+  },
+  {
+   "keyword": "hair salon flossmoor il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-flossmoor-il.json"
+  },
+  {
+   "keyword": "haircut flossmoor il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-flossmoor-il.json"
+  },
+  {
+   "keyword": "lawyer flossmoor il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/lawyer-flossmoor-il.json"
+  },
+  {
+   "keyword": "nail salon flossmoor il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/nail-salon-flossmoor-il.json"
+  },
+  {
+   "keyword": "pet store flossmoor il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/pet-store-flossmoor-il.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "a-to-z-dental-flossmoor",
+   "name": "A to Z Dental",
+   "summary": "A to Z Dental is a dentist in Flossmoor, IL at 19730 Governors Highway #1, Flossmoor, IL 60422. Phone: +17089572030. Website: https://www.atozmagicdental.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/a-to-z-dental-flossmoor/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/a-to-z-dental-flossmoor.json",
+   "address": {
+    "streetAddress": "19730 Governors Highway #1",
+    "addressLocality": "Flossmoor",
+    "addressRegion": "IL",
+    "postalCode": "60422",
+    "addressCountry": "US"
+   },
+   "city": "Flossmoor",
+   "state": "IL",
+   "zip": "60422",
+   "geo": {
+    "lat": 41.5312722,
+    "lon": -87.6974899
+   },
+   "phone": "+17089572030",
+   "website": "https://www.atozmagicdental.com/",
+   "opening_hours": "Mo-Fr 10:00-18:00; Sa 08:30-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4461216841",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "vasilatos-injury-law-flossmoor",
+   "name": "Vasilatos Injury Law",
+   "summary": "Vasilatos Injury Law is a lawyer in Flossmoor, IL at 19801 Governors Highway, Flossmoor, IL 60422. Phone: +17082830600. Website: https://www.vcinjurylaw.com/contact/flossmoor/.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/vasilatos-injury-law-flossmoor/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/vasilatos-injury-law-flossmoor.json",
+   "address": {
+    "streetAddress": "19801 Governors Highway",
+    "addressLocality": "Flossmoor",
+    "addressRegion": "IL",
+    "postalCode": "60422",
+    "addressCountry": "US"
+   },
+   "city": "Flossmoor",
+   "state": "IL",
+   "zip": "60422",
+   "geo": {
+    "lat": 41.5300451,
+    "lon": -87.696678
+   },
+   "phone": "+17082830600",
+   "website": "https://www.vcinjurylaw.com/contact/flossmoor/",
+   "opening_hours": "Mo-Fr 08:30-16:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4313588888",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "a-village-sweeps-flossmoor",
+   "name": "A Village Sweeps",
+   "summary": "A Village Sweeps is a chimney sweep in Flossmoor, IL at 3436 194th Street, Flossmoor, IL 60422. Phone: +17087990919. Website: https://avillagesweeps.com/.",
+   "categories": [
+    "chimney sweep"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/a-village-sweeps-flossmoor/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/a-village-sweeps-flossmoor.json",
+   "address": {
+    "streetAddress": "3436 194th Street",
+    "addressLocality": "Flossmoor",
+    "addressRegion": "IL",
+    "postalCode": "60422",
+    "addressCountry": "US"
+   },
+   "city": "Flossmoor",
+   "state": "IL",
+   "zip": "60422",
+   "geo": {
+    "lat": 41.5373377,
+    "lon": -87.7004389
+   },
+   "phone": "+17087990919",
+   "website": "https://avillagesweeps.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8381343879",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "the-villager-card-and-gift-shop-flossmoor",
+   "name": "The Villager Card & Gift Shop",
+   "summary": "The Villager Card & Gift Shop is a gift shop in Flossmoor, IL at 1042 Sterling Avenue, Flossmoor, IL 60422. Phone: +17087994844. Website: https://thevillagergiftshop.com/.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-villager-card-and-gift-shop-flossmoor/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-villager-card-and-gift-shop-flossmoor.json",
+   "address": {
+    "streetAddress": "1042 Sterling Avenue",
+    "addressLocality": "Flossmoor",
+    "addressRegion": "IL",
+    "postalCode": "60422",
+    "addressCountry": "US"
+   },
+   "city": "Flossmoor",
+   "state": "IL",
+   "zip": "60422",
+   "geo": {
+    "lat": 41.5430956,
+    "lon": -87.6792345
+   },
+   "phone": "+17087994844",
+   "website": "https://thevillagergiftshop.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4605538448",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "the-center-for-dental-excellence-flossmoor",
+   "name": "The Center for Dental Excellence",
+   "summary": "The Center for Dental Excellence is a dentist in Flossmoor, IL at 19615 Governors Highway, Flossmoor, IL 60422. Website: https://flossmoordental.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-center-for-dental-excellence-flossmoor/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-center-for-dental-excellence-flossmoor.json",
+   "address": {
+    "streetAddress": "19615 Governors Highway",
+    "addressLocality": "Flossmoor",
+    "addressRegion": "IL",
+    "postalCode": "60422",
+    "addressCountry": "US"
+   },
+   "city": "Flossmoor",
+   "state": "IL",
+   "zip": "60422",
+   "geo": {
+    "lat": 41.5330398,
+    "lon": -87.69523
+   },
+   "website": "https://flossmoordental.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/769542460",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "bp-flossmoor",
+   "name": "BP",
+   "summary": "BP is a car wash in Flossmoor, IL at 3950 Vollmer Road, Flossmoor, IL 60422.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bp-flossmoor/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bp-flossmoor.json",
+   "address": {
+    "streetAddress": "3950 Vollmer Road",
+    "addressLocality": "Flossmoor",
+    "addressRegion": "IL",
+    "postalCode": "60422",
+    "addressCountry": "US"
+   },
+   "city": "Flossmoor",
+   "state": "IL",
+   "zip": "60422",
+   "geo": {
+    "lat": 41.5284257,
+    "lon": -87.7121871
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1025872374",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "yesterdays-gentlemen-flossmoor",
+   "name": "Yesterday's Gentlemen",
+   "summary": "Yesterday's Gentlemen is a hair salon in Flossmoor, IL.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/yesterdays-gentlemen-flossmoor/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/yesterdays-gentlemen-flossmoor.json",
+   "address": {
+    "addressLocality": "Flossmoor",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Flossmoor",
+   "state": "IL",
+   "geo": {
+    "lat": 41.5437529,
+    "lon": -87.6792527
+   },
+   "opening_hours": "Tu 10:00-18:00; We-Fr 09:00-18:00; Sa 07:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12161943556",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "all-smiles-orthodontics-flossmoor",
+   "name": "All Smiles Orthodontics",
+   "summary": "All Smiles Orthodontics is a dentist in Flossmoor, IL.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/all-smiles-orthodontics-flossmoor/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/all-smiles-orthodontics-flossmoor.json",
+   "address": {
+    "addressLocality": "Flossmoor",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Flossmoor",
+   "state": "IL",
+   "geo": {
+    "lat": 41.5428006,
+    "lon": -87.6812303
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12161691059",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "cutters-flossmoor",
+   "name": "Cutters",
+   "summary": "Cutters is a hair salon in Flossmoor, IL.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cutters-flossmoor/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cutters-flossmoor.json",
+   "address": {
+    "addressLocality": "Flossmoor",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Flossmoor",
+   "state": "IL",
+   "geo": {
+    "lat": 41.543475,
+    "lon": -87.6795122
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12161913289",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "doyle-designed-salon-flossmoor",
+   "name": "Doyle Designed Salon",
+   "summary": "Doyle Designed Salon is a hair salon in Flossmoor, IL.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/doyle-designed-salon-flossmoor/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/doyle-designed-salon-flossmoor.json",
+   "address": {
+    "addressLocality": "Flossmoor",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Flossmoor",
+   "state": "IL",
+   "geo": {
+    "lat": 41.5424189,
+    "lon": -87.6809682
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12161713560",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "every-tooth-counts-flossmoor",
+   "name": "Every Tooth Counts",
+   "summary": "Every Tooth Counts is a dentist in Flossmoor, IL.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/every-tooth-counts-flossmoor/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/every-tooth-counts-flossmoor.json",
+   "address": {
+    "addressLocality": "Flossmoor",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Flossmoor",
+   "state": "IL",
+   "geo": {
+    "lat": 41.5428352,
+    "lon": -87.6823761
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12161734671",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "eyes-on-sterling-flossmoor",
+   "name": "Eyes on Sterling",
+   "summary": "Eyes on Sterling is an eye care practice in Flossmoor, IL.",
+   "categories": [
+    "eye doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/eyes-on-sterling-flossmoor/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/eyes-on-sterling-flossmoor.json",
+   "address": {
+    "addressLocality": "Flossmoor",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Flossmoor",
+   "state": "IL",
+   "geo": {
+    "lat": 41.5434527,
+    "lon": -87.6792379
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12161868423",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "healthy-hounds-flossmoor",
+   "name": "Healthy Hounds",
+   "summary": "Healthy Hounds is a pet store in Flossmoor, IL.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/healthy-hounds-flossmoor/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/healthy-hounds-flossmoor.json",
+   "address": {
+    "addressLocality": "Flossmoor",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Flossmoor",
+   "state": "IL",
+   "geo": {
+    "lat": 41.5434768,
+    "lon": -87.6794009
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12161924068",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "thairapy-beauty-and-wellness-flossmoor",
+   "name": "Thairapy Beauty & Wellness",
+   "summary": "Thairapy Beauty & Wellness is a nail salon in Flossmoor, IL.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/thairapy-beauty-and-wellness-flossmoor/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/thairapy-beauty-and-wellness-flossmoor.json",
+   "address": {
+    "addressLocality": "Flossmoor",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Flossmoor",
+   "state": "IL",
+   "geo": {
+    "lat": 41.5429631,
+    "lon": -87.6792965
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12161827768",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

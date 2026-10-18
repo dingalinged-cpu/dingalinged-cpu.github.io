@@ -1,0 +1,220 @@
+{
+ "place": "River Forest, IL",
+ "slug": "river-forest-il",
+ "count": 6,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "dentist river forest il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-river-forest-il.json"
+  },
+  {
+   "keyword": "massage river forest il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/massage-river-forest-il.json"
+  },
+  {
+   "keyword": "ob gyn river forest il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/ob-gyn-river-forest-il.json"
+  },
+  {
+   "keyword": "pet store river forest il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/pet-store-river-forest-il.json"
+  },
+  {
+   "keyword": "physical therapy river forest il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/physical-therapy-river-forest-il.json"
+  },
+  {
+   "keyword": "vet river forest il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/vet-river-forest-il.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "athletico-physical-therapy-river-forest",
+   "name": "Athletico Physical Therapy",
+   "summary": "Athletico Physical Therapy is a physical therapy clinic in River Forest, IL at 7339 Lake Street, River Forest, IL 60305. Website: https://www.athletico.com/locations/river-forest/.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/athletico-physical-therapy-river-forest/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/athletico-physical-therapy-river-forest.json",
+   "address": {
+    "streetAddress": "7339 Lake Street",
+    "addressLocality": "River Forest",
+    "addressRegion": "IL",
+    "postalCode": "60305",
+    "addressCountry": "US"
+   },
+   "city": "River Forest",
+   "state": "IL",
+   "zip": "60305",
+   "geo": {
+    "lat": 41.8880635,
+    "lon": -87.8080411
+   },
+   "website": "https://www.athletico.com/locations/river-forest/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13297316306",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "dentologie-river-forest",
+   "name": "Dentologie",
+   "summary": "Dentologie is a dentist in River Forest, IL at 7201 Lake Street, River Forest, IL 60305. Website: https://dentologie.com/oprf.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dentologie-river-forest/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dentologie-river-forest.json",
+   "address": {
+    "streetAddress": "7201 Lake Street",
+    "addressLocality": "River Forest",
+    "addressRegion": "IL",
+    "postalCode": "60305",
+    "addressCountry": "US"
+   },
+   "city": "River Forest",
+   "state": "IL",
+   "zip": "60305",
+   "geo": {
+    "lat": 41.8875183,
+    "lon": -87.8052457
+   },
+   "website": "https://dentologie.com/oprf",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13297316307",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "massage-envy-river-forest",
+   "name": "Massage Envy",
+   "summary": "Massage Envy is a massage studio in River Forest, IL at 7341 Lake Street, River Forest, IL 60305.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/massage-envy-river-forest/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/massage-envy-river-forest.json",
+   "address": {
+    "streetAddress": "7341 Lake Street",
+    "addressLocality": "River Forest",
+    "addressRegion": "IL",
+    "postalCode": "60305",
+    "addressCountry": "US"
+   },
+   "city": "River Forest",
+   "state": "IL",
+   "zip": "60305",
+   "geo": {
+    "lat": 41.888105,
+    "lon": -87.8080396
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7986874123",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "nye-partners-river-forest",
+   "name": "NYE Partners",
+   "summary": "NYE Partners is an OB-GYN practice in River Forest, IL at 345 Ashland Avenue, River Forest, IL 60305.",
+   "categories": [
+    "ob gyn"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/nye-partners-river-forest/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/nye-partners-river-forest.json",
+   "address": {
+    "streetAddress": "345 Ashland Avenue",
+    "addressLocality": "River Forest",
+    "addressRegion": "IL",
+    "postalCode": "60305",
+    "addressCountry": "US"
+   },
+   "city": "River Forest",
+   "state": "IL",
+   "zip": "60305",
+   "geo": {
+    "lat": 41.8863645,
+    "lon": -87.8160175
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/477393228",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "petsmart-river-forest",
+   "name": "PetSmart",
+   "summary": "PetSmart is a pet store in River Forest, IL at 7265 Lake Street, River Forest, IL 60305.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petsmart-river-forest/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petsmart-river-forest.json",
+   "address": {
+    "streetAddress": "7265 Lake Street",
+    "addressLocality": "River Forest",
+    "addressRegion": "IL",
+    "postalCode": "60305",
+    "addressCountry": "US"
+   },
+   "city": "River Forest",
+   "state": "IL",
+   "zip": "60305",
+   "geo": {
+    "lat": 41.8874584,
+    "lon": -87.8068811
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4497833050",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "river-forest-animal-hospital-river-forest",
+   "name": "River Forest Animal Hospital",
+   "summary": "River Forest Animal Hospital is a veterinarian in River Forest, IL at 7515 Lake Street, River Forest, IL 60305.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/river-forest-animal-hospital-river-forest/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/river-forest-animal-hospital-river-forest.json",
+   "address": {
+    "streetAddress": "7515 Lake Street",
+    "addressLocality": "River Forest",
+    "addressRegion": "IL",
+    "postalCode": "60305",
+    "addressCountry": "US"
+   },
+   "city": "River Forest",
+   "state": "IL",
+   "zip": "60305",
+   "geo": {
+    "lat": 41.8873375,
+    "lon": -87.8120686
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/477410959",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

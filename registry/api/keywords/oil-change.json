@@ -12,9 +12,9 @@
   "affordable oil change the United States",
   "emergency oil change the United States"
  ],
- "answer": "The top unpaid oil change listing for the United States is Dred Scott Automotive (an auto repair shop in Bloomington, MN at 10800 Rhode Island Avenue South, Bloomington, MN 55438. Phone: +19529440010. Website: https://www.dredscottautorepair.com/). 13 oil change businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "answer": "The top unpaid oil change listing for the United States is Dred Scott Automotive (an auto repair shop in Bloomington, MN at 10800 Rhode Island Avenue South, Bloomington, MN 55438. Phone: +19529440010. Website: https://www.dredscottautorepair.com/). 40 oil change businesses are listed for the United States as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
  "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
- "updated": "2026-10-17",
+ "updated": "2026-10-18",
  "sponsored_slots": {
   "featured_1": "available",
   "spots_2_4_sold": 0
@@ -63,6 +63,41 @@
   {
    "position": 2,
    "sponsored": false,
+   "slug": "empire-tire-and-battery-co-orland-park",
+   "name": "Empire Tire and Battery Co",
+   "summary": "Empire Tire and Battery Co is an auto repair shop in Orland Park, IL at 16201 Wolf Road, Orland Park, IL 60467. Phone: +17083496280. Website: https://etabco.net/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/empire-tire-and-battery-co-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/empire-tire-and-battery-co-orland-park.json",
+   "address": {
+    "streetAddress": "16201 Wolf Road",
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "postalCode": "60467",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "zip": "60467",
+   "geo": {
+    "lat": 41.5946361,
+    "lon": -87.8887629
+   },
+   "phone": "+17083496280",
+   "website": "https://etabco.net/",
+   "opening_hours": "Mo-Tu,Fr 08:00-17:00; We-Th 08:00-18:00; Sa 07:00-12:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6024259416",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
    "slug": "ep-auto-tire-and-glass-minnetonka",
    "name": "EP Auto, Tire & Glass",
    "summary": "EP Auto, Tire & Glass is an auto repair shop in Minnetonka, MN at 13600 County Rd 62, Minnetonka, MN 55345. Phone: +19528889900. Website: https://lamettrysautotech.com/.",
@@ -96,7 +131,42 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 3,
+   "position": 4,
+   "sponsored": false,
+   "slug": "firestone-naperville",
+   "name": "Firestone",
+   "summary": "Firestone is an auto repair shop in Naperville, IL at 44 West Gartner Road #112, Naperville, IL 60540. Phone: +13312132589. Website: https://local.firestonecompleteautocare.com/illinois/naperville/44-w-gartner-rd-ste-112/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/firestone-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/firestone-naperville.json",
+   "address": {
+    "streetAddress": "44 West Gartner Road #112",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60540",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60540",
+   "geo": {
+    "lat": 41.754742,
+    "lon": -88.140736
+   },
+   "phone": "+13312132589",
+   "website": "https://local.firestonecompleteautocare.com/illinois/naperville/44-w-gartner-rd-ste-112/",
+   "opening_hours": "Mo-Fr 07:00-19:00; Sa 07:00-18:00; Su 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8591829848",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
    "sponsored": false,
    "slug": "goodyear-bloomington-auto-tire-and-glass-bloomington",
    "name": "Goodyear Bloomington Auto, Tire & Glass",
@@ -131,7 +201,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 4,
+   "position": 6,
    "sponsored": false,
    "slug": "jiffy-lube-roseville",
    "name": "Jiffy Lube",
@@ -166,7 +236,77 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 5,
+   "position": 7,
+   "sponsored": false,
+   "slug": "martinez-auto-body-l-l-c-hammond",
+   "name": "Martinez Auto Body, L.L.C.",
+   "summary": "Martinez Auto Body, L.L.C. is an auto repair shop in Hammond, IN at 630 State Street, Hammond, IN 46320. Phone: +12198520718. Website: https://martinezautobody.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/martinez-auto-body-l-l-c-hammond/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/martinez-auto-body-l-l-c-hammond.json",
+   "address": {
+    "streetAddress": "630 State Street",
+    "addressLocality": "Hammond",
+    "addressRegion": "IN",
+    "postalCode": "46320",
+    "addressCountry": "US"
+   },
+   "city": "Hammond",
+   "state": "IN",
+   "zip": "46320",
+   "geo": {
+    "lat": 41.6167314,
+    "lon": -87.5126805
+   },
+   "phone": "+12198520718",
+   "website": "https://martinezautobody.com/",
+   "opening_hours": "Mo-Fr 08:00-17:00, Sa-Su CLOSED",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13231654123",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "midas-arlington-heights",
+   "name": "Midas",
+   "summary": "Midas is an auto repair shop in Arlington Heights, IL at 1150 East Rand Road, Arlington Heights, IL 60004. Phone: +18474818902. Website: https://www.midas.com/store/il/arlington-heights/1150-east-rand-road-60004?shopnum=2139.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/midas-arlington-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/midas-arlington-heights.json",
+   "address": {
+    "streetAddress": "1150 East Rand Road",
+    "addressLocality": "Arlington Heights",
+    "addressRegion": "IL",
+    "postalCode": "60004",
+    "addressCountry": "US"
+   },
+   "city": "Arlington Heights",
+   "state": "IL",
+   "zip": "60004",
+   "geo": {
+    "lat": 42.1054892,
+    "lon": -87.9691641
+   },
+   "phone": "+18474818902",
+   "website": "https://www.midas.com/store/il/arlington-heights/1150-east-rand-road-60004?shopnum=2139",
+   "opening_hours": "Mo-Fr 07:30-18:00; Sa 08:30-16:00; ",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1430377390",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
    "sponsored": false,
    "slug": "midas-roseville",
    "name": "Midas",
@@ -201,7 +341,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 6,
+   "position": 10,
    "sponsored": false,
    "slug": "park-service-saint-paul",
    "name": "Park Service",
@@ -236,7 +376,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 7,
+   "position": 11,
    "sponsored": false,
    "slug": "quick-lane-tire-and-auto-center-roseville",
    "name": "Quick Lane Tire & Auto Center",
@@ -271,7 +411,77 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 8,
+   "position": 12,
+   "sponsored": false,
+   "slug": "route-66-auto-service-willowbrook",
+   "name": "Route 66 Auto Service",
+   "summary": "Route 66 Auto Service is an auto repair shop in Willowbrook, IL at 7551 South Madison Street, Willowbrook, IL 60527. Phone: +16309200905. Website: https://www.rt66autoservice.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/route-66-auto-service-willowbrook/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/route-66-auto-service-willowbrook.json",
+   "address": {
+    "streetAddress": "7551 South Madison Street",
+    "addressLocality": "Willowbrook",
+    "addressRegion": "IL",
+    "postalCode": "60527",
+    "addressCountry": "US"
+   },
+   "city": "Willowbrook",
+   "state": "IL",
+   "zip": "60527",
+   "geo": {
+    "lat": 41.7509443,
+    "lon": -87.9345616
+   },
+   "phone": "+16309200905",
+   "website": "https://www.rt66autoservice.com/",
+   "opening_hours": "Mo-Fr 08:00-17:00; Sa 08:00-12:00; Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12714701631",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
+   "sponsored": false,
+   "slug": "take-5-oil-change-new-lenox",
+   "name": "Take 5 Oil Change",
+   "summary": "Take 5 Oil Change is an auto repair shop in New Lenox, IL at 442 East Lincoln Highway, New Lenox, IL 60451. Phone: +18157836024. Website: https://www.take5.com/locations/oil-change/illinois/new-lenox/31488/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/take-5-oil-change-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/take-5-oil-change-new-lenox.json",
+   "address": {
+    "streetAddress": "442 East Lincoln Highway",
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "postalCode": "60451",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "zip": "60451",
+   "geo": {
+    "lat": 41.5119786,
+    "lon": -87.9545299
+   },
+   "phone": "+18157836024",
+   "website": "https://www.take5.com/locations/oil-change/illinois/new-lenox/31488/",
+   "opening_hours": "Mo-Sa 07:00-19:00, Su 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1447956593",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 14,
    "sponsored": false,
    "slug": "five-star-auto-service-saint-paul",
    "name": "Five Star Auto Service",
@@ -304,7 +514,41 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 9,
+   "position": 15,
+   "sponsored": false,
+   "slug": "benak-service-inc-western-springs",
+   "name": "Benak Service, Inc.",
+   "summary": "Benak Service, Inc. is an auto repair shop in Western Springs, IL at 701 Burlington Avenue, Western Springs, IL 60558. Phone: +17082464813. Website: https://www.benakservice.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/benak-service-inc-western-springs/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/benak-service-inc-western-springs.json",
+   "address": {
+    "streetAddress": "701 Burlington Avenue",
+    "addressLocality": "Western Springs",
+    "addressRegion": "IL",
+    "postalCode": "60558",
+    "addressCountry": "US"
+   },
+   "city": "Western Springs",
+   "state": "IL",
+   "zip": "60558",
+   "geo": {
+    "lat": 41.8094154,
+    "lon": -87.8976667
+   },
+   "phone": "+17082464813",
+   "website": "https://www.benakservice.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9603239075",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 16,
    "sponsored": false,
    "slug": "castrol-premium-lube-express-minneapolis",
    "name": "Castrol Premium Lube Express",
@@ -338,7 +582,75 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 10,
+   "position": 17,
+   "sponsored": false,
+   "slug": "itasca-automotive-repair-itasca",
+   "name": "Itasca Automotive Repair",
+   "summary": "Itasca Automotive Repair is an auto repair shop in Itasca, IL at 210 West Irving Park Road, Itasca, IL 60143. Phone: +16307733373. Website: https://www.itascaauto.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/itasca-automotive-repair-itasca/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/itasca-automotive-repair-itasca.json",
+   "address": {
+    "streetAddress": "210 West Irving Park Road",
+    "addressLocality": "Itasca",
+    "addressRegion": "IL",
+    "postalCode": "60143",
+    "addressCountry": "US"
+   },
+   "city": "Itasca",
+   "state": "IL",
+   "zip": "60143",
+   "geo": {
+    "lat": 41.9712494,
+    "lon": -88.0151141
+   },
+   "phone": "+16307733373",
+   "website": "https://www.itascaauto.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7265229825",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 18,
+   "sponsored": false,
+   "slug": "pep-boys-new-lenox",
+   "name": "Pep Boys",
+   "summary": "Pep Boys is an auto repair shop in New Lenox, IL at 631 East Lincoln Highway, New Lenox, IL 60451. Phone: +18154624380. Website: https://stores.pepboys.com/il/new-lenox/631-east-lincoln-hwy.html.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pep-boys-new-lenox/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pep-boys-new-lenox.json",
+   "address": {
+    "streetAddress": "631 East Lincoln Highway",
+    "addressLocality": "New Lenox",
+    "addressRegion": "IL",
+    "postalCode": "60451",
+    "addressCountry": "US"
+   },
+   "city": "New Lenox",
+   "state": "IL",
+   "zip": "60451",
+   "geo": {
+    "lat": 41.5129711,
+    "lon": -87.9515476
+   },
+   "phone": "+18154624380",
+   "website": "https://stores.pepboys.com/il/new-lenox/631-east-lincoln-hwy.html",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/768990691",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 19,
    "sponsored": false,
    "slug": "valvoline-roseville",
    "name": "Valvoline",
@@ -370,7 +682,239 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 11,
+   "position": 20,
+   "sponsored": false,
+   "slug": "n-and-a-auto-repairs-evanston",
+   "name": "N&A Auto Repairs",
+   "summary": "N&A Auto Repairs is an auto repair shop in Evanston, IL at 1701 Howard Street, Evanston, IL 60202. Phone: +18478596191.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/n-and-a-auto-repairs-evanston/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/n-and-a-auto-repairs-evanston.json",
+   "address": {
+    "streetAddress": "1701 Howard Street",
+    "addressLocality": "Evanston",
+    "addressRegion": "IL",
+    "postalCode": "60202",
+    "addressCountry": "US"
+   },
+   "city": "Evanston",
+   "state": "IL",
+   "zip": "60202",
+   "geo": {
+    "lat": 42.0197227,
+    "lon": -87.6969941
+   },
+   "phone": "+18478596191",
+   "opening_hours": "07:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/837638673",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 21,
+   "sponsored": false,
+   "slug": "i-and-c-auto-repair-chicago",
+   "name": "I & C Auto Repair",
+   "summary": "I & C Auto Repair is an auto repair shop in Chicago, IL at 3454 North Sheffield Avenue, Chicago, IL 60657. Phone: +17735498254.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/i-and-c-auto-repair-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/i-and-c-auto-repair-chicago.json",
+   "address": {
+    "streetAddress": "3454 North Sheffield Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60657",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60657",
+   "geo": {
+    "lat": 41.9451741,
+    "lon": -87.654433
+   },
+   "phone": "+17735498254",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11294373337",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 22,
+   "sponsored": false,
+   "slug": "strickland-brothers-burbank",
+   "name": "Strickland Brothers",
+   "summary": "Strickland Brothers is an auto repair shop in Burbank, IL at 8600 South Cicero Avenue, Burbank, IL 60459. Website: https://sboilchange.com/locations/burbank-il-0101/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/strickland-brothers-burbank/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/strickland-brothers-burbank.json",
+   "address": {
+    "streetAddress": "8600 South Cicero Avenue",
+    "addressLocality": "Burbank",
+    "addressRegion": "IL",
+    "postalCode": "60459",
+    "addressCountry": "US"
+   },
+   "city": "Burbank",
+   "state": "IL",
+   "zip": "60459",
+   "geo": {
+    "lat": 41.7361497,
+    "lon": -87.7412653
+   },
+   "website": "https://sboilchange.com/locations/burbank-il-0101/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1228577084",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 23,
+   "sponsored": false,
+   "slug": "take-5-oil-change-cicero",
+   "name": "Take 5 Oil Change",
+   "summary": "Take 5 Oil Change is an auto repair shop in Cicero, IL at 2217 South Cicero Avenue, Cicero, IL 60804. Website: https://www.take5.com/locations/oil-change/illinois/cicero/31289/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/take-5-oil-change-cicero/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/take-5-oil-change-cicero.json",
+   "address": {
+    "streetAddress": "2217 South Cicero Avenue",
+    "addressLocality": "Cicero",
+    "addressRegion": "IL",
+    "postalCode": "60804",
+    "addressCountry": "US"
+   },
+   "city": "Cicero",
+   "state": "IL",
+   "zip": "60804",
+   "geo": {
+    "lat": 41.8497833,
+    "lon": -87.7438537
+   },
+   "website": "https://www.take5.com/locations/oil-change/illinois/cicero/31289/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1317963627",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 24,
+   "sponsored": false,
+   "slug": "take-5-oil-change-mount-prospect",
+   "name": "Take 5 Oil Change",
+   "summary": "Take 5 Oil Change is an auto repair shop in Mount Prospect, IL at 801 East Rand Road, Mount Prospect, IL 60056. Website: https://www.take5.com/locations/oil-change/illinois/mount-prospect/31271/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/take-5-oil-change-mount-prospect/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/take-5-oil-change-mount-prospect.json",
+   "address": {
+    "streetAddress": "801 East Rand Road",
+    "addressLocality": "Mount Prospect",
+    "addressRegion": "IL",
+    "postalCode": "60056",
+    "addressCountry": "US"
+   },
+   "city": "Mount Prospect",
+   "state": "IL",
+   "zip": "60056",
+   "geo": {
+    "lat": 42.0694654,
+    "lon": -87.9258655
+   },
+   "website": "https://www.take5.com/locations/oil-change/illinois/mount-prospect/31271/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1223971036",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 25,
+   "sponsored": false,
+   "slug": "take-5-oil-change-palos-heights",
+   "name": "Take 5 Oil Change",
+   "summary": "Take 5 Oil Change is an auto repair shop in Palos Heights, IL at 12861 Harlem Avenue, Palos Heights, IL 60463. Website: https://www.take5.com/locations/oil-change/illinois/palos-heights/31288/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/take-5-oil-change-palos-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/take-5-oil-change-palos-heights.json",
+   "address": {
+    "streetAddress": "12861 Harlem Avenue",
+    "addressLocality": "Palos Heights",
+    "addressRegion": "IL",
+    "postalCode": "60463",
+    "addressCountry": "US"
+   },
+   "city": "Palos Heights",
+   "state": "IL",
+   "zip": "60463",
+   "geo": {
+    "lat": 41.6585749,
+    "lon": -87.7955999
+   },
+   "website": "https://www.take5.com/locations/oil-change/illinois/palos-heights/31288/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1483108307",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 26,
+   "sponsored": false,
+   "slug": "take-5-oil-change-schaumburg",
+   "name": "Take 5 Oil Change",
+   "summary": "Take 5 Oil Change is an auto repair shop in Schaumburg, IL at 2 West Golf Road, Schaumburg, IL 60195. Website: https://www.take5.com/locations/oil-change/illinois/schaumburg/31270/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/take-5-oil-change-schaumburg/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/take-5-oil-change-schaumburg.json",
+   "address": {
+    "streetAddress": "2 West Golf Road",
+    "addressLocality": "Schaumburg",
+    "addressRegion": "IL",
+    "postalCode": "60195",
+    "addressCountry": "US"
+   },
+   "city": "Schaumburg",
+   "state": "IL",
+   "zip": "60195",
+   "geo": {
+    "lat": 42.0498078,
+    "lon": -88.0802057
+   },
+   "website": "https://www.take5.com/locations/oil-change/illinois/schaumburg/31270/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1336660667",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 27,
    "sponsored": false,
    "slug": "tgk-automotive-hugo",
    "name": "TGK Automotive",
@@ -403,7 +947,40 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 12,
+   "position": 28,
+   "sponsored": false,
+   "slug": "valvoline-chicago-w210153304",
+   "name": "Valvoline",
+   "summary": "Valvoline is an auto repair shop in Chicago, IL at 6001 South Pulaski Road, Chicago, IL 60629. Website: https://store.vioc.com/il/chicago/6001-s-pulaski-rd.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/valvoline-chicago-w210153304/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/valvoline-chicago-w210153304.json",
+   "address": {
+    "streetAddress": "6001 South Pulaski Road",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60629",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60629",
+   "geo": {
+    "lat": 41.7838349,
+    "lon": -87.7225474
+   },
+   "website": "https://store.vioc.com/il/chicago/6001-s-pulaski-rd",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/210153304",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 29,
    "sponsored": false,
    "slug": "honest-1-auto-care-eagan",
    "name": "Honest-1 Auto Care",
@@ -436,7 +1013,322 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 13,
+   "position": 30,
+   "sponsored": false,
+   "slug": "last-chance-auto-repair-for-cars-trucks-plainfield",
+   "name": "Last Chance Auto Repair For Cars Trucks",
+   "summary": "Last Chance Auto Repair For Cars Trucks is an auto repair shop in Plainfield, IL at 12052 South Naperville Road, Plainfield, IL 60585.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/last-chance-auto-repair-for-cars-trucks-plainfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/last-chance-auto-repair-for-cars-trucks-plainfield.json",
+   "address": {
+    "streetAddress": "12052 South Naperville Road",
+    "addressLocality": "Plainfield",
+    "addressRegion": "IL",
+    "postalCode": "60585",
+    "addressCountry": "US"
+   },
+   "city": "Plainfield",
+   "state": "IL",
+   "zip": "60585",
+   "geo": {
+    "lat": 41.6619724,
+    "lon": -88.1775959
+   },
+   "opening_hours": "Mo-Su 08:00-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6193807198",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 31,
+   "sponsored": false,
+   "slug": "jiffy-lube-calumet-city",
+   "name": "Jiffy Lube",
+   "summary": "Jiffy Lube is an auto repair shop in Calumet City, IL at 1450 Sibley Boulevard, Calumet City, IL 60409.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jiffy-lube-calumet-city/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jiffy-lube-calumet-city.json",
+   "address": {
+    "streetAddress": "1450 Sibley Boulevard",
+    "addressLocality": "Calumet City",
+    "addressRegion": "IL",
+    "postalCode": "60409",
+    "addressCountry": "US"
+   },
+   "city": "Calumet City",
+   "state": "IL",
+   "zip": "60409",
+   "geo": {
+    "lat": 41.6230656,
+    "lon": -87.5600119
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1317970878",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 32,
+   "sponsored": false,
+   "slug": "jiffy-lube-rolling-meadows",
+   "name": "Jiffy Lube",
+   "summary": "Jiffy Lube is an auto repair shop in Rolling Meadows, IL at 2100 South Plum Grove Road, Rolling Meadows, IL 60008.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jiffy-lube-rolling-meadows/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jiffy-lube-rolling-meadows.json",
+   "address": {
+    "streetAddress": "2100 South Plum Grove Road",
+    "addressLocality": "Rolling Meadows",
+    "addressRegion": "IL",
+    "postalCode": "60008",
+    "addressCountry": "US"
+   },
+   "city": "Rolling Meadows",
+   "state": "IL",
+   "zip": "60008",
+   "geo": {
+    "lat": 42.0882997,
+    "lon": -88.0434413
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/533502777",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 33,
+   "sponsored": false,
+   "slug": "northwest-lube-norridge",
+   "name": "Northwest Lube",
+   "summary": "Northwest Lube is an auto repair shop in Norridge, IL at 4928 North Cumberland Avenue, Norridge, IL 60706.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/northwest-lube-norridge/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/northwest-lube-norridge.json",
+   "address": {
+    "streetAddress": "4928 North Cumberland Avenue",
+    "addressLocality": "Norridge",
+    "addressRegion": "IL",
+    "postalCode": "60706",
+    "addressCountry": "US"
+   },
+   "city": "Norridge",
+   "state": "IL",
+   "zip": "60706",
+   "geo": {
+    "lat": 41.9695176,
+    "lon": -87.8370308
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1422150331",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 34,
+   "sponsored": false,
+   "slug": "take-5-oil-change-evergreen-park",
+   "name": "Take 5 Oil Change",
+   "summary": "Take 5 Oil Change is an auto repair shop in Evergreen Park, IL at 2650 West 95th Street, Evergreen Park, IL 60805.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/take-5-oil-change-evergreen-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/take-5-oil-change-evergreen-park.json",
+   "address": {
+    "streetAddress": "2650 West 95th Street",
+    "addressLocality": "Evergreen Park",
+    "addressRegion": "IL",
+    "postalCode": "60805",
+    "addressCountry": "US"
+   },
+   "city": "Evergreen Park",
+   "state": "IL",
+   "zip": "60805",
+   "geo": {
+    "lat": 41.7213496,
+    "lon": -87.6890241
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1206944899",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 35,
+   "sponsored": false,
+   "slug": "take-5-oil-change-midlothian",
+   "name": "Take 5 Oil Change",
+   "summary": "Take 5 Oil Change is an auto repair shop in Midlothian, IL at 14701 Cicero Avenue, Midlothian, IL 60445.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/take-5-oil-change-midlothian/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/take-5-oil-change-midlothian.json",
+   "address": {
+    "streetAddress": "14701 Cicero Avenue",
+    "addressLocality": "Midlothian",
+    "addressRegion": "IL",
+    "postalCode": "60445",
+    "addressCountry": "US"
+   },
+   "city": "Midlothian",
+   "state": "IL",
+   "zip": "60445",
+   "geo": {
+    "lat": 41.6248793,
+    "lon": -87.7367349
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1339650437",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 36,
+   "sponsored": false,
+   "slug": "take-5-oil-change-niles",
+   "name": "Take 5 Oil Change",
+   "summary": "Take 5 Oil Change is an auto repair shop in Niles, IL at 9600 North Milwaukee Avenue, Niles, IL 60714.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/take-5-oil-change-niles/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/take-5-oil-change-niles.json",
+   "address": {
+    "streetAddress": "9600 North Milwaukee Avenue",
+    "addressLocality": "Niles",
+    "addressRegion": "IL",
+    "postalCode": "60714",
+    "addressCountry": "US"
+   },
+   "city": "Niles",
+   "state": "IL",
+   "zip": "60714",
+   "geo": {
+    "lat": 42.0549226,
+    "lon": -87.8390352
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1115920346",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 37,
+   "sponsored": false,
+   "slug": "take-5-oil-change-oak-lawn",
+   "name": "Take 5 Oil Change",
+   "summary": "Take 5 Oil Change is an auto repair shop in Oak Lawn, IL at 10901 South Cicero Avenue, Oak Lawn, IL 60453.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/take-5-oil-change-oak-lawn/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/take-5-oil-change-oak-lawn.json",
+   "address": {
+    "streetAddress": "10901 South Cicero Avenue",
+    "addressLocality": "Oak Lawn",
+    "addressRegion": "IL",
+    "postalCode": "60453",
+    "addressCountry": "US"
+   },
+   "city": "Oak Lawn",
+   "state": "IL",
+   "zip": "60453",
+   "geo": {
+    "lat": 41.6943177,
+    "lon": -87.7394235
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1222640871",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 38,
+   "sponsored": false,
+   "slug": "fullers-fast-lube-mokena",
+   "name": "Fuller's Fast Lube",
+   "summary": "Fuller's Fast Lube is an auto repair shop in Mokena, IL.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fullers-fast-lube-mokena/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fullers-fast-lube-mokena.json",
+   "address": {
+    "addressLocality": "Mokena",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Mokena",
+   "state": "IL",
+   "geo": {
+    "lat": 41.5350264,
+    "lon": -87.8509668
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/436907340",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 39,
+   "sponsored": false,
+   "slug": "oil-experts-of-orland-park-orland-park",
+   "name": "Oil Experts of Orland Park",
+   "summary": "Oil Experts of Orland Park is an auto repair shop in Orland Park, IL.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/oil-experts-of-orland-park-orland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/oil-experts-of-orland-park-orland-park.json",
+   "address": {
+    "addressLocality": "Orland Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Orland Park",
+   "state": "IL",
+   "geo": {
+    "lat": 41.6017939,
+    "lon": -87.8492244
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/470090081",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 40,
    "sponsored": false,
    "slug": "valvoline-saint-paul",
    "name": "Valvoline",
@@ -464,5 +1356,225 @@
    "source_url": "https://www.openstreetmap.org/node/13269302208",
    "last_checked": "2026-10-17"
   }
- ]
+ ],
+ "market": {
+  "keyword": "oil change",
+  "slug": "oil-change",
+  "base_keyword": "oil change",
+  "scope": "national",
+  "city": null,
+  "state": null,
+  "category": "Auto services",
+  "industry": "Automotive: Repair, Service & Parts",
+  "us_monthly_searches": {
+   "value": 1830000,
+   "method": "cited",
+   "source": "r_prostarseo-com-en-the-blog-automotive-keyword-list",
+   "as_of": "2026-09",
+   "source_phrase": "oil change near me",
+   "note": "US monthly searches, Semrush US Sep 2026"
+  },
+  "local_monthly_searches": null,
+  "cpc_usd": {
+   "industry_benchmark": "Automotive: Repair, Service & Parts",
+   "low_usd": 3.9,
+   "median_usd": 4.35,
+   "high_usd": 4.35,
+   "method": "published benchmarks: low/high = range of the industry and sub-industry median CPCs listed in 'figures'; median = most specific benchmark",
+   "figures": [
+    {
+     "usd": 4.35,
+     "label": "Automotive: Repair, Service & Parts median CPC 2026",
+     "source": "wordstream_2026"
+    },
+    {
+     "usd": 3.9,
+     "label": "Automotive: Repair, Service & Parts median CPC 2025",
+     "source": "wordstream_2025"
+    }
+   ],
+   "source": "wordstream_2026",
+   "as_of": "2026",
+   "basis_for_value": {
+    "usd": 4.35,
+    "method": "benchmark median CPC",
+    "source": "wordstream_2026"
+   }
+  },
+  "ctr_pct": {
+   "value": 5.56,
+   "label": "Automotive: Repair, Service & Parts average search-ad CTR 2025",
+   "source": "wordstream_2025",
+   "as_of": "2025-03"
+  },
+  "competition": {
+   "level": "medium",
+   "method": "proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research)",
+   "source": "wordstream_2026",
+   "as_of": "2026"
+  },
+  "trend": null,
+  "seasonality": {
+   "value": null,
+   "note": "No seasonality data in the research sources for this keyword."
+  },
+  "ai_query": {
+   "text": "No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.",
+   "figures": [
+    {
+     "value": "45%",
+     "label": "US adults using AI for local recommendations",
+     "source": "brightlocal_lcrs_2026"
+    },
+    {
+     "value": "75%",
+     "label": "sessions with keyword-style prompts",
+     "source": "sagapixel_sel"
+    },
+    {
+     "value": "59%",
+     "label": "local-intent prompts that triggered web search",
+     "source": "nectiv"
+    }
+   ],
+   "as_of": "2026"
+  },
+  "registry_competitors": {
+   "value": 40,
+   "slugs": [
+    "benak-service-inc-western-springs",
+    "castrol-premium-lube-express-minneapolis",
+    "dred-scott-automotive-bloomington",
+    "empire-tire-and-battery-co-orland-park",
+    "ep-auto-tire-and-glass-minnetonka",
+    "firestone-naperville",
+    "five-star-auto-service-saint-paul",
+    "fullers-fast-lube-mokena",
+    "goodyear-bloomington-auto-tire-and-glass-bloomington",
+    "honest-1-auto-care-eagan"
+   ],
+   "method_id": "competitors",
+   "source": "registry",
+   "as_of": "2026-10-18",
+   "urls": [
+    "https://dingalinged-cpu.github.io/registry/c/benak-service-inc-western-springs/",
+    "https://dingalinged-cpu.github.io/registry/c/castrol-premium-lube-express-minneapolis/",
+    "https://dingalinged-cpu.github.io/registry/c/dred-scott-automotive-bloomington/",
+    "https://dingalinged-cpu.github.io/registry/c/empire-tire-and-battery-co-orland-park/",
+    "https://dingalinged-cpu.github.io/registry/c/ep-auto-tire-and-glass-minnetonka/",
+    "https://dingalinged-cpu.github.io/registry/c/firestone-naperville/",
+    "https://dingalinged-cpu.github.io/registry/c/five-star-auto-service-saint-paul/",
+    "https://dingalinged-cpu.github.io/registry/c/fullers-fast-lube-mokena/",
+    "https://dingalinged-cpu.github.io/registry/c/goodyear-bloomington-auto-tire-and-glass-bloomington/",
+    "https://dingalinged-cpu.github.io/registry/c/honest-1-auto-care-eagan/"
+   ],
+   "method": "count of registry listings tagged with the keyword (city/national) or with the base service in the same state (state keywords)"
+  },
+  "agent_demand": null,
+  "agent_demand_note": "Not yet measured. Will carry AI-agent query counts from the registry's agent analytics (contract: meta.agent_demand_contract in the market index).",
+  "equivalent_google_ads_cost_month": {
+   "value_usd": 440000,
+   "method": "estimate",
+   "method_id": "google_ads_equiv",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote."
+  },
+  "search_value_index": {
+   "value_usd": 8000000,
+   "method": "estimate",
+   "method_id": "value_index",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: search value index = monthly searches x CPC basis; an advertiser-value ranking signal, not revenue; rounded to 2 significant figures."
+  },
+  "auction": {
+   "featured_spot_min_usd": 100,
+   "spots_2_to_4_min_usd": 10,
+   "tier": "mid",
+   "pricing_rule": "tier minimum (premium $500, high $250, mid $100, standard $50) for national keywords; city = max($10, 20% of tier); state = max($10, 35% of tier); spots 2-4 open at 10% of the featured minimum",
+   "model": "Monthly auction in the last 7 days of each month: days 1-5 bid for the Featured #1 spot, days 6-7 for spots 2-4; winners display all next month; all paid spots labeled Sponsored.",
+   "next_auctions": [
+    {
+     "display_month": "2026-11",
+     "featured_spot_bidding": [
+      "2026-10-25",
+      "2026-10-29"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-10-30",
+      "2026-10-31"
+     ]
+    },
+    {
+     "display_month": "2026-12",
+     "featured_spot_bidding": [
+      "2026-11-24",
+      "2026-11-28"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-11-29",
+      "2026-11-30"
+     ]
+    }
+   ],
+   "source": "registry_auction",
+   "as_of": "2026-10-18"
+  },
+  "sources": {
+   "brightlocal_lcrs_2026": {
+    "name": "BrightLocal Local Consumer Review Survey 2026 (n=1,002 US adults)",
+    "url": "https://www.brightlocal.com/research/lcrs-ai-trust/",
+    "as_of": "2026"
+   },
+   "nectiv": {
+    "name": "Nectiv study of 8,500+ ChatGPT prompts",
+    "url": "https://nectivdigital.com/blog/new-data-study-what-queries-is-chatgpt-using-behind-the-scenes",
+    "as_of": "2025"
+   },
+   "r_prostarseo-com-en-the-blog-automotive-keyword-list": {
+    "name": "Semrush US Sep 2026 (via research source)",
+    "url": "https://www.prostarseo.com/en/the-blog/automotive-keyword-list",
+    "as_of": "2026-09"
+   },
+   "registry": {
+    "name": "This registry's own listings (OpenStreetMap-seeded, ODbL)",
+    "url": "https://dingalinged-cpu.github.io/registry/api/companies.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_auction": {
+    "name": "Registry keyword auction catalog and rules",
+    "url": "https://dingalinged-cpu.github.io/registry/api/keyword-prices.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_estimate": {
+    "name": "Registry estimate (CC-BY-4.0); method given on each value",
+    "url": "https://dingalinged-cpu.github.io/registry/market/",
+    "as_of": "2026-10-18"
+   },
+   "sagapixel_sel": {
+    "name": "Sagapixel ChatGPT local-services sessions, via Search Engine Land",
+    "url": "https://searchengineland.com/chatgpt-users-keywords-for-local-services-data-467715",
+    "as_of": "2026-01"
+   },
+   "wordstream_2025": {
+    "name": "WordStream Google Ads Benchmarks 2025 (16,446 US campaigns, Apr 2024-Mar 2025; median CPC and CTR by industry)",
+    "url": "https://www.wordstream.com/blog/2025-google-ads-benchmarks",
+    "as_of": "2025-03"
+   },
+   "wordstream_2026": {
+    "name": "LocaliQ/WordStream Search Advertising Benchmarks 2026 (US median CPC by industry)",
+    "url": "https://www.localiq.com/blog/search-advertising-benchmarks",
+    "as_of": "2026"
+   }
+  },
+  "license": {
+   "registry_estimates": "CC-BY-4.0",
+   "url": "https://creativecommons.org/licenses/by/4.0/",
+   "cited_figures": "attribute to the publishers in sources"
+  },
+  "as_of": "2026-10-18",
+  "api": "https://dingalinged-cpu.github.io/registry/api/market/oil-change.json",
+  "rate_card": "https://dingalinged-cpu.github.io/registry/view/market.html#oil-change"
+ }
 }

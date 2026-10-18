@@ -1,0 +1,150 @@
+{
+ "place": "South Chicago Heights, IL",
+ "slug": "south-chicago-heights-il",
+ "count": 4,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "bakery south chicago heights il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/bakery-south-chicago-heights-il.json"
+  },
+  {
+   "keyword": "furniture store south chicago heights il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/furniture-store-south-chicago-heights-il.json"
+  },
+  {
+   "keyword": "storage units south chicago heights il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/storage-units-south-chicago-heights-il.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "aarons-south-chicago-heights",
+   "name": "Aaron's",
+   "summary": "Aaron's is a furniture store in South Chicago Heights, IL at 3359 Chicago Road, South Chicago Heights, IL 60411. Website: https://locations.aarons.com/us/il/south-chicago-heights/3359-chicago-rd.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/aarons-south-chicago-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/aarons-south-chicago-heights.json",
+   "address": {
+    "streetAddress": "3359 Chicago Road",
+    "addressLocality": "South Chicago Heights",
+    "addressRegion": "IL",
+    "postalCode": "60411",
+    "addressCountry": "US"
+   },
+   "city": "South Chicago Heights",
+   "state": "IL",
+   "zip": "60411",
+   "geo": {
+    "lat": 41.4771947,
+    "lon": -87.6363831
+   },
+   "website": "https://locations.aarons.com/us/il/south-chicago-heights/3359-chicago-rd",
+   "opening_hours": "Mo-Fr 11:00-19:00; Sa 10:00-17:00; Su closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7777637596",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "extra-space-storage-south-chicago-heights",
+   "name": "Extra Space Storage",
+   "summary": "Extra Space Storage is a self-storage facility in South Chicago Heights, IL at 3200 Holeman Avenue, South Chicago Heights, IL 60411. Website: https://www.extraspace.com/storage/facilities/us/illinois/south_chicago_heights/3458/.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/extra-space-storage-south-chicago-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/extra-space-storage-south-chicago-heights.json",
+   "address": {
+    "streetAddress": "3200 Holeman Avenue",
+    "addressLocality": "South Chicago Heights",
+    "addressRegion": "IL",
+    "postalCode": "60411",
+    "addressCountry": "US"
+   },
+   "city": "South Chicago Heights",
+   "state": "IL",
+   "zip": "60411",
+   "geo": {
+    "lat": 41.4812104,
+    "lon": -87.6273356
+   },
+   "website": "https://www.extraspace.com/storage/facilities/us/illinois/south_chicago_heights/3458/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11492389572",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "hi-way-bakery-south-chicago-heights",
+   "name": "Hi-Way Bakery",
+   "summary": "Hi-Way Bakery is a bakery in South Chicago Heights, IL at 2633 Chicago Road, South Chicago Heights, IL 60411. Website: https://www.hiwaybakery.com/.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hi-way-bakery-south-chicago-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hi-way-bakery-south-chicago-heights.json",
+   "address": {
+    "streetAddress": "2633 Chicago Road",
+    "addressLocality": "South Chicago Heights",
+    "addressRegion": "IL",
+    "postalCode": "60411",
+    "addressCountry": "US"
+   },
+   "city": "South Chicago Heights",
+   "state": "IL",
+   "zip": "60411",
+   "geo": {
+    "lat": 41.4903231,
+    "lon": -87.6387251
+   },
+   "website": "https://www.hiwaybakery.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8244293714",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "rent-a-center-south-chicago-heights",
+   "name": "Rent-A-Center",
+   "summary": "Rent-A-Center is a furniture store in South Chicago Heights, IL at 3304 Chicago Road, South Chicago Heights, IL 60411.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rent-a-center-south-chicago-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rent-a-center-south-chicago-heights.json",
+   "address": {
+    "streetAddress": "3304 Chicago Road",
+    "addressLocality": "South Chicago Heights",
+    "addressRegion": "IL",
+    "postalCode": "60411",
+    "addressCountry": "US"
+   },
+   "city": "South Chicago Heights",
+   "state": "IL",
+   "zip": "60411",
+   "geo": {
+    "lat": 41.4787021,
+    "lon": -87.6383548
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7777637601",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+BP is a car wash in Skokie, IL at 3760 West Touhy Avenue, Skokie, IL 60076.
+
+# BP
+
+- Category: car wash
+- Services: car wash
+- Address: 3760 West Touhy Avenue, Skokie, IL 60076
+- City: Skokie
+- State: IL
+- ZIP: 60076
+- Coordinates: 42.0120314, -87.7226991
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/bp-skokie/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/bp-skokie.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1347027425 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

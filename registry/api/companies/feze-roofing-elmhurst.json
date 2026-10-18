@@ -1,0 +1,57 @@
+{
+ "slug": "feze-roofing-elmhurst",
+ "name": "Feze Roofing",
+ "categories": [
+  "roofer"
+ ],
+ "keywords": [
+  "roofer",
+  "roofing contractor",
+  "roofer elmhurst il",
+  "roofing contractor elmhurst il"
+ ],
+ "services": [
+  {
+   "name": "roofer",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "roofing contractor",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Elmhurst",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Elmhurst",
+ "state": "IL",
+ "geo": {
+  "lat": 41.9054025,
+  "lon": -87.9588042
+ },
+ "schema_type": "RoofingContractor",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/12092816658",
+ "osm": {
+  "type": "node",
+  "id": 12092816658,
+  "tags_used": {
+   "craft": "roofer"
+  }
+ },
+ "municipality": "Elmhurst",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/feze-roofing-elmhurst/",
+ "summary": "Feze Roofing is a roofer in Elmhurst, IL.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

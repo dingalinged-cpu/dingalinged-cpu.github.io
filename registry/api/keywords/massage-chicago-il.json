@@ -1,0 +1,1084 @@
+{
+ "keyword": "massage chicago il",
+ "slug": "massage-chicago-il",
+ "place": "Chicago, IL",
+ "service": "massage",
+ "query": "Who are the best massage providers in Chicago, IL?",
+ "matches": [
+  "massage in Chicago, IL",
+  "massage near me (Chicago, IL)",
+  "best massage Chicago, IL",
+  "top rated massage Chicago, IL",
+  "affordable massage Chicago, IL",
+  "emergency massage Chicago, IL"
+ ],
+ "answer": "The top unpaid massage listing for Chicago, IL is Bettye O Day Spa (a massage studio in Chicago, IL at 1424 East 53rd Street, Chicago, IL 60615. Phone: +17737523600. Website: https://www.bettyeodayspa.com/). 26 massage businesses are listed for Chicago, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-18",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "bettye-o-day-spa-chicago",
+   "name": "Bettye O Day Spa",
+   "summary": "Bettye O Day Spa is a massage studio in Chicago, IL at 1424 East 53rd Street, Chicago, IL 60615. Phone: +17737523600. Website: https://www.bettyeodayspa.com/.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bettye-o-day-spa-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bettye-o-day-spa-chicago.json",
+   "address": {
+    "streetAddress": "1424 East 53rd Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60615",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60615",
+   "geo": {
+    "lat": 41.7997141,
+    "lon": -87.5906886
+   },
+   "phone": "+17737523600",
+   "website": "https://www.bettyeodayspa.com/",
+   "opening_hours": "Tu, Th, Fr 10:30-16:30; Sa 10:30-15:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10964750205",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "house-of-hands-chicago",
+   "name": "House of Hands",
+   "summary": "House of Hands is a massage studio in Chicago, IL at 4500, #3 South Cottage Grove Avenue, Chicago, IL 60653. Phone: +17082942662. Website: https://www.chicagoswedishmassage.com/.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/house-of-hands-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/house-of-hands-chicago.json",
+   "address": {
+    "streetAddress": "4500, #3 South Cottage Grove Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60653",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60653",
+   "geo": {
+    "lat": 41.8130078,
+    "lon": -87.6068982
+   },
+   "phone": "+17082942662",
+   "website": "https://www.chicagoswedishmassage.com/",
+   "opening_hours": "Mo-Tu 07:00-14:00, 19:00-21:00; Th-Fr 16:00-21:00; Sa 08:00-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12241472606",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "massage-evolved-chicago",
+   "name": "Massage Evolved",
+   "summary": "Massage Evolved is a massage studio in Chicago, IL at 118 North Clinton Street #205, Chicago, IL 60661. Phone: +13128181901. Website: https://www.massageevolved.com/.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/massage-evolved-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/massage-evolved-chicago.json",
+   "address": {
+    "streetAddress": "118 North Clinton Street #205",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60661",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60661",
+   "geo": {
+    "lat": 41.8838989,
+    "lon": -87.6415232
+   },
+   "phone": "+13128181901",
+   "website": "https://www.massageevolved.com/",
+   "opening_hours": "Mo-Fr 10:00-19:00; Sa-Su 10:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12018702019",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "elements-massage-chicago",
+   "name": "Elements Massage",
+   "summary": "Elements Massage is a massage studio in Chicago, IL at 1160 South Michigan Avenue, Chicago, IL 60605. Phone: +13124362408. Website: https://elementsmassage.com/south-loop.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/elements-massage-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/elements-massage-chicago.json",
+   "address": {
+    "streetAddress": "1160 South Michigan Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60605",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60605",
+   "geo": {
+    "lat": 41.8676471,
+    "lon": -87.6243735
+   },
+   "phone": "+13124362408",
+   "website": "https://elementsmassage.com/south-loop",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13293612478",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "broadway-massage-chicago",
+   "name": "Broadway Massage",
+   "summary": "Broadway Massage is a massage studio in Chicago, IL at 4125 North Broadway, Chicago, IL 60613. Website: https://broadwaymassage.wixsite.com/bestspa.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/broadway-massage-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/broadway-massage-chicago.json",
+   "address": {
+    "streetAddress": "4125 North Broadway",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60613",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60613",
+   "geo": {
+    "lat": 41.9576538,
+    "lon": -87.6523469
+   },
+   "website": "https://broadwaymassage.wixsite.com/bestspa",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11234516058",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "lincoln-park-massage-spa-chicago",
+   "name": "Lincoln Park Massage Spa",
+   "summary": "Lincoln Park Massage Spa is a massage studio in Chicago, IL at 630 West Webster Avenue, Chicago, IL 60614. Website: https://www.lincolnparkmassage.com/.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lincoln-park-massage-spa-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lincoln-park-massage-spa-chicago.json",
+   "address": {
+    "streetAddress": "630 West Webster Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60614",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60614",
+   "geo": {
+    "lat": 41.9219818,
+    "lon": -87.6450014
+   },
+   "website": "https://www.lincolnparkmassage.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9929776595",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "massage-envy-chicago-n12681960565",
+   "name": "Massage Envy",
+   "summary": "Massage Envy is a massage studio in Chicago, IL at 1136 South Delano Court #E201, Chicago, IL 60605. Website: https://locations.massageenvy.com/illinois/chicago/1136-s--delano-ct-west.html.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/massage-envy-chicago-n12681960565/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/massage-envy-chicago-n12681960565.json",
+   "address": {
+    "streetAddress": "1136 South Delano Court #E201",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60605",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60605",
+   "geo": {
+    "lat": 41.8678776,
+    "lon": -87.6332298
+   },
+   "website": "https://locations.massageenvy.com/illinois/chicago/1136-s--delano-ct-west.html",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12681960565",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "boon-thai-spa-chicago",
+   "name": "BOON Thai Spa",
+   "summary": "BOON Thai Spa is a massage studio in Chicago, IL. Phone: +17738126666.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/boon-thai-spa-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/boon-thai-spa-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9440055,
+    "lon": -87.6495577
+   },
+   "phone": "+17738126666",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11191199752",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "golden-dream-spa-chicago",
+   "name": "Golden Dream Spa",
+   "summary": "Golden Dream Spa is a massage studio in Chicago, IL. Phone: +13129180665.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/golden-dream-spa-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/golden-dream-spa-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8958445,
+    "lon": -87.6910579
+   },
+   "phone": "+13129180665",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12918234313",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "foot-smile-spa-chicago",
+   "name": "Foot Smile Spa",
+   "summary": "Foot Smile Spa is a massage studio in Chicago, IL at 1513 West Fullerton Avenue, Chicago, IL 60614.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/foot-smile-spa-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/foot-smile-spa-chicago.json",
+   "address": {
+    "streetAddress": "1513 West Fullerton Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60614",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60614",
+   "geo": {
+    "lat": 41.9250475,
+    "lon": -87.66639
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2361072401",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 11,
+   "sponsored": false,
+   "slug": "massage-envy-chicago",
+   "name": "Massage Envy",
+   "summary": "Massage Envy is a massage studio in Chicago, IL at 1845 North Clybourn Avenue, Chicago, IL 60614.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/massage-envy-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/massage-envy-chicago.json",
+   "address": {
+    "streetAddress": "1845 North Clybourn Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60614",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60614",
+   "geo": {
+    "lat": 41.9145142,
+    "lon": -87.6542637
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10579984754",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 12,
+   "sponsored": false,
+   "slug": "massage-envy-chicago-n11518279815",
+   "name": "Massage Envy",
+   "summary": "Massage Envy is a massage studio in Chicago, IL at 1222 North Wells Street, Chicago, IL 60610.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/massage-envy-chicago-n11518279815/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/massage-envy-chicago-n11518279815.json",
+   "address": {
+    "streetAddress": "1222 North Wells Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60610",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60610",
+   "geo": {
+    "lat": 41.9046434,
+    "lon": -87.6347434
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11518279815",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
+   "sponsored": false,
+   "slug": "massage-envy-chicago-n12431624130",
+   "name": "Massage Envy",
+   "summary": "Massage Envy is a massage studio in Chicago, IL at 808 West Monroe Street, Chicago, IL 60607.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/massage-envy-chicago-n12431624130/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/massage-envy-chicago-n12431624130.json",
+   "address": {
+    "streetAddress": "808 West Monroe Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60607",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60607",
+   "geo": {
+    "lat": 41.8806121,
+    "lon": -87.6476665
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12431624130",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 14,
+   "sponsored": false,
+   "slug": "massage-envy-chicago-n12563653526",
+   "name": "Massage Envy",
+   "summary": "Massage Envy is a massage studio in Chicago, IL at 345 East Ohio Street, Chicago, IL 60611.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/massage-envy-chicago-n12563653526/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/massage-envy-chicago-n12563653526.json",
+   "address": {
+    "streetAddress": "345 East Ohio Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60611",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60611",
+   "geo": {
+    "lat": 41.8924193,
+    "lon": -87.6191557
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12563653526",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 15,
+   "sponsored": false,
+   "slug": "natural-resistance-spa-chicago",
+   "name": "Natural Resistance Spa",
+   "summary": "Natural Resistance Spa is a massage studio in Chicago, IL at 2109 West Touhy Avenue, Chicago, IL 60645.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/natural-resistance-spa-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/natural-resistance-spa-chicago.json",
+   "address": {
+    "streetAddress": "2109 West Touhy Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60645",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60645",
+   "geo": {
+    "lat": 42.0120745,
+    "lon": -87.6833703
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13627182912",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 16,
+   "sponsored": false,
+   "slug": "terminal-getaway-spa-chicago",
+   "name": "Terminal Getaway Spa",
+   "summary": "Terminal Getaway Spa is a massage studio in Chicago, IL.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/terminal-getaway-spa-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/terminal-getaway-spa-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9804749,
+    "lon": -87.9065659
+   },
+   "opening_hours": "Mo-Fr,Su 08:00-19:00; Sa 10:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6071648290",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 17,
+   "sponsored": false,
+   "slug": "the-now-chicago-n12580485269",
+   "name": "The NOW",
+   "summary": "The NOW is a massage studio in Chicago, IL at 9 South Halsted Street, Chicago, IL 60661.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-now-chicago-n12580485269/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-now-chicago-n12580485269.json",
+   "address": {
+    "streetAddress": "9 South Halsted Street",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60661",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60661",
+   "geo": {
+    "lat": 41.8812983,
+    "lon": -87.647137
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12580485269",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 18,
+   "sponsored": false,
+   "slug": "pink-spa-chicago",
+   "name": "Pink Spa",
+   "summary": "Pink Spa is a massage studio in Chicago, IL at 3748 North Ashland Avenue, Chicago, IL.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pink-spa-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pink-spa-chicago.json",
+   "address": {
+    "streetAddress": "3748 North Ashland Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9502357,
+    "lon": -87.6691749
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12309643601",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 19,
+   "sponsored": false,
+   "slug": "fit-foot-chicago",
+   "name": "Fit Foot",
+   "summary": "Fit Foot is a massage studio in Chicago, IL.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fit-foot-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fit-foot-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9250738,
+    "lon": -87.6655672
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12464024331",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 20,
+   "sponsored": false,
+   "slug": "hand-and-stone-chicago",
+   "name": "Hand And Stone",
+   "summary": "Hand And Stone is a massage studio in Chicago, IL.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hand-and-stone-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hand-and-stone-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9400197,
+    "lon": -87.6691053
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10575253308",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 21,
+   "sponsored": false,
+   "slug": "kingston-reflexology-chicago",
+   "name": "Kingston Reflexology",
+   "summary": "Kingston Reflexology is a massage studio in Chicago, IL.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kingston-reflexology-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kingston-reflexology-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9540503,
+    "lon": -87.7486774
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4089091897",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 22,
+   "sponsored": false,
+   "slug": "massage-envy-chicago-n11244738350",
+   "name": "Massage Envy",
+   "summary": "Massage Envy is a massage studio in Chicago, IL.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/massage-envy-chicago-n11244738350/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/massage-envy-chicago-n11244738350.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9329036,
+    "lon": -87.6462511
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11244738350",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 23,
+   "sponsored": false,
+   "slug": "massage-envy-chicago-n12434614036",
+   "name": "Massage Envy",
+   "summary": "Massage Envy is a massage studio in Chicago, IL.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/massage-envy-chicago-n12434614036/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/massage-envy-chicago-n12434614036.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9088446,
+    "lon": -87.6778164
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12434614036",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 24,
+   "sponsored": false,
+   "slug": "sir-spa-chicago",
+   "name": "Sir Spa",
+   "summary": "Sir Spa is a massage studio in Chicago, IL.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sir-spa-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sir-spa-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9758504,
+    "lon": -87.6682466
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11887094972",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 25,
+   "sponsored": false,
+   "slug": "the-now-chicago",
+   "name": "The Now",
+   "summary": "The Now is a massage studio in Chicago, IL.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-now-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-now-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8689348,
+    "lon": -87.625674
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11165334405",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 26,
+   "sponsored": false,
+   "slug": "tokyo-spa-chicago",
+   "name": "Tokyo Spa",
+   "summary": "Tokyo Spa is a massage studio in Chicago, IL.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tokyo-spa-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tokyo-spa-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8448932,
+    "lon": -87.6461354
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11390364473",
+   "last_checked": "2026-10-17"
+  }
+ ],
+ "market": {
+  "keyword": "massage chicago il",
+  "slug": "massage-chicago-il",
+  "base_keyword": "massage",
+  "scope": "city",
+  "city": "chicago",
+  "state": "il",
+  "category": "Personal care & beauty",
+  "industry": "Beauty & Personal Care",
+  "us_monthly_searches": {
+   "value": 5000000,
+   "method": "cited",
+   "source": "r_softscotch-com-seo-keywords-for-massage-therapists",
+   "as_of": "2026",
+   "source_phrase": "massage near me",
+   "note": "US monthly searches, keyword tool 2026; research caveat: outlier vs other sources; treat as top-bucket ceiling",
+   "caveat": "outlier vs other sources; treat as top-bucket ceiling"
+  },
+  "local_monthly_searches": {
+   "value": 140000,
+   "method": "estimate",
+   "method_id": "local_metro",
+   "geography": "Chicago-Naperville-Elgin, IL-IN metro",
+   "population": 9434123,
+   "source": "registry_estimate",
+   "volume_source": "r_softscotch-com-seo-keywords-for-massage-therapists",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: US monthly volume x metro population share (Census V2025 metro pop / US pop 341,784,857); rounded to 2 significant figures. Counts all searches for the service in the metro, not only searches that type this city name."
+  },
+  "cpc_usd": {
+   "industry_benchmark": "Beauty & Personal Care",
+   "low_usd": 4.62,
+   "median_usd": 4.62,
+   "high_usd": 5.7,
+   "method": "published benchmarks: low/high = range of the industry and sub-industry median CPCs listed in 'figures'; median = most specific benchmark",
+   "figures": [
+    {
+     "usd": 4.62,
+     "label": "Beauty & Personal Care median CPC 2026",
+     "source": "wordstream_2026"
+    },
+    {
+     "usd": 5.7,
+     "label": "Beauty & Personal Care median CPC 2025",
+     "source": "wordstream_2025"
+    }
+   ],
+   "source": "wordstream_2026",
+   "as_of": "2026",
+   "basis_for_value": {
+    "usd": 4.62,
+    "method": "benchmark median CPC",
+    "source": "wordstream_2026"
+   }
+  },
+  "ctr_pct": {
+   "value": 5.71,
+   "label": "Beauty & Personal Care average search-ad CTR 2025",
+   "source": "wordstream_2025",
+   "as_of": "2025-03"
+  },
+  "competition": {
+   "level": "medium",
+   "method": "proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research)",
+   "source": "wordstream_2026",
+   "as_of": "2026"
+  },
+  "trend": null,
+  "seasonality": {
+   "value": null,
+   "note": "No seasonality data in the research sources for this keyword."
+  },
+  "ai_query": {
+   "text": "No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.",
+   "figures": [
+    {
+     "value": "45%",
+     "label": "US adults using AI for local recommendations",
+     "source": "brightlocal_lcrs_2026"
+    },
+    {
+     "value": "75%",
+     "label": "sessions with keyword-style prompts",
+     "source": "sagapixel_sel"
+    },
+    {
+     "value": "59%",
+     "label": "local-intent prompts that triggered web search",
+     "source": "nectiv"
+    },
+    {
+     "value": "21%",
+     "label": "AI-first discovery journeys in healthcare (excerpt only)",
+     "source": "soci_2026"
+    }
+   ],
+   "as_of": "2026"
+  },
+  "registry_competitors": {
+   "value": 26,
+   "slugs": [
+    "bettye-o-day-spa-chicago",
+    "boon-thai-spa-chicago",
+    "broadway-massage-chicago",
+    "elements-massage-chicago",
+    "fit-foot-chicago",
+    "foot-smile-spa-chicago",
+    "golden-dream-spa-chicago",
+    "hand-and-stone-chicago",
+    "house-of-hands-chicago",
+    "kingston-reflexology-chicago"
+   ],
+   "method_id": "competitors",
+   "source": "registry",
+   "as_of": "2026-10-18",
+   "urls": [
+    "https://dingalinged-cpu.github.io/registry/c/bettye-o-day-spa-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/boon-thai-spa-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/broadway-massage-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/elements-massage-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/fit-foot-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/foot-smile-spa-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/golden-dream-spa-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/hand-and-stone-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/house-of-hands-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/kingston-reflexology-chicago/"
+   ],
+   "method": "count of registry listings tagged with the keyword (city/national) or with the base service in the same state (state keywords)"
+  },
+  "agent_demand": null,
+  "agent_demand_note": "Not yet measured. Will carry AI-agent query counts from the registry's agent analytics (contract: meta.agent_demand_contract in the market index).",
+  "equivalent_google_ads_cost_month": {
+   "value_usd": 37000,
+   "method": "estimate",
+   "method_id": "google_ads_equiv",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote."
+  },
+  "search_value_index": {
+   "value_usd": 650000,
+   "method": "estimate",
+   "method_id": "value_index",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: search value index = monthly searches x CPC basis; an advertiser-value ranking signal, not revenue; rounded to 2 significant figures."
+  },
+  "auction": {
+   "featured_spot_min_usd": 50,
+   "spots_2_to_4_min_usd": 5,
+   "tier": "high",
+   "pricing_rule": "tier minimum (premium $500, high $250, mid $100, standard $50) for national keywords; city = max($10, 20% of tier); state = max($10, 35% of tier); spots 2-4 open at 10% of the featured minimum",
+   "model": "Monthly auction in the last 7 days of each month: days 1-5 bid for the Featured #1 spot, days 6-7 for spots 2-4; winners display all next month; all paid spots labeled Sponsored.",
+   "next_auctions": [
+    {
+     "display_month": "2026-11",
+     "featured_spot_bidding": [
+      "2026-10-25",
+      "2026-10-29"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-10-30",
+      "2026-10-31"
+     ]
+    },
+    {
+     "display_month": "2026-12",
+     "featured_spot_bidding": [
+      "2026-11-24",
+      "2026-11-28"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-11-29",
+      "2026-11-30"
+     ]
+    }
+   ],
+   "source": "registry_auction",
+   "as_of": "2026-10-18"
+  },
+  "sources": {
+   "brightlocal_lcrs_2026": {
+    "name": "BrightLocal Local Consumer Review Survey 2026 (n=1,002 US adults)",
+    "url": "https://www.brightlocal.com/research/lcrs-ai-trust/",
+    "as_of": "2026"
+   },
+   "nectiv": {
+    "name": "Nectiv study of 8,500+ ChatGPT prompts",
+    "url": "https://nectivdigital.com/blog/new-data-study-what-queries-is-chatgpt-using-behind-the-scenes",
+    "as_of": "2025"
+   },
+   "r_softscotch-com-seo-keywords-for-massage-therapists": {
+    "name": "keyword tool 2026 (via research source)",
+    "url": "https://softscotch.com/seo-keywords-for-massage-therapists/",
+    "as_of": "2026"
+   },
+   "registry": {
+    "name": "This registry's own listings (OpenStreetMap-seeded, ODbL)",
+    "url": "https://dingalinged-cpu.github.io/registry/api/companies.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_auction": {
+    "name": "Registry keyword auction catalog and rules",
+    "url": "https://dingalinged-cpu.github.io/registry/api/keyword-prices.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_estimate": {
+    "name": "Registry estimate (CC-BY-4.0); method given on each value",
+    "url": "https://dingalinged-cpu.github.io/registry/market/",
+    "as_of": "2026-10-18"
+   },
+   "sagapixel_sel": {
+    "name": "Sagapixel ChatGPT local-services sessions, via Search Engine Land",
+    "url": "https://searchengineland.com/chatgpt-users-keywords-for-local-services-data-467715",
+    "as_of": "2026-01"
+   },
+   "soci_2026": {
+    "name": "SOCi Local Discovery Index 2026 (excerpt only, via pantora.ai)",
+    "url": "https://www.pantora.ai/blog/consumers-use-ai-to-find-local-businesses",
+    "as_of": "2026"
+   },
+   "wordstream_2025": {
+    "name": "WordStream Google Ads Benchmarks 2025 (16,446 US campaigns, Apr 2024-Mar 2025; median CPC and CTR by industry)",
+    "url": "https://www.wordstream.com/blog/2025-google-ads-benchmarks",
+    "as_of": "2025-03"
+   },
+   "wordstream_2026": {
+    "name": "LocaliQ/WordStream Search Advertising Benchmarks 2026 (US median CPC by industry)",
+    "url": "https://www.localiq.com/blog/search-advertising-benchmarks",
+    "as_of": "2026"
+   }
+  },
+  "license": {
+   "registry_estimates": "CC-BY-4.0",
+   "url": "https://creativecommons.org/licenses/by/4.0/",
+   "cited_figures": "attribute to the publishers in sources"
+  },
+  "as_of": "2026-10-18",
+  "api": "https://dingalinged-cpu.github.io/registry/api/market/massage.json",
+  "rate_card": "https://dingalinged-cpu.github.io/registry/view/market.html#massage-chicago-il"
+ }
+}

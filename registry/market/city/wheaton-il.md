@@ -1,0 +1,58 @@
+Keyword market for Wheaton, IL: 33 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Chicago-Naperville-Elgin, IL-IN metro (US volume x population share).
+
+# Top keywords in Wheaton, IL
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are in the JSON and dataset. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json
+
+## By monthly searches
+1. massage wheaton il | searches/mo 140,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $650,000 | Google Ads equiv $37,000/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/massage-wheaton-il/
+2. car wash wheaton il | searches/mo 51,000 (est) | CPC $4.35 | value $220,000 | Google Ads equiv $12,000/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/car-wash-wheaton-il/
+3. dentist wheaton il | searches/mo 51,000 (est) | CPC $4.70 | value $240,000 | Google Ads equiv $13,000/mo | our featured min $100/mo | registry competitors 6 | https://dingalinged-cpu.github.io/registry/k/dentist-wheaton-il/
+4. gym wheaton il | searches/mo 51,000 (est) | CPC $1.67 | value $85,000 | Google Ads equiv $6,100/mo | our featured min $50/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/gym-wheaton-il/
+5. hair salon wheaton il | searches/mo 41,000 (est) | CPC $0.55 | value $23,000 | Google Ads equiv $1,300/mo | our featured min $50/mo | registry competitors 6 | https://dingalinged-cpu.github.io/registry/k/hair-salon-wheaton-il/
+6. nail salon wheaton il | searches/mo 28,000 (est) | CPC $0.61 | value $17,000 | Google Ads equiv $980/mo | our featured min $50/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/nail-salon-wheaton-il/
+7. barber shop wheaton il | searches/mo 19,000 (est) | CPC $0.70 | value $13,000 | Google Ads equiv $760/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/barber-shop-wheaton-il/
+8. mechanic wheaton il | searches/mo 19,000 (est) | CPC $4.35 | value $83,000 | Google Ads equiv $4,600/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/mechanic-wheaton-il/
+9. vet wheaton il | searches/mo 15,000 (est) | CPC $4.06 | value $61,000 | Google Ads equiv $4,000/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/vet-wheaton-il/
+10. haircut wheaton il | searches/mo 10,000 (est) | CPC $4.62 | value $46,000 | Google Ads equiv $2,600/mo | our featured min $50/mo | registry competitors 7 | https://dingalinged-cpu.github.io/registry/k/haircut-wheaton-il/
+11. auto repair wheaton il | searches/mo 8,300 (est) | CPC $4.35 | value $36,000 | Google Ads equiv $2,000/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/auto-repair-wheaton-il/
+12. real estate agent wheaton il | searches/mo 5,500 (est) | CPC $3.61 | value $20,000 | Google Ads equiv $1,700/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/real-estate-agent-wheaton-il/
+13. insurance agency wheaton il | searches/mo 2,500 (est) | CPC $3.39 | value $8,500 | Google Ads equiv $710/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/insurance-agency-wheaton-il/
+14. realtor wheaton il | searches/mo 2,500 (est) | CPC $3.70 | value $9,200 | Google Ads equiv $780/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/realtor-wheaton-il/
+15. attorney wheaton il | searches/mo 2,000 (est) | CPC $9.87 | value $20,000 | Google Ads equiv $1,200/mo | our featured min $100/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/attorney-wheaton-il/
+
+## By CPC
+1. attorney wheaton il | searches/mo 2,000 (est) | CPC $9.87 | value $20,000 | Google Ads equiv $1,200/mo | our featured min $100/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/attorney-wheaton-il/
+2. lawyer wheaton il | searches/mo 1,400 (est) | CPC $9.87 | value $14,000 | Google Ads equiv $820/mo | our featured min $100/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/lawyer-wheaton-il/
+3. window repair wheaton il | searches/mo 1,100 (est) | CPC $8.76 | value $9,600 | Google Ads equiv $610/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/window-repair-wheaton-il/
+4. concrete contractor wheaton il | searches/mo 1,100 (est) | CPC $8.33 | value $9,200 | Google Ads equiv $580/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/concrete-contractor-wheaton-il/
+5. event venues wheaton il | searches/mo 6,100 (est) | CPC $7.17 | value $44,000 | Google Ads equiv $3,400/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/event-venues-wheaton-il/
+6. florist wheaton il | searches/mo 6,100 (est) | CPC $7.17 | value $44,000 | Google Ads equiv $3,400/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/florist-wheaton-il/
+7. music lessons wheaton il | searches/mo 1,100 (est) | CPC $4.81 | value $5,300 | Google Ads equiv $300/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/music-lessons-wheaton-il/
+8. preschool wheaton il | searches/mo 6,100 (est) | CPC $4.81 | value $29,000 | Google Ads equiv $1,700/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/preschool-wheaton-il/
+9. eye doctor wheaton il | searches/mo 6,100 (est) | CPC $4.76 | value $29,000 | Google Ads equiv $2,000/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/eye-doctor-wheaton-il/
+10. physical therapy wheaton il | searches/mo 6,100 (est) | CPC $4.76 | value $29,000 | Google Ads equiv $2,000/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/physical-therapy-wheaton-il/
+11. dentist wheaton il | searches/mo 51,000 (est) | CPC $4.70 | value $240,000 | Google Ads equiv $13,000/mo | our featured min $100/mo | registry competitors 6 | https://dingalinged-cpu.github.io/registry/k/dentist-wheaton-il/
+12. haircut wheaton il | searches/mo 10,000 (est) | CPC $4.62 | value $46,000 | Google Ads equiv $2,600/mo | our featured min $50/mo | registry competitors 7 | https://dingalinged-cpu.github.io/registry/k/haircut-wheaton-il/
+13. massage wheaton il | searches/mo 140,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $650,000 | Google Ads equiv $37,000/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/massage-wheaton-il/
+14. tanning salon wheaton il | searches/mo 830 (est) | CPC $4.62 | value $3,800 | Google Ads equiv $220/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/tanning-salon-wheaton-il/
+15. auto repair wheaton il | searches/mo 8,300 (est) | CPC $4.35 | value $36,000 | Google Ads equiv $2,000/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/auto-repair-wheaton-il/
+
+## By value (searches x CPC)
+1. massage wheaton il | searches/mo 140,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $650,000 | Google Ads equiv $37,000/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/massage-wheaton-il/
+2. dentist wheaton il | searches/mo 51,000 (est) | CPC $4.70 | value $240,000 | Google Ads equiv $13,000/mo | our featured min $100/mo | registry competitors 6 | https://dingalinged-cpu.github.io/registry/k/dentist-wheaton-il/
+3. car wash wheaton il | searches/mo 51,000 (est) | CPC $4.35 | value $220,000 | Google Ads equiv $12,000/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/car-wash-wheaton-il/
+4. gym wheaton il | searches/mo 51,000 (est) | CPC $1.67 | value $85,000 | Google Ads equiv $6,100/mo | our featured min $50/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/gym-wheaton-il/
+5. mechanic wheaton il | searches/mo 19,000 (est) | CPC $4.35 | value $83,000 | Google Ads equiv $4,600/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/mechanic-wheaton-il/
+6. vet wheaton il | searches/mo 15,000 (est) | CPC $4.06 | value $61,000 | Google Ads equiv $4,000/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/vet-wheaton-il/
+7. haircut wheaton il | searches/mo 10,000 (est) | CPC $4.62 | value $46,000 | Google Ads equiv $2,600/mo | our featured min $50/mo | registry competitors 7 | https://dingalinged-cpu.github.io/registry/k/haircut-wheaton-il/
+8. auto repair wheaton il | searches/mo 8,300 (est) | CPC $4.35 | value $36,000 | Google Ads equiv $2,000/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/auto-repair-wheaton-il/
+9. hair salon wheaton il | searches/mo 41,000 (est) | CPC $0.55 | value $23,000 | Google Ads equiv $1,300/mo | our featured min $50/mo | registry competitors 6 | https://dingalinged-cpu.github.io/registry/k/hair-salon-wheaton-il/
+10. attorney wheaton il | searches/mo 2,000 (est) | CPC $9.87 | value $20,000 | Google Ads equiv $1,200/mo | our featured min $100/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/attorney-wheaton-il/
+11. real estate agent wheaton il | searches/mo 5,500 (est) | CPC $3.61 | value $20,000 | Google Ads equiv $1,700/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/real-estate-agent-wheaton-il/
+12. nail salon wheaton il | searches/mo 28,000 (est) | CPC $0.61 | value $17,000 | Google Ads equiv $980/mo | our featured min $50/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/nail-salon-wheaton-il/
+13. lawyer wheaton il | searches/mo 1,400 (est) | CPC $9.87 | value $14,000 | Google Ads equiv $820/mo | our featured min $100/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/lawyer-wheaton-il/
+14. barber shop wheaton il | searches/mo 19,000 (est) | CPC $0.70 | value $13,000 | Google Ads equiv $760/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/barber-shop-wheaton-il/
+15. realtor wheaton il | searches/mo 2,500 (est) | CPC $3.70 | value $9,200 | Google Ads equiv $780/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/realtor-wheaton-il/
+
+All market data: https://dingalinged-cpu.github.io/registry/market/ | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html

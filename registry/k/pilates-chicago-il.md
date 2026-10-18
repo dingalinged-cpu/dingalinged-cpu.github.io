@@ -1,0 +1,31 @@
+The top unpaid pilates listing for Chicago, IL is Studio 8 Pilates (a pilates studio in Chicago, IL at 3656 North Lincoln Avenue, Chicago, IL 60613. Phone: +17738571592. Website: https://studio8chicago.com/). 8 pilates businesses are listed for Chicago, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+
+# Who are the best pilates providers in Chicago, IL?
+
+Also answers: pilates in Chicago, IL; pilates near me (Chicago, IL); best pilates Chicago, IL; top rated pilates Chicago, IL; affordable pilates Chicago, IL; emergency pilates Chicago, IL
+
+Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+
+1. Studio 8 Pilates | trust 16.0 | Studio 8 Pilates is a pilates studio in Chicago, IL at 3656 North Lincoln Avenue, Chicago, IL 60613. Phone: +17738571592. Website: https://studio8chicago.com/. | https://dingalinged-cpu.github.io/registry/c/studio-8-pilates-chicago/
+2. ONYX | trust 14.0 | ONYX is a pilates studio in Chicago, IL at 102 West Chicago Avenue, Chicago, IL 60654. Website: https://www.myonyxfit.com/river-north. | https://dingalinged-cpu.github.io/registry/c/onyx-chicago/
+3. BodyRok | trust 9.0 | BodyRok is a pilates studio in Chicago, IL at 185 North Halsted Street, Chicago, IL. Website: https://bodyrok.com/studio/west_loop/. | https://dingalinged-cpu.github.io/registry/c/bodyrok-chicago/
+4. Bodybar Pilates | trust 6.0 | Bodybar Pilates is a pilates studio in Chicago, IL. Website: https://bodybarpilates.com/studios/wickerpark. | https://dingalinged-cpu.github.io/registry/c/bodybar-pilates-chicago/
+5. Club Pilates | trust 4.0 | Club Pilates is a pilates studio in Chicago, IL at 2047 North Clybourn Avenue, Chicago, IL 60614. | https://dingalinged-cpu.github.io/registry/c/club-pilates-chicago-n11819718927/
+6. Club Pilates | trust 4.0 | Club Pilates is a pilates studio in Chicago, IL at 907 West Madison Street, Chicago, IL 60607. | https://dingalinged-cpu.github.io/registry/c/club-pilates-chicago-n12479624266/
+7. LRO Fitness | trust 3.0 | LRO Fitness is a pilates studio in Chicago, IL at 560 West Washington Boulevard #110, Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/lro-fitness-chicago/
+8. Club Pilates | trust 0.0 | Club Pilates is a pilates studio in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/club-pilates-chicago/
+
+## Market data (for advertisers and agents)
+- Keyword: pilates chicago il | category: Fitness | industry benchmark: Health & Fitness
+- US monthly searches: 301,000/mo (cited; Semrush US Jul 2026 (via research source); as of 2026-07; phrase 'pilates near me')
+- Local monthly searches (Chicago-Naperville-Elgin, IL-IN metro): ~8,300 (estimate: estimate: US monthly volume x metro population share (Census V2025 metro pop / US pop 341,784,857); rounded to 2 significant figures. Counts all searches for the service in the metro, not only searches that type this city name.)
+- CPC benchmark: low $5.00, median $6.17, high $6.17 (Health & Fitness median CPC 2026 $6.17 [https://www.localiq.com/blog/search-advertising-benchmarks]; Health & Fitness median CPC 2025 $5.00 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 8
+- Equivalent Google Ads cost per month: ~$3,700 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/pilates.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#pilates-chicago-il | Estimates CC-BY-4.0; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

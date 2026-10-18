@@ -1,0 +1,66 @@
+{
+ "slug": "howard-brown-health-chicago",
+ "name": "Howard Brown Health",
+ "categories": [
+  "family doctor"
+ ],
+ "keywords": [
+  "family doctor",
+  "primary care physician",
+  "family doctor chicago il",
+  "primary care physician chicago il"
+ ],
+ "services": [
+  {
+   "name": "family doctor",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "primary care physician",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1525 East 55th Street",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60637",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60637",
+ "geo": {
+  "lat": 41.7949314,
+  "lon": -87.588053
+ },
+ "phone": "+17733881600",
+ "website": "https://howardbrown.org/clinic_location/55th-street/",
+ "opening_hours": "Mo 09:00-17:00, Tu 10:00-20:00, We 09:00-17:00, Th 09:00-20:00, Fr 09:00-17:00, Sa 14:00-18:00",
+ "wikidata": "Q5919197",
+ "schema_type": "Physician",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/6960829677",
+ "osm": {
+  "type": "node",
+  "id": 6960829677,
+  "tags_used": {
+   "amenity": "clinic",
+   "healthcare": "clinic",
+   "healthcare:speciality": "general;LGBT;transgender"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/howard-brown-health-chicago/",
+ "summary": "Howard Brown Health is a family medicine practice in Chicago, IL at 1525 East 55th Street, Chicago, IL 60637. Phone: +17733881600. Website: https://howardbrown.org/clinic_location/55th-street/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

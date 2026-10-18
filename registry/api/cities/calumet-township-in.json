@@ -1,0 +1,87 @@
+{
+ "place": "Calumet Township, IN",
+ "slug": "calumet-township-in",
+ "count": 2,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "electrician calumet township in",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/electrician-calumet-township-in.json"
+  },
+  {
+   "keyword": "furniture store calumet township in",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/furniture-store-calumet-township-in.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "aaron-furniture-gary",
+   "name": "Aaron Furniture",
+   "summary": "Aaron Furniture is a furniture store in Gary, IN at 4835 West 45th Avenue, Gary, IN 46408. Phone: +12198380852. Website: https://aaronfurniturein.com/.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/aaron-furniture-gary/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/aaron-furniture-gary.json",
+   "address": {
+    "streetAddress": "4835 West 45th Avenue",
+    "addressLocality": "Gary",
+    "addressRegion": "IN",
+    "postalCode": "46408",
+    "addressCountry": "US"
+   },
+   "city": "Gary",
+   "state": "IN",
+   "zip": "46408",
+   "geo": {
+    "lat": 41.5368702,
+    "lon": -87.3974728
+   },
+   "phone": "+12198380852",
+   "website": "https://aaronfurniturein.com/",
+   "opening_hours": "Mo-Sa 10:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11333415345",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "ngr-electric-gary",
+   "name": "NGR Electric",
+   "summary": "NGR Electric is an electrician in Gary, IN at 4320 Calhoun Street, Gary, IN 46408. Phone: +12198012574.",
+   "categories": [
+    "electrician"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ngr-electric-gary/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ngr-electric-gary.json",
+   "address": {
+    "streetAddress": "4320 Calhoun Street",
+    "addressLocality": "Gary",
+    "addressRegion": "IN",
+    "postalCode": "46408",
+    "addressCountry": "US"
+   },
+   "city": "Gary",
+   "state": "IN",
+   "zip": "46408",
+   "geo": {
+    "lat": 41.5401193,
+    "lon": -87.4086029
+   },
+   "phone": "+12198012574",
+   "opening_hours": "\"By appointment\"",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13830560492",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

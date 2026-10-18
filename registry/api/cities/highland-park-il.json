@@ -1,0 +1,1301 @@
+{
+ "place": "Highland Park, IL",
+ "slug": "highland-park-il",
+ "count": 39,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "auto body shop highland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-body-shop-highland-park-il.json"
+  },
+  {
+   "keyword": "auto repair highland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-highland-park-il.json"
+  },
+  {
+   "keyword": "bike shop highland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/bike-shop-highland-park-il.json"
+  },
+  {
+   "keyword": "car wash highland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-highland-park-il.json"
+  },
+  {
+   "keyword": "coworking space highland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/coworking-space-highland-park-il.json"
+  },
+  {
+   "keyword": "daycare highland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/daycare-highland-park-il.json"
+  },
+  {
+   "keyword": "dog groomer highland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dog-groomer-highland-park-il.json"
+  },
+  {
+   "keyword": "dry cleaners highland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dry-cleaners-highland-park-il.json"
+  },
+  {
+   "keyword": "event venues highland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/event-venues-highland-park-il.json"
+  },
+  {
+   "keyword": "financial advisor highland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/financial-advisor-highland-park-il.json"
+  },
+  {
+   "keyword": "funeral home highland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/funeral-home-highland-park-il.json"
+  },
+  {
+   "keyword": "furniture store highland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/furniture-store-highland-park-il.json"
+  },
+  {
+   "keyword": "gym highland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-highland-park-il.json"
+  },
+  {
+   "keyword": "hair salon highland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-highland-park-il.json"
+  },
+  {
+   "keyword": "haircut highland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-highland-park-il.json"
+  },
+  {
+   "keyword": "insurance agency highland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-highland-park-il.json"
+  },
+  {
+   "keyword": "insurance agent highland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-highland-park-il.json"
+  },
+  {
+   "keyword": "insurance agents highland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-highland-park-il.json"
+  },
+  {
+   "keyword": "jewelry store highland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/jewelry-store-highland-park-il.json"
+  },
+  {
+   "keyword": "liquor store highland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/liquor-store-highland-park-il.json"
+  },
+  {
+   "keyword": "martial arts highland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/martial-arts-highland-park-il.json"
+  },
+  {
+   "keyword": "mechanic highland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-highland-park-il.json"
+  },
+  {
+   "keyword": "nail salon highland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/nail-salon-highland-park-il.json"
+  },
+  {
+   "keyword": "pediatrician highland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/pediatrician-highland-park-il.json"
+  },
+  {
+   "keyword": "physical therapy highland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/physical-therapy-highland-park-il.json"
+  },
+  {
+   "keyword": "pilates highland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/pilates-highland-park-il.json"
+  },
+  {
+   "keyword": "preschool highland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/preschool-highland-park-il.json"
+  },
+  {
+   "keyword": "real estate agent highland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/real-estate-agent-highland-park-il.json"
+  },
+  {
+   "keyword": "realtor highland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/realtor-highland-park-il.json"
+  },
+  {
+   "keyword": "storage units highland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/storage-units-highland-park-il.json"
+  },
+  {
+   "keyword": "thrift store highland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/thrift-store-highland-park-il.json"
+  },
+  {
+   "keyword": "vet highland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/vet-highland-park-il.json"
+  },
+  {
+   "keyword": "windshield replacement highland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/windshield-replacement-highland-park-il.json"
+  },
+  {
+   "keyword": "yoga classes highland park il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/yoga-classes-highland-park-il.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "binnys-beverage-depot-highland-park",
+   "name": "Binny's Beverage Depot",
+   "summary": "Binny's Beverage Depot is a liquor store in Highland Park, IL at 153 Skokie Valley Road, Highland Park, IL 60035. Phone: +18478315400. Website: https://www.binnys.com/store-locator/Highland-Park/.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/binnys-beverage-depot-highland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/binnys-beverage-depot-highland-park.json",
+   "address": {
+    "streetAddress": "153 Skokie Valley Road",
+    "addressLocality": "Highland Park",
+    "addressRegion": "IL",
+    "postalCode": "60035",
+    "addressCountry": "US"
+   },
+   "city": "Highland Park",
+   "state": "IL",
+   "zip": "60035",
+   "geo": {
+    "lat": 42.1559376,
+    "lon": -87.8030016
+   },
+   "phone": "+18478315400",
+   "website": "https://www.binnys.com/store-locator/Highland-Park/",
+   "opening_hours": "Mo-Fr 09:00-21:00; Sa 09:00-20:00; Su 10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9104702170",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "enclave-coworking-highland-park",
+   "name": "Enclave Coworking",
+   "summary": "Enclave Coworking is a coworking space in Highland Park, IL at 1849 Green Bay Road #109, Highland Park, IL 60035. Phone: +16302964575. Website: https://enclavecoworking.com/locations/highland-park.",
+   "categories": [
+    "coworking space"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/enclave-coworking-highland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/enclave-coworking-highland-park.json",
+   "address": {
+    "streetAddress": "1849 Green Bay Road #109",
+    "addressLocality": "Highland Park",
+    "addressRegion": "IL",
+    "postalCode": "60035",
+    "addressCountry": "US"
+   },
+   "city": "Highland Park",
+   "state": "IL",
+   "zip": "60035",
+   "geo": {
+    "lat": 42.1856271,
+    "lon": -87.8023099
+   },
+   "phone": "+16302964575",
+   "website": "https://enclavecoworking.com/locations/highland-park",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13946292831",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "jacquelines-of-highland-park-jewelers-highland-park",
+   "name": "Jacqueline's of Highland Park Jewelers",
+   "summary": "Jacqueline's of Highland Park Jewelers is a jewelry store in Highland Park, IL at 209 Skokie Valley Rd, Highland Park, IL 60035. Phone: +18475791400. Website: https://jacquelinesjewelers.com/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jacquelines-of-highland-park-jewelers-highland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jacquelines-of-highland-park-jewelers-highland-park.json",
+   "address": {
+    "streetAddress": "209 Skokie Valley Rd",
+    "addressLocality": "Highland Park",
+    "addressRegion": "IL",
+    "postalCode": "60035",
+    "addressCountry": "US"
+   },
+   "city": "Highland Park",
+   "state": "IL",
+   "zip": "60035",
+   "geo": {
+    "lat": 42.1567531,
+    "lon": -87.8036333
+   },
+   "phone": "+18475791400",
+   "website": "https://jacquelinesjewelers.com/",
+   "opening_hours": "Su-Mo CLOSED, Tu 10:00-17:00, We-Th 10:00-18:00, Fr-Sa 10:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9692579324",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "walled-lake-planning-and-wealth-management-highland-park",
+   "name": "Walled Lake Planning & Wealth Management",
+   "summary": "Walled Lake Planning & Wealth Management is a financial advisor in Highland Park, IL at 600 Elm Place, Highland Park, IL 60035. Phone: +18476162590. Website: https://wlpwm.com/.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/walled-lake-planning-and-wealth-management-highland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/walled-lake-planning-and-wealth-management-highland-park.json",
+   "address": {
+    "streetAddress": "600 Elm Place",
+    "addressLocality": "Highland Park",
+    "addressRegion": "IL",
+    "postalCode": "60035",
+    "addressCountry": "US"
+   },
+   "city": "Highland Park",
+   "state": "IL",
+   "zip": "60035",
+   "geo": {
+    "lat": 42.1872964,
+    "lon": -87.8019443
+   },
+   "phone": "+18476162590",
+   "website": "https://wlpwm.com/",
+   "opening_hours": "Mo-Fr 08:30-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11972595019",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "kelly-and-spalding-funeral-home-highland-park",
+   "name": "Kelly & Spalding Funeral Home",
+   "summary": "Kelly & Spalding Funeral Home is a funeral home in Highland Park, IL at 1787 Deerfield Road, Highland Park, IL 60035. Phone: +18478314260. Website: https://kelleyspaldingfuneralhome.com/.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kelly-and-spalding-funeral-home-highland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kelly-and-spalding-funeral-home-highland-park.json",
+   "address": {
+    "streetAddress": "1787 Deerfield Road",
+    "addressLocality": "Highland Park",
+    "addressRegion": "IL",
+    "postalCode": "60035",
+    "addressCountry": "US"
+   },
+   "city": "Highland Park",
+   "state": "IL",
+   "zip": "60035",
+   "geo": {
+    "lat": 42.1720426,
+    "lon": -87.8244738
+   },
+   "phone": "+18478314260",
+   "website": "https://kelleyspaldingfuneralhome.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/545554090",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "extra-space-storage-highland-park",
+   "name": "Extra Space Storage",
+   "summary": "Extra Space Storage is a self-storage facility in Highland Park, IL at 1610 Old Deerfield Road, Highland Park, IL 60035. Website: https://www.extraspace.com/storage/facilities/us/illinois/highland_park/500479/.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/extra-space-storage-highland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/extra-space-storage-highland-park.json",
+   "address": {
+    "streetAddress": "1610 Old Deerfield Road",
+    "addressLocality": "Highland Park",
+    "addressRegion": "IL",
+    "postalCode": "60035",
+    "addressCountry": "US"
+   },
+   "city": "Highland Park",
+   "state": "IL",
+   "zip": "60035",
+   "geo": {
+    "lat": 42.1747728,
+    "lon": -87.8198096
+   },
+   "website": "https://www.extraspace.com/storage/facilities/us/illinois/highland_park/500479/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1078576554",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "orangetheory-fitness-highland-park",
+   "name": "Orangetheory Fitness",
+   "summary": "Orangetheory Fitness is a gym in Highland Park, IL at 1835 2nd Street, Highland Park, IL 60035. Phone: +18476311122.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/orangetheory-fitness-highland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/orangetheory-fitness-highland-park.json",
+   "address": {
+    "streetAddress": "1835 2nd Street",
+    "addressLocality": "Highland Park",
+    "addressRegion": "IL",
+    "postalCode": "60035",
+    "addressCountry": "US"
+   },
+   "city": "Highland Park",
+   "state": "IL",
+   "zip": "60035",
+   "geo": {
+    "lat": 42.1858144,
+    "lon": -87.8009713
+   },
+   "phone": "+18476311122",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7965828929",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "ravinia-festival-highland-park",
+   "name": "Ravinia Festival",
+   "summary": "Ravinia Festival is an event venue in Highland Park, IL at 418 Sheridan Road, Highland Park, IL 60035. Website: https://www.ravinia.org/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ravinia-festival-highland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ravinia-festival-highland-park.json",
+   "address": {
+    "streetAddress": "418 Sheridan Road",
+    "addressLocality": "Highland Park",
+    "addressRegion": "IL",
+    "postalCode": "60035",
+    "addressCountry": "US"
+   },
+   "city": "Highland Park",
+   "state": "IL",
+   "zip": "60035",
+   "geo": {
+    "lat": 42.1573592,
+    "lon": -87.7763234
+   },
+   "website": "https://www.ravinia.org/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/relation/7419783",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "ravinia-nursery-school-highland-park",
+   "name": "Ravinia Nursery School",
+   "summary": "Ravinia Nursery School is a daycare in Highland Park, IL at 686 Red Oak Lane, Highland Park, IL 60035. Website: https://ravinianurseryschool.com/.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ravinia-nursery-school-highland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ravinia-nursery-school-highland-park.json",
+   "address": {
+    "streetAddress": "686 Red Oak Lane",
+    "addressLocality": "Highland Park",
+    "addressRegion": "IL",
+    "postalCode": "60035",
+    "addressCountry": "US"
+   },
+   "city": "Highland Park",
+   "state": "IL",
+   "zip": "60035",
+   "geo": {
+    "lat": 42.1650923,
+    "lon": -87.8190271
+   },
+   "website": "https://ravinianurseryschool.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1193553010",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "vca-cairo-animal-hospital-highland-park",
+   "name": "VCA Cairo Animal Hospital",
+   "summary": "VCA Cairo Animal Hospital is a veterinarian in Highland Park, IL at 1170 Park Avenue West, Highland Park, IL 60035. Website: https://vcahospitals.com/cairo.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/vca-cairo-animal-hospital-highland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/vca-cairo-animal-hospital-highland-park.json",
+   "address": {
+    "streetAddress": "1170 Park Avenue West",
+    "addressLocality": "Highland Park",
+    "addressRegion": "IL",
+    "postalCode": "60035",
+    "addressCountry": "US"
+   },
+   "city": "Highland Park",
+   "state": "IL",
+   "zip": "60035",
+   "geo": {
+    "lat": 42.1884895,
+    "lon": -87.818526
+   },
+   "website": "https://vcahospitals.com/cairo",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1181043387",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "waterway-car-wash-highland-park",
+   "name": "Waterway Car Wash",
+   "summary": "Waterway Car Wash is a car wash in Highland Park, IL at 64 Skokie Valley Road, Highland Park, IL 60035. Website: https://www.waterway.com/locations/highland-park/.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/waterway-car-wash-highland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/waterway-car-wash-highland-park.json",
+   "address": {
+    "streetAddress": "64 Skokie Valley Road",
+    "addressLocality": "Highland Park",
+    "addressRegion": "IL",
+    "postalCode": "60035",
+    "addressCountry": "US"
+   },
+   "city": "Highland Park",
+   "state": "IL",
+   "zip": "60035",
+   "geo": {
+    "lat": 42.1539475,
+    "lon": -87.8038665
+   },
+   "website": "https://www.waterway.com/locations/highland-park/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1369390939",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "ort-resale-shop-highland-park",
+   "name": "ORT Resale Shop",
+   "summary": "ORT Resale Shop is a thrift store in Highland Park, IL at 1710 1st Street, Highland Park, IL. Website: https://ortamerica.org/regions/chicago-region/chicago-ort-resale-shop/.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ort-resale-shop-highland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ort-resale-shop-highland-park.json",
+   "address": {
+    "streetAddress": "1710 1st Street",
+    "addressLocality": "Highland Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Highland Park",
+   "state": "IL",
+   "geo": {
+    "lat": 42.1834733,
+    "lon": -87.7985826
+   },
+   "website": "https://ortamerica.org/regions/chicago-region/chicago-ort-resale-shop/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/548466863",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "fidelity-investments-highland-park",
+   "name": "Fidelity Investments",
+   "summary": "Fidelity Investments is a financial advisor in Highland Park, IL at 1 Skokie Valley Road, Highland Park, IL 60035.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fidelity-investments-highland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fidelity-investments-highland-park.json",
+   "address": {
+    "streetAddress": "1 Skokie Valley Road",
+    "addressLocality": "Highland Park",
+    "addressRegion": "IL",
+    "postalCode": "60035",
+    "addressCountry": "US"
+   },
+   "city": "Highland Park",
+   "state": "IL",
+   "zip": "60035",
+   "geo": {
+    "lat": 42.1529649,
+    "lon": -87.8014979
+   },
+   "opening_hours": "Mo-Fr 08:30-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/115225017",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "audi-exchange-highland-park",
+   "name": "Audi Exchange",
+   "summary": "Audi Exchange is an auto repair shop in Highland Park, IL at 2490 Skokie Valley Road #D, Highland Park, IL 60035.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/audi-exchange-highland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/audi-exchange-highland-park.json",
+   "address": {
+    "streetAddress": "2490 Skokie Valley Road #D",
+    "addressLocality": "Highland Park",
+    "addressRegion": "IL",
+    "postalCode": "60035",
+    "addressCountry": "US"
+   },
+   "city": "Highland Park",
+   "state": "IL",
+   "zip": "60035",
+   "geo": {
+    "lat": 42.1955736,
+    "lon": -87.8307291
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/548211728",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "bystol-performance-center-highland-park",
+   "name": "Bystol Performance Center",
+   "summary": "Bystol Performance Center is a gym in Highland Park, IL at 1200 Old Skokie Valley Road, Highland Park, IL 60035.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bystol-performance-center-highland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bystol-performance-center-highland-park.json",
+   "address": {
+    "streetAddress": "1200 Old Skokie Valley Road",
+    "addressLocality": "Highland Park",
+    "addressRegion": "IL",
+    "postalCode": "60035",
+    "addressCountry": "US"
+   },
+   "city": "Highland Park",
+   "state": "IL",
+   "zip": "60035",
+   "geo": {
+    "lat": 42.1745969,
+    "lon": -87.8167347
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12642054247",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "caliber-collision-highland-park",
+   "name": "Caliber Collision",
+   "summary": "Caliber Collision is an auto repair shop in Highland Park, IL at 2868 Skokie Valley Road, Highland Park, IL 60035.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/caliber-collision-highland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/caliber-collision-highland-park.json",
+   "address": {
+    "streetAddress": "2868 Skokie Valley Road",
+    "addressLocality": "Highland Park",
+    "addressRegion": "IL",
+    "postalCode": "60035",
+    "addressCountry": "US"
+   },
+   "city": "Highland Park",
+   "state": "IL",
+   "zip": "60035",
+   "geo": {
+    "lat": 42.2044771,
+    "lon": -87.8362631
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1337113705",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "furry-finesse-highland-park",
+   "name": "Furry Finesse",
+   "summary": "Furry Finesse is a dog groomer in Highland Park, IL at 737 Broadview Avenue, Highland Park, IL 60035.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/furry-finesse-highland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/furry-finesse-highland-park.json",
+   "address": {
+    "streetAddress": "737 Broadview Avenue",
+    "addressLocality": "Highland Park",
+    "addressRegion": "IL",
+    "postalCode": "60035",
+    "addressCountry": "US"
+   },
+   "city": "Highland Park",
+   "state": "IL",
+   "zip": "60035",
+   "geo": {
+    "lat": 42.1657816,
+    "lon": -87.7871965
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1116334816",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "george-w-lutz-family-center-highland-park",
+   "name": "George W Lutz Family Center",
+   "summary": "George W Lutz Family Center is a preschool in Highland Park, IL at 800 Clavey Road, Highland Park, IL 60035.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/george-w-lutz-family-center-highland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/george-w-lutz-family-center-highland-park.json",
+   "address": {
+    "streetAddress": "800 Clavey Road",
+    "addressLocality": "Highland Park",
+    "addressRegion": "IL",
+    "postalCode": "60035",
+    "addressCountry": "US"
+   },
+   "city": "Highland Park",
+   "state": "IL",
+   "zip": "60035",
+   "geo": {
+    "lat": 42.1592849,
+    "lon": -87.7868869
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1174068468",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "gerber-collision-and-glass-highland-park",
+   "name": "Gerber Collision & Glass",
+   "summary": "Gerber Collision & Glass is an auto repair shop in Highland Park, IL at 1325 Park Avenue West, Highland Park, IL 60035.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gerber-collision-and-glass-highland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gerber-collision-and-glass-highland-park.json",
+   "address": {
+    "streetAddress": "1325 Park Avenue West",
+    "addressLocality": "Highland Park",
+    "addressRegion": "IL",
+    "postalCode": "60035",
+    "addressCountry": "US"
+   },
+   "city": "Highland Park",
+   "state": "IL",
+   "zip": "60035",
+   "geo": {
+    "lat": 42.1897412,
+    "lon": -87.8232279
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/545307968",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "la-fitness-highland-park",
+   "name": "LA Fitness",
+   "summary": "LA Fitness is a gym in Highland Park, IL at 135 Skokie Valley Road, Highland Park, IL 60035.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/la-fitness-highland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/la-fitness-highland-park.json",
+   "address": {
+    "streetAddress": "135 Skokie Valley Road",
+    "addressLocality": "Highland Park",
+    "addressRegion": "IL",
+    "postalCode": "60035",
+    "addressCountry": "US"
+   },
+   "city": "Highland Park",
+   "state": "IL",
+   "zip": "60035",
+   "geo": {
+    "lat": 42.1549394,
+    "lon": -87.8017625
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9104702173",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "lakeview-martial-arts-academy-highland-park",
+   "name": "Lakeview Martial Arts Academy",
+   "summary": "Lakeview Martial Arts Academy is a martial arts school in Highland Park, IL at 1614 Deerfield Road, Highland Park, IL 60035.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lakeview-martial-arts-academy-highland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lakeview-martial-arts-academy-highland-park.json",
+   "address": {
+    "streetAddress": "1614 Deerfield Road",
+    "addressLocality": "Highland Park",
+    "addressRegion": "IL",
+    "postalCode": "60035",
+    "addressCountry": "US"
+   },
+   "city": "Highland Park",
+   "state": "IL",
+   "zip": "60035",
+   "geo": {
+    "lat": 42.175691,
+    "lon": -87.8214895
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8436452523",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "midas-highland-park",
+   "name": "Midas",
+   "summary": "Midas is an auto repair shop in Highland Park, IL at 60 Skokie Valley Road, Highland Park, IL 60035.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/midas-highland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/midas-highland-park.json",
+   "address": {
+    "streetAddress": "60 Skokie Valley Road",
+    "addressLocality": "Highland Park",
+    "addressRegion": "IL",
+    "postalCode": "60035",
+    "addressCountry": "US"
+   },
+   "city": "Highland Park",
+   "state": "IL",
+   "zip": "60035",
+   "geo": {
+    "lat": 42.1535975,
+    "lon": -87.8030007
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10035651859",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "north-shore-auto-spa-highland-park",
+   "name": "North Shore Auto Spa",
+   "summary": "North Shore Auto Spa is a car wash in Highland Park, IL at 2744 Skokie Valley Road, Highland Park, IL 60035.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/north-shore-auto-spa-highland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/north-shore-auto-spa-highland-park.json",
+   "address": {
+    "streetAddress": "2744 Skokie Valley Road",
+    "addressLocality": "Highland Park",
+    "addressRegion": "IL",
+    "postalCode": "60035",
+    "addressCountry": "US"
+   },
+   "city": "Highland Park",
+   "state": "IL",
+   "zip": "60035",
+   "geo": {
+    "lat": 42.2019417,
+    "lon": -87.8349021
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/548211794",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "pottery-barn-highland-park",
+   "name": "Pottery Barn",
+   "summary": "Pottery Barn is a furniture store in Highland Park, IL at 1850 2nd Street #104, Highland Park, IL 60035.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pottery-barn-highland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pottery-barn-highland-park.json",
+   "address": {
+    "streetAddress": "1850 2nd Street #104",
+    "addressLocality": "Highland Park",
+    "addressRegion": "IL",
+    "postalCode": "60035",
+    "addressCountry": "US"
+   },
+   "city": "Highland Park",
+   "state": "IL",
+   "zip": "60035",
+   "geo": {
+    "lat": 42.1857966,
+    "lon": -87.8014906
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7965828920",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "shell-highland-park",
+   "name": "Shell",
+   "summary": "Shell is a car wash in Highland Park, IL at 10 Skokie Valley Road, Highland Park, IL 60035.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/shell-highland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/shell-highland-park.json",
+   "address": {
+    "streetAddress": "10 Skokie Valley Road",
+    "addressLocality": "Highland Park",
+    "addressRegion": "IL",
+    "postalCode": "60035",
+    "addressCountry": "US"
+   },
+   "city": "Highland Park",
+   "state": "IL",
+   "zip": "60035",
+   "geo": {
+    "lat": 42.1530502,
+    "lon": -87.8034601
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1336896378",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "trek-highland-park",
+   "name": "Trek",
+   "summary": "Trek is a bike shop in Highland Park, IL at 1925 Skokie Valley Road, Highland Park, IL 60035.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/trek-highland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/trek-highland-park.json",
+   "address": {
+    "streetAddress": "1925 Skokie Valley Road",
+    "addressLocality": "Highland Park",
+    "addressRegion": "IL",
+    "postalCode": "60035",
+    "addressCountry": "US"
+   },
+   "city": "Highland Park",
+   "state": "IL",
+   "zip": "60035",
+   "geo": {
+    "lat": 42.1870848,
+    "lon": -87.8229368
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5752457992",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "properties-highland-park",
+   "name": "@ Properties",
+   "summary": "@ Properties is a real estate agency in Highland Park, IL.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/properties-highland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/properties-highland-park.json",
+   "address": {
+    "addressLocality": "Highland Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Highland Park",
+   "state": "IL",
+   "geo": {
+    "lat": 42.1840988,
+    "lon": -87.7999611
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11874922476",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "allstate-highland-park",
+   "name": "Allstate",
+   "summary": "Allstate is an insurance agent in Highland Park, IL.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/allstate-highland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/allstate-highland-park.json",
+   "address": {
+    "addressLocality": "Highland Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Highland Park",
+   "state": "IL",
+   "geo": {
+    "lat": 42.1842311,
+    "lon": -87.7996735
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11874919946",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "christies-international-real-estate-highland-park",
+   "name": "Christie's International Real Estate",
+   "summary": "Christie's International Real Estate is a real estate agency in Highland Park, IL.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/christies-international-real-estate-highland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/christies-international-real-estate-highland-park.json",
+   "address": {
+    "addressLocality": "Highland Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Highland Park",
+   "state": "IL",
+   "geo": {
+    "lat": 42.1841869,
+    "lon": -87.7997694
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11874919958",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "core-pilates-highland-park",
+   "name": "Core Pilates",
+   "summary": "Core Pilates is a pilates studio in Highland Park, IL.",
+   "categories": [
+    "pilates"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/core-pilates-highland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/core-pilates-highland-park.json",
+   "address": {
+    "addressLocality": "Highland Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Highland Park",
+   "state": "IL",
+   "geo": {
+    "lat": 42.2164229,
+    "lon": -87.8211644
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2805227793",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "gmm-nails-highland-park",
+   "name": "GMM Nails",
+   "summary": "GMM Nails is a nail salon in Highland Park, IL.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gmm-nails-highland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gmm-nails-highland-park.json",
+   "address": {
+    "addressLocality": "Highland Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Highland Park",
+   "state": "IL",
+   "geo": {
+    "lat": 42.1839521,
+    "lon": -87.799542
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11874872957",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "martinizing-highland-park",
+   "name": "Martinizing",
+   "summary": "Martinizing is a dry cleaner in Highland Park, IL.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/martinizing-highland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/martinizing-highland-park.json",
+   "address": {
+    "addressLocality": "Highland Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Highland Park",
+   "state": "IL",
+   "geo": {
+    "lat": 42.1839871,
+    "lon": -87.7988881
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11874923591",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "north-shore-rehab-highland-park",
+   "name": "North Shore Rehab",
+   "summary": "North Shore Rehab is a physical therapy clinic in Highland Park, IL.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/north-shore-rehab-highland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/north-shore-rehab-highland-park.json",
+   "address": {
+    "addressLocality": "Highland Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Highland Park",
+   "state": "IL",
+   "geo": {
+    "lat": 42.1844164,
+    "lon": -87.7991263
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11874917953",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "pedia-trust-highland-park",
+   "name": "Pedia Trust",
+   "summary": "Pedia Trust is a pediatrician in Highland Park, IL.",
+   "categories": [
+    "pediatrician"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pedia-trust-highland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pedia-trust-highland-park.json",
+   "address": {
+    "addressLocality": "Highland Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Highland Park",
+   "state": "IL",
+   "geo": {
+    "lat": 42.1849982,
+    "lon": -87.7999905
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13194492475",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "smart-jewler-highland-park",
+   "name": "Smart Jewler",
+   "summary": "Smart Jewler is a jewelry store in Highland Park, IL.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/smart-jewler-highland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/smart-jewler-highland-park.json",
+   "address": {
+    "addressLocality": "Highland Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Highland Park",
+   "state": "IL",
+   "geo": {
+    "lat": 42.1852715,
+    "lon": -87.7998571
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13194448332",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "the-pilates-center-highland-park",
+   "name": "The Pilates Center",
+   "summary": "The Pilates Center is a gym in Highland Park, IL.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-pilates-center-highland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-pilates-center-highland-park.json",
+   "address": {
+    "addressLocality": "Highland Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Highland Park",
+   "state": "IL",
+   "geo": {
+    "lat": 42.1839363,
+    "lon": -87.7995867
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11874882141",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "untangle-hair-salon-highland-park",
+   "name": "Untangle Hair Salon",
+   "summary": "Untangle Hair Salon is a hair salon in Highland Park, IL.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/untangle-hair-salon-highland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/untangle-hair-salon-highland-park.json",
+   "address": {
+    "addressLocality": "Highland Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Highland Park",
+   "state": "IL",
+   "geo": {
+    "lat": 42.18397,
+    "lon": -87.7994963
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11874920435",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "wash-savvy-highland-park",
+   "name": "Wash Savvy",
+   "summary": "Wash Savvy is a car wash in Highland Park, IL.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wash-savvy-highland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wash-savvy-highland-park.json",
+   "address": {
+    "addressLocality": "Highland Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Highland Park",
+   "state": "IL",
+   "geo": {
+    "lat": 42.1840001,
+    "lon": -87.799205
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11874925784",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "yoga-six-highland-park",
+   "name": "Yoga Six",
+   "summary": "Yoga Six is a yoga studio in Highland Park, IL.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/yoga-six-highland-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/yoga-six-highland-park.json",
+   "address": {
+    "addressLocality": "Highland Park",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Highland Park",
+   "state": "IL",
+   "geo": {
+    "lat": 42.1844401,
+    "lon": -87.8002173
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13194761842",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+Smiles on Elston is a dentist in Chicago, IL at 5780 North Elston Avenue, Chicago, IL 60646. Website: https://www.smilesonelston.com/.
+
+# Smiles on Elston
+
+- Category: dentist
+- Services: dentist
+- Address: 5780 North Elston Avenue, Chicago, IL 60646
+- City: Chicago
+- State: IL
+- ZIP: 60646
+- Coordinates: 41.9862739, -87.7713778
+- Phone: n/a
+- Website: https://www.smilesonelston.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/smiles-on-elston-chicago/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/smiles-on-elston-chicago.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12848608402 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,0 +1,23 @@
+Wise Guys is a hair salon in Countryside, IL.
+
+# Wise Guys
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: Countryside, IL
+- City: Countryside
+- State: IL
+- ZIP: n/a
+- Coordinates: 41.7832912, -87.8718935
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/wise-guys-countryside/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/wise-guys-countryside.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9698553895 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

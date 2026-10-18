@@ -1,0 +1,51 @@
+{
+ "slug": "darian-liquor-darien",
+ "name": "Darian Liquor",
+ "categories": [
+  "liquor store"
+ ],
+ "keywords": [
+  "liquor store",
+  "liquor store darien il"
+ ],
+ "services": [
+  {
+   "name": "liquor store",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Darien",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Darien",
+ "state": "IL",
+ "geo": {
+  "lat": 41.7404374,
+  "lon": -87.9720725
+ },
+ "schema_type": "LiquorStore",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/13519801951",
+ "osm": {
+  "type": "node",
+  "id": 13519801951,
+  "tags_used": {
+   "shop": "alcohol"
+  }
+ },
+ "municipality": "Darien",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/darian-liquor-darien/",
+ "summary": "Darian Liquor is a liquor store in Darien, IL.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

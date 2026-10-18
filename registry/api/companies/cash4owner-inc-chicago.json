@@ -1,0 +1,63 @@
+{
+ "slug": "cash4owner-inc-chicago",
+ "name": "Cash4Owner Inc.",
+ "categories": [
+  "real estate agent"
+ ],
+ "keywords": [
+  "real estate agent",
+  "realtor",
+  "real estate agent chicago il",
+  "realtor chicago il"
+ ],
+ "services": [
+  {
+   "name": "real estate agent",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "realtor",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "4044 North Lincoln Avenue #506",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60618",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60618",
+ "geo": {
+  "lat": 41.9553176,
+  "lon": -87.6799196
+ },
+ "phone": "+18779301112",
+ "website": "https://cash4owner.com/",
+ "opening_hours": "Mo-Fr 09:00-18:00",
+ "schema_type": "RealEstateAgent",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/10020172299",
+ "osm": {
+  "type": "node",
+  "id": 10020172299,
+  "tags_used": {
+   "office": "estate_agent"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/cash4owner-inc-chicago/",
+ "summary": "Cash4Owner Inc. is a real estate agency in Chicago, IL at 4044 North Lincoln Avenue #506, Chicago, IL 60618. Phone: +18779301112. Website: https://cash4owner.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

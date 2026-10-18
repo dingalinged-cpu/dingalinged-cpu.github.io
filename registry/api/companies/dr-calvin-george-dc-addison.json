@@ -1,0 +1,58 @@
+{
+ "slug": "dr-calvin-george-dc-addison",
+ "name": "Dr. Calvin George, DC",
+ "categories": [
+  "chiropractor"
+ ],
+ "keywords": [
+  "chiropractor",
+  "chiropractor addison il"
+ ],
+ "services": [
+  {
+   "name": "chiropractor",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "190 N Swift Rd Ste S",
+  "addressLocality": "Addison",
+  "addressRegion": "IL",
+  "postalCode": "60101",
+  "addressCountry": "US"
+ },
+ "city": "Addison",
+ "state": "IL",
+ "zip": "60101",
+ "geo": {
+  "lat": 41.9320976,
+  "lon": -88.0435723
+ },
+ "phone": "+16305990950",
+ "website": "https://drgeorge-chiropractic.com/",
+ "opening_hours": "Mo-Fr 9:00AM to 5:00PM,Saturday: 8:30AM to 12:00PM",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/4314516775",
+ "osm": {
+  "type": "node",
+  "id": 4314516775,
+  "tags_used": {
+   "healthcare": "alternative",
+   "healthcare:speciality": "chiropractic"
+  }
+ },
+ "municipality": "Addison",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/dr-calvin-george-dc-addison/",
+ "summary": "Dr. Calvin George, DC is a chiropractor in Addison, IL at 190 N Swift Rd Ste S, Addison, IL 60101. Phone: +16305990950. Website: https://drgeorge-chiropractic.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

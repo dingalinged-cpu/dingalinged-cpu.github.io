@@ -1,0 +1,57 @@
+{
+ "slug": "hope-dental-countryside",
+ "name": "Hope Dental",
+ "categories": [
+  "dentist"
+ ],
+ "keywords": [
+  "dentist",
+  "dentist countryside il"
+ ],
+ "services": [
+  {
+   "name": "dentist",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "6538 Joliet Road",
+  "addressLocality": "Countryside",
+  "addressRegion": "IL",
+  "postalCode": "60525",
+  "addressCountry": "US"
+ },
+ "city": "Countryside",
+ "state": "IL",
+ "zip": "60525",
+ "geo": {
+  "lat": 41.7696672,
+  "lon": -87.8862641
+ },
+ "phone": "+17083542227",
+ "website": "https://www.myhopedental.com/",
+ "schema_type": "Dentist",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/10172624460",
+ "osm": {
+  "type": "node",
+  "id": 10172624460,
+  "tags_used": {
+   "amenity": "dentist",
+   "healthcare": "dentist"
+  }
+ },
+ "municipality": "Countryside",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/hope-dental-countryside/",
+ "summary": "Hope Dental is a dentist in Countryside, IL at 6538 Joliet Road, Countryside, IL 60525. Phone: +17083542227. Website: https://www.myhopedental.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,53 @@
+{
+ "slug": "public-storage-palatine",
+ "name": "Public Storage",
+ "categories": [
+  "storage units"
+ ],
+ "keywords": [
+  "storage units",
+  "storage units palatine il"
+ ],
+ "services": [
+  {
+   "name": "storage units",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Palatine",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Palatine",
+ "state": "IL",
+ "geo": {
+  "lat": 42.1382761,
+  "lon": -88.010455
+ },
+ "brand": "Public Storage",
+ "wikidata": "Q1156045",
+ "schema_type": "SelfStorage",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/267160605",
+ "osm": {
+  "type": "way",
+  "id": 267160605,
+  "tags_used": {
+   "shop": "storage_rental"
+  }
+ },
+ "municipality": "Palatine",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/public-storage-palatine/",
+ "summary": "Public Storage is a self-storage facility in Palatine, IL.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

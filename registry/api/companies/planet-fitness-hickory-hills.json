@@ -1,0 +1,56 @@
+{
+ "slug": "planet-fitness-hickory-hills",
+ "name": "Planet Fitness",
+ "categories": [
+  "gym"
+ ],
+ "keywords": [
+  "gym",
+  "gym hickory hills il"
+ ],
+ "services": [
+  {
+   "name": "gym",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "9652 South Roberts Road",
+  "addressLocality": "Hickory Hills",
+  "addressRegion": "IL",
+  "postalCode": "60457",
+  "addressCountry": "US"
+ },
+ "city": "Hickory Hills",
+ "state": "IL",
+ "zip": "60457",
+ "geo": {
+  "lat": 41.7152537,
+  "lon": -87.8185962
+ },
+ "brand": "Planet Fitness",
+ "wikidata": "Q7201095",
+ "schema_type": "ExerciseGym",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/12313768491",
+ "osm": {
+  "type": "node",
+  "id": 12313768491,
+  "tags_used": {
+   "leisure": "fitness_centre"
+  }
+ },
+ "municipality": "Hickory Hills",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/planet-fitness-hickory-hills/",
+ "summary": "Planet Fitness is a gym in Hickory Hills, IL at 9652 South Roberts Road, Hickory Hills, IL 60457.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

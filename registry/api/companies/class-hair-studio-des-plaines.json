@@ -1,0 +1,57 @@
+{
+ "slug": "class-hair-studio-des-plaines",
+ "name": "Class Hair Studio",
+ "categories": [
+  "hair salon"
+ ],
+ "keywords": [
+  "hair salon",
+  "haircut",
+  "hair salon des plaines il",
+  "haircut des plaines il"
+ ],
+ "services": [
+  {
+   "name": "hair salon",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "haircut",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Des Plaines",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Des Plaines",
+ "state": "IL",
+ "geo": {
+  "lat": 42.040954,
+  "lon": -87.8898713
+ },
+ "schema_type": "HairSalon",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/671186833",
+ "osm": {
+  "type": "way",
+  "id": 671186833,
+  "tags_used": {
+   "shop": "hairdresser"
+  }
+ },
+ "municipality": "Des Plaines",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/class-hair-studio-des-plaines/",
+ "summary": "Class Hair Studio is a hair salon in Des Plaines, IL.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

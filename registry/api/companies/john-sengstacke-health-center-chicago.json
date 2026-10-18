@@ -1,0 +1,81 @@
+{
+ "slug": "john-sengstacke-health-center-chicago",
+ "name": "John Sengstacke Health Center",
+ "categories": [
+  "family doctor"
+ ],
+ "keywords": [
+  "family doctor",
+  "primary care physician",
+  "ob gyn",
+  "pediatrician",
+  "therapist",
+  "family doctor chicago il",
+  "primary care physician chicago il",
+  "ob gyn chicago il",
+  "pediatrician chicago il",
+  "therapist chicago il"
+ ],
+ "services": [
+  {
+   "name": "family doctor",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "primary care physician",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "ob gyn",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "pediatrician",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "therapist",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "500 East 51st Street",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60615",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60615",
+ "geo": {
+  "lat": 41.8024002,
+  "lon": -87.613778
+ },
+ "website": "https://www.cookcountyhhs.org/health-centers/john-sengstacke-health-center/",
+ "schema_type": "Physician",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/6328368698",
+ "osm": {
+  "type": "node",
+  "id": 6328368698,
+  "tags_used": {
+   "amenity": "clinic",
+   "healthcare": "clinic",
+   "healthcare:speciality": "family_medicine;internal_medicine;obstetrics;gynaecology;pediatrics;psychiatry;surgery"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/john-sengstacke-health-center-chicago/",
+ "summary": "John Sengstacke Health Center is a family medicine practice in Chicago, IL at 500 East 51st Street, Chicago, IL 60615. Website: https://www.cookcountyhhs.org/health-centers/john-sengstacke-health-center/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

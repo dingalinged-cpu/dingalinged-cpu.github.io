@@ -1,0 +1,57 @@
+{
+ "slug": "bff-bikes-chicago-n12004405010",
+ "name": "BFF Bikes",
+ "categories": [
+  "bike shop"
+ ],
+ "keywords": [
+  "bike shop",
+  "bike shop chicago il"
+ ],
+ "services": [
+  {
+   "name": "bike shop",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "2056 North Damen Avenue",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60647",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60647",
+ "geo": {
+  "lat": 41.9193847,
+  "lon": -87.6778373
+ },
+ "phone": "+17736665153",
+ "website": "https://www.bffbikes.com/",
+ "opening_hours": "Mo 10:00-18:00; We-Th 10:00-19:00; Fr-Sa 10:00-18:00; Su 11:00-16:00",
+ "schema_type": "BikeStore",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/12004405010",
+ "osm": {
+  "type": "node",
+  "id": 12004405010,
+  "tags_used": {
+   "shop": "bicycle"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/bff-bikes-chicago-n12004405010/",
+ "summary": "BFF Bikes is a bike shop in Chicago, IL at 2056 North Damen Avenue, Chicago, IL 60647. Phone: +17736665153. Website: https://www.bffbikes.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,23 @@
+Firestone is an auto repair shop in Chicago, IL at 5215 North Milwaukee Avenue, Chicago, IL 60630.
+
+# Firestone
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 5215 North Milwaukee Avenue, Chicago, IL 60630
+- City: Chicago
+- State: IL
+- ZIP: 60630
+- Coordinates: 41.975268, -87.7668115
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/firestone-chicago-w162805368/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/firestone-chicago-w162805368.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/162805368 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

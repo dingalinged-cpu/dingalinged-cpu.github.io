@@ -1,0 +1,60 @@
+{
+ "slug": "peppers-auto-care-lemont-township",
+ "name": "Pepper's Auto Care",
+ "categories": [
+  "auto repair"
+ ],
+ "keywords": [
+  "auto repair",
+  "mechanic",
+  "auto repair lemont township il",
+  "mechanic lemont township il"
+ ],
+ "services": [
+  {
+   "name": "auto repair",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "mechanic",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "16191 127th Street",
+  "addressLocality": "Lemont Township",
+  "addressRegion": "IL",
+  "postalCode": "60439",
+  "addressCountry": "US"
+ },
+ "city": "Lemont Township",
+ "state": "IL",
+ "zip": "60439",
+ "geo": {
+  "lat": 41.656914,
+  "lon": -88.014157
+ },
+ "schema_type": "AutoRepair",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/3211139762",
+ "osm": {
+  "type": "node",
+  "id": 3211139762,
+  "tags_used": {
+   "shop": "car_repair"
+  }
+ },
+ "municipality": "Lemont Township",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/peppers-auto-care-lemont-township/",
+ "summary": "Pepper's Auto Care is an auto repair shop in Lemont Township, IL at 16191 127th Street, Lemont Township, IL 60439.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

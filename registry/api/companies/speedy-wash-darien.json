@@ -1,0 +1,53 @@
+{
+ "slug": "speedy-wash-darien",
+ "name": "Speedy Wash",
+ "categories": [
+  "car wash"
+ ],
+ "keywords": [
+  "car wash",
+  "car wash darien il"
+ ],
+ "services": [
+  {
+   "name": "car wash",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Darien",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "city": "Darien",
+ "state": "IL",
+ "geo": {
+  "lat": 41.7005726,
+  "lon": -88.0072284
+ },
+ "brand": "Speedway",
+ "wikidata": "Q7575683",
+ "schema_type": "AutoWash",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/544408702",
+ "osm": {
+  "type": "way",
+  "id": 544408702,
+  "tags_used": {
+   "amenity": "car_wash"
+  }
+ },
+ "municipality": "Darien",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/speedy-wash-darien/",
+ "summary": "Speedy Wash is a car wash in Darien, IL.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

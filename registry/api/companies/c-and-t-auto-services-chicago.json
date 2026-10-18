@@ -1,0 +1,69 @@
+{
+ "slug": "c-and-t-auto-services-chicago",
+ "name": "C&T Auto Services",
+ "categories": [
+  "auto repair"
+ ],
+ "keywords": [
+  "auto repair",
+  "mechanic",
+  "brake repair",
+  "auto repair chicago il",
+  "mechanic chicago il",
+  "brake repair chicago il"
+ ],
+ "services": [
+  {
+   "name": "auto repair",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "mechanic",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "brake repair",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "9200 South Stony Island Avenue",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60617",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60617",
+ "geo": {
+  "lat": 41.727499,
+  "lon": -87.5858315
+ },
+ "phone": "+17734373082",
+ "website": "https://candtautoservices.com/",
+ "opening_hours": "Mo-Sa 08:00-18:00",
+ "schema_type": "AutoRepair",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/13634928256",
+ "osm": {
+  "type": "node",
+  "id": 13634928256,
+  "tags_used": {
+   "shop": "car_repair"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/c-and-t-auto-services-chicago/",
+ "summary": "C&T Auto Services is an auto repair shop in Chicago, IL at 9200 South Stony Island Avenue, Chicago, IL 60617. Phone: +17734373082. Website: https://candtautoservices.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

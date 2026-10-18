@@ -1,0 +1,61 @@
+{
+ "slug": "tonys-barber-shop-downers-grove",
+ "name": "Tony's Barber Shop",
+ "categories": [
+  "hair salon"
+ ],
+ "keywords": [
+  "hair salon",
+  "haircut",
+  "hair salon downers grove il",
+  "haircut downers grove il"
+ ],
+ "services": [
+  {
+   "name": "hair salon",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "haircut",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "6228A Main Street",
+  "addressLocality": "Downers Grove",
+  "addressRegion": "IL",
+  "postalCode": "60516",
+  "addressCountry": "US"
+ },
+ "city": "Downers Grove",
+ "state": "IL",
+ "zip": "60516",
+ "geo": {
+  "lat": 41.773644,
+  "lon": -88.0105091
+ },
+ "phone": "+16309686919",
+ "schema_type": "HairSalon",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/5792665798",
+ "osm": {
+  "type": "node",
+  "id": 5792665798,
+  "tags_used": {
+   "shop": "hairdresser"
+  }
+ },
+ "municipality": "Downers Grove",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/tonys-barber-shop-downers-grove/",
+ "summary": "Tony's Barber Shop is a hair salon in Downers Grove, IL at 6228A Main Street, Downers Grove, IL 60516. Phone: +16309686919.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

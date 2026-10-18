@@ -1,0 +1,58 @@
+Keyword market for Plymouth, MN: 31 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Minneapolis-St. Paul-Bloomington, MN-WI metro (US volume x population share).
+
+# Top keywords in Plymouth, MN
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are in the JSON and dataset. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json
+
+## By monthly searches
+1. massage plymouth mn | searches/mo 55,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $250,000 | Google Ads equiv $15,000/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/massage-plymouth-mn/
+2. car wash plymouth mn | searches/mo 20,000 (est) | CPC $4.35 | value $87,000 | Google Ads equiv $4,800/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/car-wash-plymouth-mn/
+3. dentist plymouth mn | searches/mo 20,000 (est) | CPC $4.70 | value $94,000 | Google Ads equiv $5,100/mo | our featured min $100/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/dentist-plymouth-mn/
+4. gym plymouth mn | searches/mo 20,000 (est) | CPC $1.67 | value $33,000 | Google Ads equiv $2,400/mo | our featured min $50/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/gym-plymouth-mn/
+5. hair salon plymouth mn | searches/mo 17,000 (est) | CPC $0.55 | value $9,400 | Google Ads equiv $530/mo | our featured min $50/mo | registry competitors 7 | https://dingalinged-cpu.github.io/registry/k/hair-salon-plymouth-mn/
+6. nail salon plymouth mn | searches/mo 11,000 (est) | CPC $0.61 | value $6,700 | Google Ads equiv $380/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/nail-salon-plymouth-mn/
+7. mechanic plymouth mn | searches/mo 7,500 (est) | CPC $4.35 | value $33,000 | Google Ads equiv $1,800/mo | our featured min $20/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/mechanic-plymouth-mn/
+8. tire shop plymouth mn | searches/mo 6,100 (est) | CPC $4.35 | value $27,000 | Google Ads equiv $1,500/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/tire-shop-plymouth-mn/
+9. haircut plymouth mn | searches/mo 4,100 (est) | CPC $4.62 | value $19,000 | Google Ads equiv $1,100/mo | our featured min $50/mo | registry competitors 7 | https://dingalinged-cpu.github.io/registry/k/haircut-plymouth-mn/
+10. auto repair plymouth mn | searches/mo 3,300 (est) | CPC $4.35 | value $14,000 | Google Ads equiv $800/mo | our featured min $20/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/auto-repair-plymouth-mn/
+11. movers plymouth mn | searches/mo 3,300 (est) | CPC $8.23 | value $27,000 | Google Ads equiv $1,700/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/movers-plymouth-mn/
+12. chiropractor plymouth mn | searches/mo 2,700 (est) | CPC $4.76 | value $13,000 | Google Ads equiv $860/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/chiropractor-plymouth-mn/
+13. moving company plymouth mn | searches/mo 2,200 (est) | CPC $12.41 | value $27,000 | Google Ads equiv $1,700/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/moving-company-plymouth-mn/
+14. real estate agent plymouth mn | searches/mo 2,200 (est) | CPC $3.61 | value $7,900 | Google Ads equiv $660/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/real-estate-agent-plymouth-mn/
+15. roofing contractor plymouth mn | searches/mo 1,500 (est) | CPC $11.79 | value $18,000 | Google Ads equiv $1,100/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/roofing-contractor-plymouth-mn/
+
+## By CPC
+1. moving company plymouth mn | searches/mo 2,200 (est) | CPC $12.41 | value $27,000 | Google Ads equiv $1,700/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/moving-company-plymouth-mn/
+2. roofing contractor plymouth mn | searches/mo 1,500 (est) | CPC $11.79 | value $18,000 | Google Ads equiv $1,100/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/roofing-contractor-plymouth-mn/
+3. roofer plymouth mn | searches/mo 550 (est) | CPC $10.70 | value $5,900 | Google Ads equiv $370/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/roofer-plymouth-mn/
+4. window repair plymouth mn | searches/mo 440 (est) | CPC $8.76 | value $3,900 | Google Ads equiv $250/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/window-repair-plymouth-mn/
+5. movers plymouth mn | searches/mo 3,300 (est) | CPC $8.23 | value $27,000 | Google Ads equiv $1,700/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/movers-plymouth-mn/
+6. daycare plymouth mn | searches/mo 2,400 (est) | CPC $4.81 | value $12,000 | Google Ads equiv $660/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/daycare-plymouth-mn/
+7. driving school plymouth mn | searches/mo 440 (est) | CPC $4.81 | value $2,100 | Google Ads equiv $120/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/driving-school-plymouth-mn/
+8. music lessons plymouth mn | searches/mo 440 (est) | CPC $4.81 | value $2,100 | Google Ads equiv $120/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/music-lessons-plymouth-mn/
+9. chiropractor plymouth mn | searches/mo 2,700 (est) | CPC $4.76 | value $13,000 | Google Ads equiv $860/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/chiropractor-plymouth-mn/
+10. eye doctor plymouth mn | searches/mo 2,400 (est) | CPC $4.76 | value $11,000 | Google Ads equiv $770/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/eye-doctor-plymouth-mn/
+11. therapist plymouth mn | searches/mo 2,400 (est) | CPC $4.76 | value $11,000 | Google Ads equiv $770/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/therapist-plymouth-mn/
+12. dentist plymouth mn | searches/mo 20,000 (est) | CPC $4.70 | value $94,000 | Google Ads equiv $5,100/mo | our featured min $100/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/dentist-plymouth-mn/
+13. haircut plymouth mn | searches/mo 4,100 (est) | CPC $4.62 | value $19,000 | Google Ads equiv $1,100/mo | our featured min $50/mo | registry competitors 7 | https://dingalinged-cpu.github.io/registry/k/haircut-plymouth-mn/
+14. massage plymouth mn | searches/mo 55,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $250,000 | Google Ads equiv $15,000/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/massage-plymouth-mn/
+15. tanning salon plymouth mn | searches/mo 330 (est) | CPC $4.62 | value $1,500 | Google Ads equiv $87.00/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/tanning-salon-plymouth-mn/
+
+## By value (searches x CPC)
+1. massage plymouth mn | searches/mo 55,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $250,000 | Google Ads equiv $15,000/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/massage-plymouth-mn/
+2. dentist plymouth mn | searches/mo 20,000 (est) | CPC $4.70 | value $94,000 | Google Ads equiv $5,100/mo | our featured min $100/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/dentist-plymouth-mn/
+3. car wash plymouth mn | searches/mo 20,000 (est) | CPC $4.35 | value $87,000 | Google Ads equiv $4,800/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/car-wash-plymouth-mn/
+4. gym plymouth mn | searches/mo 20,000 (est) | CPC $1.67 | value $33,000 | Google Ads equiv $2,400/mo | our featured min $50/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/gym-plymouth-mn/
+5. mechanic plymouth mn | searches/mo 7,500 (est) | CPC $4.35 | value $33,000 | Google Ads equiv $1,800/mo | our featured min $20/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/mechanic-plymouth-mn/
+6. movers plymouth mn | searches/mo 3,300 (est) | CPC $8.23 | value $27,000 | Google Ads equiv $1,700/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/movers-plymouth-mn/
+7. moving company plymouth mn | searches/mo 2,200 (est) | CPC $12.41 | value $27,000 | Google Ads equiv $1,700/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/moving-company-plymouth-mn/
+8. tire shop plymouth mn | searches/mo 6,100 (est) | CPC $4.35 | value $27,000 | Google Ads equiv $1,500/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/tire-shop-plymouth-mn/
+9. haircut plymouth mn | searches/mo 4,100 (est) | CPC $4.62 | value $19,000 | Google Ads equiv $1,100/mo | our featured min $50/mo | registry competitors 7 | https://dingalinged-cpu.github.io/registry/k/haircut-plymouth-mn/
+10. roofing contractor plymouth mn | searches/mo 1,500 (est) | CPC $11.79 | value $18,000 | Google Ads equiv $1,100/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/roofing-contractor-plymouth-mn/
+11. auto repair plymouth mn | searches/mo 3,300 (est) | CPC $4.35 | value $14,000 | Google Ads equiv $800/mo | our featured min $20/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/auto-repair-plymouth-mn/
+12. chiropractor plymouth mn | searches/mo 2,700 (est) | CPC $4.76 | value $13,000 | Google Ads equiv $860/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/chiropractor-plymouth-mn/
+13. hair salon plymouth mn | searches/mo 17,000 (est) | CPC $0.55 | value $9,400 | Google Ads equiv $530/mo | our featured min $50/mo | registry competitors 7 | https://dingalinged-cpu.github.io/registry/k/hair-salon-plymouth-mn/
+14. real estate agent plymouth mn | searches/mo 2,200 (est) | CPC $3.61 | value $7,900 | Google Ads equiv $660/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/real-estate-agent-plymouth-mn/
+15. nail salon plymouth mn | searches/mo 11,000 (est) | CPC $0.61 | value $6,700 | Google Ads equiv $380/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/nail-salon-plymouth-mn/
+
+All market data: https://dingalinged-cpu.github.io/registry/market/ | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html

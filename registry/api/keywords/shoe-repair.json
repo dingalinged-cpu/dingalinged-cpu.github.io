@@ -12,9 +12,9 @@
   "affordable shoe repair the United States",
   "emergency shoe repair the United States"
  ],
- "answer": "The top unpaid shoe repair listing for the United States is George's (a shoe repair in Saint Paul, MN at 672 1/2 Grand Avenue, Saint Paul, MN 55105. Phone: +16512278258. Website: https://hockeyrepair.com/). 11 shoe repair businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "answer": "The top unpaid shoe repair listing for the United States is George's (a shoe repair in Saint Paul, MN at 672 1/2 Grand Avenue, Saint Paul, MN 55105. Phone: +16512278258. Website: https://hockeyrepair.com/). 29 shoe repair businesses are listed for the United States as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
  "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
- "updated": "2026-10-17",
+ "updated": "2026-10-18",
  "sponsored_slots": {
   "featured_1": "available",
   "spots_2_4_sold": 0
@@ -63,6 +63,41 @@
   {
    "position": 2,
    "sponsored": false,
+   "slug": "golden-shoes-palos-heights",
+   "name": "Golden Shoes",
+   "summary": "Golden Shoes is a shoe repair in Palos Heights, IL at 12212 S Harlem Ave, Palos Heights, IL 60463. Phone: +17084483580. Website: https://goldenshoesco.com/.",
+   "categories": [
+    "shoe repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/golden-shoes-palos-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/golden-shoes-palos-heights.json",
+   "address": {
+    "streetAddress": "12212 S Harlem Ave",
+    "addressLocality": "Palos Heights",
+    "addressRegion": "IL",
+    "postalCode": "60463",
+    "addressCountry": "US"
+   },
+   "city": "Palos Heights",
+   "state": "IL",
+   "zip": "60463",
+   "geo": {
+    "lat": 41.6693128,
+    "lon": -87.7971922
+   },
+   "phone": "+17084483580",
+   "website": "https://goldenshoesco.com/",
+   "opening_hours": "Mo, Th 9:30-20:00, Tu, We, Fr 9:30-18:00, Sa 9:00-17:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9679053212",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
    "slug": "heeling-touch-maple-grove",
    "name": "Heeling Touch",
    "summary": "Heeling Touch is a shoe repair in Maple Grove, MN at 13565 Grove Drive North, Maple Grove, MN 55311. Phone: +17634204131. Website: https://www.heelingtouch.com/.",
@@ -96,7 +131,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 3,
+   "position": 4,
    "sponsored": false,
    "slug": "old-world-cobbler-shoe-leather-minneapolis",
    "name": "Old World Cobbler Shoe Leather",
@@ -131,7 +166,144 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 4,
+   "position": 5,
+   "sponsored": false,
+   "slug": "salos-dry-cleaning-alterations-and-shoe-repair-forest-park",
+   "name": "Salo's Dry Cleaning, Alterations & Shoe Repair",
+   "summary": "Salo's Dry Cleaning, Alterations & Shoe Repair is a shoe repair in Forest Park, IL at 7231 Roosevelt Road, Forest Park, IL 60130. Phone: +17087112952. Website: https://salosdrycleaning.com/.",
+   "categories": [
+    "shoe repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/salos-dry-cleaning-alterations-and-shoe-repair-forest-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/salos-dry-cleaning-alterations-and-shoe-repair-forest-park.json",
+   "address": {
+    "streetAddress": "7231 Roosevelt Road",
+    "addressLocality": "Forest Park",
+    "addressRegion": "IL",
+    "postalCode": "60130",
+    "addressCountry": "US"
+   },
+   "city": "Forest Park",
+   "state": "IL",
+   "zip": "60130",
+   "geo": {
+    "lat": 41.8648134,
+    "lon": -87.8057072
+   },
+   "phone": "+17087112952",
+   "website": "https://salosdrycleaning.com/",
+   "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 10:00-14:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4203603892",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "cobbler-shoe-repair-naperville",
+   "name": "Cobbler Shoe Repair",
+   "summary": "Cobbler Shoe Repair is a shoe repair in Naperville, IL at 1031 West Ogden Avenue, Naperville, IL 60563. Phone: +16309611499. Website: https://naperville-repair.edan.io/.",
+   "categories": [
+    "shoe repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cobbler-shoe-repair-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cobbler-shoe-repair-naperville.json",
+   "address": {
+    "streetAddress": "1031 West Ogden Avenue",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60563",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60563",
+   "geo": {
+    "lat": 41.7843582,
+    "lon": -88.1682538
+   },
+   "phone": "+16309611499",
+   "website": "https://naperville-repair.edan.io/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1167160392",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "fix-your-kicks-chicago",
+   "name": "Fix Your Kicks",
+   "summary": "Fix Your Kicks is a shoe repair in Chicago, IL at 1140 West Thorndale Avenue, Chicago, IL 60660. Phone: +13128603440. Website: https://fixyourkickschi.com/.",
+   "categories": [
+    "shoe repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fix-your-kicks-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fix-your-kicks-chicago.json",
+   "address": {
+    "streetAddress": "1140 West Thorndale Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60660",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60660",
+   "geo": {
+    "lat": 41.9901416,
+    "lon": -87.6599001
+   },
+   "phone": "+13128603440",
+   "website": "https://fixyourkickschi.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13689035157",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "lindsays-leather-and-shoe-repair-naperville",
+   "name": "Lindsay's Leather and Shoe Repair",
+   "summary": "Lindsay's Leather and Shoe Repair is a shoe repair in Naperville, IL at 1512 Naper Boulevard #148, Naperville, IL 60563. Phone: +16309551550. Website: https://cobblestonequalityshoerepairnaperville.com/.",
+   "categories": [
+    "shoe repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lindsays-leather-and-shoe-repair-naperville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lindsays-leather-and-shoe-repair-naperville.json",
+   "address": {
+    "streetAddress": "1512 Naper Boulevard #148",
+    "addressLocality": "Naperville",
+    "addressRegion": "IL",
+    "postalCode": "60563",
+    "addressCountry": "US"
+   },
+   "city": "Naperville",
+   "state": "IL",
+   "zip": "60563",
+   "geo": {
+    "lat": 41.7975507,
+    "lon": -88.117713
+   },
+   "phone": "+16309551550",
+   "website": "https://cobblestonequalityshoerepairnaperville.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/993474296",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
    "sponsored": false,
    "slug": "lees-shoe-and-leather-repair-minneapolis",
    "name": "Lee's Shoe & Leather Repair",
@@ -164,7 +336,321 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 5,
+   "position": 10,
+   "sponsored": false,
+   "slug": "shoe-repair-downers-grove",
+   "name": "Shoe Repair",
+   "summary": "Shoe Repair is a shoe repair in Downers Grove, IL at 144 Ogden Avenue, Downers Grove, IL.",
+   "categories": [
+    "shoe repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/shoe-repair-downers-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/shoe-repair-downers-grove.json",
+   "address": {
+    "streetAddress": "144 Ogden Avenue",
+    "addressLocality": "Downers Grove",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Downers Grove",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8110307,
+    "lon": -87.9901316
+   },
+   "opening_hours": "Mo-Tu,Th 09:00-18:00; We 10:00-18:00; Fr 09:00-16:00; Su 10:00-13:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 7.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12755682420",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 11,
+   "sponsored": false,
+   "slug": "howards-shoe-and-luggage-repair-oakbrook-terrace",
+   "name": "Howard's Shoe and Luggage Repair",
+   "summary": "Howard's Shoe and Luggage Repair is a shoe repair in Oakbrook Terrace, IL at 17W 450 Roosevelt Road, Oakbrook Terrace, IL 60181.",
+   "categories": [
+    "shoe repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/howards-shoe-and-luggage-repair-oakbrook-terrace/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/howards-shoe-and-luggage-repair-oakbrook-terrace.json",
+   "address": {
+    "streetAddress": "17W 450 Roosevelt Road",
+    "addressLocality": "Oakbrook Terrace",
+    "addressRegion": "IL",
+    "postalCode": "60181",
+    "addressCountry": "US"
+   },
+   "city": "Oakbrook Terrace",
+   "state": "IL",
+   "zip": "60181",
+   "geo": {
+    "lat": 41.8609682,
+    "lon": -87.9692186
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3830119359",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 12,
+   "sponsored": false,
+   "slug": "jessys-shoe-repair-chicago",
+   "name": "Jessy's Shoe Repair",
+   "summary": "Jessy's Shoe Repair is a shoe repair in Chicago, IL at 2107 North Western Avenue, Chicago, IL 60647.",
+   "categories": [
+    "shoe repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jessys-shoe-repair-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jessys-shoe-repair-chicago.json",
+   "address": {
+    "streetAddress": "2107 North Western Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60647",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60647",
+   "geo": {
+    "lat": 41.920129,
+    "lon": -87.6871412
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13430566401",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
+   "sponsored": false,
+   "slug": "johns-shoe-and-luggage-repair-des-plaines",
+   "name": "John's Shoe & Luggage Repair",
+   "summary": "John's Shoe & Luggage Repair is a shoe repair in Des Plaines, IL at Miner Street, Des Plaines, IL 60016.",
+   "categories": [
+    "shoe repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/johns-shoe-and-luggage-repair-des-plaines/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/johns-shoe-and-luggage-repair-des-plaines.json",
+   "address": {
+    "streetAddress": "Miner Street",
+    "addressLocality": "Des Plaines",
+    "addressRegion": "IL",
+    "postalCode": "60016",
+    "addressCountry": "US"
+   },
+   "city": "Des Plaines",
+   "state": "IL",
+   "zip": "60016",
+   "geo": {
+    "lat": 42.0409798,
+    "lon": -87.8858497
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9432768632",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 14,
+   "sponsored": false,
+   "slug": "kanellos-shoe-repair-chicago",
+   "name": "Kanellos Shoe Repair",
+   "summary": "Kanellos Shoe Repair is a shoe repair in Chicago, IL at 6325 North Central Avenue, Chicago, IL 60646.",
+   "categories": [
+    "shoe repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kanellos-shoe-repair-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kanellos-shoe-repair-chicago.json",
+   "address": {
+    "streetAddress": "6325 North Central Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60646",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60646",
+   "geo": {
+    "lat": 41.9968659,
+    "lon": -87.7637752
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1426743365",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 15,
+   "sponsored": false,
+   "slug": "randhurst-shoe-repair-arlington-heights",
+   "name": "Randhurst Shoe Repair",
+   "summary": "Randhurst Shoe Repair is a shoe repair in Arlington Heights, IL at 1 East Campbell Street, Arlington Heights, IL 60005.",
+   "categories": [
+    "shoe repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/randhurst-shoe-repair-arlington-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/randhurst-shoe-repair-arlington-heights.json",
+   "address": {
+    "streetAddress": "1 East Campbell Street",
+    "addressLocality": "Arlington Heights",
+    "addressRegion": "IL",
+    "postalCode": "60005",
+    "addressCountry": "US"
+   },
+   "city": "Arlington Heights",
+   "state": "IL",
+   "zip": "60005",
+   "geo": {
+    "lat": 42.0826567,
+    "lon": -87.9827424
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/703522618",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 16,
+   "sponsored": false,
+   "slug": "shoe-hospital-chicago",
+   "name": "Shoe Hospital",
+   "summary": "Shoe Hospital is a shoe repair in Chicago, IL.",
+   "categories": [
+    "shoe repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/shoe-hospital-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/shoe-hospital-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9761406,
+    "lon": -87.9009482
+   },
+   "opening_hours": "Mo-Fr 06:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2322673348",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 17,
+   "sponsored": false,
+   "slug": "whiting-shoe-service-whiting",
+   "name": "Whiting Shoe Service",
+   "summary": "Whiting Shoe Service is a shoe repair in Whiting, IN at 1932 Indianapolis Boulevard, Whiting, IN 46394.",
+   "categories": [
+    "shoe repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/whiting-shoe-service-whiting/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/whiting-shoe-service-whiting.json",
+   "address": {
+    "streetAddress": "1932 Indianapolis Boulevard",
+    "addressLocality": "Whiting",
+    "addressRegion": "IN",
+    "postalCode": "46394",
+    "addressCountry": "US"
+   },
+   "city": "Whiting",
+   "state": "IN",
+   "zip": "46394",
+   "geo": {
+    "lat": 41.6783048,
+    "lon": -87.4985023
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1233085012",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 18,
+   "sponsored": false,
+   "slug": "your-shoe-repair-chicago",
+   "name": "Your Shoe Repair",
+   "summary": "Your Shoe Repair is a shoe repair in Chicago, IL at 2240 West North Avenue, Chicago, IL 60647.",
+   "categories": [
+    "shoe repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/your-shoe-repair-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/your-shoe-repair-chicago.json",
+   "address": {
+    "streetAddress": "2240 West North Avenue",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60647",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "zip": "60647",
+   "geo": {
+    "lat": 41.9104868,
+    "lon": -87.684095
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6072064899",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 19,
+   "sponsored": false,
+   "slug": "anthonys-shoe-repair-la-grange",
+   "name": "Anthony's Shoe Repair",
+   "summary": "Anthony's Shoe Repair is a shoe repair in La Grange, IL.",
+   "categories": [
+    "shoe repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/anthonys-shoe-repair-la-grange/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/anthonys-shoe-repair-la-grange.json",
+   "address": {
+    "addressLocality": "La Grange",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "La Grange",
+   "state": "IL",
+   "geo": {
+    "lat": 41.8163073,
+    "lon": -87.8706318
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8944618058",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 20,
    "sponsored": false,
    "slug": "bobs-shoe-repair-wayzata",
    "name": "Bob's Shoe Repair",
@@ -193,7 +679,36 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 6,
+   "position": 21,
+   "sponsored": false,
+   "slug": "clyborn-cobbler-chicago",
+   "name": "Clyborn Cobbler",
+   "summary": "Clyborn Cobbler is a shoe repair in Chicago, IL.",
+   "categories": [
+    "shoe repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/clyborn-cobbler-chicago/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/clyborn-cobbler-chicago.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9220375,
+    "lon": -87.665311
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12464013426",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 22,
    "sponsored": false,
    "slug": "mikes-shoe-repair-eagan",
    "name": "Mike's Shoe Repair",
@@ -222,7 +737,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 7,
+   "position": 23,
    "sponsored": false,
    "slug": "napoleons-shoe-shine-minneapolis",
    "name": "Napoleon's Shoe Shine",
@@ -251,7 +766,36 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 8,
+   "position": 24,
+   "sponsored": false,
+   "slug": "shoe-hospital-chicago-n6071648418",
+   "name": "Shoe Hospital",
+   "summary": "Shoe Hospital is a shoe repair in Chicago, IL.",
+   "categories": [
+    "shoe repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/shoe-hospital-chicago-n6071648418/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/shoe-hospital-chicago-n6071648418.json",
+   "address": {
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Chicago",
+   "state": "IL",
+   "geo": {
+    "lat": 41.9799614,
+    "lon": -87.9064736
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6071648418",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 25,
    "sponsored": false,
    "slug": "shoe-shine-fort-snelling-unorganized-territory",
    "name": "Shoe Shine",
@@ -280,7 +824,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 9,
+   "position": 26,
    "sponsored": false,
    "slug": "shoe-shine-fort-snelling-unorganized-territory-n6387494585",
    "name": "Shoe Shine",
@@ -309,7 +853,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 10,
+   "position": 27,
    "sponsored": false,
    "slug": "shoe-shine-fort-snelling-unorganized-territory-n6387500892",
    "name": "Shoe Shine",
@@ -338,7 +882,7 @@
    "last_checked": "2026-10-17"
   },
   {
-   "position": 11,
+   "position": 28,
    "sponsored": false,
    "slug": "skyway-shoe-repair-minneapolis",
    "name": "Skyway Shoe Repair",
@@ -365,6 +909,254 @@
    "source": "OpenStreetMap",
    "source_url": "https://www.openstreetmap.org/node/13410756368",
    "last_checked": "2026-10-17"
+  },
+  {
+   "position": 29,
+   "sponsored": false,
+   "slug": "tonys-shoe-repair-glenview",
+   "name": "Tony's Shoe Repair",
+   "summary": "Tony's Shoe Repair is a shoe repair in Glenview, IL.",
+   "categories": [
+    "shoe repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tonys-shoe-repair-glenview/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tonys-shoe-repair-glenview.json",
+   "address": {
+    "addressLocality": "Glenview",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Glenview",
+   "state": "IL",
+   "geo": {
+    "lat": 42.0724514,
+    "lon": -87.7985564
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6270534660",
+   "last_checked": "2026-10-17"
   }
- ]
+ ],
+ "market": {
+  "keyword": "shoe repair",
+  "slug": "shoe-repair",
+  "base_keyword": "shoe repair",
+  "scope": "national",
+  "city": null,
+  "state": null,
+  "category": "Professional & financial services",
+  "industry": "Finance & Insurance",
+  "us_monthly_searches": {
+   "value": 40000,
+   "range": [
+    33000,
+    50000
+   ],
+   "method": "estimate",
+   "estimate_method": "median of 8 cited US volumes for 'med'-demand keywords in category 'Professional & financial services' (local_services research); rounded to 2 significant figures; range = 25th-75th percentile",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "confidence": "low"
+  },
+  "local_monthly_searches": null,
+  "cpc_usd": {
+   "industry_benchmark": "Finance & Insurance",
+   "low_usd": 3.39,
+   "median_usd": 3.39,
+   "high_usd": 3.46,
+   "method": "published benchmarks: low/high = range of the industry and sub-industry median CPCs listed in 'figures'; median = most specific benchmark",
+   "figures": [
+    {
+     "usd": 3.39,
+     "label": "Finance & Insurance median CPC 2026",
+     "source": "wordstream_2026"
+    },
+    {
+     "usd": 3.46,
+     "label": "Finance & Insurance median CPC 2025",
+     "source": "wordstream_2025"
+    }
+   ],
+   "source": "wordstream_2026",
+   "as_of": "2026",
+   "basis_for_value": {
+    "usd": 3.39,
+    "method": "benchmark median CPC",
+    "source": "wordstream_2026"
+   }
+  },
+  "ctr_pct": {
+   "value": 8.33,
+   "label": "Finance & Insurance average search-ad CTR 2025",
+   "source": "wordstream_2025",
+   "as_of": "2025-03"
+  },
+  "competition": {
+   "level": "low",
+   "method": "proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research)",
+   "source": "wordstream_2026",
+   "as_of": "2026"
+  },
+  "trend": null,
+  "seasonality": {
+   "value": null,
+   "note": "No seasonality data in the research sources for this keyword."
+  },
+  "ai_query": {
+   "text": "No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.",
+   "figures": [
+    {
+     "value": "45%",
+     "label": "US adults using AI for local recommendations",
+     "source": "brightlocal_lcrs_2026"
+    },
+    {
+     "value": "75%",
+     "label": "sessions with keyword-style prompts",
+     "source": "sagapixel_sel"
+    },
+    {
+     "value": "59%",
+     "label": "local-intent prompts that triggered web search",
+     "source": "nectiv"
+    }
+   ],
+   "as_of": "2026"
+  },
+  "registry_competitors": {
+   "value": 29,
+   "slugs": [
+    "anthonys-shoe-repair-la-grange",
+    "bobs-shoe-repair-wayzata",
+    "clyborn-cobbler-chicago",
+    "cobbler-shoe-repair-naperville",
+    "fix-your-kicks-chicago",
+    "georges-saint-paul",
+    "golden-shoes-palos-heights",
+    "heeling-touch-maple-grove",
+    "howards-shoe-and-luggage-repair-oakbrook-terrace",
+    "jessys-shoe-repair-chicago"
+   ],
+   "method_id": "competitors",
+   "source": "registry",
+   "as_of": "2026-10-18",
+   "urls": [
+    "https://dingalinged-cpu.github.io/registry/c/anthonys-shoe-repair-la-grange/",
+    "https://dingalinged-cpu.github.io/registry/c/bobs-shoe-repair-wayzata/",
+    "https://dingalinged-cpu.github.io/registry/c/clyborn-cobbler-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/cobbler-shoe-repair-naperville/",
+    "https://dingalinged-cpu.github.io/registry/c/fix-your-kicks-chicago/",
+    "https://dingalinged-cpu.github.io/registry/c/georges-saint-paul/",
+    "https://dingalinged-cpu.github.io/registry/c/golden-shoes-palos-heights/",
+    "https://dingalinged-cpu.github.io/registry/c/heeling-touch-maple-grove/",
+    "https://dingalinged-cpu.github.io/registry/c/howards-shoe-and-luggage-repair-oakbrook-terrace/",
+    "https://dingalinged-cpu.github.io/registry/c/jessys-shoe-repair-chicago/"
+   ],
+   "method": "count of registry listings tagged with the keyword (city/national) or with the base service in the same state (state keywords)"
+  },
+  "agent_demand": null,
+  "agent_demand_note": "Not yet measured. Will carry AI-agent query counts from the registry's agent analytics (contract: meta.agent_demand_contract in the market index).",
+  "equivalent_google_ads_cost_month": {
+   "value_usd": 11000,
+   "method": "estimate",
+   "method_id": "google_ads_equiv",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote."
+  },
+  "search_value_index": {
+   "value_usd": 140000,
+   "method": "estimate",
+   "method_id": "value_index",
+   "source": "registry_estimate",
+   "as_of": "2026-10-18",
+   "estimate_method": "estimate: search value index = monthly searches x CPC basis; an advertiser-value ranking signal, not revenue; rounded to 2 significant figures."
+  },
+  "auction": {
+   "featured_spot_min_usd": 250,
+   "spots_2_to_4_min_usd": 25,
+   "tier": "high",
+   "pricing_rule": "tier minimum (premium $500, high $250, mid $100, standard $50) for national keywords; city = max($10, 20% of tier); state = max($10, 35% of tier); spots 2-4 open at 10% of the featured minimum",
+   "model": "Monthly auction in the last 7 days of each month: days 1-5 bid for the Featured #1 spot, days 6-7 for spots 2-4; winners display all next month; all paid spots labeled Sponsored.",
+   "next_auctions": [
+    {
+     "display_month": "2026-11",
+     "featured_spot_bidding": [
+      "2026-10-25",
+      "2026-10-29"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-10-30",
+      "2026-10-31"
+     ]
+    },
+    {
+     "display_month": "2026-12",
+     "featured_spot_bidding": [
+      "2026-11-24",
+      "2026-11-28"
+     ],
+     "spots_2_to_4_bidding": [
+      "2026-11-29",
+      "2026-11-30"
+     ]
+    }
+   ],
+   "source": "registry_auction",
+   "as_of": "2026-10-18"
+  },
+  "sources": {
+   "brightlocal_lcrs_2026": {
+    "name": "BrightLocal Local Consumer Review Survey 2026 (n=1,002 US adults)",
+    "url": "https://www.brightlocal.com/research/lcrs-ai-trust/",
+    "as_of": "2026"
+   },
+   "nectiv": {
+    "name": "Nectiv study of 8,500+ ChatGPT prompts",
+    "url": "https://nectivdigital.com/blog/new-data-study-what-queries-is-chatgpt-using-behind-the-scenes",
+    "as_of": "2025"
+   },
+   "registry": {
+    "name": "This registry's own listings (OpenStreetMap-seeded, ODbL)",
+    "url": "https://dingalinged-cpu.github.io/registry/api/companies.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_auction": {
+    "name": "Registry keyword auction catalog and rules",
+    "url": "https://dingalinged-cpu.github.io/registry/api/keyword-prices.json",
+    "as_of": "2026-10-18"
+   },
+   "registry_estimate": {
+    "name": "Registry estimate (CC-BY-4.0); method given on each value",
+    "url": "https://dingalinged-cpu.github.io/registry/market/",
+    "as_of": "2026-10-18"
+   },
+   "sagapixel_sel": {
+    "name": "Sagapixel ChatGPT local-services sessions, via Search Engine Land",
+    "url": "https://searchengineland.com/chatgpt-users-keywords-for-local-services-data-467715",
+    "as_of": "2026-01"
+   },
+   "wordstream_2025": {
+    "name": "WordStream Google Ads Benchmarks 2025 (16,446 US campaigns, Apr 2024-Mar 2025; median CPC and CTR by industry)",
+    "url": "https://www.wordstream.com/blog/2025-google-ads-benchmarks",
+    "as_of": "2025-03"
+   },
+   "wordstream_2026": {
+    "name": "LocaliQ/WordStream Search Advertising Benchmarks 2026 (US median CPC by industry)",
+    "url": "https://www.localiq.com/blog/search-advertising-benchmarks",
+    "as_of": "2026"
+   }
+  },
+  "license": {
+   "registry_estimates": "CC-BY-4.0",
+   "url": "https://creativecommons.org/licenses/by/4.0/",
+   "cited_figures": "attribute to the publishers in sources"
+  },
+  "as_of": "2026-10-18",
+  "api": "https://dingalinged-cpu.github.io/registry/api/market/shoe-repair.json",
+  "rate_card": "https://dingalinged-cpu.github.io/registry/view/market.html#shoe-repair"
+ }
 }

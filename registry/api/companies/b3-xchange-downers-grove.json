@@ -1,0 +1,63 @@
+{
+ "slug": "b3-xchange-downers-grove",
+ "name": "B3 XChange",
+ "categories": [
+  "tax preparation"
+ ],
+ "keywords": [
+  "tax preparation",
+  "tax preparer",
+  "tax preparation downers grove il",
+  "tax preparer downers grove il"
+ ],
+ "services": [
+  {
+   "name": "tax preparation",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "tax preparer",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "6400 Woodward Avenue #G",
+  "addressLocality": "Downers Grove",
+  "addressRegion": "IL",
+  "postalCode": "60516",
+  "addressCountry": "US"
+ },
+ "city": "Downers Grove",
+ "state": "IL",
+ "zip": "60516",
+ "geo": {
+  "lat": 41.7703465,
+  "lon": -88.0321544
+ },
+ "phone": "+16305419065",
+ "website": "https://b3businesssolutions.com/",
+ "opening_hours": "Mo-Sa 09:00-17:00",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/9046353098",
+ "osm": {
+  "type": "node",
+  "id": 9046353098,
+  "tags_used": {
+   "office": "tax_advisor"
+  }
+ },
+ "municipality": "Downers Grove",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/b3-xchange-downers-grove/",
+ "summary": "B3 XChange is a tax preparation service in Downers Grove, IL at 6400 Woodward Avenue #G, Downers Grove, IL 60516. Phone: +16305419065. Website: https://b3businesssolutions.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

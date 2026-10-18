@@ -1,0 +1,23 @@
+Debbie's is a dog groomer in Brookfield, IL.
+
+# Debbie's
+
+- Category: dog groomer
+- Services: dog groomer
+- Address: Brookfield, IL
+- City: Brookfield
+- State: IL
+- ZIP: n/a
+- Coordinates: 41.8165611, -87.849352
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/debbies-brookfield/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/debbies-brookfield.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9499927456 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,0 +1,23 @@
+Green Paws is a veterinarian in La Grange, IL.
+
+# Green Paws
+
+- Category: vet
+- Services: vet
+- Address: La Grange, IL
+- City: La Grange
+- State: IL
+- ZIP: n/a
+- Coordinates: 41.802595, -87.8689543
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/green-paws-la-grange/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/green-paws-la-grange.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10725347212 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,0 +1,62 @@
+{
+ "slug": "auto-surgeons-gary",
+ "name": "Auto Surgeons",
+ "categories": [
+  "auto repair"
+ ],
+ "keywords": [
+  "auto repair",
+  "mechanic",
+  "auto repair gary in",
+  "mechanic gary in"
+ ],
+ "services": [
+  {
+   "name": "auto repair",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "mechanic",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1111 Massachusetts Street",
+  "addressLocality": "Gary",
+  "addressRegion": "IN",
+  "postalCode": "46407",
+  "addressCountry": "US"
+ },
+ "city": "Gary",
+ "state": "IN",
+ "zip": "46407",
+ "geo": {
+  "lat": 41.5914971,
+  "lon": -87.3353821
+ },
+ "phone": "+12194558850",
+ "opening_hours": "Mo-Fr 08:00-17:00",
+ "schema_type": "AutoRepair",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/10671868711",
+ "osm": {
+  "type": "node",
+  "id": 10671868711,
+  "tags_used": {
+   "shop": "car_repair"
+  }
+ },
+ "municipality": "Gary",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/auto-surgeons-gary/",
+ "summary": "Auto Surgeons is an auto repair shop in Gary, IN at 1111 Massachusetts Street, Gary, IN 46407. Phone: +12194558850.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

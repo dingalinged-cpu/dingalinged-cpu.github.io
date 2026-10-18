@@ -1,0 +1,63 @@
+{
+ "slug": "avila-dental-chicago",
+ "name": "Avila Dental",
+ "categories": [
+  "dentist"
+ ],
+ "keywords": [
+  "dentist",
+  "dentist chicago il"
+ ],
+ "services": [
+  {
+   "name": "dentist",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "6144 South Pulaski Road",
+  "addressLocality": "Chicago",
+  "addressRegion": "IL",
+  "postalCode": "60629",
+  "addressCountry": "US"
+ },
+ "city": "Chicago",
+ "state": "IL",
+ "zip": "60629",
+ "geo": {
+  "lat": 41.7809247,
+  "lon": -87.723043
+ },
+ "phone": "+17735858000",
+ "website": "https://aviladentalclinic.com/",
+ "email": "aviladentalchicago@gmail.com",
+ "opening_hours": "Su CLOSED, Mo-Fr 09:00-17:00, Sa 09:00-14:00",
+ "social": [
+  "https://www.facebook.com/AvilaDental.Pulaski"
+ ],
+ "schema_type": "Dentist",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/13735521155",
+ "osm": {
+  "type": "node",
+  "id": 13735521155,
+  "tags_used": {
+   "amenity": "dentist",
+   "healthcare": "dentist",
+   "healthcare:speciality": "general;dentist"
+  }
+ },
+ "municipality": "Chicago",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-07-28",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/avila-dental-chicago/",
+ "summary": "Avila Dental is a dentist in Chicago, IL at 6144 South Pulaski Road, Chicago, IL 60629. Phone: +17735858000. Website: https://aviladentalclinic.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

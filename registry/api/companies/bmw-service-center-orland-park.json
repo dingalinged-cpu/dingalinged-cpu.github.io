@@ -1,0 +1,62 @@
+{
+ "slug": "bmw-service-center-orland-park",
+ "name": "BMW Service Center",
+ "categories": [
+  "auto repair"
+ ],
+ "keywords": [
+  "auto repair",
+  "mechanic",
+  "auto repair orland park il",
+  "mechanic orland park il"
+ ],
+ "services": [
+  {
+   "name": "auto repair",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "mechanic",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "11030 West 159th Street",
+  "addressLocality": "Orland Park",
+  "addressRegion": "IL",
+  "postalCode": "60467",
+  "addressCountry": "US"
+ },
+ "city": "Orland Park",
+ "state": "IL",
+ "zip": "60467",
+ "geo": {
+  "lat": 41.6015273,
+  "lon": -87.8882048
+ },
+ "brand": "BMW",
+ "wikidata": "Q26678",
+ "schema_type": "AutoRepair",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/1336317635",
+ "osm": {
+  "type": "way",
+  "id": 1336317635,
+  "tags_used": {
+   "shop": "car_repair"
+  }
+ },
+ "municipality": "Orland Park",
+ "seed_metro": "chicago-il",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/bmw-service-center-orland-park/",
+ "summary": "BMW Service Center is an auto repair shop in Orland Park, IL at 11030 West 159th Street, Orland Park, IL 60467.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}
