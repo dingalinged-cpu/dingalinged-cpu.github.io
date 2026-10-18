@@ -1,0 +1,50 @@
+Keyword market for Fort Mitchell, KY: 17 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Cincinnati, OH-KY-IN metro (US volume x population share).
+
+# Top keywords in Fort Mitchell, KY
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json
+
+## By monthly searches
+1. dentist fort mitchell ky | searches/mo 12,000 (est) | CPC $4.70 | value $56,000 | Google Ads equiv $3,100/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dentist-fort-mitchell-ky/
+2. gym fort mitchell ky | searches/mo 12,000 (est) | CPC $1.67 | value $20,000 | Google Ads equiv $1,400/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/gym-fort-mitchell-ky/
+3. hair salon fort mitchell ky | searches/mo 10,000 (est) | CPC $0.55 | value $5,500 | Google Ads equiv $310/mo | our featured min $50/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-fort-mitchell-ky/
+4. nail salon fort mitchell ky | searches/mo 6,800 (est) | CPC $0.61 | value $4,100 | Google Ads equiv $240/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/nail-salon-fort-mitchell-ky/
+5. vet fort mitchell ky | searches/mo 3,700 (est) | CPC $4.06 | value $15,000 | Google Ads equiv $990/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/vet-fort-mitchell-ky/
+6. haircut fort mitchell ky | searches/mo 2,500 (est) | CPC $4.62 | value $12,000 | Google Ads equiv $660/mo | our featured min $50/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/haircut-fort-mitchell-ky/
+7. chiropractor fort mitchell ky | searches/mo 1,700 (est) | CPC $4.76 | value $8,100 | Google Ads equiv $540/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/chiropractor-fort-mitchell-ky/
+8. financial advisor fort mitchell ky | searches/mo 1,700 (est) | CPC $3.39 | value $5,800 | Google Ads equiv $480/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/financial-advisor-fort-mitchell-ky/
+9. insurance agency fort mitchell ky | searches/mo 610 (est) | CPC $3.39 | value $2,100 | Google Ads equiv $170/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/insurance-agency-fort-mitchell-ky/
+10. insurance agents fort mitchell ky | searches/mo 330 (est) | CPC $3.39 | value $1,100 | Google Ads equiv $93.00/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/insurance-agents-fort-mitchell-ky/
+11. insurance agent fort mitchell ky | searches/mo 270 (est) | CPC $3.39 | value $920 | Google Ads equiv $76.00/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/insurance-agent-fort-mitchell-ky/
+
+## By CPC
+1. florist fort mitchell ky | searches/mo 1,500 (est) | CPC $7.17 | value $11,000 | Google Ads equiv $830/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/florist-fort-mitchell-ky/
+2. preschool fort mitchell ky | searches/mo 1,500 (est) | CPC $4.81 | value $7,200 | Google Ads equiv $410/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/preschool-fort-mitchell-ky/
+3. chiropractor fort mitchell ky | searches/mo 1,700 (est) | CPC $4.76 | value $8,100 | Google Ads equiv $540/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/chiropractor-fort-mitchell-ky/
+4. eye doctor fort mitchell ky | searches/mo 1,500 (est) | CPC $4.76 | value $7,100 | Google Ads equiv $480/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/eye-doctor-fort-mitchell-ky/
+5. dentist fort mitchell ky | searches/mo 12,000 (est) | CPC $4.70 | value $56,000 | Google Ads equiv $3,100/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dentist-fort-mitchell-ky/
+6. haircut fort mitchell ky | searches/mo 2,500 (est) | CPC $4.62 | value $12,000 | Google Ads equiv $660/mo | our featured min $50/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/haircut-fort-mitchell-ky/
+7. jewelry store fort mitchell ky | searches/mo 950 (est) | CPC $4.14 | value $3,900 | Google Ads equiv $350/mo | our featured min $10/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/jewelry-store-fort-mitchell-ky/
+8. liquor store fort mitchell ky | searches/mo 950 (est) | CPC $4.14 | value $3,900 | Google Ads equiv $350/mo | our featured min $10/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/liquor-store-fort-mitchell-ky/
+9. vet fort mitchell ky | searches/mo 3,700 (est) | CPC $4.06 | value $15,000 | Google Ads equiv $990/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/vet-fort-mitchell-ky/
+10. dry cleaners fort mitchell ky | searches/mo 1,500 (est) | CPC $3.39 | value $5,100 | Google Ads equiv $420/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-fort-mitchell-ky/
+11. financial advisor fort mitchell ky | searches/mo 1,700 (est) | CPC $3.39 | value $5,800 | Google Ads equiv $480/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/financial-advisor-fort-mitchell-ky/
+12. insurance agency fort mitchell ky | searches/mo 610 (est) | CPC $3.39 | value $2,100 | Google Ads equiv $170/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/insurance-agency-fort-mitchell-ky/
+13. insurance agent fort mitchell ky | searches/mo 270 (est) | CPC $3.39 | value $920 | Google Ads equiv $76.00/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/insurance-agent-fort-mitchell-ky/
+14. insurance agents fort mitchell ky | searches/mo 330 (est) | CPC $3.39 | value $1,100 | Google Ads equiv $93.00/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/insurance-agents-fort-mitchell-ky/
+15. gym fort mitchell ky | searches/mo 12,000 (est) | CPC $1.67 | value $20,000 | Google Ads equiv $1,400/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/gym-fort-mitchell-ky/
+
+## By value (searches x CPC)
+1. dentist fort mitchell ky | searches/mo 12,000 (est) | CPC $4.70 | value $56,000 | Google Ads equiv $3,100/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dentist-fort-mitchell-ky/
+2. gym fort mitchell ky | searches/mo 12,000 (est) | CPC $1.67 | value $20,000 | Google Ads equiv $1,400/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/gym-fort-mitchell-ky/
+3. vet fort mitchell ky | searches/mo 3,700 (est) | CPC $4.06 | value $15,000 | Google Ads equiv $990/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/vet-fort-mitchell-ky/
+4. haircut fort mitchell ky | searches/mo 2,500 (est) | CPC $4.62 | value $12,000 | Google Ads equiv $660/mo | our featured min $50/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/haircut-fort-mitchell-ky/
+5. chiropractor fort mitchell ky | searches/mo 1,700 (est) | CPC $4.76 | value $8,100 | Google Ads equiv $540/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/chiropractor-fort-mitchell-ky/
+6. financial advisor fort mitchell ky | searches/mo 1,700 (est) | CPC $3.39 | value $5,800 | Google Ads equiv $480/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/financial-advisor-fort-mitchell-ky/
+7. hair salon fort mitchell ky | searches/mo 10,000 (est) | CPC $0.55 | value $5,500 | Google Ads equiv $310/mo | our featured min $50/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-fort-mitchell-ky/
+8. nail salon fort mitchell ky | searches/mo 6,800 (est) | CPC $0.61 | value $4,100 | Google Ads equiv $240/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/nail-salon-fort-mitchell-ky/
+9. insurance agency fort mitchell ky | searches/mo 610 (est) | CPC $3.39 | value $2,100 | Google Ads equiv $170/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/insurance-agency-fort-mitchell-ky/
+10. insurance agents fort mitchell ky | searches/mo 330 (est) | CPC $3.39 | value $1,100 | Google Ads equiv $93.00/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/insurance-agents-fort-mitchell-ky/
+11. insurance agent fort mitchell ky | searches/mo 270 (est) | CPC $3.39 | value $920 | Google Ads equiv $76.00/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/insurance-agent-fort-mitchell-ky/
+
+All market data: https://registry-edge.dingalinged.workers.dev/market/ | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html

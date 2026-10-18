@@ -1,0 +1,58 @@
+Keyword market for Frederick, CO: 23 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Denver-Aurora-Centennial, CO metro (US volume x population share).
+
+# Top keywords in Frederick, CO
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json
+
+## By monthly searches
+1. car wash frederick co | searches/mo 17,000 (est) | CPC $4.35 | value $74,000 | Google Ads equiv $4,100/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/car-wash-frederick-co/
+2. dentist frederick co | searches/mo 17,000 (est) | CPC $4.70 | value $80,000 | Google Ads equiv $4,300/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/dentist-frederick-co/
+3. gym frederick co | searches/mo 17,000 (est) | CPC $1.67 | value $28,000 | Google Ads equiv $2,000/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/gym-frederick-co/
+4. nail salon frederick co | searches/mo 9,000 (est) | CPC $0.61 | value $5,500 | Google Ads equiv $310/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/nail-salon-frederick-co/
+5. mechanic frederick co | searches/mo 6,100 (est) | CPC $4.35 | value $27,000 | Google Ads equiv $1,500/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/mechanic-frederick-co/
+6. tire shop frederick co | searches/mo 5,000 (est) | CPC $4.35 | value $22,000 | Google Ads equiv $1,200/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tire-shop-frederick-co/
+7. auto repair frederick co | searches/mo 2,700 (est) | CPC $4.35 | value $12,000 | Google Ads equiv $650/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-frederick-co/
+8. electrician frederick co | searches/mo 2,200 (est) | CPC $12.18 | value $27,000 | Google Ads equiv $1,700/mo | our featured min $100/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/electrician-frederick-co/
+9. real estate agent frederick co | searches/mo 1,800 (est) | CPC $3.61 | value $6,500 | Google Ads equiv $540/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-frederick-co/
+10. roofing contractor frederick co | searches/mo 1,200 (est) | CPC $11.79 | value $14,000 | Google Ads equiv $900/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-frederick-co/
+11. insurance agency frederick co | searches/mo 820 (est) | CPC $3.39 | value $2,800 | Google Ads equiv $230/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/insurance-agency-frederick-co/
+12. realtor frederick co | searches/mo 820 (est) | CPC $3.70 | value $3,000 | Google Ads equiv $260/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/realtor-frederick-co/
+13. hvac repair frederick co | searches/mo 670 (est) | CPC $17.76 | value $12,000 | Google Ads equiv $760/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/hvac-repair-frederick-co/
+14. painters frederick co | searches/mo 550 (est) | CPC $13.74 | value $7,600 | Google Ads equiv $480/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/painters-frederick-co/
+15. insurance agents frederick co | searches/mo 450 (est) | CPC $3.39 | value $1,500 | Google Ads equiv $130/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/insurance-agents-frederick-co/
+
+## By CPC
+1. hvac repair frederick co | searches/mo 670 (est) | CPC $17.76 | value $12,000 | Google Ads equiv $760/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/hvac-repair-frederick-co/
+2. painters frederick co | searches/mo 550 (est) | CPC $13.74 | value $7,600 | Google Ads equiv $480/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/painters-frederick-co/
+3. electrician frederick co | searches/mo 2,200 (est) | CPC $12.18 | value $27,000 | Google Ads equiv $1,700/mo | our featured min $100/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/electrician-frederick-co/
+4. roofing contractor frederick co | searches/mo 1,200 (est) | CPC $11.79 | value $14,000 | Google Ads equiv $900/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-frederick-co/
+5. roofer frederick co | searches/mo 450 (est) | CPC $10.70 | value $4,800 | Google Ads equiv $310/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/roofer-frederick-co/
+6. heating and air frederick co | searches/mo 33.00 (est) | CPC $8.33 | value $270 | Google Ads equiv $18.00/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/heating-and-air-frederick-co/
+7. storage units frederick co | searches/mo 2,000 (est) | CPC $8.33 | value $17,000 | Google Ads equiv $1,100/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/storage-units-frederick-co/
+8. dance studio frederick co | searches/mo 360 (est) | CPC $6.17 | value $2,200 | Google Ads equiv $160/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dance-studio-frederick-co/
+9. preschool frederick co | searches/mo 2,000 (est) | CPC $4.81 | value $9,600 | Google Ads equiv $550/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/preschool-frederick-co/
+10. dentist frederick co | searches/mo 17,000 (est) | CPC $4.70 | value $80,000 | Google Ads equiv $4,300/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/dentist-frederick-co/
+11. auto repair frederick co | searches/mo 2,700 (est) | CPC $4.35 | value $12,000 | Google Ads equiv $650/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-frederick-co/
+12. car wash frederick co | searches/mo 17,000 (est) | CPC $4.35 | value $74,000 | Google Ads equiv $4,100/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/car-wash-frederick-co/
+13. mechanic frederick co | searches/mo 6,100 (est) | CPC $4.35 | value $27,000 | Google Ads equiv $1,500/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/mechanic-frederick-co/
+14. motorcycle repair frederick co | searches/mo 200 (est) | CPC $4.35 | value $870 | Google Ads equiv $48.00/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/motorcycle-repair-frederick-co/
+15. tire shop frederick co | searches/mo 5,000 (est) | CPC $4.35 | value $22,000 | Google Ads equiv $1,200/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tire-shop-frederick-co/
+
+## By value (searches x CPC)
+1. dentist frederick co | searches/mo 17,000 (est) | CPC $4.70 | value $80,000 | Google Ads equiv $4,300/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/dentist-frederick-co/
+2. car wash frederick co | searches/mo 17,000 (est) | CPC $4.35 | value $74,000 | Google Ads equiv $4,100/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/car-wash-frederick-co/
+3. gym frederick co | searches/mo 17,000 (est) | CPC $1.67 | value $28,000 | Google Ads equiv $2,000/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/gym-frederick-co/
+4. electrician frederick co | searches/mo 2,200 (est) | CPC $12.18 | value $27,000 | Google Ads equiv $1,700/mo | our featured min $100/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/electrician-frederick-co/
+5. mechanic frederick co | searches/mo 6,100 (est) | CPC $4.35 | value $27,000 | Google Ads equiv $1,500/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/mechanic-frederick-co/
+6. tire shop frederick co | searches/mo 5,000 (est) | CPC $4.35 | value $22,000 | Google Ads equiv $1,200/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tire-shop-frederick-co/
+7. roofing contractor frederick co | searches/mo 1,200 (est) | CPC $11.79 | value $14,000 | Google Ads equiv $900/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-frederick-co/
+8. auto repair frederick co | searches/mo 2,700 (est) | CPC $4.35 | value $12,000 | Google Ads equiv $650/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-frederick-co/
+9. hvac repair frederick co | searches/mo 670 (est) | CPC $17.76 | value $12,000 | Google Ads equiv $760/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/hvac-repair-frederick-co/
+10. painters frederick co | searches/mo 550 (est) | CPC $13.74 | value $7,600 | Google Ads equiv $480/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/painters-frederick-co/
+11. real estate agent frederick co | searches/mo 1,800 (est) | CPC $3.61 | value $6,500 | Google Ads equiv $540/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-frederick-co/
+12. nail salon frederick co | searches/mo 9,000 (est) | CPC $0.61 | value $5,500 | Google Ads equiv $310/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/nail-salon-frederick-co/
+13. roofer frederick co | searches/mo 450 (est) | CPC $10.70 | value $4,800 | Google Ads equiv $310/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/roofer-frederick-co/
+14. realtor frederick co | searches/mo 820 (est) | CPC $3.70 | value $3,000 | Google Ads equiv $260/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/realtor-frederick-co/
+15. insurance agency frederick co | searches/mo 820 (est) | CPC $3.39 | value $2,800 | Google Ads equiv $230/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/insurance-agency-frederick-co/
+
+All market data: https://registry-edge.dingalinged.workers.dev/market/ | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html

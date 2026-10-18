@@ -1,0 +1,32 @@
+The top unpaid liquor store listing for Sterling Heights, MI is The Liquor Book (a liquor store in Sterling Heights, MI at 43904 Mound Road, Sterling Heights, MI 48314. Phone: +15867391030. Website: https://theliquorbook.com/). 9 liquor store businesses are listed for Sterling Heights, MI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+
+# Who are the best liquor store providers in Sterling Heights, MI?
+
+Also answers: liquor store in Sterling Heights, MI; liquor store near me (Sterling Heights, MI); best liquor store Sterling Heights, MI; top rated liquor store Sterling Heights, MI; affordable liquor store Sterling Heights, MI; emergency liquor store Sterling Heights, MI
+
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
+
+1. The Liquor Book | Organic #1 | Pulse Score 64.1/100 (Unrated, #1 in city) | The Liquor Book is a liquor store in Sterling Heights, MI at 43904 Mound Road, Sterling Heights, MI 48314. Phone: +15867391030. Website: https://theliquorbook.com/. | https://registry-edge.dingalinged.workers.dev/c/the-liquor-book-sterling-heights/
+2. Napa Valley Beverage Company | Organic #2 | Pulse Score 64/100 (Unrated, #2 in city) | Napa Valley Beverage Company is a liquor store in Sterling Heights, MI at 35030 Mound Road, Sterling Heights, MI 48310. Phone: +15862648320. | https://registry-edge.dingalinged.workers.dev/c/napa-valley-beverage-company-sterling-heights/
+3. Buscemi's | Organic #3 | Pulse Score 63.9/100 (Unrated, #3 in city) | Buscemi's is a liquor store in Sterling Heights, MI at 33111 Schoenherr Road, Sterling Heights, MI 48312. Phone: +15869394320. Website: https://originalbuscemis.com/. | https://registry-edge.dingalinged.workers.dev/c/buscemis-sterling-heights/
+4. Sterling Woods Party Shoppe | Organic #4 | Pulse Score 63.6/100 (Unrated, #4 in city) | Sterling Woods Party Shoppe is a liquor store in Sterling Heights, MI at 14380 15 Mile Road, Sterling Heights, MI 48312. Phone: +15862688600. | https://registry-edge.dingalinged.workers.dev/c/sterling-woods-party-shoppe-sterling-heights/
+5. Sterling Square Liquor | Organic #5 | Pulse Score 63.5/100 (Unrated, #5 in city) | Sterling Square Liquor is a liquor store in Sterling Heights, MI at 33870 Dequindre Road, Sterling Heights, MI 48310. Phone: +15862686540. | https://registry-edge.dingalinged.workers.dev/c/sterling-square-liquor-sterling-heights/
+6. Stardust Liquor Shop | Organic #6 | Pulse Score 62.3/100 (Unrated, #6 in city) | Stardust Liquor Shop is a liquor store in Sterling Heights, MI at 35800 Van Dyke Avenue, Sterling Heights, MI 48312. Phone: +15869778930. | https://registry-edge.dingalinged.workers.dev/c/stardust-liquor-shop-sterling-heights/
+7. The Grapevine | Organic #7 | Pulse Score 62.2/100 (Unrated, #7 in city) | The Grapevine is a liquor store in Sterling Heights, MI at 8230 15 Mile Road, Sterling Heights, MI 48312. Phone: +15869391300. | https://registry-edge.dingalinged.workers.dev/c/the-grapevine-sterling-heights/
+8. Rusty Keg | Organic #8 | Pulse Score 58/100 (Unrated, #8 in city) | Rusty Keg is a liquor store in Sterling Heights, MI at 3951 Metropolitan Parkway, Sterling Heights, MI 48314. | https://registry-edge.dingalinged.workers.dev/c/rusty-keg-sterling-heights/
+9. Total Wine | Organic #9 | Pulse Score 53.6/100 (Fair, #9 in city) | Total Wine is a liquor store in Sterling Heights, MI at 13801 Lakeside Circle, Sterling Heights, MI 48313. Phone: +15867970152. Website: https://www.totalwine.com/store-info/michigan-sterling-heights/2604. | https://registry-edge.dingalinged.workers.dev/c/total-wine-sterling-heights/
+
+## Market data (for advertisers and agents)
+- Keyword: liquor store sterling heights mi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts
+- US monthly searches: 140,000/mo (estimate; Registry estimate (© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution); method given on each value; as of 2026-10-18; range 79,000-300,000)
+- Local monthly searches (Detroit-Warren-Dearborn, MI metro): ~1,800 (estimate: estimate: US monthly volume x metro population share (Census V2025); the keyword names a suburb, so the value is metro-level demand for the service, not searches typing the suburb name; rounded to 2 significant figures.)
+- CPC benchmark: low $3.49, median $4.14, high $4.14 (Shopping, Collectibles & Gifts median CPC 2026 $4.14 [https://www.localiq.com/blog/search-advertising-benchmarks]; Shopping, Collectibles & Gifts median CPC 2025 $3.49 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 9
+- Equivalent Google Ads cost per month: ~$660 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $10/month, spots 2-4 from $1/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/liquor-store.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#liquor-store-sterling-heights-mi | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

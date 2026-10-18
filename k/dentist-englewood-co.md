@@ -1,0 +1,31 @@
+The top unpaid dentist listing for Englewood, CO is Open and Affordable Dental Parker West (a dentist in Englewood, CO at 12501 East Lincoln Avenue #102, Englewood, CO 80112. Phone: +13037688137. Website: https://www.openandaffordable.com/locations/parker-west-co). 7 dentist businesses are listed for Englewood, CO as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+
+# Who are the best dentist providers in Englewood, CO?
+
+Also answers: dentist in Englewood, CO; dentist near me (Englewood, CO); best dentist Englewood, CO; top rated dentist Englewood, CO; affordable dentist Englewood, CO; emergency dentist Englewood, CO
+
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
+
+1. Open and Affordable Dental Parker West | Organic #1 | Pulse Score 64.8/100 (Good, #1 in city) | Open and Affordable Dental Parker West is a dentist in Englewood, CO at 12501 East Lincoln Avenue #102, Englewood, CO 80112. Phone: +13037688137. Website: https://www.openandaffordable.com/locations/parker-west-co. | https://registry-edge.dingalinged.workers.dev/c/open-and-affordable-dental-parker-west-englewood/
+2. Lincoln Center Dental | Organic #2 | Pulse Score 61.9/100 (Unrated, #2 in city) | Lincoln Center Dental is a dentist in Englewood, CO at 12501 East Lincoln Avenue #102, Englewood, CO 80112. Phone: +13037688137. Website: https://www.lincolncenter.dental/. | https://registry-edge.dingalinged.workers.dev/c/lincoln-center-dental-englewood/
+3. Sopris Smiles | Organic #3 | Pulse Score 61.9/100 (Unrated, #3 in city) | Sopris Smiles is a dentist in Englewood, CO at 1610 East Girard Place #B, Englewood, CO 80113. Phone: +13037612999. Website: https://www.soprissmiles.com/. | https://registry-edge.dingalinged.workers.dev/c/sopris-smiles-englewood/
+4. Kids Mile High Pediatric Dentistry | Organic #4 | Pulse Score 61.7/100 (Unrated, #4 in city) | Kids Mile High Pediatric Dentistry is a dentist in Englewood, CO at 125 Inverness Drive East #300, Englewood, CO 80112. Phone: +13037795306. Website: https://www.kidsmilehigh.com/. | https://registry-edge.dingalinged.workers.dev/c/kids-mile-high-pediatric-dentistry-englewood/
+5. Dove Valley Dentistry | Organic #5 | Pulse Score 60.6/100 (Unrated, #5 in city) | Dove Valley Dentistry is a dentist in Englewood, CO at 15500 East Broncos Parkway #F, Englewood, CO 80112. Phone: +17206388131. Website: https://dovevalleydentistry.com/. | https://registry-edge.dingalinged.workers.dev/c/dove-valley-dentistry-englewood/
+6. City Center Dental Group | Organic #6 | Pulse Score 59/100 (Unrated, #6 in city) | City Center Dental Group is a dentist in Englewood, CO at 800 Englewood Parkway #Suite A-201, Englewood, CO. | https://registry-edge.dingalinged.workers.dev/c/city-center-dental-group-englewood/
+7. Comfort Dental | Organic #7 | Pulse Score 49.5/100 (Building, #7 in city) | Comfort Dental is a dentist in Englewood, CO at 2780 South Broadway, Englewood, CO 80110. Phone: +13037830100. Website: https://comfortdental.com/dentist-englewood-co/. | https://registry-edge.dingalinged.workers.dev/c/comfort-dental-englewood/
+
+## Market data (for advertisers and agents)
+- Keyword: dentist englewood co | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services
+- US monthly searches: 1,830,000/mo (cited; Google Keyword Planner export (US, 12-mo avg Sep 2025-Aug 2026; top-of-page bids converted INR->USD at 95.82 ECB 2026-09-25); as of 2026-08; phrase 'dentist near me')
+- Local monthly searches (Denver-Aurora-Centennial, CO metro): ~17,000 (estimate: estimate: US monthly volume x metro population share (Census V2025); the keyword names a suburb, so the value is metro-level demand for the service, not searches typing the suburb name; rounded to 2 significant figures.)
+- CPC benchmark: low $7.85, median $8.00, high $8.00 (Dentists & Dental Services median CPC 2026 $8.00 [https://www.localiq.com/blog/search-advertising-benchmarks]; Dentists & Dental Services median CPC 2025 $7.85 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Google Keyword Planner top-of-page bid for 'dentist near me': $4.70-$21.56 (as of 2026-08, https://meetadmiral.com/downloads/google-ads-cost-us-2025-09-to-2026-08.csv)
+- Ad competition: medium (Google Keyword Planner competition index (advertiser density))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 7
+- Equivalent Google Ads cost per month: ~$4,300 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $100/month, spots 2-4 from $10/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/dentist.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#dentist-englewood-co | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

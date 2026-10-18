@@ -1,0 +1,58 @@
+Keyword market for Aurora, CO: 101 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Denver-Aurora-Centennial, CO metro (US volume x population share).
+
+# Top keywords in Aurora, CO
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json
+
+## By monthly searches
+1. massage aurora co | searches/mo 45,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $210,000 | Google Ads equiv $12,000/mo | our featured min $50/mo | registry competitors 11 | https://registry-edge.dingalinged.workers.dev/k/massage-aurora-co/
+2. urgent care aurora co | searches/mo 25,000 (est) | CPC $4.76 | value $120,000 | Google Ads equiv $8,000/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/urgent-care-aurora-co/
+3. car wash aurora co | searches/mo 17,000 (est) | CPC $4.35 | value $74,000 | Google Ads equiv $4,100/mo | our featured min $20/mo | registry competitors 44 | https://registry-edge.dingalinged.workers.dev/k/car-wash-aurora-co/
+4. dentist aurora co | searches/mo 17,000 (est) | CPC $4.70 | value $80,000 | Google Ads equiv $4,300/mo | our featured min $100/mo | registry competitors 75 | https://registry-edge.dingalinged.workers.dev/k/dentist-aurora-co/
+5. gym aurora co | searches/mo 17,000 (est) | CPC $1.67 | value $28,000 | Google Ads equiv $2,000/mo | our featured min $50/mo | registry competitors 37 | https://registry-edge.dingalinged.workers.dev/k/gym-aurora-co/
+6. oil change aurora co | searches/mo 17,000 (est) | CPC $4.35 | value $74,000 | Google Ads equiv $4,100/mo | our featured min $20/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/oil-change-aurora-co/
+7. hair salon aurora co | searches/mo 14,000 (est) | CPC $0.55 | value $7,700 | Google Ads equiv $440/mo | our featured min $50/mo | registry competitors 111 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-aurora-co/
+8. nail salon aurora co | searches/mo 9,000 (est) | CPC $0.61 | value $5,500 | Google Ads equiv $310/mo | our featured min $50/mo | registry competitors 36 | https://registry-edge.dingalinged.workers.dev/k/nail-salon-aurora-co/
+9. plumber aurora co | searches/mo 7,400 (est) | CPC $12.04 | value $89,000 | Google Ads equiv $5,700/mo | our featured min $100/mo | registry competitors 5 | https://registry-edge.dingalinged.workers.dev/k/plumber-aurora-co/
+10. barber shop aurora co | searches/mo 6,100 (est) | CPC $0.70 | value $4,300 | Google Ads equiv $240/mo | our featured min $50/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/barber-shop-aurora-co/
+11. mechanic aurora co | searches/mo 6,100 (est) | CPC $4.35 | value $27,000 | Google Ads equiv $1,500/mo | our featured min $20/mo | registry competitors 87 | https://registry-edge.dingalinged.workers.dev/k/mechanic-aurora-co/
+12. tire shop aurora co | searches/mo 5,000 (est) | CPC $4.35 | value $22,000 | Google Ads equiv $1,200/mo | our featured min $20/mo | registry competitors 20 | https://registry-edge.dingalinged.workers.dev/k/tire-shop-aurora-co/
+13. vet aurora co | searches/mo 5,000 (est) | CPC $4.06 | value $20,000 | Google Ads equiv $1,300/mo | our featured min $20/mo | registry competitors 22 | https://registry-edge.dingalinged.workers.dev/k/vet-aurora-co/
+14. dog groomer aurora co | searches/mo 4,100 (est) | CPC $4.06 | value $17,000 | Google Ads equiv $1,100/mo | our featured min $20/mo | registry competitors 6 | https://registry-edge.dingalinged.workers.dev/k/dog-groomer-aurora-co/
+15. haircut aurora co | searches/mo 3,300 (est) | CPC $4.62 | value $15,000 | Google Ads equiv $870/mo | our featured min $50/mo | registry competitors 114 | https://registry-edge.dingalinged.workers.dev/k/haircut-aurora-co/
+
+## By CPC
+1. hvac repair aurora co | searches/mo 670 (est) | CPC $17.76 | value $12,000 | Google Ads equiv $760/mo | our featured min $100/mo | registry competitors 8 | https://registry-edge.dingalinged.workers.dev/k/hvac-repair-aurora-co/
+2. plumbing services aurora co | searches/mo 450 (est) | CPC $13.90 | value $6,300 | Google Ads equiv $400/mo | our featured min $100/mo | registry competitors 5 | https://registry-edge.dingalinged.workers.dev/k/plumbing-services-aurora-co/
+3. moving company aurora co | searches/mo 1,800 (est) | CPC $12.41 | value $22,000 | Google Ads equiv $1,400/mo | our featured min $50/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/moving-company-aurora-co/
+4. electrician aurora co | searches/mo 2,200 (est) | CPC $12.18 | value $27,000 | Google Ads equiv $1,700/mo | our featured min $100/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/electrician-aurora-co/
+5. plumber aurora co | searches/mo 7,400 (est) | CPC $12.04 | value $89,000 | Google Ads equiv $5,700/mo | our featured min $100/mo | registry competitors 5 | https://registry-edge.dingalinged.workers.dev/k/plumber-aurora-co/
+6. roofing contractor aurora co | searches/mo 1,200 (est) | CPC $11.79 | value $14,000 | Google Ads equiv $900/mo | our featured min $100/mo | registry competitors 6 | https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-aurora-co/
+7. roofer aurora co | searches/mo 450 (est) | CPC $10.70 | value $4,800 | Google Ads equiv $310/mo | our featured min $100/mo | registry competitors 6 | https://registry-edge.dingalinged.workers.dev/k/roofer-aurora-co/
+8. attorney aurora co | searches/mo 670 (est) | CPC $9.87 | value $6,600 | Google Ads equiv $390/mo | our featured min $100/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/attorney-aurora-co/
+9. lawyer aurora co | searches/mo 450 (est) | CPC $9.87 | value $4,400 | Google Ads equiv $270/mo | our featured min $100/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/lawyer-aurora-co/
+10. landscaping aurora co | searches/mo 1,800 (est) | CPC $8.76 | value $16,000 | Google Ads equiv $1,000/mo | our featured min $50/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/landscaping-aurora-co/
+11. window replacement aurora co | searches/mo 2,000 (est) | CPC $8.76 | value $18,000 | Google Ads equiv $1,100/mo | our featured min $50/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/window-replacement-aurora-co/
+12. chimney sweep aurora co | searches/mo 360 (est) | CPC $8.33 | value $3,000 | Google Ads equiv $190/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/chimney-sweep-aurora-co/
+13. flooring companies aurora co | searches/mo 160 (est) | CPC $8.33 | value $1,300 | Google Ads equiv $85.00/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/flooring-companies-aurora-co/
+14. heating and air aurora co | searches/mo 33.00 (est) | CPC $8.33 | value $270 | Google Ads equiv $18.00/mo | our featured min $100/mo | registry competitors 8 | https://registry-edge.dingalinged.workers.dev/k/heating-and-air-aurora-co/
+15. insulation contractor aurora co | searches/mo 360 (est) | CPC $8.33 | value $3,000 | Google Ads equiv $190/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/insulation-contractor-aurora-co/
+
+## By value (searches x CPC)
+1. massage aurora co | searches/mo 45,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $210,000 | Google Ads equiv $12,000/mo | our featured min $50/mo | registry competitors 11 | https://registry-edge.dingalinged.workers.dev/k/massage-aurora-co/
+2. urgent care aurora co | searches/mo 25,000 (est) | CPC $4.76 | value $120,000 | Google Ads equiv $8,000/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/urgent-care-aurora-co/
+3. plumber aurora co | searches/mo 7,400 (est) | CPC $12.04 | value $89,000 | Google Ads equiv $5,700/mo | our featured min $100/mo | registry competitors 5 | https://registry-edge.dingalinged.workers.dev/k/plumber-aurora-co/
+4. dentist aurora co | searches/mo 17,000 (est) | CPC $4.70 | value $80,000 | Google Ads equiv $4,300/mo | our featured min $100/mo | registry competitors 75 | https://registry-edge.dingalinged.workers.dev/k/dentist-aurora-co/
+5. car wash aurora co | searches/mo 17,000 (est) | CPC $4.35 | value $74,000 | Google Ads equiv $4,100/mo | our featured min $20/mo | registry competitors 44 | https://registry-edge.dingalinged.workers.dev/k/car-wash-aurora-co/
+6. oil change aurora co | searches/mo 17,000 (est) | CPC $4.35 | value $74,000 | Google Ads equiv $4,100/mo | our featured min $20/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/oil-change-aurora-co/
+7. gym aurora co | searches/mo 17,000 (est) | CPC $1.67 | value $28,000 | Google Ads equiv $2,000/mo | our featured min $50/mo | registry competitors 37 | https://registry-edge.dingalinged.workers.dev/k/gym-aurora-co/
+8. electrician aurora co | searches/mo 2,200 (est) | CPC $12.18 | value $27,000 | Google Ads equiv $1,700/mo | our featured min $100/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/electrician-aurora-co/
+9. mechanic aurora co | searches/mo 6,100 (est) | CPC $4.35 | value $27,000 | Google Ads equiv $1,500/mo | our featured min $20/mo | registry competitors 87 | https://registry-edge.dingalinged.workers.dev/k/mechanic-aurora-co/
+10. movers aurora co | searches/mo 2,700 (est) | CPC $8.23 | value $22,000 | Google Ads equiv $1,400/mo | our featured min $50/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/movers-aurora-co/
+11. moving company aurora co | searches/mo 1,800 (est) | CPC $12.41 | value $22,000 | Google Ads equiv $1,400/mo | our featured min $50/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/moving-company-aurora-co/
+12. tire shop aurora co | searches/mo 5,000 (est) | CPC $4.35 | value $22,000 | Google Ads equiv $1,200/mo | our featured min $20/mo | registry competitors 20 | https://registry-edge.dingalinged.workers.dev/k/tire-shop-aurora-co/
+13. vet aurora co | searches/mo 5,000 (est) | CPC $4.06 | value $20,000 | Google Ads equiv $1,300/mo | our featured min $20/mo | registry competitors 22 | https://registry-edge.dingalinged.workers.dev/k/vet-aurora-co/
+14. dog groomer aurora co | searches/mo 4,100 (est) | CPC $4.06 | value $17,000 | Google Ads equiv $1,100/mo | our featured min $20/mo | registry competitors 6 | https://registry-edge.dingalinged.workers.dev/k/dog-groomer-aurora-co/
+15. pilates aurora co | searches/mo 2,700 (est) | CPC $6.17 | value $17,000 | Google Ads equiv $1,200/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/pilates-aurora-co/
+
+All market data: https://registry-edge.dingalinged.workers.dev/market/ | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html

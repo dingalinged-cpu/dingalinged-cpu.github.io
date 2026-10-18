@@ -1,0 +1,24 @@
+Pottery Barn is a furniture store in Novi, MI.
+
+# Pottery Barn
+
+- Category: furniture store
+- Services: furniture store
+- Address: Novi, MI
+- City: Novi
+- State: MI
+- ZIP: n/a
+- Coordinates: 42.4914945, -83.4701624
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 43.1/100 — Building — top 87% of furniture stores in Detroit, MI, #9 of 11 furniture stores in Novi (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 41.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/pottery-barn-novi/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/pottery-barn-novi.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/814278229 (license ODbL-1.0); source data as of 2026-05-31
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

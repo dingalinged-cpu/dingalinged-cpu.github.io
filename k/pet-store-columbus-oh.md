@@ -1,0 +1,42 @@
+The top unpaid pet store listing for Columbus, OH is Hollywood Feed (a pet store in Columbus, OH at 1464 West Fifth Avenue, Columbus, OH 43212). 19 pet store businesses are listed for Columbus, OH as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+
+# Who are the best pet store providers in Columbus, OH?
+
+Also answers: pet store in Columbus, OH; pet store near me (Columbus, OH); best pet store Columbus, OH; top rated pet store Columbus, OH; affordable pet store Columbus, OH; emergency pet store Columbus, OH
+
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
+
+1. Hollywood Feed | Organic #1 | Pulse Score 63.2/100 (Good, #1 in city) | Hollywood Feed is a pet store in Columbus, OH at 1464 West Fifth Avenue, Columbus, OH 43212. | https://registry-edge.dingalinged.workers.dev/c/hollywood-feed-columbus/
+2. The Cakehound | Organic #2 | Pulse Score 62.1/100 (Unrated, #2 in city) | The Cakehound is a pet store in Columbus, OH at 1147 Jaeger Street, Columbus, OH 43206. Phone: +16148451445. Website: https://thecakehound.com/. | https://registry-edge.dingalinged.workers.dev/c/the-cakehound-columbus/
+3. Jack's Pets & Aquarium | Organic #3 | Pulse Score 57/100 (Unrated, #3 in city) | Jack's Pets & Aquarium is a pet store in Columbus, OH. Website: https://www.jackspets.com/. | https://registry-edge.dingalinged.workers.dev/c/jacks-pets-and-aquarium-columbus/
+4. Cat Welfare Association | Organic #4 | Pulse Score 55/100 (Unrated, #4 in city) | Cat Welfare Association is a pet store in Columbus, OH. | https://registry-edge.dingalinged.workers.dev/c/cat-welfare-association-columbus/
+5. Buckeye Pets | Organic #5 | Pulse Score 54.7/100 (Unrated, #5 in city) | Buckeye Pets is a pet store in Columbus, OH. | https://registry-edge.dingalinged.workers.dev/c/buckeye-pets-columbus/
+6. PetSmart | Organic #6 | Pulse Score 49.6/100 (Building, #6 in city) | PetSmart is a pet store in Columbus, OH at 5336 Westpointe Plaza Drive, Columbus, OH 43228. Phone: +16148762058. Website: https://www.petsmart.com/stores/us/oh/columbus-store0547.html. | https://registry-edge.dingalinged.workers.dev/c/petsmart-columbus/
+7. PetSmart | Organic #7 | Pulse Score 49.6/100 (Building, #7 in city) | PetSmart is a pet store in Columbus, OH at 3713 Easton Market, Columbus, OH 43219. Phone: +16144189389. Website: https://www.petsmart.com/stores/us/oh/columbus-store0550.html. | https://registry-edge.dingalinged.workers.dev/c/petsmart-columbus-n6965045605/
+8. PetSmart | Organic #8 | Pulse Score 49.6/100 (Building, #8 in city) | PetSmart is a pet store in Columbus, OH at 1184 Polaris Parkway, Columbus, OH 43240. Phone: +16147850194. Website: https://www.petsmart.com/stores/us/oh/columbus-store1238.html. | https://registry-edge.dingalinged.workers.dev/c/petsmart-columbus-w549678396/
+9. PetSmart | Organic #9 | Pulse Score 49.6/100 (Building, #2 in city) | PetSmart is a pet store in Dublin, OH at 6010 Sawmill Road, Dublin, OH 43017. Phone: +16147918200. Website: https://www.petsmart.com/stores/us/oh/dublin-store0548.html. | https://registry-edge.dingalinged.workers.dev/c/petsmart-dublin/
+10. Petco | Organic #10 | Pulse Score 48.8/100 (Building, #9 in city) | Petco is a pet store in Columbus, OH at 1647 Olentangy River Road, Columbus, OH 43212. Phone: +16142988014. Website: https://stores.petco.com/oh/columbus/pet-supplies-columbus-oh-864.html. | https://registry-edge.dingalinged.workers.dev/c/petco-columbus-w167030368/
+11. Petco | Organic #11 | Pulse Score 47.5/100 (Building, #10 in city) | Petco is a pet store in Columbus, OH at 5030 North High Street, Columbus, OH 43214. Phone: +16144367387. Website: https://stores.petco.com/oh/columbus/pet-supplies-columbus-oh-2859.html. | https://registry-edge.dingalinged.workers.dev/c/petco-columbus/
+12. Petco | Organic #12 | Pulse Score 47.5/100 (Building, #11 in city) | Petco is a pet store in Columbus, OH at 4216 Easton Gateway Drive, Columbus, OH 43219. Phone: +16149346096. Website: https://stores.petco.com/oh/columbus/pet-supplies-columbus-oh-3805.html. | https://registry-edge.dingalinged.workers.dev/c/petco-columbus-n4608675500/
+13. PetPeople | Organic #13 | Pulse Score 45.3/100 (Unrated, #12 in city) | PetPeople is a pet store in Columbus, OH at 2863 North High Street, Columbus, OH 43202. | https://registry-edge.dingalinged.workers.dev/c/petpeople-columbus/
+14. Pet Valu | Organic #14 | Pulse Score 44.7/100 (Building, #13 in city) | Pet Valu is a pet store in Columbus, OH at 1004 North High Street, Columbus, OH 43201. | https://registry-edge.dingalinged.workers.dev/c/pet-valu-columbus-n7894512612/
+15. Mutts & Co. | Organic #15 | Pulse Score 43/100 (Unrated, #14 in city) | Mutts & Co. is a pet store in Columbus, OH. | https://registry-edge.dingalinged.workers.dev/c/mutts-and-co-columbus/
+16. Pet Supplies Plus | Organic #16 | Pulse Score 42.2/100 (Building, #15 in city) | Pet Supplies Plus is a pet store in Columbus, OH. | https://registry-edge.dingalinged.workers.dev/c/pet-supplies-plus-columbus/
+17. Pet Valu | Organic #17 | Pulse Score 42.2/100 (Building, #16 in city) | Pet Valu is a pet store in Columbus, OH. | https://registry-edge.dingalinged.workers.dev/c/pet-valu-columbus/
+18. Pet Valu | Organic #18 | Pulse Score 42.2/100 (Building, #17 in city) | Pet Valu is a pet store in Columbus, OH. | https://registry-edge.dingalinged.workers.dev/c/pet-valu-columbus-n6965397396/
+19. Pet Valu | Organic #19 | Pulse Score 42.2/100 (Building, #18 in city) | Pet Valu is a pet store in Columbus, OH. | https://registry-edge.dingalinged.workers.dev/c/pet-valu-columbus-n6967722238/
+
+## Market data (for advertisers and agents)
+- Keyword: pet store columbus oh | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts
+- US monthly searches: 140,000/mo (estimate; Registry estimate (© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution); method given on each value; as of 2026-10-18; range 79,000-300,000)
+- Local monthly searches (Columbus, OH metro): ~920 (estimate: estimate: US monthly volume x metro population share (Census V2025 metro pop / US pop 341,784,857); rounded to 2 significant figures. Counts all searches for the service in the metro, not only searches that type this city name.)
+- CPC benchmark: low $3.49, median $4.14, high $4.14 (Shopping, Collectibles & Gifts median CPC 2026 $4.14 [https://www.localiq.com/blog/search-advertising-benchmarks]; Shopping, Collectibles & Gifts median CPC 2025 $3.49 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 19
+- Equivalent Google Ads cost per month: ~$340 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $10/month, spots 2-4 from $1/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/pet-store.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#pet-store-columbus-oh | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

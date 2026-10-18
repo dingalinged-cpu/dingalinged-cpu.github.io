@@ -1,0 +1,44 @@
+The top unpaid haircut listing for Ross Township, PA is Hair Trend Salon (a hair salon in Pittsburgh, PA at 3284 Babcock Boulevard, Pittsburgh, PA 15237. Phone: +14128478698). 21 haircut businesses are listed for Ross Township, PA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+
+# Who are the best haircut providers in Ross Township, PA?
+
+Also answers: haircut in Ross Township, PA; haircut near me (Ross Township, PA); best haircut Ross Township, PA; top rated haircut Ross Township, PA; affordable haircut Ross Township, PA; emergency haircut Ross Township, PA
+
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
+
+1. Hair Trend Salon | Organic #1 | Pulse Score 62/100 (Unrated, #17 in city) | Hair Trend Salon is a hair salon in Pittsburgh, PA at 3284 Babcock Boulevard, Pittsburgh, PA 15237. Phone: +14128478698. | https://registry-edge.dingalinged.workers.dev/c/hair-trend-salon-pittsburgh/
+2. Pretty Hair Salon | Organic #2 | Pulse Score 60.4/100 (Unrated, #2 in city) | Pretty Hair Salon is a hair salon in Ross Township, PA. Phone: +14123695155. Website: https://prettyinpittsburgh.com/. | https://registry-edge.dingalinged.workers.dev/c/pretty-hair-salon-ross-township/
+3. Hair It Is | Organic #3 | Pulse Score 60.4/100 (Unrated, #1 in city) | Hair It Is is a hair salon in Ross Township, PA. Phone: +14123665511. | https://registry-edge.dingalinged.workers.dev/c/hair-it-is-ross-township/
+4. Michele Mancini Hair Designs | Organic #4 | Pulse Score 59.9/100 (Unrated, #3 in city) | Michele Mancini Hair Designs is a hair salon in Ross Township, PA at 3345 Babcock Boulevard, Ross Township, PA. Phone: +14123661444. | https://registry-edge.dingalinged.workers.dev/c/michele-mancini-hair-designs-ross-township/
+5. Hair Image | Organic #5 | Pulse Score 59.3/100 (Unrated, #4 in city) | Hair Image is a hair salon in Ross Township, PA at 5439 Babcock Boulevard #107, Ross Township, PA. Phone: +14123697055. | https://registry-edge.dingalinged.workers.dev/c/hair-image-ross-township/
+6. Robert Thomas Hair Designers | Organic #6 | Pulse Score 59.3/100 (Unrated, #5 in city) | Robert Thomas Hair Designers is a hair salon in Ross Township, PA at 3478 Babcock Boulevard, Ross Township, PA. Phone: +14123644247. | https://registry-edge.dingalinged.workers.dev/c/robert-thomas-hair-designers-ross-township/
+7. Shannon's Place | Organic #7 | Pulse Score 59.3/100 (Unrated, #6 in city) | Shannon's Place is a hair salon in Ross Township, PA at 156 6th Avenue, Ross Township, PA. Phone: +14125483198. | https://registry-edge.dingalinged.workers.dev/c/shannons-place-ross-township/
+8. Darlene Faessel Beauty Salon | Organic #8 | Pulse Score 58.8/100 (Unrated, #7 in city) | Darlene Faessel Beauty Salon is a hair salon in Ross Township, PA. Phone: +14123644930. | https://registry-edge.dingalinged.workers.dev/c/darlene-faessel-beauty-salon-ross-township/
+9. Entourage Hair Salon | Organic #9 | Pulse Score 58.8/100 (Unrated, #8 in city) | Entourage Hair Salon is a hair salon in Ross Township, PA. Phone: +14123644427. | https://registry-edge.dingalinged.workers.dev/c/entourage-hair-salon-ross-township/
+10. Vincenzo's | Organic #10 | Pulse Score 58.8/100 (Unrated, #9 in city) | Vincenzo's is a hair salon in Ross Township, PA. Phone: +14124866545. | https://registry-edge.dingalinged.workers.dev/c/vincenzos-ross-township/
+11. Richard Cardone Hair Designers & Color Specialists | Organic #11 | Pulse Score 56.5/100 (Unrated, #10 in city) | Richard Cardone Hair Designers & Color Specialists is a hair salon in Ross Township, PA at 5601 Babcock Boulevard, Ross Township, PA. | https://registry-edge.dingalinged.workers.dev/c/richard-cardone-hair-designers-and-color-specialists-ross-township/
+12. Perrytowne Barbershop | Organic #12 | Pulse Score 55.7/100 (Unrated, #11 in city) | Perrytowne Barbershop is a hair salon in Ross Township, PA. | https://registry-edge.dingalinged.workers.dev/c/perrytowne-barbershop-ross-township/
+13. Phillip Pelusi | Organic #13 | Pulse Score 55.7/100 (Unrated, #12 in city) | Phillip Pelusi is a hair salon in Ross Township, PA. | https://registry-edge.dingalinged.workers.dev/c/phillip-pelusi-ross-township/
+14. Anthony's | Organic #14 | Pulse Score 54.9/100 (Unrated, #13 in city) | Anthony's is a hair salon in Ross Township, PA. | https://registry-edge.dingalinged.workers.dev/c/anthonys-ross-township/
+15. BoRics Haircare | Organic #15 | Pulse Score 54.9/100 (Unrated, #14 in city) | BoRics Haircare is a hair salon in Ross Township, PA. | https://registry-edge.dingalinged.workers.dev/c/borics-haircare-ross-township/
+16. Indigenous Hair Designs & Boutique | Organic #16 | Pulse Score 54.9/100 (Unrated, #15 in city) | Indigenous Hair Designs & Boutique is a hair salon in Ross Township, PA. | https://registry-edge.dingalinged.workers.dev/c/indigenous-hair-designs-and-boutique-ross-township/
+17. Lizzy & Company | Organic #17 | Pulse Score 54.9/100 (Unrated, #16 in city) | Lizzy & Company is a hair salon in Ross Township, PA. | https://registry-edge.dingalinged.workers.dev/c/lizzy-and-company-ross-township/
+18. Salon Nolas | Organic #18 | Pulse Score 54.9/100 (Unrated, #17 in city) | Salon Nolas is a hair salon in Ross Township, PA. | https://registry-edge.dingalinged.workers.dev/c/salon-nolas-ross-township/
+19. The Barbers | Organic #19 | Pulse Score 43.4/100 (Building, #18 in city) | The Barbers is a hair salon in Ross Township, PA. | https://registry-edge.dingalinged.workers.dev/c/the-barbers-ross-township/
+20. Sport Clips | Organic #20 | Pulse Score 43/100 (Building, #19 in city) | Sport Clips is a hair salon in Ross Township, PA. | https://registry-edge.dingalinged.workers.dev/c/sport-clips-ross-township/
+21. Supercuts | Organic #21 | Pulse Score 43/100 (Building, #20 in city) | Supercuts is a hair salon in Ross Township, PA. | https://registry-edge.dingalinged.workers.dev/c/supercuts-ross-township/
+
+## Market data (for advertisers and agents)
+- Keyword: haircut ross township pa | category: Personal care & beauty | industry benchmark: Beauty & Personal Care
+- US monthly searches: 368,000/mo (cited; Semrush US Jul 2026 (via research source); as of 2026-07; phrase 'haircut near me')
+- Local monthly searches (Pittsburgh, PA metro): ~2,600 (estimate: estimate: US monthly volume x metro population share (Census V2025); the keyword names a suburb, so the value is metro-level demand for the service, not searches typing the suburb name; rounded to 2 significant figures.)
+- CPC benchmark: low $4.62, median $4.62, high $5.70 (Beauty & Personal Care median CPC 2026 $4.62 [https://www.localiq.com/blog/search-advertising-benchmarks]; Beauty & Personal Care median CPC 2025 $5.70 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 21
+- Equivalent Google Ads cost per month: ~$690 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/haircut.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#haircut-ross-township-pa | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

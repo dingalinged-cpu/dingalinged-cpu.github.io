@@ -1,0 +1,39 @@
+The top unpaid tax preparer listing for Detroit, MI is National Tax Service (a tax preparation service in Detroit, MI at 13998 Gratiot Avenue, Detroit, MI. Phone: +13133715777). 16 tax preparer businesses are listed for Detroit, MI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+
+# Who are the best tax preparer providers in Detroit, MI?
+
+Also answers: tax preparer in Detroit, MI; tax preparer near me (Detroit, MI); best tax preparer Detroit, MI; top rated tax preparer Detroit, MI; affordable tax preparer Detroit, MI; emergency tax preparer Detroit, MI
+
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
+
+1. National Tax Service | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | National Tax Service is a tax preparation service in Detroit, MI at 13998 Gratiot Avenue, Detroit, MI. Phone: +13133715777. | https://registry-edge.dingalinged.workers.dev/c/national-tax-service-detroit/
+2. PBS Tax and Notary Service | Organic #2 | Pulse Score 60.7/100 (Unrated, #2 in city) | PBS Tax and Notary Service is a tax preparation service in Detroit, MI at 18252 Grand River Avenue, Detroit, MI 48223. Phone: +13138359702. | https://registry-edge.dingalinged.workers.dev/c/pbs-tax-and-notary-service-detroit/
+3. Latino Tax & Notary Services | Organic #3 | Pulse Score 57.1/100 (Unrated, #3 in city) | Latino Tax & Notary Services is a tax preparation service in Detroit, MI at 4848 West Vernor Highway, Detroit, MI 48209. | https://registry-edge.dingalinged.workers.dev/c/latino-tax-and-notary-services-detroit/
+4. National Tax Services | Organic #4 | Pulse Score 57.1/100 (Unrated, #4 in city) | National Tax Services is a tax preparation service in Detroit, MI at 19640 Grand River Avenue, Detroit, MI 48223. | https://registry-edge.dingalinged.workers.dev/c/national-tax-services-detroit/
+5. American Tax Service | Organic #5 | Pulse Score 55.9/100 (Unrated, #5 in city) | American Tax Service is a tax preparation service in Detroit, MI at 15226 East 7 Mile Road, Detroit, MI. | https://registry-edge.dingalinged.workers.dev/c/american-tax-service-detroit/
+6. The Tax Experts | Organic #6 | Pulse Score 55.9/100 (Unrated, #6 in city) | The Tax Experts is a tax preparation service in Detroit, MI at 15096 Gratiot Avenue, Detroit, MI. | https://registry-edge.dingalinged.workers.dev/c/the-tax-experts-detroit/
+7. Royalty Income Tax | Organic #7 | Pulse Score 54.5/100 (Unrated, #7 in city) | Royalty Income Tax is a tax preparation service in Detroit, MI. | https://registry-edge.dingalinged.workers.dev/c/royalty-income-tax-detroit/
+8. United Taxe$ | Organic #8 | Pulse Score 54.5/100 (Unrated, #8 in city) | United Taxe$ is a tax preparation service in Detroit, MI. | https://registry-edge.dingalinged.workers.dev/c/united-taxe-detroit/
+9. Xpress Tax | Organic #9 | Pulse Score 54.5/100 (Unrated, #9 in city) | Xpress Tax is a tax preparation service in Detroit, MI. | https://registry-edge.dingalinged.workers.dev/c/xpress-tax-detroit/
+10. Jackson Hewitt | Organic #10 | Pulse Score 48.7/100 (Building, #10 in city) | Jackson Hewitt is a tax preparation service in Detroit, MI at 14254 Gratiot Avenue, Detroit, MI 48205. Phone: +13134690731. Website: https://office.jacksonhewitt.com/tax-preparation-services-locations/en/mi/detroit/14254-gratiot-ave/19925. | https://registry-edge.dingalinged.workers.dev/c/jackson-hewitt-detroit/
+11. Liberty Tax | Organic #11 | Pulse Score 48.4/100 (Building, #11 in city) | Liberty Tax is a tax preparation service in Detroit, MI at 12920 Gratiot Avenue, Detroit, MI. Phone: +13139243514. Website: https://www.libertytax.com/income-tax-preparation-locations/11021. | https://registry-edge.dingalinged.workers.dev/c/liberty-tax-detroit-n9664723734/
+12. H&R Block | Organic #12 | Pulse Score 43.2/100 (Unrated, #12 in city) | H&R Block is a tax preparation service in Detroit, MI at 14418 Gratiot Avenue, Detroit, MI. | https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-detroit-n5768868795/
+13. Liberty Tax | Organic #13 | Pulse Score 42.9/100 (Building, #13 in city) | Liberty Tax is a tax preparation service in Detroit, MI. | https://registry-edge.dingalinged.workers.dev/c/liberty-tax-detroit/
+14. Liberty Tax | Organic #14 | Pulse Score 42.9/100 (Building, #14 in city) | Liberty Tax is a tax preparation service in Detroit, MI. | https://registry-edge.dingalinged.workers.dev/c/liberty-tax-detroit-n4400683296/
+15. H&R Block | Organic #15 | Pulse Score 42.1/100 (Building, #15 in city) | H&R Block is a tax preparation service in Detroit, MI. | https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-detroit/
+16. H&R Block | Organic #16 | Pulse Score 42.1/100 (Building, #16 in city) | H&R Block is a tax preparation service in Detroit, MI. | https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-detroit-n4400683305/
+
+## Market data (for advertisers and agents)
+- Keyword: tax preparer detroit mi | category: professional_accounting | industry benchmark: Business Services
+- US monthly searches: 60,500/mo (cited; Cited US monthly search volume (via research source); as of 2026; phrase 'tax preparer near me')
+- Local monthly searches (Detroit-Warren-Dearborn, MI metro): ~780 (estimate: estimate: US monthly volume x metro population share (Census V2025 metro pop / US pop 341,784,857); rounded to 2 significant figures. Counts all searches for the service in the metro, not only searches that type this city name.)
+- CPC benchmark: low $5.58, median $5.87, high $5.87 (Business Services median CPC 2026 $5.87 [https://www.localiq.com/blog/search-advertising-benchmarks]; Business Services median CPC 2025 $5.58 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 16
+- Equivalent Google Ads cost per month: ~$260 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/tax-preparer.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#tax-preparer-detroit-mi | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,0 +1,24 @@
+LD Nails & Spa is a nail salon in Clinton Township, MI at 36610 Garfield Road, Clinton Township, MI 48035. Phone: +15868464271.
+
+# LD Nails & Spa
+
+- Category: nail salon
+- Services: nail salon
+- Address: 36610 Garfield Road, Clinton Township, MI 48035
+- City: Clinton Township
+- State: MI
+- ZIP: 48035
+- Coordinates: 42.5662662, -82.9498251
+- Phone: +15868464271
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 13% of nail salons in Detroit, MI, #2 of 2 nail salons in Clinton Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.4, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/ld-nails-and-spa-clinton-township/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/ld-nails-and-spa-clinton-township.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1336068764 (license ODbL-1.0); source data as of 2026-05-31
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

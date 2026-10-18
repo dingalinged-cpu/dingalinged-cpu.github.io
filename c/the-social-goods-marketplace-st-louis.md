@@ -1,0 +1,24 @@
+The Social Goods Marketplace is a gift shop in St. Louis, MO at 3189 South Grand Boulevard, St. Louis, MO 63118.
+
+# The Social Goods Marketplace
+
+- Category: gift shop
+- Services: gift shop
+- Address: 3189 South Grand Boulevard, St. Louis, MO 63118
+- City: St. Louis
+- State: MO
+- ZIP: 63118
+- Coordinates: 38.5997636, -90.2429112
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Wed -  Sat 11:00 - 18:00, Sun 11:00 - 16:00
+- Pulse Score: 58.9/100 — Unrated (not enough evidence yet) — top 35% of gift shops in St. Louis, MO, #1 of 2 gift shops in St. Louis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 53.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-social-goods-marketplace-st-louis/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-social-goods-marketplace-st-louis.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5917366184 (license ODbL-1.0); source data as of 2026-05-31
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

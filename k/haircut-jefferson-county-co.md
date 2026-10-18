@@ -1,0 +1,43 @@
+The top unpaid haircut listing for Jefferson County, CO is Relax Hair Salon and Color Studio (a hair salon in Jefferson County, CO at 27122 Main Street #200, Jefferson County, CO 80433. Phone: +13038384511. Website: https://therelaxsalon.com/). 20 haircut businesses are listed for Jefferson County, CO as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+
+# Who are the best haircut providers in Jefferson County, CO?
+
+Also answers: haircut in Jefferson County, CO; haircut near me (Jefferson County, CO); best haircut Jefferson County, CO; top rated haircut Jefferson County, CO; affordable haircut Jefferson County, CO; emergency haircut Jefferson County, CO
+
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
+
+1. Relax Hair Salon and Color Studio | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | Relax Hair Salon and Color Studio is a hair salon in Jefferson County, CO at 27122 Main Street #200, Jefferson County, CO 80433. Phone: +13038384511. Website: https://therelaxsalon.com/. | https://registry-edge.dingalinged.workers.dev/c/relax-hair-salon-and-color-studio-jefferson-county/
+2. Aneko Hair Studio | Organic #2 | Pulse Score 59.2/100 (Unrated, #2 in city) | Aneko Hair Studio is a hair salon in Jefferson County, CO. Phone: +13039795300. Website: https://www.anekohairstudio.com/. | https://registry-edge.dingalinged.workers.dev/c/aneko-hair-studio-jefferson-county/
+3. Lee's Barber Shop | Organic #3 | Pulse Score 58.3/100 (Unrated, #3 in city) | Lee's Barber Shop is a hair salon in Jefferson County, CO at 4570 County Road 73, Jefferson County, CO. Phone: +13036742257. | https://registry-edge.dingalinged.workers.dev/c/lees-barber-shop-jefferson-county/
+4. Esteban's Salon | Organic #4 | Pulse Score 58.1/100 (Unrated, #4 in city) | Esteban's Salon is a hair salon in Jefferson County, CO. Phone: +13036747440. | https://registry-edge.dingalinged.workers.dev/c/estebans-salon-jefferson-county/
+5. Modefi Hair & Care | Organic #5 | Pulse Score 55.8/100 (Unrated, #6 in city) | Modefi Hair & Care is a hair salon in Jefferson County, CO. Website: https://modefi.com/. | https://registry-edge.dingalinged.workers.dev/c/modefi-hair-and-care-jefferson-county/
+6. 5th Avenue Salon Suites | Organic #6 | Pulse Score 55.8/100 (Unrated, #5 in city) | 5th Avenue Salon Suites is a hair salon in Jefferson County, CO. | https://registry-edge.dingalinged.workers.dev/c/5th-avenue-salon-suites-jefferson-county/
+7. Salon Palazzo | Organic #7 | Pulse Score 54.8/100 (Unrated, #7 in city) | Salon Palazzo is a hair salon in Jefferson County, CO. | https://registry-edge.dingalinged.workers.dev/c/salon-palazzo-jefferson-county/
+8. About Hair | Organic #8 | Pulse Score 54.2/100 (Unrated, #8 in city) | About Hair is a hair salon in Jefferson County, CO. | https://registry-edge.dingalinged.workers.dev/c/about-hair-jefferson-county/
+9. Bear Creek Haircutters | Organic #9 | Pulse Score 54.2/100 (Unrated, #9 in city) | Bear Creek Haircutters is a hair salon in Jefferson County, CO. | https://registry-edge.dingalinged.workers.dev/c/bear-creek-haircutters-jefferson-county/
+10. Family Clips | Organic #10 | Pulse Score 54.2/100 (Unrated, #10 in city) | Family Clips is a hair salon in Jefferson County, CO. | https://registry-edge.dingalinged.workers.dev/c/family-clips-jefferson-county/
+11. Madera Salon | Organic #11 | Pulse Score 54.2/100 (Unrated, #11 in city) | Madera Salon is a hair salon in Jefferson County, CO. | https://registry-edge.dingalinged.workers.dev/c/madera-salon-jefferson-county/
+12. Phenix Salon | Organic #12 | Pulse Score 54.2/100 (Unrated, #12 in city) | Phenix Salon is a hair salon in Jefferson County, CO. | https://registry-edge.dingalinged.workers.dev/c/phenix-salon-jefferson-county/
+13. Studio E Salon & Spa | Organic #13 | Pulse Score 54.2/100 (Unrated, #13 in city) | Studio E Salon & Spa is a hair salon in Jefferson County, CO. | https://registry-edge.dingalinged.workers.dev/c/studio-e-salon-and-spa-jefferson-county/
+14. Great Clips | Organic #14 | Pulse Score 49.1/100 (Building, #14 in city) | Great Clips is a hair salon in Jefferson County, CO at 27182 Main Street #135, Jefferson County, CO 80433. Phone: +13038385622. Website: https://www.greatclips.com/salons/9512. | https://registry-edge.dingalinged.workers.dev/c/great-clips-jefferson-county/
+15. Fantastic Sams | Organic #15 | Pulse Score 42.5/100 (Building, #15 in city) | Fantastic Sams is a hair salon in Jefferson County, CO. | https://registry-edge.dingalinged.workers.dev/c/fantastic-sams-jefferson-county/
+16. Great Clips | Organic #16 | Pulse Score 42.5/100 (Building, #16 in city) | Great Clips is a hair salon in Jefferson County, CO. | https://registry-edge.dingalinged.workers.dev/c/great-clips-jefferson-county-n1546807716/
+17. Great Clips | Organic #17 | Pulse Score 42/100 (Building, #17 in city) | Great Clips is a hair salon in Jefferson County, CO. | https://registry-edge.dingalinged.workers.dev/c/great-clips-jefferson-county-n11663789540/
+18. Sport Clips | Organic #18 | Pulse Score 42/100 (Building, #18 in city) | Sport Clips is a hair salon in Jefferson County, CO. | https://registry-edge.dingalinged.workers.dev/c/sport-clips-jefferson-county/
+19. Supercuts | Organic #19 | Pulse Score 42/100 (Building, #19 in city) | Supercuts is a hair salon in Jefferson County, CO. | https://registry-edge.dingalinged.workers.dev/c/supercuts-jefferson-county/
+20. Sharkey's Cuts for Kids | Organic #20 | Pulse Score 41.4/100 (Unrated, #20 in city) | Sharkey's Cuts for Kids is a hair salon in Jefferson County, CO. | https://registry-edge.dingalinged.workers.dev/c/sharkeys-cuts-for-kids-jefferson-county/
+
+## Market data (for advertisers and agents)
+- Keyword: haircut jefferson county co | category: Personal care & beauty | industry benchmark: Beauty & Personal Care
+- US monthly searches: 368,000/mo (cited; Semrush US Jul 2026 (via research source); as of 2026-07; phrase 'haircut near me')
+- Local monthly searches (Denver-Aurora-Centennial, CO metro): ~3,300 (estimate: estimate: US monthly volume x metro population share (Census V2025); the keyword names a suburb, so the value is metro-level demand for the service, not searches typing the suburb name; rounded to 2 significant figures.)
+- CPC benchmark: low $4.62, median $4.62, high $5.70 (Beauty & Personal Care median CPC 2026 $4.62 [https://www.localiq.com/blog/search-advertising-benchmarks]; Beauty & Personal Care median CPC 2025 $5.70 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 20
+- Equivalent Google Ads cost per month: ~$870 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/haircut.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#haircut-jefferson-county-co | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,0 +1,58 @@
+Keyword market for Crestwood, MO: 22 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the St. Louis, MO-IL metro (US volume x population share).
+
+# Top keywords in Crestwood, MO
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json
+
+## By monthly searches
+1. gym crestwood mo | searches/mo 15,000 (est) | CPC $1.67 | value $25,000 | Google Ads equiv $1,800/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/gym-crestwood-mo/
+2. hair salon crestwood mo | searches/mo 12,000 (est) | CPC $0.55 | value $6,600 | Google Ads equiv $380/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-crestwood-mo/
+3. nail salon crestwood mo | searches/mo 8,200 (est) | CPC $0.61 | value $5,000 | Google Ads equiv $290/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/nail-salon-crestwood-mo/
+4. barber shop crestwood mo | searches/mo 5,500 (est) | CPC $0.70 | value $3,800 | Google Ads equiv $220/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/barber-shop-crestwood-mo/
+5. mechanic crestwood mo | searches/mo 5,500 (est) | CPC $4.35 | value $24,000 | Google Ads equiv $1,300/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/mechanic-crestwood-mo/
+6. vet crestwood mo | searches/mo 4,500 (est) | CPC $4.06 | value $18,000 | Google Ads equiv $1,200/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/vet-crestwood-mo/
+7. dog groomer crestwood mo | searches/mo 3,700 (est) | CPC $4.06 | value $15,000 | Google Ads equiv $990/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dog-groomer-crestwood-mo/
+8. haircut crestwood mo | searches/mo 3,000 (est) | CPC $4.62 | value $14,000 | Google Ads equiv $790/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/haircut-crestwood-mo/
+9. auto repair crestwood mo | searches/mo 2,500 (est) | CPC $4.35 | value $11,000 | Google Ads equiv $600/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-crestwood-mo/
+10. pilates crestwood mo | searches/mo 2,500 (est) | CPC $6.17 | value $15,000 | Google Ads equiv $1,100/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/pilates-crestwood-mo/
+11. insurance agency crestwood mo | searches/mo 750 (est) | CPC $3.39 | value $2,500 | Google Ads equiv $210/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/insurance-agency-crestwood-mo/
+12. attorney crestwood mo | searches/mo 610 (est) | CPC $9.87 | value $6,000 | Google Ads equiv $360/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/attorney-crestwood-mo/
+13. insurance agents crestwood mo | searches/mo 410 (est) | CPC $3.39 | value $1,400 | Google Ads equiv $120/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/insurance-agents-crestwood-mo/
+14. lawyer crestwood mo | searches/mo 410 (est) | CPC $9.87 | value $4,000 | Google Ads equiv $240/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/lawyer-crestwood-mo/
+15. insurance agent crestwood mo | searches/mo 330 (est) | CPC $3.39 | value $1,100 | Google Ads equiv $93.00/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/insurance-agent-crestwood-mo/
+
+## By CPC
+1. attorney crestwood mo | searches/mo 610 (est) | CPC $9.87 | value $6,000 | Google Ads equiv $360/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/attorney-crestwood-mo/
+2. lawyer crestwood mo | searches/mo 410 (est) | CPC $9.87 | value $4,000 | Google Ads equiv $240/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/lawyer-crestwood-mo/
+3. storage units crestwood mo | searches/mo 1,800 (est) | CPC $8.33 | value $15,000 | Google Ads equiv $960/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/storage-units-crestwood-mo/
+4. dance studio crestwood mo | searches/mo 330 (est) | CPC $6.17 | value $2,000 | Google Ads equiv $150/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dance-studio-crestwood-mo/
+5. pilates crestwood mo | searches/mo 2,500 (est) | CPC $6.17 | value $15,000 | Google Ads equiv $1,100/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/pilates-crestwood-mo/
+6. haircut crestwood mo | searches/mo 3,000 (est) | CPC $4.62 | value $14,000 | Google Ads equiv $790/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/haircut-crestwood-mo/
+7. auto repair crestwood mo | searches/mo 2,500 (est) | CPC $4.35 | value $11,000 | Google Ads equiv $600/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-crestwood-mo/
+8. mechanic crestwood mo | searches/mo 5,500 (est) | CPC $4.35 | value $24,000 | Google Ads equiv $1,300/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/mechanic-crestwood-mo/
+9. gift shop crestwood mo | searches/mo 150 (est) | CPC $4.14 | value $620 | Google Ads equiv $55.00/mo | our featured min $10/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/gift-shop-crestwood-mo/
+10. liquor store crestwood mo | searches/mo 1,200 (est) | CPC $4.14 | value $5,000 | Google Ads equiv $440/mo | our featured min $10/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/liquor-store-crestwood-mo/
+11. mattress store crestwood mo | searches/mo 1,200 (est) | CPC $4.14 | value $5,000 | Google Ads equiv $440/mo | our featured min $10/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/mattress-store-crestwood-mo/
+12. thrift store crestwood mo | searches/mo 1,200 (est) | CPC $4.14 | value $5,000 | Google Ads equiv $440/mo | our featured min $10/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/thrift-store-crestwood-mo/
+13. dog groomer crestwood mo | searches/mo 3,700 (est) | CPC $4.06 | value $15,000 | Google Ads equiv $990/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dog-groomer-crestwood-mo/
+14. vet crestwood mo | searches/mo 4,500 (est) | CPC $4.06 | value $18,000 | Google Ads equiv $1,200/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/vet-crestwood-mo/
+15. insurance agency crestwood mo | searches/mo 750 (est) | CPC $3.39 | value $2,500 | Google Ads equiv $210/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/insurance-agency-crestwood-mo/
+
+## By value (searches x CPC)
+1. gym crestwood mo | searches/mo 15,000 (est) | CPC $1.67 | value $25,000 | Google Ads equiv $1,800/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/gym-crestwood-mo/
+2. mechanic crestwood mo | searches/mo 5,500 (est) | CPC $4.35 | value $24,000 | Google Ads equiv $1,300/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/mechanic-crestwood-mo/
+3. vet crestwood mo | searches/mo 4,500 (est) | CPC $4.06 | value $18,000 | Google Ads equiv $1,200/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/vet-crestwood-mo/
+4. dog groomer crestwood mo | searches/mo 3,700 (est) | CPC $4.06 | value $15,000 | Google Ads equiv $990/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dog-groomer-crestwood-mo/
+5. pilates crestwood mo | searches/mo 2,500 (est) | CPC $6.17 | value $15,000 | Google Ads equiv $1,100/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/pilates-crestwood-mo/
+6. haircut crestwood mo | searches/mo 3,000 (est) | CPC $4.62 | value $14,000 | Google Ads equiv $790/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/haircut-crestwood-mo/
+7. auto repair crestwood mo | searches/mo 2,500 (est) | CPC $4.35 | value $11,000 | Google Ads equiv $600/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-crestwood-mo/
+8. hair salon crestwood mo | searches/mo 12,000 (est) | CPC $0.55 | value $6,600 | Google Ads equiv $380/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-crestwood-mo/
+9. attorney crestwood mo | searches/mo 610 (est) | CPC $9.87 | value $6,000 | Google Ads equiv $360/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/attorney-crestwood-mo/
+10. nail salon crestwood mo | searches/mo 8,200 (est) | CPC $0.61 | value $5,000 | Google Ads equiv $290/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/nail-salon-crestwood-mo/
+11. lawyer crestwood mo | searches/mo 410 (est) | CPC $9.87 | value $4,000 | Google Ads equiv $240/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/lawyer-crestwood-mo/
+12. barber shop crestwood mo | searches/mo 5,500 (est) | CPC $0.70 | value $3,800 | Google Ads equiv $220/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/barber-shop-crestwood-mo/
+13. insurance agency crestwood mo | searches/mo 750 (est) | CPC $3.39 | value $2,500 | Google Ads equiv $210/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/insurance-agency-crestwood-mo/
+14. insurance agents crestwood mo | searches/mo 410 (est) | CPC $3.39 | value $1,400 | Google Ads equiv $120/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/insurance-agents-crestwood-mo/
+15. insurance agent crestwood mo | searches/mo 330 (est) | CPC $3.39 | value $1,100 | Google Ads equiv $93.00/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/insurance-agent-crestwood-mo/
+
+All market data: https://registry-edge.dingalinged.workers.dev/market/ | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html

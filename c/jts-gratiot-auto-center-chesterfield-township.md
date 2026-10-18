@@ -1,0 +1,24 @@
+JT's Gratiot Auto Center is an auto repair shop in Chesterfield Township, MI at 52680 Gratiot Avenue, Chesterfield Township, MI 48051.
+
+# JT's Gratiot Auto Center
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 52680 Gratiot Avenue, Chesterfield Township, MI 48051
+- City: Chesterfield Township
+- State: MI
+- ZIP: 48051
+- Coordinates: 42.6870303, -82.8224729
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.1/100 — Unrated (not enough evidence yet) — top 82% of auto repair shops in Detroit, MI, #4 of 5 auto repair shops in Chesterfield Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 48.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/jts-gratiot-auto-center-chesterfield-township/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/jts-gratiot-auto-center-chesterfield-township.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/594718168 (license ODbL-1.0); source data as of 2026-05-31
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

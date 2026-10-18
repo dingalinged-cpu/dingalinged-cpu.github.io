@@ -1,0 +1,48 @@
+The top unpaid bakery listing for Detroit, MI is Canelle detroit (a bakery in Detroit, MI at 45, Detroit, MI 48226. Phone: +13136949767. Website: https://www.cannelledetroit.com/). 25 bakery businesses are listed for Detroit, MI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+
+# Who are the best bakery providers in Detroit, MI?
+
+Also answers: bakery in Detroit, MI; bakery near me (Detroit, MI); best bakery Detroit, MI; top rated bakery Detroit, MI; affordable bakery Detroit, MI; emergency bakery Detroit, MI
+
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
+
+1. Canelle detroit | Organic #1 | Pulse Score 63.6/100 (Unrated, #1 in city) | Canelle detroit is a bakery in Detroit, MI at 45, Detroit, MI 48226. Phone: +13136949767. Website: https://www.cannelledetroit.com/. | https://registry-edge.dingalinged.workers.dev/c/canelle-detroit-detroit/
+2. Avalon Bakery | Organic #2 | Pulse Score 61.3/100 (Unrated, #2 in city) | Avalon Bakery is a bakery in Detroit, MI at 1075 Woodward Avenue, Detroit, MI 48226. Website: https://avalonbreads.net/pages/avalon-woodward. | https://registry-edge.dingalinged.workers.dev/c/avalon-bakery-detroit/
+3. Sheila's Cake Shop | Organic #3 | Pulse Score 61/100 (Unrated, #3 in city) | Sheila's Cake Shop is a bakery in Detroit, MI at 2142 Springwells Street, Detroit, MI. Phone: +13138418480. | https://registry-edge.dingalinged.workers.dev/c/sheilas-cake-shop-detroit/
+4. Sister Pie | Organic #4 | Pulse Score 60.1/100 (Unrated, #4 in city) | Sister Pie is a bakery in Detroit, MI at 8066 Kercheval Avenue, Detroit, MI 48214. Website: https://www.sisterpie.com/. | https://registry-edge.dingalinged.workers.dev/c/sister-pie-detroit/
+5. Good Cakes and Bakes | Organic #5 | Pulse Score 59.7/100 (Unrated, #6 in city) | Good Cakes and Bakes is a bakery in Detroit, MI at 19363 Livernois Avenue, Detroit, MI 48221. Website: https://goodcakesandbakes.com/. | https://registry-edge.dingalinged.workers.dev/c/good-cakes-and-bakes-detroit/
+6. Dutch Girl Donuts | Organic #6 | Pulse Score 59.7/100 (Unrated, #5 in city) | Dutch Girl Donuts is a bakery in Detroit, MI at 19000 Woodward Avenue, Detroit, MI 48203. | https://registry-edge.dingalinged.workers.dev/c/dutch-girl-donuts-detroit/
+7. Family Bakery & Restaurant | Organic #7 | Pulse Score 59.5/100 (Unrated, #7 in city) | Family Bakery & Restaurant is a bakery in Detroit, MI. Phone: +13139820022. | https://registry-edge.dingalinged.workers.dev/c/family-bakery-and-restaurant-detroit/
+8. Donut Villa | Organic #8 | Pulse Score 58.1/100 (Unrated, #8 in city) | Donut Villa is a bakery in Detroit, MI at 5875 West Vernor Highway, Detroit, MI 48209. | https://registry-edge.dingalinged.workers.dev/c/donut-villa-detroit/
+9. Knudsen’s Danish Bakery | Organic #9 | Pulse Score 57.2/100 (Unrated, #9 in city) | Knudsen’s Danish Bakery is a bakery in Detroit, MI at 18601 West McNichols Road, Detroit, MI 48219. | https://registry-edge.dingalinged.workers.dev/c/knudsen-s-danish-bakery-detroit/
+10. La Rosa Bakery | Organic #10 | Pulse Score 57.2/100 (Unrated, #10 in city) | La Rosa Bakery is a bakery in Detroit, MI at 5401 Proctor Street, Detroit, MI 48210. | https://registry-edge.dingalinged.workers.dev/c/la-rosa-bakery-detroit/
+11. On the Rise Bakery & Cafe | Organic #11 | Pulse Score 57.2/100 (Unrated, #11 in city) | On the Rise Bakery & Cafe is a bakery in Detroit, MI at 8900 Gratiot Avenue, Detroit, MI 48213. | https://registry-edge.dingalinged.workers.dev/c/on-the-rise-bakery-and-cafe-detroit/
+12. Peoples Brothers Bakery | Organic #12 | Pulse Score 57.2/100 (Unrated, #12 in city) | Peoples Brothers Bakery is a bakery in Detroit, MI at 2765 South Fort Street, Detroit, MI 48217. | https://registry-edge.dingalinged.workers.dev/c/peoples-brothers-bakery-detroit/
+13. Sophia's Baking Company | Organic #13 | Pulse Score 57.2/100 (Unrated, #13 in city) | Sophia's Baking Company is a bakery in Detroit, MI at 8421 Michigan Avenue, Detroit, MI 48210. | https://registry-edge.dingalinged.workers.dev/c/sophias-baking-company-detroit/
+14. Sweet Potato Sensations | Organic #14 | Pulse Score 57.2/100 (Unrated, #14 in city) | Sweet Potato Sensations is a bakery in Detroit, MI at 17337 Lahser Road, Detroit, MI 48219. | https://registry-edge.dingalinged.workers.dev/c/sweet-potato-sensations-detroit/
+15. WARDA Patisserie | Organic #15 | Pulse Score 57.2/100 (Unrated, #15 in city) | WARDA Patisserie is a bakery in Detroit, MI at 1286 McClellan Street, Detroit, MI 48214. | https://registry-edge.dingalinged.workers.dev/c/warda-patisserie-detroit/
+16. Acropolis | Organic #16 | Pulse Score 55.6/100 (Unrated, #16 in city) | Acropolis is a bakery in Detroit, MI. | https://registry-edge.dingalinged.workers.dev/c/acropolis-detroit/
+17. Brown's Bun Bakery | Organic #17 | Pulse Score 54.7/100 (Unrated, #17 in city) | Brown's Bun Bakery is a bakery in Detroit, MI. | https://registry-edge.dingalinged.workers.dev/c/browns-bun-bakery-detroit/
+18. Chilango's Bakery | Organic #18 | Pulse Score 54.7/100 (Unrated, #18 in city) | Chilango's Bakery is a bakery in Detroit, MI. | https://registry-edge.dingalinged.workers.dev/c/chilangos-bakery-detroit/
+19. La Gloria Bakery | Organic #19 | Pulse Score 54.7/100 (Unrated, #19 in city) | La Gloria Bakery is a bakery in Detroit, MI. | https://registry-edge.dingalinged.workers.dev/c/la-gloria-bakery-detroit/
+20. La Jalisciense Tortilla Factory | Organic #20 | Pulse Score 54.7/100 (Unrated, #20 in city) | La Jalisciense Tortilla Factory is a bakery in Detroit, MI. | https://registry-edge.dingalinged.workers.dev/c/la-jalisciense-tortilla-factory-detroit/
+21. La Michoacana Tortilla Factory | Organic #21 | Pulse Score 54.7/100 (Unrated, #21 in city) | La Michoacana Tortilla Factory is a bakery in Detroit, MI. | https://registry-edge.dingalinged.workers.dev/c/la-michoacana-tortilla-factory-detroit/
+22. La Michoacana Tortilla Factory | Organic #22 | Pulse Score 54.7/100 (Unrated, #22 in city) | La Michoacana Tortilla Factory is a bakery in Detroit, MI. | https://registry-edge.dingalinged.workers.dev/c/la-michoacana-tortilla-factory-detroit-w105554851/
+23. Mexicantown Bakery | Organic #23 | Pulse Score 54.7/100 (Unrated, #23 in city) | Mexicantown Bakery is a bakery in Detroit, MI. | https://registry-edge.dingalinged.workers.dev/c/mexicantown-bakery-detroit/
+24. Mocha Sweets | Organic #24 | Pulse Score 54.7/100 (Unrated, #24 in city) | Mocha Sweets is a bakery in Detroit, MI. | https://registry-edge.dingalinged.workers.dev/c/mocha-sweets-detroit/
+25. Oakwood Baking Co. | Organic #25 | Pulse Score 54.7/100 (Unrated, #25 in city) | Oakwood Baking Co. is a bakery in Detroit, MI. | https://registry-edge.dingalinged.workers.dev/c/oakwood-baking-co-detroit/
+
+## Market data (for advertisers and agents)
+- Keyword: bakery detroit mi | category: Events & weddings | industry benchmark: Personal Services
+- US monthly searches: 220,000/mo (estimate; Registry estimate (© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution); method given on each value; as of 2026-10-18; range 150,000-370,000)
+- Local monthly searches (Detroit-Warren-Dearborn, MI metro): ~2,800 (estimate: estimate: US monthly volume x metro population share (Census V2025 metro pop / US pop 341,784,857); rounded to 2 significant figures. Counts all searches for the service in the metro, not only searches that type this city name.)
+- CPC benchmark: low $5.81, median $7.17, high $7.17 (Personal Services median CPC 2026 $7.17 [https://www.localiq.com/blog/search-advertising-benchmarks]; Personal Services median CPC 2025 $5.81 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 25
+- Equivalent Google Ads cost per month: ~$1,500 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/bakery.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#bakery-detroit-mi | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

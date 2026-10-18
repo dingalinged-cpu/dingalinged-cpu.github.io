@@ -1,0 +1,58 @@
+Keyword market for Arnold, MO: 53 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the St. Louis, MO-IL metro (US volume x population share).
+
+# Top keywords in Arnold, MO
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json
+
+## By monthly searches
+1. massage arnold mo | searches/mo 41,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $190,000 | Google Ads equiv $11,000/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/massage-arnold-mo/
+2. car wash arnold mo | searches/mo 15,000 (est) | CPC $4.35 | value $65,000 | Google Ads equiv $3,600/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/car-wash-arnold-mo/
+3. dentist arnold mo | searches/mo 15,000 (est) | CPC $4.70 | value $70,000 | Google Ads equiv $3,800/mo | our featured min $100/mo | registry competitors 10 | https://registry-edge.dingalinged.workers.dev/k/dentist-arnold-mo/
+4. gym arnold mo | searches/mo 15,000 (est) | CPC $1.67 | value $25,000 | Google Ads equiv $1,800/mo | our featured min $50/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/gym-arnold-mo/
+5. hair salon arnold mo | searches/mo 12,000 (est) | CPC $0.55 | value $6,600 | Google Ads equiv $380/mo | our featured min $50/mo | registry competitors 8 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-arnold-mo/
+6. nail salon arnold mo | searches/mo 8,200 (est) | CPC $0.61 | value $5,000 | Google Ads equiv $290/mo | our featured min $50/mo | registry competitors 6 | https://registry-edge.dingalinged.workers.dev/k/nail-salon-arnold-mo/
+7. mechanic arnold mo | searches/mo 5,500 (est) | CPC $4.35 | value $24,000 | Google Ads equiv $1,300/mo | our featured min $20/mo | registry competitors 8 | https://registry-edge.dingalinged.workers.dev/k/mechanic-arnold-mo/
+8. tire shop arnold mo | searches/mo 4,500 (est) | CPC $4.35 | value $20,000 | Google Ads equiv $1,100/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/tire-shop-arnold-mo/
+9. vet arnold mo | searches/mo 4,500 (est) | CPC $4.06 | value $18,000 | Google Ads equiv $1,200/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/vet-arnold-mo/
+10. dog groomer arnold mo | searches/mo 3,700 (est) | CPC $4.06 | value $15,000 | Google Ads equiv $990/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dog-groomer-arnold-mo/
+11. haircut arnold mo | searches/mo 3,000 (est) | CPC $4.62 | value $14,000 | Google Ads equiv $790/mo | our featured min $50/mo | registry competitors 8 | https://registry-edge.dingalinged.workers.dev/k/haircut-arnold-mo/
+12. auto repair arnold mo | searches/mo 2,500 (est) | CPC $4.35 | value $11,000 | Google Ads equiv $600/mo | our featured min $20/mo | registry competitors 8 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-arnold-mo/
+13. movers arnold mo | searches/mo 2,500 (est) | CPC $8.23 | value $21,000 | Google Ads equiv $1,300/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/movers-arnold-mo/
+14. chiropractor arnold mo | searches/mo 2,000 (est) | CPC $4.76 | value $9,500 | Google Ads equiv $640/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/chiropractor-arnold-mo/
+15. dog boarding arnold mo | searches/mo 2,000 (est) | CPC $4.06 | value $8,100 | Google Ads equiv $530/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/dog-boarding-arnold-mo/
+
+## By CPC
+1. moving company arnold mo | searches/mo 1,700 (est) | CPC $12.41 | value $21,000 | Google Ads equiv $1,300/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/moving-company-arnold-mo/
+2. electrician arnold mo | searches/mo 2,000 (est) | CPC $12.18 | value $24,000 | Google Ads equiv $1,600/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/electrician-arnold-mo/
+3. attorney arnold mo | searches/mo 610 (est) | CPC $9.87 | value $6,000 | Google Ads equiv $360/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/attorney-arnold-mo/
+4. lawyer arnold mo | searches/mo 410 (est) | CPC $9.87 | value $4,000 | Google Ads equiv $240/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/lawyer-arnold-mo/
+5. landscaping arnold mo | searches/mo 1,700 (est) | CPC $8.76 | value $15,000 | Google Ads equiv $950/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/landscaping-arnold-mo/
+6. flooring companies arnold mo | searches/mo 150 (est) | CPC $8.33 | value $1,200 | Google Ads equiv $80.00/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/flooring-companies-arnold-mo/
+7. movers arnold mo | searches/mo 2,500 (est) | CPC $8.23 | value $21,000 | Google Ads equiv $1,300/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/movers-arnold-mo/
+8. bakery arnold mo | searches/mo 1,800 (est) | CPC $7.17 | value $13,000 | Google Ads equiv $990/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/bakery-arnold-mo/
+9. florist arnold mo | searches/mo 1,800 (est) | CPC $7.17 | value $13,000 | Google Ads equiv $990/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/florist-arnold-mo/
+10. dance studio arnold mo | searches/mo 330 (est) | CPC $6.17 | value $2,000 | Google Ads equiv $150/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dance-studio-arnold-mo/
+11. business consultant arnold mo | searches/mo 150 (est) | CPC $5.87 | value $880 | Google Ads equiv $50.00/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/business-consultant-arnold-mo/
+12. staffing agency arnold mo | searches/mo 1,200 (est) | CPC $5.87 | value $7,000 | Google Ads equiv $400/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/staffing-agency-arnold-mo/
+13. tax preparer arnold mo | searches/mo 500 (est) | CPC $5.87 | value $2,900 | Google Ads equiv $170/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/tax-preparer-arnold-mo/
+14. daycare arnold mo | searches/mo 1,800 (est) | CPC $4.81 | value $8,700 | Google Ads equiv $500/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/daycare-arnold-mo/
+15. preschool arnold mo | searches/mo 1,800 (est) | CPC $4.81 | value $8,700 | Google Ads equiv $500/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/preschool-arnold-mo/
+
+## By value (searches x CPC)
+1. massage arnold mo | searches/mo 41,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $190,000 | Google Ads equiv $11,000/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/massage-arnold-mo/
+2. dentist arnold mo | searches/mo 15,000 (est) | CPC $4.70 | value $70,000 | Google Ads equiv $3,800/mo | our featured min $100/mo | registry competitors 10 | https://registry-edge.dingalinged.workers.dev/k/dentist-arnold-mo/
+3. car wash arnold mo | searches/mo 15,000 (est) | CPC $4.35 | value $65,000 | Google Ads equiv $3,600/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/car-wash-arnold-mo/
+4. gym arnold mo | searches/mo 15,000 (est) | CPC $1.67 | value $25,000 | Google Ads equiv $1,800/mo | our featured min $50/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/gym-arnold-mo/
+5. electrician arnold mo | searches/mo 2,000 (est) | CPC $12.18 | value $24,000 | Google Ads equiv $1,600/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/electrician-arnold-mo/
+6. mechanic arnold mo | searches/mo 5,500 (est) | CPC $4.35 | value $24,000 | Google Ads equiv $1,300/mo | our featured min $20/mo | registry competitors 8 | https://registry-edge.dingalinged.workers.dev/k/mechanic-arnold-mo/
+7. movers arnold mo | searches/mo 2,500 (est) | CPC $8.23 | value $21,000 | Google Ads equiv $1,300/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/movers-arnold-mo/
+8. moving company arnold mo | searches/mo 1,700 (est) | CPC $12.41 | value $21,000 | Google Ads equiv $1,300/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/moving-company-arnold-mo/
+9. tire shop arnold mo | searches/mo 4,500 (est) | CPC $4.35 | value $20,000 | Google Ads equiv $1,100/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/tire-shop-arnold-mo/
+10. vet arnold mo | searches/mo 4,500 (est) | CPC $4.06 | value $18,000 | Google Ads equiv $1,200/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/vet-arnold-mo/
+11. dog groomer arnold mo | searches/mo 3,700 (est) | CPC $4.06 | value $15,000 | Google Ads equiv $990/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dog-groomer-arnold-mo/
+12. landscaping arnold mo | searches/mo 1,700 (est) | CPC $8.76 | value $15,000 | Google Ads equiv $950/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/landscaping-arnold-mo/
+13. haircut arnold mo | searches/mo 3,000 (est) | CPC $4.62 | value $14,000 | Google Ads equiv $790/mo | our featured min $50/mo | registry competitors 8 | https://registry-edge.dingalinged.workers.dev/k/haircut-arnold-mo/
+14. auto repair arnold mo | searches/mo 2,500 (est) | CPC $4.35 | value $11,000 | Google Ads equiv $600/mo | our featured min $20/mo | registry competitors 8 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-arnold-mo/
+15. chiropractor arnold mo | searches/mo 2,000 (est) | CPC $4.76 | value $9,500 | Google Ads equiv $640/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/chiropractor-arnold-mo/
+
+All market data: https://registry-edge.dingalinged.workers.dev/market/ | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html

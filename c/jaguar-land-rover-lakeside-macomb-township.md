@@ -1,0 +1,24 @@
+Jaguar Land Rover Lakeside is an used car dealer in Macomb Township, MI at 18979 Hall Road, Macomb Township, MI 48044. Phone: +15862214464. Website: https://www.jaguarlandroverlakeside.com/.
+
+# Jaguar Land Rover Lakeside
+
+- Category: used cars for sale
+- Services: used cars for sale
+- Address: 18979 Hall Road, Macomb Township, MI 48044
+- City: Macomb Township
+- State: MI
+- ZIP: 48044
+- Coordinates: 42.6292187, -82.9330686
+- Phone: +15862214464
+- Website: https://www.jaguarlandroverlakeside.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo 09:00-20:00; Tu-We 09:00-18:00; Th 09:00-20:00; Fr 09:00-18:00; Sa 10:00-15:00
+- Pulse Score: 49.7/100 — Unrated (not enough evidence yet) — top 80% of used car dealers in Detroit, MI, #1 of 4 used car dealers in Macomb Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.3, Trust 61.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/jaguar-land-rover-lakeside-macomb-township/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/jaguar-land-rover-lakeside-macomb-township.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11347593971 (license ODbL-1.0); source data as of 2026-05-31
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

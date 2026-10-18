@@ -1,0 +1,24 @@
+Blue Sky Car Wash is a car wash in Orange Township, OH at 1156 East Powell Road, Orange Township, OH 43035. Phone: +16143967789. Website: https://www.blueskywash.com/.
+
+# Blue Sky Car Wash
+
+- Category: car wash
+- Services: car wash
+- Address: 1156 East Powell Road, Orange Township, OH 43035
+- City: Orange Township
+- State: OH
+- ZIP: 43035
+- Coordinates: 40.1564864, -83.0017999
+- Phone: +16143967789
+- Website: https://www.blueskywash.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 58.9/100 — Unrated (not enough evidence yet) — top 19% of car washes in Columbus, OH, #1 of 4 car washes in Orange Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 62.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/blue-sky-car-wash-orange-township/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/blue-sky-car-wash-orange-township.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/561690335 (license ODbL-1.0); source data as of 2026-05-31
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

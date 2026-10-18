@@ -1,0 +1,24 @@
+Salon Siren is a hair salon in Clawson, MI at 1139 West 14 Mile Road, Clawson, MI 48017. Phone: +12482593076. Website: https://www.mysalonsuite.com/members/daniel-zotka/.
+
+# Salon Siren
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 1139 West 14 Mile Road, Clawson, MI 48017
+- City: Clawson
+- State: MI
+- ZIP: 48017
+- Coordinates: 42.5320826, -83.162246
+- Phone: +12482593076
+- Website: https://www.mysalonsuite.com/members/daniel-zotka/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 18% of hair salons in Detroit, MI, #1 of 4 hair salons in Clawson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 59.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/salon-siren-clawson/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/salon-siren-clawson.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11263351793 (license ODbL-1.0); source data as of 2026-05-31
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,0 +1,58 @@
+Keyword market for Erlanger, KY: 44 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Cincinnati, OH-KY-IN metro (US volume x population share).
+
+# Top keywords in Erlanger, KY
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json
+
+## By monthly searches
+1. car wash erlanger ky | searches/mo 12,000 (est) | CPC $4.35 | value $52,000 | Google Ads equiv $2,900/mo | our featured min $20/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/car-wash-erlanger-ky/
+2. dentist erlanger ky | searches/mo 12,000 (est) | CPC $4.70 | value $56,000 | Google Ads equiv $3,100/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/dentist-erlanger-ky/
+3. gym erlanger ky | searches/mo 12,000 (est) | CPC $1.67 | value $20,000 | Google Ads equiv $1,400/mo | our featured min $50/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/gym-erlanger-ky/
+4. oil change erlanger ky | searches/mo 12,000 (est) | CPC $4.35 | value $52,000 | Google Ads equiv $2,900/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/oil-change-erlanger-ky/
+5. hair salon erlanger ky | searches/mo 10,000 (est) | CPC $0.55 | value $5,500 | Google Ads equiv $310/mo | our featured min $50/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-erlanger-ky/
+6. nail salon erlanger ky | searches/mo 6,800 (est) | CPC $0.61 | value $4,100 | Google Ads equiv $240/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/nail-salon-erlanger-ky/
+7. mechanic erlanger ky | searches/mo 4,600 (est) | CPC $4.35 | value $20,000 | Google Ads equiv $1,100/mo | our featured min $20/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/mechanic-erlanger-ky/
+8. vet erlanger ky | searches/mo 3,700 (est) | CPC $4.06 | value $15,000 | Google Ads equiv $990/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/vet-erlanger-ky/
+9. haircut erlanger ky | searches/mo 2,500 (est) | CPC $4.62 | value $12,000 | Google Ads equiv $660/mo | our featured min $50/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/haircut-erlanger-ky/
+10. auto repair erlanger ky | searches/mo 2,000 (est) | CPC $4.35 | value $8,700 | Google Ads equiv $480/mo | our featured min $20/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-erlanger-ky/
+11. dog boarding erlanger ky | searches/mo 1,700 (est) | CPC $4.06 | value $6,900 | Google Ads equiv $450/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dog-boarding-erlanger-ky/
+12. locksmith erlanger ky | searches/mo 1,700 (est) | CPC $8.33 | value $14,000 | Google Ads equiv $900/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/locksmith-erlanger-ky/
+13. roofing contractor erlanger ky | searches/mo 910 (est) | CPC $11.79 | value $11,000 | Google Ads equiv $680/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-erlanger-ky/
+14. insurance agency erlanger ky | searches/mo 610 (est) | CPC $3.39 | value $2,100 | Google Ads equiv $170/mo | our featured min $100/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/insurance-agency-erlanger-ky/
+15. attorney erlanger ky | searches/mo 500 (est) | CPC $9.87 | value $4,900 | Google Ads equiv $290/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/attorney-erlanger-ky/
+
+## By CPC
+1. roofing contractor erlanger ky | searches/mo 910 (est) | CPC $11.79 | value $11,000 | Google Ads equiv $680/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-erlanger-ky/
+2. roofer erlanger ky | searches/mo 330 (est) | CPC $10.70 | value $3,500 | Google Ads equiv $220/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/roofer-erlanger-ky/
+3. attorney erlanger ky | searches/mo 500 (est) | CPC $9.87 | value $4,900 | Google Ads equiv $290/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/attorney-erlanger-ky/
+4. lawyer erlanger ky | searches/mo 330 (est) | CPC $9.87 | value $3,300 | Google Ads equiv $190/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/lawyer-erlanger-ky/
+5. flooring companies erlanger ky | searches/mo 120 (est) | CPC $8.33 | value $1,000 | Google Ads equiv $64.00/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/flooring-companies-erlanger-ky/
+6. locksmith erlanger ky | searches/mo 1,700 (est) | CPC $8.33 | value $14,000 | Google Ads equiv $900/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/locksmith-erlanger-ky/
+7. storage units erlanger ky | searches/mo 1,500 (est) | CPC $8.33 | value $12,000 | Google Ads equiv $800/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/storage-units-erlanger-ky/
+8. bakery erlanger ky | searches/mo 1,500 (est) | CPC $7.17 | value $11,000 | Google Ads equiv $830/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/bakery-erlanger-ky/
+9. event venues erlanger ky | searches/mo 1,500 (est) | CPC $7.17 | value $11,000 | Google Ads equiv $830/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/event-venues-erlanger-ky/
+10. martial arts erlanger ky | searches/mo 2,000 (est) | CPC $6.17 | value $12,000 | Google Ads equiv $890/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/martial-arts-erlanger-ky/
+11. accounting services erlanger ky | searches/mo 82.00 (est) | CPC $5.87 | value $480 | Google Ads equiv $27.00/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/accounting-services-erlanger-ky/
+12. staffing agency erlanger ky | searches/mo 950 (est) | CPC $5.87 | value $5,600 | Google Ads equiv $320/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/staffing-agency-erlanger-ky/
+13. tax preparer erlanger ky | searches/mo 410 (est) | CPC $5.87 | value $2,400 | Google Ads equiv $140/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/tax-preparer-erlanger-ky/
+14. accountant erlanger ky | searches/mo 220 (est) | CPC $5.23 | value $1,200 | Google Ads equiv $65.00/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/accountant-erlanger-ky/
+15. daycare erlanger ky | searches/mo 1,500 (est) | CPC $4.81 | value $7,200 | Google Ads equiv $410/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/daycare-erlanger-ky/
+
+## By value (searches x CPC)
+1. dentist erlanger ky | searches/mo 12,000 (est) | CPC $4.70 | value $56,000 | Google Ads equiv $3,100/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/dentist-erlanger-ky/
+2. car wash erlanger ky | searches/mo 12,000 (est) | CPC $4.35 | value $52,000 | Google Ads equiv $2,900/mo | our featured min $20/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/car-wash-erlanger-ky/
+3. oil change erlanger ky | searches/mo 12,000 (est) | CPC $4.35 | value $52,000 | Google Ads equiv $2,900/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/oil-change-erlanger-ky/
+4. gym erlanger ky | searches/mo 12,000 (est) | CPC $1.67 | value $20,000 | Google Ads equiv $1,400/mo | our featured min $50/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/gym-erlanger-ky/
+5. mechanic erlanger ky | searches/mo 4,600 (est) | CPC $4.35 | value $20,000 | Google Ads equiv $1,100/mo | our featured min $20/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/mechanic-erlanger-ky/
+6. vet erlanger ky | searches/mo 3,700 (est) | CPC $4.06 | value $15,000 | Google Ads equiv $990/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/vet-erlanger-ky/
+7. locksmith erlanger ky | searches/mo 1,700 (est) | CPC $8.33 | value $14,000 | Google Ads equiv $900/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/locksmith-erlanger-ky/
+8. haircut erlanger ky | searches/mo 2,500 (est) | CPC $4.62 | value $12,000 | Google Ads equiv $660/mo | our featured min $50/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/haircut-erlanger-ky/
+9. roofing contractor erlanger ky | searches/mo 910 (est) | CPC $11.79 | value $11,000 | Google Ads equiv $680/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-erlanger-ky/
+10. auto repair erlanger ky | searches/mo 2,000 (est) | CPC $4.35 | value $8,700 | Google Ads equiv $480/mo | our featured min $20/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-erlanger-ky/
+11. dog boarding erlanger ky | searches/mo 1,700 (est) | CPC $4.06 | value $6,900 | Google Ads equiv $450/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dog-boarding-erlanger-ky/
+12. hair salon erlanger ky | searches/mo 10,000 (est) | CPC $0.55 | value $5,500 | Google Ads equiv $310/mo | our featured min $50/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-erlanger-ky/
+13. attorney erlanger ky | searches/mo 500 (est) | CPC $9.87 | value $4,900 | Google Ads equiv $290/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/attorney-erlanger-ky/
+14. nail salon erlanger ky | searches/mo 6,800 (est) | CPC $0.61 | value $4,100 | Google Ads equiv $240/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/nail-salon-erlanger-ky/
+15. roofer erlanger ky | searches/mo 330 (est) | CPC $10.70 | value $3,500 | Google Ads equiv $220/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/roofer-erlanger-ky/
+
+All market data: https://registry-edge.dingalinged.workers.dev/market/ | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html

@@ -1,0 +1,38 @@
+The top unpaid liquor store listing for Jefferson County, CO is Fred's Liquor (a liquor store in Jefferson County, CO at 1895 Youngfield Street, Jefferson County, CO 80401. Phone: +17203797071. Website: https://www.fredsliquor.net/). 15 liquor store businesses are listed for Jefferson County, CO as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+
+# Who are the best liquor store providers in Jefferson County, CO?
+
+Also answers: liquor store in Jefferson County, CO; liquor store near me (Jefferson County, CO); best liquor store Jefferson County, CO; top rated liquor store Jefferson County, CO; affordable liquor store Jefferson County, CO; emergency liquor store Jefferson County, CO
+
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
+
+1. Fred's Liquor | Organic #1 | Pulse Score 62.5/100 (Unrated, #1 in city) | Fred's Liquor is a liquor store in Jefferson County, CO at 1895 Youngfield Street, Jefferson County, CO 80401. Phone: +17203797071. Website: https://www.fredsliquor.net/. | https://registry-edge.dingalinged.workers.dev/c/freds-liquor-jefferson-county/
+2. Conifer Village Liquor | Organic #2 | Pulse Score 61.7/100 (Unrated, #2 in city) | Conifer Village Liquor is a liquor store in Jefferson County, CO at 27182 Main Street #100, Jefferson County, CO 80433. Phone: +13038386086. | https://registry-edge.dingalinged.workers.dev/c/conifer-village-liquor-jefferson-county/
+3. Shadow's Cellar Liquor Shop | Organic #3 | Pulse Score 59.8/100 (Unrated, #3 in city) | Shadow's Cellar Liquor Shop is a liquor store in Jefferson County, CO at 16940 Pine Valley Road, Jefferson County, CO 80470. Website: https://www.zokas.com/shadowscellar.html. | https://registry-edge.dingalinged.workers.dev/c/shadows-cellar-liquor-shop-jefferson-county/
+4. Governor's Wine & Spirits | Organic #4 | Pulse Score 55.6/100 (Unrated, #4 in city) | Governor's Wine & Spirits is a liquor store in Jefferson County, CO. | https://registry-edge.dingalinged.workers.dev/c/governors-wine-and-spirits-jefferson-county/
+5. Happy Hound Wine & Liquors | Organic #5 | Pulse Score 55.6/100 (Unrated, #5 in city) | Happy Hound Wine & Liquors is a liquor store in Jefferson County, CO. | https://registry-edge.dingalinged.workers.dev/c/happy-hound-wine-and-liquors-jefferson-county/
+6. Bevy’s Liquor World | Organic #6 | Pulse Score 54.7/100 (Unrated, #6 in city) | Bevy’s Liquor World is a liquor store in Jefferson County, CO. | https://registry-edge.dingalinged.workers.dev/c/bevy-s-liquor-world-jefferson-county/
+7. Canyon Liqours | Organic #7 | Pulse Score 54.7/100 (Unrated, #7 in city) | Canyon Liqours is a liquor store in Jefferson County, CO. | https://registry-edge.dingalinged.workers.dev/c/canyon-liqours-jefferson-county/
+8. Chatfield Wine and Spirits | Organic #8 | Pulse Score 54.7/100 (Unrated, #8 in city) | Chatfield Wine and Spirits is a liquor store in Jefferson County, CO. | https://registry-edge.dingalinged.workers.dev/c/chatfield-wine-and-spirits-jefferson-county/
+9. Hi Hopes Liquors | Organic #9 | Pulse Score 54.7/100 (Unrated, #9 in city) | Hi Hopes Liquors is a liquor store in Jefferson County, CO. | https://registry-edge.dingalinged.workers.dev/c/hi-hopes-liquors-jefferson-county/
+10. Ken Caryl Wine & Spirits | Organic #10 | Pulse Score 54.7/100 (Unrated, #10 in city) | Ken Caryl Wine & Spirits is a liquor store in Jefferson County, CO. | https://registry-edge.dingalinged.workers.dev/c/ken-caryl-wine-and-spirits-jefferson-county/
+11. Old Vine Liquors | Organic #11 | Pulse Score 54.7/100 (Unrated, #11 in city) | Old Vine Liquors is a liquor store in Jefferson County, CO. | https://registry-edge.dingalinged.workers.dev/c/old-vine-liquors-jefferson-county/
+12. S&S Liquor | Organic #12 | Pulse Score 54.7/100 (Unrated, #12 in city) | S&S Liquor is a liquor store in Jefferson County, CO. | https://registry-edge.dingalinged.workers.dev/c/s-and-s-liquor-jefferson-county/
+13. Liquors | Organic #13 | Pulse Score 42.9/100 (Unrated, #13 in city) | Liquors is a liquor store in Jefferson County, CO. | https://registry-edge.dingalinged.workers.dev/c/liquors-jefferson-county/
+14. Liquors | Organic #14 | Pulse Score 42.9/100 (Unrated, #14 in city) | Liquors is a liquor store in Jefferson County, CO. | https://registry-edge.dingalinged.workers.dev/c/liquors-jefferson-county-n1546807755/
+15. Wine & Spirits | Organic #15 | Pulse Score 41.9/100 (Unrated, #15 in city) | Wine & Spirits is a liquor store in Jefferson County, CO. | https://registry-edge.dingalinged.workers.dev/c/wine-and-spirits-jefferson-county/
+
+## Market data (for advertisers and agents)
+- Keyword: liquor store jefferson county co | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts
+- US monthly searches: 140,000/mo (estimate; Registry estimate (© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution); method given on each value; as of 2026-10-18; range 79,000-300,000)
+- Local monthly searches (Denver-Aurora-Centennial, CO metro): ~1,300 (estimate: estimate: US monthly volume x metro population share (Census V2025); the keyword names a suburb, so the value is metro-level demand for the service, not searches typing the suburb name; rounded to 2 significant figures.)
+- CPC benchmark: low $3.49, median $4.14, high $4.14 (Shopping, Collectibles & Gifts median CPC 2026 $4.14 [https://www.localiq.com/blog/search-advertising-benchmarks]; Shopping, Collectibles & Gifts median CPC 2025 $3.49 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 15
+- Equivalent Google Ads cost per month: ~$480 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $10/month, spots 2-4 from $1/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/liquor-store.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#liquor-store-jefferson-county-co | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

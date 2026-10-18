@@ -1,0 +1,58 @@
+Keyword market for Fraser, MI: 42 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Detroit-Warren-Dearborn, MI metro (US volume x population share).
+
+# Top keywords in Fraser, MI
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json
+
+## By monthly searches
+1. car wash fraser mi | searches/mo 24,000 (est) | CPC $4.35 | value $100,000 | Google Ads equiv $5,800/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/car-wash-fraser-mi/
+2. dentist fraser mi | searches/mo 24,000 (est) | CPC $4.70 | value $110,000 | Google Ads equiv $6,100/mo | our featured min $100/mo | registry competitors 7 | https://registry-edge.dingalinged.workers.dev/k/dentist-fraser-mi/
+3. gym fraser mi | searches/mo 24,000 (est) | CPC $1.67 | value $40,000 | Google Ads equiv $2,900/mo | our featured min $50/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/gym-fraser-mi/
+4. hair salon fraser mi | searches/mo 19,000 (est) | CPC $0.55 | value $10,000 | Google Ads equiv $600/mo | our featured min $50/mo | registry competitors 11 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-fraser-mi/
+5. nail salon fraser mi | searches/mo 13,000 (est) | CPC $0.61 | value $7,900 | Google Ads equiv $450/mo | our featured min $50/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/nail-salon-fraser-mi/
+6. plumber fraser mi | searches/mo 11,000 (est) | CPC $12.04 | value $130,000 | Google Ads equiv $8,400/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/plumber-fraser-mi/
+7. mechanic fraser mi | searches/mo 8,600 (est) | CPC $4.35 | value $37,000 | Google Ads equiv $2,100/mo | our featured min $20/mo | registry competitors 7 | https://registry-edge.dingalinged.workers.dev/k/mechanic-fraser-mi/
+8. tire shop fraser mi | searches/mo 7,100 (est) | CPC $4.35 | value $31,000 | Google Ads equiv $1,700/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/tire-shop-fraser-mi/
+9. haircut fraser mi | searches/mo 4,700 (est) | CPC $4.62 | value $22,000 | Google Ads equiv $1,200/mo | our featured min $50/mo | registry competitors 11 | https://registry-edge.dingalinged.workers.dev/k/haircut-fraser-mi/
+10. auto repair fraser mi | searches/mo 3,900 (est) | CPC $4.35 | value $17,000 | Google Ads equiv $940/mo | our featured min $20/mo | registry competitors 7 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-fraser-mi/
+11. chiropractor fraser mi | searches/mo 3,200 (est) | CPC $4.76 | value $15,000 | Google Ads equiv $1,000/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/chiropractor-fraser-mi/
+12. real estate agent fraser mi | searches/mo 2,600 (est) | CPC $3.61 | value $9,400 | Google Ads equiv $780/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-fraser-mi/
+13. roofing contractor fraser mi | searches/mo 1,700 (est) | CPC $11.79 | value $20,000 | Google Ads equiv $1,300/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-fraser-mi/
+14. insurance agency fraser mi | searches/mo 1,200 (est) | CPC $3.39 | value $4,100 | Google Ads equiv $340/mo | our featured min $100/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/insurance-agency-fraser-mi/
+15. realtor fraser mi | searches/mo 1,200 (est) | CPC $3.70 | value $4,400 | Google Ads equiv $370/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/realtor-fraser-mi/
+
+## By CPC
+1. plumbing services fraser mi | searches/mo 640 (est) | CPC $13.90 | value $8,900 | Google Ads equiv $570/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/plumbing-services-fraser-mi/
+2. plumber fraser mi | searches/mo 11,000 (est) | CPC $12.04 | value $130,000 | Google Ads equiv $8,400/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/plumber-fraser-mi/
+3. roofing contractor fraser mi | searches/mo 1,700 (est) | CPC $11.79 | value $20,000 | Google Ads equiv $1,300/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-fraser-mi/
+4. roofer fraser mi | searches/mo 640 (est) | CPC $10.70 | value $6,800 | Google Ads equiv $440/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/roofer-fraser-mi/
+5. attorney fraser mi | searches/mo 950 (est) | CPC $9.87 | value $9,400 | Google Ads equiv $560/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/attorney-fraser-mi/
+6. lawyer fraser mi | searches/mo 640 (est) | CPC $9.87 | value $6,300 | Google Ads equiv $380/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/lawyer-fraser-mi/
+7. window replacement fraser mi | searches/mo 2,800 (est) | CPC $8.76 | value $25,000 | Google Ads equiv $1,600/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/window-replacement-fraser-mi/
+8. plumbers fraser mi | searches/mo 46.00 (est) | CPC $8.33 | value $380 | Google Ads equiv $24.00/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/plumbers-fraser-mi/
+9. storage units fraser mi | searches/mo 2,800 (est) | CPC $8.33 | value $23,000 | Google Ads equiv $1,500/mo | our featured min $50/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/storage-units-fraser-mi/
+10. event venues fraser mi | searches/mo 2,800 (est) | CPC $7.17 | value $20,000 | Google Ads equiv $1,500/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/event-venues-fraser-mi/
+11. florist fraser mi | searches/mo 2,800 (est) | CPC $7.17 | value $20,000 | Google Ads equiv $1,500/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/florist-fraser-mi/
+12. dance studio fraser mi | searches/mo 510 (est) | CPC $6.17 | value $3,100 | Google Ads equiv $230/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dance-studio-fraser-mi/
+13. graphic designer fraser mi | searches/mo 100 (est) | CPC $5.87 | value $590 | Google Ads equiv $33.00/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/graphic-designer-fraser-mi/
+14. tax preparer fraser mi | searches/mo 780 (est) | CPC $5.87 | value $4,600 | Google Ads equiv $260/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/tax-preparer-fraser-mi/
+15. driving school fraser mi | searches/mo 510 (est) | CPC $4.81 | value $2,500 | Google Ads equiv $140/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/driving-school-fraser-mi/
+
+## By value (searches x CPC)
+1. plumber fraser mi | searches/mo 11,000 (est) | CPC $12.04 | value $130,000 | Google Ads equiv $8,400/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/plumber-fraser-mi/
+2. dentist fraser mi | searches/mo 24,000 (est) | CPC $4.70 | value $110,000 | Google Ads equiv $6,100/mo | our featured min $100/mo | registry competitors 7 | https://registry-edge.dingalinged.workers.dev/k/dentist-fraser-mi/
+3. car wash fraser mi | searches/mo 24,000 (est) | CPC $4.35 | value $100,000 | Google Ads equiv $5,800/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/car-wash-fraser-mi/
+4. gym fraser mi | searches/mo 24,000 (est) | CPC $1.67 | value $40,000 | Google Ads equiv $2,900/mo | our featured min $50/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/gym-fraser-mi/
+5. mechanic fraser mi | searches/mo 8,600 (est) | CPC $4.35 | value $37,000 | Google Ads equiv $2,100/mo | our featured min $20/mo | registry competitors 7 | https://registry-edge.dingalinged.workers.dev/k/mechanic-fraser-mi/
+6. tire shop fraser mi | searches/mo 7,100 (est) | CPC $4.35 | value $31,000 | Google Ads equiv $1,700/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/tire-shop-fraser-mi/
+7. haircut fraser mi | searches/mo 4,700 (est) | CPC $4.62 | value $22,000 | Google Ads equiv $1,200/mo | our featured min $50/mo | registry competitors 11 | https://registry-edge.dingalinged.workers.dev/k/haircut-fraser-mi/
+8. roofing contractor fraser mi | searches/mo 1,700 (est) | CPC $11.79 | value $20,000 | Google Ads equiv $1,300/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-fraser-mi/
+9. auto repair fraser mi | searches/mo 3,900 (est) | CPC $4.35 | value $17,000 | Google Ads equiv $940/mo | our featured min $20/mo | registry competitors 7 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-fraser-mi/
+10. chiropractor fraser mi | searches/mo 3,200 (est) | CPC $4.76 | value $15,000 | Google Ads equiv $1,000/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/chiropractor-fraser-mi/
+11. hair salon fraser mi | searches/mo 19,000 (est) | CPC $0.55 | value $10,000 | Google Ads equiv $600/mo | our featured min $50/mo | registry competitors 11 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-fraser-mi/
+12. attorney fraser mi | searches/mo 950 (est) | CPC $9.87 | value $9,400 | Google Ads equiv $560/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/attorney-fraser-mi/
+13. real estate agent fraser mi | searches/mo 2,600 (est) | CPC $3.61 | value $9,400 | Google Ads equiv $780/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-fraser-mi/
+14. plumbing services fraser mi | searches/mo 640 (est) | CPC $13.90 | value $8,900 | Google Ads equiv $570/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/plumbing-services-fraser-mi/
+15. nail salon fraser mi | searches/mo 13,000 (est) | CPC $0.61 | value $7,900 | Google Ads equiv $450/mo | our featured min $50/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/nail-salon-fraser-mi/
+
+All market data: https://registry-edge.dingalinged.workers.dev/market/ | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html

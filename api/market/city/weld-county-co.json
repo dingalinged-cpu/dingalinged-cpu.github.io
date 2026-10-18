@@ -1,0 +1,125 @@
+{
+ "title": "Keyword market data: Weld County, CO",
+ "description": "Top Weld County, CO service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
+ "updated": "2026-10-18",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
+ "place": "Weld County, CO",
+ "geography": "Denver-Aurora-Centennial, CO metro",
+ "keywords": 3,
+ "lists": {
+  "by_volume": [
+   {
+    "keyword": "landscaping weld county co",
+    "slug": "landscaping-weld-county-co",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/landscaping-weld-county-co/",
+    "us_monthly_searches": 201000,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 1800,
+    "cpc_basis_usd": 8.76,
+    "cpc_median_usd": 8.76,
+    "search_value_index_usd": 16000,
+    "equivalent_google_ads_cost_month_usd": 1000,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 2,
+    "ranked_by": "by_volume"
+   },
+   {
+    "keyword": "painters weld county co",
+    "slug": "painters-weld-county-co",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/painters-weld-county-co/",
+    "us_monthly_searches": 60500,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 550,
+    "cpc_basis_usd": 13.74,
+    "cpc_median_usd": 13.74,
+    "search_value_index_usd": 7600,
+    "equivalent_google_ads_cost_month_usd": 480,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 1,
+    "ranked_by": "by_volume"
+   }
+  ],
+  "by_cpc": [
+   {
+    "keyword": "painters weld county co",
+    "slug": "painters-weld-county-co",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/painters-weld-county-co/",
+    "us_monthly_searches": 60500,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 550,
+    "cpc_basis_usd": 13.74,
+    "cpc_median_usd": 13.74,
+    "search_value_index_usd": 7600,
+    "equivalent_google_ads_cost_month_usd": 480,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "landscaping weld county co",
+    "slug": "landscaping-weld-county-co",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/landscaping-weld-county-co/",
+    "us_monthly_searches": 201000,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 1800,
+    "cpc_basis_usd": 8.76,
+    "cpc_median_usd": 8.76,
+    "search_value_index_usd": 16000,
+    "equivalent_google_ads_cost_month_usd": 1000,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 2,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "storage units weld county co",
+    "slug": "storage-units-weld-county-co",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-weld-county-co/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "local_monthly_searches_est": 2000,
+    "cpc_basis_usd": 8.33,
+    "cpc_median_usd": 8.33,
+    "search_value_index_usd": 17000,
+    "equivalent_google_ads_cost_month_usd": 1100,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 2,
+    "ranked_by": "by_cpc"
+   }
+  ],
+  "by_value": [
+   {
+    "keyword": "landscaping weld county co",
+    "slug": "landscaping-weld-county-co",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/landscaping-weld-county-co/",
+    "us_monthly_searches": 201000,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 1800,
+    "cpc_basis_usd": 8.76,
+    "cpc_median_usd": 8.76,
+    "search_value_index_usd": 16000,
+    "equivalent_google_ads_cost_month_usd": 1000,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 2,
+    "ranked_by": "by_value"
+   },
+   {
+    "keyword": "painters weld county co",
+    "slug": "painters-weld-county-co",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/painters-weld-county-co/",
+    "us_monthly_searches": 60500,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 550,
+    "cpc_basis_usd": 13.74,
+    "cpc_median_usd": 13.74,
+    "search_value_index_usd": 7600,
+    "equivalent_google_ads_cost_month_usd": 480,
+    "featured_spot_min_usd": 100,
+    "registry_competitors": 1,
+    "ranked_by": "by_value"
+   }
+  ]
+ },
+ "license": {
+  "keyword_metrics": "© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution"
+ }
+}

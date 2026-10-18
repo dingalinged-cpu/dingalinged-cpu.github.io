@@ -1,0 +1,58 @@
+Keyword market for Groveport, OH: 29 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Columbus, OH metro (US volume x population share).
+
+# Top keywords in Groveport, OH
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json
+
+## By monthly searches
+1. dentist groveport oh | searches/mo 12,000 (est) | CPC $4.70 | value $56,000 | Google Ads equiv $3,100/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dentist-groveport-oh/
+2. hair salon groveport oh | searches/mo 9,800 (est) | CPC $0.55 | value $5,400 | Google Ads equiv $310/mo | our featured min $50/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-groveport-oh/
+3. nail salon groveport oh | searches/mo 6,600 (est) | CPC $0.61 | value $4,000 | Google Ads equiv $230/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/nail-salon-groveport-oh/
+4. mechanic groveport oh | searches/mo 4,400 (est) | CPC $4.35 | value $19,000 | Google Ads equiv $1,100/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/mechanic-groveport-oh/
+5. vet groveport oh | searches/mo 3,600 (est) | CPC $4.06 | value $15,000 | Google Ads equiv $960/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/vet-groveport-oh/
+6. haircut groveport oh | searches/mo 2,400 (est) | CPC $4.62 | value $11,000 | Google Ads equiv $630/mo | our featured min $50/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/haircut-groveport-oh/
+7. auto repair groveport oh | searches/mo 2,000 (est) | CPC $4.35 | value $8,700 | Google Ads equiv $480/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-groveport-oh/
+8. landscaping groveport oh | searches/mo 1,300 (est) | CPC $8.76 | value $11,000 | Google Ads equiv $730/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/landscaping-groveport-oh/
+9. real estate agent groveport oh | searches/mo 1,300 (est) | CPC $3.61 | value $4,700 | Google Ads equiv $390/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-groveport-oh/
+10. pest control groveport oh | searches/mo 1,100 (est) | CPC $8.33 | value $9,200 | Google Ads equiv $580/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/pest-control-groveport-oh/
+11. exterminator groveport oh | searches/mo 890 (est) | CPC $8.33 | value $7,400 | Google Ads equiv $470/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/exterminator-groveport-oh/
+12. insurance agency groveport oh | searches/mo 590 (est) | CPC $3.39 | value $2,000 | Google Ads equiv $170/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/insurance-agency-groveport-oh/
+13. realtor groveport oh | searches/mo 590 (est) | CPC $3.70 | value $2,200 | Google Ads equiv $180/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/realtor-groveport-oh/
+14. attorney groveport oh | searches/mo 490 (est) | CPC $9.87 | value $4,800 | Google Ads equiv $290/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/attorney-groveport-oh/
+15. insurance agents groveport oh | searches/mo 320 (est) | CPC $3.39 | value $1,100 | Google Ads equiv $90.00/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/insurance-agents-groveport-oh/
+
+## By CPC
+1. attorney groveport oh | searches/mo 490 (est) | CPC $9.87 | value $4,800 | Google Ads equiv $290/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/attorney-groveport-oh/
+2. lawyer groveport oh | searches/mo 320 (est) | CPC $9.87 | value $3,200 | Google Ads equiv $190/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/lawyer-groveport-oh/
+3. landscaping groveport oh | searches/mo 1,300 (est) | CPC $8.76 | value $11,000 | Google Ads equiv $730/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/landscaping-groveport-oh/
+4. exterminator groveport oh | searches/mo 890 (est) | CPC $8.33 | value $7,400 | Google Ads equiv $470/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/exterminator-groveport-oh/
+5. pest control groveport oh | searches/mo 1,100 (est) | CPC $8.33 | value $9,200 | Google Ads equiv $580/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/pest-control-groveport-oh/
+6. storage units groveport oh | searches/mo 1,400 (est) | CPC $8.33 | value $12,000 | Google Ads equiv $740/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/storage-units-groveport-oh/
+7. event venues groveport oh | searches/mo 1,400 (est) | CPC $7.17 | value $10,000 | Google Ads equiv $770/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/event-venues-groveport-oh/
+8. florist groveport oh | searches/mo 1,400 (est) | CPC $7.17 | value $10,000 | Google Ads equiv $770/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/florist-groveport-oh/
+9. martial arts groveport oh | searches/mo 2,000 (est) | CPC $6.17 | value $12,000 | Google Ads equiv $890/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/martial-arts-groveport-oh/
+10. staffing agency groveport oh | searches/mo 920 (est) | CPC $5.87 | value $5,400 | Google Ads equiv $310/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/staffing-agency-groveport-oh/
+11. daycare groveport oh | searches/mo 1,400 (est) | CPC $4.81 | value $6,700 | Google Ads equiv $390/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/daycare-groveport-oh/
+12. assisted living groveport oh | searches/mo 1,400 (est) | CPC $4.76 | value $6,700 | Google Ads equiv $450/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/assisted-living-groveport-oh/
+13. eye doctor groveport oh | searches/mo 1,400 (est) | CPC $4.76 | value $6,700 | Google Ads equiv $450/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/eye-doctor-groveport-oh/
+14. physical therapy groveport oh | searches/mo 1,400 (est) | CPC $4.76 | value $6,700 | Google Ads equiv $450/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/physical-therapy-groveport-oh/
+15. dentist groveport oh | searches/mo 12,000 (est) | CPC $4.70 | value $56,000 | Google Ads equiv $3,100/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dentist-groveport-oh/
+
+## By value (searches x CPC)
+1. dentist groveport oh | searches/mo 12,000 (est) | CPC $4.70 | value $56,000 | Google Ads equiv $3,100/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dentist-groveport-oh/
+2. mechanic groveport oh | searches/mo 4,400 (est) | CPC $4.35 | value $19,000 | Google Ads equiv $1,100/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/mechanic-groveport-oh/
+3. vet groveport oh | searches/mo 3,600 (est) | CPC $4.06 | value $15,000 | Google Ads equiv $960/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/vet-groveport-oh/
+4. haircut groveport oh | searches/mo 2,400 (est) | CPC $4.62 | value $11,000 | Google Ads equiv $630/mo | our featured min $50/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/haircut-groveport-oh/
+5. landscaping groveport oh | searches/mo 1,300 (est) | CPC $8.76 | value $11,000 | Google Ads equiv $730/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/landscaping-groveport-oh/
+6. pest control groveport oh | searches/mo 1,100 (est) | CPC $8.33 | value $9,200 | Google Ads equiv $580/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/pest-control-groveport-oh/
+7. auto repair groveport oh | searches/mo 2,000 (est) | CPC $4.35 | value $8,700 | Google Ads equiv $480/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-groveport-oh/
+8. exterminator groveport oh | searches/mo 890 (est) | CPC $8.33 | value $7,400 | Google Ads equiv $470/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/exterminator-groveport-oh/
+9. hair salon groveport oh | searches/mo 9,800 (est) | CPC $0.55 | value $5,400 | Google Ads equiv $310/mo | our featured min $50/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-groveport-oh/
+10. attorney groveport oh | searches/mo 490 (est) | CPC $9.87 | value $4,800 | Google Ads equiv $290/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/attorney-groveport-oh/
+11. real estate agent groveport oh | searches/mo 1,300 (est) | CPC $3.61 | value $4,700 | Google Ads equiv $390/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-groveport-oh/
+12. nail salon groveport oh | searches/mo 6,600 (est) | CPC $0.61 | value $4,000 | Google Ads equiv $230/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/nail-salon-groveport-oh/
+13. lawyer groveport oh | searches/mo 320 (est) | CPC $9.87 | value $3,200 | Google Ads equiv $190/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/lawyer-groveport-oh/
+14. realtor groveport oh | searches/mo 590 (est) | CPC $3.70 | value $2,200 | Google Ads equiv $180/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/realtor-groveport-oh/
+15. insurance agency groveport oh | searches/mo 590 (est) | CPC $3.39 | value $2,000 | Google Ads equiv $170/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/insurance-agency-groveport-oh/
+
+All market data: https://registry-edge.dingalinged.workers.dev/market/ | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html

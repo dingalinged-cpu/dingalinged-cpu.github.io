@@ -1,0 +1,58 @@
+Keyword market for Coraopolis, PA: 29 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Pittsburgh, PA metro (US volume x population share).
+
+# Top keywords in Coraopolis, PA
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json
+
+## By monthly searches
+1. car wash coraopolis pa | searches/mo 13,000 (est) | CPC $4.35 | value $57,000 | Google Ads equiv $3,100/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/car-wash-coraopolis-pa/
+2. dentist coraopolis pa | searches/mo 13,000 (est) | CPC $4.70 | value $61,000 | Google Ads equiv $3,300/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dentist-coraopolis-pa/
+3. gym coraopolis pa | searches/mo 13,000 (est) | CPC $1.67 | value $22,000 | Google Ads equiv $1,600/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/gym-coraopolis-pa/
+4. hair salon coraopolis pa | searches/mo 11,000 (est) | CPC $0.55 | value $6,100 | Google Ads equiv $350/mo | our featured min $50/mo | registry competitors 5 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-coraopolis-pa/
+5. plumber coraopolis pa | searches/mo 5,800 (est) | CPC $12.04 | value $70,000 | Google Ads equiv $4,400/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/plumber-coraopolis-pa/
+6. mechanic coraopolis pa | searches/mo 4,800 (est) | CPC $4.35 | value $21,000 | Google Ads equiv $1,200/mo | our featured min $20/mo | registry competitors 5 | https://registry-edge.dingalinged.workers.dev/k/mechanic-coraopolis-pa/
+7. tire shop coraopolis pa | searches/mo 3,900 (est) | CPC $4.35 | value $17,000 | Google Ads equiv $940/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tire-shop-coraopolis-pa/
+8. haircut coraopolis pa | searches/mo 2,600 (est) | CPC $4.62 | value $12,000 | Google Ads equiv $690/mo | our featured min $50/mo | registry competitors 5 | https://registry-edge.dingalinged.workers.dev/k/haircut-coraopolis-pa/
+9. auto repair coraopolis pa | searches/mo 2,100 (est) | CPC $4.35 | value $9,100 | Google Ads equiv $510/mo | our featured min $20/mo | registry competitors 5 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-coraopolis-pa/
+10. locksmith coraopolis pa | searches/mo 1,700 (est) | CPC $8.33 | value $14,000 | Google Ads equiv $900/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/locksmith-coraopolis-pa/
+11. roofing contractor coraopolis pa | searches/mo 960 (est) | CPC $11.79 | value $11,000 | Google Ads equiv $720/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-coraopolis-pa/
+12. insurance agency coraopolis pa | searches/mo 640 (est) | CPC $3.39 | value $2,200 | Google Ads equiv $180/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/insurance-agency-coraopolis-pa/
+13. attorney coraopolis pa | searches/mo 520 (est) | CPC $9.87 | value $5,100 | Google Ads equiv $310/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/attorney-coraopolis-pa/
+14. tax preparation coraopolis pa | searches/mo 520 (est) | CPC $3.25 | value $1,700 | Google Ads equiv $140/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tax-preparation-coraopolis-pa/
+15. tax preparer coraopolis pa | searches/mo 430 (est) | CPC $5.87 | value $2,500 | Google Ads equiv $140/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tax-preparer-coraopolis-pa/
+
+## By CPC
+1. plumbing services coraopolis pa | searches/mo 350 (est) | CPC $13.90 | value $4,900 | Google Ads equiv $310/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/plumbing-services-coraopolis-pa/
+2. plumber coraopolis pa | searches/mo 5,800 (est) | CPC $12.04 | value $70,000 | Google Ads equiv $4,400/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/plumber-coraopolis-pa/
+3. roofing contractor coraopolis pa | searches/mo 960 (est) | CPC $11.79 | value $11,000 | Google Ads equiv $720/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-coraopolis-pa/
+4. roofer coraopolis pa | searches/mo 350 (est) | CPC $10.70 | value $3,700 | Google Ads equiv $240/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/roofer-coraopolis-pa/
+5. attorney coraopolis pa | searches/mo 520 (est) | CPC $9.87 | value $5,100 | Google Ads equiv $310/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/attorney-coraopolis-pa/
+6. lawyer coraopolis pa | searches/mo 350 (est) | CPC $9.87 | value $3,500 | Google Ads equiv $210/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/lawyer-coraopolis-pa/
+7. locksmith coraopolis pa | searches/mo 1,700 (est) | CPC $8.33 | value $14,000 | Google Ads equiv $900/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/locksmith-coraopolis-pa/
+8. plumbers coraopolis pa | searches/mo 26.00 (est) | CPC $8.33 | value $220 | Google Ads equiv $14.00/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/plumbers-coraopolis-pa/
+9. tax preparer coraopolis pa | searches/mo 430 (est) | CPC $5.87 | value $2,500 | Google Ads equiv $140/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tax-preparer-coraopolis-pa/
+10. daycare coraopolis pa | searches/mo 1,600 (est) | CPC $4.81 | value $7,700 | Google Ads equiv $440/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/daycare-coraopolis-pa/
+11. preschool coraopolis pa | searches/mo 1,600 (est) | CPC $4.81 | value $7,700 | Google Ads equiv $440/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/preschool-coraopolis-pa/
+12. dentist coraopolis pa | searches/mo 13,000 (est) | CPC $4.70 | value $61,000 | Google Ads equiv $3,300/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dentist-coraopolis-pa/
+13. haircut coraopolis pa | searches/mo 2,600 (est) | CPC $4.62 | value $12,000 | Google Ads equiv $690/mo | our featured min $50/mo | registry competitors 5 | https://registry-edge.dingalinged.workers.dev/k/haircut-coraopolis-pa/
+14. auto repair coraopolis pa | searches/mo 2,100 (est) | CPC $4.35 | value $9,100 | Google Ads equiv $510/mo | our featured min $20/mo | registry competitors 5 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-coraopolis-pa/
+15. car wash coraopolis pa | searches/mo 13,000 (est) | CPC $4.35 | value $57,000 | Google Ads equiv $3,100/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/car-wash-coraopolis-pa/
+
+## By value (searches x CPC)
+1. plumber coraopolis pa | searches/mo 5,800 (est) | CPC $12.04 | value $70,000 | Google Ads equiv $4,400/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/plumber-coraopolis-pa/
+2. dentist coraopolis pa | searches/mo 13,000 (est) | CPC $4.70 | value $61,000 | Google Ads equiv $3,300/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dentist-coraopolis-pa/
+3. car wash coraopolis pa | searches/mo 13,000 (est) | CPC $4.35 | value $57,000 | Google Ads equiv $3,100/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/car-wash-coraopolis-pa/
+4. gym coraopolis pa | searches/mo 13,000 (est) | CPC $1.67 | value $22,000 | Google Ads equiv $1,600/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/gym-coraopolis-pa/
+5. mechanic coraopolis pa | searches/mo 4,800 (est) | CPC $4.35 | value $21,000 | Google Ads equiv $1,200/mo | our featured min $20/mo | registry competitors 5 | https://registry-edge.dingalinged.workers.dev/k/mechanic-coraopolis-pa/
+6. tire shop coraopolis pa | searches/mo 3,900 (est) | CPC $4.35 | value $17,000 | Google Ads equiv $940/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tire-shop-coraopolis-pa/
+7. locksmith coraopolis pa | searches/mo 1,700 (est) | CPC $8.33 | value $14,000 | Google Ads equiv $900/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/locksmith-coraopolis-pa/
+8. haircut coraopolis pa | searches/mo 2,600 (est) | CPC $4.62 | value $12,000 | Google Ads equiv $690/mo | our featured min $50/mo | registry competitors 5 | https://registry-edge.dingalinged.workers.dev/k/haircut-coraopolis-pa/
+9. roofing contractor coraopolis pa | searches/mo 960 (est) | CPC $11.79 | value $11,000 | Google Ads equiv $720/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-coraopolis-pa/
+10. auto repair coraopolis pa | searches/mo 2,100 (est) | CPC $4.35 | value $9,100 | Google Ads equiv $510/mo | our featured min $20/mo | registry competitors 5 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-coraopolis-pa/
+11. hair salon coraopolis pa | searches/mo 11,000 (est) | CPC $0.55 | value $6,100 | Google Ads equiv $350/mo | our featured min $50/mo | registry competitors 5 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-coraopolis-pa/
+12. attorney coraopolis pa | searches/mo 520 (est) | CPC $9.87 | value $5,100 | Google Ads equiv $310/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/attorney-coraopolis-pa/
+13. plumbing services coraopolis pa | searches/mo 350 (est) | CPC $13.90 | value $4,900 | Google Ads equiv $310/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/plumbing-services-coraopolis-pa/
+14. roofer coraopolis pa | searches/mo 350 (est) | CPC $10.70 | value $3,700 | Google Ads equiv $240/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/roofer-coraopolis-pa/
+15. lawyer coraopolis pa | searches/mo 350 (est) | CPC $9.87 | value $3,500 | Google Ads equiv $210/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/lawyer-coraopolis-pa/
+
+All market data: https://registry-edge.dingalinged.workers.dev/market/ | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html

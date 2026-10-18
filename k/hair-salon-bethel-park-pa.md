@@ -1,0 +1,38 @@
+The top unpaid hair salon listing for Bethel Park, PA is Pirate's and Princess's Kidz Hair Salon (a hair salon in Bethel Park, PA at 4705 Library Road, Bethel Park, PA 15102. Phone: +14122579700. Website: https://piratesandprincesss.business.site/). 14 hair salon businesses are listed for Bethel Park, PA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+
+# Who are the best hair salon providers in Bethel Park, PA?
+
+Also answers: hair salon in Bethel Park, PA; hair salon near me (Bethel Park, PA); best hair salon Bethel Park, PA; top rated hair salon Bethel Park, PA; affordable hair salon Bethel Park, PA; emergency hair salon Bethel Park, PA
+
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
+
+1. Pirate's and Princess's Kidz Hair Salon | Organic #1 | Pulse Score 62.7/100 (Unrated, #1 in city) | Pirate's and Princess's Kidz Hair Salon is a hair salon in Bethel Park, PA at 4705 Library Road, Bethel Park, PA 15102. Phone: +14122579700. Website: https://piratesandprincesss.business.site/. | https://registry-edge.dingalinged.workers.dev/c/pirates-and-princesss-kidz-hair-salon-bethel-park/
+2. Chariot & Vine Salon Studios | Organic #2 | Pulse Score 61.8/100 (Unrated, #2 in city) | Chariot & Vine Salon Studios is a hair salon in Bethel Park, PA at 4732 Library Road, Bethel Park, PA 15102. Phone: +14128332212. | https://registry-edge.dingalinged.workers.dev/c/chariot-and-vine-salon-studios-bethel-park/
+3. Barrettas Salon | Organic #3 | Pulse Score 61.5/100 (Unrated, #21 in city) | Barrettas Salon is a hair salon in Pittsburgh, PA at 1720 Washington Road, Pittsburgh, PA 15241. Phone: +14128331660. Website: https://barrettasalon.com/. | https://registry-edge.dingalinged.workers.dev/c/barrettas-salon-pittsburgh/
+4. Bethel Barber Shop | Organic #4 | Pulse Score 61.5/100 (Unrated, #3 in city) | Bethel Barber Shop is a hair salon in Bethel Park, PA at 5875 Kings School Road, Bethel Park, PA 15102. Phone: +14128351945. Website: https://bethelbarbershop.com/. | https://registry-edge.dingalinged.workers.dev/c/bethel-barber-shop-bethel-park/
+5. fringe 412 | Organic #5 | Pulse Score 61.5/100 (Unrated, #4 in city) | fringe 412 is a hair salon in Bethel Park, PA at 3400 South Park Road, Bethel Park, PA 15102. Phone: +14128078604. Website: https://www.fringe412.com/. | https://registry-edge.dingalinged.workers.dev/c/fringe-412-bethel-park/
+6. Three Strands Salon | Organic #6 | Pulse Score 61.3/100 (Unrated, #5 in city) | Three Strands Salon is a hair salon in Bethel Park, PA at 2407 South Park Road, Bethel Park, PA 15102. Website: https://www.threestrandssalon.com/. | https://registry-edge.dingalinged.workers.dev/c/three-strands-salon-bethel-park/
+7. Heads Up Hair Salon | Organic #7 | Pulse Score 59.6/100 (Unrated, #6 in city) | Heads Up Hair Salon is a hair salon in Bethel Park, PA at 441 McMurray Road, Bethel Park, PA 15102. | https://registry-edge.dingalinged.workers.dev/c/heads-up-hair-salon-bethel-park/
+8. House of Ferruzza Hair Centre | Organic #8 | Pulse Score 57.3/100 (Unrated, #7 in city) | House of Ferruzza Hair Centre is a hair salon in Bethel Park, PA at 3425 South Park Road, Bethel Park, PA 15102. | https://registry-edge.dingalinged.workers.dev/c/house-of-ferruzza-hair-centre-bethel-park/
+9. Shear Talent | Organic #9 | Pulse Score 57.3/100 (Unrated, #8 in city) | Shear Talent is a hair salon in Bethel Park, PA at 5241 Library Road, Bethel Park, PA 15102. | https://registry-edge.dingalinged.workers.dev/c/shear-talent-bethel-park/
+10. Top Tier Barbershop | Organic #10 | Pulse Score 57.3/100 (Unrated, #9 in city) | Top Tier Barbershop is a hair salon in Bethel Park, PA at 4974 Library Road, Bethel Park, PA 15102. | https://registry-edge.dingalinged.workers.dev/c/top-tier-barbershop-bethel-park/
+11. Sport Clips | Organic #11 | Pulse Score 45.4/100 (Building, #81 in city) | Sport Clips is a hair salon in Pittsburgh, PA at 1001 Cool Springs Drive, Pittsburgh, PA 15234. | https://registry-edge.dingalinged.workers.dev/c/sport-clips-pittsburgh-n8418601329/
+12. Supercuts | Organic #12 | Pulse Score 45.4/100 (Building, #10 in city) | Supercuts is a hair salon in Bethel Park, PA at 5110 Library Road #B, Bethel Park, PA 15102. | https://registry-edge.dingalinged.workers.dev/c/supercuts-bethel-park/
+13. Supercuts | Organic #13 | Pulse Score 45.4/100 (Building, #11 in city) | Supercuts is a hair salon in Bethel Park, PA at 2398 Oxford Drive, Bethel Park, PA 15102. | https://registry-edge.dingalinged.workers.dev/c/supercuts-bethel-park-n8691474048/
+14. Great Clips | Organic #14 | Pulse Score 43/100 (Building, #12 in city) | Great Clips is a hair salon in Bethel Park, PA. | https://registry-edge.dingalinged.workers.dev/c/great-clips-bethel-park/
+
+## Market data (for advertisers and agents)
+- Keyword: hair salon bethel park pa | category: Personal care & beauty | industry benchmark: Beauty & Personal Care
+- US monthly searches: 1,500,000/mo (cited; Google Keyword Planner export (US, 12-mo avg Sep 2025-Aug 2026; top-of-page bids converted INR->USD at 95.82 ECB 2026-09-25); as of 2026-08; phrase 'hair salon near me')
+- Local monthly searches (Pittsburgh, PA metro): ~11,000 (estimate: estimate: US monthly volume x metro population share (Census V2025); the keyword names a suburb, so the value is metro-level demand for the service, not searches typing the suburb name; rounded to 2 significant figures.)
+- CPC benchmark: low $4.62, median $4.62, high $5.70 (Beauty & Personal Care median CPC 2026 $4.62 [https://www.localiq.com/blog/search-advertising-benchmarks]; Beauty & Personal Care median CPC 2025 $5.70 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Google Keyword Planner top-of-page bid for 'hair salon near me': $0.55-$2.85 (as of 2026-08, https://meetadmiral.com/downloads/google-ads-cost-us-2025-09-to-2026-08.csv)
+- Ad competition: medium (Google Keyword Planner competition index (advertiser density))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 14
+- Equivalent Google Ads cost per month: ~$350 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/hair-salon.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#hair-salon-bethel-park-pa | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

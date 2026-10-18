@@ -1,0 +1,24 @@
+Vision Air Heating and Cooling is a HVAC contractor in Saint Clair Shores, MI.
+
+# Vision Air Heating and Cooling
+
+- Category: hvac repair
+- Services: hvac repair, heating and air
+- Address: Saint Clair Shores, MI
+- City: Saint Clair Shores
+- State: MI
+- ZIP: n/a
+- Coordinates: 42.5277472, -82.8933042
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 53.9/100 — Unrated (not enough evidence yet) — top 100% of HVAC contractors in Detroit, MI, #1 of 1 HVAC contractors in Saint Clair Shores (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.7, Trust 38.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/vision-air-heating-and-cooling-saint-clair-shores/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/vision-air-heating-and-cooling-saint-clair-shores.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/8723468120 (license ODbL-1.0); source data as of 2026-05-31
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,0 +1,56 @@
+Keyword market for Franklin, IN: 22 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Indianapolis-Carmel-Greenwood, IN metro (US volume x population share).
+
+# Top keywords in Franklin, IN
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json
+
+## By monthly searches
+1. car wash franklin in | searches/mo 12,000 (est) | CPC $4.35 | value $52,000 | Google Ads equiv $2,900/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/car-wash-franklin-in/
+2. gym franklin in | searches/mo 12,000 (est) | CPC $1.67 | value $20,000 | Google Ads equiv $1,400/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/gym-franklin-in/
+3. hair salon franklin in | searches/mo 9,700 (est) | CPC $0.55 | value $5,300 | Google Ads equiv $300/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-franklin-in/
+4. nail salon franklin in | searches/mo 6,500 (est) | CPC $0.61 | value $4,000 | Google Ads equiv $230/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/nail-salon-franklin-in/
+5. mechanic franklin in | searches/mo 4,300 (est) | CPC $4.35 | value $19,000 | Google Ads equiv $1,000/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/mechanic-franklin-in/
+6. haircut franklin in | searches/mo 2,400 (est) | CPC $4.62 | value $11,000 | Google Ads equiv $630/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/haircut-franklin-in/
+7. auto repair franklin in | searches/mo 1,900 (est) | CPC $4.35 | value $8,300 | Google Ads equiv $460/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-franklin-in/
+8. real estate agent franklin in | searches/mo 1,300 (est) | CPC $3.61 | value $4,700 | Google Ads equiv $390/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-franklin-in/
+9. roofing contractor franklin in | searches/mo 870 (est) | CPC $11.79 | value $10,000 | Google Ads equiv $650/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-franklin-in/
+10. realtor franklin in | searches/mo 580 (est) | CPC $3.70 | value $2,100 | Google Ads equiv $180/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/realtor-franklin-in/
+11. tax preparation franklin in | searches/mo 480 (est) | CPC $3.25 | value $1,600 | Google Ads equiv $130/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tax-preparation-franklin-in/
+12. tax preparer franklin in | searches/mo 390 (est) | CPC $5.87 | value $2,300 | Google Ads equiv $130/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tax-preparer-franklin-in/
+13. roofer franklin in | searches/mo 320 (est) | CPC $10.70 | value $3,400 | Google Ads equiv $220/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/roofer-franklin-in/
+14. flooring companies franklin in | searches/mo 120 (est) | CPC $8.33 | value $1,000 | Google Ads equiv $64.00/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/flooring-companies-franklin-in/
+
+## By CPC
+1. roofing contractor franklin in | searches/mo 870 (est) | CPC $11.79 | value $10,000 | Google Ads equiv $650/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-franklin-in/
+2. roofer franklin in | searches/mo 320 (est) | CPC $10.70 | value $3,400 | Google Ads equiv $220/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/roofer-franklin-in/
+3. flooring companies franklin in | searches/mo 120 (est) | CPC $8.33 | value $1,000 | Google Ads equiv $64.00/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/flooring-companies-franklin-in/
+4. florist franklin in | searches/mo 1,400 (est) | CPC $7.17 | value $10,000 | Google Ads equiv $770/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/florist-franklin-in/
+5. tax preparer franklin in | searches/mo 390 (est) | CPC $5.87 | value $2,300 | Google Ads equiv $130/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tax-preparer-franklin-in/
+6. haircut franklin in | searches/mo 2,400 (est) | CPC $4.62 | value $11,000 | Google Ads equiv $630/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/haircut-franklin-in/
+7. tanning salon franklin in | searches/mo 190 (est) | CPC $4.62 | value $880 | Google Ads equiv $50.00/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tanning-salon-franklin-in/
+8. waxing franklin in | searches/mo 6,000 (est) | CPC $4.62 | value $28,000 | Google Ads equiv $1,600/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/waxing-franklin-in/
+9. auto repair franklin in | searches/mo 1,900 (est) | CPC $4.35 | value $8,300 | Google Ads equiv $460/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-franklin-in/
+10. car wash franklin in | searches/mo 12,000 (est) | CPC $4.35 | value $52,000 | Google Ads equiv $2,900/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/car-wash-franklin-in/
+11. mechanic franklin in | searches/mo 4,300 (est) | CPC $4.35 | value $19,000 | Google Ads equiv $1,000/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/mechanic-franklin-in/
+12. thrift store franklin in | searches/mo 900 (est) | CPC $4.14 | value $3,700 | Google Ads equiv $330/mo | our featured min $10/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/thrift-store-franklin-in/
+13. used cars for sale franklin in | searches/mo 900 (est) | CPC $4.14 | value $3,700 | Google Ads equiv $330/mo | our featured min $10/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/used-cars-for-sale-franklin-in/
+14. realtor franklin in | searches/mo 580 (est) | CPC $3.70 | value $2,100 | Google Ads equiv $180/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/realtor-franklin-in/
+15. real estate agent franklin in | searches/mo 1,300 (est) | CPC $3.61 | value $4,700 | Google Ads equiv $390/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-franklin-in/
+
+## By value (searches x CPC)
+1. car wash franklin in | searches/mo 12,000 (est) | CPC $4.35 | value $52,000 | Google Ads equiv $2,900/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/car-wash-franklin-in/
+2. gym franklin in | searches/mo 12,000 (est) | CPC $1.67 | value $20,000 | Google Ads equiv $1,400/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/gym-franklin-in/
+3. mechanic franklin in | searches/mo 4,300 (est) | CPC $4.35 | value $19,000 | Google Ads equiv $1,000/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/mechanic-franklin-in/
+4. haircut franklin in | searches/mo 2,400 (est) | CPC $4.62 | value $11,000 | Google Ads equiv $630/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/haircut-franklin-in/
+5. roofing contractor franklin in | searches/mo 870 (est) | CPC $11.79 | value $10,000 | Google Ads equiv $650/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-franklin-in/
+6. auto repair franklin in | searches/mo 1,900 (est) | CPC $4.35 | value $8,300 | Google Ads equiv $460/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-franklin-in/
+7. hair salon franklin in | searches/mo 9,700 (est) | CPC $0.55 | value $5,300 | Google Ads equiv $300/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-franklin-in/
+8. real estate agent franklin in | searches/mo 1,300 (est) | CPC $3.61 | value $4,700 | Google Ads equiv $390/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-franklin-in/
+9. nail salon franklin in | searches/mo 6,500 (est) | CPC $0.61 | value $4,000 | Google Ads equiv $230/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/nail-salon-franklin-in/
+10. roofer franklin in | searches/mo 320 (est) | CPC $10.70 | value $3,400 | Google Ads equiv $220/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/roofer-franklin-in/
+11. tax preparer franklin in | searches/mo 390 (est) | CPC $5.87 | value $2,300 | Google Ads equiv $130/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tax-preparer-franklin-in/
+12. realtor franklin in | searches/mo 580 (est) | CPC $3.70 | value $2,100 | Google Ads equiv $180/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/realtor-franklin-in/
+13. tax preparation franklin in | searches/mo 480 (est) | CPC $3.25 | value $1,600 | Google Ads equiv $130/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tax-preparation-franklin-in/
+14. flooring companies franklin in | searches/mo 120 (est) | CPC $8.33 | value $1,000 | Google Ads equiv $64.00/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/flooring-companies-franklin-in/
+
+All market data: https://registry-edge.dingalinged.workers.dev/market/ | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html

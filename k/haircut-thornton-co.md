@@ -1,0 +1,45 @@
+The top unpaid haircut listing for Thornton, CO is Kandy’s Kutz Beauty Salon (a hair salon in Thornton, CO at 550 Thornton Parkway #226, Thornton, CO 80229. Phone: +17204751360). 22 haircut businesses are listed for Thornton, CO as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+
+# Who are the best haircut providers in Thornton, CO?
+
+Also answers: haircut in Thornton, CO; haircut near me (Thornton, CO); best haircut Thornton, CO; top rated haircut Thornton, CO; affordable haircut Thornton, CO; emergency haircut Thornton, CO
+
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
+
+1. Kandy’s Kutz Beauty Salon | Organic #1 | Pulse Score 63.2/100 (Unrated, #1 in city) | Kandy’s Kutz Beauty Salon is a hair salon in Thornton, CO at 550 Thornton Parkway #226, Thornton, CO 80229. Phone: +17204751360. | https://registry-edge.dingalinged.workers.dev/c/kandy-s-kutz-beauty-salon-thornton/
+2. The Mane Salon | Organic #2 | Pulse Score 61.1/100 (Unrated, #2 in city) | The Mane Salon is a hair salon in Thornton, CO at 3874 East 120th Avenue, Thornton, CO 80233. Phone: +13034518389. Website: https://www.themanesalon.com/. | https://registry-edge.dingalinged.workers.dev/c/the-mane-salon-thornton/
+3. Rosewood Hair Studio | Organic #3 | Pulse Score 60.6/100 (Unrated, #3 in city) | Rosewood Hair Studio is a hair salon in Thornton, CO at 16564 Washington Street, Thornton, CO 80023. Phone: +13039204247. Website: https://www.vagaro.com/rosewoodhairstudio. | https://registry-edge.dingalinged.workers.dev/c/rosewood-hair-studio-thornton/
+4. Marbelize | Organic #4 | Pulse Score 59.5/100 (Unrated, #4 in city) | Marbelize is a hair salon in Thornton, CO at 140 West 84th Avenue, Thornton, CO 80620. Phone: +17203645904. | https://registry-edge.dingalinged.workers.dev/c/marbelize-thornton/
+5. Amazing Cuts | Organic #5 | Pulse Score 56.9/100 (Unrated, #5 in city) | Amazing Cuts is a hair salon in Thornton, CO at 10380 Washington Street, Thornton, CO 80229. | https://registry-edge.dingalinged.workers.dev/c/amazing-cuts-thornton/
+6. Freddy's Barbershop | Organic #6 | Pulse Score 56.3/100 (Unrated, #6 in city) | Freddy's Barbershop is a hair salon in Thornton, CO at 2661 East 120th Avenue, Thornton, CO 80233. | https://registry-edge.dingalinged.workers.dev/c/freddys-barbershop-thornton/
+7. Garland Barber Shop | Organic #7 | Pulse Score 56.3/100 (Unrated, #7 in city) | Garland Barber Shop is a hair salon in Thornton, CO at 2683 East 120th Avenue, Thornton, CO 80233. | https://registry-edge.dingalinged.workers.dev/c/garland-barber-shop-thornton/
+8. Platinum Hair Studio | Organic #8 | Pulse Score 55.8/100 (Unrated, #8 in city) | Platinum Hair Studio is a hair salon in Thornton, CO. Website: https://www.platinumhairstudio.org/information.html. | https://registry-edge.dingalinged.workers.dev/c/platinum-hair-studio-thornton/
+9. Carlos' Barbers | Organic #9 | Pulse Score 54.2/100 (Unrated, #9 in city) | Carlos' Barbers is a hair salon in Thornton, CO. | https://registry-edge.dingalinged.workers.dev/c/carlos-barbers-thornton/
+10. End Results Salon | Organic #10 | Pulse Score 54.2/100 (Unrated, #10 in city) | End Results Salon is a hair salon in Thornton, CO. | https://registry-edge.dingalinged.workers.dev/c/end-results-salon-thornton/
+11. Halo's | Organic #11 | Pulse Score 54.2/100 (Unrated, #11 in city) | Halo's is a hair salon in Thornton, CO. | https://registry-edge.dingalinged.workers.dev/c/halos-thornton/
+12. Max's Barbershop | Organic #12 | Pulse Score 54.2/100 (Unrated, #12 in city) | Max's Barbershop is a hair salon in Thornton, CO. | https://registry-edge.dingalinged.workers.dev/c/maxs-barbershop-thornton/
+13. Trenz Hair | Organic #13 | Pulse Score 54.2/100 (Unrated, #13 in city) | Trenz Hair is a hair salon in Thornton, CO. | https://registry-edge.dingalinged.workers.dev/c/trenz-hair-thornton/
+14. Supercuts | Organic #14 | Pulse Score 49.2/100 (Building, #14 in city) | Supercuts is a hair salon in Thornton, CO at 951 East 120th Avenue #B, Thornton, CO 80233. Phone: +13034525816. Website: https://www.supercuts.com/locations/co/thornton/thorncreek-crossing-haircuts-9239.html. | https://registry-edge.dingalinged.workers.dev/c/supercuts-thornton-n7833793863/
+15. Supercuts | Organic #15 | Pulse Score 48/100 (Building, #15 in city) | Supercuts is a hair salon in Thornton, CO at 16649 Washington Street, Thornton, CO 80023. Phone: +13034570955. Website: https://www.supercuts.com/locations/co/thornton/larkridge-shopping-center-haircuts-82638.html. | https://registry-edge.dingalinged.workers.dev/c/supercuts-thornton-n8188156633/
+16. Supercuts | Organic #16 | Pulse Score 46.4/100 (Building, #16 in city) | Supercuts is a hair salon in Thornton, CO at 10005 Grant Street #B, Thornton, CO 80229. Website: https://www.supercuts.com/locations/co/thornton/thornton-town-center-haircuts-81692.html. | https://registry-edge.dingalinged.workers.dev/c/supercuts-thornton-n7593095578/
+17. Great Clips | Organic #17 | Pulse Score 46.2/100 (Building, #17 in city) | Great Clips is a hair salon in Thornton, CO at 3778 East 104th Avenue, Thornton, CO 80233. Website: https://www.greatclips.com/. | https://registry-edge.dingalinged.workers.dev/c/great-clips-thornton-n5638229235/
+18. Sport Clips | Organic #18 | Pulse Score 44.1/100 (Building, #18 in city) | Sport Clips is a hair salon in Thornton, CO at 9645 Washington Street, Thornton, CO 80229. | https://registry-edge.dingalinged.workers.dev/c/sport-clips-thornton/
+19. Cost Cutters | Organic #19 | Pulse Score 42/100 (Building, #19 in city) | Cost Cutters is a hair salon in Thornton, CO. | https://registry-edge.dingalinged.workers.dev/c/cost-cutters-thornton/
+20. Great Clips | Organic #20 | Pulse Score 42/100 (Building, #20 in city) | Great Clips is a hair salon in Thornton, CO. | https://registry-edge.dingalinged.workers.dev/c/great-clips-thornton/
+21. Supercuts | Organic #21 | Pulse Score 42/100 (Building, #21 in city) | Supercuts is a hair salon in Thornton, CO. | https://registry-edge.dingalinged.workers.dev/c/supercuts-thornton/
+22. Supercuts | Organic #22 | Pulse Score 42/100 (Building, #22 in city) | Supercuts is a hair salon in Thornton, CO. | https://registry-edge.dingalinged.workers.dev/c/supercuts-thornton-n4523978045/
+
+## Market data (for advertisers and agents)
+- Keyword: haircut thornton co | category: Personal care & beauty | industry benchmark: Beauty & Personal Care
+- US monthly searches: 368,000/mo (cited; Semrush US Jul 2026 (via research source); as of 2026-07; phrase 'haircut near me')
+- Local monthly searches (Denver-Aurora-Centennial, CO metro): ~3,300 (estimate: estimate: US monthly volume x metro population share (Census V2025); the keyword names a suburb, so the value is metro-level demand for the service, not searches typing the suburb name; rounded to 2 significant figures.)
+- CPC benchmark: low $4.62, median $4.62, high $5.70 (Beauty & Personal Care median CPC 2026 $4.62 [https://www.localiq.com/blog/search-advertising-benchmarks]; Beauty & Personal Care median CPC 2025 $5.70 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 22
+- Equivalent Google Ads cost per month: ~$870 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/haircut.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#haircut-thornton-co | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

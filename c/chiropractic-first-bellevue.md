@@ -1,0 +1,24 @@
+Chiropractic First is a chiropractor in Bellevue, PA at 14 North Balph Avenue, Bellevue, PA.
+
+# Chiropractic First
+
+- Category: chiropractor
+- Services: chiropractor
+- Address: 14 North Balph Avenue, Bellevue, PA
+- City: Bellevue
+- State: PA
+- ZIP: n/a
+- Coordinates: 40.4959031, -80.0551689
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.4/100 — Unrated (not enough evidence yet) — top 58% of chiropractors in Pittsburgh, PA, #3 of 3 chiropractors in Bellevue (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.2, Trust 46.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/chiropractic-first-bellevue/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/chiropractic-first-bellevue.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/3863888443 (license ODbL-1.0); source data as of 2026-05-31
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

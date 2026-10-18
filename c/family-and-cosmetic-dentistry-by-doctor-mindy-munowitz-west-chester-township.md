@@ -1,0 +1,24 @@
+Family & Cosmetic Dentistry by Doctor Mindy Munowitz is a dentist in West Chester Township, OH at 9393, West Chester Township, OH. Phone: +15137558000. Website: https://www.smilesohio.com/.
+
+# Family & Cosmetic Dentistry by Doctor Mindy Munowitz
+
+- Category: dentist
+- Services: dentist
+- Address: 9393, West Chester Township, OH
+- City: West Chester Township
+- State: OH
+- ZIP: n/a
+- Coordinates: 39.3153992, -84.3739828
+- Phone: +15137558000
+- Website: https://www.smilesohio.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 17% of dentists in Cincinnati, OH, #2 of 9 dentists in West Chester Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.8, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/family-and-cosmetic-dentistry-by-doctor-mindy-munowitz-west-chester-township/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/family-and-cosmetic-dentistry-by-doctor-mindy-munowitz-west-chester-township.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6359271272 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

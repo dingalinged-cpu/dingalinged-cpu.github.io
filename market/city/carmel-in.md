@@ -1,0 +1,58 @@
+Keyword market for Carmel, IN: 73 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Indianapolis-Carmel-Greenwood, IN metro (US volume x population share).
+
+# Top keywords in Carmel, IN
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json
+
+## By monthly searches
+1. massage carmel in | searches/mo 32,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $150,000 | Google Ads equiv $8,400/mo | our featured min $50/mo | registry competitors 5 | https://registry-edge.dingalinged.workers.dev/k/massage-carmel-in/
+2. car wash carmel in | searches/mo 12,000 (est) | CPC $4.35 | value $52,000 | Google Ads equiv $2,900/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/car-wash-carmel-in/
+3. dentist carmel in | searches/mo 12,000 (est) | CPC $4.70 | value $56,000 | Google Ads equiv $3,100/mo | our featured min $100/mo | registry competitors 26 | https://registry-edge.dingalinged.workers.dev/k/dentist-carmel-in/
+4. gym carmel in | searches/mo 12,000 (est) | CPC $1.67 | value $20,000 | Google Ads equiv $1,400/mo | our featured min $50/mo | registry competitors 16 | https://registry-edge.dingalinged.workers.dev/k/gym-carmel-in/
+5. oil change carmel in | searches/mo 12,000 (est) | CPC $4.35 | value $52,000 | Google Ads equiv $2,900/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/oil-change-carmel-in/
+6. hair salon carmel in | searches/mo 9,700 (est) | CPC $0.55 | value $5,300 | Google Ads equiv $300/mo | our featured min $50/mo | registry competitors 22 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-carmel-in/
+7. nail salon carmel in | searches/mo 6,500 (est) | CPC $0.61 | value $4,000 | Google Ads equiv $230/mo | our featured min $50/mo | registry competitors 12 | https://registry-edge.dingalinged.workers.dev/k/nail-salon-carmel-in/
+8. mechanic carmel in | searches/mo 4,300 (est) | CPC $4.35 | value $19,000 | Google Ads equiv $1,000/mo | our featured min $20/mo | registry competitors 25 | https://registry-edge.dingalinged.workers.dev/k/mechanic-carmel-in/
+9. tire shop carmel in | searches/mo 3,500 (est) | CPC $4.35 | value $15,000 | Google Ads equiv $850/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/tire-shop-carmel-in/
+10. vet carmel in | searches/mo 3,500 (est) | CPC $4.06 | value $14,000 | Google Ads equiv $940/mo | our featured min $20/mo | registry competitors 11 | https://registry-edge.dingalinged.workers.dev/k/vet-carmel-in/
+11. haircut carmel in | searches/mo 2,400 (est) | CPC $4.62 | value $11,000 | Google Ads equiv $630/mo | our featured min $50/mo | registry competitors 22 | https://registry-edge.dingalinged.workers.dev/k/haircut-carmel-in/
+12. auto repair carmel in | searches/mo 1,900 (est) | CPC $4.35 | value $8,300 | Google Ads equiv $460/mo | our featured min $20/mo | registry competitors 25 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-carmel-in/
+13. pilates carmel in | searches/mo 1,900 (est) | CPC $6.17 | value $12,000 | Google Ads equiv $840/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/pilates-carmel-in/
+14. chiropractor carmel in | searches/mo 1,600 (est) | CPC $4.76 | value $7,600 | Google Ads equiv $510/mo | our featured min $50/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/chiropractor-carmel-in/
+15. dog boarding carmel in | searches/mo 1,600 (est) | CPC $4.06 | value $6,500 | Google Ads equiv $430/mo | our featured min $20/mo | registry competitors 6 | https://registry-edge.dingalinged.workers.dev/k/dog-boarding-carmel-in/
+
+## By CPC
+1. hvac repair carmel in | searches/mo 480 (est) | CPC $17.76 | value $8,500 | Google Ads equiv $540/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/hvac-repair-carmel-in/
+2. painters carmel in | searches/mo 390 (est) | CPC $13.74 | value $5,400 | Google Ads equiv $340/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/painters-carmel-in/
+3. roofing contractor carmel in | searches/mo 870 (est) | CPC $11.79 | value $10,000 | Google Ads equiv $650/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-carmel-in/
+4. roofer carmel in | searches/mo 320 (est) | CPC $10.70 | value $3,400 | Google Ads equiv $220/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/roofer-carmel-in/
+5. attorney carmel in | searches/mo 480 (est) | CPC $9.87 | value $4,700 | Google Ads equiv $280/mo | our featured min $100/mo | registry competitors 10 | https://registry-edge.dingalinged.workers.dev/k/attorney-carmel-in/
+6. lawyer carmel in | searches/mo 320 (est) | CPC $9.87 | value $3,200 | Google Ads equiv $190/mo | our featured min $100/mo | registry competitors 10 | https://registry-edge.dingalinged.workers.dev/k/lawyer-carmel-in/
+7. architect carmel in | searches/mo 260 (est) | CPC $8.33 | value $2,200 | Google Ads equiv $140/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/architect-carmel-in/
+8. heating and air carmel in | searches/mo 23.00 (est) | CPC $8.33 | value $190 | Google Ads equiv $12.00/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/heating-and-air-carmel-in/
+9. storage units carmel in | searches/mo 1,400 (est) | CPC $8.33 | value $12,000 | Google Ads equiv $740/mo | our featured min $50/mo | registry competitors 6 | https://registry-edge.dingalinged.workers.dev/k/storage-units-carmel-in/
+10. orthodontist carmel in | searches/mo 1,000 (est) | CPC $8.00 | value $8,000 | Google Ads equiv $440/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/orthodontist-carmel-in/
+11. bakery carmel in | searches/mo 1,400 (est) | CPC $7.17 | value $10,000 | Google Ads equiv $770/mo | our featured min $20/mo | registry competitors 5 | https://registry-edge.dingalinged.workers.dev/k/bakery-carmel-in/
+12. caterers carmel in | searches/mo 1,400 (est) | CPC $7.17 | value $10,000 | Google Ads equiv $770/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/caterers-carmel-in/
+13. event venues carmel in | searches/mo 1,400 (est) | CPC $7.17 | value $10,000 | Google Ads equiv $770/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/event-venues-carmel-in/
+14. florist carmel in | searches/mo 1,400 (est) | CPC $7.17 | value $10,000 | Google Ads equiv $770/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/florist-carmel-in/
+15. photographer carmel in | searches/mo 1,400 (est) | CPC $7.17 | value $10,000 | Google Ads equiv $770/mo | our featured min $20/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/photographer-carmel-in/
+
+## By value (searches x CPC)
+1. massage carmel in | searches/mo 32,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $150,000 | Google Ads equiv $8,400/mo | our featured min $50/mo | registry competitors 5 | https://registry-edge.dingalinged.workers.dev/k/massage-carmel-in/
+2. dentist carmel in | searches/mo 12,000 (est) | CPC $4.70 | value $56,000 | Google Ads equiv $3,100/mo | our featured min $100/mo | registry competitors 26 | https://registry-edge.dingalinged.workers.dev/k/dentist-carmel-in/
+3. car wash carmel in | searches/mo 12,000 (est) | CPC $4.35 | value $52,000 | Google Ads equiv $2,900/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/car-wash-carmel-in/
+4. oil change carmel in | searches/mo 12,000 (est) | CPC $4.35 | value $52,000 | Google Ads equiv $2,900/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/oil-change-carmel-in/
+5. gym carmel in | searches/mo 12,000 (est) | CPC $1.67 | value $20,000 | Google Ads equiv $1,400/mo | our featured min $50/mo | registry competitors 16 | https://registry-edge.dingalinged.workers.dev/k/gym-carmel-in/
+6. mechanic carmel in | searches/mo 4,300 (est) | CPC $4.35 | value $19,000 | Google Ads equiv $1,000/mo | our featured min $20/mo | registry competitors 25 | https://registry-edge.dingalinged.workers.dev/k/mechanic-carmel-in/
+7. tire shop carmel in | searches/mo 3,500 (est) | CPC $4.35 | value $15,000 | Google Ads equiv $850/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/tire-shop-carmel-in/
+8. vet carmel in | searches/mo 3,500 (est) | CPC $4.06 | value $14,000 | Google Ads equiv $940/mo | our featured min $20/mo | registry competitors 11 | https://registry-edge.dingalinged.workers.dev/k/vet-carmel-in/
+9. pilates carmel in | searches/mo 1,900 (est) | CPC $6.17 | value $12,000 | Google Ads equiv $840/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/pilates-carmel-in/
+10. haircut carmel in | searches/mo 2,400 (est) | CPC $4.62 | value $11,000 | Google Ads equiv $630/mo | our featured min $50/mo | registry competitors 22 | https://registry-edge.dingalinged.workers.dev/k/haircut-carmel-in/
+11. roofing contractor carmel in | searches/mo 870 (est) | CPC $11.79 | value $10,000 | Google Ads equiv $650/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-carmel-in/
+12. hvac repair carmel in | searches/mo 480 (est) | CPC $17.76 | value $8,500 | Google Ads equiv $540/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/hvac-repair-carmel-in/
+13. auto repair carmel in | searches/mo 1,900 (est) | CPC $4.35 | value $8,300 | Google Ads equiv $460/mo | our featured min $20/mo | registry competitors 25 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-carmel-in/
+14. chiropractor carmel in | searches/mo 1,600 (est) | CPC $4.76 | value $7,600 | Google Ads equiv $510/mo | our featured min $50/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/chiropractor-carmel-in/
+15. spa carmel in | searches/mo 1,600 (est) | CPC $4.62 | value $7,400 | Google Ads equiv $420/mo | our featured min $50/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/spa-carmel-in/
+
+All market data: https://registry-edge.dingalinged.workers.dev/market/ | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html

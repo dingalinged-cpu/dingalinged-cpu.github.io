@@ -1,0 +1,39 @@
+Keyword market for North Fayette Township, PA: 14 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Pittsburgh, PA metro (US volume x population share).
+
+# Top keywords in North Fayette Township, PA
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json
+
+## By monthly searches
+1. gym north fayette township pa | searches/mo 13,000 (est) | CPC $1.67 | value $22,000 | Google Ads equiv $1,600/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/gym-north-fayette-township-pa/
+2. hair salon north fayette township pa | searches/mo 11,000 (est) | CPC $0.55 | value $6,100 | Google Ads equiv $350/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-north-fayette-township-pa/
+3. mechanic north fayette township pa | searches/mo 4,800 (est) | CPC $4.35 | value $21,000 | Google Ads equiv $1,200/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/mechanic-north-fayette-township-pa/
+4. haircut north fayette township pa | searches/mo 2,600 (est) | CPC $4.62 | value $12,000 | Google Ads equiv $690/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/haircut-north-fayette-township-pa/
+5. auto repair north fayette township pa | searches/mo 2,100 (est) | CPC $4.35 | value $9,100 | Google Ads equiv $510/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-north-fayette-township-pa/
+6. yoga classes north fayette township pa | searches/mo 520 (est) | CPC $1.78 | value $930 | Google Ads equiv $66.00/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/yoga-classes-north-fayette-township-pa/
+
+## By CPC
+1. storage units north fayette township pa | searches/mo 1,600 (est) | CPC $8.33 | value $13,000 | Google Ads equiv $850/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/storage-units-north-fayette-township-pa/
+2. haircut north fayette township pa | searches/mo 2,600 (est) | CPC $4.62 | value $12,000 | Google Ads equiv $690/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/haircut-north-fayette-township-pa/
+3. auto repair north fayette township pa | searches/mo 2,100 (est) | CPC $4.35 | value $9,100 | Google Ads equiv $510/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-north-fayette-township-pa/
+4. mechanic north fayette township pa | searches/mo 4,800 (est) | CPC $4.35 | value $21,000 | Google Ads equiv $1,200/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/mechanic-north-fayette-township-pa/
+5. furniture store north fayette township pa | searches/mo 990 (est) | CPC $4.14 | value $4,100 | Google Ads equiv $370/mo | our featured min $10/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/furniture-store-north-fayette-township-pa/
+6. gift shop north fayette township pa | searches/mo 130 (est) | CPC $4.14 | value $540 | Google Ads equiv $48.00/mo | our featured min $10/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/gift-shop-north-fayette-township-pa/
+7. jewelry store north fayette township pa | searches/mo 990 (est) | CPC $4.14 | value $4,100 | Google Ads equiv $370/mo | our featured min $10/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/jewelry-store-north-fayette-township-pa/
+8. liquor store north fayette township pa | searches/mo 990 (est) | CPC $4.14 | value $4,100 | Google Ads equiv $370/mo | our featured min $10/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/liquor-store-north-fayette-township-pa/
+9. mattress store north fayette township pa | searches/mo 990 (est) | CPC $4.14 | value $4,100 | Google Ads equiv $370/mo | our featured min $10/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/mattress-store-north-fayette-township-pa/
+10. pet store north fayette township pa | searches/mo 990 (est) | CPC $4.14 | value $4,100 | Google Ads equiv $370/mo | our featured min $10/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/pet-store-north-fayette-township-pa/
+11. printing services north fayette township pa | searches/mo 280 (est) | CPC $3.39 | value $950 | Google Ads equiv $79.00/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/printing-services-north-fayette-township-pa/
+12. yoga classes north fayette township pa | searches/mo 520 (est) | CPC $1.78 | value $930 | Google Ads equiv $66.00/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/yoga-classes-north-fayette-township-pa/
+13. gym north fayette township pa | searches/mo 13,000 (est) | CPC $1.67 | value $22,000 | Google Ads equiv $1,600/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/gym-north-fayette-township-pa/
+14. hair salon north fayette township pa | searches/mo 11,000 (est) | CPC $0.55 | value $6,100 | Google Ads equiv $350/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-north-fayette-township-pa/
+
+## By value (searches x CPC)
+1. gym north fayette township pa | searches/mo 13,000 (est) | CPC $1.67 | value $22,000 | Google Ads equiv $1,600/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/gym-north-fayette-township-pa/
+2. mechanic north fayette township pa | searches/mo 4,800 (est) | CPC $4.35 | value $21,000 | Google Ads equiv $1,200/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/mechanic-north-fayette-township-pa/
+3. haircut north fayette township pa | searches/mo 2,600 (est) | CPC $4.62 | value $12,000 | Google Ads equiv $690/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/haircut-north-fayette-township-pa/
+4. auto repair north fayette township pa | searches/mo 2,100 (est) | CPC $4.35 | value $9,100 | Google Ads equiv $510/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-north-fayette-township-pa/
+5. hair salon north fayette township pa | searches/mo 11,000 (est) | CPC $0.55 | value $6,100 | Google Ads equiv $350/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-north-fayette-township-pa/
+6. yoga classes north fayette township pa | searches/mo 520 (est) | CPC $1.78 | value $930 | Google Ads equiv $66.00/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/yoga-classes-north-fayette-township-pa/
+
+All market data: https://registry-edge.dingalinged.workers.dev/market/ | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html

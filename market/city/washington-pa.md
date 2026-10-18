@@ -1,0 +1,58 @@
+Keyword market for Washington, PA: 40 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Pittsburgh, PA metro (US volume x population share).
+
+# Top keywords in Washington, PA
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json
+
+## By monthly searches
+1. car wash washington pa | searches/mo 13,000 (est) | CPC $4.35 | value $57,000 | Google Ads equiv $3,100/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/car-wash-washington-pa/
+2. dentist washington pa | searches/mo 13,000 (est) | CPC $4.70 | value $61,000 | Google Ads equiv $3,300/mo | our featured min $100/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/dentist-washington-pa/
+3. gym washington pa | searches/mo 13,000 (est) | CPC $1.67 | value $22,000 | Google Ads equiv $1,600/mo | our featured min $50/mo | registry competitors 5 | https://registry-edge.dingalinged.workers.dev/k/gym-washington-pa/
+4. hair salon washington pa | searches/mo 11,000 (est) | CPC $0.55 | value $6,100 | Google Ads equiv $350/mo | our featured min $50/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-washington-pa/
+5. nail salon washington pa | searches/mo 7,100 (est) | CPC $0.61 | value $4,300 | Google Ads equiv $250/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/nail-salon-washington-pa/
+6. plumber washington pa | searches/mo 5,800 (est) | CPC $12.04 | value $70,000 | Google Ads equiv $4,400/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/plumber-washington-pa/
+7. mechanic washington pa | searches/mo 4,800 (est) | CPC $4.35 | value $21,000 | Google Ads equiv $1,200/mo | our featured min $20/mo | registry competitors 7 | https://registry-edge.dingalinged.workers.dev/k/mechanic-washington-pa/
+8. vet washington pa | searches/mo 3,900 (est) | CPC $4.06 | value $16,000 | Google Ads equiv $1,000/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/vet-washington-pa/
+9. haircut washington pa | searches/mo 2,600 (est) | CPC $4.62 | value $12,000 | Google Ads equiv $690/mo | our featured min $50/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/haircut-washington-pa/
+10. auto repair washington pa | searches/mo 2,100 (est) | CPC $4.35 | value $9,100 | Google Ads equiv $510/mo | our featured min $20/mo | registry competitors 7 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-washington-pa/
+11. movers washington pa | searches/mo 2,100 (est) | CPC $8.23 | value $17,000 | Google Ads equiv $1,100/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/movers-washington-pa/
+12. chiropractor washington pa | searches/mo 1,700 (est) | CPC $4.76 | value $8,100 | Google Ads equiv $540/mo | our featured min $50/mo | registry competitors 6 | https://registry-edge.dingalinged.workers.dev/k/chiropractor-washington-pa/
+13. electrician washington pa | searches/mo 1,700 (est) | CPC $12.18 | value $21,000 | Google Ads equiv $1,300/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/electrician-washington-pa/
+14. moving company washington pa | searches/mo 1,400 (est) | CPC $12.41 | value $17,000 | Google Ads equiv $1,100/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/moving-company-washington-pa/
+15. insurance agency washington pa | searches/mo 640 (est) | CPC $3.39 | value $2,200 | Google Ads equiv $180/mo | our featured min $100/mo | registry competitors 6 | https://registry-edge.dingalinged.workers.dev/k/insurance-agency-washington-pa/
+
+## By CPC
+1. plumbing services washington pa | searches/mo 350 (est) | CPC $13.90 | value $4,900 | Google Ads equiv $310/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/plumbing-services-washington-pa/
+2. moving company washington pa | searches/mo 1,400 (est) | CPC $12.41 | value $17,000 | Google Ads equiv $1,100/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/moving-company-washington-pa/
+3. electrician washington pa | searches/mo 1,700 (est) | CPC $12.18 | value $21,000 | Google Ads equiv $1,300/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/electrician-washington-pa/
+4. plumber washington pa | searches/mo 5,800 (est) | CPC $12.04 | value $70,000 | Google Ads equiv $4,400/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/plumber-washington-pa/
+5. attorney washington pa | searches/mo 520 (est) | CPC $9.87 | value $5,100 | Google Ads equiv $310/mo | our featured min $100/mo | registry competitors 14 | https://registry-edge.dingalinged.workers.dev/k/attorney-washington-pa/
+6. lawyer washington pa | searches/mo 350 (est) | CPC $9.87 | value $3,500 | Google Ads equiv $210/mo | our featured min $100/mo | registry competitors 14 | https://registry-edge.dingalinged.workers.dev/k/lawyer-washington-pa/
+7. plumbers washington pa | searches/mo 26.00 (est) | CPC $8.33 | value $220 | Google Ads equiv $14.00/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/plumbers-washington-pa/
+8. storage units washington pa | searches/mo 1,600 (est) | CPC $8.33 | value $13,000 | Google Ads equiv $850/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/storage-units-washington-pa/
+9. movers washington pa | searches/mo 2,100 (est) | CPC $8.23 | value $17,000 | Google Ads equiv $1,100/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/movers-washington-pa/
+10. bakery washington pa | searches/mo 1,600 (est) | CPC $7.17 | value $11,000 | Google Ads equiv $880/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/bakery-washington-pa/
+11. caterers washington pa | searches/mo 1,600 (est) | CPC $7.17 | value $11,000 | Google Ads equiv $880/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/caterers-washington-pa/
+12. martial arts washington pa | searches/mo 2,100 (est) | CPC $6.17 | value $13,000 | Google Ads equiv $930/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/martial-arts-washington-pa/
+13. tax preparer washington pa | searches/mo 430 (est) | CPC $5.87 | value $2,500 | Google Ads equiv $140/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/tax-preparer-washington-pa/
+14. chiropractor washington pa | searches/mo 1,700 (est) | CPC $4.76 | value $8,100 | Google Ads equiv $540/mo | our featured min $50/mo | registry competitors 6 | https://registry-edge.dingalinged.workers.dev/k/chiropractor-washington-pa/
+15. eye doctor washington pa | searches/mo 1,600 (est) | CPC $4.76 | value $7,600 | Google Ads equiv $510/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/eye-doctor-washington-pa/
+
+## By value (searches x CPC)
+1. plumber washington pa | searches/mo 5,800 (est) | CPC $12.04 | value $70,000 | Google Ads equiv $4,400/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/plumber-washington-pa/
+2. dentist washington pa | searches/mo 13,000 (est) | CPC $4.70 | value $61,000 | Google Ads equiv $3,300/mo | our featured min $100/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/dentist-washington-pa/
+3. car wash washington pa | searches/mo 13,000 (est) | CPC $4.35 | value $57,000 | Google Ads equiv $3,100/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/car-wash-washington-pa/
+4. gym washington pa | searches/mo 13,000 (est) | CPC $1.67 | value $22,000 | Google Ads equiv $1,600/mo | our featured min $50/mo | registry competitors 5 | https://registry-edge.dingalinged.workers.dev/k/gym-washington-pa/
+5. electrician washington pa | searches/mo 1,700 (est) | CPC $12.18 | value $21,000 | Google Ads equiv $1,300/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/electrician-washington-pa/
+6. mechanic washington pa | searches/mo 4,800 (est) | CPC $4.35 | value $21,000 | Google Ads equiv $1,200/mo | our featured min $20/mo | registry competitors 7 | https://registry-edge.dingalinged.workers.dev/k/mechanic-washington-pa/
+7. movers washington pa | searches/mo 2,100 (est) | CPC $8.23 | value $17,000 | Google Ads equiv $1,100/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/movers-washington-pa/
+8. moving company washington pa | searches/mo 1,400 (est) | CPC $12.41 | value $17,000 | Google Ads equiv $1,100/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/moving-company-washington-pa/
+9. vet washington pa | searches/mo 3,900 (est) | CPC $4.06 | value $16,000 | Google Ads equiv $1,000/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/vet-washington-pa/
+10. haircut washington pa | searches/mo 2,600 (est) | CPC $4.62 | value $12,000 | Google Ads equiv $690/mo | our featured min $50/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/haircut-washington-pa/
+11. auto repair washington pa | searches/mo 2,100 (est) | CPC $4.35 | value $9,100 | Google Ads equiv $510/mo | our featured min $20/mo | registry competitors 7 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-washington-pa/
+12. chiropractor washington pa | searches/mo 1,700 (est) | CPC $4.76 | value $8,100 | Google Ads equiv $540/mo | our featured min $50/mo | registry competitors 6 | https://registry-edge.dingalinged.workers.dev/k/chiropractor-washington-pa/
+13. hair salon washington pa | searches/mo 11,000 (est) | CPC $0.55 | value $6,100 | Google Ads equiv $350/mo | our featured min $50/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-washington-pa/
+14. attorney washington pa | searches/mo 520 (est) | CPC $9.87 | value $5,100 | Google Ads equiv $310/mo | our featured min $100/mo | registry competitors 14 | https://registry-edge.dingalinged.workers.dev/k/attorney-washington-pa/
+15. plumbing services washington pa | searches/mo 350 (est) | CPC $13.90 | value $4,900 | Google Ads equiv $310/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/plumbing-services-washington-pa/
+
+All market data: https://registry-edge.dingalinged.workers.dev/market/ | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html

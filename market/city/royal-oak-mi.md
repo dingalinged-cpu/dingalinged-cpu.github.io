@@ -1,0 +1,58 @@
+Keyword market for Royal Oak, MI: 50 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Detroit-Warren-Dearborn, MI metro (US volume x population share).
+
+# Top keywords in Royal Oak, MI
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json
+
+## By monthly searches
+1. car wash royal oak mi | searches/mo 24,000 (est) | CPC $4.35 | value $100,000 | Google Ads equiv $5,800/mo | our featured min $20/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/car-wash-royal-oak-mi/
+2. dentist royal oak mi | searches/mo 24,000 (est) | CPC $4.70 | value $110,000 | Google Ads equiv $6,100/mo | our featured min $100/mo | registry competitors 5 | https://registry-edge.dingalinged.workers.dev/k/dentist-royal-oak-mi/
+3. gym royal oak mi | searches/mo 24,000 (est) | CPC $1.67 | value $40,000 | Google Ads equiv $2,900/mo | our featured min $50/mo | registry competitors 10 | https://registry-edge.dingalinged.workers.dev/k/gym-royal-oak-mi/
+4. hair salon royal oak mi | searches/mo 19,000 (est) | CPC $0.55 | value $10,000 | Google Ads equiv $600/mo | our featured min $50/mo | registry competitors 25 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-royal-oak-mi/
+5. nail salon royal oak mi | searches/mo 13,000 (est) | CPC $0.61 | value $7,900 | Google Ads equiv $450/mo | our featured min $50/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/nail-salon-royal-oak-mi/
+6. mechanic royal oak mi | searches/mo 8,600 (est) | CPC $4.35 | value $37,000 | Google Ads equiv $2,100/mo | our featured min $20/mo | registry competitors 11 | https://registry-edge.dingalinged.workers.dev/k/mechanic-royal-oak-mi/
+7. tire shop royal oak mi | searches/mo 7,100 (est) | CPC $4.35 | value $31,000 | Google Ads equiv $1,700/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tire-shop-royal-oak-mi/
+8. vet royal oak mi | searches/mo 7,100 (est) | CPC $4.06 | value $29,000 | Google Ads equiv $1,900/mo | our featured min $20/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/vet-royal-oak-mi/
+9. haircut royal oak mi | searches/mo 4,700 (est) | CPC $4.62 | value $22,000 | Google Ads equiv $1,200/mo | our featured min $50/mo | registry competitors 25 | https://registry-edge.dingalinged.workers.dev/k/haircut-royal-oak-mi/
+10. auto repair royal oak mi | searches/mo 3,900 (est) | CPC $4.35 | value $17,000 | Google Ads equiv $940/mo | our featured min $20/mo | registry competitors 11 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-royal-oak-mi/
+11. chiropractor royal oak mi | searches/mo 3,200 (est) | CPC $4.76 | value $15,000 | Google Ads equiv $1,000/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/chiropractor-royal-oak-mi/
+12. real estate agent royal oak mi | searches/mo 2,600 (est) | CPC $3.61 | value $9,400 | Google Ads equiv $780/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-royal-oak-mi/
+13. roofing contractor royal oak mi | searches/mo 1,700 (est) | CPC $11.79 | value $20,000 | Google Ads equiv $1,300/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-royal-oak-mi/
+14. insurance agency royal oak mi | searches/mo 1,200 (est) | CPC $3.39 | value $4,100 | Google Ads equiv $340/mo | our featured min $100/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/insurance-agency-royal-oak-mi/
+15. realtor royal oak mi | searches/mo 1,200 (est) | CPC $3.70 | value $4,400 | Google Ads equiv $370/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/realtor-royal-oak-mi/
+
+## By CPC
+1. hvac repair royal oak mi | searches/mo 950 (est) | CPC $17.76 | value $17,000 | Google Ads equiv $1,100/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/hvac-repair-royal-oak-mi/
+2. roofing contractor royal oak mi | searches/mo 1,700 (est) | CPC $11.79 | value $20,000 | Google Ads equiv $1,300/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-royal-oak-mi/
+3. roofer royal oak mi | searches/mo 640 (est) | CPC $10.70 | value $6,800 | Google Ads equiv $440/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/roofer-royal-oak-mi/
+4. attorney royal oak mi | searches/mo 950 (est) | CPC $9.87 | value $9,400 | Google Ads equiv $560/mo | our featured min $100/mo | registry competitors 6 | https://registry-edge.dingalinged.workers.dev/k/attorney-royal-oak-mi/
+5. lawyer royal oak mi | searches/mo 640 (est) | CPC $9.87 | value $6,300 | Google Ads equiv $380/mo | our featured min $100/mo | registry competitors 6 | https://registry-edge.dingalinged.workers.dev/k/lawyer-royal-oak-mi/
+6. heating and air royal oak mi | searches/mo 46.00 (est) | CPC $8.33 | value $380 | Google Ads equiv $24.00/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/heating-and-air-royal-oak-mi/
+7. storage units royal oak mi | searches/mo 2,800 (est) | CPC $8.33 | value $23,000 | Google Ads equiv $1,500/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/storage-units-royal-oak-mi/
+8. bakery royal oak mi | searches/mo 2,800 (est) | CPC $7.17 | value $20,000 | Google Ads equiv $1,500/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/bakery-royal-oak-mi/
+9. florist royal oak mi | searches/mo 2,800 (est) | CPC $7.17 | value $20,000 | Google Ads equiv $1,500/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/florist-royal-oak-mi/
+10. dance studio royal oak mi | searches/mo 510 (est) | CPC $6.17 | value $3,100 | Google Ads equiv $230/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dance-studio-royal-oak-mi/
+11. martial arts royal oak mi | searches/mo 3,900 (est) | CPC $6.17 | value $24,000 | Google Ads equiv $1,700/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/martial-arts-royal-oak-mi/
+12. staffing agency royal oak mi | searches/mo 1,800 (est) | CPC $5.87 | value $11,000 | Google Ads equiv $600/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/staffing-agency-royal-oak-mi/
+13. tax preparer royal oak mi | searches/mo 780 (est) | CPC $5.87 | value $4,600 | Google Ads equiv $260/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tax-preparer-royal-oak-mi/
+14. music lessons royal oak mi | searches/mo 510 (est) | CPC $4.81 | value $2,500 | Google Ads equiv $140/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/music-lessons-royal-oak-mi/
+15. assisted living royal oak mi | searches/mo 2,800 (est) | CPC $4.76 | value $13,000 | Google Ads equiv $900/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/assisted-living-royal-oak-mi/
+
+## By value (searches x CPC)
+1. dentist royal oak mi | searches/mo 24,000 (est) | CPC $4.70 | value $110,000 | Google Ads equiv $6,100/mo | our featured min $100/mo | registry competitors 5 | https://registry-edge.dingalinged.workers.dev/k/dentist-royal-oak-mi/
+2. car wash royal oak mi | searches/mo 24,000 (est) | CPC $4.35 | value $100,000 | Google Ads equiv $5,800/mo | our featured min $20/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/car-wash-royal-oak-mi/
+3. gym royal oak mi | searches/mo 24,000 (est) | CPC $1.67 | value $40,000 | Google Ads equiv $2,900/mo | our featured min $50/mo | registry competitors 10 | https://registry-edge.dingalinged.workers.dev/k/gym-royal-oak-mi/
+4. mechanic royal oak mi | searches/mo 8,600 (est) | CPC $4.35 | value $37,000 | Google Ads equiv $2,100/mo | our featured min $20/mo | registry competitors 11 | https://registry-edge.dingalinged.workers.dev/k/mechanic-royal-oak-mi/
+5. tire shop royal oak mi | searches/mo 7,100 (est) | CPC $4.35 | value $31,000 | Google Ads equiv $1,700/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tire-shop-royal-oak-mi/
+6. vet royal oak mi | searches/mo 7,100 (est) | CPC $4.06 | value $29,000 | Google Ads equiv $1,900/mo | our featured min $20/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/vet-royal-oak-mi/
+7. haircut royal oak mi | searches/mo 4,700 (est) | CPC $4.62 | value $22,000 | Google Ads equiv $1,200/mo | our featured min $50/mo | registry competitors 25 | https://registry-edge.dingalinged.workers.dev/k/haircut-royal-oak-mi/
+8. roofing contractor royal oak mi | searches/mo 1,700 (est) | CPC $11.79 | value $20,000 | Google Ads equiv $1,300/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-royal-oak-mi/
+9. auto repair royal oak mi | searches/mo 3,900 (est) | CPC $4.35 | value $17,000 | Google Ads equiv $940/mo | our featured min $20/mo | registry competitors 11 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-royal-oak-mi/
+10. hvac repair royal oak mi | searches/mo 950 (est) | CPC $17.76 | value $17,000 | Google Ads equiv $1,100/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/hvac-repair-royal-oak-mi/
+11. chiropractor royal oak mi | searches/mo 3,200 (est) | CPC $4.76 | value $15,000 | Google Ads equiv $1,000/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/chiropractor-royal-oak-mi/
+12. hair salon royal oak mi | searches/mo 19,000 (est) | CPC $0.55 | value $10,000 | Google Ads equiv $600/mo | our featured min $50/mo | registry competitors 25 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-royal-oak-mi/
+13. attorney royal oak mi | searches/mo 950 (est) | CPC $9.87 | value $9,400 | Google Ads equiv $560/mo | our featured min $100/mo | registry competitors 6 | https://registry-edge.dingalinged.workers.dev/k/attorney-royal-oak-mi/
+14. real estate agent royal oak mi | searches/mo 2,600 (est) | CPC $3.61 | value $9,400 | Google Ads equiv $780/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-royal-oak-mi/
+15. nail salon royal oak mi | searches/mo 13,000 (est) | CPC $0.61 | value $7,900 | Google Ads equiv $450/mo | our featured min $50/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/nail-salon-royal-oak-mi/
+
+All market data: https://registry-edge.dingalinged.workers.dev/market/ | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html

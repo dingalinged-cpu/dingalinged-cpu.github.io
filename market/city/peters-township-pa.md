@@ -1,0 +1,44 @@
+Keyword market for Peters Township, PA: 21 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Pittsburgh, PA metro (US volume x population share).
+
+# Top keywords in Peters Township, PA
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json
+
+## By monthly searches
+1. car wash peters township pa | searches/mo 13,000 (est) | CPC $4.35 | value $57,000 | Google Ads equiv $3,100/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/car-wash-peters-township-pa/
+2. dentist peters township pa | searches/mo 13,000 (est) | CPC $4.70 | value $61,000 | Google Ads equiv $3,300/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dentist-peters-township-pa/
+3. mechanic peters township pa | searches/mo 4,800 (est) | CPC $4.35 | value $21,000 | Google Ads equiv $1,200/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/mechanic-peters-township-pa/
+4. vet peters township pa | searches/mo 3,900 (est) | CPC $4.06 | value $16,000 | Google Ads equiv $1,000/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/vet-peters-township-pa/
+5. auto repair peters township pa | searches/mo 2,100 (est) | CPC $4.35 | value $9,100 | Google Ads equiv $510/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-peters-township-pa/
+6. chiropractor peters township pa | searches/mo 1,700 (est) | CPC $4.76 | value $8,100 | Google Ads equiv $540/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/chiropractor-peters-township-pa/
+7. real estate agent peters township pa | searches/mo 1,400 (est) | CPC $3.61 | value $5,100 | Google Ads equiv $420/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-peters-township-pa/
+8. realtor peters township pa | searches/mo 640 (est) | CPC $3.70 | value $2,400 | Google Ads equiv $200/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/realtor-peters-township-pa/
+
+## By CPC
+1. window replacement peters township pa | searches/mo 1,600 (est) | CPC $8.76 | value $14,000 | Google Ads equiv $890/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/window-replacement-peters-township-pa/
+2. bakery peters township pa | searches/mo 1,600 (est) | CPC $7.17 | value $11,000 | Google Ads equiv $880/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/bakery-peters-township-pa/
+3. dance studio peters township pa | searches/mo 280 (est) | CPC $6.17 | value $1,700 | Google Ads equiv $120/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dance-studio-peters-township-pa/
+4. preschool peters township pa | searches/mo 1,600 (est) | CPC $4.81 | value $7,700 | Google Ads equiv $440/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/preschool-peters-township-pa/
+5. assisted living peters township pa | searches/mo 1,600 (est) | CPC $4.76 | value $7,600 | Google Ads equiv $510/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/assisted-living-peters-township-pa/
+6. chiropractor peters township pa | searches/mo 1,700 (est) | CPC $4.76 | value $8,100 | Google Ads equiv $540/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/chiropractor-peters-township-pa/
+7. dentist peters township pa | searches/mo 13,000 (est) | CPC $4.70 | value $61,000 | Google Ads equiv $3,300/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dentist-peters-township-pa/
+8. waxing peters township pa | searches/mo 6,600 (est) | CPC $4.62 | value $30,000 | Google Ads equiv $1,700/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/waxing-peters-township-pa/
+9. auto repair peters township pa | searches/mo 2,100 (est) | CPC $4.35 | value $9,100 | Google Ads equiv $510/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-peters-township-pa/
+10. car wash peters township pa | searches/mo 13,000 (est) | CPC $4.35 | value $57,000 | Google Ads equiv $3,100/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/car-wash-peters-township-pa/
+11. mechanic peters township pa | searches/mo 4,800 (est) | CPC $4.35 | value $21,000 | Google Ads equiv $1,200/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/mechanic-peters-township-pa/
+12. furniture store peters township pa | searches/mo 990 (est) | CPC $4.14 | value $4,100 | Google Ads equiv $370/mo | our featured min $10/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/furniture-store-peters-township-pa/
+13. jewelry store peters township pa | searches/mo 990 (est) | CPC $4.14 | value $4,100 | Google Ads equiv $370/mo | our featured min $10/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/jewelry-store-peters-township-pa/
+14. pet store peters township pa | searches/mo 990 (est) | CPC $4.14 | value $4,100 | Google Ads equiv $370/mo | our featured min $10/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/pet-store-peters-township-pa/
+15. thrift store peters township pa | searches/mo 990 (est) | CPC $4.14 | value $4,100 | Google Ads equiv $370/mo | our featured min $10/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/thrift-store-peters-township-pa/
+
+## By value (searches x CPC)
+1. dentist peters township pa | searches/mo 13,000 (est) | CPC $4.70 | value $61,000 | Google Ads equiv $3,300/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dentist-peters-township-pa/
+2. car wash peters township pa | searches/mo 13,000 (est) | CPC $4.35 | value $57,000 | Google Ads equiv $3,100/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/car-wash-peters-township-pa/
+3. mechanic peters township pa | searches/mo 4,800 (est) | CPC $4.35 | value $21,000 | Google Ads equiv $1,200/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/mechanic-peters-township-pa/
+4. vet peters township pa | searches/mo 3,900 (est) | CPC $4.06 | value $16,000 | Google Ads equiv $1,000/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/vet-peters-township-pa/
+5. auto repair peters township pa | searches/mo 2,100 (est) | CPC $4.35 | value $9,100 | Google Ads equiv $510/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-peters-township-pa/
+6. chiropractor peters township pa | searches/mo 1,700 (est) | CPC $4.76 | value $8,100 | Google Ads equiv $540/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/chiropractor-peters-township-pa/
+7. real estate agent peters township pa | searches/mo 1,400 (est) | CPC $3.61 | value $5,100 | Google Ads equiv $420/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-peters-township-pa/
+8. realtor peters township pa | searches/mo 640 (est) | CPC $3.70 | value $2,400 | Google Ads equiv $200/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/realtor-peters-township-pa/
+
+All market data: https://registry-edge.dingalinged.workers.dev/market/ | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html

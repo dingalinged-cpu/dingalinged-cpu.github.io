@@ -1,0 +1,50 @@
+Keyword market for Fort Wright, KY: 16 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Cincinnati, OH-KY-IN metro (US volume x population share).
+
+# Top keywords in Fort Wright, KY
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json
+
+## By monthly searches
+1. car wash fort wright ky | searches/mo 12,000 (est) | CPC $4.35 | value $52,000 | Google Ads equiv $2,900/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/car-wash-fort-wright-ky/
+2. dentist fort wright ky | searches/mo 12,000 (est) | CPC $4.70 | value $56,000 | Google Ads equiv $3,100/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/dentist-fort-wright-ky/
+3. hair salon fort wright ky | searches/mo 10,000 (est) | CPC $0.55 | value $5,500 | Google Ads equiv $310/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-fort-wright-ky/
+4. mechanic fort wright ky | searches/mo 4,600 (est) | CPC $4.35 | value $20,000 | Google Ads equiv $1,100/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/mechanic-fort-wright-ky/
+5. tire shop fort wright ky | searches/mo 3,700 (est) | CPC $4.35 | value $16,000 | Google Ads equiv $890/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tire-shop-fort-wright-ky/
+6. haircut fort wright ky | searches/mo 2,500 (est) | CPC $4.62 | value $12,000 | Google Ads equiv $660/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/haircut-fort-wright-ky/
+7. auto repair fort wright ky | searches/mo 2,000 (est) | CPC $4.35 | value $8,700 | Google Ads equiv $480/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-fort-wright-ky/
+8. pilates fort wright ky | searches/mo 2,000 (est) | CPC $6.17 | value $12,000 | Google Ads equiv $890/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/pilates-fort-wright-ky/
+9. chiropractor fort wright ky | searches/mo 1,700 (est) | CPC $4.76 | value $8,100 | Google Ads equiv $540/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/chiropractor-fort-wright-ky/
+10. financial advisor fort wright ky | searches/mo 1,700 (est) | CPC $3.39 | value $5,800 | Google Ads equiv $480/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/financial-advisor-fort-wright-ky/
+11. flooring companies fort wright ky | searches/mo 120 (est) | CPC $8.33 | value $1,000 | Google Ads equiv $64.00/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/flooring-companies-fort-wright-ky/
+
+## By CPC
+1. flooring companies fort wright ky | searches/mo 120 (est) | CPC $8.33 | value $1,000 | Google Ads equiv $64.00/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/flooring-companies-fort-wright-ky/
+2. storage units fort wright ky | searches/mo 1,500 (est) | CPC $8.33 | value $12,000 | Google Ads equiv $800/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/storage-units-fort-wright-ky/
+3. pilates fort wright ky | searches/mo 2,000 (est) | CPC $6.17 | value $12,000 | Google Ads equiv $890/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/pilates-fort-wright-ky/
+4. chiropractor fort wright ky | searches/mo 1,700 (est) | CPC $4.76 | value $8,100 | Google Ads equiv $540/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/chiropractor-fort-wright-ky/
+5. dentist fort wright ky | searches/mo 12,000 (est) | CPC $4.70 | value $56,000 | Google Ads equiv $3,100/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/dentist-fort-wright-ky/
+6. haircut fort wright ky | searches/mo 2,500 (est) | CPC $4.62 | value $12,000 | Google Ads equiv $660/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/haircut-fort-wright-ky/
+7. auto repair fort wright ky | searches/mo 2,000 (est) | CPC $4.35 | value $8,700 | Google Ads equiv $480/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-fort-wright-ky/
+8. car wash fort wright ky | searches/mo 12,000 (est) | CPC $4.35 | value $52,000 | Google Ads equiv $2,900/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/car-wash-fort-wright-ky/
+9. mechanic fort wright ky | searches/mo 4,600 (est) | CPC $4.35 | value $20,000 | Google Ads equiv $1,100/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/mechanic-fort-wright-ky/
+10. tire shop fort wright ky | searches/mo 3,700 (est) | CPC $4.35 | value $16,000 | Google Ads equiv $890/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tire-shop-fort-wright-ky/
+11. bike shop fort wright ky | searches/mo 950 (est) | CPC $4.14 | value $3,900 | Google Ads equiv $350/mo | our featured min $10/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/bike-shop-fort-wright-ky/
+12. liquor store fort wright ky | searches/mo 950 (est) | CPC $4.14 | value $3,900 | Google Ads equiv $350/mo | our featured min $10/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/liquor-store-fort-wright-ky/
+13. dry cleaners fort wright ky | searches/mo 1,500 (est) | CPC $3.39 | value $5,100 | Google Ads equiv $420/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-fort-wright-ky/
+14. financial advisor fort wright ky | searches/mo 1,700 (est) | CPC $3.39 | value $5,800 | Google Ads equiv $480/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/financial-advisor-fort-wright-ky/
+15. funeral home fort wright ky | searches/mo 1,500 (est) | CPC $3.39 | value $5,100 | Google Ads equiv $420/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/funeral-home-fort-wright-ky/
+
+## By value (searches x CPC)
+1. dentist fort wright ky | searches/mo 12,000 (est) | CPC $4.70 | value $56,000 | Google Ads equiv $3,100/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/dentist-fort-wright-ky/
+2. car wash fort wright ky | searches/mo 12,000 (est) | CPC $4.35 | value $52,000 | Google Ads equiv $2,900/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/car-wash-fort-wright-ky/
+3. mechanic fort wright ky | searches/mo 4,600 (est) | CPC $4.35 | value $20,000 | Google Ads equiv $1,100/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/mechanic-fort-wright-ky/
+4. tire shop fort wright ky | searches/mo 3,700 (est) | CPC $4.35 | value $16,000 | Google Ads equiv $890/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tire-shop-fort-wright-ky/
+5. haircut fort wright ky | searches/mo 2,500 (est) | CPC $4.62 | value $12,000 | Google Ads equiv $660/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/haircut-fort-wright-ky/
+6. pilates fort wright ky | searches/mo 2,000 (est) | CPC $6.17 | value $12,000 | Google Ads equiv $890/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/pilates-fort-wright-ky/
+7. auto repair fort wright ky | searches/mo 2,000 (est) | CPC $4.35 | value $8,700 | Google Ads equiv $480/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-fort-wright-ky/
+8. chiropractor fort wright ky | searches/mo 1,700 (est) | CPC $4.76 | value $8,100 | Google Ads equiv $540/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/chiropractor-fort-wright-ky/
+9. financial advisor fort wright ky | searches/mo 1,700 (est) | CPC $3.39 | value $5,800 | Google Ads equiv $480/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/financial-advisor-fort-wright-ky/
+10. hair salon fort wright ky | searches/mo 10,000 (est) | CPC $0.55 | value $5,500 | Google Ads equiv $310/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-fort-wright-ky/
+11. flooring companies fort wright ky | searches/mo 120 (est) | CPC $8.33 | value $1,000 | Google Ads equiv $64.00/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/flooring-companies-fort-wright-ky/
+
+All market data: https://registry-edge.dingalinged.workers.dev/market/ | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html

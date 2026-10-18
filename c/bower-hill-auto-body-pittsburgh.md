@@ -1,0 +1,24 @@
+Bower Hill Auto Body is an auto repair shop in Pittsburgh, PA at 1469 Bower Hill Road, Pittsburgh, PA 15241.
+
+# Bower Hill Auto Body
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 1469 Bower Hill Road, Pittsburgh, PA 15241
+- City: Pittsburgh
+- State: PA
+- ZIP: 15241
+- Coordinates: 40.3622486, -80.093309
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.8/100 — Unrated (not enough evidence yet) — top 30% of auto repair shops in Pittsburgh, PA, #39 of 90 auto repair shops in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 52. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/bower-hill-auto-body-pittsburgh/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/bower-hill-auto-body-pittsburgh.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12537030182 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

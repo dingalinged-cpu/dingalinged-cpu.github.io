@@ -1,0 +1,39 @@
+The top unpaid hair salon listing for Centennial, CO is Antoine Du Chez Salon and Day Spa (a hair salon in Englewood, CO at 9619 East County Line Road #A, Englewood, CO 80112. Phone: +13037689551. Website: https://www.antoineduchez.com/). 15 hair salon businesses are listed for Centennial, CO as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+
+# Who are the best hair salon providers in Centennial, CO?
+
+Also answers: hair salon in Centennial, CO; hair salon near me (Centennial, CO); best hair salon Centennial, CO; top rated hair salon Centennial, CO; affordable hair salon Centennial, CO; emergency hair salon Centennial, CO
+
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
+
+1. Antoine Du Chez Salon and Day Spa | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | Antoine Du Chez Salon and Day Spa is a hair salon in Englewood, CO at 9619 East County Line Road #A, Englewood, CO 80112. Phone: +13037689551. Website: https://www.antoineduchez.com/. | https://registry-edge.dingalinged.workers.dev/c/antoine-du-chez-salon-and-day-spa-englewood/
+2. Solera Spa | Organic #2 | Pulse Score 56.9/100 (Unrated, #1 in city) | Solera Spa is a hair salon in Centennial, CO at 8770 East Arapahoe Road, Centennial, CO 80112. | https://registry-edge.dingalinged.workers.dev/c/solera-spa-centennial/
+3. Brazilian Jiu Jitsu | Organic #3 | Pulse Score 56.3/100 (Unrated, #2 in city) | Brazilian Jiu Jitsu is a hair salon in Centennial, CO at 6600 South Quebec Street, Centennial, CO 80111. | https://registry-edge.dingalinged.workers.dev/c/brazilian-jiu-jitsu-centennial/
+4. Brekk & Co Salon | Organic #4 | Pulse Score 56.3/100 (Unrated, #3 in city) | Brekk & Co Salon is a hair salon in Centennial, CO at 4550 South Reservoir Road #E, Centennial, CO 80015. | https://registry-edge.dingalinged.workers.dev/c/brekk-and-co-salon-centennial/
+5. Brixton Barbers | Organic #5 | Pulse Score 56.3/100 (Unrated, #4 in city) | Brixton Barbers is a hair salon in Centennial, CO at 5730 East Otero Avenue, Centennial, CO 80112. | https://registry-edge.dingalinged.workers.dev/c/brixton-barbers-centennial/
+6. Classic Cut | Organic #6 | Pulse Score 56.3/100 (Unrated, #5 in city) | Classic Cut is a hair salon in Centennial, CO at 20269 East Smoky Hill Road, Centennial, CO 80015. | https://registry-edge.dingalinged.workers.dev/c/classic-cut-centennial/
+7. El Beauty Station & Spa | Organic #7 | Pulse Score 56.3/100 (Unrated, #6 in city) | El Beauty Station & Spa is a hair salon in Centennial, CO at 16728 East Smoky Hill Road #10B, Centennial, CO 80015. | https://registry-edge.dingalinged.workers.dev/c/el-beauty-station-and-spa-centennial/
+8. Fariba's Hair Salon | Organic #8 | Pulse Score 56.3/100 (Unrated, #7 in city) | Fariba's Hair Salon is a hair salon in Centennial, CO at 12201 East Arapahoe Road #a7B, Centennial, CO 80112. | https://registry-edge.dingalinged.workers.dev/c/faribas-hair-salon-centennial/
+9. Hair RX | Organic #9 | Pulse Score 56.3/100 (Unrated, #8 in city) | Hair RX is a hair salon in Centennial, CO at 18525 East Smoky Hill Road #C, Centennial, CO 80015. | https://registry-edge.dingalinged.workers.dev/c/hair-rx-centennial/
+10. Knockouts Haircuts For Men | Organic #10 | Pulse Score 56.3/100 (Unrated, #9 in city) | Knockouts Haircuts For Men is a hair salon in Centennial, CO at 6262 South Parker Road #500, Centennial, CO 80016. | https://registry-edge.dingalinged.workers.dev/c/knockouts-haircuts-for-men-centennial/
+11. Urbanity Hair Studio | Organic #11 | Pulse Score 56.3/100 (Unrated, #10 in city) | Urbanity Hair Studio is a hair salon in Centennial, CO at 20941 East Smoky Hill Road #H, Centennial, CO 80015. | https://registry-edge.dingalinged.workers.dev/c/urbanity-hair-studio-centennial/
+12. Blo Blow Dry Bar | Organic #12 | Pulse Score 49.2/100 (Unrated, #11 in city) | Blo Blow Dry Bar is a hair salon in Centennial, CO at 7537 South University Boulevard, Centennial, CO 80122. Phone: +17203988595. Website: https://blomedry.com/. | https://registry-edge.dingalinged.workers.dev/c/blo-blow-dry-bar-centennial/
+13. Great Clips | Organic #13 | Pulse Score 44.1/100 (Building, #12 in city) | Great Clips is a hair salon in Centennial, CO at 19751 East Smoky Hill Road #C, Centennial, CO 80015. | https://registry-edge.dingalinged.workers.dev/c/great-clips-centennial/
+14. Great Clips | Organic #14 | Pulse Score 42.6/100 (Building, #13 in city) | Great Clips is a hair salon in Centennial, CO. | https://registry-edge.dingalinged.workers.dev/c/great-clips-centennial-n9310897052/
+15. Floyd's 99 Barbershop | Organic #15 | Pulse Score 42.2/100 (Building, #14 in city) | Floyd's 99 Barbershop is a hair salon in Centennial, CO. | https://registry-edge.dingalinged.workers.dev/c/floyds-99-barbershop-centennial/
+
+## Market data (for advertisers and agents)
+- Keyword: hair salon centennial co | category: Personal care & beauty | industry benchmark: Beauty & Personal Care
+- US monthly searches: 1,500,000/mo (cited; Google Keyword Planner export (US, 12-mo avg Sep 2025-Aug 2026; top-of-page bids converted INR->USD at 95.82 ECB 2026-09-25); as of 2026-08; phrase 'hair salon near me')
+- Local monthly searches (Denver-Aurora-Centennial, CO metro): ~14,000 (estimate: estimate: US monthly volume x metro population share (Census V2025); the keyword names a suburb, so the value is metro-level demand for the service, not searches typing the suburb name; rounded to 2 significant figures.)
+- CPC benchmark: low $4.62, median $4.62, high $5.70 (Beauty & Personal Care median CPC 2026 $4.62 [https://www.localiq.com/blog/search-advertising-benchmarks]; Beauty & Personal Care median CPC 2025 $5.70 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Google Keyword Planner top-of-page bid for 'hair salon near me': $0.55-$2.85 (as of 2026-08, https://meetadmiral.com/downloads/google-ads-cost-us-2025-09-to-2026-08.csv)
+- Ad competition: medium (Google Keyword Planner competition index (advertiser density))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 15
+- Equivalent Google Ads cost per month: ~$440 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/hair-salon.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#hair-salon-centennial-co | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

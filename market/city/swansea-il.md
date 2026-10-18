@@ -1,0 +1,58 @@
+Keyword market for Swansea, IL: 19 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the St. Louis, MO-IL metro (US volume x population share).
+
+# Top keywords in Swansea, IL
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json
+
+## By monthly searches
+1. car wash swansea il | searches/mo 15,000 (est) | CPC $4.35 | value $65,000 | Google Ads equiv $3,600/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/car-wash-swansea-il/
+2. oil change swansea il | searches/mo 15,000 (est) | CPC $4.35 | value $65,000 | Google Ads equiv $3,600/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/oil-change-swansea-il/
+3. hair salon swansea il | searches/mo 12,000 (est) | CPC $0.55 | value $6,600 | Google Ads equiv $380/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-swansea-il/
+4. nail salon swansea il | searches/mo 8,200 (est) | CPC $0.61 | value $5,000 | Google Ads equiv $290/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/nail-salon-swansea-il/
+5. mechanic swansea il | searches/mo 5,500 (est) | CPC $4.35 | value $24,000 | Google Ads equiv $1,300/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/mechanic-swansea-il/
+6. tire shop swansea il | searches/mo 4,500 (est) | CPC $4.35 | value $20,000 | Google Ads equiv $1,100/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tire-shop-swansea-il/
+7. haircut swansea il | searches/mo 3,000 (est) | CPC $4.62 | value $14,000 | Google Ads equiv $790/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/haircut-swansea-il/
+8. auto repair swansea il | searches/mo 2,500 (est) | CPC $4.35 | value $11,000 | Google Ads equiv $600/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-swansea-il/
+9. financial advisor swansea il | searches/mo 2,000 (est) | CPC $3.39 | value $6,800 | Google Ads equiv $560/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/financial-advisor-swansea-il/
+10. brake repair swansea il | searches/mo 1,100 (est) | CPC $4.35 | value $4,800 | Google Ads equiv $270/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/brake-repair-swansea-il/
+11. insurance agency swansea il | searches/mo 750 (est) | CPC $3.39 | value $2,500 | Google Ads equiv $210/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/insurance-agency-swansea-il/
+12. tax preparation swansea il | searches/mo 610 (est) | CPC $3.25 | value $2,000 | Google Ads equiv $170/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tax-preparation-swansea-il/
+13. auto body shop swansea il | searches/mo 500 (est) | CPC $4.35 | value $2,200 | Google Ads equiv $120/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/auto-body-shop-swansea-il/
+14. tax preparer swansea il | searches/mo 500 (est) | CPC $5.87 | value $2,900 | Google Ads equiv $170/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tax-preparer-swansea-il/
+15. insurance agents swansea il | searches/mo 410 (est) | CPC $3.39 | value $1,400 | Google Ads equiv $120/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/insurance-agents-swansea-il/
+
+## By CPC
+1. tax preparer swansea il | searches/mo 500 (est) | CPC $5.87 | value $2,900 | Google Ads equiv $170/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tax-preparer-swansea-il/
+2. haircut swansea il | searches/mo 3,000 (est) | CPC $4.62 | value $14,000 | Google Ads equiv $790/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/haircut-swansea-il/
+3. auto body shop swansea il | searches/mo 500 (est) | CPC $4.35 | value $2,200 | Google Ads equiv $120/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/auto-body-shop-swansea-il/
+4. auto repair swansea il | searches/mo 2,500 (est) | CPC $4.35 | value $11,000 | Google Ads equiv $600/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-swansea-il/
+5. brake repair swansea il | searches/mo 1,100 (est) | CPC $4.35 | value $4,800 | Google Ads equiv $270/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/brake-repair-swansea-il/
+6. car wash swansea il | searches/mo 15,000 (est) | CPC $4.35 | value $65,000 | Google Ads equiv $3,600/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/car-wash-swansea-il/
+7. mechanic swansea il | searches/mo 5,500 (est) | CPC $4.35 | value $24,000 | Google Ads equiv $1,300/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/mechanic-swansea-il/
+8. oil change swansea il | searches/mo 15,000 (est) | CPC $4.35 | value $65,000 | Google Ads equiv $3,600/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/oil-change-swansea-il/
+9. tire shop swansea il | searches/mo 4,500 (est) | CPC $4.35 | value $20,000 | Google Ads equiv $1,100/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tire-shop-swansea-il/
+10. gift shop swansea il | searches/mo 150 (est) | CPC $4.14 | value $620 | Google Ads equiv $55.00/mo | our featured min $10/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/gift-shop-swansea-il/
+11. jewelry store swansea il | searches/mo 1,200 (est) | CPC $4.14 | value $5,000 | Google Ads equiv $440/mo | our featured min $10/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/jewelry-store-swansea-il/
+12. pet store swansea il | searches/mo 1,200 (est) | CPC $4.14 | value $5,000 | Google Ads equiv $440/mo | our featured min $10/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/pet-store-swansea-il/
+13. financial advisor swansea il | searches/mo 2,000 (est) | CPC $3.39 | value $6,800 | Google Ads equiv $560/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/financial-advisor-swansea-il/
+14. insurance agency swansea il | searches/mo 750 (est) | CPC $3.39 | value $2,500 | Google Ads equiv $210/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/insurance-agency-swansea-il/
+15. insurance agent swansea il | searches/mo 330 (est) | CPC $3.39 | value $1,100 | Google Ads equiv $93.00/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/insurance-agent-swansea-il/
+
+## By value (searches x CPC)
+1. car wash swansea il | searches/mo 15,000 (est) | CPC $4.35 | value $65,000 | Google Ads equiv $3,600/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/car-wash-swansea-il/
+2. oil change swansea il | searches/mo 15,000 (est) | CPC $4.35 | value $65,000 | Google Ads equiv $3,600/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/oil-change-swansea-il/
+3. mechanic swansea il | searches/mo 5,500 (est) | CPC $4.35 | value $24,000 | Google Ads equiv $1,300/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/mechanic-swansea-il/
+4. tire shop swansea il | searches/mo 4,500 (est) | CPC $4.35 | value $20,000 | Google Ads equiv $1,100/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tire-shop-swansea-il/
+5. haircut swansea il | searches/mo 3,000 (est) | CPC $4.62 | value $14,000 | Google Ads equiv $790/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/haircut-swansea-il/
+6. auto repair swansea il | searches/mo 2,500 (est) | CPC $4.35 | value $11,000 | Google Ads equiv $600/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-swansea-il/
+7. financial advisor swansea il | searches/mo 2,000 (est) | CPC $3.39 | value $6,800 | Google Ads equiv $560/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/financial-advisor-swansea-il/
+8. hair salon swansea il | searches/mo 12,000 (est) | CPC $0.55 | value $6,600 | Google Ads equiv $380/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-swansea-il/
+9. nail salon swansea il | searches/mo 8,200 (est) | CPC $0.61 | value $5,000 | Google Ads equiv $290/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/nail-salon-swansea-il/
+10. brake repair swansea il | searches/mo 1,100 (est) | CPC $4.35 | value $4,800 | Google Ads equiv $270/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/brake-repair-swansea-il/
+11. tax preparer swansea il | searches/mo 500 (est) | CPC $5.87 | value $2,900 | Google Ads equiv $170/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tax-preparer-swansea-il/
+12. insurance agency swansea il | searches/mo 750 (est) | CPC $3.39 | value $2,500 | Google Ads equiv $210/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/insurance-agency-swansea-il/
+13. auto body shop swansea il | searches/mo 500 (est) | CPC $4.35 | value $2,200 | Google Ads equiv $120/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/auto-body-shop-swansea-il/
+14. tax preparation swansea il | searches/mo 610 (est) | CPC $3.25 | value $2,000 | Google Ads equiv $170/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tax-preparation-swansea-il/
+15. insurance agents swansea il | searches/mo 410 (est) | CPC $3.39 | value $1,400 | Google Ads equiv $120/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/insurance-agents-swansea-il/
+
+All market data: https://registry-edge.dingalinged.workers.dev/market/ | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html

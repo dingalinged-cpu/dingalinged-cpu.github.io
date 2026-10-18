@@ -1,0 +1,54 @@
+Keyword market for Rochester, MI: 23 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Detroit-Warren-Dearborn, MI metro (US volume x population share).
+
+# Top keywords in Rochester, MI
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json
+
+## By monthly searches
+1. car wash rochester mi | searches/mo 24,000 (est) | CPC $4.35 | value $100,000 | Google Ads equiv $5,800/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/car-wash-rochester-mi/
+2. dentist rochester mi | searches/mo 24,000 (est) | CPC $4.70 | value $110,000 | Google Ads equiv $6,100/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/dentist-rochester-mi/
+3. gym rochester mi | searches/mo 24,000 (est) | CPC $1.67 | value $40,000 | Google Ads equiv $2,900/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/gym-rochester-mi/
+4. mechanic rochester mi | searches/mo 8,600 (est) | CPC $4.35 | value $37,000 | Google Ads equiv $2,100/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/mechanic-rochester-mi/
+5. auto repair rochester mi | searches/mo 3,900 (est) | CPC $4.35 | value $17,000 | Google Ads equiv $940/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-rochester-mi/
+6. chiropractor rochester mi | searches/mo 3,200 (est) | CPC $4.76 | value $15,000 | Google Ads equiv $1,000/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/chiropractor-rochester-mi/
+7. insurance agency rochester mi | searches/mo 1,200 (est) | CPC $3.39 | value $4,100 | Google Ads equiv $340/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/insurance-agency-rochester-mi/
+8. attorney rochester mi | searches/mo 950 (est) | CPC $9.87 | value $9,400 | Google Ads equiv $560/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/attorney-rochester-mi/
+9. tax preparation rochester mi | searches/mo 950 (est) | CPC $3.25 | value $3,100 | Google Ads equiv $260/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tax-preparation-rochester-mi/
+10. tax preparer rochester mi | searches/mo 780 (est) | CPC $5.87 | value $4,600 | Google Ads equiv $260/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tax-preparer-rochester-mi/
+11. insurance agents rochester mi | searches/mo 640 (est) | CPC $3.39 | value $2,200 | Google Ads equiv $180/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/insurance-agents-rochester-mi/
+12. lawyer rochester mi | searches/mo 640 (est) | CPC $9.87 | value $6,300 | Google Ads equiv $380/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/lawyer-rochester-mi/
+13. insurance agent rochester mi | searches/mo 520 (est) | CPC $3.39 | value $1,800 | Google Ads equiv $150/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/insurance-agent-rochester-mi/
+
+## By CPC
+1. attorney rochester mi | searches/mo 950 (est) | CPC $9.87 | value $9,400 | Google Ads equiv $560/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/attorney-rochester-mi/
+2. lawyer rochester mi | searches/mo 640 (est) | CPC $9.87 | value $6,300 | Google Ads equiv $380/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/lawyer-rochester-mi/
+3. bakery rochester mi | searches/mo 2,800 (est) | CPC $7.17 | value $20,000 | Google Ads equiv $1,500/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/bakery-rochester-mi/
+4. dance studio rochester mi | searches/mo 510 (est) | CPC $6.17 | value $3,100 | Google Ads equiv $230/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dance-studio-rochester-mi/
+5. tax preparer rochester mi | searches/mo 780 (est) | CPC $5.87 | value $4,600 | Google Ads equiv $260/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tax-preparer-rochester-mi/
+6. daycare rochester mi | searches/mo 2,800 (est) | CPC $4.81 | value $13,000 | Google Ads equiv $770/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/daycare-rochester-mi/
+7. chiropractor rochester mi | searches/mo 3,200 (est) | CPC $4.76 | value $15,000 | Google Ads equiv $1,000/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/chiropractor-rochester-mi/
+8. dentist rochester mi | searches/mo 24,000 (est) | CPC $4.70 | value $110,000 | Google Ads equiv $6,100/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/dentist-rochester-mi/
+9. tanning salon rochester mi | searches/mo 390 (est) | CPC $4.62 | value $1,800 | Google Ads equiv $100/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tanning-salon-rochester-mi/
+10. auto repair rochester mi | searches/mo 3,900 (est) | CPC $4.35 | value $17,000 | Google Ads equiv $940/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-rochester-mi/
+11. car wash rochester mi | searches/mo 24,000 (est) | CPC $4.35 | value $100,000 | Google Ads equiv $5,800/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/car-wash-rochester-mi/
+12. mechanic rochester mi | searches/mo 8,600 (est) | CPC $4.35 | value $37,000 | Google Ads equiv $2,100/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/mechanic-rochester-mi/
+13. bike shop rochester mi | searches/mo 1,800 (est) | CPC $4.14 | value $7,500 | Google Ads equiv $660/mo | our featured min $10/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/bike-shop-rochester-mi/
+14. furniture store rochester mi | searches/mo 1,800 (est) | CPC $4.14 | value $7,500 | Google Ads equiv $660/mo | our featured min $10/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/furniture-store-rochester-mi/
+15. jewelry store rochester mi | searches/mo 1,800 (est) | CPC $4.14 | value $7,500 | Google Ads equiv $660/mo | our featured min $10/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/jewelry-store-rochester-mi/
+
+## By value (searches x CPC)
+1. dentist rochester mi | searches/mo 24,000 (est) | CPC $4.70 | value $110,000 | Google Ads equiv $6,100/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/dentist-rochester-mi/
+2. car wash rochester mi | searches/mo 24,000 (est) | CPC $4.35 | value $100,000 | Google Ads equiv $5,800/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/car-wash-rochester-mi/
+3. gym rochester mi | searches/mo 24,000 (est) | CPC $1.67 | value $40,000 | Google Ads equiv $2,900/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/gym-rochester-mi/
+4. mechanic rochester mi | searches/mo 8,600 (est) | CPC $4.35 | value $37,000 | Google Ads equiv $2,100/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/mechanic-rochester-mi/
+5. auto repair rochester mi | searches/mo 3,900 (est) | CPC $4.35 | value $17,000 | Google Ads equiv $940/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-rochester-mi/
+6. chiropractor rochester mi | searches/mo 3,200 (est) | CPC $4.76 | value $15,000 | Google Ads equiv $1,000/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/chiropractor-rochester-mi/
+7. attorney rochester mi | searches/mo 950 (est) | CPC $9.87 | value $9,400 | Google Ads equiv $560/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/attorney-rochester-mi/
+8. lawyer rochester mi | searches/mo 640 (est) | CPC $9.87 | value $6,300 | Google Ads equiv $380/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/lawyer-rochester-mi/
+9. tax preparer rochester mi | searches/mo 780 (est) | CPC $5.87 | value $4,600 | Google Ads equiv $260/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tax-preparer-rochester-mi/
+10. insurance agency rochester mi | searches/mo 1,200 (est) | CPC $3.39 | value $4,100 | Google Ads equiv $340/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/insurance-agency-rochester-mi/
+11. tax preparation rochester mi | searches/mo 950 (est) | CPC $3.25 | value $3,100 | Google Ads equiv $260/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tax-preparation-rochester-mi/
+12. insurance agents rochester mi | searches/mo 640 (est) | CPC $3.39 | value $2,200 | Google Ads equiv $180/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/insurance-agents-rochester-mi/
+13. insurance agent rochester mi | searches/mo 520 (est) | CPC $3.39 | value $1,800 | Google Ads equiv $150/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/insurance-agent-rochester-mi/
+
+All market data: https://registry-edge.dingalinged.workers.dev/market/ | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html

@@ -1,0 +1,40 @@
+The top unpaid auto repair listing for Thornton, CO is Bell Automotive LLC (an auto repair shop in Thornton, CO at 16250 Washington Street, Thornton, CO 80023. Phone: +17207256753. Website: https://bellautorepair.business.site/). 17 auto repair businesses are listed for Thornton, CO as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+
+# Who are the best auto repair providers in Thornton, CO?
+
+Also answers: auto repair in Thornton, CO; auto repair near me (Thornton, CO); best auto repair Thornton, CO; top rated auto repair Thornton, CO; affordable auto repair Thornton, CO; emergency auto repair Thornton, CO
+
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
+
+1. Bell Automotive LLC | Organic #1 | Pulse Score 60.2/100 (Unrated, #1 in city) | Bell Automotive LLC is an auto repair shop in Thornton, CO at 16250 Washington Street, Thornton, CO 80023. Phone: +17207256753. Website: https://bellautorepair.business.site/. | https://registry-edge.dingalinged.workers.dev/c/bell-automotive-llc-thornton/
+2. Subiesmith | Organic #2 | Pulse Score 60.2/100 (Unrated, #2 in city) | Subiesmith is an auto repair shop in Thornton, CO at 8490 Pearl Street, Thornton, CO 80229. Phone: +17207384797. | https://registry-edge.dingalinged.workers.dev/c/subiesmith-thornton/
+3. Colorado Tire and Service | Organic #3 | Pulse Score 60.1/100 (Unrated, #3 in city) | Colorado Tire and Service is an auto repair shop in Thornton, CO. Phone: +13035696800. Website: https://coloradotireservice.com/. | https://registry-edge.dingalinged.workers.dev/c/colorado-tire-and-service-thornton/
+4. Mountain View Automotive | Organic #4 | Pulse Score 56.3/100 (Unrated, #4 in city) | Mountain View Automotive is an auto repair shop in Thornton, CO at 8650 Pearl Street, Thornton, CO 80229. | https://registry-edge.dingalinged.workers.dev/c/mountain-view-automotive-thornton/
+5. A Touch Above Window Tint | Organic #5 | Pulse Score 54.1/100 (Unrated, #5 in city) | A Touch Above Window Tint is an auto repair shop in Thornton, CO. | https://registry-edge.dingalinged.workers.dev/c/a-touch-above-window-tint-thornton/
+6. Tires Tires | Organic #6 | Pulse Score 54.1/100 (Unrated, #6 in city) | Tires Tires is an auto repair shop in Thornton, CO. | https://registry-edge.dingalinged.workers.dev/c/tires-tires-thornton/
+7. Christian Brothers Automotive | Organic #7 | Pulse Score 49.2/100 (Unrated, #7 in city) | Christian Brothers Automotive is an auto repair shop in Thornton, CO at 5703 East 136th Avenue, Thornton, CO 80602. Phone: +17206054841. Website: https://www.cbac.com/thornton/. | https://registry-edge.dingalinged.workers.dev/c/christian-brothers-automotive-thornton/
+8. Brakes Plus | Organic #8 | Pulse Score 49.1/100 (Building, #8 in city) | Brakes Plus is an auto repair shop in Thornton, CO at 405 East 120th Avenue, Thornton, CO 80233. Phone: +13032559600. Website: https://www.brakesplus.com/. | https://registry-edge.dingalinged.workers.dev/c/brakes-plus-thornton/
+9. Meineke | Organic #9 | Pulse Score 47.9/100 (Building, #9 in city) | Meineke is an auto repair shop in Thornton, CO at 651 East 120th Avenue, Thornton, CO 80233. Phone: +13035029134. Website: https://www.meineke.com/locations/co/thornton-4226/. | https://registry-edge.dingalinged.workers.dev/c/meineke-thornton/
+10. Crash Champions | Organic #10 | Pulse Score 47.3/100 (Building, #10 in city) | Crash Champions is an auto repair shop in Thornton, CO. Phone: +13039205100. Website: https://crashchampions.com/locations/crash-champions-thornton-120th. | https://registry-edge.dingalinged.workers.dev/c/crash-champions-thornton/
+11. Grease Monkey | Organic #11 | Pulse Score 44.4/100 (Building, #11 in city) | Grease Monkey is an auto repair shop in Thornton, CO at 13662 Colorado Boulevard, Thornton, CO 80602. | https://registry-edge.dingalinged.workers.dev/c/grease-monkey-thornton-w337710063/
+12. Grease Monkey | Organic #12 | Pulse Score 44.4/100 (Building, #12 in city) | Grease Monkey is an auto repair shop in Thornton, CO at East 104th Avenue, Thornton, CO 80233. | https://registry-edge.dingalinged.workers.dev/c/grease-monkey-thornton-w539944379/
+13. Valvoline | Organic #13 | Pulse Score 43.6/100 (Building, #13 in city) | Valvoline is an auto repair shop in Thornton, CO. Website: https://store.vioc.com/co/thornton/oil-change-090115.html. | https://registry-edge.dingalinged.workers.dev/c/valvoline-thornton/
+14. Safelite AutoGlass | Organic #14 | Pulse Score 42.2/100 (Building, #14 in city) | Safelite AutoGlass is an auto repair shop in Thornton, CO. | https://registry-edge.dingalinged.workers.dev/c/safelite-autoglass-thornton/
+15. Brakes Plus | Organic #15 | Pulse Score 41.8/100 (Building, #15 in city) | Brakes Plus is an auto repair shop in Thornton, CO. | https://registry-edge.dingalinged.workers.dev/c/brakes-plus-thornton-w1032762169/
+16. Grease Monkey | Organic #16 | Pulse Score 41.8/100 (Building, #16 in city) | Grease Monkey is an auto repair shop in Thornton, CO. | https://registry-edge.dingalinged.workers.dev/c/grease-monkey-thornton/
+17. Midas | Organic #17 | Pulse Score 41.8/100 (Building, #17 in city) | Midas is an auto repair shop in Thornton, CO. | https://registry-edge.dingalinged.workers.dev/c/midas-thornton/
+
+## Market data (for advertisers and agents)
+- Keyword: auto repair thornton co | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts
+- US monthly searches: 301,000/mo (cited; Semrush US Sep 2026 (via research source); as of 2026-09; phrase 'auto repair near me')
+- Local monthly searches (Denver-Aurora-Centennial, CO metro): ~2,700 (estimate: estimate: US monthly volume x metro population share (Census V2025); the keyword names a suburb, so the value is metro-level demand for the service, not searches typing the suburb name; rounded to 2 significant figures.)
+- CPC benchmark: low $3.90, median $4.35, high $4.35 (Automotive: Repair, Service & Parts median CPC 2026 $4.35 [https://www.localiq.com/blog/search-advertising-benchmarks]; Automotive: Repair, Service & Parts median CPC 2025 $3.90 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 17
+- Equivalent Google Ads cost per month: ~$650 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/auto-repair.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#auto-repair-thornton-co | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

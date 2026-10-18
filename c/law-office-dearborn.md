@@ -1,0 +1,24 @@
+Law Office is a lawyer in Dearborn, MI at 14940 Michigan Avenue, Dearborn, MI 48126.
+
+# Law Office
+
+- Category: lawyer
+- Services: lawyer, attorney
+- Address: 14940 Michigan Avenue, Dearborn, MI 48126
+- City: Dearborn
+- State: MI
+- ZIP: 48126
+- Coordinates: 42.3184525, -83.1895564
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42.6/100 — Unrated (not enough evidence yet) — top 100% of lawyers in Detroit, MI, #7 of 7 lawyers in Dearborn (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.3, Trust 43.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/law-office-dearborn/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/law-office-dearborn.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1051718444 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

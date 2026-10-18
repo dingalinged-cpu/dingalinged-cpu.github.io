@@ -1,0 +1,58 @@
+Keyword market for Longmont, CO: 76 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Denver-Aurora-Centennial, CO metro (US volume x population share).
+
+# Top keywords in Longmont, CO
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json
+
+## By monthly searches
+1. massage longmont co | searches/mo 45,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $210,000 | Google Ads equiv $12,000/mo | our featured min $50/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/massage-longmont-co/
+2. urgent care longmont co | searches/mo 25,000 (est) | CPC $4.76 | value $120,000 | Google Ads equiv $8,000/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/urgent-care-longmont-co/
+3. car wash longmont co | searches/mo 17,000 (est) | CPC $4.35 | value $74,000 | Google Ads equiv $4,100/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/car-wash-longmont-co/
+4. dentist longmont co | searches/mo 17,000 (est) | CPC $4.70 | value $80,000 | Google Ads equiv $4,300/mo | our featured min $100/mo | registry competitors 10 | https://registry-edge.dingalinged.workers.dev/k/dentist-longmont-co/
+5. gym longmont co | searches/mo 17,000 (est) | CPC $1.67 | value $28,000 | Google Ads equiv $2,000/mo | our featured min $50/mo | registry competitors 8 | https://registry-edge.dingalinged.workers.dev/k/gym-longmont-co/
+6. oil change longmont co | searches/mo 17,000 (est) | CPC $4.35 | value $74,000 | Google Ads equiv $4,100/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/oil-change-longmont-co/
+7. hair salon longmont co | searches/mo 14,000 (est) | CPC $0.55 | value $7,700 | Google Ads equiv $440/mo | our featured min $50/mo | registry competitors 10 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-longmont-co/
+8. nail salon longmont co | searches/mo 9,000 (est) | CPC $0.61 | value $5,500 | Google Ads equiv $310/mo | our featured min $50/mo | registry competitors 5 | https://registry-edge.dingalinged.workers.dev/k/nail-salon-longmont-co/
+9. plumber longmont co | searches/mo 7,400 (est) | CPC $12.04 | value $89,000 | Google Ads equiv $5,700/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/plumber-longmont-co/
+10. mechanic longmont co | searches/mo 6,100 (est) | CPC $4.35 | value $27,000 | Google Ads equiv $1,500/mo | our featured min $20/mo | registry competitors 16 | https://registry-edge.dingalinged.workers.dev/k/mechanic-longmont-co/
+11. tire shop longmont co | searches/mo 5,000 (est) | CPC $4.35 | value $22,000 | Google Ads equiv $1,200/mo | our featured min $20/mo | registry competitors 6 | https://registry-edge.dingalinged.workers.dev/k/tire-shop-longmont-co/
+12. vet longmont co | searches/mo 5,000 (est) | CPC $4.06 | value $20,000 | Google Ads equiv $1,300/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/vet-longmont-co/
+13. dog groomer longmont co | searches/mo 4,100 (est) | CPC $4.06 | value $17,000 | Google Ads equiv $1,100/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/dog-groomer-longmont-co/
+14. haircut longmont co | searches/mo 3,300 (est) | CPC $4.62 | value $15,000 | Google Ads equiv $870/mo | our featured min $50/mo | registry competitors 10 | https://registry-edge.dingalinged.workers.dev/k/haircut-longmont-co/
+15. auto repair longmont co | searches/mo 2,700 (est) | CPC $4.35 | value $12,000 | Google Ads equiv $650/mo | our featured min $20/mo | registry competitors 16 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-longmont-co/
+
+## By CPC
+1. hvac repair longmont co | searches/mo 670 (est) | CPC $17.76 | value $12,000 | Google Ads equiv $760/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/hvac-repair-longmont-co/
+2. plumbing services longmont co | searches/mo 450 (est) | CPC $13.90 | value $6,300 | Google Ads equiv $400/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/plumbing-services-longmont-co/
+3. painters longmont co | searches/mo 550 (est) | CPC $13.74 | value $7,600 | Google Ads equiv $480/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/painters-longmont-co/
+4. moving company longmont co | searches/mo 1,800 (est) | CPC $12.41 | value $22,000 | Google Ads equiv $1,400/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/moving-company-longmont-co/
+5. electrician longmont co | searches/mo 2,200 (est) | CPC $12.18 | value $27,000 | Google Ads equiv $1,700/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/electrician-longmont-co/
+6. plumber longmont co | searches/mo 7,400 (est) | CPC $12.04 | value $89,000 | Google Ads equiv $5,700/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/plumber-longmont-co/
+7. roofing contractor longmont co | searches/mo 1,200 (est) | CPC $11.79 | value $14,000 | Google Ads equiv $900/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-longmont-co/
+8. roofer longmont co | searches/mo 450 (est) | CPC $10.70 | value $4,800 | Google Ads equiv $310/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/roofer-longmont-co/
+9. attorney longmont co | searches/mo 670 (est) | CPC $9.87 | value $6,600 | Google Ads equiv $390/mo | our featured min $100/mo | registry competitors 6 | https://registry-edge.dingalinged.workers.dev/k/attorney-longmont-co/
+10. lawyer longmont co | searches/mo 450 (est) | CPC $9.87 | value $4,400 | Google Ads equiv $270/mo | our featured min $100/mo | registry competitors 6 | https://registry-edge.dingalinged.workers.dev/k/lawyer-longmont-co/
+11. architect longmont co | searches/mo 360 (est) | CPC $8.33 | value $3,000 | Google Ads equiv $190/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/architect-longmont-co/
+12. flooring companies longmont co | searches/mo 160 (est) | CPC $8.33 | value $1,300 | Google Ads equiv $85.00/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/flooring-companies-longmont-co/
+13. heating and air longmont co | searches/mo 33.00 (est) | CPC $8.33 | value $270 | Google Ads equiv $18.00/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/heating-and-air-longmont-co/
+14. plumbers longmont co | searches/mo 33.00 (est) | CPC $8.33 | value $270 | Google Ads equiv $18.00/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/plumbers-longmont-co/
+15. storage units longmont co | searches/mo 2,000 (est) | CPC $8.33 | value $17,000 | Google Ads equiv $1,100/mo | our featured min $50/mo | registry competitors 8 | https://registry-edge.dingalinged.workers.dev/k/storage-units-longmont-co/
+
+## By value (searches x CPC)
+1. massage longmont co | searches/mo 45,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $210,000 | Google Ads equiv $12,000/mo | our featured min $50/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/massage-longmont-co/
+2. urgent care longmont co | searches/mo 25,000 (est) | CPC $4.76 | value $120,000 | Google Ads equiv $8,000/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/urgent-care-longmont-co/
+3. plumber longmont co | searches/mo 7,400 (est) | CPC $12.04 | value $89,000 | Google Ads equiv $5,700/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/plumber-longmont-co/
+4. dentist longmont co | searches/mo 17,000 (est) | CPC $4.70 | value $80,000 | Google Ads equiv $4,300/mo | our featured min $100/mo | registry competitors 10 | https://registry-edge.dingalinged.workers.dev/k/dentist-longmont-co/
+5. car wash longmont co | searches/mo 17,000 (est) | CPC $4.35 | value $74,000 | Google Ads equiv $4,100/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/car-wash-longmont-co/
+6. oil change longmont co | searches/mo 17,000 (est) | CPC $4.35 | value $74,000 | Google Ads equiv $4,100/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/oil-change-longmont-co/
+7. gym longmont co | searches/mo 17,000 (est) | CPC $1.67 | value $28,000 | Google Ads equiv $2,000/mo | our featured min $50/mo | registry competitors 8 | https://registry-edge.dingalinged.workers.dev/k/gym-longmont-co/
+8. electrician longmont co | searches/mo 2,200 (est) | CPC $12.18 | value $27,000 | Google Ads equiv $1,700/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/electrician-longmont-co/
+9. mechanic longmont co | searches/mo 6,100 (est) | CPC $4.35 | value $27,000 | Google Ads equiv $1,500/mo | our featured min $20/mo | registry competitors 16 | https://registry-edge.dingalinged.workers.dev/k/mechanic-longmont-co/
+10. movers longmont co | searches/mo 2,700 (est) | CPC $8.23 | value $22,000 | Google Ads equiv $1,400/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/movers-longmont-co/
+11. moving company longmont co | searches/mo 1,800 (est) | CPC $12.41 | value $22,000 | Google Ads equiv $1,400/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/moving-company-longmont-co/
+12. tire shop longmont co | searches/mo 5,000 (est) | CPC $4.35 | value $22,000 | Google Ads equiv $1,200/mo | our featured min $20/mo | registry competitors 6 | https://registry-edge.dingalinged.workers.dev/k/tire-shop-longmont-co/
+13. vet longmont co | searches/mo 5,000 (est) | CPC $4.06 | value $20,000 | Google Ads equiv $1,300/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/vet-longmont-co/
+14. dog groomer longmont co | searches/mo 4,100 (est) | CPC $4.06 | value $17,000 | Google Ads equiv $1,100/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/dog-groomer-longmont-co/
+15. pilates longmont co | searches/mo 2,700 (est) | CPC $6.17 | value $17,000 | Google Ads equiv $1,200/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/pilates-longmont-co/
+
+All market data: https://registry-edge.dingalinged.workers.dev/market/ | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html

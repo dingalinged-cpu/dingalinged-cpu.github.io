@@ -1,0 +1,58 @@
+Keyword market for Trenton, MI: 43 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Detroit-Warren-Dearborn, MI metro (US volume x population share).
+
+# Top keywords in Trenton, MI
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json
+
+## By monthly searches
+1. massage trenton mi | searches/mo 64,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $300,000 | Google Ads equiv $17,000/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/massage-trenton-mi/
+2. car wash trenton mi | searches/mo 24,000 (est) | CPC $4.35 | value $100,000 | Google Ads equiv $5,800/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/car-wash-trenton-mi/
+3. dentist trenton mi | searches/mo 24,000 (est) | CPC $4.70 | value $110,000 | Google Ads equiv $6,100/mo | our featured min $100/mo | registry competitors 6 | https://registry-edge.dingalinged.workers.dev/k/dentist-trenton-mi/
+4. hair salon trenton mi | searches/mo 19,000 (est) | CPC $0.55 | value $10,000 | Google Ads equiv $600/mo | our featured min $50/mo | registry competitors 5 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-trenton-mi/
+5. nail salon trenton mi | searches/mo 13,000 (est) | CPC $0.61 | value $7,900 | Google Ads equiv $450/mo | our featured min $50/mo | registry competitors 7 | https://registry-edge.dingalinged.workers.dev/k/nail-salon-trenton-mi/
+6. mechanic trenton mi | searches/mo 8,600 (est) | CPC $4.35 | value $37,000 | Google Ads equiv $2,100/mo | our featured min $20/mo | registry competitors 7 | https://registry-edge.dingalinged.workers.dev/k/mechanic-trenton-mi/
+7. vet trenton mi | searches/mo 7,100 (est) | CPC $4.06 | value $29,000 | Google Ads equiv $1,900/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/vet-trenton-mi/
+8. dog groomer trenton mi | searches/mo 5,800 (est) | CPC $4.06 | value $24,000 | Google Ads equiv $1,500/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/dog-groomer-trenton-mi/
+9. haircut trenton mi | searches/mo 4,700 (est) | CPC $4.62 | value $22,000 | Google Ads equiv $1,200/mo | our featured min $50/mo | registry competitors 5 | https://registry-edge.dingalinged.workers.dev/k/haircut-trenton-mi/
+10. auto repair trenton mi | searches/mo 3,900 (est) | CPC $4.35 | value $17,000 | Google Ads equiv $940/mo | our featured min $20/mo | registry competitors 7 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-trenton-mi/
+11. chiropractor trenton mi | searches/mo 3,200 (est) | CPC $4.76 | value $15,000 | Google Ads equiv $1,000/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/chiropractor-trenton-mi/
+12. financial advisor trenton mi | searches/mo 3,200 (est) | CPC $3.39 | value $11,000 | Google Ads equiv $900/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/financial-advisor-trenton-mi/
+13. landscaping trenton mi | searches/mo 2,600 (est) | CPC $8.76 | value $23,000 | Google Ads equiv $1,500/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/landscaping-trenton-mi/
+14. real estate agent trenton mi | searches/mo 2,600 (est) | CPC $3.61 | value $9,400 | Google Ads equiv $780/mo | our featured min $50/mo | registry competitors 7 | https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-trenton-mi/
+15. insurance agency trenton mi | searches/mo 1,200 (est) | CPC $3.39 | value $4,100 | Google Ads equiv $340/mo | our featured min $100/mo | registry competitors 5 | https://registry-edge.dingalinged.workers.dev/k/insurance-agency-trenton-mi/
+
+## By CPC
+1. attorney trenton mi | searches/mo 950 (est) | CPC $9.87 | value $9,400 | Google Ads equiv $560/mo | our featured min $100/mo | registry competitors 7 | https://registry-edge.dingalinged.workers.dev/k/attorney-trenton-mi/
+2. lawyer trenton mi | searches/mo 640 (est) | CPC $9.87 | value $6,300 | Google Ads equiv $380/mo | our featured min $100/mo | registry competitors 7 | https://registry-edge.dingalinged.workers.dev/k/lawyer-trenton-mi/
+3. landscaping trenton mi | searches/mo 2,600 (est) | CPC $8.76 | value $23,000 | Google Ads equiv $1,500/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/landscaping-trenton-mi/
+4. storage units trenton mi | searches/mo 2,800 (est) | CPC $8.33 | value $23,000 | Google Ads equiv $1,500/mo | our featured min $50/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/storage-units-trenton-mi/
+5. bakery trenton mi | searches/mo 2,800 (est) | CPC $7.17 | value $20,000 | Google Ads equiv $1,500/mo | our featured min $20/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/bakery-trenton-mi/
+6. event venues trenton mi | searches/mo 2,800 (est) | CPC $7.17 | value $20,000 | Google Ads equiv $1,500/mo | our featured min $20/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/event-venues-trenton-mi/
+7. florist trenton mi | searches/mo 2,800 (est) | CPC $7.17 | value $20,000 | Google Ads equiv $1,500/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/florist-trenton-mi/
+8. martial arts trenton mi | searches/mo 3,900 (est) | CPC $6.17 | value $24,000 | Google Ads equiv $1,700/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/martial-arts-trenton-mi/
+9. accounting services trenton mi | searches/mo 160 (est) | CPC $5.87 | value $940 | Google Ads equiv $53.00/mo | our featured min $50/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/accounting-services-trenton-mi/
+10. staffing agency trenton mi | searches/mo 1,800 (est) | CPC $5.87 | value $11,000 | Google Ads equiv $600/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/staffing-agency-trenton-mi/
+11. accountant trenton mi | searches/mo 430 (est) | CPC $5.23 | value $2,200 | Google Ads equiv $130/mo | our featured min $50/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/accountant-trenton-mi/
+12. chiropractor trenton mi | searches/mo 3,200 (est) | CPC $4.76 | value $15,000 | Google Ads equiv $1,000/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/chiropractor-trenton-mi/
+13. eye doctor trenton mi | searches/mo 2,800 (est) | CPC $4.76 | value $13,000 | Google Ads equiv $900/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/eye-doctor-trenton-mi/
+14. physical therapy trenton mi | searches/mo 2,800 (est) | CPC $4.76 | value $13,000 | Google Ads equiv $900/mo | our featured min $50/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/physical-therapy-trenton-mi/
+15. podiatrist trenton mi | searches/mo 2,800 (est) | CPC $4.76 | value $13,000 | Google Ads equiv $900/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/podiatrist-trenton-mi/
+
+## By value (searches x CPC)
+1. massage trenton mi | searches/mo 64,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $300,000 | Google Ads equiv $17,000/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/massage-trenton-mi/
+2. dentist trenton mi | searches/mo 24,000 (est) | CPC $4.70 | value $110,000 | Google Ads equiv $6,100/mo | our featured min $100/mo | registry competitors 6 | https://registry-edge.dingalinged.workers.dev/k/dentist-trenton-mi/
+3. car wash trenton mi | searches/mo 24,000 (est) | CPC $4.35 | value $100,000 | Google Ads equiv $5,800/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/car-wash-trenton-mi/
+4. mechanic trenton mi | searches/mo 8,600 (est) | CPC $4.35 | value $37,000 | Google Ads equiv $2,100/mo | our featured min $20/mo | registry competitors 7 | https://registry-edge.dingalinged.workers.dev/k/mechanic-trenton-mi/
+5. vet trenton mi | searches/mo 7,100 (est) | CPC $4.06 | value $29,000 | Google Ads equiv $1,900/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/vet-trenton-mi/
+6. dog groomer trenton mi | searches/mo 5,800 (est) | CPC $4.06 | value $24,000 | Google Ads equiv $1,500/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/dog-groomer-trenton-mi/
+7. landscaping trenton mi | searches/mo 2,600 (est) | CPC $8.76 | value $23,000 | Google Ads equiv $1,500/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/landscaping-trenton-mi/
+8. haircut trenton mi | searches/mo 4,700 (est) | CPC $4.62 | value $22,000 | Google Ads equiv $1,200/mo | our featured min $50/mo | registry competitors 5 | https://registry-edge.dingalinged.workers.dev/k/haircut-trenton-mi/
+9. auto repair trenton mi | searches/mo 3,900 (est) | CPC $4.35 | value $17,000 | Google Ads equiv $940/mo | our featured min $20/mo | registry competitors 7 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-trenton-mi/
+10. chiropractor trenton mi | searches/mo 3,200 (est) | CPC $4.76 | value $15,000 | Google Ads equiv $1,000/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/chiropractor-trenton-mi/
+11. financial advisor trenton mi | searches/mo 3,200 (est) | CPC $3.39 | value $11,000 | Google Ads equiv $900/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/financial-advisor-trenton-mi/
+12. hair salon trenton mi | searches/mo 19,000 (est) | CPC $0.55 | value $10,000 | Google Ads equiv $600/mo | our featured min $50/mo | registry competitors 5 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-trenton-mi/
+13. attorney trenton mi | searches/mo 950 (est) | CPC $9.87 | value $9,400 | Google Ads equiv $560/mo | our featured min $100/mo | registry competitors 7 | https://registry-edge.dingalinged.workers.dev/k/attorney-trenton-mi/
+14. real estate agent trenton mi | searches/mo 2,600 (est) | CPC $3.61 | value $9,400 | Google Ads equiv $780/mo | our featured min $50/mo | registry competitors 7 | https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-trenton-mi/
+15. nail salon trenton mi | searches/mo 13,000 (est) | CPC $0.61 | value $7,900 | Google Ads equiv $450/mo | our featured min $50/mo | registry competitors 7 | https://registry-edge.dingalinged.workers.dev/k/nail-salon-trenton-mi/
+
+All market data: https://registry-edge.dingalinged.workers.dev/market/ | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html

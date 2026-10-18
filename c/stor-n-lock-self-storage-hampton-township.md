@@ -1,0 +1,24 @@
+Stor-N-Lock Self Storage is a self-storage facility in Hampton Township, PA. Phone: +14124878875.
+
+# Stor-N-Lock Self Storage
+
+- Category: storage units
+- Services: storage units
+- Address: Hampton Township, PA
+- City: Hampton Township
+- State: PA
+- ZIP: n/a
+- Coordinates: 40.595264, -79.9743033
+- Phone: +14124878875
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 58.2/100 — Unrated (not enough evidence yet) — top 28% of self-storage facilitys in Pittsburgh, PA, #1 of 2 self-storage facilitys in Hampton Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.4, Trust 52.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/stor-n-lock-self-storage-hampton-township/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/stor-n-lock-self-storage-hampton-township.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/3948065488 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

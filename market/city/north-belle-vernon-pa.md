@@ -1,0 +1,42 @@
+Keyword market for North Belle Vernon, PA: 13 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Pittsburgh, PA metro (US volume x population share).
+
+# Top keywords in North Belle Vernon, PA
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json
+
+## By monthly searches
+1. hair salon north belle vernon pa | searches/mo 11,000 (est) | CPC $0.55 | value $6,100 | Google Ads equiv $350/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-north-belle-vernon-pa/
+2. nail salon north belle vernon pa | searches/mo 7,100 (est) | CPC $0.61 | value $4,300 | Google Ads equiv $250/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/nail-salon-north-belle-vernon-pa/
+3. mechanic north belle vernon pa | searches/mo 4,800 (est) | CPC $4.35 | value $21,000 | Google Ads equiv $1,200/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/mechanic-north-belle-vernon-pa/
+4. haircut north belle vernon pa | searches/mo 2,600 (est) | CPC $4.62 | value $12,000 | Google Ads equiv $690/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/haircut-north-belle-vernon-pa/
+5. auto repair north belle vernon pa | searches/mo 2,100 (est) | CPC $4.35 | value $9,100 | Google Ads equiv $510/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-north-belle-vernon-pa/
+6. chiropractor north belle vernon pa | searches/mo 1,700 (est) | CPC $4.76 | value $8,100 | Google Ads equiv $540/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/chiropractor-north-belle-vernon-pa/
+7. attorney north belle vernon pa | searches/mo 520 (est) | CPC $9.87 | value $5,100 | Google Ads equiv $310/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/attorney-north-belle-vernon-pa/
+8. lawyer north belle vernon pa | searches/mo 350 (est) | CPC $9.87 | value $3,500 | Google Ads equiv $210/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/lawyer-north-belle-vernon-pa/
+
+## By CPC
+1. attorney north belle vernon pa | searches/mo 520 (est) | CPC $9.87 | value $5,100 | Google Ads equiv $310/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/attorney-north-belle-vernon-pa/
+2. lawyer north belle vernon pa | searches/mo 350 (est) | CPC $9.87 | value $3,500 | Google Ads equiv $210/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/lawyer-north-belle-vernon-pa/
+3. daycare north belle vernon pa | searches/mo 1,600 (est) | CPC $4.81 | value $7,700 | Google Ads equiv $440/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/daycare-north-belle-vernon-pa/
+4. chiropractor north belle vernon pa | searches/mo 1,700 (est) | CPC $4.76 | value $8,100 | Google Ads equiv $540/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/chiropractor-north-belle-vernon-pa/
+5. physical therapy north belle vernon pa | searches/mo 1,600 (est) | CPC $4.76 | value $7,600 | Google Ads equiv $510/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/physical-therapy-north-belle-vernon-pa/
+6. haircut north belle vernon pa | searches/mo 2,600 (est) | CPC $4.62 | value $12,000 | Google Ads equiv $690/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/haircut-north-belle-vernon-pa/
+7. auto repair north belle vernon pa | searches/mo 2,100 (est) | CPC $4.35 | value $9,100 | Google Ads equiv $510/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-north-belle-vernon-pa/
+8. mechanic north belle vernon pa | searches/mo 4,800 (est) | CPC $4.35 | value $21,000 | Google Ads equiv $1,200/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/mechanic-north-belle-vernon-pa/
+9. thrift store north belle vernon pa | searches/mo 990 (est) | CPC $4.14 | value $4,100 | Google Ads equiv $370/mo | our featured min $10/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/thrift-store-north-belle-vernon-pa/
+10. used cars for sale north belle vernon pa | searches/mo 990 (est) | CPC $4.14 | value $4,100 | Google Ads equiv $370/mo | our featured min $10/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/used-cars-for-sale-north-belle-vernon-pa/
+11. funeral home north belle vernon pa | searches/mo 1,600 (est) | CPC $3.39 | value $5,400 | Google Ads equiv $450/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/funeral-home-north-belle-vernon-pa/
+12. nail salon north belle vernon pa | searches/mo 7,100 (est) | CPC $0.61 | value $4,300 | Google Ads equiv $250/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/nail-salon-north-belle-vernon-pa/
+13. hair salon north belle vernon pa | searches/mo 11,000 (est) | CPC $0.55 | value $6,100 | Google Ads equiv $350/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-north-belle-vernon-pa/
+
+## By value (searches x CPC)
+1. mechanic north belle vernon pa | searches/mo 4,800 (est) | CPC $4.35 | value $21,000 | Google Ads equiv $1,200/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/mechanic-north-belle-vernon-pa/
+2. haircut north belle vernon pa | searches/mo 2,600 (est) | CPC $4.62 | value $12,000 | Google Ads equiv $690/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/haircut-north-belle-vernon-pa/
+3. auto repair north belle vernon pa | searches/mo 2,100 (est) | CPC $4.35 | value $9,100 | Google Ads equiv $510/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-north-belle-vernon-pa/
+4. chiropractor north belle vernon pa | searches/mo 1,700 (est) | CPC $4.76 | value $8,100 | Google Ads equiv $540/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/chiropractor-north-belle-vernon-pa/
+5. hair salon north belle vernon pa | searches/mo 11,000 (est) | CPC $0.55 | value $6,100 | Google Ads equiv $350/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-north-belle-vernon-pa/
+6. attorney north belle vernon pa | searches/mo 520 (est) | CPC $9.87 | value $5,100 | Google Ads equiv $310/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/attorney-north-belle-vernon-pa/
+7. nail salon north belle vernon pa | searches/mo 7,100 (est) | CPC $0.61 | value $4,300 | Google Ads equiv $250/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/nail-salon-north-belle-vernon-pa/
+8. lawyer north belle vernon pa | searches/mo 350 (est) | CPC $9.87 | value $3,500 | Google Ads equiv $210/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/lawyer-north-belle-vernon-pa/
+
+All market data: https://registry-edge.dingalinged.workers.dev/market/ | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html

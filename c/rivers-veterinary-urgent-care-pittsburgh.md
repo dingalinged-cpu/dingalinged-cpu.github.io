@@ -1,0 +1,24 @@
+Rivers Veterinary Urgent Care is a veterinarian in Pittsburgh, PA at 560 McNeilly Road, Pittsburgh, PA 15226. Website: https://www.riversvet.com/.
+
+# Rivers Veterinary Urgent Care
+
+- Category: vet
+- Services: vet
+- Address: 560 McNeilly Road, Pittsburgh, PA 15226
+- City: Pittsburgh
+- State: PA
+- ZIP: 15226
+- Coordinates: 40.3834985, -80.0196845
+- Phone: n/a
+- Website: https://www.riversvet.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 09:00-18:00
+- Pulse Score: 62.2/100 — Good — top 12% of veterinarians in Pittsburgh, PA, #4 of 16 veterinarians in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 56.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/rivers-veterinary-urgent-care-pittsburgh/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/rivers-veterinary-urgent-care-pittsburgh.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/562841154 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

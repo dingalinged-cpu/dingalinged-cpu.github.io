@@ -1,0 +1,31 @@
+The top unpaid insurance agent listing for Farmington Hills, MI is Conner Insurance Group (an insurance agent in Farmington Hills, MI at 31600 West 13 Mile Road #130, Farmington Hills, MI 48334. Phone: +12484279400. Website: https://connerinsgrp.com/). 8 insurance agent businesses are listed for Farmington Hills, MI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+
+# Who are the best insurance agent providers in Farmington Hills, MI?
+
+Also answers: insurance agent in Farmington Hills, MI; insurance agent near me (Farmington Hills, MI); best insurance agent Farmington Hills, MI; top rated insurance agent Farmington Hills, MI; affordable insurance agent Farmington Hills, MI; emergency insurance agent Farmington Hills, MI
+
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
+
+1. Conner Insurance Group | Organic #1 | Pulse Score 63.9/100 (Unrated, #1 in city) | Conner Insurance Group is an insurance agent in Farmington Hills, MI at 31600 West 13 Mile Road #130, Farmington Hills, MI 48334. Phone: +12484279400. Website: https://connerinsgrp.com/. | https://registry-edge.dingalinged.workers.dev/c/conner-insurance-group-farmington-hills/
+2. HealthMarkets Insurance Agency | Organic #2 | Pulse Score 59.5/100 (Unrated, #2 in city) | HealthMarkets Insurance Agency is an insurance agent in Farmington Hills, MI at 33302 West 12 Mile Road, Farmington Hills, MI. Phone: +12483272123. Website: https://agents.healthmarkets.com/detroit. | https://registry-edge.dingalinged.workers.dev/c/healthmarkets-insurance-agency-farmington-hills/
+3. State Farm Derryl W. Mitchell | Organic #3 | Pulse Score 59.5/100 (Unrated, #3 in city) | State Farm Derryl W. Mitchell is an insurance agent in Farmington Hills, MI at 31122 Haggerty Road, Farmington Hills, MI. Phone: +12487882233. Website: https://www.statefarm.com/agent/US/MI/Farmingtn-hls/Derryl-Mitchell-L0KJH1YS000. | https://registry-edge.dingalinged.workers.dev/c/state-farm-derryl-w-mitchell-farmington-hills/
+4. MEEMIC Insurance House of Michigan | Organic #4 | Pulse Score 58.1/100 (Unrated, #4 in city) | MEEMIC Insurance House of Michigan is an insurance agent in Farmington Hills, MI at 36500 West 12 Mile Road, Farmington Hills, MI. Phone: +12483241000. | https://registry-edge.dingalinged.workers.dev/c/meemic-insurance-house-of-michigan-farmington-hills/
+5. State Farm John O'Leary | Organic #5 | Pulse Score 45.7/100 (Building, #5 in city) | State Farm John O'Leary is an insurance agent in Farmington Hills, MI at 39221 Grand River Avenue, Farmington Hills, MI. Website: https://www.johnolearyinsurance.com/. | https://registry-edge.dingalinged.workers.dev/c/state-farm-john-oleary-farmington-hills/
+6. Look! Insurance | Organic #6 | Pulse Score 42.7/100 (Unrated, #6 in city) | Look! Insurance is an insurance agent in Farmington Hills, MI. | https://registry-edge.dingalinged.workers.dev/c/look-insurance-farmington-hills/
+7. Allstate | Organic #7 | Pulse Score 41.9/100 (Building, #7 in city) | Allstate is an insurance agent in Farmington Hills, MI. | https://registry-edge.dingalinged.workers.dev/c/allstate-farmington-hills/
+8. GEICO | Organic #8 | Pulse Score 41.9/100 (Building, #8 in city) | GEICO is an insurance agent in Farmington Hills, MI. | https://registry-edge.dingalinged.workers.dev/c/geico-farmington-hills/
+
+## Market data (for advertisers and agents)
+- Keyword: insurance agent farmington hills mi | category: Professional & financial services | industry benchmark: Finance & Insurance
+- US monthly searches: 40,500/mo (cited; Semrush US Jul 2026 (via research source); as of 2026-07; phrase 'insurance agent near me')
+- Local monthly searches (Detroit-Warren-Dearborn, MI metro): ~520 (estimate: estimate: US monthly volume x metro population share (Census V2025); the keyword names a suburb, so the value is metro-level demand for the service, not searches typing the suburb name; rounded to 2 significant figures.)
+- CPC benchmark: low $3.39, median $3.39, high $6.02 (Finance & Insurance median CPC 2026 $3.39 [https://www.localiq.com/blog/search-advertising-benchmarks]; Finance & Insurance median CPC 2025 $3.46 [https://www.wordstream.com/blog/2025-google-ads-benchmarks]; Insurance Providers CPC 2024 (Semrush-based) $6.02 [https://www.digitalposition.com/resources/blog/ppc/2024-google-ads-cpc-benchmarks-insights-from-3-6m-keywords/])
+- Ad competition: low (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 8
+- Equivalent Google Ads cost per month: ~$150 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/insurance-agent.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#insurance-agent-farmington-hills-mi | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,0 +1,24 @@
+Trek is a bike shop in Pittsburgh, PA at 6514 Steubenville Pike, Pittsburgh, PA 15205. Website: https://www.trekbikes.com/us/en_us/retail/robinson_township/.
+
+# Trek
+
+- Category: bike shop
+- Services: bike shop
+- Address: 6514 Steubenville Pike, Pittsburgh, PA 15205
+- City: Pittsburgh
+- State: PA
+- ZIP: 15205
+- Coordinates: 40.4491853, -80.1603857
+- Phone: n/a
+- Website: https://www.trekbikes.com/us/en_us/retail/robinson_township/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 44.9/100 — Building — top 100% of bike shops in Pittsburgh, PA, #14 of 14 bike shops in Pittsburgh (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 48.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/trek-pittsburgh/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/trek-pittsburgh.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9045911784 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

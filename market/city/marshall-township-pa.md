@@ -1,0 +1,46 @@
+Keyword market for Marshall Township, PA: 18 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Pittsburgh, PA metro (US volume x population share).
+
+# Top keywords in Marshall Township, PA
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json
+
+## By monthly searches
+1. dentist marshall township pa | searches/mo 13,000 (est) | CPC $4.70 | value $61,000 | Google Ads equiv $3,300/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/dentist-marshall-township-pa/
+2. gym marshall township pa | searches/mo 13,000 (est) | CPC $1.67 | value $22,000 | Google Ads equiv $1,600/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/gym-marshall-township-pa/
+3. hair salon marshall township pa | searches/mo 11,000 (est) | CPC $0.55 | value $6,100 | Google Ads equiv $350/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-marshall-township-pa/
+4. haircut marshall township pa | searches/mo 2,600 (est) | CPC $4.62 | value $12,000 | Google Ads equiv $690/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/haircut-marshall-township-pa/
+5. insurance agency marshall township pa | searches/mo 640 (est) | CPC $3.39 | value $2,200 | Google Ads equiv $180/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/insurance-agency-marshall-township-pa/
+6. attorney marshall township pa | searches/mo 520 (est) | CPC $9.87 | value $5,100 | Google Ads equiv $310/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/attorney-marshall-township-pa/
+7. insurance agents marshall township pa | searches/mo 350 (est) | CPC $3.39 | value $1,200 | Google Ads equiv $99.00/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/insurance-agents-marshall-township-pa/
+8. lawyer marshall township pa | searches/mo 350 (est) | CPC $9.87 | value $3,500 | Google Ads equiv $210/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/lawyer-marshall-township-pa/
+9. insurance agent marshall township pa | searches/mo 290 (est) | CPC $3.39 | value $980 | Google Ads equiv $82.00/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/insurance-agent-marshall-township-pa/
+
+## By CPC
+1. attorney marshall township pa | searches/mo 520 (est) | CPC $9.87 | value $5,100 | Google Ads equiv $310/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/attorney-marshall-township-pa/
+2. lawyer marshall township pa | searches/mo 350 (est) | CPC $9.87 | value $3,500 | Google Ads equiv $210/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/lawyer-marshall-township-pa/
+3. storage units marshall township pa | searches/mo 1,600 (est) | CPC $8.33 | value $13,000 | Google Ads equiv $850/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/storage-units-marshall-township-pa/
+4. business consultant marshall township pa | searches/mo 130 (est) | CPC $5.87 | value $760 | Google Ads equiv $43.00/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/business-consultant-marshall-township-pa/
+5. preschool marshall township pa | searches/mo 1,600 (est) | CPC $4.81 | value $7,700 | Google Ads equiv $440/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/preschool-marshall-township-pa/
+6. eye doctor marshall township pa | searches/mo 1,600 (est) | CPC $4.76 | value $7,600 | Google Ads equiv $510/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/eye-doctor-marshall-township-pa/
+7. dentist marshall township pa | searches/mo 13,000 (est) | CPC $4.70 | value $61,000 | Google Ads equiv $3,300/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/dentist-marshall-township-pa/
+8. haircut marshall township pa | searches/mo 2,600 (est) | CPC $4.62 | value $12,000 | Google Ads equiv $690/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/haircut-marshall-township-pa/
+9. furniture store marshall township pa | searches/mo 990 (est) | CPC $4.14 | value $4,100 | Google Ads equiv $370/mo | our featured min $10/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/furniture-store-marshall-township-pa/
+10. jewelry store marshall township pa | searches/mo 990 (est) | CPC $4.14 | value $4,100 | Google Ads equiv $370/mo | our featured min $10/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/jewelry-store-marshall-township-pa/
+11. liquor store marshall township pa | searches/mo 990 (est) | CPC $4.14 | value $4,100 | Google Ads equiv $370/mo | our featured min $10/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/liquor-store-marshall-township-pa/
+12. dry cleaners marshall township pa | searches/mo 1,600 (est) | CPC $3.39 | value $5,400 | Google Ads equiv $450/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-marshall-township-pa/
+13. insurance agency marshall township pa | searches/mo 640 (est) | CPC $3.39 | value $2,200 | Google Ads equiv $180/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/insurance-agency-marshall-township-pa/
+14. insurance agent marshall township pa | searches/mo 290 (est) | CPC $3.39 | value $980 | Google Ads equiv $82.00/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/insurance-agent-marshall-township-pa/
+15. insurance agents marshall township pa | searches/mo 350 (est) | CPC $3.39 | value $1,200 | Google Ads equiv $99.00/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/insurance-agents-marshall-township-pa/
+
+## By value (searches x CPC)
+1. dentist marshall township pa | searches/mo 13,000 (est) | CPC $4.70 | value $61,000 | Google Ads equiv $3,300/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/dentist-marshall-township-pa/
+2. gym marshall township pa | searches/mo 13,000 (est) | CPC $1.67 | value $22,000 | Google Ads equiv $1,600/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/gym-marshall-township-pa/
+3. haircut marshall township pa | searches/mo 2,600 (est) | CPC $4.62 | value $12,000 | Google Ads equiv $690/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/haircut-marshall-township-pa/
+4. hair salon marshall township pa | searches/mo 11,000 (est) | CPC $0.55 | value $6,100 | Google Ads equiv $350/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-marshall-township-pa/
+5. attorney marshall township pa | searches/mo 520 (est) | CPC $9.87 | value $5,100 | Google Ads equiv $310/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/attorney-marshall-township-pa/
+6. lawyer marshall township pa | searches/mo 350 (est) | CPC $9.87 | value $3,500 | Google Ads equiv $210/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/lawyer-marshall-township-pa/
+7. insurance agency marshall township pa | searches/mo 640 (est) | CPC $3.39 | value $2,200 | Google Ads equiv $180/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/insurance-agency-marshall-township-pa/
+8. insurance agents marshall township pa | searches/mo 350 (est) | CPC $3.39 | value $1,200 | Google Ads equiv $99.00/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/insurance-agents-marshall-township-pa/
+9. insurance agent marshall township pa | searches/mo 290 (est) | CPC $3.39 | value $980 | Google Ads equiv $82.00/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/insurance-agent-marshall-township-pa/
+
+All market data: https://registry-edge.dingalinged.workers.dev/market/ | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html

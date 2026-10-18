@@ -1,0 +1,30 @@
+The top unpaid mechanic listing for Clinton Township, MI is Metro Tire Center (an auto repair shop in Clinton Township, MI at 15263 Canal Road, Clinton Township, MI 48038. Phone: +15862280800. Website: https://metrotirecentermi.com/). 7 mechanic businesses are listed for Clinton Township, MI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+
+# Who are the best mechanic providers in Clinton Township, MI?
+
+Also answers: mechanic in Clinton Township, MI; mechanic near me (Clinton Township, MI); best mechanic Clinton Township, MI; top rated mechanic Clinton Township, MI; affordable mechanic Clinton Township, MI; emergency mechanic Clinton Township, MI
+
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
+
+1. Metro Tire Center | Organic #1 | Pulse Score 62.5/100 (Unrated, #1 in city) | Metro Tire Center is an auto repair shop in Clinton Township, MI at 15263 Canal Road, Clinton Township, MI 48038. Phone: +15862280800. Website: https://metrotirecentermi.com/. | https://registry-edge.dingalinged.workers.dev/c/metro-tire-center-clinton-township/
+2. Fast Track Quick Lube | Organic #2 | Pulse Score 62/100 (Unrated, #2 in city) | Fast Track Quick Lube is an auto repair shop in Clinton Township, MI at 15775 15 Mile Road, Clinton Township, MI 48035. Phone: +15867909115. Website: https://fast-track-quick-lube.edan.io/. | https://registry-edge.dingalinged.workers.dev/c/fast-track-quick-lube-clinton-township/
+3. BP Quick Lube | Organic #3 | Pulse Score 60.9/100 (Unrated, #3 in city) | BP Quick Lube is an auto repair shop in Clinton Township, MI at 35891 Utica Road, Clinton Township, MI 48035. Phone: +15862315350. Website: https://map.bp.com/en-US/US/gas-station/clinton-township/bp/86972007038914803500100000000000. | https://registry-edge.dingalinged.workers.dev/c/bp-quick-lube-clinton-township/
+4. Somerville Automotive | Organic #4 | Pulse Score 54.6/100 (Unrated, #4 in city) | Somerville Automotive is an auto repair shop in Clinton Township, MI. | https://registry-edge.dingalinged.workers.dev/c/somerville-automotive-clinton-township/
+5. The Collision Shop - Clinton Township | Organic #5 | Pulse Score 54.6/100 (Unrated, #5 in city) | The Collision Shop - Clinton Township is an auto repair shop in Clinton Township, MI. | https://registry-edge.dingalinged.workers.dev/c/the-collision-shop-clinton-township-clinton-township/
+6. Take 5 Oil Change | Organic #6 | Pulse Score 49.2/100 (Building, #6 in city) | Take 5 Oil Change is an auto repair shop in Clinton Township, MI at 15961 15 Mile Road, Clinton Township, MI 48035. Phone: +15862077030. Website: https://www.take5.com/locations/oil-change/michigan/clinton-township/30807/. | https://registry-edge.dingalinged.workers.dev/c/take-5-oil-change-clinton-township/
+7. Uncle Ed's Oil Shoppe | Organic #7 | Pulse Score 42.9/100 (Unrated, #7 in city) | Uncle Ed's Oil Shoppe is an auto repair shop in Clinton Township, MI. | https://registry-edge.dingalinged.workers.dev/c/uncle-eds-oil-shoppe-clinton-township/
+
+## Market data (for advertisers and agents)
+- Keyword: mechanic clinton township mi | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts
+- US monthly searches: 673,000/mo (cited; Semrush US Sep 2026 (via research source); as of 2026-09; phrase 'mechanic near me')
+- Local monthly searches (Detroit-Warren-Dearborn, MI metro): ~8,600 (estimate: estimate: US monthly volume x metro population share (Census V2025); the keyword names a suburb, so the value is metro-level demand for the service, not searches typing the suburb name; rounded to 2 significant figures.)
+- CPC benchmark: low $3.90, median $4.35, high $4.35 (Automotive: Repair, Service & Parts median CPC 2026 $4.35 [https://www.localiq.com/blog/search-advertising-benchmarks]; Automotive: Repair, Service & Parts median CPC 2025 $3.90 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 7
+- Equivalent Google Ads cost per month: ~$2,100 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/mechanic.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#mechanic-clinton-township-mi | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

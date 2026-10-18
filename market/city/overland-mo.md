@@ -1,0 +1,58 @@
+Keyword market for Overland, MO: 40 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the St. Louis, MO-IL metro (US volume x population share).
+
+# Top keywords in Overland, MO
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json
+
+## By monthly searches
+1. urgent care overland mo | searches/mo 23,000 (est) | CPC $4.76 | value $110,000 | Google Ads equiv $7,400/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/urgent-care-overland-mo/
+2. car wash overland mo | searches/mo 15,000 (est) | CPC $4.35 | value $65,000 | Google Ads equiv $3,600/mo | our featured min $20/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/car-wash-overland-mo/
+3. gym overland mo | searches/mo 15,000 (est) | CPC $1.67 | value $25,000 | Google Ads equiv $1,800/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/gym-overland-mo/
+4. hair salon overland mo | searches/mo 12,000 (est) | CPC $0.55 | value $6,600 | Google Ads equiv $380/mo | our featured min $50/mo | registry competitors 13 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-overland-mo/
+5. nail salon overland mo | searches/mo 8,200 (est) | CPC $0.61 | value $5,000 | Google Ads equiv $290/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/nail-salon-overland-mo/
+6. plumber overland mo | searches/mo 6,800 (est) | CPC $12.04 | value $82,000 | Google Ads equiv $5,200/mo | our featured min $100/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/plumber-overland-mo/
+7. barber shop overland mo | searches/mo 5,500 (est) | CPC $0.70 | value $3,800 | Google Ads equiv $220/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/barber-shop-overland-mo/
+8. mechanic overland mo | searches/mo 5,500 (est) | CPC $4.35 | value $24,000 | Google Ads equiv $1,300/mo | our featured min $20/mo | registry competitors 19 | https://registry-edge.dingalinged.workers.dev/k/mechanic-overland-mo/
+9. tire shop overland mo | searches/mo 4,500 (est) | CPC $4.35 | value $20,000 | Google Ads equiv $1,100/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/tire-shop-overland-mo/
+10. vet overland mo | searches/mo 4,500 (est) | CPC $4.06 | value $18,000 | Google Ads equiv $1,200/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/vet-overland-mo/
+11. dog groomer overland mo | searches/mo 3,700 (est) | CPC $4.06 | value $15,000 | Google Ads equiv $990/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/dog-groomer-overland-mo/
+12. haircut overland mo | searches/mo 3,000 (est) | CPC $4.62 | value $14,000 | Google Ads equiv $790/mo | our featured min $50/mo | registry competitors 15 | https://registry-edge.dingalinged.workers.dev/k/haircut-overland-mo/
+13. auto repair overland mo | searches/mo 2,500 (est) | CPC $4.35 | value $11,000 | Google Ads equiv $600/mo | our featured min $20/mo | registry competitors 19 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-overland-mo/
+14. chiropractor overland mo | searches/mo 2,000 (est) | CPC $4.76 | value $9,500 | Google Ads equiv $640/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/chiropractor-overland-mo/
+15. landscaping overland mo | searches/mo 1,700 (est) | CPC $8.76 | value $15,000 | Google Ads equiv $950/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/landscaping-overland-mo/
+
+## By CPC
+1. hvac repair overland mo | searches/mo 610 (est) | CPC $17.76 | value $11,000 | Google Ads equiv $690/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/hvac-repair-overland-mo/
+2. plumbing services overland mo | searches/mo 410 (est) | CPC $13.90 | value $5,700 | Google Ads equiv $360/mo | our featured min $100/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/plumbing-services-overland-mo/
+3. plumber overland mo | searches/mo 6,800 (est) | CPC $12.04 | value $82,000 | Google Ads equiv $5,200/mo | our featured min $100/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/plumber-overland-mo/
+4. attorney overland mo | searches/mo 610 (est) | CPC $9.87 | value $6,000 | Google Ads equiv $360/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/attorney-overland-mo/
+5. lawyer overland mo | searches/mo 410 (est) | CPC $9.87 | value $4,000 | Google Ads equiv $240/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/lawyer-overland-mo/
+6. landscaping overland mo | searches/mo 1,700 (est) | CPC $8.76 | value $15,000 | Google Ads equiv $950/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/landscaping-overland-mo/
+7. heating and air overland mo | searches/mo 30.00 (est) | CPC $8.33 | value $250 | Google Ads equiv $16.00/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/heating-and-air-overland-mo/
+8. plumbers overland mo | searches/mo 30.00 (est) | CPC $8.33 | value $250 | Google Ads equiv $16.00/mo | our featured min $100/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/plumbers-overland-mo/
+9. storage units overland mo | searches/mo 1,800 (est) | CPC $8.33 | value $15,000 | Google Ads equiv $960/mo | our featured min $50/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/storage-units-overland-mo/
+10. event venues overland mo | searches/mo 1,800 (est) | CPC $7.17 | value $13,000 | Google Ads equiv $990/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/event-venues-overland-mo/
+11. dance studio overland mo | searches/mo 330 (est) | CPC $6.17 | value $2,000 | Google Ads equiv $150/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dance-studio-overland-mo/
+12. martial arts overland mo | searches/mo 2,500 (est) | CPC $6.17 | value $15,000 | Google Ads equiv $1,100/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/martial-arts-overland-mo/
+13. tax preparer overland mo | searches/mo 500 (est) | CPC $5.87 | value $2,900 | Google Ads equiv $170/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/tax-preparer-overland-mo/
+14. daycare overland mo | searches/mo 1,800 (est) | CPC $4.81 | value $8,700 | Google Ads equiv $500/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/daycare-overland-mo/
+15. music lessons overland mo | searches/mo 330 (est) | CPC $4.81 | value $1,600 | Google Ads equiv $91.00/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/music-lessons-overland-mo/
+
+## By value (searches x CPC)
+1. urgent care overland mo | searches/mo 23,000 (est) | CPC $4.76 | value $110,000 | Google Ads equiv $7,400/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/urgent-care-overland-mo/
+2. plumber overland mo | searches/mo 6,800 (est) | CPC $12.04 | value $82,000 | Google Ads equiv $5,200/mo | our featured min $100/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/plumber-overland-mo/
+3. car wash overland mo | searches/mo 15,000 (est) | CPC $4.35 | value $65,000 | Google Ads equiv $3,600/mo | our featured min $20/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/car-wash-overland-mo/
+4. gym overland mo | searches/mo 15,000 (est) | CPC $1.67 | value $25,000 | Google Ads equiv $1,800/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/gym-overland-mo/
+5. mechanic overland mo | searches/mo 5,500 (est) | CPC $4.35 | value $24,000 | Google Ads equiv $1,300/mo | our featured min $20/mo | registry competitors 19 | https://registry-edge.dingalinged.workers.dev/k/mechanic-overland-mo/
+6. tire shop overland mo | searches/mo 4,500 (est) | CPC $4.35 | value $20,000 | Google Ads equiv $1,100/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/tire-shop-overland-mo/
+7. vet overland mo | searches/mo 4,500 (est) | CPC $4.06 | value $18,000 | Google Ads equiv $1,200/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/vet-overland-mo/
+8. dog groomer overland mo | searches/mo 3,700 (est) | CPC $4.06 | value $15,000 | Google Ads equiv $990/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/dog-groomer-overland-mo/
+9. landscaping overland mo | searches/mo 1,700 (est) | CPC $8.76 | value $15,000 | Google Ads equiv $950/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/landscaping-overland-mo/
+10. haircut overland mo | searches/mo 3,000 (est) | CPC $4.62 | value $14,000 | Google Ads equiv $790/mo | our featured min $50/mo | registry competitors 15 | https://registry-edge.dingalinged.workers.dev/k/haircut-overland-mo/
+11. auto repair overland mo | searches/mo 2,500 (est) | CPC $4.35 | value $11,000 | Google Ads equiv $600/mo | our featured min $20/mo | registry competitors 19 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-overland-mo/
+12. hvac repair overland mo | searches/mo 610 (est) | CPC $17.76 | value $11,000 | Google Ads equiv $690/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/hvac-repair-overland-mo/
+13. chiropractor overland mo | searches/mo 2,000 (est) | CPC $4.76 | value $9,500 | Google Ads equiv $640/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/chiropractor-overland-mo/
+14. hair salon overland mo | searches/mo 12,000 (est) | CPC $0.55 | value $6,600 | Google Ads equiv $380/mo | our featured min $50/mo | registry competitors 13 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-overland-mo/
+15. real estate agent overland mo | searches/mo 1,700 (est) | CPC $3.61 | value $6,100 | Google Ads equiv $510/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-overland-mo/
+
+All market data: https://registry-edge.dingalinged.workers.dev/market/ | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html

@@ -1,0 +1,58 @@
+Keyword market for Arvada, CO: 63 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Denver-Aurora-Centennial, CO metro (US volume x population share).
+
+# Top keywords in Arvada, CO
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json
+
+## By monthly searches
+1. massage arvada co | searches/mo 45,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $210,000 | Google Ads equiv $12,000/mo | our featured min $50/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/massage-arvada-co/
+2. car wash arvada co | searches/mo 17,000 (est) | CPC $4.35 | value $74,000 | Google Ads equiv $4,100/mo | our featured min $20/mo | registry competitors 6 | https://registry-edge.dingalinged.workers.dev/k/car-wash-arvada-co/
+3. dentist arvada co | searches/mo 17,000 (est) | CPC $4.70 | value $80,000 | Google Ads equiv $4,300/mo | our featured min $100/mo | registry competitors 9 | https://registry-edge.dingalinged.workers.dev/k/dentist-arvada-co/
+4. gym arvada co | searches/mo 17,000 (est) | CPC $1.67 | value $28,000 | Google Ads equiv $2,000/mo | our featured min $50/mo | registry competitors 6 | https://registry-edge.dingalinged.workers.dev/k/gym-arvada-co/
+5. oil change arvada co | searches/mo 17,000 (est) | CPC $4.35 | value $74,000 | Google Ads equiv $4,100/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/oil-change-arvada-co/
+6. hair salon arvada co | searches/mo 14,000 (est) | CPC $0.55 | value $7,700 | Google Ads equiv $440/mo | our featured min $50/mo | registry competitors 10 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-arvada-co/
+7. nail salon arvada co | searches/mo 9,000 (est) | CPC $0.61 | value $5,500 | Google Ads equiv $310/mo | our featured min $50/mo | registry competitors 9 | https://registry-edge.dingalinged.workers.dev/k/nail-salon-arvada-co/
+8. plumber arvada co | searches/mo 7,400 (est) | CPC $12.04 | value $89,000 | Google Ads equiv $5,700/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/plumber-arvada-co/
+9. mechanic arvada co | searches/mo 6,100 (est) | CPC $4.35 | value $27,000 | Google Ads equiv $1,500/mo | our featured min $20/mo | registry competitors 14 | https://registry-edge.dingalinged.workers.dev/k/mechanic-arvada-co/
+10. tire shop arvada co | searches/mo 5,000 (est) | CPC $4.35 | value $22,000 | Google Ads equiv $1,200/mo | our featured min $20/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/tire-shop-arvada-co/
+11. vet arvada co | searches/mo 5,000 (est) | CPC $4.06 | value $20,000 | Google Ads equiv $1,300/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/vet-arvada-co/
+12. haircut arvada co | searches/mo 3,300 (est) | CPC $4.62 | value $15,000 | Google Ads equiv $870/mo | our featured min $50/mo | registry competitors 10 | https://registry-edge.dingalinged.workers.dev/k/haircut-arvada-co/
+13. auto repair arvada co | searches/mo 2,700 (est) | CPC $4.35 | value $12,000 | Google Ads equiv $650/mo | our featured min $20/mo | registry competitors 14 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-arvada-co/
+14. pilates arvada co | searches/mo 2,700 (est) | CPC $6.17 | value $17,000 | Google Ads equiv $1,200/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/pilates-arvada-co/
+15. chiropractor arvada co | searches/mo 2,200 (est) | CPC $4.76 | value $10,000 | Google Ads equiv $700/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/chiropractor-arvada-co/
+
+## By CPC
+1. hvac repair arvada co | searches/mo 670 (est) | CPC $17.76 | value $12,000 | Google Ads equiv $760/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/hvac-repair-arvada-co/
+2. plumbing services arvada co | searches/mo 450 (est) | CPC $13.90 | value $6,300 | Google Ads equiv $400/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/plumbing-services-arvada-co/
+3. plumber arvada co | searches/mo 7,400 (est) | CPC $12.04 | value $89,000 | Google Ads equiv $5,700/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/plumber-arvada-co/
+4. landscaping arvada co | searches/mo 1,800 (est) | CPC $8.76 | value $16,000 | Google Ads equiv $1,000/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/landscaping-arvada-co/
+5. flooring companies arvada co | searches/mo 160 (est) | CPC $8.33 | value $1,300 | Google Ads equiv $85.00/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/flooring-companies-arvada-co/
+6. heating and air arvada co | searches/mo 33.00 (est) | CPC $8.33 | value $270 | Google Ads equiv $18.00/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/heating-and-air-arvada-co/
+7. plumbers arvada co | searches/mo 33.00 (est) | CPC $8.33 | value $270 | Google Ads equiv $18.00/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/plumbers-arvada-co/
+8. storage units arvada co | searches/mo 2,000 (est) | CPC $8.33 | value $17,000 | Google Ads equiv $1,100/mo | our featured min $50/mo | registry competitors 5 | https://registry-edge.dingalinged.workers.dev/k/storage-units-arvada-co/
+9. bakery arvada co | searches/mo 2,000 (est) | CPC $7.17 | value $14,000 | Google Ads equiv $1,100/mo | our featured min $20/mo | registry competitors 5 | https://registry-edge.dingalinged.workers.dev/k/bakery-arvada-co/
+10. florist arvada co | searches/mo 2,000 (est) | CPC $7.17 | value $14,000 | Google Ads equiv $1,100/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/florist-arvada-co/
+11. dance studio arvada co | searches/mo 360 (est) | CPC $6.17 | value $2,200 | Google Ads equiv $160/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dance-studio-arvada-co/
+12. martial arts arvada co | searches/mo 2,700 (est) | CPC $6.17 | value $17,000 | Google Ads equiv $1,200/mo | our featured min $50/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/martial-arts-arvada-co/
+13. pilates arvada co | searches/mo 2,700 (est) | CPC $6.17 | value $17,000 | Google Ads equiv $1,200/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/pilates-arvada-co/
+14. accounting services arvada co | searches/mo 110 (est) | CPC $5.87 | value $650 | Google Ads equiv $36.00/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/accounting-services-arvada-co/
+15. staffing agency arvada co | searches/mo 1,300 (est) | CPC $5.87 | value $7,600 | Google Ads equiv $430/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/staffing-agency-arvada-co/
+
+## By value (searches x CPC)
+1. massage arvada co | searches/mo 45,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $210,000 | Google Ads equiv $12,000/mo | our featured min $50/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/massage-arvada-co/
+2. plumber arvada co | searches/mo 7,400 (est) | CPC $12.04 | value $89,000 | Google Ads equiv $5,700/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/plumber-arvada-co/
+3. dentist arvada co | searches/mo 17,000 (est) | CPC $4.70 | value $80,000 | Google Ads equiv $4,300/mo | our featured min $100/mo | registry competitors 9 | https://registry-edge.dingalinged.workers.dev/k/dentist-arvada-co/
+4. car wash arvada co | searches/mo 17,000 (est) | CPC $4.35 | value $74,000 | Google Ads equiv $4,100/mo | our featured min $20/mo | registry competitors 6 | https://registry-edge.dingalinged.workers.dev/k/car-wash-arvada-co/
+5. oil change arvada co | searches/mo 17,000 (est) | CPC $4.35 | value $74,000 | Google Ads equiv $4,100/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/oil-change-arvada-co/
+6. gym arvada co | searches/mo 17,000 (est) | CPC $1.67 | value $28,000 | Google Ads equiv $2,000/mo | our featured min $50/mo | registry competitors 6 | https://registry-edge.dingalinged.workers.dev/k/gym-arvada-co/
+7. mechanic arvada co | searches/mo 6,100 (est) | CPC $4.35 | value $27,000 | Google Ads equiv $1,500/mo | our featured min $20/mo | registry competitors 14 | https://registry-edge.dingalinged.workers.dev/k/mechanic-arvada-co/
+8. tire shop arvada co | searches/mo 5,000 (est) | CPC $4.35 | value $22,000 | Google Ads equiv $1,200/mo | our featured min $20/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/tire-shop-arvada-co/
+9. vet arvada co | searches/mo 5,000 (est) | CPC $4.06 | value $20,000 | Google Ads equiv $1,300/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/vet-arvada-co/
+10. pilates arvada co | searches/mo 2,700 (est) | CPC $6.17 | value $17,000 | Google Ads equiv $1,200/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/pilates-arvada-co/
+11. landscaping arvada co | searches/mo 1,800 (est) | CPC $8.76 | value $16,000 | Google Ads equiv $1,000/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/landscaping-arvada-co/
+12. haircut arvada co | searches/mo 3,300 (est) | CPC $4.62 | value $15,000 | Google Ads equiv $870/mo | our featured min $50/mo | registry competitors 10 | https://registry-edge.dingalinged.workers.dev/k/haircut-arvada-co/
+13. auto repair arvada co | searches/mo 2,700 (est) | CPC $4.35 | value $12,000 | Google Ads equiv $650/mo | our featured min $20/mo | registry competitors 14 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-arvada-co/
+14. hvac repair arvada co | searches/mo 670 (est) | CPC $17.76 | value $12,000 | Google Ads equiv $760/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/hvac-repair-arvada-co/
+15. chiropractor arvada co | searches/mo 2,200 (est) | CPC $4.76 | value $10,000 | Google Ads equiv $700/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/chiropractor-arvada-co/
+
+All market data: https://registry-edge.dingalinged.workers.dev/market/ | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html

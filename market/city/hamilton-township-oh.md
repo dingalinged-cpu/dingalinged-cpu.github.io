@@ -1,0 +1,40 @@
+Keyword market for Hamilton Township, OH: 13 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Cincinnati, OH-KY-IN metro (US volume x population share).
+
+# Top keywords in Hamilton Township, OH
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json
+
+## By monthly searches
+1. car wash hamilton township oh | searches/mo 12,000 (est) | CPC $4.35 | value $52,000 | Google Ads equiv $2,900/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/car-wash-hamilton-township-oh/
+2. gym hamilton township oh | searches/mo 12,000 (est) | CPC $1.67 | value $20,000 | Google Ads equiv $1,400/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/gym-hamilton-township-oh/
+3. tire shop hamilton township oh | searches/mo 3,700 (est) | CPC $4.35 | value $16,000 | Google Ads equiv $890/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tire-shop-hamilton-township-oh/
+4. dog groomer hamilton township oh | searches/mo 3,000 (est) | CPC $4.06 | value $12,000 | Google Ads equiv $800/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dog-groomer-hamilton-township-oh/
+5. landscaping hamilton township oh | searches/mo 1,400 (est) | CPC $8.76 | value $12,000 | Google Ads equiv $780/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/landscaping-hamilton-township-oh/
+6. tax preparation hamilton township oh | searches/mo 500 (est) | CPC $3.25 | value $1,600 | Google Ads equiv $140/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tax-preparation-hamilton-township-oh/
+7. tax preparer hamilton township oh | searches/mo 410 (est) | CPC $5.87 | value $2,400 | Google Ads equiv $140/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tax-preparer-hamilton-township-oh/
+
+## By CPC
+1. landscaping hamilton township oh | searches/mo 1,400 (est) | CPC $8.76 | value $12,000 | Google Ads equiv $780/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/landscaping-hamilton-township-oh/
+2. storage units hamilton township oh | searches/mo 1,500 (est) | CPC $8.33 | value $12,000 | Google Ads equiv $800/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/storage-units-hamilton-township-oh/
+3. tax preparer hamilton township oh | searches/mo 410 (est) | CPC $5.87 | value $2,400 | Google Ads equiv $140/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tax-preparer-hamilton-township-oh/
+4. daycare hamilton township oh | searches/mo 1,500 (est) | CPC $4.81 | value $7,200 | Google Ads equiv $410/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/daycare-hamilton-township-oh/
+5. eye doctor hamilton township oh | searches/mo 1,500 (est) | CPC $4.76 | value $7,100 | Google Ads equiv $480/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/eye-doctor-hamilton-township-oh/
+6. physical therapy hamilton township oh | searches/mo 1,500 (est) | CPC $4.76 | value $7,100 | Google Ads equiv $480/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/physical-therapy-hamilton-township-oh/
+7. car wash hamilton township oh | searches/mo 12,000 (est) | CPC $4.35 | value $52,000 | Google Ads equiv $2,900/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/car-wash-hamilton-township-oh/
+8. tire shop hamilton township oh | searches/mo 3,700 (est) | CPC $4.35 | value $16,000 | Google Ads equiv $890/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tire-shop-hamilton-township-oh/
+9. liquor store hamilton township oh | searches/mo 950 (est) | CPC $4.14 | value $3,900 | Google Ads equiv $350/mo | our featured min $10/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/liquor-store-hamilton-township-oh/
+10. dog groomer hamilton township oh | searches/mo 3,000 (est) | CPC $4.06 | value $12,000 | Google Ads equiv $800/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dog-groomer-hamilton-township-oh/
+11. dry cleaners hamilton township oh | searches/mo 1,500 (est) | CPC $3.39 | value $5,100 | Google Ads equiv $420/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-hamilton-township-oh/
+12. tax preparation hamilton township oh | searches/mo 500 (est) | CPC $3.25 | value $1,600 | Google Ads equiv $140/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tax-preparation-hamilton-township-oh/
+13. gym hamilton township oh | searches/mo 12,000 (est) | CPC $1.67 | value $20,000 | Google Ads equiv $1,400/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/gym-hamilton-township-oh/
+
+## By value (searches x CPC)
+1. car wash hamilton township oh | searches/mo 12,000 (est) | CPC $4.35 | value $52,000 | Google Ads equiv $2,900/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/car-wash-hamilton-township-oh/
+2. gym hamilton township oh | searches/mo 12,000 (est) | CPC $1.67 | value $20,000 | Google Ads equiv $1,400/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/gym-hamilton-township-oh/
+3. tire shop hamilton township oh | searches/mo 3,700 (est) | CPC $4.35 | value $16,000 | Google Ads equiv $890/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tire-shop-hamilton-township-oh/
+4. dog groomer hamilton township oh | searches/mo 3,000 (est) | CPC $4.06 | value $12,000 | Google Ads equiv $800/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dog-groomer-hamilton-township-oh/
+5. landscaping hamilton township oh | searches/mo 1,400 (est) | CPC $8.76 | value $12,000 | Google Ads equiv $780/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/landscaping-hamilton-township-oh/
+6. tax preparer hamilton township oh | searches/mo 410 (est) | CPC $5.87 | value $2,400 | Google Ads equiv $140/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tax-preparer-hamilton-township-oh/
+7. tax preparation hamilton township oh | searches/mo 500 (est) | CPC $3.25 | value $1,600 | Google Ads equiv $140/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tax-preparation-hamilton-township-oh/
+
+All market data: https://registry-edge.dingalinged.workers.dev/market/ | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html

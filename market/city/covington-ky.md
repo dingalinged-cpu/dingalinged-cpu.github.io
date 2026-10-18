@@ -1,0 +1,58 @@
+Keyword market for Covington, KY: 33 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Cincinnati, OH-KY-IN metro (US volume x population share).
+
+# Top keywords in Covington, KY
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json
+
+## By monthly searches
+1. dentist covington ky | searches/mo 12,000 (est) | CPC $4.70 | value $56,000 | Google Ads equiv $3,100/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dentist-covington-ky/
+2. hair salon covington ky | searches/mo 10,000 (est) | CPC $0.55 | value $5,500 | Google Ads equiv $310/mo | our featured min $50/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-covington-ky/
+3. barber shop covington ky | searches/mo 4,600 (est) | CPC $0.70 | value $3,200 | Google Ads equiv $180/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/barber-shop-covington-ky/
+4. mechanic covington ky | searches/mo 4,600 (est) | CPC $4.35 | value $20,000 | Google Ads equiv $1,100/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/mechanic-covington-ky/
+5. tire shop covington ky | searches/mo 3,700 (est) | CPC $4.35 | value $16,000 | Google Ads equiv $890/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tire-shop-covington-ky/
+6. haircut covington ky | searches/mo 2,500 (est) | CPC $4.62 | value $12,000 | Google Ads equiv $660/mo | our featured min $50/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/haircut-covington-ky/
+7. auto repair covington ky | searches/mo 2,000 (est) | CPC $4.35 | value $8,700 | Google Ads equiv $480/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-covington-ky/
+8. pilates covington ky | searches/mo 2,000 (est) | CPC $6.17 | value $12,000 | Google Ads equiv $890/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/pilates-covington-ky/
+9. electrician covington ky | searches/mo 1,700 (est) | CPC $12.18 | value $21,000 | Google Ads equiv $1,300/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/electrician-covington-ky/
+10. financial advisor covington ky | searches/mo 1,700 (est) | CPC $3.39 | value $5,800 | Google Ads equiv $480/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/financial-advisor-covington-ky/
+11. brake repair covington ky | searches/mo 910 (est) | CPC $4.35 | value $4,000 | Google Ads equiv $220/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/brake-repair-covington-ky/
+12. roofing contractor covington ky | searches/mo 910 (est) | CPC $11.79 | value $11,000 | Google Ads equiv $680/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-covington-ky/
+13. attorney covington ky | searches/mo 500 (est) | CPC $9.87 | value $4,900 | Google Ads equiv $290/mo | our featured min $100/mo | registry competitors 10 | https://registry-edge.dingalinged.workers.dev/k/attorney-covington-ky/
+14. hvac repair covington ky | searches/mo 500 (est) | CPC $17.76 | value $8,900 | Google Ads equiv $570/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/hvac-repair-covington-ky/
+15. tax preparation covington ky | searches/mo 500 (est) | CPC $3.25 | value $1,600 | Google Ads equiv $140/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tax-preparation-covington-ky/
+
+## By CPC
+1. hvac repair covington ky | searches/mo 500 (est) | CPC $17.76 | value $8,900 | Google Ads equiv $570/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/hvac-repair-covington-ky/
+2. electrician covington ky | searches/mo 1,700 (est) | CPC $12.18 | value $21,000 | Google Ads equiv $1,300/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/electrician-covington-ky/
+3. roofing contractor covington ky | searches/mo 910 (est) | CPC $11.79 | value $11,000 | Google Ads equiv $680/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-covington-ky/
+4. roofer covington ky | searches/mo 330 (est) | CPC $10.70 | value $3,500 | Google Ads equiv $220/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/roofer-covington-ky/
+5. attorney covington ky | searches/mo 500 (est) | CPC $9.87 | value $4,900 | Google Ads equiv $290/mo | our featured min $100/mo | registry competitors 10 | https://registry-edge.dingalinged.workers.dev/k/attorney-covington-ky/
+6. lawyer covington ky | searches/mo 330 (est) | CPC $9.87 | value $3,300 | Google Ads equiv $190/mo | our featured min $100/mo | registry competitors 10 | https://registry-edge.dingalinged.workers.dev/k/lawyer-covington-ky/
+7. flooring companies covington ky | searches/mo 120 (est) | CPC $8.33 | value $1,000 | Google Ads equiv $64.00/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/flooring-companies-covington-ky/
+8. heating and air covington ky | searches/mo 24.00 (est) | CPC $8.33 | value $200 | Google Ads equiv $13.00/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/heating-and-air-covington-ky/
+9. bakery covington ky | searches/mo 1,500 (est) | CPC $7.17 | value $11,000 | Google Ads equiv $830/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/bakery-covington-ky/
+10. event venues covington ky | searches/mo 1,500 (est) | CPC $7.17 | value $11,000 | Google Ads equiv $830/mo | our featured min $20/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/event-venues-covington-ky/
+11. pilates covington ky | searches/mo 2,000 (est) | CPC $6.17 | value $12,000 | Google Ads equiv $890/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/pilates-covington-ky/
+12. tax preparer covington ky | searches/mo 410 (est) | CPC $5.87 | value $2,400 | Google Ads equiv $140/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tax-preparer-covington-ky/
+13. daycare covington ky | searches/mo 1,500 (est) | CPC $4.81 | value $7,200 | Google Ads equiv $410/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/daycare-covington-ky/
+14. preschool covington ky | searches/mo 1,500 (est) | CPC $4.81 | value $7,200 | Google Ads equiv $410/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/preschool-covington-ky/
+15. therapist covington ky | searches/mo 1,500 (est) | CPC $4.76 | value $7,100 | Google Ads equiv $480/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/therapist-covington-ky/
+
+## By value (searches x CPC)
+1. dentist covington ky | searches/mo 12,000 (est) | CPC $4.70 | value $56,000 | Google Ads equiv $3,100/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dentist-covington-ky/
+2. electrician covington ky | searches/mo 1,700 (est) | CPC $12.18 | value $21,000 | Google Ads equiv $1,300/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/electrician-covington-ky/
+3. mechanic covington ky | searches/mo 4,600 (est) | CPC $4.35 | value $20,000 | Google Ads equiv $1,100/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/mechanic-covington-ky/
+4. tire shop covington ky | searches/mo 3,700 (est) | CPC $4.35 | value $16,000 | Google Ads equiv $890/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tire-shop-covington-ky/
+5. haircut covington ky | searches/mo 2,500 (est) | CPC $4.62 | value $12,000 | Google Ads equiv $660/mo | our featured min $50/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/haircut-covington-ky/
+6. pilates covington ky | searches/mo 2,000 (est) | CPC $6.17 | value $12,000 | Google Ads equiv $890/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/pilates-covington-ky/
+7. roofing contractor covington ky | searches/mo 910 (est) | CPC $11.79 | value $11,000 | Google Ads equiv $680/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-covington-ky/
+8. hvac repair covington ky | searches/mo 500 (est) | CPC $17.76 | value $8,900 | Google Ads equiv $570/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/hvac-repair-covington-ky/
+9. auto repair covington ky | searches/mo 2,000 (est) | CPC $4.35 | value $8,700 | Google Ads equiv $480/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-covington-ky/
+10. financial advisor covington ky | searches/mo 1,700 (est) | CPC $3.39 | value $5,800 | Google Ads equiv $480/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/financial-advisor-covington-ky/
+11. hair salon covington ky | searches/mo 10,000 (est) | CPC $0.55 | value $5,500 | Google Ads equiv $310/mo | our featured min $50/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-covington-ky/
+12. attorney covington ky | searches/mo 500 (est) | CPC $9.87 | value $4,900 | Google Ads equiv $290/mo | our featured min $100/mo | registry competitors 10 | https://registry-edge.dingalinged.workers.dev/k/attorney-covington-ky/
+13. brake repair covington ky | searches/mo 910 (est) | CPC $4.35 | value $4,000 | Google Ads equiv $220/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/brake-repair-covington-ky/
+14. roofer covington ky | searches/mo 330 (est) | CPC $10.70 | value $3,500 | Google Ads equiv $220/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/roofer-covington-ky/
+15. lawyer covington ky | searches/mo 330 (est) | CPC $9.87 | value $3,300 | Google Ads equiv $190/mo | our featured min $100/mo | registry competitors 10 | https://registry-edge.dingalinged.workers.dev/k/lawyer-covington-ky/
+
+All market data: https://registry-edge.dingalinged.workers.dev/market/ | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html

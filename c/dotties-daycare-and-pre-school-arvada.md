@@ -1,0 +1,24 @@
+Dottie's Daycare & Pre-School is a daycare in Arvada, CO.
+
+# Dottie's Daycare & Pre-School
+
+- Category: daycare
+- Services: daycare
+- Address: Arvada, CO
+- City: Arvada
+- State: CO
+- ZIP: n/a
+- Coordinates: 39.8133209, -105.0462762
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.5/100 — Unrated (not enough evidence yet) — top 80% of daycares in Denver, CO, #1 of 2 daycares in Arvada (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.3, Trust 39.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/dotties-daycare-and-pre-school-arvada/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/dotties-daycare-and-pre-school-arvada.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1012547778 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

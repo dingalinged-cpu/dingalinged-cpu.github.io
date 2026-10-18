@@ -1,0 +1,56 @@
+Keyword market for Brentwood, PA: 22 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Pittsburgh, PA metro (US volume x population share).
+
+# Top keywords in Brentwood, PA
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json
+
+## By monthly searches
+1. car wash brentwood pa | searches/mo 13,000 (est) | CPC $4.35 | value $57,000 | Google Ads equiv $3,100/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/car-wash-brentwood-pa/
+2. dentist brentwood pa | searches/mo 13,000 (est) | CPC $4.70 | value $61,000 | Google Ads equiv $3,300/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dentist-brentwood-pa/
+3. hair salon brentwood pa | searches/mo 11,000 (est) | CPC $0.55 | value $6,100 | Google Ads equiv $350/mo | our featured min $50/mo | registry competitors 5 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-brentwood-pa/
+4. mechanic brentwood pa | searches/mo 4,800 (est) | CPC $4.35 | value $21,000 | Google Ads equiv $1,200/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/mechanic-brentwood-pa/
+5. haircut brentwood pa | searches/mo 2,600 (est) | CPC $4.62 | value $12,000 | Google Ads equiv $690/mo | our featured min $50/mo | registry competitors 5 | https://registry-edge.dingalinged.workers.dev/k/haircut-brentwood-pa/
+6. auto repair brentwood pa | searches/mo 2,100 (est) | CPC $4.35 | value $9,100 | Google Ads equiv $510/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-brentwood-pa/
+7. insurance agency brentwood pa | searches/mo 640 (est) | CPC $3.39 | value $2,200 | Google Ads equiv $180/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/insurance-agency-brentwood-pa/
+8. pediatrician brentwood pa | searches/mo 640 (est) | CPC $4.76 | value $3,000 | Google Ads equiv $210/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/pediatrician-brentwood-pa/
+9. tax preparation brentwood pa | searches/mo 520 (est) | CPC $3.25 | value $1,700 | Google Ads equiv $140/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tax-preparation-brentwood-pa/
+10. tax preparer brentwood pa | searches/mo 430 (est) | CPC $5.87 | value $2,500 | Google Ads equiv $140/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tax-preparer-brentwood-pa/
+11. insurance agents brentwood pa | searches/mo 350 (est) | CPC $3.39 | value $1,200 | Google Ads equiv $99.00/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/insurance-agents-brentwood-pa/
+12. insurance agent brentwood pa | searches/mo 290 (est) | CPC $3.39 | value $980 | Google Ads equiv $82.00/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/insurance-agent-brentwood-pa/
+13. accountant brentwood pa | searches/mo 230 (est) | CPC $5.23 | value $1,200 | Google Ads equiv $68.00/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/accountant-brentwood-pa/
+14. accounting services brentwood pa | searches/mo 86.00 (est) | CPC $5.87 | value $500 | Google Ads equiv $29.00/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/accounting-services-brentwood-pa/
+
+## By CPC
+1. storage units brentwood pa | searches/mo 1,600 (est) | CPC $8.33 | value $13,000 | Google Ads equiv $850/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/storage-units-brentwood-pa/
+2. accounting services brentwood pa | searches/mo 86.00 (est) | CPC $5.87 | value $500 | Google Ads equiv $29.00/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/accounting-services-brentwood-pa/
+3. tax preparer brentwood pa | searches/mo 430 (est) | CPC $5.87 | value $2,500 | Google Ads equiv $140/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tax-preparer-brentwood-pa/
+4. accountant brentwood pa | searches/mo 230 (est) | CPC $5.23 | value $1,200 | Google Ads equiv $68.00/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/accountant-brentwood-pa/
+5. pediatrician brentwood pa | searches/mo 640 (est) | CPC $4.76 | value $3,000 | Google Ads equiv $210/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/pediatrician-brentwood-pa/
+6. physical therapy brentwood pa | searches/mo 1,600 (est) | CPC $4.76 | value $7,600 | Google Ads equiv $510/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/physical-therapy-brentwood-pa/
+7. dentist brentwood pa | searches/mo 13,000 (est) | CPC $4.70 | value $61,000 | Google Ads equiv $3,300/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dentist-brentwood-pa/
+8. haircut brentwood pa | searches/mo 2,600 (est) | CPC $4.62 | value $12,000 | Google Ads equiv $690/mo | our featured min $50/mo | registry competitors 5 | https://registry-edge.dingalinged.workers.dev/k/haircut-brentwood-pa/
+9. auto repair brentwood pa | searches/mo 2,100 (est) | CPC $4.35 | value $9,100 | Google Ads equiv $510/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-brentwood-pa/
+10. car wash brentwood pa | searches/mo 13,000 (est) | CPC $4.35 | value $57,000 | Google Ads equiv $3,100/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/car-wash-brentwood-pa/
+11. mechanic brentwood pa | searches/mo 4,800 (est) | CPC $4.35 | value $21,000 | Google Ads equiv $1,200/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/mechanic-brentwood-pa/
+12. furniture store brentwood pa | searches/mo 990 (est) | CPC $4.14 | value $4,100 | Google Ads equiv $370/mo | our featured min $10/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/furniture-store-brentwood-pa/
+13. jewelry store brentwood pa | searches/mo 990 (est) | CPC $4.14 | value $4,100 | Google Ads equiv $370/mo | our featured min $10/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/jewelry-store-brentwood-pa/
+14. liquor store brentwood pa | searches/mo 990 (est) | CPC $4.14 | value $4,100 | Google Ads equiv $370/mo | our featured min $10/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/liquor-store-brentwood-pa/
+15. pet store brentwood pa | searches/mo 990 (est) | CPC $4.14 | value $4,100 | Google Ads equiv $370/mo | our featured min $10/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/pet-store-brentwood-pa/
+
+## By value (searches x CPC)
+1. dentist brentwood pa | searches/mo 13,000 (est) | CPC $4.70 | value $61,000 | Google Ads equiv $3,300/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dentist-brentwood-pa/
+2. car wash brentwood pa | searches/mo 13,000 (est) | CPC $4.35 | value $57,000 | Google Ads equiv $3,100/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/car-wash-brentwood-pa/
+3. mechanic brentwood pa | searches/mo 4,800 (est) | CPC $4.35 | value $21,000 | Google Ads equiv $1,200/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/mechanic-brentwood-pa/
+4. haircut brentwood pa | searches/mo 2,600 (est) | CPC $4.62 | value $12,000 | Google Ads equiv $690/mo | our featured min $50/mo | registry competitors 5 | https://registry-edge.dingalinged.workers.dev/k/haircut-brentwood-pa/
+5. auto repair brentwood pa | searches/mo 2,100 (est) | CPC $4.35 | value $9,100 | Google Ads equiv $510/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-brentwood-pa/
+6. hair salon brentwood pa | searches/mo 11,000 (est) | CPC $0.55 | value $6,100 | Google Ads equiv $350/mo | our featured min $50/mo | registry competitors 5 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-brentwood-pa/
+7. pediatrician brentwood pa | searches/mo 640 (est) | CPC $4.76 | value $3,000 | Google Ads equiv $210/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/pediatrician-brentwood-pa/
+8. tax preparer brentwood pa | searches/mo 430 (est) | CPC $5.87 | value $2,500 | Google Ads equiv $140/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tax-preparer-brentwood-pa/
+9. insurance agency brentwood pa | searches/mo 640 (est) | CPC $3.39 | value $2,200 | Google Ads equiv $180/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/insurance-agency-brentwood-pa/
+10. tax preparation brentwood pa | searches/mo 520 (est) | CPC $3.25 | value $1,700 | Google Ads equiv $140/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tax-preparation-brentwood-pa/
+11. accountant brentwood pa | searches/mo 230 (est) | CPC $5.23 | value $1,200 | Google Ads equiv $68.00/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/accountant-brentwood-pa/
+12. insurance agents brentwood pa | searches/mo 350 (est) | CPC $3.39 | value $1,200 | Google Ads equiv $99.00/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/insurance-agents-brentwood-pa/
+13. insurance agent brentwood pa | searches/mo 290 (est) | CPC $3.39 | value $980 | Google Ads equiv $82.00/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/insurance-agent-brentwood-pa/
+14. accounting services brentwood pa | searches/mo 86.00 (est) | CPC $5.87 | value $500 | Google Ads equiv $29.00/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/accounting-services-brentwood-pa/
+
+All market data: https://registry-edge.dingalinged.workers.dev/market/ | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html

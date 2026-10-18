@@ -1,0 +1,58 @@
+Keyword market for Wyandotte, MI: 69 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Detroit-Warren-Dearborn, MI metro (US volume x population share).
+
+# Top keywords in Wyandotte, MI
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json
+
+## By monthly searches
+1. car wash wyandotte mi | searches/mo 24,000 (est) | CPC $4.35 | value $100,000 | Google Ads equiv $5,800/mo | our featured min $20/mo | registry competitors 5 | https://registry-edge.dingalinged.workers.dev/k/car-wash-wyandotte-mi/
+2. dentist wyandotte mi | searches/mo 24,000 (est) | CPC $4.70 | value $110,000 | Google Ads equiv $6,100/mo | our featured min $100/mo | registry competitors 9 | https://registry-edge.dingalinged.workers.dev/k/dentist-wyandotte-mi/
+3. gym wyandotte mi | searches/mo 24,000 (est) | CPC $1.67 | value $40,000 | Google Ads equiv $2,900/mo | our featured min $50/mo | registry competitors 5 | https://registry-edge.dingalinged.workers.dev/k/gym-wyandotte-mi/
+4. oil change wyandotte mi | searches/mo 24,000 (est) | CPC $4.35 | value $100,000 | Google Ads equiv $5,800/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/oil-change-wyandotte-mi/
+5. hair salon wyandotte mi | searches/mo 19,000 (est) | CPC $0.55 | value $10,000 | Google Ads equiv $600/mo | our featured min $50/mo | registry competitors 16 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-wyandotte-mi/
+6. nail salon wyandotte mi | searches/mo 13,000 (est) | CPC $0.61 | value $7,900 | Google Ads equiv $450/mo | our featured min $50/mo | registry competitors 6 | https://registry-edge.dingalinged.workers.dev/k/nail-salon-wyandotte-mi/
+7. plumber wyandotte mi | searches/mo 11,000 (est) | CPC $12.04 | value $130,000 | Google Ads equiv $8,400/mo | our featured min $100/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/plumber-wyandotte-mi/
+8. mechanic wyandotte mi | searches/mo 8,600 (est) | CPC $4.35 | value $37,000 | Google Ads equiv $2,100/mo | our featured min $20/mo | registry competitors 26 | https://registry-edge.dingalinged.workers.dev/k/mechanic-wyandotte-mi/
+9. vet wyandotte mi | searches/mo 7,100 (est) | CPC $4.06 | value $29,000 | Google Ads equiv $1,900/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/vet-wyandotte-mi/
+10. dog groomer wyandotte mi | searches/mo 5,800 (est) | CPC $4.06 | value $24,000 | Google Ads equiv $1,500/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/dog-groomer-wyandotte-mi/
+11. haircut wyandotte mi | searches/mo 4,700 (est) | CPC $4.62 | value $22,000 | Google Ads equiv $1,200/mo | our featured min $50/mo | registry competitors 16 | https://registry-edge.dingalinged.workers.dev/k/haircut-wyandotte-mi/
+12. auto repair wyandotte mi | searches/mo 3,900 (est) | CPC $4.35 | value $17,000 | Google Ads equiv $940/mo | our featured min $20/mo | registry competitors 26 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-wyandotte-mi/
+13. movers wyandotte mi | searches/mo 3,900 (est) | CPC $8.23 | value $32,000 | Google Ads equiv $2,000/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/movers-wyandotte-mi/
+14. chiropractor wyandotte mi | searches/mo 3,200 (est) | CPC $4.76 | value $15,000 | Google Ads equiv $1,000/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/chiropractor-wyandotte-mi/
+15. dog boarding wyandotte mi | searches/mo 3,200 (est) | CPC $4.06 | value $13,000 | Google Ads equiv $850/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dog-boarding-wyandotte-mi/
+
+## By CPC
+1. hvac repair wyandotte mi | searches/mo 950 (est) | CPC $17.76 | value $17,000 | Google Ads equiv $1,100/mo | our featured min $100/mo | registry competitors 5 | https://registry-edge.dingalinged.workers.dev/k/hvac-repair-wyandotte-mi/
+2. plumbing services wyandotte mi | searches/mo 640 (est) | CPC $13.90 | value $8,900 | Google Ads equiv $570/mo | our featured min $100/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/plumbing-services-wyandotte-mi/
+3. painters wyandotte mi | searches/mo 780 (est) | CPC $13.74 | value $11,000 | Google Ads equiv $680/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/painters-wyandotte-mi/
+4. moving company wyandotte mi | searches/mo 2,600 (est) | CPC $12.41 | value $32,000 | Google Ads equiv $2,100/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/moving-company-wyandotte-mi/
+5. electrician wyandotte mi | searches/mo 3,200 (est) | CPC $12.18 | value $39,000 | Google Ads equiv $2,500/mo | our featured min $100/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/electrician-wyandotte-mi/
+6. plumber wyandotte mi | searches/mo 11,000 (est) | CPC $12.04 | value $130,000 | Google Ads equiv $8,400/mo | our featured min $100/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/plumber-wyandotte-mi/
+7. attorney wyandotte mi | searches/mo 950 (est) | CPC $9.87 | value $9,400 | Google Ads equiv $560/mo | our featured min $100/mo | registry competitors 22 | https://registry-edge.dingalinged.workers.dev/k/attorney-wyandotte-mi/
+8. lawyer wyandotte mi | searches/mo 640 (est) | CPC $9.87 | value $6,300 | Google Ads equiv $380/mo | our featured min $100/mo | registry competitors 22 | https://registry-edge.dingalinged.workers.dev/k/lawyer-wyandotte-mi/
+9. landscaping wyandotte mi | searches/mo 2,600 (est) | CPC $8.76 | value $23,000 | Google Ads equiv $1,500/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/landscaping-wyandotte-mi/
+10. window repair wyandotte mi | searches/mo 510 (est) | CPC $8.76 | value $4,500 | Google Ads equiv $280/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/window-repair-wyandotte-mi/
+11. architect wyandotte mi | searches/mo 510 (est) | CPC $8.33 | value $4,200 | Google Ads equiv $270/mo | our featured min $50/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/architect-wyandotte-mi/
+12. concrete contractor wyandotte mi | searches/mo 510 (est) | CPC $8.33 | value $4,200 | Google Ads equiv $270/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/concrete-contractor-wyandotte-mi/
+13. heating and air wyandotte mi | searches/mo 46.00 (est) | CPC $8.33 | value $380 | Google Ads equiv $24.00/mo | our featured min $100/mo | registry competitors 5 | https://registry-edge.dingalinged.workers.dev/k/heating-and-air-wyandotte-mi/
+14. plumbers wyandotte mi | searches/mo 46.00 (est) | CPC $8.33 | value $380 | Google Ads equiv $24.00/mo | our featured min $100/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/plumbers-wyandotte-mi/
+15. storage units wyandotte mi | searches/mo 2,800 (est) | CPC $8.33 | value $23,000 | Google Ads equiv $1,500/mo | our featured min $50/mo | registry competitors 6 | https://registry-edge.dingalinged.workers.dev/k/storage-units-wyandotte-mi/
+
+## By value (searches x CPC)
+1. plumber wyandotte mi | searches/mo 11,000 (est) | CPC $12.04 | value $130,000 | Google Ads equiv $8,400/mo | our featured min $100/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/plumber-wyandotte-mi/
+2. dentist wyandotte mi | searches/mo 24,000 (est) | CPC $4.70 | value $110,000 | Google Ads equiv $6,100/mo | our featured min $100/mo | registry competitors 9 | https://registry-edge.dingalinged.workers.dev/k/dentist-wyandotte-mi/
+3. car wash wyandotte mi | searches/mo 24,000 (est) | CPC $4.35 | value $100,000 | Google Ads equiv $5,800/mo | our featured min $20/mo | registry competitors 5 | https://registry-edge.dingalinged.workers.dev/k/car-wash-wyandotte-mi/
+4. oil change wyandotte mi | searches/mo 24,000 (est) | CPC $4.35 | value $100,000 | Google Ads equiv $5,800/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/oil-change-wyandotte-mi/
+5. gym wyandotte mi | searches/mo 24,000 (est) | CPC $1.67 | value $40,000 | Google Ads equiv $2,900/mo | our featured min $50/mo | registry competitors 5 | https://registry-edge.dingalinged.workers.dev/k/gym-wyandotte-mi/
+6. electrician wyandotte mi | searches/mo 3,200 (est) | CPC $12.18 | value $39,000 | Google Ads equiv $2,500/mo | our featured min $100/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/electrician-wyandotte-mi/
+7. mechanic wyandotte mi | searches/mo 8,600 (est) | CPC $4.35 | value $37,000 | Google Ads equiv $2,100/mo | our featured min $20/mo | registry competitors 26 | https://registry-edge.dingalinged.workers.dev/k/mechanic-wyandotte-mi/
+8. movers wyandotte mi | searches/mo 3,900 (est) | CPC $8.23 | value $32,000 | Google Ads equiv $2,000/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/movers-wyandotte-mi/
+9. moving company wyandotte mi | searches/mo 2,600 (est) | CPC $12.41 | value $32,000 | Google Ads equiv $2,100/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/moving-company-wyandotte-mi/
+10. vet wyandotte mi | searches/mo 7,100 (est) | CPC $4.06 | value $29,000 | Google Ads equiv $1,900/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/vet-wyandotte-mi/
+11. dog groomer wyandotte mi | searches/mo 5,800 (est) | CPC $4.06 | value $24,000 | Google Ads equiv $1,500/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/dog-groomer-wyandotte-mi/
+12. landscaping wyandotte mi | searches/mo 2,600 (est) | CPC $8.76 | value $23,000 | Google Ads equiv $1,500/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/landscaping-wyandotte-mi/
+13. haircut wyandotte mi | searches/mo 4,700 (est) | CPC $4.62 | value $22,000 | Google Ads equiv $1,200/mo | our featured min $50/mo | registry competitors 16 | https://registry-edge.dingalinged.workers.dev/k/haircut-wyandotte-mi/
+14. auto repair wyandotte mi | searches/mo 3,900 (est) | CPC $4.35 | value $17,000 | Google Ads equiv $940/mo | our featured min $20/mo | registry competitors 26 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-wyandotte-mi/
+15. hvac repair wyandotte mi | searches/mo 950 (est) | CPC $17.76 | value $17,000 | Google Ads equiv $1,100/mo | our featured min $100/mo | registry competitors 5 | https://registry-edge.dingalinged.workers.dev/k/hvac-repair-wyandotte-mi/
+
+All market data: https://registry-edge.dingalinged.workers.dev/market/ | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html

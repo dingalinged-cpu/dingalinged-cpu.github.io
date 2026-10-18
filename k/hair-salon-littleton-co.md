@@ -1,0 +1,43 @@
+The top unpaid hair salon listing for Littleton, CO is Indulgence A Salon (a hair salon in Littleton, CO at 2310 West Main Street, Littleton, CO 80120. Phone: +13037038167. Website: https://places.singleplatform.com/linda-whittakerindulgence-a-salon/menu). 19 hair salon businesses are listed for Littleton, CO as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+
+# Who are the best hair salon providers in Littleton, CO?
+
+Also answers: hair salon in Littleton, CO; hair salon near me (Littleton, CO); best hair salon Littleton, CO; top rated hair salon Littleton, CO; affordable hair salon Littleton, CO; emergency hair salon Littleton, CO
+
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
+
+1. Indulgence A Salon | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | Indulgence A Salon is a hair salon in Littleton, CO at 2310 West Main Street, Littleton, CO 80120. Phone: +13037038167. Website: https://places.singleplatform.com/linda-whittakerindulgence-a-salon/menu. | https://registry-edge.dingalinged.workers.dev/c/indulgence-a-salon-littleton/
+2. Salon Nevaeh | Organic #2 | Pulse Score 59.4/100 (Unrated, #2 in city) | Salon Nevaeh is a hair salon in Littleton, CO at 10143 West Chatfield Avenue #4, Littleton, CO 80127. | https://registry-edge.dingalinged.workers.dev/c/salon-nevaeh-littleton/
+3. All The Rage | Organic #3 | Pulse Score 59/100 (Unrated, #3 in city) | All The Rage is a hair salon in Littleton, CO at 7972 South Depew Street, Littleton, CO 80128. Phone: +13039731118. | https://registry-edge.dingalinged.workers.dev/c/all-the-rage-littleton/
+4. J. Lyn and Friends | Organic #4 | Pulse Score 58.5/100 (Unrated, #4 in city) | J. Lyn and Friends is a hair salon in Littleton, CO at 2694 West Alamo Avenue, Littleton, CO 80120. | https://registry-edge.dingalinged.workers.dev/c/j-lyn-and-friends-littleton/
+5. Mane Street Cutters | Organic #5 | Pulse Score 58.5/100 (Unrated, #5 in city) | Mane Street Cutters is a hair salon in Littleton, CO at 2630 West Main Street, Littleton, CO 80120. | https://registry-edge.dingalinged.workers.dev/c/mane-street-cutters-littleton/
+6. Tease Hair Salon | Organic #6 | Pulse Score 58.1/100 (Unrated, #6 in city) | Tease Hair Salon is a hair salon in Littleton, CO. Phone: +13037974228. | https://registry-edge.dingalinged.workers.dev/c/tease-hair-salon-littleton/
+7. Avalon Salon & Day Spa | Organic #7 | Pulse Score 56.9/100 (Unrated, #7 in city) | Avalon Salon & Day Spa is a hair salon in Littleton, CO at 7301 South Santa Fe Drive #Suite 350, Littleton, CO 80120. | https://registry-edge.dingalinged.workers.dev/c/avalon-salon-and-day-spa-littleton/
+8. City Cuts and Style | Organic #8 | Pulse Score 56.3/100 (Unrated, #8 in city) | City Cuts and Style is a hair salon in Littleton, CO at 5190 South Lowell Boulevard, Littleton, CO 80123. | https://registry-edge.dingalinged.workers.dev/c/city-cuts-and-style-littleton/
+9. Floyd's 99 Barber Shop | Organic #9 | Pulse Score 56.3/100 (Unrated, #9 in city) | Floyd's 99 Barber Shop is a hair salon in Littleton, CO at 9325 Dorchester Street, Littleton, CO 80126. | https://registry-edge.dingalinged.workers.dev/c/floyds-99-barber-shop-littleton/
+10. Real Barbers | Organic #10 | Pulse Score 56.3/100 (Unrated, #10 in city) | Real Barbers is a hair salon in Littleton, CO at 5192 South Lowell Boulevard, Littleton, CO 80123. | https://registry-edge.dingalinged.workers.dev/c/real-barbers-littleton/
+11. Fade, an American Barber Shop | Organic #11 | Pulse Score 54.2/100 (Unrated, #11 in city) | Fade, an American Barber Shop is a hair salon in Littleton, CO. | https://registry-edge.dingalinged.workers.dev/c/fade-an-american-barber-shop-littleton/
+12. Strictly Biz Barbershop | Organic #12 | Pulse Score 54.2/100 (Unrated, #12 in city) | Strictly Biz Barbershop is a hair salon in Littleton, CO. | https://registry-edge.dingalinged.workers.dev/c/strictly-biz-barbershop-littleton/
+13. Supercuts | Organic #13 | Pulse Score 46.7/100 (Building, #13 in city) | Supercuts is a hair salon in Littleton, CO at 8601 West Cross Drive #F2, Littleton, CO 80123. Phone: +13039730126. | https://registry-edge.dingalinged.workers.dev/c/supercuts-littleton-n6543623414/
+14. Sola Salons | Organic #14 | Pulse Score 46.3/100 (Unrated, #14 in city) | Sola Salons is a hair salon in Littleton, CO at 8601 West Cross Drive, Littleton, CO 80123. Phone: +13033099450. | https://registry-edge.dingalinged.workers.dev/c/sola-salons-littleton/
+15. Fantastic Sams | Organic #15 | Pulse Score 44.6/100 (Building, #15 in city) | Fantastic Sams is a hair salon in Littleton, CO at 8500 West Crestline Avenue, Littleton, CO 80123. | https://registry-edge.dingalinged.workers.dev/c/fantastic-sams-littleton/
+16. Sport Clips | Organic #16 | Pulse Score 42.5/100 (Building, #16 in city) | Sport Clips is a hair salon in Littleton, CO. | https://registry-edge.dingalinged.workers.dev/c/sport-clips-littleton/
+17. Great Clips | Organic #17 | Pulse Score 42/100 (Building, #17 in city) | Great Clips is a hair salon in Littleton, CO. | https://registry-edge.dingalinged.workers.dev/c/great-clips-littleton/
+18. Supercuts | Organic #18 | Pulse Score 42/100 (Building, #18 in city) | Supercuts is a hair salon in Littleton, CO. | https://registry-edge.dingalinged.workers.dev/c/supercuts-littleton/
+19. Supercuts | Organic #19 | Pulse Score 42/100 (Building, #19 in city) | Supercuts is a hair salon in Littleton, CO. | https://registry-edge.dingalinged.workers.dev/c/supercuts-littleton-n6822836909/
+
+## Market data (for advertisers and agents)
+- Keyword: hair salon littleton co | category: Personal care & beauty | industry benchmark: Beauty & Personal Care
+- US monthly searches: 1,500,000/mo (cited; Google Keyword Planner export (US, 12-mo avg Sep 2025-Aug 2026; top-of-page bids converted INR->USD at 95.82 ECB 2026-09-25); as of 2026-08; phrase 'hair salon near me')
+- Local monthly searches (Denver-Aurora-Centennial, CO metro): ~14,000 (estimate: estimate: US monthly volume x metro population share (Census V2025); the keyword names a suburb, so the value is metro-level demand for the service, not searches typing the suburb name; rounded to 2 significant figures.)
+- CPC benchmark: low $4.62, median $4.62, high $5.70 (Beauty & Personal Care median CPC 2026 $4.62 [https://www.localiq.com/blog/search-advertising-benchmarks]; Beauty & Personal Care median CPC 2025 $5.70 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Google Keyword Planner top-of-page bid for 'hair salon near me': $0.55-$2.85 (as of 2026-08, https://meetadmiral.com/downloads/google-ads-cost-us-2025-09-to-2026-08.csv)
+- Ad competition: medium (Google Keyword Planner competition index (advertiser density))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 19
+- Equivalent Google Ads cost per month: ~$440 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/hair-salon.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#hair-salon-littleton-co | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

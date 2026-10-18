@@ -1,0 +1,24 @@
+Belle Tire is a tire shop in Taylor, MI at 10812 Pelham Road, Taylor, MI 48180. Phone: +13132634764. Website: https://www.belletire.com/stores/detail/12/belle-tire-taylor-mi.
+
+# Belle Tire
+
+- Category: tire shop
+- Services: tire shop
+- Address: 10812 Pelham Road, Taylor, MI 48180
+- City: Taylor
+- State: MI
+- ZIP: 48180
+- Coordinates: 42.2294305, -83.2304237
+- Phone: +13132634764
+- Website: https://www.belletire.com/stores/detail/12/belle-tire-taylor-mi
+- Email: n/a
+- Opening hours (OSM syntax): Mo 08:00-20:00; Tu-We 08:00-18:00; Th 08:00-20:00; Fr 08:00-18:00; Sa 08:00-17:00; Su closed
+- Pulse Score: 49.3/100 — Building — top 65% of tire shops in Detroit, MI, #3 of 4 tire shops in Taylor (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 62.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/belle-tire-taylor-w678132092/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/belle-tire-taylor-w678132092.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/678132092 (license ODbL-1.0); source data as of 2026-05-31
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

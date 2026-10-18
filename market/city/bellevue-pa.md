@@ -1,0 +1,58 @@
+Keyword market for Bellevue, PA: 29 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Pittsburgh, PA metro (US volume x population share).
+
+# Top keywords in Bellevue, PA
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json
+
+## By monthly searches
+1. car wash bellevue pa | searches/mo 13,000 (est) | CPC $4.35 | value $57,000 | Google Ads equiv $3,100/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/car-wash-bellevue-pa/
+2. dentist bellevue pa | searches/mo 13,000 (est) | CPC $4.70 | value $61,000 | Google Ads equiv $3,300/mo | our featured min $100/mo | registry competitors 5 | https://registry-edge.dingalinged.workers.dev/k/dentist-bellevue-pa/
+3. hair salon bellevue pa | searches/mo 11,000 (est) | CPC $0.55 | value $6,100 | Google Ads equiv $350/mo | our featured min $50/mo | registry competitors 10 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-bellevue-pa/
+4. mechanic bellevue pa | searches/mo 4,800 (est) | CPC $4.35 | value $21,000 | Google Ads equiv $1,200/mo | our featured min $20/mo | registry competitors 6 | https://registry-edge.dingalinged.workers.dev/k/mechanic-bellevue-pa/
+5. tire shop bellevue pa | searches/mo 3,900 (est) | CPC $4.35 | value $17,000 | Google Ads equiv $940/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tire-shop-bellevue-pa/
+6. haircut bellevue pa | searches/mo 2,600 (est) | CPC $4.62 | value $12,000 | Google Ads equiv $690/mo | our featured min $50/mo | registry competitors 10 | https://registry-edge.dingalinged.workers.dev/k/haircut-bellevue-pa/
+7. auto repair bellevue pa | searches/mo 2,100 (est) | CPC $4.35 | value $9,100 | Google Ads equiv $510/mo | our featured min $20/mo | registry competitors 6 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-bellevue-pa/
+8. chiropractor bellevue pa | searches/mo 1,700 (est) | CPC $4.76 | value $8,100 | Google Ads equiv $540/mo | our featured min $50/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/chiropractor-bellevue-pa/
+9. insurance agency bellevue pa | searches/mo 640 (est) | CPC $3.39 | value $2,200 | Google Ads equiv $180/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/insurance-agency-bellevue-pa/
+10. attorney bellevue pa | searches/mo 520 (est) | CPC $9.87 | value $5,100 | Google Ads equiv $310/mo | our featured min $100/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/attorney-bellevue-pa/
+11. tax preparation bellevue pa | searches/mo 520 (est) | CPC $3.25 | value $1,700 | Google Ads equiv $140/mo | our featured min $50/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/tax-preparation-bellevue-pa/
+12. yoga classes bellevue pa | searches/mo 520 (est) | CPC $1.78 | value $930 | Google Ads equiv $66.00/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/yoga-classes-bellevue-pa/
+13. tax preparer bellevue pa | searches/mo 430 (est) | CPC $5.87 | value $2,500 | Google Ads equiv $140/mo | our featured min $50/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/tax-preparer-bellevue-pa/
+14. insurance agents bellevue pa | searches/mo 350 (est) | CPC $3.39 | value $1,200 | Google Ads equiv $99.00/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/insurance-agents-bellevue-pa/
+15. lawyer bellevue pa | searches/mo 350 (est) | CPC $9.87 | value $3,500 | Google Ads equiv $210/mo | our featured min $100/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/lawyer-bellevue-pa/
+
+## By CPC
+1. attorney bellevue pa | searches/mo 520 (est) | CPC $9.87 | value $5,100 | Google Ads equiv $310/mo | our featured min $100/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/attorney-bellevue-pa/
+2. lawyer bellevue pa | searches/mo 350 (est) | CPC $9.87 | value $3,500 | Google Ads equiv $210/mo | our featured min $100/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/lawyer-bellevue-pa/
+3. bakery bellevue pa | searches/mo 1,600 (est) | CPC $7.17 | value $11,000 | Google Ads equiv $880/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/bakery-bellevue-pa/
+4. florist bellevue pa | searches/mo 1,600 (est) | CPC $7.17 | value $11,000 | Google Ads equiv $880/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/florist-bellevue-pa/
+5. tax preparer bellevue pa | searches/mo 430 (est) | CPC $5.87 | value $2,500 | Google Ads equiv $140/mo | our featured min $50/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/tax-preparer-bellevue-pa/
+6. preschool bellevue pa | searches/mo 1,600 (est) | CPC $4.81 | value $7,700 | Google Ads equiv $440/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/preschool-bellevue-pa/
+7. chiropractor bellevue pa | searches/mo 1,700 (est) | CPC $4.76 | value $8,100 | Google Ads equiv $540/mo | our featured min $50/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/chiropractor-bellevue-pa/
+8. eye doctor bellevue pa | searches/mo 1,600 (est) | CPC $4.76 | value $7,600 | Google Ads equiv $510/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/eye-doctor-bellevue-pa/
+9. physical therapy bellevue pa | searches/mo 1,600 (est) | CPC $4.76 | value $7,600 | Google Ads equiv $510/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/physical-therapy-bellevue-pa/
+10. podiatrist bellevue pa | searches/mo 1,600 (est) | CPC $4.76 | value $7,600 | Google Ads equiv $510/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/podiatrist-bellevue-pa/
+11. dentist bellevue pa | searches/mo 13,000 (est) | CPC $4.70 | value $61,000 | Google Ads equiv $3,300/mo | our featured min $100/mo | registry competitors 5 | https://registry-edge.dingalinged.workers.dev/k/dentist-bellevue-pa/
+12. haircut bellevue pa | searches/mo 2,600 (est) | CPC $4.62 | value $12,000 | Google Ads equiv $690/mo | our featured min $50/mo | registry competitors 10 | https://registry-edge.dingalinged.workers.dev/k/haircut-bellevue-pa/
+13. auto repair bellevue pa | searches/mo 2,100 (est) | CPC $4.35 | value $9,100 | Google Ads equiv $510/mo | our featured min $20/mo | registry competitors 6 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-bellevue-pa/
+14. car wash bellevue pa | searches/mo 13,000 (est) | CPC $4.35 | value $57,000 | Google Ads equiv $3,100/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/car-wash-bellevue-pa/
+15. mechanic bellevue pa | searches/mo 4,800 (est) | CPC $4.35 | value $21,000 | Google Ads equiv $1,200/mo | our featured min $20/mo | registry competitors 6 | https://registry-edge.dingalinged.workers.dev/k/mechanic-bellevue-pa/
+
+## By value (searches x CPC)
+1. dentist bellevue pa | searches/mo 13,000 (est) | CPC $4.70 | value $61,000 | Google Ads equiv $3,300/mo | our featured min $100/mo | registry competitors 5 | https://registry-edge.dingalinged.workers.dev/k/dentist-bellevue-pa/
+2. car wash bellevue pa | searches/mo 13,000 (est) | CPC $4.35 | value $57,000 | Google Ads equiv $3,100/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/car-wash-bellevue-pa/
+3. mechanic bellevue pa | searches/mo 4,800 (est) | CPC $4.35 | value $21,000 | Google Ads equiv $1,200/mo | our featured min $20/mo | registry competitors 6 | https://registry-edge.dingalinged.workers.dev/k/mechanic-bellevue-pa/
+4. tire shop bellevue pa | searches/mo 3,900 (est) | CPC $4.35 | value $17,000 | Google Ads equiv $940/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tire-shop-bellevue-pa/
+5. haircut bellevue pa | searches/mo 2,600 (est) | CPC $4.62 | value $12,000 | Google Ads equiv $690/mo | our featured min $50/mo | registry competitors 10 | https://registry-edge.dingalinged.workers.dev/k/haircut-bellevue-pa/
+6. auto repair bellevue pa | searches/mo 2,100 (est) | CPC $4.35 | value $9,100 | Google Ads equiv $510/mo | our featured min $20/mo | registry competitors 6 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-bellevue-pa/
+7. chiropractor bellevue pa | searches/mo 1,700 (est) | CPC $4.76 | value $8,100 | Google Ads equiv $540/mo | our featured min $50/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/chiropractor-bellevue-pa/
+8. hair salon bellevue pa | searches/mo 11,000 (est) | CPC $0.55 | value $6,100 | Google Ads equiv $350/mo | our featured min $50/mo | registry competitors 10 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-bellevue-pa/
+9. attorney bellevue pa | searches/mo 520 (est) | CPC $9.87 | value $5,100 | Google Ads equiv $310/mo | our featured min $100/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/attorney-bellevue-pa/
+10. lawyer bellevue pa | searches/mo 350 (est) | CPC $9.87 | value $3,500 | Google Ads equiv $210/mo | our featured min $100/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/lawyer-bellevue-pa/
+11. tax preparer bellevue pa | searches/mo 430 (est) | CPC $5.87 | value $2,500 | Google Ads equiv $140/mo | our featured min $50/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/tax-preparer-bellevue-pa/
+12. insurance agency bellevue pa | searches/mo 640 (est) | CPC $3.39 | value $2,200 | Google Ads equiv $180/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/insurance-agency-bellevue-pa/
+13. tax preparation bellevue pa | searches/mo 520 (est) | CPC $3.25 | value $1,700 | Google Ads equiv $140/mo | our featured min $50/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/tax-preparation-bellevue-pa/
+14. insurance agents bellevue pa | searches/mo 350 (est) | CPC $3.39 | value $1,200 | Google Ads equiv $99.00/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/insurance-agents-bellevue-pa/
+15. insurance agent bellevue pa | searches/mo 290 (est) | CPC $3.39 | value $980 | Google Ads equiv $82.00/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/insurance-agent-bellevue-pa/
+
+All market data: https://registry-edge.dingalinged.workers.dev/market/ | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html

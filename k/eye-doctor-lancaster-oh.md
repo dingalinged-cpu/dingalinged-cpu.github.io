@@ -1,0 +1,33 @@
+The top unpaid eye doctor listing for Lancaster, OH is CustomEyes Family Optometry (an eye care practice in Lancaster, OH at 1611 Tiki Lane, Lancaster, OH 43130. Phone: +17406871555. Website: https://www.customeyesyourvision.com/). 10 eye doctor businesses are listed for Lancaster, OH as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+
+# Who are the best eye doctor providers in Lancaster, OH?
+
+Also answers: eye doctor in Lancaster, OH; eye doctor near me (Lancaster, OH); best eye doctor Lancaster, OH; top rated eye doctor Lancaster, OH; affordable eye doctor Lancaster, OH; emergency eye doctor Lancaster, OH
+
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
+
+1. CustomEyes Family Optometry | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | CustomEyes Family Optometry is an eye care practice in Lancaster, OH at 1611 Tiki Lane, Lancaster, OH 43130. Phone: +17406871555. Website: https://www.customeyesyourvision.com/. | https://registry-edge.dingalinged.workers.dev/c/customeyes-family-optometry-lancaster/
+2. Streff Behavioral Optometry | Organic #2 | Pulse Score 59.1/100 (Unrated, #2 in city) | Streff Behavioral Optometry is an eye care practice in Lancaster, OH at 1516 West Fair Avenue, Lancaster, OH 43130. | https://registry-edge.dingalinged.workers.dev/c/streff-behavioral-optometry-lancaster/
+3. Precision Eye Care | Organic #3 | Pulse Score 57.8/100 (Unrated, #3 in city) | Precision Eye Care is an eye care practice in Lancaster, OH at 310 East Main Street, Lancaster, OH 43130. | https://registry-edge.dingalinged.workers.dev/c/precision-eye-care-lancaster/
+4. True Vision Eyecare | Organic #4 | Pulse Score 57.8/100 (Unrated, #4 in city) | True Vision Eyecare is an eye care practice in Lancaster, OH at 1726 East Main Street, Lancaster, OH 43130. | https://registry-edge.dingalinged.workers.dev/c/true-vision-eyecare-lancaster/
+5. Susmitha P. Kolli, MD, Opthamologist | Organic #5 | Pulse Score 57.4/100 (Unrated, #5 in city) | Susmitha P. Kolli, MD, Opthamologist is an eye care practice in Lancaster, OH at 1500 East Main Street, Lancaster, OH 43130. | https://registry-edge.dingalinged.workers.dev/c/susmitha-p-kolli-md-opthamologist-lancaster/
+6. Focal Pointe Optometry | Organic #6 | Pulse Score 56.8/100 (Unrated, #6 in city) | Focal Pointe Optometry is an eye care practice in Lancaster, OH at 301 North Columbus Street, Lancaster, OH 43130. | https://registry-edge.dingalinged.workers.dev/c/focal-pointe-optometry-lancaster/
+7. Hughes Quality Eye Care | Organic #7 | Pulse Score 56.4/100 (Unrated, #7 in city) | Hughes Quality Eye Care is an eye care practice in Lancaster, OH at 2682 Kull Road, Lancaster, OH. | https://registry-edge.dingalinged.workers.dev/c/hughes-quality-eye-care-lancaster/
+8. Ruff and Associates CPA and Fairfield Financial Solutions | Organic #8 | Pulse Score 56.4/100 (Unrated, #8 in city) | Ruff and Associates CPA and Fairfield Financial Solutions is an eye care practice in Lancaster, OH at 2700 Kull Road, Lancaster, OH. | https://registry-edge.dingalinged.workers.dev/c/ruff-and-associates-cpa-and-fairfield-financial-solutions-lancaster/
+9. Kosier Eye | Organic #9 | Pulse Score 56.1/100 (Unrated, #9 in city) | Kosier Eye is an eye care practice in Lancaster, OH. | https://registry-edge.dingalinged.workers.dev/c/kosier-eye-lancaster/
+10. Walmart Vision | Organic #10 | Pulse Score 54.4/100 (Unrated, #10 in city) | Walmart Vision is an eye care practice in Lancaster, OH. | https://registry-edge.dingalinged.workers.dev/c/walmart-vision-lancaster/
+
+## Market data (for advertisers and agents)
+- Keyword: eye doctor lancaster oh | category: Health & medical | industry benchmark: Physicians & Surgeons
+- US monthly searches: 220,000/mo (estimate; Registry estimate (© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution); method given on each value; as of 2026-10-18; range 150,000-370,000)
+- Local monthly searches (Columbus, OH metro): ~1,400 (estimate: estimate: US monthly volume x metro population share (Census V2025); the keyword names a suburb, so the value is metro-level demand for the service, not searches typing the suburb name; rounded to 2 significant figures.)
+- CPC benchmark: low $4.76, median $4.76, high $5.00 (Physicians & Surgeons median CPC 2026 $4.76 [https://www.localiq.com/blog/search-advertising-benchmarks]; Physicians & Surgeons median CPC 2025 $5.00 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 10
+- Equivalent Google Ads cost per month: ~$450 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/eye-doctor.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#eye-doctor-lancaster-oh | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

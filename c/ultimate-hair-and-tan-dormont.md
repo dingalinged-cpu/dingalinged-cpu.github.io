@@ -1,0 +1,24 @@
+Ultimate Hair & Tan is a hair salon in Dormont, PA at 2899 West Liberty Avenue, Dormont, PA 15216. Phone: +14125619408.
+
+# Ultimate Hair & Tan
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 2899 West Liberty Avenue, Dormont, PA 15216
+- City: Dormont
+- State: PA
+- ZIP: 15216
+- Coordinates: 40.394757, -80.0344012
+- Phone: +14125619408
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 23% of hair salons in Pittsburgh, PA, #6 of 9 hair salons in Dormont (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.6, Trust 57.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/ultimate-hair-and-tan-dormont/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/ultimate-hair-and-tan-dormont.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6852746265 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

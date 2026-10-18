@@ -1,0 +1,41 @@
+The top unpaid auto repair listing for Livonia, MI is Classic 2 Current Fabrication (an auto repair shop in Livonia, MI at 34039 Schoolcraft Road, Livonia, MI 48150. Phone: +13135342886. Website: https://www.c2cfabrication.com/). 18 auto repair businesses are listed for Livonia, MI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+
+# Who are the best auto repair providers in Livonia, MI?
+
+Also answers: auto repair in Livonia, MI; auto repair near me (Livonia, MI); best auto repair Livonia, MI; top rated auto repair Livonia, MI; affordable auto repair Livonia, MI; emergency auto repair Livonia, MI
+
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
+
+1. Classic 2 Current Fabrication | Organic #1 | Pulse Score 62.2/100 (Unrated, #1 in city) | Classic 2 Current Fabrication is an auto repair shop in Livonia, MI at 34039 Schoolcraft Road, Livonia, MI 48150. Phone: +13135342886. Website: https://www.c2cfabrication.com/. | https://registry-edge.dingalinged.workers.dev/c/classic-2-current-fabrication-livonia/
+2. Kirk's Auto Care | Organic #2 | Pulse Score 62.2/100 (Unrated, #2 in city) | Kirk's Auto Care is an auto repair shop in Livonia, MI at 31390 Plymouth Road, Livonia, MI 48150. Phone: +17342612220. Website: https://www.kirksautocare.com/. | https://registry-edge.dingalinged.workers.dev/c/kirks-auto-care-livonia/
+3. AE Auto Care | Organic #3 | Pulse Score 61.7/100 (Unrated, #3 in city) | AE Auto Care is an auto repair shop in Livonia, MI at 17175 Middlebelt Road, Livonia, MI. Phone: +17345227222. Website: https://www.aeautocarelivonia.com/. | https://registry-edge.dingalinged.workers.dev/c/ae-auto-care-livonia/
+4. The Livonia Garage | Organic #4 | Pulse Score 61.7/100 (Unrated, #5 in city) | The Livonia Garage is an auto repair shop in Livonia, MI at 15140 Middlebelt Road, Livonia, MI. Phone: +17345227333. Website: https://thelivoniagarage.com/. | https://registry-edge.dingalinged.workers.dev/c/the-livonia-garage-livonia/
+5. The Plymouth Road | Organic #5 | Pulse Score 61.7/100 (Unrated, #6 in city) | The Plymouth Road is an auto repair shop in Livonia, MI at 33939 Plymouth Road, Livonia, MI. Phone: +17342381441. Website: https://www.theplymouthgarage.com/. | https://registry-edge.dingalinged.workers.dev/c/the-plymouth-road-livonia/
+6. Notorious Tintz | Organic #6 | Pulse Score 61.7/100 (Unrated, #4 in city) | Notorious Tintz is an auto repair shop in Livonia, MI at 13622 Merriman Rd, Livonia, MI 48150. Phone: +17344222583. Website: https://www.notorioustintz.com/. | https://registry-edge.dingalinged.workers.dev/c/notorious-tintz-livonia/
+7. Service King - Livonia | Organic #7 | Pulse Score 60.9/100 (Unrated, #7 in city) | Service King - Livonia is an auto repair shop in Livonia, MI at 13345 Merriman Road, Livonia, MI 48150. Phone: +18667305464. Website: https://www.serviceking.com/locations/service-king-livonia. | https://registry-edge.dingalinged.workers.dev/c/service-king-livonia-livonia/
+8. Daly Auto Repair | Organic #8 | Pulse Score 59.4/100 (Unrated, #9 in city) | Daly Auto Repair is an auto repair shop in Livonia, MI at 25775 8 Mile Road, Livonia, MI 48240. Phone: +13136943258. Website: https://dalyautorepair.com/. | https://registry-edge.dingalinged.workers.dev/c/daly-auto-repair-livonia/
+9. Accurate Collision | Organic #9 | Pulse Score 59.4/100 (Unrated, #8 in city) | Accurate Collision is an auto repair shop in Livonia, MI at 12375 Merriman Road, Livonia, MI. Website: https://www.accurateautorepairandcollision.com/. | https://registry-edge.dingalinged.workers.dev/c/accurate-collision-livonia/
+10. Mikes Tire & Auto Repair | Organic #10 | Pulse Score 58.8/100 (Unrated, #10 in city) | Mikes Tire & Auto Repair is an auto repair shop in Livonia, MI. Phone: +17342618151. | https://registry-edge.dingalinged.workers.dev/c/mikes-tire-and-auto-repair-livonia/
+11. Bravo Auto Repair | Organic #11 | Pulse Score 54.6/100 (Unrated, #11 in city) | Bravo Auto Repair is an auto repair shop in Livonia, MI. | https://registry-edge.dingalinged.workers.dev/c/bravo-auto-repair-livonia/
+12. K & J Automotive Service | Organic #12 | Pulse Score 54.6/100 (Unrated, #12 in city) | K & J Automotive Service is an auto repair shop in Livonia, MI. | https://registry-edge.dingalinged.workers.dev/c/k-and-j-automotive-service-livonia/
+13. Motor City Quick Lube | Organic #13 | Pulse Score 54.6/100 (Unrated, #13 in city) | Motor City Quick Lube is an auto repair shop in Livonia, MI. | https://registry-edge.dingalinged.workers.dev/c/motor-city-quick-lube-livonia/
+14. Quick Lube | Organic #14 | Pulse Score 54.6/100 (Unrated, #14 in city) | Quick Lube is an auto repair shop in Livonia, MI. | https://registry-edge.dingalinged.workers.dev/c/quick-lube-livonia/
+15. Firestone | Organic #15 | Pulse Score 42.7/100 (Building, #15 in city) | Firestone is an auto repair shop in Livonia, MI. | https://registry-edge.dingalinged.workers.dev/c/firestone-livonia/
+16. Goodyear | Organic #16 | Pulse Score 42.4/100 (Building, #16 in city) | Goodyear is an auto repair shop in Livonia, MI. | https://registry-edge.dingalinged.workers.dev/c/goodyear-livonia/
+17. Midas | Organic #17 | Pulse Score 42.4/100 (Building, #17 in city) | Midas is an auto repair shop in Livonia, MI. | https://registry-edge.dingalinged.workers.dev/c/midas-livonia/
+18. 10 Minute Oil Change | Organic #18 | Pulse Score 41.8/100 (Unrated, #18 in city) | 10 Minute Oil Change is an auto repair shop in Livonia, MI. | https://registry-edge.dingalinged.workers.dev/c/10-minute-oil-change-livonia/
+
+## Market data (for advertisers and agents)
+- Keyword: auto repair livonia mi | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts
+- US monthly searches: 301,000/mo (cited; Semrush US Sep 2026 (via research source); as of 2026-09; phrase 'auto repair near me')
+- Local monthly searches (Detroit-Warren-Dearborn, MI metro): ~3,900 (estimate: estimate: US monthly volume x metro population share (Census V2025); the keyword names a suburb, so the value is metro-level demand for the service, not searches typing the suburb name; rounded to 2 significant figures.)
+- CPC benchmark: low $3.90, median $4.35, high $4.35 (Automotive: Repair, Service & Parts median CPC 2026 $4.35 [https://www.localiq.com/blog/search-advertising-benchmarks]; Automotive: Repair, Service & Parts median CPC 2025 $3.90 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 18
+- Equivalent Google Ads cost per month: ~$940 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/auto-repair.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#auto-repair-livonia-mi | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

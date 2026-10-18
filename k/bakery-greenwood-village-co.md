@@ -1,0 +1,29 @@
+The top unpaid bakery listing for Greenwood Village, CO is The Bundt Shoppe (a bakery in Greenwood Village, CO at 5910 South University Boulevard #C16, Greenwood Village, CO 80121. Phone: +13037984145. Website: https://wwe.thebundtshoppe.com/). 6 bakery businesses are listed for Greenwood Village, CO as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+
+# Who are the best bakery providers in Greenwood Village, CO?
+
+Also answers: bakery in Greenwood Village, CO; bakery near me (Greenwood Village, CO); best bakery Greenwood Village, CO; top rated bakery Greenwood Village, CO; affordable bakery Greenwood Village, CO; emergency bakery Greenwood Village, CO
+
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
+
+1. The Bundt Shoppe | Organic #1 | Pulse Score 64.8/100 (Good, #1 in city) | The Bundt Shoppe is a bakery in Greenwood Village, CO at 5910 South University Boulevard #C16, Greenwood Village, CO 80121. Phone: +13037984145. Website: https://wwe.thebundtshoppe.com/. | https://registry-edge.dingalinged.workers.dev/c/the-bundt-shoppe-greenwood-village/
+2. BIRD bakery | Organic #2 | Pulse Score 63.9/100 (Unrated, #2 in city) | BIRD bakery is a bakery in Greenwood Village, CO at 8000 East Belleview Avenue #E20, Greenwood Village, CO 80111. Phone: +17203797951. Website: https://birdbakery.com/. | https://registry-edge.dingalinged.workers.dev/c/bird-bakery-greenwood-village/
+3. Anna's Donuts & Burritos | Organic #3 | Pulse Score 63.8/100 (Unrated, #3 in city) | Anna's Donuts & Burritos is a bakery in Greenwood Village, CO at 5999 South University Boulevard, Greenwood Village, CO 80121. Phone: +17209682293. Website: https://annasdonutsburritos.com/. | https://registry-edge.dingalinged.workers.dev/c/annas-donuts-and-burritos-greenwood-village/
+4. La Belle French Bakery | Organic #4 | Pulse Score 56.6/100 (Unrated, #4 in city) | La Belle French Bakery is a bakery in Greenwood Village, CO at 8547 East Arapahoe Road #I, Greenwood Village, CO 80112. | https://registry-edge.dingalinged.workers.dev/c/la-belle-french-bakery-greenwood-village/
+5. Bakers Way Gourmet Bakery | Organic #5 | Pulse Score 54/100 (Unrated, #5 in city) | Bakers Way Gourmet Bakery is a bakery in Greenwood Village, CO. | https://registry-edge.dingalinged.workers.dev/c/bakers-way-gourmet-bakery-greenwood-village/
+6. Great Harvest Bread Company | Organic #6 | Pulse Score 49.4/100 (Building, #6 in city) | Great Harvest Bread Company is a bakery in Greenwood Village, CO at 5910 South University Boulevard #A10, Greenwood Village, CO 80121. Phone: +13033478767. Website: https://www.greatharvest.com/local-bakery-information?tag=greenwood-village. | https://registry-edge.dingalinged.workers.dev/c/great-harvest-bread-company-greenwood-village/
+
+## Market data (for advertisers and agents)
+- Keyword: bakery greenwood village co | category: Events & weddings | industry benchmark: Personal Services
+- US monthly searches: 220,000/mo (estimate; Registry estimate (© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution); method given on each value; as of 2026-10-18; range 150,000-370,000)
+- Local monthly searches (Denver-Aurora-Centennial, CO metro): ~2,000 (estimate: estimate: US monthly volume x metro population share (Census V2025); the keyword names a suburb, so the value is metro-level demand for the service, not searches typing the suburb name; rounded to 2 significant figures.)
+- CPC benchmark: low $5.81, median $7.17, high $7.17 (Personal Services median CPC 2026 $7.17 [https://www.localiq.com/blog/search-advertising-benchmarks]; Personal Services median CPC 2025 $5.81 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 6
+- Equivalent Google Ads cost per month: ~$1,100 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/bakery.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#bakery-greenwood-village-co | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

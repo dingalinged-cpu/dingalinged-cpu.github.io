@@ -1,0 +1,170 @@
+{
+ "title": "Keyword market data: Etna Township, OH",
+ "description": "Top Etna Township, OH service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
+ "updated": "2026-10-18",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
+ "place": "Etna Township, OH",
+ "geography": "Columbus, OH metro",
+ "keywords": 4,
+ "lists": {
+  "by_volume": [
+   {
+    "keyword": "mechanic etna township oh",
+    "slug": "mechanic-etna-township-oh",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-etna-township-oh/",
+    "us_monthly_searches": 673000,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 4400,
+    "cpc_basis_usd": 4.35,
+    "cpc_median_usd": 4.35,
+    "search_value_index_usd": 19000,
+    "equivalent_google_ads_cost_month_usd": 1100,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 2,
+    "ranked_by": "by_volume"
+   },
+   {
+    "keyword": "auto repair etna township oh",
+    "slug": "auto-repair-etna-township-oh",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-etna-township-oh/",
+    "us_monthly_searches": 301000,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 2000,
+    "cpc_basis_usd": 4.35,
+    "cpc_median_usd": 4.35,
+    "search_value_index_usd": 8700,
+    "equivalent_google_ads_cost_month_usd": 480,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 2,
+    "ranked_by": "by_volume"
+   },
+   {
+    "keyword": "crossfit etna township oh",
+    "slug": "crossfit-etna-township-oh",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/crossfit-etna-township-oh/",
+    "us_monthly_searches": 40500,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 270,
+    "cpc_basis_usd": 6.17,
+    "cpc_median_usd": 6.17,
+    "search_value_index_usd": 1700,
+    "equivalent_google_ads_cost_month_usd": 120,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_volume"
+   }
+  ],
+  "by_cpc": [
+   {
+    "keyword": "crossfit etna township oh",
+    "slug": "crossfit-etna-township-oh",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/crossfit-etna-township-oh/",
+    "us_monthly_searches": 40500,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 270,
+    "cpc_basis_usd": 6.17,
+    "cpc_median_usd": 6.17,
+    "search_value_index_usd": 1700,
+    "equivalent_google_ads_cost_month_usd": 120,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "preschool etna township oh",
+    "slug": "preschool-etna-township-oh",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/preschool-etna-township-oh/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "local_monthly_searches_est": 1400,
+    "cpc_basis_usd": 4.81,
+    "cpc_median_usd": 4.81,
+    "search_value_index_usd": 6700,
+    "equivalent_google_ads_cost_month_usd": 390,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "auto repair etna township oh",
+    "slug": "auto-repair-etna-township-oh",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-etna-township-oh/",
+    "us_monthly_searches": 301000,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 2000,
+    "cpc_basis_usd": 4.35,
+    "cpc_median_usd": 4.35,
+    "search_value_index_usd": 8700,
+    "equivalent_google_ads_cost_month_usd": 480,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 2,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "mechanic etna township oh",
+    "slug": "mechanic-etna-township-oh",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-etna-township-oh/",
+    "us_monthly_searches": 673000,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 4400,
+    "cpc_basis_usd": 4.35,
+    "cpc_median_usd": 4.35,
+    "search_value_index_usd": 19000,
+    "equivalent_google_ads_cost_month_usd": 1100,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 2,
+    "ranked_by": "by_cpc"
+   }
+  ],
+  "by_value": [
+   {
+    "keyword": "mechanic etna township oh",
+    "slug": "mechanic-etna-township-oh",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-etna-township-oh/",
+    "us_monthly_searches": 673000,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 4400,
+    "cpc_basis_usd": 4.35,
+    "cpc_median_usd": 4.35,
+    "search_value_index_usd": 19000,
+    "equivalent_google_ads_cost_month_usd": 1100,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 2,
+    "ranked_by": "by_value"
+   },
+   {
+    "keyword": "auto repair etna township oh",
+    "slug": "auto-repair-etna-township-oh",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-etna-township-oh/",
+    "us_monthly_searches": 301000,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 2000,
+    "cpc_basis_usd": 4.35,
+    "cpc_median_usd": 4.35,
+    "search_value_index_usd": 8700,
+    "equivalent_google_ads_cost_month_usd": 480,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 2,
+    "ranked_by": "by_value"
+   },
+   {
+    "keyword": "crossfit etna township oh",
+    "slug": "crossfit-etna-township-oh",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/crossfit-etna-township-oh/",
+    "us_monthly_searches": 40500,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 270,
+    "cpc_basis_usd": 6.17,
+    "cpc_median_usd": 6.17,
+    "search_value_index_usd": 1700,
+    "equivalent_google_ads_cost_month_usd": 120,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_value"
+   }
+  ]
+ },
+ "license": {
+  "keyword_metrics": "© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution"
+ }
+}

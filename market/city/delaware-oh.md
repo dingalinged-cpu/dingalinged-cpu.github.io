@@ -1,0 +1,58 @@
+Keyword market for Delaware, OH: 30 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Columbus, OH metro (US volume x population share).
+
+# Top keywords in Delaware, OH
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json
+
+## By monthly searches
+1. car wash delaware oh | searches/mo 12,000 (est) | CPC $4.35 | value $52,000 | Google Ads equiv $2,900/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/car-wash-delaware-oh/
+2. dentist delaware oh | searches/mo 12,000 (est) | CPC $4.70 | value $56,000 | Google Ads equiv $3,100/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/dentist-delaware-oh/
+3. gym delaware oh | searches/mo 12,000 (est) | CPC $1.67 | value $20,000 | Google Ads equiv $1,400/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/gym-delaware-oh/
+4. hair salon delaware oh | searches/mo 9,800 (est) | CPC $0.55 | value $5,400 | Google Ads equiv $310/mo | our featured min $50/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-delaware-oh/
+5. mechanic delaware oh | searches/mo 4,400 (est) | CPC $4.35 | value $19,000 | Google Ads equiv $1,100/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/mechanic-delaware-oh/
+6. tire shop delaware oh | searches/mo 3,600 (est) | CPC $4.35 | value $16,000 | Google Ads equiv $870/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/tire-shop-delaware-oh/
+7. vet delaware oh | searches/mo 3,600 (est) | CPC $4.06 | value $15,000 | Google Ads equiv $960/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/vet-delaware-oh/
+8. haircut delaware oh | searches/mo 2,400 (est) | CPC $4.62 | value $11,000 | Google Ads equiv $630/mo | our featured min $50/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/haircut-delaware-oh/
+9. auto repair delaware oh | searches/mo 2,000 (est) | CPC $4.35 | value $8,700 | Google Ads equiv $480/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-delaware-oh/
+10. financial advisor delaware oh | searches/mo 1,600 (est) | CPC $3.39 | value $5,400 | Google Ads equiv $450/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/financial-advisor-delaware-oh/
+11. real estate agent delaware oh | searches/mo 1,300 (est) | CPC $3.61 | value $4,700 | Google Ads equiv $390/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-delaware-oh/
+12. insurance agency delaware oh | searches/mo 590 (est) | CPC $3.39 | value $2,000 | Google Ads equiv $170/mo | our featured min $100/mo | registry competitors 5 | https://registry-edge.dingalinged.workers.dev/k/insurance-agency-delaware-oh/
+13. realtor delaware oh | searches/mo 590 (est) | CPC $3.70 | value $2,200 | Google Ads equiv $180/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/realtor-delaware-oh/
+14. attorney delaware oh | searches/mo 490 (est) | CPC $9.87 | value $4,800 | Google Ads equiv $290/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/attorney-delaware-oh/
+15. tax preparation delaware oh | searches/mo 490 (est) | CPC $3.25 | value $1,600 | Google Ads equiv $130/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tax-preparation-delaware-oh/
+
+## By CPC
+1. attorney delaware oh | searches/mo 490 (est) | CPC $9.87 | value $4,800 | Google Ads equiv $290/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/attorney-delaware-oh/
+2. lawyer delaware oh | searches/mo 320 (est) | CPC $9.87 | value $3,200 | Google Ads equiv $190/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/lawyer-delaware-oh/
+3. bakery delaware oh | searches/mo 1,400 (est) | CPC $7.17 | value $10,000 | Google Ads equiv $770/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/bakery-delaware-oh/
+4. staffing agency delaware oh | searches/mo 920 (est) | CPC $5.87 | value $5,400 | Google Ads equiv $310/mo | our featured min $50/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/staffing-agency-delaware-oh/
+5. tax preparer delaware oh | searches/mo 400 (est) | CPC $5.87 | value $2,300 | Google Ads equiv $130/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tax-preparer-delaware-oh/
+6. eye doctor delaware oh | searches/mo 1,400 (est) | CPC $4.76 | value $6,700 | Google Ads equiv $450/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/eye-doctor-delaware-oh/
+7. dentist delaware oh | searches/mo 12,000 (est) | CPC $4.70 | value $56,000 | Google Ads equiv $3,100/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/dentist-delaware-oh/
+8. haircut delaware oh | searches/mo 2,400 (est) | CPC $4.62 | value $11,000 | Google Ads equiv $630/mo | our featured min $50/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/haircut-delaware-oh/
+9. tanning salon delaware oh | searches/mo 200 (est) | CPC $4.62 | value $920 | Google Ads equiv $53.00/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tanning-salon-delaware-oh/
+10. auto repair delaware oh | searches/mo 2,000 (est) | CPC $4.35 | value $8,700 | Google Ads equiv $480/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-delaware-oh/
+11. car wash delaware oh | searches/mo 12,000 (est) | CPC $4.35 | value $52,000 | Google Ads equiv $2,900/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/car-wash-delaware-oh/
+12. mechanic delaware oh | searches/mo 4,400 (est) | CPC $4.35 | value $19,000 | Google Ads equiv $1,100/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/mechanic-delaware-oh/
+13. tire shop delaware oh | searches/mo 3,600 (est) | CPC $4.35 | value $16,000 | Google Ads equiv $870/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/tire-shop-delaware-oh/
+14. bike shop delaware oh | searches/mo 920 (est) | CPC $4.14 | value $3,800 | Google Ads equiv $340/mo | our featured min $10/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/bike-shop-delaware-oh/
+15. furniture store delaware oh | searches/mo 920 (est) | CPC $4.14 | value $3,800 | Google Ads equiv $340/mo | our featured min $10/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/furniture-store-delaware-oh/
+
+## By value (searches x CPC)
+1. dentist delaware oh | searches/mo 12,000 (est) | CPC $4.70 | value $56,000 | Google Ads equiv $3,100/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/dentist-delaware-oh/
+2. car wash delaware oh | searches/mo 12,000 (est) | CPC $4.35 | value $52,000 | Google Ads equiv $2,900/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/car-wash-delaware-oh/
+3. gym delaware oh | searches/mo 12,000 (est) | CPC $1.67 | value $20,000 | Google Ads equiv $1,400/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/gym-delaware-oh/
+4. mechanic delaware oh | searches/mo 4,400 (est) | CPC $4.35 | value $19,000 | Google Ads equiv $1,100/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/mechanic-delaware-oh/
+5. tire shop delaware oh | searches/mo 3,600 (est) | CPC $4.35 | value $16,000 | Google Ads equiv $870/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/tire-shop-delaware-oh/
+6. vet delaware oh | searches/mo 3,600 (est) | CPC $4.06 | value $15,000 | Google Ads equiv $960/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/vet-delaware-oh/
+7. haircut delaware oh | searches/mo 2,400 (est) | CPC $4.62 | value $11,000 | Google Ads equiv $630/mo | our featured min $50/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/haircut-delaware-oh/
+8. auto repair delaware oh | searches/mo 2,000 (est) | CPC $4.35 | value $8,700 | Google Ads equiv $480/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-delaware-oh/
+9. financial advisor delaware oh | searches/mo 1,600 (est) | CPC $3.39 | value $5,400 | Google Ads equiv $450/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/financial-advisor-delaware-oh/
+10. hair salon delaware oh | searches/mo 9,800 (est) | CPC $0.55 | value $5,400 | Google Ads equiv $310/mo | our featured min $50/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-delaware-oh/
+11. attorney delaware oh | searches/mo 490 (est) | CPC $9.87 | value $4,800 | Google Ads equiv $290/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/attorney-delaware-oh/
+12. real estate agent delaware oh | searches/mo 1,300 (est) | CPC $3.61 | value $4,700 | Google Ads equiv $390/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-delaware-oh/
+13. lawyer delaware oh | searches/mo 320 (est) | CPC $9.87 | value $3,200 | Google Ads equiv $190/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/lawyer-delaware-oh/
+14. tax preparer delaware oh | searches/mo 400 (est) | CPC $5.87 | value $2,300 | Google Ads equiv $130/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tax-preparer-delaware-oh/
+15. realtor delaware oh | searches/mo 590 (est) | CPC $3.70 | value $2,200 | Google Ads equiv $180/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/realtor-delaware-oh/
+
+All market data: https://registry-edge.dingalinged.workers.dev/market/ | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html

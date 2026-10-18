@@ -1,0 +1,58 @@
+Keyword market for Loveland, OH: 56 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Cincinnati, OH-KY-IN metro (US volume x population share).
+
+# Top keywords in Loveland, OH
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json
+
+## By monthly searches
+1. massage loveland oh | searches/mo 34,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $160,000 | Google Ads equiv $9,000/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/massage-loveland-oh/
+2. car wash loveland oh | searches/mo 12,000 (est) | CPC $4.35 | value $52,000 | Google Ads equiv $2,900/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/car-wash-loveland-oh/
+3. dentist loveland oh | searches/mo 12,000 (est) | CPC $4.70 | value $56,000 | Google Ads equiv $3,100/mo | our featured min $100/mo | registry competitors 6 | https://registry-edge.dingalinged.workers.dev/k/dentist-loveland-oh/
+4. gym loveland oh | searches/mo 12,000 (est) | CPC $1.67 | value $20,000 | Google Ads equiv $1,400/mo | our featured min $50/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/gym-loveland-oh/
+5. hair salon loveland oh | searches/mo 10,000 (est) | CPC $0.55 | value $5,500 | Google Ads equiv $310/mo | our featured min $50/mo | registry competitors 10 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-loveland-oh/
+6. nail salon loveland oh | searches/mo 6,800 (est) | CPC $0.61 | value $4,100 | Google Ads equiv $240/mo | our featured min $50/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/nail-salon-loveland-oh/
+7. plumber loveland oh | searches/mo 5,600 (est) | CPC $12.04 | value $67,000 | Google Ads equiv $4,300/mo | our featured min $100/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/plumber-loveland-oh/
+8. barber shop loveland oh | searches/mo 4,600 (est) | CPC $0.70 | value $3,200 | Google Ads equiv $180/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/barber-shop-loveland-oh/
+9. mechanic loveland oh | searches/mo 4,600 (est) | CPC $4.35 | value $20,000 | Google Ads equiv $1,100/mo | our featured min $20/mo | registry competitors 7 | https://registry-edge.dingalinged.workers.dev/k/mechanic-loveland-oh/
+10. vet loveland oh | searches/mo 3,700 (est) | CPC $4.06 | value $15,000 | Google Ads equiv $990/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/vet-loveland-oh/
+11. dog groomer loveland oh | searches/mo 3,000 (est) | CPC $4.06 | value $12,000 | Google Ads equiv $800/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dog-groomer-loveland-oh/
+12. haircut loveland oh | searches/mo 2,500 (est) | CPC $4.62 | value $12,000 | Google Ads equiv $660/mo | our featured min $50/mo | registry competitors 11 | https://registry-edge.dingalinged.workers.dev/k/haircut-loveland-oh/
+13. auto repair loveland oh | searches/mo 2,000 (est) | CPC $4.35 | value $8,700 | Google Ads equiv $480/mo | our featured min $20/mo | registry competitors 7 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-loveland-oh/
+14. chiropractor loveland oh | searches/mo 1,700 (est) | CPC $4.76 | value $8,100 | Google Ads equiv $540/mo | our featured min $50/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/chiropractor-loveland-oh/
+15. dog boarding loveland oh | searches/mo 1,700 (est) | CPC $4.06 | value $6,900 | Google Ads equiv $450/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dog-boarding-loveland-oh/
+
+## By CPC
+1. plumbing services loveland oh | searches/mo 330 (est) | CPC $13.90 | value $4,600 | Google Ads equiv $290/mo | our featured min $100/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/plumbing-services-loveland-oh/
+2. painters loveland oh | searches/mo 410 (est) | CPC $13.74 | value $5,600 | Google Ads equiv $360/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/painters-loveland-oh/
+3. plumber loveland oh | searches/mo 5,600 (est) | CPC $12.04 | value $67,000 | Google Ads equiv $4,300/mo | our featured min $100/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/plumber-loveland-oh/
+4. roofing contractor loveland oh | searches/mo 910 (est) | CPC $11.79 | value $11,000 | Google Ads equiv $680/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-loveland-oh/
+5. roofer loveland oh | searches/mo 330 (est) | CPC $10.70 | value $3,500 | Google Ads equiv $220/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/roofer-loveland-oh/
+6. attorney loveland oh | searches/mo 500 (est) | CPC $9.87 | value $4,900 | Google Ads equiv $290/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/attorney-loveland-oh/
+7. lawyer loveland oh | searches/mo 330 (est) | CPC $9.87 | value $3,300 | Google Ads equiv $190/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/lawyer-loveland-oh/
+8. landscaping loveland oh | searches/mo 1,400 (est) | CPC $8.76 | value $12,000 | Google Ads equiv $780/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/landscaping-loveland-oh/
+9. architect loveland oh | searches/mo 270 (est) | CPC $8.33 | value $2,200 | Google Ads equiv $140/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/architect-loveland-oh/
+10. flooring companies loveland oh | searches/mo 120 (est) | CPC $8.33 | value $1,000 | Google Ads equiv $64.00/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/flooring-companies-loveland-oh/
+11. plumbers loveland oh | searches/mo 24.00 (est) | CPC $8.33 | value $200 | Google Ads equiv $13.00/mo | our featured min $100/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/plumbers-loveland-oh/
+12. storage units loveland oh | searches/mo 1,500 (est) | CPC $8.33 | value $12,000 | Google Ads equiv $800/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/storage-units-loveland-oh/
+13. event venues loveland oh | searches/mo 1,500 (est) | CPC $7.17 | value $11,000 | Google Ads equiv $830/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/event-venues-loveland-oh/
+14. florist loveland oh | searches/mo 1,500 (est) | CPC $7.17 | value $11,000 | Google Ads equiv $830/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/florist-loveland-oh/
+15. photographer loveland oh | searches/mo 1,500 (est) | CPC $7.17 | value $11,000 | Google Ads equiv $830/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/photographer-loveland-oh/
+
+## By value (searches x CPC)
+1. massage loveland oh | searches/mo 34,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $160,000 | Google Ads equiv $9,000/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/massage-loveland-oh/
+2. plumber loveland oh | searches/mo 5,600 (est) | CPC $12.04 | value $67,000 | Google Ads equiv $4,300/mo | our featured min $100/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/plumber-loveland-oh/
+3. dentist loveland oh | searches/mo 12,000 (est) | CPC $4.70 | value $56,000 | Google Ads equiv $3,100/mo | our featured min $100/mo | registry competitors 6 | https://registry-edge.dingalinged.workers.dev/k/dentist-loveland-oh/
+4. car wash loveland oh | searches/mo 12,000 (est) | CPC $4.35 | value $52,000 | Google Ads equiv $2,900/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/car-wash-loveland-oh/
+5. gym loveland oh | searches/mo 12,000 (est) | CPC $1.67 | value $20,000 | Google Ads equiv $1,400/mo | our featured min $50/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/gym-loveland-oh/
+6. mechanic loveland oh | searches/mo 4,600 (est) | CPC $4.35 | value $20,000 | Google Ads equiv $1,100/mo | our featured min $20/mo | registry competitors 7 | https://registry-edge.dingalinged.workers.dev/k/mechanic-loveland-oh/
+7. vet loveland oh | searches/mo 3,700 (est) | CPC $4.06 | value $15,000 | Google Ads equiv $990/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/vet-loveland-oh/
+8. dog groomer loveland oh | searches/mo 3,000 (est) | CPC $4.06 | value $12,000 | Google Ads equiv $800/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dog-groomer-loveland-oh/
+9. haircut loveland oh | searches/mo 2,500 (est) | CPC $4.62 | value $12,000 | Google Ads equiv $660/mo | our featured min $50/mo | registry competitors 11 | https://registry-edge.dingalinged.workers.dev/k/haircut-loveland-oh/
+10. landscaping loveland oh | searches/mo 1,400 (est) | CPC $8.76 | value $12,000 | Google Ads equiv $780/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/landscaping-loveland-oh/
+11. roofing contractor loveland oh | searches/mo 910 (est) | CPC $11.79 | value $11,000 | Google Ads equiv $680/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-loveland-oh/
+12. auto repair loveland oh | searches/mo 2,000 (est) | CPC $4.35 | value $8,700 | Google Ads equiv $480/mo | our featured min $20/mo | registry competitors 7 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-loveland-oh/
+13. chiropractor loveland oh | searches/mo 1,700 (est) | CPC $4.76 | value $8,100 | Google Ads equiv $540/mo | our featured min $50/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/chiropractor-loveland-oh/
+14. dog boarding loveland oh | searches/mo 1,700 (est) | CPC $4.06 | value $6,900 | Google Ads equiv $450/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dog-boarding-loveland-oh/
+15. financial advisor loveland oh | searches/mo 1,700 (est) | CPC $3.39 | value $5,800 | Google Ads equiv $480/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/financial-advisor-loveland-oh/
+
+All market data: https://registry-edge.dingalinged.workers.dev/market/ | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html

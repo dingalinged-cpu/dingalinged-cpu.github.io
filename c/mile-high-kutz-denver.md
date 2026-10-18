@@ -1,0 +1,24 @@
+Mile High Kutz is a hair salon in Denver, CO at 1740 Federal Boulevard, Denver, CO 80204.
+
+# Mile High Kutz
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 1740 Federal Boulevard, Denver, CO 80204
+- City: Denver
+- State: CO
+- ZIP: 80204
+- Coordinates: 39.7449161, -105.0249488
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.3/100 — Unrated (not enough evidence yet) — top 48% of hair salons in Denver, CO, #83 of 128 hair salons in Denver (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.4, Trust 47.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/mile-high-kutz-denver/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/mile-high-kutz-denver.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/3308761464 (license ODbL-1.0); source data as of 2026-05-31
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,0 +1,24 @@
+A1 Art Tattoos is a tattoo shop in Indianapolis, IN at 4606 East Michigan Street, Indianapolis, IN 46201.
+
+# A1 Art Tattoos
+
+- Category: tattoo shop
+- Services: tattoo shop
+- Address: 4606 East Michigan Street, Indianapolis, IN 46201
+- City: Indianapolis
+- State: IN
+- ZIP: 46201
+- Coordinates: 39.7749121, -86.0911114
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 29% of tattoo shops in Indianapolis, IN, #2 of 16 tattoo shops in Indianapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 55.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/a1-art-tattoos-indianapolis/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/a1-art-tattoos-indianapolis.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13302579448 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

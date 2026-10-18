@@ -1,0 +1,58 @@
+Keyword market for Sewickley, PA: 24 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Pittsburgh, PA metro (US volume x population share).
+
+# Top keywords in Sewickley, PA
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json
+
+## By monthly searches
+1. car wash sewickley pa | searches/mo 13,000 (est) | CPC $4.35 | value $57,000 | Google Ads equiv $3,100/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/car-wash-sewickley-pa/
+2. dentist sewickley pa | searches/mo 13,000 (est) | CPC $4.70 | value $61,000 | Google Ads equiv $3,300/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dentist-sewickley-pa/
+3. gym sewickley pa | searches/mo 13,000 (est) | CPC $1.67 | value $22,000 | Google Ads equiv $1,600/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/gym-sewickley-pa/
+4. hair salon sewickley pa | searches/mo 11,000 (est) | CPC $0.55 | value $6,100 | Google Ads equiv $350/mo | our featured min $50/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-sewickley-pa/
+5. mechanic sewickley pa | searches/mo 4,800 (est) | CPC $4.35 | value $21,000 | Google Ads equiv $1,200/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/mechanic-sewickley-pa/
+6. vet sewickley pa | searches/mo 3,900 (est) | CPC $4.06 | value $16,000 | Google Ads equiv $1,000/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/vet-sewickley-pa/
+7. haircut sewickley pa | searches/mo 2,600 (est) | CPC $4.62 | value $12,000 | Google Ads equiv $690/mo | our featured min $50/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/haircut-sewickley-pa/
+8. auto repair sewickley pa | searches/mo 2,100 (est) | CPC $4.35 | value $9,100 | Google Ads equiv $510/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-sewickley-pa/
+9. real estate agent sewickley pa | searches/mo 1,400 (est) | CPC $3.61 | value $5,100 | Google Ads equiv $420/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-sewickley-pa/
+10. roofing contractor sewickley pa | searches/mo 960 (est) | CPC $11.79 | value $11,000 | Google Ads equiv $720/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-sewickley-pa/
+11. insurance agency sewickley pa | searches/mo 640 (est) | CPC $3.39 | value $2,200 | Google Ads equiv $180/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/insurance-agency-sewickley-pa/
+12. pediatrician sewickley pa | searches/mo 640 (est) | CPC $4.76 | value $3,000 | Google Ads equiv $210/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/pediatrician-sewickley-pa/
+13. realtor sewickley pa | searches/mo 640 (est) | CPC $3.70 | value $2,400 | Google Ads equiv $200/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/realtor-sewickley-pa/
+14. yoga classes sewickley pa | searches/mo 520 (est) | CPC $1.78 | value $930 | Google Ads equiv $66.00/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/yoga-classes-sewickley-pa/
+15. insurance agents sewickley pa | searches/mo 350 (est) | CPC $3.39 | value $1,200 | Google Ads equiv $99.00/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/insurance-agents-sewickley-pa/
+
+## By CPC
+1. roofing contractor sewickley pa | searches/mo 960 (est) | CPC $11.79 | value $11,000 | Google Ads equiv $720/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-sewickley-pa/
+2. roofer sewickley pa | searches/mo 350 (est) | CPC $10.70 | value $3,700 | Google Ads equiv $240/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/roofer-sewickley-pa/
+3. storage units sewickley pa | searches/mo 1,600 (est) | CPC $8.33 | value $13,000 | Google Ads equiv $850/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/storage-units-sewickley-pa/
+4. bakery sewickley pa | searches/mo 1,600 (est) | CPC $7.17 | value $11,000 | Google Ads equiv $880/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/bakery-sewickley-pa/
+5. florist sewickley pa | searches/mo 1,600 (est) | CPC $7.17 | value $11,000 | Google Ads equiv $880/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/florist-sewickley-pa/
+6. preschool sewickley pa | searches/mo 1,600 (est) | CPC $4.81 | value $7,700 | Google Ads equiv $440/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/preschool-sewickley-pa/
+7. pediatrician sewickley pa | searches/mo 640 (est) | CPC $4.76 | value $3,000 | Google Ads equiv $210/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/pediatrician-sewickley-pa/
+8. dentist sewickley pa | searches/mo 13,000 (est) | CPC $4.70 | value $61,000 | Google Ads equiv $3,300/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dentist-sewickley-pa/
+9. haircut sewickley pa | searches/mo 2,600 (est) | CPC $4.62 | value $12,000 | Google Ads equiv $690/mo | our featured min $50/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/haircut-sewickley-pa/
+10. piercing sewickley pa | searches/mo 6,600 (est) | CPC $4.62 | value $30,000 | Google Ads equiv $1,700/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/piercing-sewickley-pa/
+11. auto repair sewickley pa | searches/mo 2,100 (est) | CPC $4.35 | value $9,100 | Google Ads equiv $510/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-sewickley-pa/
+12. car wash sewickley pa | searches/mo 13,000 (est) | CPC $4.35 | value $57,000 | Google Ads equiv $3,100/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/car-wash-sewickley-pa/
+13. mechanic sewickley pa | searches/mo 4,800 (est) | CPC $4.35 | value $21,000 | Google Ads equiv $1,200/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/mechanic-sewickley-pa/
+14. jewelry store sewickley pa | searches/mo 990 (est) | CPC $4.14 | value $4,100 | Google Ads equiv $370/mo | our featured min $10/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/jewelry-store-sewickley-pa/
+15. liquor store sewickley pa | searches/mo 990 (est) | CPC $4.14 | value $4,100 | Google Ads equiv $370/mo | our featured min $10/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/liquor-store-sewickley-pa/
+
+## By value (searches x CPC)
+1. dentist sewickley pa | searches/mo 13,000 (est) | CPC $4.70 | value $61,000 | Google Ads equiv $3,300/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dentist-sewickley-pa/
+2. car wash sewickley pa | searches/mo 13,000 (est) | CPC $4.35 | value $57,000 | Google Ads equiv $3,100/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/car-wash-sewickley-pa/
+3. gym sewickley pa | searches/mo 13,000 (est) | CPC $1.67 | value $22,000 | Google Ads equiv $1,600/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/gym-sewickley-pa/
+4. mechanic sewickley pa | searches/mo 4,800 (est) | CPC $4.35 | value $21,000 | Google Ads equiv $1,200/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/mechanic-sewickley-pa/
+5. vet sewickley pa | searches/mo 3,900 (est) | CPC $4.06 | value $16,000 | Google Ads equiv $1,000/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/vet-sewickley-pa/
+6. haircut sewickley pa | searches/mo 2,600 (est) | CPC $4.62 | value $12,000 | Google Ads equiv $690/mo | our featured min $50/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/haircut-sewickley-pa/
+7. roofing contractor sewickley pa | searches/mo 960 (est) | CPC $11.79 | value $11,000 | Google Ads equiv $720/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-sewickley-pa/
+8. auto repair sewickley pa | searches/mo 2,100 (est) | CPC $4.35 | value $9,100 | Google Ads equiv $510/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-sewickley-pa/
+9. hair salon sewickley pa | searches/mo 11,000 (est) | CPC $0.55 | value $6,100 | Google Ads equiv $350/mo | our featured min $50/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-sewickley-pa/
+10. real estate agent sewickley pa | searches/mo 1,400 (est) | CPC $3.61 | value $5,100 | Google Ads equiv $420/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-sewickley-pa/
+11. roofer sewickley pa | searches/mo 350 (est) | CPC $10.70 | value $3,700 | Google Ads equiv $240/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/roofer-sewickley-pa/
+12. pediatrician sewickley pa | searches/mo 640 (est) | CPC $4.76 | value $3,000 | Google Ads equiv $210/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/pediatrician-sewickley-pa/
+13. realtor sewickley pa | searches/mo 640 (est) | CPC $3.70 | value $2,400 | Google Ads equiv $200/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/realtor-sewickley-pa/
+14. insurance agency sewickley pa | searches/mo 640 (est) | CPC $3.39 | value $2,200 | Google Ads equiv $180/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/insurance-agency-sewickley-pa/
+15. insurance agents sewickley pa | searches/mo 350 (est) | CPC $3.39 | value $1,200 | Google Ads equiv $99.00/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/insurance-agents-sewickley-pa/
+
+All market data: https://registry-edge.dingalinged.workers.dev/market/ | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html

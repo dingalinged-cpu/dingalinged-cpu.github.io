@@ -1,0 +1,58 @@
+Keyword market for Murrysville, PA: 31 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Pittsburgh, PA metro (US volume x population share).
+
+# Top keywords in Murrysville, PA
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json
+
+## By monthly searches
+1. car wash murrysville pa | searches/mo 13,000 (est) | CPC $4.35 | value $57,000 | Google Ads equiv $3,100/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/car-wash-murrysville-pa/
+2. dentist murrysville pa | searches/mo 13,000 (est) | CPC $4.70 | value $61,000 | Google Ads equiv $3,300/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dentist-murrysville-pa/
+3. gym murrysville pa | searches/mo 13,000 (est) | CPC $1.67 | value $22,000 | Google Ads equiv $1,600/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/gym-murrysville-pa/
+4. oil change murrysville pa | searches/mo 13,000 (est) | CPC $4.35 | value $57,000 | Google Ads equiv $3,100/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/oil-change-murrysville-pa/
+5. hair salon murrysville pa | searches/mo 11,000 (est) | CPC $0.55 | value $6,100 | Google Ads equiv $350/mo | our featured min $50/mo | registry competitors 5 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-murrysville-pa/
+6. nail salon murrysville pa | searches/mo 7,100 (est) | CPC $0.61 | value $4,300 | Google Ads equiv $250/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/nail-salon-murrysville-pa/
+7. plumber murrysville pa | searches/mo 5,800 (est) | CPC $12.04 | value $70,000 | Google Ads equiv $4,400/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/plumber-murrysville-pa/
+8. mechanic murrysville pa | searches/mo 4,800 (est) | CPC $4.35 | value $21,000 | Google Ads equiv $1,200/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/mechanic-murrysville-pa/
+9. vet murrysville pa | searches/mo 3,900 (est) | CPC $4.06 | value $16,000 | Google Ads equiv $1,000/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/vet-murrysville-pa/
+10. haircut murrysville pa | searches/mo 2,600 (est) | CPC $4.62 | value $12,000 | Google Ads equiv $690/mo | our featured min $50/mo | registry competitors 5 | https://registry-edge.dingalinged.workers.dev/k/haircut-murrysville-pa/
+11. auto repair murrysville pa | searches/mo 2,100 (est) | CPC $4.35 | value $9,100 | Google Ads equiv $510/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-murrysville-pa/
+12. pilates murrysville pa | searches/mo 2,100 (est) | CPC $6.17 | value $13,000 | Google Ads equiv $930/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/pilates-murrysville-pa/
+13. spa murrysville pa | searches/mo 1,700 (est) | CPC $4.62 | value $7,900 | Google Ads equiv $450/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/spa-murrysville-pa/
+14. real estate agent murrysville pa | searches/mo 1,400 (est) | CPC $3.61 | value $5,100 | Google Ads equiv $420/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-murrysville-pa/
+15. insurance agency murrysville pa | searches/mo 640 (est) | CPC $3.39 | value $2,200 | Google Ads equiv $180/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/insurance-agency-murrysville-pa/
+
+## By CPC
+1. plumbing services murrysville pa | searches/mo 350 (est) | CPC $13.90 | value $4,900 | Google Ads equiv $310/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/plumbing-services-murrysville-pa/
+2. plumber murrysville pa | searches/mo 5,800 (est) | CPC $12.04 | value $70,000 | Google Ads equiv $4,400/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/plumber-murrysville-pa/
+3. plumbers murrysville pa | searches/mo 26.00 (est) | CPC $8.33 | value $220 | Google Ads equiv $14.00/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/plumbers-murrysville-pa/
+4. pilates murrysville pa | searches/mo 2,100 (est) | CPC $6.17 | value $13,000 | Google Ads equiv $930/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/pilates-murrysville-pa/
+5. preschool murrysville pa | searches/mo 1,600 (est) | CPC $4.81 | value $7,700 | Google Ads equiv $440/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/preschool-murrysville-pa/
+6. assisted living murrysville pa | searches/mo 1,600 (est) | CPC $4.76 | value $7,600 | Google Ads equiv $510/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/assisted-living-murrysville-pa/
+7. family doctor murrysville pa | searches/mo 230 (est) | CPC $4.76 | value $1,100 | Google Ads equiv $74.00/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/family-doctor-murrysville-pa/
+8. primary care physician murrysville pa | searches/mo 190 (est) | CPC $4.76 | value $900 | Google Ads equiv $61.00/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/primary-care-physician-murrysville-pa/
+9. dentist murrysville pa | searches/mo 13,000 (est) | CPC $4.70 | value $61,000 | Google Ads equiv $3,300/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dentist-murrysville-pa/
+10. haircut murrysville pa | searches/mo 2,600 (est) | CPC $4.62 | value $12,000 | Google Ads equiv $690/mo | our featured min $50/mo | registry competitors 5 | https://registry-edge.dingalinged.workers.dev/k/haircut-murrysville-pa/
+11. spa murrysville pa | searches/mo 1,700 (est) | CPC $4.62 | value $7,900 | Google Ads equiv $450/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/spa-murrysville-pa/
+12. waxing murrysville pa | searches/mo 6,600 (est) | CPC $4.62 | value $30,000 | Google Ads equiv $1,700/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/waxing-murrysville-pa/
+13. auto repair murrysville pa | searches/mo 2,100 (est) | CPC $4.35 | value $9,100 | Google Ads equiv $510/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-murrysville-pa/
+14. car wash murrysville pa | searches/mo 13,000 (est) | CPC $4.35 | value $57,000 | Google Ads equiv $3,100/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/car-wash-murrysville-pa/
+15. mechanic murrysville pa | searches/mo 4,800 (est) | CPC $4.35 | value $21,000 | Google Ads equiv $1,200/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/mechanic-murrysville-pa/
+
+## By value (searches x CPC)
+1. plumber murrysville pa | searches/mo 5,800 (est) | CPC $12.04 | value $70,000 | Google Ads equiv $4,400/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/plumber-murrysville-pa/
+2. dentist murrysville pa | searches/mo 13,000 (est) | CPC $4.70 | value $61,000 | Google Ads equiv $3,300/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dentist-murrysville-pa/
+3. car wash murrysville pa | searches/mo 13,000 (est) | CPC $4.35 | value $57,000 | Google Ads equiv $3,100/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/car-wash-murrysville-pa/
+4. oil change murrysville pa | searches/mo 13,000 (est) | CPC $4.35 | value $57,000 | Google Ads equiv $3,100/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/oil-change-murrysville-pa/
+5. gym murrysville pa | searches/mo 13,000 (est) | CPC $1.67 | value $22,000 | Google Ads equiv $1,600/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/gym-murrysville-pa/
+6. mechanic murrysville pa | searches/mo 4,800 (est) | CPC $4.35 | value $21,000 | Google Ads equiv $1,200/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/mechanic-murrysville-pa/
+7. vet murrysville pa | searches/mo 3,900 (est) | CPC $4.06 | value $16,000 | Google Ads equiv $1,000/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/vet-murrysville-pa/
+8. pilates murrysville pa | searches/mo 2,100 (est) | CPC $6.17 | value $13,000 | Google Ads equiv $930/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/pilates-murrysville-pa/
+9. haircut murrysville pa | searches/mo 2,600 (est) | CPC $4.62 | value $12,000 | Google Ads equiv $690/mo | our featured min $50/mo | registry competitors 5 | https://registry-edge.dingalinged.workers.dev/k/haircut-murrysville-pa/
+10. auto repair murrysville pa | searches/mo 2,100 (est) | CPC $4.35 | value $9,100 | Google Ads equiv $510/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-murrysville-pa/
+11. spa murrysville pa | searches/mo 1,700 (est) | CPC $4.62 | value $7,900 | Google Ads equiv $450/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/spa-murrysville-pa/
+12. hair salon murrysville pa | searches/mo 11,000 (est) | CPC $0.55 | value $6,100 | Google Ads equiv $350/mo | our featured min $50/mo | registry competitors 5 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-murrysville-pa/
+13. real estate agent murrysville pa | searches/mo 1,400 (est) | CPC $3.61 | value $5,100 | Google Ads equiv $420/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-murrysville-pa/
+14. plumbing services murrysville pa | searches/mo 350 (est) | CPC $13.90 | value $4,900 | Google Ads equiv $310/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/plumbing-services-murrysville-pa/
+15. nail salon murrysville pa | searches/mo 7,100 (est) | CPC $0.61 | value $4,300 | Google Ads equiv $250/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/nail-salon-murrysville-pa/
+
+All market data: https://registry-edge.dingalinged.workers.dev/market/ | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html

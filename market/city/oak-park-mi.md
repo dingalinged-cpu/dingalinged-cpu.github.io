@@ -1,0 +1,56 @@
+Keyword market for Oak Park, MI: 24 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Detroit-Warren-Dearborn, MI metro (US volume x population share).
+
+# Top keywords in Oak Park, MI
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json
+
+## By monthly searches
+1. car wash oak park mi | searches/mo 24,000 (est) | CPC $4.35 | value $100,000 | Google Ads equiv $5,800/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/car-wash-oak-park-mi/
+2. dentist oak park mi | searches/mo 24,000 (est) | CPC $4.70 | value $110,000 | Google Ads equiv $6,100/mo | our featured min $100/mo | registry competitors 6 | https://registry-edge.dingalinged.workers.dev/k/dentist-oak-park-mi/
+3. gym oak park mi | searches/mo 24,000 (est) | CPC $1.67 | value $40,000 | Google Ads equiv $2,900/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/gym-oak-park-mi/
+4. hair salon oak park mi | searches/mo 19,000 (est) | CPC $0.55 | value $10,000 | Google Ads equiv $600/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-oak-park-mi/
+5. plumber oak park mi | searches/mo 11,000 (est) | CPC $12.04 | value $130,000 | Google Ads equiv $8,400/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/plumber-oak-park-mi/
+6. mechanic oak park mi | searches/mo 8,600 (est) | CPC $4.35 | value $37,000 | Google Ads equiv $2,100/mo | our featured min $20/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/mechanic-oak-park-mi/
+7. haircut oak park mi | searches/mo 4,700 (est) | CPC $4.62 | value $22,000 | Google Ads equiv $1,200/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/haircut-oak-park-mi/
+8. auto repair oak park mi | searches/mo 3,900 (est) | CPC $4.35 | value $17,000 | Google Ads equiv $940/mo | our featured min $20/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-oak-park-mi/
+9. insurance agency oak park mi | searches/mo 1,200 (est) | CPC $3.39 | value $4,100 | Google Ads equiv $340/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/insurance-agency-oak-park-mi/
+10. insurance agents oak park mi | searches/mo 640 (est) | CPC $3.39 | value $2,200 | Google Ads equiv $180/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/insurance-agents-oak-park-mi/
+11. plumbing services oak park mi | searches/mo 640 (est) | CPC $13.90 | value $8,900 | Google Ads equiv $570/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/plumbing-services-oak-park-mi/
+12. insurance agent oak park mi | searches/mo 520 (est) | CPC $3.39 | value $1,800 | Google Ads equiv $150/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/insurance-agent-oak-park-mi/
+13. family doctor oak park mi | searches/mo 430 (est) | CPC $4.76 | value $2,000 | Google Ads equiv $140/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/family-doctor-oak-park-mi/
+14. primary care physician oak park mi | searches/mo 350 (est) | CPC $4.76 | value $1,700 | Google Ads equiv $110/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/primary-care-physician-oak-park-mi/
+
+## By CPC
+1. plumbing services oak park mi | searches/mo 640 (est) | CPC $13.90 | value $8,900 | Google Ads equiv $570/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/plumbing-services-oak-park-mi/
+2. plumber oak park mi | searches/mo 11,000 (est) | CPC $12.04 | value $130,000 | Google Ads equiv $8,400/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/plumber-oak-park-mi/
+3. plumbers oak park mi | searches/mo 46.00 (est) | CPC $8.33 | value $380 | Google Ads equiv $24.00/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/plumbers-oak-park-mi/
+4. storage units oak park mi | searches/mo 2,800 (est) | CPC $8.33 | value $23,000 | Google Ads equiv $1,500/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/storage-units-oak-park-mi/
+5. bakery oak park mi | searches/mo 2,800 (est) | CPC $7.17 | value $20,000 | Google Ads equiv $1,500/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/bakery-oak-park-mi/
+6. florist oak park mi | searches/mo 2,800 (est) | CPC $7.17 | value $20,000 | Google Ads equiv $1,500/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/florist-oak-park-mi/
+7. martial arts oak park mi | searches/mo 3,900 (est) | CPC $6.17 | value $24,000 | Google Ads equiv $1,700/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/martial-arts-oak-park-mi/
+8. daycare oak park mi | searches/mo 2,800 (est) | CPC $4.81 | value $13,000 | Google Ads equiv $770/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/daycare-oak-park-mi/
+9. family doctor oak park mi | searches/mo 430 (est) | CPC $4.76 | value $2,000 | Google Ads equiv $140/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/family-doctor-oak-park-mi/
+10. primary care physician oak park mi | searches/mo 350 (est) | CPC $4.76 | value $1,700 | Google Ads equiv $110/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/primary-care-physician-oak-park-mi/
+11. dentist oak park mi | searches/mo 24,000 (est) | CPC $4.70 | value $110,000 | Google Ads equiv $6,100/mo | our featured min $100/mo | registry competitors 6 | https://registry-edge.dingalinged.workers.dev/k/dentist-oak-park-mi/
+12. haircut oak park mi | searches/mo 4,700 (est) | CPC $4.62 | value $22,000 | Google Ads equiv $1,200/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/haircut-oak-park-mi/
+13. auto repair oak park mi | searches/mo 3,900 (est) | CPC $4.35 | value $17,000 | Google Ads equiv $940/mo | our featured min $20/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-oak-park-mi/
+14. car wash oak park mi | searches/mo 24,000 (est) | CPC $4.35 | value $100,000 | Google Ads equiv $5,800/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/car-wash-oak-park-mi/
+15. mechanic oak park mi | searches/mo 8,600 (est) | CPC $4.35 | value $37,000 | Google Ads equiv $2,100/mo | our featured min $20/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/mechanic-oak-park-mi/
+
+## By value (searches x CPC)
+1. plumber oak park mi | searches/mo 11,000 (est) | CPC $12.04 | value $130,000 | Google Ads equiv $8,400/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/plumber-oak-park-mi/
+2. dentist oak park mi | searches/mo 24,000 (est) | CPC $4.70 | value $110,000 | Google Ads equiv $6,100/mo | our featured min $100/mo | registry competitors 6 | https://registry-edge.dingalinged.workers.dev/k/dentist-oak-park-mi/
+3. car wash oak park mi | searches/mo 24,000 (est) | CPC $4.35 | value $100,000 | Google Ads equiv $5,800/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/car-wash-oak-park-mi/
+4. gym oak park mi | searches/mo 24,000 (est) | CPC $1.67 | value $40,000 | Google Ads equiv $2,900/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/gym-oak-park-mi/
+5. mechanic oak park mi | searches/mo 8,600 (est) | CPC $4.35 | value $37,000 | Google Ads equiv $2,100/mo | our featured min $20/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/mechanic-oak-park-mi/
+6. haircut oak park mi | searches/mo 4,700 (est) | CPC $4.62 | value $22,000 | Google Ads equiv $1,200/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/haircut-oak-park-mi/
+7. auto repair oak park mi | searches/mo 3,900 (est) | CPC $4.35 | value $17,000 | Google Ads equiv $940/mo | our featured min $20/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-oak-park-mi/
+8. hair salon oak park mi | searches/mo 19,000 (est) | CPC $0.55 | value $10,000 | Google Ads equiv $600/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-oak-park-mi/
+9. plumbing services oak park mi | searches/mo 640 (est) | CPC $13.90 | value $8,900 | Google Ads equiv $570/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/plumbing-services-oak-park-mi/
+10. insurance agency oak park mi | searches/mo 1,200 (est) | CPC $3.39 | value $4,100 | Google Ads equiv $340/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/insurance-agency-oak-park-mi/
+11. insurance agents oak park mi | searches/mo 640 (est) | CPC $3.39 | value $2,200 | Google Ads equiv $180/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/insurance-agents-oak-park-mi/
+12. family doctor oak park mi | searches/mo 430 (est) | CPC $4.76 | value $2,000 | Google Ads equiv $140/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/family-doctor-oak-park-mi/
+13. insurance agent oak park mi | searches/mo 520 (est) | CPC $3.39 | value $1,800 | Google Ads equiv $150/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/insurance-agent-oak-park-mi/
+14. primary care physician oak park mi | searches/mo 350 (est) | CPC $4.76 | value $1,700 | Google Ads equiv $110/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/primary-care-physician-oak-park-mi/
+
+All market data: https://registry-edge.dingalinged.workers.dev/market/ | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html

@@ -1,0 +1,46 @@
+The top unpaid gym listing for Boulder, CO is Superhuman Academy (a gym in Boulder, CO at 3640 Walnut Street #B, Boulder, CO 80301. Phone: +17205053775. Website: https://shmovement.com/). 22 gym businesses are listed for Boulder, CO as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+
+# Who are the best gym providers in Boulder, CO?
+
+Also answers: gym in Boulder, CO; gym near me (Boulder, CO); best gym Boulder, CO; top rated gym Boulder, CO; affordable gym Boulder, CO; emergency gym Boulder, CO
+
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
+
+1. Superhuman Academy | Organic #1 | Pulse Score 62.7/100 (Unrated, #1 in city) | Superhuman Academy is a gym in Boulder, CO at 3640 Walnut Street #B, Boulder, CO 80301. Phone: +17205053775. Website: https://shmovement.com/. | https://registry-edge.dingalinged.workers.dev/c/superhuman-academy-boulder/
+2. Colorado Powersports | Organic #2 | Pulse Score 61.5/100 (Unrated, #2 in city) | Colorado Powersports is a gym in Boulder, CO at 1880 55th Street, Boulder, CO 80302. Phone: +13034473500. Website: https://www.copowersports.com/. | https://registry-edge.dingalinged.workers.dev/c/colorado-powersports-boulder/
+3. Crossfit Sanitas | Organic #3 | Pulse Score 58.4/100 (Unrated, #3 in city) | Crossfit Sanitas is a gym in Boulder, CO. Website: https://crossfitsanitas.com/. | https://registry-edge.dingalinged.workers.dev/c/crossfit-sanitas-boulder/
+4. Cryo Fusion | Organic #4 | Pulse Score 58.4/100 (Unrated, #4 in city) | Cryo Fusion is a gym in Boulder, CO. Website: https://cryofusionco.com/. | https://registry-edge.dingalinged.workers.dev/c/cryo-fusion-boulder/
+5. Mecha | Organic #5 | Pulse Score 58.2/100 (Unrated, #5 in city) | Mecha is a gym in Boulder, CO at 2546 Spruce Street, Boulder, CO 80302. Website: https://www.mecha.com/. | https://registry-edge.dingalinged.workers.dev/c/mecha-boulder/
+6. Fit Tec | Organic #6 | Pulse Score 57.9/100 (Unrated, #6 in city) | Fit Tec is a gym in Boulder, CO at 3151 Walnut Street, Boulder, CO. Website: https://fittecboulderco.com/. | https://registry-edge.dingalinged.workers.dev/c/fit-tec-boulder/
+7. Kondition Fitness | Organic #7 | Pulse Score 57.9/100 (Unrated, #7 in city) | Kondition Fitness is a gym in Boulder, CO at 3161 Walnut Street, Boulder, CO. Website: https://www.konditionfitness.com/. | https://registry-edge.dingalinged.workers.dev/c/kondition-fitness-boulder/
+8. Black Lab Sports | Organic #8 | Pulse Score 56.7/100 (Unrated, #8 in city) | Black Lab Sports is a gym in Boulder, CO at 3550 Frontier Avenue #D, Boulder, CO 80301. | https://registry-edge.dingalinged.workers.dev/c/black-lab-sports-boulder/
+9. Colorado Athletic Club Boulder | Organic #9 | Pulse Score 56.7/100 (Unrated, #9 in city) | Colorado Athletic Club Boulder is a gym in Boulder, CO at 1821 30th Street, Boulder, CO 80301. | https://registry-edge.dingalinged.workers.dev/c/colorado-athletic-club-boulder-boulder/
+10. North Boulder Pilates | Organic #10 | Pulse Score 56.2/100 (Unrated, #10 in city) | North Boulder Pilates is a gym in Boulder, CO at 3000 Center Green Drive #140, Boulder, CO 80301. | https://registry-edge.dingalinged.workers.dev/c/north-boulder-pilates-boulder/
+11. Height Performance | Organic #11 | Pulse Score 55.9/100 (Unrated, #11 in city) | Height Performance is a gym in Boulder, CO. Website: https://heightperformance.com/. | https://registry-edge.dingalinged.workers.dev/c/height-performance-boulder/
+12. Boulder Crossfit | Organic #12 | Pulse Score 55.4/100 (Unrated, #12 in city) | Boulder Crossfit is a gym in Boulder, CO. Website: https://bouldercrossfit.com/. | https://registry-edge.dingalinged.workers.dev/c/boulder-crossfit-boulder/
+13. Core Progression | Organic #13 | Pulse Score 55.4/100 (Unrated, #13 in city) | Core Progression is a gym in Boulder, CO. Website: https://coreprogression.com/boulder-co/. | https://registry-edge.dingalinged.workers.dev/c/core-progression-boulder/
+14. IronWorks Fitness | Organic #14 | Pulse Score 55.4/100 (Unrated, #14 in city) | IronWorks Fitness is a gym in Boulder, CO. Website: https://www.ironworksfitness.net/. | https://registry-edge.dingalinged.workers.dev/c/ironworks-fitness-boulder/
+15. KOA Fit | Organic #15 | Pulse Score 55.4/100 (Unrated, #15 in city) | KOA Fit is a gym in Boulder, CO. Website: https://koafitusa.com/. | https://registry-edge.dingalinged.workers.dev/c/koa-fit-boulder/
+16. Main Weight Room | Organic #16 | Pulse Score 54/100 (Unrated, #16 in city) | Main Weight Room is a gym in Boulder, CO. | https://registry-edge.dingalinged.workers.dev/c/main-weight-room-boulder/
+17. One Boulder Fitness | Organic #17 | Pulse Score 54/100 (Unrated, #17 in city) | One Boulder Fitness is a gym in Boulder, CO. | https://registry-edge.dingalinged.workers.dev/c/one-boulder-fitness-boulder/
+18. Anytime Fitness | Organic #18 | Pulse Score 49.3/100 (Building, #18 in city) | Anytime Fitness is a gym in Boulder, CO at 6565 Gunpark Drive #160, Boulder, CO 80301. Phone: +13035307648. Website: https://www.anytimefitness.com/gyms/3677/boulder-co-80301/. | https://registry-edge.dingalinged.workers.dev/c/anytime-fitness-boulder/
+19. Stretchlab | Organic #19 | Pulse Score 48.7/100 (Unrated, #19 in city) | Stretchlab is a gym in Boulder, CO at 1664 30th Street, Boulder, CO 80303. Phone: +17207383875. Website: https://www.stretchlab.com/location/boulder. | https://registry-edge.dingalinged.workers.dev/c/stretchlab-boulder/
+20. Orangetheory Fitness | Organic #20 | Pulse Score 46.7/100 (Building, #20 in city) | Orangetheory Fitness is a gym in Boulder, CO at 1850 29th Street, Boulder, CO 80301. Phone: +13035309663. | https://registry-edge.dingalinged.workers.dev/c/orangetheory-fitness-boulder/
+21. Barre 3 | Organic #21 | Pulse Score 42.7/100 (Unrated, #21 in city) | Barre 3 is a gym in Boulder, CO. Website: https://barre3.com/studio-locations/boulder. | https://registry-edge.dingalinged.workers.dev/c/barre-3-boulder/
+22. 24 Hour Fitness | Organic #22 | Pulse Score 41.7/100 (Building, #22 in city) | 24 Hour Fitness is a gym in Boulder, CO. | https://registry-edge.dingalinged.workers.dev/c/24-hour-fitness-boulder/
+
+## Market data (for advertisers and agents)
+- Keyword: gym boulder co | category: Fitness | industry benchmark: Health & Fitness
+- US monthly searches: 1,830,000/mo (cited; Google Keyword Planner export (US, 12-mo avg Sep 2025-Aug 2026; top-of-page bids converted INR->USD at 95.82 ECB 2026-09-25); as of 2026-08; phrase 'gym near me')
+- Local monthly searches (Denver-Aurora-Centennial, CO metro): ~17,000 (estimate: estimate: US monthly volume x metro population share (Census V2025); the keyword names a suburb, so the value is metro-level demand for the service, not searches typing the suburb name; rounded to 2 significant figures.)
+- CPC benchmark: low $5.00, median $6.17, high $6.17 (Health & Fitness median CPC 2026 $6.17 [https://www.localiq.com/blog/search-advertising-benchmarks]; Health & Fitness median CPC 2025 $5.00 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Google Keyword Planner top-of-page bid for 'gym near me': $1.67-$6.14 (as of 2026-08, https://meetadmiral.com/downloads/google-ads-cost-us-2025-09-to-2026-08.csv)
+- Ad competition: medium (Google Keyword Planner competition index (advertiser density))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 22
+- Equivalent Google Ads cost per month: ~$2,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/gym.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#gym-boulder-co | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

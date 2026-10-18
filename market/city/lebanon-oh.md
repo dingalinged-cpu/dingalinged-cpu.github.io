@@ -1,0 +1,58 @@
+Keyword market for Lebanon, OH: 24 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Cincinnati, OH-KY-IN metro (US volume x population share).
+
+# Top keywords in Lebanon, OH
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json
+
+## By monthly searches
+1. car wash lebanon oh | searches/mo 12,000 (est) | CPC $4.35 | value $52,000 | Google Ads equiv $2,900/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/car-wash-lebanon-oh/
+2. dentist lebanon oh | searches/mo 12,000 (est) | CPC $4.70 | value $56,000 | Google Ads equiv $3,100/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dentist-lebanon-oh/
+3. hair salon lebanon oh | searches/mo 10,000 (est) | CPC $0.55 | value $5,500 | Google Ads equiv $310/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-lebanon-oh/
+4. mechanic lebanon oh | searches/mo 4,600 (est) | CPC $4.35 | value $20,000 | Google Ads equiv $1,100/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/mechanic-lebanon-oh/
+5. tire shop lebanon oh | searches/mo 3,700 (est) | CPC $4.35 | value $16,000 | Google Ads equiv $890/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tire-shop-lebanon-oh/
+6. dog groomer lebanon oh | searches/mo 3,000 (est) | CPC $4.06 | value $12,000 | Google Ads equiv $800/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dog-groomer-lebanon-oh/
+7. haircut lebanon oh | searches/mo 2,500 (est) | CPC $4.62 | value $12,000 | Google Ads equiv $660/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/haircut-lebanon-oh/
+8. auto repair lebanon oh | searches/mo 2,000 (est) | CPC $4.35 | value $8,700 | Google Ads equiv $480/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-lebanon-oh/
+9. real estate agent lebanon oh | searches/mo 1,400 (est) | CPC $3.61 | value $5,100 | Google Ads equiv $420/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-lebanon-oh/
+10. insurance agency lebanon oh | searches/mo 610 (est) | CPC $3.39 | value $2,100 | Google Ads equiv $170/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/insurance-agency-lebanon-oh/
+11. realtor lebanon oh | searches/mo 610 (est) | CPC $3.70 | value $2,300 | Google Ads equiv $190/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/realtor-lebanon-oh/
+12. hvac repair lebanon oh | searches/mo 500 (est) | CPC $17.76 | value $8,900 | Google Ads equiv $570/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/hvac-repair-lebanon-oh/
+13. yoga classes lebanon oh | searches/mo 500 (est) | CPC $1.78 | value $890 | Google Ads equiv $64.00/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/yoga-classes-lebanon-oh/
+14. insurance agents lebanon oh | searches/mo 330 (est) | CPC $3.39 | value $1,100 | Google Ads equiv $93.00/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/insurance-agents-lebanon-oh/
+15. insurance agent lebanon oh | searches/mo 270 (est) | CPC $3.39 | value $920 | Google Ads equiv $76.00/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/insurance-agent-lebanon-oh/
+
+## By CPC
+1. hvac repair lebanon oh | searches/mo 500 (est) | CPC $17.76 | value $8,900 | Google Ads equiv $570/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/hvac-repair-lebanon-oh/
+2. heating and air lebanon oh | searches/mo 24.00 (est) | CPC $8.33 | value $200 | Google Ads equiv $13.00/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/heating-and-air-lebanon-oh/
+3. caterers lebanon oh | searches/mo 1,500 (est) | CPC $7.17 | value $11,000 | Google Ads equiv $830/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/caterers-lebanon-oh/
+4. accounting services lebanon oh | searches/mo 82.00 (est) | CPC $5.87 | value $480 | Google Ads equiv $27.00/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/accounting-services-lebanon-oh/
+5. accountant lebanon oh | searches/mo 220 (est) | CPC $5.23 | value $1,200 | Google Ads equiv $65.00/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/accountant-lebanon-oh/
+6. preschool lebanon oh | searches/mo 1,500 (est) | CPC $4.81 | value $7,200 | Google Ads equiv $410/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/preschool-lebanon-oh/
+7. dentist lebanon oh | searches/mo 12,000 (est) | CPC $4.70 | value $56,000 | Google Ads equiv $3,100/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dentist-lebanon-oh/
+8. haircut lebanon oh | searches/mo 2,500 (est) | CPC $4.62 | value $12,000 | Google Ads equiv $660/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/haircut-lebanon-oh/
+9. tattoo shop lebanon oh | searches/mo 6,300 (est) | CPC $4.62 | value $29,000 | Google Ads equiv $1,700/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tattoo-shop-lebanon-oh/
+10. auto repair lebanon oh | searches/mo 2,000 (est) | CPC $4.35 | value $8,700 | Google Ads equiv $480/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-lebanon-oh/
+11. car wash lebanon oh | searches/mo 12,000 (est) | CPC $4.35 | value $52,000 | Google Ads equiv $2,900/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/car-wash-lebanon-oh/
+12. mechanic lebanon oh | searches/mo 4,600 (est) | CPC $4.35 | value $20,000 | Google Ads equiv $1,100/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/mechanic-lebanon-oh/
+13. tire shop lebanon oh | searches/mo 3,700 (est) | CPC $4.35 | value $16,000 | Google Ads equiv $890/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tire-shop-lebanon-oh/
+14. gift shop lebanon oh | searches/mo 120 (est) | CPC $4.14 | value $500 | Google Ads equiv $44.00/mo | our featured min $10/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/gift-shop-lebanon-oh/
+15. thrift store lebanon oh | searches/mo 950 (est) | CPC $4.14 | value $3,900 | Google Ads equiv $350/mo | our featured min $10/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/thrift-store-lebanon-oh/
+
+## By value (searches x CPC)
+1. dentist lebanon oh | searches/mo 12,000 (est) | CPC $4.70 | value $56,000 | Google Ads equiv $3,100/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dentist-lebanon-oh/
+2. car wash lebanon oh | searches/mo 12,000 (est) | CPC $4.35 | value $52,000 | Google Ads equiv $2,900/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/car-wash-lebanon-oh/
+3. mechanic lebanon oh | searches/mo 4,600 (est) | CPC $4.35 | value $20,000 | Google Ads equiv $1,100/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/mechanic-lebanon-oh/
+4. tire shop lebanon oh | searches/mo 3,700 (est) | CPC $4.35 | value $16,000 | Google Ads equiv $890/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tire-shop-lebanon-oh/
+5. dog groomer lebanon oh | searches/mo 3,000 (est) | CPC $4.06 | value $12,000 | Google Ads equiv $800/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dog-groomer-lebanon-oh/
+6. haircut lebanon oh | searches/mo 2,500 (est) | CPC $4.62 | value $12,000 | Google Ads equiv $660/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/haircut-lebanon-oh/
+7. hvac repair lebanon oh | searches/mo 500 (est) | CPC $17.76 | value $8,900 | Google Ads equiv $570/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/hvac-repair-lebanon-oh/
+8. auto repair lebanon oh | searches/mo 2,000 (est) | CPC $4.35 | value $8,700 | Google Ads equiv $480/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-lebanon-oh/
+9. hair salon lebanon oh | searches/mo 10,000 (est) | CPC $0.55 | value $5,500 | Google Ads equiv $310/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-lebanon-oh/
+10. real estate agent lebanon oh | searches/mo 1,400 (est) | CPC $3.61 | value $5,100 | Google Ads equiv $420/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-lebanon-oh/
+11. realtor lebanon oh | searches/mo 610 (est) | CPC $3.70 | value $2,300 | Google Ads equiv $190/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/realtor-lebanon-oh/
+12. insurance agency lebanon oh | searches/mo 610 (est) | CPC $3.39 | value $2,100 | Google Ads equiv $170/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/insurance-agency-lebanon-oh/
+13. accountant lebanon oh | searches/mo 220 (est) | CPC $5.23 | value $1,200 | Google Ads equiv $65.00/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/accountant-lebanon-oh/
+14. insurance agents lebanon oh | searches/mo 330 (est) | CPC $3.39 | value $1,100 | Google Ads equiv $93.00/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/insurance-agents-lebanon-oh/
+15. insurance agent lebanon oh | searches/mo 270 (est) | CPC $3.39 | value $920 | Google Ads equiv $76.00/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/insurance-agent-lebanon-oh/
+
+All market data: https://registry-edge.dingalinged.workers.dev/market/ | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html

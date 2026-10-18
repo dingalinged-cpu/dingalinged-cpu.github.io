@@ -1,0 +1,58 @@
+Keyword market for Speedway, IN: 29 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Indianapolis-Carmel-Greenwood, IN metro (US volume x population share).
+
+# Top keywords in Speedway, IN
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json
+
+## By monthly searches
+1. car wash speedway in | searches/mo 12,000 (est) | CPC $4.35 | value $52,000 | Google Ads equiv $2,900/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/car-wash-speedway-in/
+2. dentist speedway in | searches/mo 12,000 (est) | CPC $4.70 | value $56,000 | Google Ads equiv $3,100/mo | our featured min $100/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/dentist-speedway-in/
+3. gym speedway in | searches/mo 12,000 (est) | CPC $1.67 | value $20,000 | Google Ads equiv $1,400/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/gym-speedway-in/
+4. hair salon speedway in | searches/mo 9,700 (est) | CPC $0.55 | value $5,300 | Google Ads equiv $300/mo | our featured min $50/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-speedway-in/
+5. nail salon speedway in | searches/mo 6,500 (est) | CPC $0.61 | value $4,000 | Google Ads equiv $230/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/nail-salon-speedway-in/
+6. mechanic speedway in | searches/mo 4,300 (est) | CPC $4.35 | value $19,000 | Google Ads equiv $1,000/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/mechanic-speedway-in/
+7. vet speedway in | searches/mo 3,500 (est) | CPC $4.06 | value $14,000 | Google Ads equiv $940/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/vet-speedway-in/
+8. haircut speedway in | searches/mo 2,400 (est) | CPC $4.62 | value $11,000 | Google Ads equiv $630/mo | our featured min $50/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/haircut-speedway-in/
+9. auto repair speedway in | searches/mo 1,900 (est) | CPC $4.35 | value $8,300 | Google Ads equiv $460/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-speedway-in/
+10. chiropractor speedway in | searches/mo 1,600 (est) | CPC $4.76 | value $7,600 | Google Ads equiv $510/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/chiropractor-speedway-in/
+11. insurance agency speedway in | searches/mo 580 (est) | CPC $3.39 | value $2,000 | Google Ads equiv $160/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/insurance-agency-speedway-in/
+12. pediatrician speedway in | searches/mo 580 (est) | CPC $4.76 | value $2,800 | Google Ads equiv $190/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/pediatrician-speedway-in/
+13. insurance agents speedway in | searches/mo 320 (est) | CPC $3.39 | value $1,100 | Google Ads equiv $90.00/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/insurance-agents-speedway-in/
+14. insurance agent speedway in | searches/mo 260 (est) | CPC $3.39 | value $880 | Google Ads equiv $73.00/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/insurance-agent-speedway-in/
+15. accountant speedway in | searches/mo 210 (est) | CPC $5.23 | value $1,100 | Google Ads equiv $62.00/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/accountant-speedway-in/
+
+## By CPC
+1. bakery speedway in | searches/mo 1,400 (est) | CPC $7.17 | value $10,000 | Google Ads equiv $770/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/bakery-speedway-in/
+2. accounting services speedway in | searches/mo 78.00 (est) | CPC $5.87 | value $460 | Google Ads equiv $26.00/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/accounting-services-speedway-in/
+3. accountant speedway in | searches/mo 210 (est) | CPC $5.23 | value $1,100 | Google Ads equiv $62.00/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/accountant-speedway-in/
+4. daycare speedway in | searches/mo 1,400 (est) | CPC $4.81 | value $6,700 | Google Ads equiv $390/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/daycare-speedway-in/
+5. chiropractor speedway in | searches/mo 1,600 (est) | CPC $4.76 | value $7,600 | Google Ads equiv $510/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/chiropractor-speedway-in/
+6. dermatologist speedway in | searches/mo 1,400 (est) | CPC $4.76 | value $6,700 | Google Ads equiv $450/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dermatologist-speedway-in/
+7. family doctor speedway in | searches/mo 210 (est) | CPC $4.76 | value $1,000 | Google Ads equiv $67.00/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/family-doctor-speedway-in/
+8. ob gyn speedway in | searches/mo 1,400 (est) | CPC $4.76 | value $6,700 | Google Ads equiv $450/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/ob-gyn-speedway-in/
+9. orthopedic surgeon speedway in | searches/mo 210 (est) | CPC $4.76 | value $1,000 | Google Ads equiv $67.00/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/orthopedic-surgeon-speedway-in/
+10. pediatrician speedway in | searches/mo 580 (est) | CPC $4.76 | value $2,800 | Google Ads equiv $190/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/pediatrician-speedway-in/
+11. primary care physician speedway in | searches/mo 170 (est) | CPC $4.76 | value $810 | Google Ads equiv $54.00/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/primary-care-physician-speedway-in/
+12. therapist speedway in | searches/mo 1,400 (est) | CPC $4.76 | value $6,700 | Google Ads equiv $450/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/therapist-speedway-in/
+13. dentist speedway in | searches/mo 12,000 (est) | CPC $4.70 | value $56,000 | Google Ads equiv $3,100/mo | our featured min $100/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/dentist-speedway-in/
+14. haircut speedway in | searches/mo 2,400 (est) | CPC $4.62 | value $11,000 | Google Ads equiv $630/mo | our featured min $50/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/haircut-speedway-in/
+15. auto repair speedway in | searches/mo 1,900 (est) | CPC $4.35 | value $8,300 | Google Ads equiv $460/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-speedway-in/
+
+## By value (searches x CPC)
+1. dentist speedway in | searches/mo 12,000 (est) | CPC $4.70 | value $56,000 | Google Ads equiv $3,100/mo | our featured min $100/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/dentist-speedway-in/
+2. car wash speedway in | searches/mo 12,000 (est) | CPC $4.35 | value $52,000 | Google Ads equiv $2,900/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/car-wash-speedway-in/
+3. gym speedway in | searches/mo 12,000 (est) | CPC $1.67 | value $20,000 | Google Ads equiv $1,400/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/gym-speedway-in/
+4. mechanic speedway in | searches/mo 4,300 (est) | CPC $4.35 | value $19,000 | Google Ads equiv $1,000/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/mechanic-speedway-in/
+5. vet speedway in | searches/mo 3,500 (est) | CPC $4.06 | value $14,000 | Google Ads equiv $940/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/vet-speedway-in/
+6. haircut speedway in | searches/mo 2,400 (est) | CPC $4.62 | value $11,000 | Google Ads equiv $630/mo | our featured min $50/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/haircut-speedway-in/
+7. auto repair speedway in | searches/mo 1,900 (est) | CPC $4.35 | value $8,300 | Google Ads equiv $460/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-speedway-in/
+8. chiropractor speedway in | searches/mo 1,600 (est) | CPC $4.76 | value $7,600 | Google Ads equiv $510/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/chiropractor-speedway-in/
+9. hair salon speedway in | searches/mo 9,700 (est) | CPC $0.55 | value $5,300 | Google Ads equiv $300/mo | our featured min $50/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-speedway-in/
+10. nail salon speedway in | searches/mo 6,500 (est) | CPC $0.61 | value $4,000 | Google Ads equiv $230/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/nail-salon-speedway-in/
+11. pediatrician speedway in | searches/mo 580 (est) | CPC $4.76 | value $2,800 | Google Ads equiv $190/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/pediatrician-speedway-in/
+12. insurance agency speedway in | searches/mo 580 (est) | CPC $3.39 | value $2,000 | Google Ads equiv $160/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/insurance-agency-speedway-in/
+13. accountant speedway in | searches/mo 210 (est) | CPC $5.23 | value $1,100 | Google Ads equiv $62.00/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/accountant-speedway-in/
+14. insurance agents speedway in | searches/mo 320 (est) | CPC $3.39 | value $1,100 | Google Ads equiv $90.00/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/insurance-agents-speedway-in/
+15. family doctor speedway in | searches/mo 210 (est) | CPC $4.76 | value $1,000 | Google Ads equiv $67.00/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/family-doctor-speedway-in/
+
+All market data: https://registry-edge.dingalinged.workers.dev/market/ | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html

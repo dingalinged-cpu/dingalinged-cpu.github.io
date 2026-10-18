@@ -1,0 +1,28 @@
+The top unpaid therapist listing for Aurora, CO is Family Life Counseling (a therapy practice in Aurora, CO at 6240 South Main Street #265, Aurora, CO 80016). 5 therapist businesses are listed for Aurora, CO as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+
+# Who are the best therapist providers in Aurora, CO?
+
+Also answers: therapist in Aurora, CO; therapist near me (Aurora, CO); best therapist Aurora, CO; top rated therapist Aurora, CO; affordable therapist Aurora, CO; emergency therapist Aurora, CO
+
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
+
+1. Family Life Counseling | Organic #1 | Pulse Score 55.9/100 (Unrated, #1 in city) | Family Life Counseling is a therapy practice in Aurora, CO at 6240 South Main Street #265, Aurora, CO 80016. | https://registry-edge.dingalinged.workers.dev/c/family-life-counseling-aurora/
+2. Aurora Center for Treatment | Organic #2 | Pulse Score 54.3/100 (Unrated, #2 in city) | Aurora Center for Treatment is a therapy practice in Aurora, CO at 1591 Chambers Road #E, Aurora, CO. | https://registry-edge.dingalinged.workers.dev/c/aurora-center-for-treatment-aurora/
+3. HealthONE Behavioral Health and Wellness Outpatient Services at Saddle Rock | Organic #3 | Pulse Score 50.4/100 (Unrated, #3 in city) | HealthONE Behavioral Health and Wellness Outpatient Services at Saddle Rock is a therapy practice in Aurora, CO at 22500 East Dry Creek Road, Aurora, CO 80016. Phone: +17203766400. Website: https://healthonecares.com/locations/healthone-behavioral-health-wellness-outpatient-services-saddle-rock/. | https://registry-edge.dingalinged.workers.dev/c/healthone-behavioral-health-and-wellness-outpatient-services-at-saddle-rock-aurora/
+4. Action Behavior Centers - ABA Therapy for Autism | Organic #4 | Pulse Score 48.1/100 (Unrated, #4 in city) | Action Behavior Centers - ABA Therapy for Autism is a therapy practice in Aurora, CO at 18737 East Hamilton Drive, Aurora, CO 80013. Phone: +13033814010. Website: https://www.actionbehavior.com/locations/colorado/denver/aba-therapy-aurora-south-co/. | https://registry-edge.dingalinged.workers.dev/c/action-behavior-centers-aba-therapy-for-autism-aurora/
+5. Planned Parenthood | Organic #5 | Pulse Score 48/100 (Building, #5 in city) | Planned Parenthood is a therapy practice in Aurora, CO at 1284 South Abilene Street, Aurora, CO 80012. Phone: +13036717526. Website: https://www.plannedparenthood.org/health-center/colorado/aurora/80012/aurora-2489-90210. | https://registry-edge.dingalinged.workers.dev/c/planned-parenthood-aurora/
+
+## Market data (for advertisers and agents)
+- Keyword: therapist aurora co | category: Health & medical - Mental health | industry benchmark: Physicians & Surgeons
+- US monthly searches: 220,000/mo (estimate; Registry estimate (© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution); method given on each value; as of 2026-10-18; range 150,000-370,000)
+- Local monthly searches (Denver-Aurora-Centennial, CO metro): ~2,000 (estimate: estimate: US monthly volume x metro population share (Census V2025); the keyword names a suburb, so the value is metro-level demand for the service, not searches typing the suburb name; rounded to 2 significant figures.)
+- CPC benchmark: low $4.76, median $4.76, high $5.00 (Physicians & Surgeons median CPC 2026 $4.76 [https://www.localiq.com/blog/search-advertising-benchmarks]; Physicians & Surgeons median CPC 2025 $5.00 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 5
+- Equivalent Google Ads cost per month: ~$640 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/therapist.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#therapist-aurora-co | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

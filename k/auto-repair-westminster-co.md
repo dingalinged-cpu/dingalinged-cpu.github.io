@@ -1,0 +1,37 @@
+The top unpaid auto repair listing for Westminster, CO is Caliber Collision (an auto repair shop in Westminster, CO at 9100 Pierce Street, Westminster, CO 80021). 14 auto repair businesses are listed for Westminster, CO as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+
+# Who are the best auto repair providers in Westminster, CO?
+
+Also answers: auto repair in Westminster, CO; auto repair near me (Westminster, CO); best auto repair Westminster, CO; top rated auto repair Westminster, CO; affordable auto repair Westminster, CO; emergency auto repair Westminster, CO
+
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
+
+1. Caliber Collision | Organic #1 | Pulse Score 61.3/100 (Good, #1 in city) | Caliber Collision is an auto repair shop in Westminster, CO at 9100 Pierce Street, Westminster, CO 80021. | https://registry-edge.dingalinged.workers.dev/c/caliber-collision-westminster/
+2. Christian Bros. Automotive | Organic #2 | Pulse Score 60.2/100 (Unrated, #2 in city) | Christian Bros. Automotive is an auto repair shop in Westminster, CO at 8515 West 100th Avenue, Westminster, CO 80021. | https://registry-edge.dingalinged.workers.dev/c/christian-bros-automotive-westminster/
+3. DIY Auto Shop | Organic #3 | Pulse Score 58.3/100 (Unrated, #3 in city) | DIY Auto Shop is an auto repair shop in Westminster, CO. Phone: +13034294000. | https://registry-edge.dingalinged.workers.dev/c/diy-auto-shop-westminster/
+4. Man Cave Detail (Westminster) | Organic #4 | Pulse Score 56.3/100 (Unrated, #4 in city) | Man Cave Detail (Westminster) is an auto repair shop in Westminster, CO at 7535 West 92nd Avenue #800, Westminster, CO 80021. | https://registry-edge.dingalinged.workers.dev/c/man-cave-detail-westminster-westminster/
+5. Street Vivid Window Tinting & Vehicle Wraps | Organic #5 | Pulse Score 56.3/100 (Unrated, #5 in city) | Street Vivid Window Tinting & Vehicle Wraps is an auto repair shop in Westminster, CO at 7535 West 92nd Avenue #500A, Westminster, CO 80021. | https://registry-edge.dingalinged.workers.dev/c/street-vivid-window-tinting-and-vehicle-wraps-westminster/
+6. Brothers hail and dent repair | Organic #6 | Pulse Score 54.7/100 (Unrated, #6 in city) | Brothers hail and dent repair is an auto repair shop in Westminster, CO. | https://registry-edge.dingalinged.workers.dev/c/brothers-hail-and-dent-repair-westminster/
+7. Lake Arbor Automotive & Truck | Organic #7 | Pulse Score 54.1/100 (Unrated, #7 in city) | Lake Arbor Automotive & Truck is an auto repair shop in Westminster, CO. | https://registry-edge.dingalinged.workers.dev/c/lake-arbor-automotive-and-truck-westminster/
+8. Mighty Muffler Pros | Organic #8 | Pulse Score 54.1/100 (Unrated, #8 in city) | Mighty Muffler Pros is an auto repair shop in Westminster, CO. | https://registry-edge.dingalinged.workers.dev/c/mighty-muffler-pros-westminster/
+9. Brakes Plus | Organic #9 | Pulse Score 49.1/100 (Building, #9 in city) | Brakes Plus is an auto repair shop in Westminster, CO at 7401 West 92nd Avenue, Westminster, CO 80021. Phone: +13034569500. Website: https://www.brakesplus.com/. | https://registry-edge.dingalinged.workers.dev/c/brakes-plus-westminster/
+10. Peerless tires | Organic #10 | Pulse Score 45.2/100 (Unrated, #9 in city) | Peerless tires is an auto repair shop in Arvada, CO at 8025 Sheridan Boulevard, Arvada, CO 80003. | https://registry-edge.dingalinged.workers.dev/c/peerless-tires-arvada/
+11. Firestone | Organic #11 | Pulse Score 44.4/100 (Building, #10 in city) | Firestone is an auto repair shop in Westminster, CO at 13511 Huron Street, Westminster, CO 80234. | https://registry-edge.dingalinged.workers.dev/c/firestone-westminster/
+12. Grease Monkey | Organic #12 | Pulse Score 44.4/100 (Building, #11 in city) | Grease Monkey is an auto repair shop in Westminster, CO at 8450 Federal Boulevard, Westminster, CO 80031. | https://registry-edge.dingalinged.workers.dev/c/grease-monkey-westminster/
+13. Coloradoland Tire & Service | Organic #13 | Pulse Score 43.1/100 (Unrated, #12 in city) | Coloradoland Tire & Service is an auto repair shop in Westminster, CO at 5210 West 78th Place, Westminster, CO. | https://registry-edge.dingalinged.workers.dev/c/coloradoland-tire-and-service-westminster/
+14. Caliber Collision | Organic #14 | Pulse Score 42.2/100 (Building, #13 in city) | Caliber Collision is an auto repair shop in Westminster, CO. | https://registry-edge.dingalinged.workers.dev/c/caliber-collision-westminster-w1323303306/
+
+## Market data (for advertisers and agents)
+- Keyword: auto repair westminster co | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts
+- US monthly searches: 301,000/mo (cited; Semrush US Sep 2026 (via research source); as of 2026-09; phrase 'auto repair near me')
+- Local monthly searches (Denver-Aurora-Centennial, CO metro): ~2,700 (estimate: estimate: US monthly volume x metro population share (Census V2025); the keyword names a suburb, so the value is metro-level demand for the service, not searches typing the suburb name; rounded to 2 significant figures.)
+- CPC benchmark: low $3.90, median $4.35, high $4.35 (Automotive: Repair, Service & Parts median CPC 2026 $4.35 [https://www.localiq.com/blog/search-advertising-benchmarks]; Automotive: Repair, Service & Parts median CPC 2025 $3.90 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 14
+- Equivalent Google Ads cost per month: ~$650 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/auto-repair.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#auto-repair-westminster-co | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

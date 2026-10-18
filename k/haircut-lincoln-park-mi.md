@@ -1,0 +1,40 @@
+The top unpaid haircut listing for Lincoln Park, MI is Master Cuts (a hair salon in Lincoln Park, MI at 2225 Fort Street, Lincoln Park, MI 48146. Phone: +13139744815). 17 haircut businesses are listed for Lincoln Park, MI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
+
+# Who are the best haircut providers in Lincoln Park, MI?
+
+Also answers: haircut in Lincoln Park, MI; haircut near me (Lincoln Park, MI); best haircut Lincoln Park, MI; top rated haircut Lincoln Park, MI; affordable haircut Lincoln Park, MI; emergency haircut Lincoln Park, MI
+
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
+
+1. Master Cuts | Organic #1 | Pulse Score 64.5/100 (Good, #1 in city) | Master Cuts is a hair salon in Lincoln Park, MI at 2225 Fort Street, Lincoln Park, MI 48146. Phone: +13139744815. | https://registry-edge.dingalinged.workers.dev/c/master-cuts-lincoln-park/
+2. Patty's Barber Shop | Organic #2 | Pulse Score 61.8/100 (Unrated, #2 in city) | Patty's Barber Shop is a hair salon in Lincoln Park, MI at 3261 Fort Street, Lincoln Park, MI 48146. Phone: +13133860680. | https://registry-edge.dingalinged.workers.dev/c/pattys-barber-shop-lincoln-park/
+3. Shotcallerz Salon | Organic #3 | Pulse Score 61.6/100 (Unrated, #3 in city) | Shotcallerz Salon is a hair salon in Lincoln Park, MI at 1623 Fort Street, Lincoln Park, MI 48146. Phone: +13137246231. | https://registry-edge.dingalinged.workers.dev/c/shotcallerz-salon-lincoln-park/
+4. Big John's Barber Shop | Organic #4 | Pulse Score 60.5/100 (Unrated, #4 in city) | Big John's Barber Shop is a hair salon in Lincoln Park, MI at 1680 Fort Street, Lincoln Park, MI 48146. Phone: +13133821416. | https://registry-edge.dingalinged.workers.dev/c/big-johns-barber-shop-lincoln-park/
+5. Oviedos Hair Salón Dominican Style | Organic #5 | Pulse Score 60/100 (Unrated, #5 in city) | Oviedos Hair Salón Dominican Style is a hair salon in Lincoln Park, MI at 3725 Fort Street, Lincoln Park, MI 48146. Phone: +13134299141. | https://registry-edge.dingalinged.workers.dev/c/oviedos-hair-sal-n-dominican-style-lincoln-park/
+6. Midwest Barbershop | Organic #6 | Pulse Score 59.6/100 (Unrated, #6 in city) | Midwest Barbershop is a hair salon in Lincoln Park, MI at 3406 Fort Street, Lincoln Park, MI 48146. | https://registry-edge.dingalinged.workers.dev/c/midwest-barbershop-lincoln-park/
+7. Ali's Hairways | Organic #7 | Pulse Score 58.7/100 (Unrated, #7 in city) | Ali's Hairways is a hair salon in Lincoln Park, MI at 3410 Fort Street, Lincoln Park, MI 48146. | https://registry-edge.dingalinged.workers.dev/c/alis-hairways-lincoln-park/
+8. Joseph's Hair Styling | Organic #8 | Pulse Score 57.2/100 (Unrated, #8 in city) | Joseph's Hair Styling is a hair salon in Lincoln Park, MI at 840 Southfield Road, Lincoln Park, MI 48146. | https://registry-edge.dingalinged.workers.dev/c/josephs-hair-styling-lincoln-park/
+9. Loty's Cuts-N-Styles | Organic #9 | Pulse Score 57.2/100 (Unrated, #9 in city) | Loty's Cuts-N-Styles is a hair salon in Lincoln Park, MI at 4062 Dix Highway, Lincoln Park, MI 48146. | https://registry-edge.dingalinged.workers.dev/c/lotys-cuts-n-styles-lincoln-park/
+10. Luke's Barber Shop | Organic #10 | Pulse Score 57.2/100 (Unrated, #10 in city) | Luke's Barber Shop is a hair salon in Lincoln Park, MI at 3933 Fort Street, Lincoln Park, MI 48146. | https://registry-edge.dingalinged.workers.dev/c/lukes-barber-shop-lincoln-park/
+11. Mary's On The Corner Salon | Organic #11 | Pulse Score 57.2/100 (Unrated, #11 in city) | Mary's On The Corner Salon is a hair salon in Lincoln Park, MI at 2856 Fort Street, Lincoln Park, MI 48146. | https://registry-edge.dingalinged.workers.dev/c/marys-on-the-corner-salon-lincoln-park/
+12. Sal's Barber Shop | Organic #12 | Pulse Score 57.2/100 (Unrated, #12 in city) | Sal's Barber Shop is a hair salon in Lincoln Park, MI at 3605 Fort Street, Lincoln Park, MI 48146. | https://registry-edge.dingalinged.workers.dev/c/sals-barber-shop-lincoln-park/
+13. The Hair Saloon | Organic #13 | Pulse Score 57.2/100 (Unrated, #13 in city) | The Hair Saloon is a hair salon in Lincoln Park, MI at 2927 Fort Street, Lincoln Park, MI 48146. | https://registry-edge.dingalinged.workers.dev/c/the-hair-saloon-lincoln-park/
+14. Classic Barber Shop | Organic #14 | Pulse Score 54.7/100 (Unrated, #14 in city) | Classic Barber Shop is a hair salon in Lincoln Park, MI. | https://registry-edge.dingalinged.workers.dev/c/classic-barber-shop-lincoln-park/
+15. Cuts-N-More | Organic #15 | Pulse Score 54.7/100 (Unrated, #15 in city) | Cuts-N-More is a hair salon in Lincoln Park, MI. | https://registry-edge.dingalinged.workers.dev/c/cuts-n-more-lincoln-park/
+16. Donna Kay Salon | Organic #16 | Pulse Score 54.7/100 (Unrated, #16 in city) | Donna Kay Salon is a hair salon in Lincoln Park, MI. | https://registry-edge.dingalinged.workers.dev/c/donna-kay-salon-lincoln-park/
+17. Great Clips | Organic #17 | Pulse Score 45.1/100 (Building, #17 in city) | Great Clips is a hair salon in Lincoln Park, MI at 1875 Southfield Road, Lincoln Park, MI 48146. | https://registry-edge.dingalinged.workers.dev/c/great-clips-lincoln-park/
+
+## Market data (for advertisers and agents)
+- Keyword: haircut lincoln park mi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care
+- US monthly searches: 368,000/mo (cited; Semrush US Jul 2026 (via research source); as of 2026-07; phrase 'haircut near me')
+- Local monthly searches (Detroit-Warren-Dearborn, MI metro): ~4,700 (estimate: estimate: US monthly volume x metro population share (Census V2025); the keyword names a suburb, so the value is metro-level demand for the service, not searches typing the suburb name; rounded to 2 significant figures.)
+- CPC benchmark: low $4.62, median $4.62, high $5.70 (Beauty & Personal Care median CPC 2026 $4.62 [https://www.localiq.com/blog/search-advertising-benchmarks]; Beauty & Personal Care median CPC 2025 $5.70 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 17
+- Equivalent Google Ads cost per month: ~$1,200 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/haircut.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#haircut-lincoln-park-mi | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,0 +1,58 @@
+Keyword market for Glendale, CO: 23 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Denver-Aurora-Centennial, CO metro (US volume x population share).
+
+# Top keywords in Glendale, CO
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json
+
+## By monthly searches
+1. massage glendale co | searches/mo 45,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $210,000 | Google Ads equiv $12,000/mo | our featured min $50/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/massage-glendale-co/
+2. urgent care glendale co | searches/mo 25,000 (est) | CPC $4.76 | value $120,000 | Google Ads equiv $8,000/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/urgent-care-glendale-co/
+3. car wash glendale co | searches/mo 17,000 (est) | CPC $4.35 | value $74,000 | Google Ads equiv $4,100/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/car-wash-glendale-co/
+4. dentist glendale co | searches/mo 17,000 (est) | CPC $4.70 | value $80,000 | Google Ads equiv $4,300/mo | our featured min $100/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/dentist-glendale-co/
+5. gym glendale co | searches/mo 17,000 (est) | CPC $1.67 | value $28,000 | Google Ads equiv $2,000/mo | our featured min $50/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/gym-glendale-co/
+6. hair salon glendale co | searches/mo 14,000 (est) | CPC $0.55 | value $7,700 | Google Ads equiv $440/mo | our featured min $50/mo | registry competitors 7 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-glendale-co/
+7. nail salon glendale co | searches/mo 9,000 (est) | CPC $0.61 | value $5,500 | Google Ads equiv $310/mo | our featured min $50/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/nail-salon-glendale-co/
+8. mechanic glendale co | searches/mo 6,100 (est) | CPC $4.35 | value $27,000 | Google Ads equiv $1,500/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/mechanic-glendale-co/
+9. haircut glendale co | searches/mo 3,300 (est) | CPC $4.62 | value $15,000 | Google Ads equiv $870/mo | our featured min $50/mo | registry competitors 7 | https://registry-edge.dingalinged.workers.dev/k/haircut-glendale-co/
+10. auto repair glendale co | searches/mo 2,700 (est) | CPC $4.35 | value $12,000 | Google Ads equiv $650/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-glendale-co/
+11. financial advisor glendale co | searches/mo 2,200 (est) | CPC $3.39 | value $7,500 | Google Ads equiv $620/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/financial-advisor-glendale-co/
+12. attorney glendale co | searches/mo 670 (est) | CPC $9.87 | value $6,600 | Google Ads equiv $390/mo | our featured min $100/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/attorney-glendale-co/
+13. tax preparation glendale co | searches/mo 670 (est) | CPC $3.25 | value $2,200 | Google Ads equiv $180/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tax-preparation-glendale-co/
+14. tax preparer glendale co | searches/mo 550 (est) | CPC $5.87 | value $3,200 | Google Ads equiv $180/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tax-preparer-glendale-co/
+15. lawyer glendale co | searches/mo 450 (est) | CPC $9.87 | value $4,400 | Google Ads equiv $270/mo | our featured min $100/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/lawyer-glendale-co/
+
+## By CPC
+1. attorney glendale co | searches/mo 670 (est) | CPC $9.87 | value $6,600 | Google Ads equiv $390/mo | our featured min $100/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/attorney-glendale-co/
+2. lawyer glendale co | searches/mo 450 (est) | CPC $9.87 | value $4,400 | Google Ads equiv $270/mo | our featured min $100/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/lawyer-glendale-co/
+3. flooring companies glendale co | searches/mo 160 (est) | CPC $8.33 | value $1,300 | Google Ads equiv $85.00/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/flooring-companies-glendale-co/
+4. dance studio glendale co | searches/mo 360 (est) | CPC $6.17 | value $2,200 | Google Ads equiv $160/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dance-studio-glendale-co/
+5. tax preparer glendale co | searches/mo 550 (est) | CPC $5.87 | value $3,200 | Google Ads equiv $180/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tax-preparer-glendale-co/
+6. urgent care glendale co | searches/mo 25,000 (est) | CPC $4.76 | value $120,000 | Google Ads equiv $8,000/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/urgent-care-glendale-co/
+7. dentist glendale co | searches/mo 17,000 (est) | CPC $4.70 | value $80,000 | Google Ads equiv $4,300/mo | our featured min $100/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/dentist-glendale-co/
+8. haircut glendale co | searches/mo 3,300 (est) | CPC $4.62 | value $15,000 | Google Ads equiv $870/mo | our featured min $50/mo | registry competitors 7 | https://registry-edge.dingalinged.workers.dev/k/haircut-glendale-co/
+9. massage glendale co | searches/mo 45,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $210,000 | Google Ads equiv $12,000/mo | our featured min $50/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/massage-glendale-co/
+10. tattoo shop glendale co | searches/mo 8,400 (est) | CPC $4.62 | value $39,000 | Google Ads equiv $2,200/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tattoo-shop-glendale-co/
+11. waxing glendale co | searches/mo 8,400 (est) | CPC $4.62 | value $39,000 | Google Ads equiv $2,200/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/waxing-glendale-co/
+12. auto repair glendale co | searches/mo 2,700 (est) | CPC $4.35 | value $12,000 | Google Ads equiv $650/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-glendale-co/
+13. car wash glendale co | searches/mo 17,000 (est) | CPC $4.35 | value $74,000 | Google Ads equiv $4,100/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/car-wash-glendale-co/
+14. mechanic glendale co | searches/mo 6,100 (est) | CPC $4.35 | value $27,000 | Google Ads equiv $1,500/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/mechanic-glendale-co/
+15. liquor store glendale co | searches/mo 1,300 (est) | CPC $4.14 | value $5,400 | Google Ads equiv $480/mo | our featured min $10/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/liquor-store-glendale-co/
+
+## By value (searches x CPC)
+1. massage glendale co | searches/mo 45,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $210,000 | Google Ads equiv $12,000/mo | our featured min $50/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/massage-glendale-co/
+2. urgent care glendale co | searches/mo 25,000 (est) | CPC $4.76 | value $120,000 | Google Ads equiv $8,000/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/urgent-care-glendale-co/
+3. dentist glendale co | searches/mo 17,000 (est) | CPC $4.70 | value $80,000 | Google Ads equiv $4,300/mo | our featured min $100/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/dentist-glendale-co/
+4. car wash glendale co | searches/mo 17,000 (est) | CPC $4.35 | value $74,000 | Google Ads equiv $4,100/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/car-wash-glendale-co/
+5. gym glendale co | searches/mo 17,000 (est) | CPC $1.67 | value $28,000 | Google Ads equiv $2,000/mo | our featured min $50/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/gym-glendale-co/
+6. mechanic glendale co | searches/mo 6,100 (est) | CPC $4.35 | value $27,000 | Google Ads equiv $1,500/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/mechanic-glendale-co/
+7. haircut glendale co | searches/mo 3,300 (est) | CPC $4.62 | value $15,000 | Google Ads equiv $870/mo | our featured min $50/mo | registry competitors 7 | https://registry-edge.dingalinged.workers.dev/k/haircut-glendale-co/
+8. auto repair glendale co | searches/mo 2,700 (est) | CPC $4.35 | value $12,000 | Google Ads equiv $650/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-glendale-co/
+9. hair salon glendale co | searches/mo 14,000 (est) | CPC $0.55 | value $7,700 | Google Ads equiv $440/mo | our featured min $50/mo | registry competitors 7 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-glendale-co/
+10. financial advisor glendale co | searches/mo 2,200 (est) | CPC $3.39 | value $7,500 | Google Ads equiv $620/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/financial-advisor-glendale-co/
+11. attorney glendale co | searches/mo 670 (est) | CPC $9.87 | value $6,600 | Google Ads equiv $390/mo | our featured min $100/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/attorney-glendale-co/
+12. nail salon glendale co | searches/mo 9,000 (est) | CPC $0.61 | value $5,500 | Google Ads equiv $310/mo | our featured min $50/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/nail-salon-glendale-co/
+13. lawyer glendale co | searches/mo 450 (est) | CPC $9.87 | value $4,400 | Google Ads equiv $270/mo | our featured min $100/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/lawyer-glendale-co/
+14. tax preparer glendale co | searches/mo 550 (est) | CPC $5.87 | value $3,200 | Google Ads equiv $180/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tax-preparer-glendale-co/
+15. tax preparation glendale co | searches/mo 670 (est) | CPC $3.25 | value $2,200 | Google Ads equiv $180/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/tax-preparation-glendale-co/
+
+All market data: https://registry-edge.dingalinged.workers.dev/market/ | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html

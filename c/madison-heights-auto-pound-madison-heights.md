@@ -1,0 +1,24 @@
+Madison Heights Auto Pound is an auto repair shop in Madison Heights, MI at 789 Ajax Drive, Madison Heights, MI 48071.
+
+# Madison Heights Auto Pound
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 789 Ajax Drive, Madison Heights, MI 48071
+- City: Madison Heights
+- State: MI
+- ZIP: 48071
+- Coordinates: 42.5106883, -83.11293
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.9/100 — Unrated (not enough evidence yet) — top 50% of auto repair shops in Detroit, MI, #5 of 13 auto repair shops in Madison Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 48.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/madison-heights-auto-pound-madison-heights/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/madison-heights-auto-pound-madison-heights.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6007391071 (license ODbL-1.0); source data as of 2026-05-31
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

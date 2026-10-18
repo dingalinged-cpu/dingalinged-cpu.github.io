@@ -1,0 +1,58 @@
+Keyword market for Milford, OH: 60 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Cincinnati, OH-KY-IN metro (US volume x population share).
+
+# Top keywords in Milford, OH
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json
+
+## By monthly searches
+1. massage milford oh | searches/mo 34,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $160,000 | Google Ads equiv $9,000/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/massage-milford-oh/
+2. urgent care milford oh | searches/mo 19,000 (est) | CPC $4.76 | value $90,000 | Google Ads equiv $6,100/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/urgent-care-milford-oh/
+3. car wash milford oh | searches/mo 12,000 (est) | CPC $4.35 | value $52,000 | Google Ads equiv $2,900/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/car-wash-milford-oh/
+4. dentist milford oh | searches/mo 12,000 (est) | CPC $4.70 | value $56,000 | Google Ads equiv $3,100/mo | our featured min $100/mo | registry competitors 5 | https://registry-edge.dingalinged.workers.dev/k/dentist-milford-oh/
+5. gym milford oh | searches/mo 12,000 (est) | CPC $1.67 | value $20,000 | Google Ads equiv $1,400/mo | our featured min $50/mo | registry competitors 6 | https://registry-edge.dingalinged.workers.dev/k/gym-milford-oh/
+6. hair salon milford oh | searches/mo 10,000 (est) | CPC $0.55 | value $5,500 | Google Ads equiv $310/mo | our featured min $50/mo | registry competitors 10 | https://registry-edge.dingalinged.workers.dev/k/hair-salon-milford-oh/
+7. nail salon milford oh | searches/mo 6,800 (est) | CPC $0.61 | value $4,100 | Google Ads equiv $240/mo | our featured min $50/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/nail-salon-milford-oh/
+8. mechanic milford oh | searches/mo 4,600 (est) | CPC $4.35 | value $20,000 | Google Ads equiv $1,100/mo | our featured min $20/mo | registry competitors 10 | https://registry-edge.dingalinged.workers.dev/k/mechanic-milford-oh/
+9. tire shop milford oh | searches/mo 3,700 (est) | CPC $4.35 | value $16,000 | Google Ads equiv $890/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/tire-shop-milford-oh/
+10. vet milford oh | searches/mo 3,700 (est) | CPC $4.06 | value $15,000 | Google Ads equiv $990/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/vet-milford-oh/
+11. dog groomer milford oh | searches/mo 3,000 (est) | CPC $4.06 | value $12,000 | Google Ads equiv $800/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dog-groomer-milford-oh/
+12. haircut milford oh | searches/mo 2,500 (est) | CPC $4.62 | value $12,000 | Google Ads equiv $660/mo | our featured min $50/mo | registry competitors 10 | https://registry-edge.dingalinged.workers.dev/k/haircut-milford-oh/
+13. auto repair milford oh | searches/mo 2,000 (est) | CPC $4.35 | value $8,700 | Google Ads equiv $480/mo | our featured min $20/mo | registry competitors 10 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-milford-oh/
+14. dog boarding milford oh | searches/mo 1,700 (est) | CPC $4.06 | value $6,900 | Google Ads equiv $450/mo | our featured min $20/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/dog-boarding-milford-oh/
+15. financial advisor milford oh | searches/mo 1,700 (est) | CPC $3.39 | value $5,800 | Google Ads equiv $480/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/financial-advisor-milford-oh/
+
+## By CPC
+1. hvac repair milford oh | searches/mo 500 (est) | CPC $17.76 | value $8,900 | Google Ads equiv $570/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/hvac-repair-milford-oh/
+2. roofing contractor milford oh | searches/mo 910 (est) | CPC $11.79 | value $11,000 | Google Ads equiv $680/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-milford-oh/
+3. roofer milford oh | searches/mo 330 (est) | CPC $10.70 | value $3,500 | Google Ads equiv $220/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/roofer-milford-oh/
+4. attorney milford oh | searches/mo 500 (est) | CPC $9.87 | value $4,900 | Google Ads equiv $290/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/attorney-milford-oh/
+5. lawyer milford oh | searches/mo 330 (est) | CPC $9.87 | value $3,300 | Google Ads equiv $190/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/lawyer-milford-oh/
+6. landscaping milford oh | searches/mo 1,400 (est) | CPC $8.76 | value $12,000 | Google Ads equiv $780/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/landscaping-milford-oh/
+7. window repair milford oh | searches/mo 270 (est) | CPC $8.76 | value $2,400 | Google Ads equiv $150/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/window-repair-milford-oh/
+8. architect milford oh | searches/mo 270 (est) | CPC $8.33 | value $2,200 | Google Ads equiv $140/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/architect-milford-oh/
+9. heating and air milford oh | searches/mo 24.00 (est) | CPC $8.33 | value $200 | Google Ads equiv $13.00/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/heating-and-air-milford-oh/
+10. storage units milford oh | searches/mo 1,500 (est) | CPC $8.33 | value $12,000 | Google Ads equiv $800/mo | our featured min $50/mo | registry competitors 6 | https://registry-edge.dingalinged.workers.dev/k/storage-units-milford-oh/
+11. bakery milford oh | searches/mo 1,500 (est) | CPC $7.17 | value $11,000 | Google Ads equiv $830/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/bakery-milford-oh/
+12. caterers milford oh | searches/mo 1,500 (est) | CPC $7.17 | value $11,000 | Google Ads equiv $830/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/caterers-milford-oh/
+13. event venues milford oh | searches/mo 1,500 (est) | CPC $7.17 | value $11,000 | Google Ads equiv $830/mo | our featured min $20/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/event-venues-milford-oh/
+14. photographer milford oh | searches/mo 1,500 (est) | CPC $7.17 | value $11,000 | Google Ads equiv $830/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/photographer-milford-oh/
+15. dance studio milford oh | searches/mo 270 (est) | CPC $6.17 | value $1,700 | Google Ads equiv $120/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dance-studio-milford-oh/
+
+## By value (searches x CPC)
+1. massage milford oh | searches/mo 34,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $160,000 | Google Ads equiv $9,000/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/massage-milford-oh/
+2. urgent care milford oh | searches/mo 19,000 (est) | CPC $4.76 | value $90,000 | Google Ads equiv $6,100/mo | our featured min $50/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/urgent-care-milford-oh/
+3. dentist milford oh | searches/mo 12,000 (est) | CPC $4.70 | value $56,000 | Google Ads equiv $3,100/mo | our featured min $100/mo | registry competitors 5 | https://registry-edge.dingalinged.workers.dev/k/dentist-milford-oh/
+4. car wash milford oh | searches/mo 12,000 (est) | CPC $4.35 | value $52,000 | Google Ads equiv $2,900/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/car-wash-milford-oh/
+5. gym milford oh | searches/mo 12,000 (est) | CPC $1.67 | value $20,000 | Google Ads equiv $1,400/mo | our featured min $50/mo | registry competitors 6 | https://registry-edge.dingalinged.workers.dev/k/gym-milford-oh/
+6. mechanic milford oh | searches/mo 4,600 (est) | CPC $4.35 | value $20,000 | Google Ads equiv $1,100/mo | our featured min $20/mo | registry competitors 10 | https://registry-edge.dingalinged.workers.dev/k/mechanic-milford-oh/
+7. tire shop milford oh | searches/mo 3,700 (est) | CPC $4.35 | value $16,000 | Google Ads equiv $890/mo | our featured min $20/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/tire-shop-milford-oh/
+8. vet milford oh | searches/mo 3,700 (est) | CPC $4.06 | value $15,000 | Google Ads equiv $990/mo | our featured min $20/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/vet-milford-oh/
+9. dog groomer milford oh | searches/mo 3,000 (est) | CPC $4.06 | value $12,000 | Google Ads equiv $800/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dog-groomer-milford-oh/
+10. haircut milford oh | searches/mo 2,500 (est) | CPC $4.62 | value $12,000 | Google Ads equiv $660/mo | our featured min $50/mo | registry competitors 10 | https://registry-edge.dingalinged.workers.dev/k/haircut-milford-oh/
+11. landscaping milford oh | searches/mo 1,400 (est) | CPC $8.76 | value $12,000 | Google Ads equiv $780/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/landscaping-milford-oh/
+12. roofing contractor milford oh | searches/mo 910 (est) | CPC $11.79 | value $11,000 | Google Ads equiv $680/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-milford-oh/
+13. hvac repair milford oh | searches/mo 500 (est) | CPC $17.76 | value $8,900 | Google Ads equiv $570/mo | our featured min $100/mo | registry competitors 2 | https://registry-edge.dingalinged.workers.dev/k/hvac-repair-milford-oh/
+14. auto repair milford oh | searches/mo 2,000 (est) | CPC $4.35 | value $8,700 | Google Ads equiv $480/mo | our featured min $20/mo | registry competitors 10 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-milford-oh/
+15. dog boarding milford oh | searches/mo 1,700 (est) | CPC $4.06 | value $6,900 | Google Ads equiv $450/mo | our featured min $20/mo | registry competitors 4 | https://registry-edge.dingalinged.workers.dev/k/dog-boarding-milford-oh/
+
+All market data: https://registry-edge.dingalinged.workers.dev/market/ | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html

@@ -1,0 +1,125 @@
+{
+ "title": "Keyword market data: Cherry Hills Village, CO",
+ "description": "Top Cherry Hills Village, CO service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
+ "updated": "2026-10-18",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
+ "place": "Cherry Hills Village, CO",
+ "geography": "Denver-Aurora-Centennial, CO metro",
+ "keywords": 3,
+ "lists": {
+  "by_volume": [
+   {
+    "keyword": "hair salon cherry hills village co",
+    "slug": "hair-salon-cherry-hills-village-co",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-cherry-hills-village-co/",
+    "us_monthly_searches": 1500000,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 14000,
+    "cpc_basis_usd": 0.55,
+    "cpc_median_usd": 4.62,
+    "search_value_index_usd": 7700,
+    "equivalent_google_ads_cost_month_usd": 440,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_volume"
+   },
+   {
+    "keyword": "haircut cherry hills village co",
+    "slug": "haircut-cherry-hills-village-co",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-cherry-hills-village-co/",
+    "us_monthly_searches": 368000,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 3300,
+    "cpc_basis_usd": 4.62,
+    "cpc_median_usd": 4.62,
+    "search_value_index_usd": 15000,
+    "equivalent_google_ads_cost_month_usd": 870,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_volume"
+   }
+  ],
+  "by_cpc": [
+   {
+    "keyword": "preschool cherry hills village co",
+    "slug": "preschool-cherry-hills-village-co",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/preschool-cherry-hills-village-co/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "local_monthly_searches_est": 2000,
+    "cpc_basis_usd": 4.81,
+    "cpc_median_usd": 4.81,
+    "search_value_index_usd": 9600,
+    "equivalent_google_ads_cost_month_usd": 550,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "haircut cherry hills village co",
+    "slug": "haircut-cherry-hills-village-co",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-cherry-hills-village-co/",
+    "us_monthly_searches": 368000,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 3300,
+    "cpc_basis_usd": 4.62,
+    "cpc_median_usd": 4.62,
+    "search_value_index_usd": 15000,
+    "equivalent_google_ads_cost_month_usd": 870,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "hair salon cherry hills village co",
+    "slug": "hair-salon-cherry-hills-village-co",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-cherry-hills-village-co/",
+    "us_monthly_searches": 1500000,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 14000,
+    "cpc_basis_usd": 0.55,
+    "cpc_median_usd": 4.62,
+    "search_value_index_usd": 7700,
+    "equivalent_google_ads_cost_month_usd": 440,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   }
+  ],
+  "by_value": [
+   {
+    "keyword": "haircut cherry hills village co",
+    "slug": "haircut-cherry-hills-village-co",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-cherry-hills-village-co/",
+    "us_monthly_searches": 368000,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 3300,
+    "cpc_basis_usd": 4.62,
+    "cpc_median_usd": 4.62,
+    "search_value_index_usd": 15000,
+    "equivalent_google_ads_cost_month_usd": 870,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_value"
+   },
+   {
+    "keyword": "hair salon cherry hills village co",
+    "slug": "hair-salon-cherry-hills-village-co",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-cherry-hills-village-co/",
+    "us_monthly_searches": 1500000,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 14000,
+    "cpc_basis_usd": 0.55,
+    "cpc_median_usd": 4.62,
+    "search_value_index_usd": 7700,
+    "equivalent_google_ads_cost_month_usd": 440,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_value"
+   }
+  ]
+ },
+ "license": {
+  "keyword_metrics": "© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution"
+ }
+}
